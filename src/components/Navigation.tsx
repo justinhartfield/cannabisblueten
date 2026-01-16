@@ -72,11 +72,18 @@ export function Navigation({ activeSection }: NavigationProps) {
 
           {/* Right Side Actions */}
           <div className="flex items-center gap-4">
-            <button className="hidden sm:block px-4 py-2 text-sm font-semibold text-clinical-800 hover:bg-clinical-50 rounded-full transition-all">
-              Hilfe
-            </button>
             <a
-              href="#"
+              href="https://weed.de/faq"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hidden sm:block px-4 py-2 text-sm font-semibold text-clinical-800 hover:bg-clinical-50 rounded-full transition-all"
+            >
+              Hilfe
+            </a>
+            <a
+              href="https://weed.de/patient-werden"
+              target="_blank"
+              rel="noopener noreferrer"
               className="bg-clinical-800 text-white px-5 py-2 text-sm font-semibold rounded-full hover:bg-clinical-900 transition-all shadow-lg shadow-clinical-800/20"
             >
               Rezept einlösen
