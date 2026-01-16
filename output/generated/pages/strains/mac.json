@@ -1,0 +1,276 @@
+{
+  "strain": {
+    "slug": "mac",
+    "name": "MAC",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Creative",
+      "Euphoric",
+      "Relaxed",
+      "Activating",
+      "Stress-relief",
+      "Pain-relief"
+    ],
+    "tastes": [
+      "Flowery",
+      "Earthy",
+      "Spicy"
+    ],
+    "terpenes": [
+      "Pinene",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "MAC (Miracle Alien Cookies) ist eine Hybrid-Sorte, entstanden aus der Kreuzung von Alien Cookies und Starfighter. Mit einem THC-Gehalt, der typischerweise zwischen 16% und 28% liegt, und einem CBD-Wert von unter 1% liefert sie bemerkenswerte Effekte, die sowohl körperliche als auch geistige Entspannung bieten. \nIhr komplexes Geschmacksprofil ist geprägt von erdigen Noten, würzigen Zitrusnuancen und einem Hauch von Blumen. Das Terpenprofil, das von Pinene, Limonen und Beta-Caryophyllen dominiert wird, was das Aroma mit harzigen, zitrusartigen und scharfen Nuancen unterstreicht. \nDie Wirkung verursacht eine kraftvolle euphorische Stimulation, die den Geist anregt und die Kreativität fördert. Gleichzeitig sorgt MAC für eine tiefe körperliche Entspannung und ein angenehmes Gefühl der Gelassenheit. MAC ist ideal, um Stress und chronische Schmerzen zu lindern, da sie eine vielseitige Wirkung für tagsüber und abends bietet. Zusammengefasst ist MAC eine Sorte für alle, die ein komplexes, blumig-würziges Aroma mit einem potenten, kreativen und ausgleichenden High suchen.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 4,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 295,
+      "max": 650,
+      "formatted": {
+        "min": "2,95 €",
+        "max": "6,50 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "canify-cannabis-flos-201-co-ku-mac",
+      "name": "Canify Cannabis flos 20/1 CO Ku. MAC",
+      "brandName": "Canify",
+      "thcPercent": 20,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "sibanax-mcf-201-mac-fem",
+      "name": "Sibanax MCF 20/1 Mac Fem",
+      "brandName": "Heyday",
+      "thcPercent": 20,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "sibanax-hybrid-mcf-281",
+      "name": "Sibanax Hybrid MCF 28/1",
+      "brandName": "Heyday",
+      "thcPercent": 28,
+      "priceMin": 429,
+      "inStock": true
+    },
+    {
+      "slug": "luana-161-mac",
+      "name": "Luana 16/1 MAC",
+      "brandName": "Cannamedical",
+      "thcPercent": 16,
+      "priceMin": 295,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "wonder-punch",
+      "name": "Wonder Punch",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "alien-mints",
+      "name": "Alien Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "lemonatti",
+      "name": "Lemonatti",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "purple-amnesia",
+      "name": "Purple Amnesia",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "peanut-butter-breath",
+      "name": "Peanut Butter Breath",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "MAC (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "MAC: Creative, Euphoric, Relaxed. 4 Produkte verfügbar. ab 2,95 €.",
+      "canonical": "https://weed.de/strain/mac",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "MAC (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "MAC: Creative, Euphoric, Relaxed. 4 Produkte verfügbar. ab 2,95 €.",
+        "url": "https://weed.de/strain/mac",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "MAC",
+        "href": "https://weed.de/strain/mac"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "MAC",
+            "item": "https://weed.de/strain/mac"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "MAC Produkte",
+        "numberOfItems": 4,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/canify-cannabis-flos-201-co-ku-mac",
+            "name": "Canify Cannabis flos 20/1 CO Ku. MAC"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/sibanax-mcf-201-mac-fem",
+            "name": "Sibanax MCF 20/1 Mac Fem"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/sibanax-hybrid-mcf-281",
+            "name": "Sibanax Hybrid MCF 28/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/product/luana-161-mac",
+            "name": "Luana 16/1 MAC"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/canify-cannabis-flos-201-co-ku-mac",
+        "text": "Canify Cannabis flos 20/1 CO Ku. MAC",
+        "title": "Canify Cannabis flos 20/1 CO Ku. MAC von Canify"
+      },
+      {
+        "href": "/product/sibanax-mcf-201-mac-fem",
+        "text": "Sibanax MCF 20/1 Mac Fem",
+        "title": "Sibanax MCF 20/1 Mac Fem von Heyday"
+      },
+      {
+        "href": "/product/sibanax-hybrid-mcf-281",
+        "text": "Sibanax Hybrid MCF 28/1",
+        "title": "Sibanax Hybrid MCF 28/1 von Heyday"
+      },
+      {
+        "href": "/product/luana-161-mac",
+        "text": "Luana 16/1 MAC",
+        "title": "Luana 16/1 MAC von Cannamedical"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/wonder-punch",
+        "text": "Wonder Punch",
+        "title": "Wonder Punch - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/alien-mints",
+        "text": "Alien Mints",
+        "title": "Alien Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/lemonatti",
+        "text": "Lemonatti",
+        "title": "Lemonatti - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/purple-amnesia",
+        "text": "Purple Amnesia",
+        "title": "Purple Amnesia - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/peanut-butter-breath",
+        "text": "Peanut Butter Breath",
+        "title": "Peanut Butter Breath - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/pinene",
+        "text": "Pinene",
+        "title": "Pinene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

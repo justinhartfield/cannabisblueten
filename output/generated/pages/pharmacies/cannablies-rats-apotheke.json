@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "cannablies-rats-apotheke",
+    "name": "Cannablies / Rats-Apotheke",
+    "street": "Zweibrücker Straße 10",
+    "zip": "66440",
+    "cityName": "Blieskastel",
+    "state": "Saarland",
+    "lat": 49.23710390000001,
+    "lng": 7.2591375,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://Cannablies.de",
+    "phone": "068425100848",
+    "email": "bestellung@cannablies.de",
+    "productCount": 90,
+    "rating": 5,
+    "ratingCount": 1,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/6821bfd52ebfb255bb9da182-j9916j.jpg"
+  },
+  "city": {
+    "slug": "blieskastel",
+    "name": "Blieskastel",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "markus-apotheke-saarbruecken",
+      "name": "Markus Apotheke Saarbrücken",
+      "cityName": "Saarbrücken",
+      "productCount": 102,
+      "hasDelivery": false
+    },
+    {
+      "slug": "stadt-apotheke-saarbruecken",
+      "name": "Cannatopie.de by Stadt Apotheke Saarbrücken",
+      "cityName": "Saarbrücken",
+      "productCount": 54,
+      "hasDelivery": true
+    },
+    {
+      "slug": "landmann-apotheke-oliver-blank-saarbruecken",
+      "name": "Landmann Apotheke Oliver Blank Saarbrücken",
+      "cityName": "Saarbrücken",
+      "productCount": 19,
+      "hasDelivery": false
+    },
+    {
+      "slug": "apotheke-am-bitscher-platz",
+      "name": "Apotheke am Bitscher Platz",
+      "cityName": "Lebach",
+      "productCount": 0,
+      "hasDelivery": false
+    },
+    {
+      "slug": "abtei-apotheke",
+      "name": "Abtei Apotheke",
+      "cityName": "Wadgassen",
+      "productCount": 0,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannablies / Rats-Apotheke - Cannabis Apotheke in Blieskastel",
+      "description": "Cannablies / Rats-Apotheke in Blieskastel. 90 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/cannablies-rats-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannablies / Rats-Apotheke - Cannabis Apotheke in Blieskastel",
+        "description": "Cannablies / Rats-Apotheke in Blieskastel. 90 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/cannablies-rats-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/6821bfd52ebfb255bb9da182-j9916j.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Blieskastel",
+        "href": "https://weed.de/cannabis-apotheke/blieskastel"
+      },
+      {
+        "name": "Cannablies / Rats-Apotheke",
+        "href": "https://weed.de/apotheke/cannablies-rats-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Blieskastel",
+            "item": "https://weed.de/cannabis-apotheke/blieskastel"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Cannablies / Rats-Apotheke",
+            "item": "https://weed.de/apotheke/cannablies-rats-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Cannablies / Rats-Apotheke",
+        "url": "https://weed.de/apotheke/cannablies-rats-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Zweibrücker Straße 10",
+          "addressLocality": "Blieskastel",
+          "postalCode": "66440",
+          "addressRegion": "Saarland",
+          "addressCountry": "DE"
+        },
+        "telephone": "068425100848",
+        "email": "bestellung@cannablies.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/blieskastel",
+      "text": "Cannabis Apotheken in Blieskastel",
+      "title": "Alle Apotheken in Blieskastel"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/markus-apotheke-saarbruecken",
+        "text": "Markus Apotheke Saarbrücken",
+        "title": "Markus Apotheke Saarbrücken in Saarbrücken"
+      },
+      {
+        "href": "/apotheke/stadt-apotheke-saarbruecken",
+        "text": "Cannatopie.de by Stadt Apotheke Saarbrücken",
+        "title": "Cannatopie.de by Stadt Apotheke Saarbrücken in Saarbrücken"
+      },
+      {
+        "href": "/apotheke/landmann-apotheke-oliver-blank-saarbruecken",
+        "text": "Landmann Apotheke Oliver Blank Saarbrücken",
+        "title": "Landmann Apotheke Oliver Blank Saarbrücken in Saarbrücken"
+      },
+      {
+        "href": "/apotheke/apotheke-am-bitscher-platz",
+        "text": "Apotheke am Bitscher Platz",
+        "title": "Apotheke am Bitscher Platz in Lebach"
+      },
+      {
+        "href": "/apotheke/abtei-apotheke",
+        "text": "Abtei Apotheke",
+        "title": "Abtei Apotheke in Wadgassen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

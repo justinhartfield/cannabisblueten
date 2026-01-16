@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "giebel-apotheke",
+    "name": "Giebel Apotheke",
+    "street": "Ernst-Reuter-Platz 2",
+    "zip": "70499",
+    "cityName": "Stuttgart",
+    "state": "Baden-Württemberg",
+    "lat": 48.8035564,
+    "lng": 9.091073399999999,
+    "hasDelivery": false,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://www.weedapo24.de",
+    "phone": "0711865555",
+    "email": "info@giebelapotheke.de",
+    "productCount": 3,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/69285fa7d631969662a10215-ga6467.jpg"
+  },
+  "city": {
+    "slug": "stuttgart",
+    "name": "Stuttgart",
+    "pharmacyCount": 6
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "stuttgart-cannabis-alte-apotheke-untertuerkheim",
+      "name": "Stuttgart Cannabis - Alte Apotheke Untertürkheim",
+      "cityName": "Stuttgart",
+      "productCount": 48,
+      "hasDelivery": true
+    },
+    {
+      "slug": "park-apotheke-stuttgart",
+      "name": "Park-Apotheke Stuttgart",
+      "cityName": "Stuttgart",
+      "productCount": 40,
+      "hasDelivery": false
+    },
+    {
+      "slug": "apotheke-im-otto-hirsch-center",
+      "name": "Apotheke im Otto Hirsch Center",
+      "cityName": "Stuttgart",
+      "productCount": 36,
+      "hasDelivery": true
+    },
+    {
+      "slug": "internationale-apotheke-stuttgart",
+      "name": "Internationale Apotheke Stuttgart",
+      "cityName": "Stuttgart",
+      "productCount": 4,
+      "hasDelivery": true
+    },
+    {
+      "slug": "stoeckach-apotheke",
+      "name": "Stöckach-Apotheke",
+      "cityName": "Stuttgart",
+      "productCount": 0,
+      "hasDelivery": false
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Giebel Apotheke - Cannabis Apotheke in Stuttgart",
+      "description": "Giebel Apotheke in Stuttgart. 3 Cannabis Produkte. Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/giebel-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Giebel Apotheke - Cannabis Apotheke in Stuttgart",
+        "description": "Giebel Apotheke in Stuttgart. 3 Cannabis Produkte. Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/giebel-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/69285fa7d631969662a10215-ga6467.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Stuttgart",
+        "href": "https://weed.de/cannabis-apotheke/stuttgart"
+      },
+      {
+        "name": "Giebel Apotheke",
+        "href": "https://weed.de/apotheke/giebel-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Stuttgart",
+            "item": "https://weed.de/cannabis-apotheke/stuttgart"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Giebel Apotheke",
+            "item": "https://weed.de/apotheke/giebel-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Giebel Apotheke",
+        "url": "https://weed.de/apotheke/giebel-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Ernst-Reuter-Platz 2",
+          "addressLocality": "Stuttgart",
+          "postalCode": "70499",
+          "addressRegion": "Baden-Württemberg",
+          "addressCountry": "DE"
+        },
+        "telephone": "0711865555",
+        "email": "info@giebelapotheke.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/stuttgart",
+      "text": "Cannabis Apotheken in Stuttgart",
+      "title": "Alle Apotheken in Stuttgart"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/stuttgart-cannabis-alte-apotheke-untertuerkheim",
+        "text": "Stuttgart Cannabis - Alte Apotheke Untertürkheim",
+        "title": "Stuttgart Cannabis - Alte Apotheke Untertürkheim in Stuttgart"
+      },
+      {
+        "href": "/apotheke/park-apotheke-stuttgart",
+        "text": "Park-Apotheke Stuttgart",
+        "title": "Park-Apotheke Stuttgart in Stuttgart"
+      },
+      {
+        "href": "/apotheke/apotheke-im-otto-hirsch-center",
+        "text": "Apotheke im Otto Hirsch Center",
+        "title": "Apotheke im Otto Hirsch Center in Stuttgart"
+      },
+      {
+        "href": "/apotheke/internationale-apotheke-stuttgart",
+        "text": "Internationale Apotheke Stuttgart",
+        "title": "Internationale Apotheke Stuttgart in Stuttgart"
+      },
+      {
+        "href": "/apotheke/stoeckach-apotheke",
+        "text": "Stöckach-Apotheke",
+        "title": "Stöckach-Apotheke in Stuttgart"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

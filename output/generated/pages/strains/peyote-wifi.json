@@ -1,0 +1,235 @@
+{
+  "strain": {
+    "slug": "peyote-wifi",
+    "name": "Peyote Wifi",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Creative",
+      "Focused",
+      "Euphoric"
+    ],
+    "tastes": [
+      "Diesel",
+      "Coffee",
+      "Herbal"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 349,
+      "max": 584,
+      "formatted": {
+        "min": "3,49 €",
+        "max": "5,84 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "remexian-271-hma-pyw",
+      "name": "Remexian 27/1 HMA PYW",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 27,
+      "priceMin": 449,
+      "inStock": true
+    },
+    {
+      "slug": "remexian-241-hma-pyw",
+      "name": "Remexian 24/1 HMA PYW",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 24,
+      "priceMin": 349,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "alien-mints",
+      "name": "Alien Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "wedding-pop-triangle",
+      "name": "Wedding Pop Triangle",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "mellowz",
+      "name": "Mellowz",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "pink-lilac",
+      "name": "Pink Lilac",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "diamond-mints",
+      "name": "Diamond Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Peyote Wifi (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Peyote Wifi: Creative, Focused, Euphoric. 2 Produkte verfügbar. ab 3,49 €.",
+      "canonical": "https://weed.de/strain/peyote-wifi",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Peyote Wifi (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Peyote Wifi: Creative, Focused, Euphoric. 2 Produkte verfügbar. ab 3,49 €.",
+        "url": "https://weed.de/strain/peyote-wifi",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Peyote Wifi",
+        "href": "https://weed.de/strain/peyote-wifi"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Peyote Wifi",
+            "item": "https://weed.de/strain/peyote-wifi"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Peyote Wifi Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/remexian-271-hma-pyw",
+            "name": "Remexian 27/1 HMA PYW"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/remexian-241-hma-pyw",
+            "name": "Remexian 24/1 HMA PYW"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/remexian-271-hma-pyw",
+        "text": "Remexian 27/1 HMA PYW",
+        "title": "Remexian 27/1 HMA PYW von Remexian Pharma"
+      },
+      {
+        "href": "/product/remexian-241-hma-pyw",
+        "text": "Remexian 24/1 HMA PYW",
+        "title": "Remexian 24/1 HMA PYW von Remexian Pharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/alien-mints",
+        "text": "Alien Mints",
+        "title": "Alien Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/wedding-pop-triangle",
+        "text": "Wedding Pop Triangle",
+        "title": "Wedding Pop Triangle - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/mellowz",
+        "text": "Mellowz",
+        "title": "Mellowz - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/pink-lilac",
+        "text": "Pink Lilac",
+        "title": "Pink Lilac - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/diamond-mints",
+        "text": "Diamond Mints",
+        "title": "Diamond Mints - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

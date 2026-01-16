@@ -1,0 +1,236 @@
+{
+  "strain": {
+    "slug": "orange-cake",
+    "name": "Orange Cake",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Calming",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Citrus",
+      "Sweet",
+      "Spicy-Herbal",
+      "Creamy"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Pinene",
+      "Limonene"
+    ],
+    "description": "Orange Cake ist eine Indica-dominante Hybrid Sorte, mit hohem THC-Gehalt. Entstanden ist die fruchtige, ausgewogene Strain aus der Kreuzung von Mimosa und Orangeade. Ihr Terpen-Profil wird dominiert von Myrcen, Pinen und Limonen welche gemeinsame eine wunderbare Komposition aus zitrusartige und süße Aromen ergeben aus, die durch pikante und cremigen Noten ergänzt werden. Bei den potenziellen  therapeutischen Eigenschaften berichten Patienten von einer beruhigenden Wirkung und Linderung von Schlafstörungen und Schmerzen.",
+    "imageUrl": "/strains/64527ca0015091f87be0bec7-16f3j8.jpeg"
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 745,
+      "max": 1099,
+      "formatted": {
+        "min": "7,45 €",
+        "max": "10,99 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "lot-420-oc",
+      "name": "LOT 420 OC",
+      "brandName": "Cantourage",
+      "thcPercent": 26,
+      "priceMin": 745,
+      "inStock": true
+    },
+    {
+      "slug": "lot-42-oc-pt",
+      "name": "LOT 420 OC PT",
+      "brandName": "Cantourage",
+      "thcPercent": 26,
+      "priceMin": 899,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "grape-mac",
+      "name": "Grape MAC",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "white-gorilla",
+      "name": "White Gorilla",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "titan-f1",
+      "name": "Titan F1",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "moon-berry",
+      "name": "Moon Berry",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "gas-cake",
+      "name": "Gas Cake",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Orange Cake (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Orange Cake: Calming, Relaxed. 2 Produkte verfügbar. ab 7,45 €.",
+      "canonical": "https://weed.de/strain/orange-cake",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Orange Cake (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Orange Cake: Calming, Relaxed. 2 Produkte verfügbar. ab 7,45 €.",
+        "url": "https://weed.de/strain/orange-cake",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "/strains/64527ca0015091f87be0bec7-16f3j8.jpeg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Orange Cake",
+        "href": "https://weed.de/strain/orange-cake"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Orange Cake",
+            "item": "https://weed.de/strain/orange-cake"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Orange Cake Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/lot-420-oc",
+            "name": "LOT 420 OC"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/lot-42-oc-pt",
+            "name": "LOT 420 OC PT"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/lot-420-oc",
+        "text": "LOT 420 OC",
+        "title": "LOT 420 OC von Cantourage"
+      },
+      {
+        "href": "/product/lot-42-oc-pt",
+        "text": "LOT 420 OC PT",
+        "title": "LOT 420 OC PT von Cantourage"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/grape-mac",
+        "text": "Grape MAC",
+        "title": "Grape MAC - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/white-gorilla",
+        "text": "White Gorilla",
+        "title": "White Gorilla - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/titan-f1",
+        "text": "Titan F1",
+        "title": "Titan F1 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/moon-berry",
+        "text": "Moon Berry",
+        "title": "Moon Berry - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/gas-cake",
+        "text": "Gas Cake",
+        "title": "Gas Cake - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/pinene",
+        "text": "Pinene",
+        "title": "Pinene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

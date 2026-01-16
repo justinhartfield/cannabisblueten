@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "arkaden-apotheke",
+    "name": "Arkaden-Apotheke",
+    "street": "Ritterbrunnen 1",
+    "zip": "38100",
+    "cityName": "Braunschweig",
+    "state": "Niedersachsen",
+    "lat": 52.2639202,
+    "lng": 10.5288666,
+    "hasDelivery": false,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": null,
+    "phone": "05311205590",
+    "email": "cannabis@arkapo.de",
+    "productCount": 3,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/677e4a93eb817892316d6303-67a8hf.jpg"
+  },
+  "city": {
+    "slug": "braunschweig",
+    "name": "Braunschweig",
+    "pharmacyCount": 2
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "canna-by-apotheca-hagenmarkt",
+      "name": "Canna by apotheca (Hagenmarkt)",
+      "cityName": "Braunschweig",
+      "productCount": 13,
+      "hasDelivery": true
+    },
+    {
+      "slug": "alle-farben-apotheke",
+      "name": "Alle Farben Apotheke",
+      "cityName": "Melle",
+      "productCount": 132,
+      "hasDelivery": true
+    },
+    {
+      "slug": "happy-cannamed",
+      "name": "Marien Apotheke",
+      "cityName": "Cloppenburg",
+      "productCount": 61,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannanord",
+      "name": "CannaNord",
+      "cityName": "Oldenburg",
+      "productCount": 55,
+      "hasDelivery": true
+    },
+    {
+      "slug": "easycannabis-easyapotheke-citylebenstedt",
+      "name": "EasyCannabis easyApotheke CityLebenstedt",
+      "cityName": "Salzgitter",
+      "productCount": 40,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Arkaden-Apotheke - Cannabis Apotheke in Braunschweig",
+      "description": "Arkaden-Apotheke in Braunschweig. 3 Cannabis Produkte. Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/arkaden-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Arkaden-Apotheke - Cannabis Apotheke in Braunschweig",
+        "description": "Arkaden-Apotheke in Braunschweig. 3 Cannabis Produkte. Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/arkaden-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/677e4a93eb817892316d6303-67a8hf.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Braunschweig",
+        "href": "https://weed.de/cannabis-apotheke/braunschweig"
+      },
+      {
+        "name": "Arkaden-Apotheke",
+        "href": "https://weed.de/apotheke/arkaden-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Braunschweig",
+            "item": "https://weed.de/cannabis-apotheke/braunschweig"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Arkaden-Apotheke",
+            "item": "https://weed.de/apotheke/arkaden-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Arkaden-Apotheke",
+        "url": "https://weed.de/apotheke/arkaden-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Ritterbrunnen 1",
+          "addressLocality": "Braunschweig",
+          "postalCode": "38100",
+          "addressRegion": "Niedersachsen",
+          "addressCountry": "DE"
+        },
+        "telephone": "05311205590",
+        "email": "cannabis@arkapo.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/braunschweig",
+      "text": "Cannabis Apotheken in Braunschweig",
+      "title": "Alle Apotheken in Braunschweig"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/canna-by-apotheca-hagenmarkt",
+        "text": "Canna by apotheca (Hagenmarkt)",
+        "title": "Canna by apotheca (Hagenmarkt) in Braunschweig"
+      },
+      {
+        "href": "/apotheke/alle-farben-apotheke",
+        "text": "Alle Farben Apotheke",
+        "title": "Alle Farben Apotheke in Melle"
+      },
+      {
+        "href": "/apotheke/happy-cannamed",
+        "text": "Marien Apotheke",
+        "title": "Marien Apotheke in Cloppenburg"
+      },
+      {
+        "href": "/apotheke/cannanord",
+        "text": "CannaNord",
+        "title": "CannaNord in Oldenburg"
+      },
+      {
+        "href": "/apotheke/easycannabis-easyapotheke-citylebenstedt",
+        "text": "EasyCannabis easyApotheke CityLebenstedt",
+        "title": "EasyCannabis easyApotheke CityLebenstedt in Salzgitter"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

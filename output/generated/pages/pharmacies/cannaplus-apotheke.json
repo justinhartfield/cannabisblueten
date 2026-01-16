@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "cannaplus-apotheke",
+    "name": "Cannaplus Apotheke",
+    "street": "Bleicherbreite 21",
+    "zip": "86154",
+    "cityName": "Augsburg",
+    "state": "Bayern",
+    "lat": 48.39262249999999,
+    "lng": 10.8775749,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": null,
+    "phone": "082144817756",
+    "email": "Bestellung@cannaplus-apotheke.de",
+    "productCount": 186,
+    "rating": 4,
+    "ratingCount": 10,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/6734538ac05394da7e83994b-eb1h59.jpg"
+  },
+  "city": {
+    "slug": "augsburg",
+    "name": "Augsburg",
+    "pharmacyCount": 6
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "cannabisapo24",
+      "name": "Cannabisapo24",
+      "cityName": "Augsburg",
+      "productCount": 364,
+      "hasDelivery": true
+    },
+    {
+      "slug": "augusta-apotheke",
+      "name": "Augusta Apotheke",
+      "cityName": "Augsburg",
+      "productCount": 100,
+      "hasDelivery": true
+    },
+    {
+      "slug": "bessergesund-ohg-ipunkt-apotheke",
+      "name": "bessergesund OHG ipunkt Apotheke",
+      "cityName": "Augsburg",
+      "productCount": 22,
+      "hasDelivery": true
+    },
+    {
+      "slug": "hochfeld-apotheke-1",
+      "name": "HIGH FIELD by Hochfeld-Apotheke",
+      "cityName": "Augsburg",
+      "productCount": 16,
+      "hasDelivery": false
+    },
+    {
+      "slug": "hochfeld-apotheke",
+      "name": "HighField (by Hochfeld-Apotheke)",
+      "cityName": "Augsburg",
+      "productCount": 0,
+      "hasDelivery": false
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannaplus Apotheke - Cannabis Apotheke in Augsburg",
+      "description": "Cannaplus Apotheke in Augsburg. 186 Cannabis Produkte. Lieferung & Abholung. Bewertung: 4.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/cannaplus-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannaplus Apotheke - Cannabis Apotheke in Augsburg",
+        "description": "Cannaplus Apotheke in Augsburg. 186 Cannabis Produkte. Lieferung & Abholung. Bewertung: 4.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/cannaplus-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/6734538ac05394da7e83994b-eb1h59.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Augsburg",
+        "href": "https://weed.de/cannabis-apotheke/augsburg"
+      },
+      {
+        "name": "Cannaplus Apotheke",
+        "href": "https://weed.de/apotheke/cannaplus-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Augsburg",
+            "item": "https://weed.de/cannabis-apotheke/augsburg"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Cannaplus Apotheke",
+            "item": "https://weed.de/apotheke/cannaplus-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Cannaplus Apotheke",
+        "url": "https://weed.de/apotheke/cannaplus-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Bleicherbreite 21",
+          "addressLocality": "Augsburg",
+          "postalCode": "86154",
+          "addressRegion": "Bayern",
+          "addressCountry": "DE"
+        },
+        "telephone": "082144817756",
+        "email": "Bestellung@cannaplus-apotheke.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/augsburg",
+      "text": "Cannabis Apotheken in Augsburg",
+      "title": "Alle Apotheken in Augsburg"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/cannabisapo24",
+        "text": "Cannabisapo24",
+        "title": "Cannabisapo24 in Augsburg"
+      },
+      {
+        "href": "/apotheke/augusta-apotheke",
+        "text": "Augusta Apotheke",
+        "title": "Augusta Apotheke in Augsburg"
+      },
+      {
+        "href": "/apotheke/bessergesund-ohg-ipunkt-apotheke",
+        "text": "bessergesund OHG ipunkt Apotheke",
+        "title": "bessergesund OHG ipunkt Apotheke in Augsburg"
+      },
+      {
+        "href": "/apotheke/hochfeld-apotheke-1",
+        "text": "HIGH FIELD by Hochfeld-Apotheke",
+        "title": "HIGH FIELD by Hochfeld-Apotheke in Augsburg"
+      },
+      {
+        "href": "/apotheke/hochfeld-apotheke",
+        "text": "HighField (by Hochfeld-Apotheke)",
+        "title": "HighField (by Hochfeld-Apotheke) in Augsburg"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

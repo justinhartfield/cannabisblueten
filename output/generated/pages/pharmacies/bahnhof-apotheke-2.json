@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "bahnhof-apotheke-2",
+    "name": "Bahnhof Apotheke",
+    "street": "Humboldtstraße 8",
+    "zip": "41061",
+    "cityName": "Mönchengladbach",
+    "state": "Nordrhein-Westfalen",
+    "lat": 51.198103,
+    "lng": 6.445246,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": false,
+    "website": "https://www.bahnhof-apotheke-moenchengladbach.de/",
+    "phone": "0216114903",
+    "email": "cannabis@bahnhof-apotheke-moenchengladbach.de",
+    "productCount": 0,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.de/pharmacies/64ec547e823751af9304d367-4j23ec.jpg"
+  },
+  "city": {
+    "slug": "moenchengladbach",
+    "name": "Mönchengladbach",
+    "pharmacyCount": 2
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "sdadasda",
+      "name": "sdadasda",
+      "cityName": "Mönchengladbach",
+      "productCount": 0,
+      "hasDelivery": false
+    },
+    {
+      "slug": "higreen-apotheke",
+      "name": "higreen! Online Marktplatz für Cannabis Apotheken",
+      "cityName": "Krefeld",
+      "productCount": 256,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-zur-alten-post",
+      "name": "Cannacompany (Apotheke zur Alten Post)",
+      "cityName": "Bonn",
+      "productCount": 233,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis-apotheke-essen-glocken-apotheke",
+      "name": "Cannabis Apotheke Essen (Glocken Apotheke)",
+      "cityName": "Essen",
+      "productCount": 174,
+      "hasDelivery": true
+    },
+    {
+      "slug": "grafenberger-apotheke",
+      "name": "GRAFENBERGER APOTHEKE",
+      "cityName": "Düsseldorf",
+      "productCount": 158,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Bahnhof Apotheke - Cannabis Apotheke in Mönchengladbach",
+      "description": "Bahnhof Apotheke in Mönchengladbach. Lieferung & Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/bahnhof-apotheke-2",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Bahnhof Apotheke - Cannabis Apotheke in Mönchengladbach",
+        "description": "Bahnhof Apotheke in Mönchengladbach. Lieferung & Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/bahnhof-apotheke-2",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/pharmacies/64ec547e823751af9304d367-4j23ec.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Mönchengladbach",
+        "href": "https://weed.de/cannabis-apotheke/moenchengladbach"
+      },
+      {
+        "name": "Bahnhof Apotheke",
+        "href": "https://weed.de/apotheke/bahnhof-apotheke-2"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Mönchengladbach",
+            "item": "https://weed.de/cannabis-apotheke/moenchengladbach"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Bahnhof Apotheke",
+            "item": "https://weed.de/apotheke/bahnhof-apotheke-2"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Bahnhof Apotheke",
+        "url": "https://weed.de/apotheke/bahnhof-apotheke-2",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Humboldtstraße 8",
+          "addressLocality": "Mönchengladbach",
+          "postalCode": "41061",
+          "addressRegion": "Nordrhein-Westfalen",
+          "addressCountry": "DE"
+        },
+        "telephone": "0216114903",
+        "email": "cannabis@bahnhof-apotheke-moenchengladbach.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/moenchengladbach",
+      "text": "Cannabis Apotheken in Mönchengladbach",
+      "title": "Alle Apotheken in Mönchengladbach"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/sdadasda",
+        "text": "sdadasda",
+        "title": "sdadasda in Mönchengladbach"
+      },
+      {
+        "href": "/apotheke/higreen-apotheke",
+        "text": "higreen! Online Marktplatz für Cannabis Apotheken",
+        "title": "higreen! Online Marktplatz für Cannabis Apotheken in Krefeld"
+      },
+      {
+        "href": "/apotheke/apotheke-zur-alten-post",
+        "text": "Cannacompany (Apotheke zur Alten Post)",
+        "title": "Cannacompany (Apotheke zur Alten Post) in Bonn"
+      },
+      {
+        "href": "/apotheke/cannabis-apotheke-essen-glocken-apotheke",
+        "text": "Cannabis Apotheke Essen (Glocken Apotheke)",
+        "title": "Cannabis Apotheke Essen (Glocken Apotheke) in Essen"
+      },
+      {
+        "href": "/apotheke/grafenberger-apotheke",
+        "text": "GRAFENBERGER APOTHEKE",
+        "title": "GRAFENBERGER APOTHEKE in Düsseldorf"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has services"
+  }
+}

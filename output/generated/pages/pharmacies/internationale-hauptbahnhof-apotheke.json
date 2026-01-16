@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "internationale-hauptbahnhof-apotheke",
+    "name": "Hanfbahnhof",
+    "street": "Bayerstraße 27",
+    "zip": "80335",
+    "cityName": "München",
+    "state": "Bayern",
+    "lat": 48.1391979,
+    "lng": 11.5604749,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://hanfbahnhof.de/",
+    "phone": "08959989040",
+    "email": "bestellung@hanfbahnhof.de",
+    "productCount": 17,
+    "rating": 3,
+    "ratingCount": 2,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/672351c403ffdd51c1b72660-gb968c.jpg"
+  },
+  "city": {
+    "slug": "muenchen",
+    "name": "München",
+    "pharmacyCount": 12
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "apotheke-forum-schwanthalerhoehe",
+      "name": "Apotheke Forum Schwanthalerhöhe",
+      "cityName": "München",
+      "productCount": 70,
+      "hasDelivery": true
+    },
+    {
+      "slug": "oberlaender-apotheke",
+      "name": "Oberländer Apotheke",
+      "cityName": "München",
+      "productCount": 46,
+      "hasDelivery": false
+    },
+    {
+      "slug": "fox2",
+      "name": "Fox20",
+      "cityName": "München",
+      "productCount": 46,
+      "hasDelivery": false
+    },
+    {
+      "slug": "stachus-apotheke",
+      "name": "Stachus-Apotheke",
+      "cityName": "München",
+      "productCount": 38,
+      "hasDelivery": true
+    },
+    {
+      "slug": "medicus-apotheke",
+      "name": "Cannamedicus",
+      "cityName": "München",
+      "productCount": 30,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Hanfbahnhof - Cannabis Apotheke in München",
+      "description": "Hanfbahnhof in München. 17 Cannabis Produkte. Lieferung & Abholung. Bewertung: 3.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/internationale-hauptbahnhof-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Hanfbahnhof - Cannabis Apotheke in München",
+        "description": "Hanfbahnhof in München. 17 Cannabis Produkte. Lieferung & Abholung. Bewertung: 3.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/internationale-hauptbahnhof-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/672351c403ffdd51c1b72660-gb968c.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "München",
+        "href": "https://weed.de/cannabis-apotheke/muenchen"
+      },
+      {
+        "name": "Hanfbahnhof",
+        "href": "https://weed.de/apotheke/internationale-hauptbahnhof-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "München",
+            "item": "https://weed.de/cannabis-apotheke/muenchen"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Hanfbahnhof",
+            "item": "https://weed.de/apotheke/internationale-hauptbahnhof-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Hanfbahnhof",
+        "url": "https://weed.de/apotheke/internationale-hauptbahnhof-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Bayerstraße 27",
+          "addressLocality": "München",
+          "postalCode": "80335",
+          "addressRegion": "Bayern",
+          "addressCountry": "DE"
+        },
+        "telephone": "08959989040",
+        "email": "bestellung@hanfbahnhof.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/muenchen",
+      "text": "Cannabis Apotheken in München",
+      "title": "Alle Apotheken in München"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/apotheke-forum-schwanthalerhoehe",
+        "text": "Apotheke Forum Schwanthalerhöhe",
+        "title": "Apotheke Forum Schwanthalerhöhe in München"
+      },
+      {
+        "href": "/apotheke/oberlaender-apotheke",
+        "text": "Oberländer Apotheke",
+        "title": "Oberländer Apotheke in München"
+      },
+      {
+        "href": "/apotheke/fox2",
+        "text": "Fox20",
+        "title": "Fox20 in München"
+      },
+      {
+        "href": "/apotheke/stachus-apotheke",
+        "text": "Stachus-Apotheke",
+        "title": "Stachus-Apotheke in München"
+      },
+      {
+        "href": "/apotheke/medicus-apotheke",
+        "text": "Cannamedicus",
+        "title": "Cannamedicus in München"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

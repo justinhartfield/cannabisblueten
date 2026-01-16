@@ -1,0 +1,341 @@
+{
+  "city": {
+    "slug": "duesseldorf",
+    "name": "Düsseldorf",
+    "state": "Nordrhein-Westfalen"
+  },
+  "stats": {
+    "pharmacyCount": 9,
+    "totalProducts": 524,
+    "hasDelivery": true
+  },
+  "pharmacies": [
+    {
+      "slug": "grafenberger-apotheke",
+      "name": "GRAFENBERGER APOTHEKE",
+      "street": "Grafenberger Allee 409",
+      "zip": "40235",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 158,
+      "rating": 4.25,
+      "ratingCount": 4
+    },
+    {
+      "slug": "cannatreede-rats-apotheke-duesseldorf",
+      "name": "Cannatree.de - Rats-Apotheke Düsseldorf",
+      "street": "Gräulinger Straße 3",
+      "zip": "40625",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 113,
+      "rating": 5,
+      "ratingCount": 10
+    },
+    {
+      "slug": "greencalm-by-malteser-apotheke",
+      "name": "GreenCalm by Malteser Apotheke",
+      "street": "Reisholzer Straße 50",
+      "zip": "40231",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 69,
+      "rating": 5,
+      "ratingCount": 1
+    },
+    {
+      "slug": "apondium",
+      "name": "Apondium",
+      "street": "Himmelgeister Straße 106",
+      "zip": "40225",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 52,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "mycannabis",
+      "name": "MYCANNABIS 360Grad-Apotheke",
+      "street": "Bonner Straße 237",
+      "zip": "40589",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 42,
+      "rating": 3.75,
+      "ratingCount": 4
+    },
+    {
+      "slug": "cannaquell-ein-service-der-apotheke-am-quellenbusch",
+      "name": "CannaQuell",
+      "street": "Dreherstraße 116",
+      "zip": "40625",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 41,
+      "rating": 3.67,
+      "ratingCount": 9
+    },
+    {
+      "slug": "wappen-apotheke",
+      "name": "Wappen Apotheke",
+      "street": "40212 Düsseldorf-Stadtbezirk 1, Deutschland",
+      "zip": "40212",
+      "hasDelivery": false,
+      "hasPickup": false,
+      "productCount": 18,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "higreen-boulevard-apotheke-altstadt",
+      "name": "Boulevard Apotheke Altstadt",
+      "street": "Mittelstraße 19",
+      "zip": "40213",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 17,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "1a-cannaduo",
+      "name": "1A CannaDuo",
+      "street": "Friedrichstraße 17",
+      "zip": "40217",
+      "hasDelivery": false,
+      "hasPickup": true,
+      "productCount": 14,
+      "rating": 5,
+      "ratingCount": 1
+    }
+  ],
+  "nearbyCities": [
+    {
+      "slug": "koeln",
+      "name": "Köln",
+      "pharmacyCount": 7
+    },
+    {
+      "slug": "bonn",
+      "name": "Bonn",
+      "pharmacyCount": 6
+    },
+    {
+      "slug": "muenster",
+      "name": "Münster",
+      "pharmacyCount": 6
+    },
+    {
+      "slug": "dortmund",
+      "name": "Dortmund",
+      "pharmacyCount": 5
+    },
+    {
+      "slug": "paderborn",
+      "name": "Paderborn",
+      "pharmacyCount": 4
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannabis Apotheke Düsseldorf - 9 Apotheken",
+      "description": "Cannabis Apotheken in Düsseldorf. 9 Apotheken mit 524 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+      "canonical": "https://weed.de/cannabis-apotheke/duesseldorf",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannabis Apotheke Düsseldorf - 9 Apotheken",
+        "description": "Cannabis Apotheken in Düsseldorf. 9 Apotheken mit 524 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+        "url": "https://weed.de/cannabis-apotheke/duesseldorf",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Düsseldorf",
+        "href": "https://weed.de/cannabis-apotheke/duesseldorf"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Düsseldorf",
+            "item": "https://weed.de/cannabis-apotheke/duesseldorf"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Cannabis Apotheken in Düsseldorf",
+        "numberOfItems": 9,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/apotheke/grafenberger-apotheke",
+            "name": "GRAFENBERGER APOTHEKE"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/apotheke/cannatreede-rats-apotheke-duesseldorf",
+            "name": "Cannatree.de - Rats-Apotheke Düsseldorf"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/apotheke/greencalm-by-malteser-apotheke",
+            "name": "GreenCalm by Malteser Apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/apotheke/apondium",
+            "name": "Apondium"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "https://weed.de/apotheke/mycannabis",
+            "name": "MYCANNABIS 360Grad-Apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "url": "https://weed.de/apotheke/cannaquell-ein-service-der-apotheke-am-quellenbusch",
+            "name": "CannaQuell"
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "url": "https://weed.de/apotheke/wappen-apotheke",
+            "name": "Wappen Apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "url": "https://weed.de/apotheke/higreen-boulevard-apotheke-altstadt",
+            "name": "Boulevard Apotheke Altstadt"
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "url": "https://weed.de/apotheke/1a-cannaduo",
+            "name": "1A CannaDuo"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "pharmacies": [
+      {
+        "href": "/apotheke/grafenberger-apotheke",
+        "text": "GRAFENBERGER APOTHEKE",
+        "title": "GRAFENBERGER APOTHEKE in Düsseldorf"
+      },
+      {
+        "href": "/apotheke/cannatreede-rats-apotheke-duesseldorf",
+        "text": "Cannatree.de - Rats-Apotheke Düsseldorf",
+        "title": "Cannatree.de - Rats-Apotheke Düsseldorf in Düsseldorf"
+      },
+      {
+        "href": "/apotheke/greencalm-by-malteser-apotheke",
+        "text": "GreenCalm by Malteser Apotheke",
+        "title": "GreenCalm by Malteser Apotheke in Düsseldorf"
+      },
+      {
+        "href": "/apotheke/apondium",
+        "text": "Apondium",
+        "title": "Apondium in Düsseldorf"
+      },
+      {
+        "href": "/apotheke/mycannabis",
+        "text": "MYCANNABIS 360Grad-Apotheke",
+        "title": "MYCANNABIS 360Grad-Apotheke in Düsseldorf"
+      },
+      {
+        "href": "/apotheke/cannaquell-ein-service-der-apotheke-am-quellenbusch",
+        "text": "CannaQuell",
+        "title": "CannaQuell in Düsseldorf"
+      },
+      {
+        "href": "/apotheke/wappen-apotheke",
+        "text": "Wappen Apotheke",
+        "title": "Wappen Apotheke in Düsseldorf"
+      },
+      {
+        "href": "/apotheke/higreen-boulevard-apotheke-altstadt",
+        "text": "Boulevard Apotheke Altstadt",
+        "title": "Boulevard Apotheke Altstadt in Düsseldorf"
+      },
+      {
+        "href": "/apotheke/1a-cannaduo",
+        "text": "1A CannaDuo",
+        "title": "1A CannaDuo in Düsseldorf"
+      }
+    ],
+    "nearbyCities": [
+      {
+        "href": "/cannabis-apotheke/koeln",
+        "text": "Cannabis Apotheke Köln",
+        "title": "7 Apotheken in Köln"
+      },
+      {
+        "href": "/cannabis-apotheke/bonn",
+        "text": "Cannabis Apotheke Bonn",
+        "title": "6 Apotheken in Bonn"
+      },
+      {
+        "href": "/cannabis-apotheke/muenster",
+        "text": "Cannabis Apotheke Münster",
+        "title": "6 Apotheken in Münster"
+      },
+      {
+        "href": "/cannabis-apotheke/dortmund",
+        "text": "Cannabis Apotheke Dortmund",
+        "title": "5 Apotheken in Dortmund"
+      },
+      {
+        "href": "/cannabis-apotheke/paderborn",
+        "text": "Cannabis Apotheke Paderborn",
+        "title": "4 Apotheken in Paderborn"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has 9 pharmacies"
+  }
+}

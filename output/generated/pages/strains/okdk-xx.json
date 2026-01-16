@@ -1,0 +1,235 @@
+{
+  "strain": {
+    "slug": "okdk-xx",
+    "name": "OKDK XX",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Euphoric",
+      "Hungry",
+      "Sleepy"
+    ],
+    "tastes": [
+      "Citrus",
+      "Sweet",
+      "Pine"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 499,
+      "max": 749,
+      "formatted": {
+        "min": "4,99 €",
+        "max": "7,49 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "hisociety-31-nll",
+      "name": "HiSociety 30/1 NLL",
+      "brandName": "Cantourage",
+      "thcPercent": 30,
+      "priceMin": 619,
+      "inStock": true
+    },
+    {
+      "slug": "hisociety-271-nll",
+      "name": "HiSociety 27/1 NLL",
+      "brandName": "Cantourage",
+      "thcPercent": 27,
+      "priceMin": 499,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "cheese-quake",
+      "name": "Cheese Quake",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "gas-cake",
+      "name": "Gas Cake",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "critical-bilbo",
+      "name": "Critical Bilbo",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "petrol-og",
+      "name": "Petrol OG",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "crunch-berries",
+      "name": "Crunch Berries",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "OKDK XX (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "OKDK XX: Euphoric, Hungry, Sleepy. 2 Produkte verfügbar. ab 4,99 €.",
+      "canonical": "https://weed.de/strain/okdk-xx",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "OKDK XX (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "OKDK XX: Euphoric, Hungry, Sleepy. 2 Produkte verfügbar. ab 4,99 €.",
+        "url": "https://weed.de/strain/okdk-xx",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "OKDK XX",
+        "href": "https://weed.de/strain/okdk-xx"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "OKDK XX",
+            "item": "https://weed.de/strain/okdk-xx"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "OKDK XX Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/hisociety-31-nll",
+            "name": "HiSociety 30/1 NLL"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/hisociety-271-nll",
+            "name": "HiSociety 27/1 NLL"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/hisociety-31-nll",
+        "text": "HiSociety 30/1 NLL",
+        "title": "HiSociety 30/1 NLL von Cantourage"
+      },
+      {
+        "href": "/product/hisociety-271-nll",
+        "text": "HiSociety 27/1 NLL",
+        "title": "HiSociety 27/1 NLL von Cantourage"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/cheese-quake",
+        "text": "Cheese Quake",
+        "title": "Cheese Quake - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/gas-cake",
+        "text": "Gas Cake",
+        "title": "Gas Cake - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/critical-bilbo",
+        "text": "Critical Bilbo",
+        "title": "Critical Bilbo - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/petrol-og",
+        "text": "Petrol OG",
+        "title": "Petrol OG - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/crunch-berries",
+        "text": "Crunch Berries",
+        "title": "Crunch Berries - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

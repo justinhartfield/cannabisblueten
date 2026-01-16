@@ -1,0 +1,231 @@
+{
+  "city": {
+    "slug": "wiesbaden",
+    "name": "Wiesbaden",
+    "state": "Hessen"
+  },
+  "stats": {
+    "pharmacyCount": 4,
+    "totalProducts": 129,
+    "hasDelivery": true
+  },
+  "pharmacies": [
+    {
+      "slug": "park-apotheke-1",
+      "name": "Park Apotheke / Rhein-Main-Cannabis",
+      "street": "Sonnenberger Straße 68",
+      "zip": "65193",
+      "hasDelivery": false,
+      "hasPickup": true,
+      "productCount": 56,
+      "rating": 5,
+      "ratingCount": 1
+    },
+    {
+      "slug": "taunus-apotheke",
+      "name": "Herbaluh / Taunus-Apotheke",
+      "street": "Taunusstraße 20",
+      "zip": "65183",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 38,
+      "rating": 5,
+      "ratingCount": 1
+    },
+    {
+      "slug": "adler-apotheke-2",
+      "name": "Adler Apotheke",
+      "street": "Friedrichstraße 40",
+      "zip": "65185",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 35,
+      "rating": 5,
+      "ratingCount": 1
+    },
+    {
+      "slug": "wilhelms-apotheke-wiesbaden",
+      "name": "Wilhelms Apotheke Wiesbaden",
+      "street": "Wilhelmstraße 6",
+      "zip": "65185",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 0,
+      "rating": 0,
+      "ratingCount": 0
+    }
+  ],
+  "nearbyCities": [
+    {
+      "slug": "frankfurt-am-main",
+      "name": "Frankfurt am Main",
+      "pharmacyCount": 6
+    },
+    {
+      "slug": "hanau",
+      "name": "Hanau",
+      "pharmacyCount": 3
+    },
+    {
+      "slug": "kassel",
+      "name": "Kassel",
+      "pharmacyCount": 3
+    },
+    {
+      "slug": "otzberg",
+      "name": "Otzberg",
+      "pharmacyCount": 2
+    },
+    {
+      "slug": "bensheim",
+      "name": "Bensheim",
+      "pharmacyCount": 2
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannabis Apotheke Wiesbaden - 4 Apotheken",
+      "description": "Cannabis Apotheken in Wiesbaden. 4 Apotheken mit 129 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+      "canonical": "https://weed.de/cannabis-apotheke/wiesbaden",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannabis Apotheke Wiesbaden - 4 Apotheken",
+        "description": "Cannabis Apotheken in Wiesbaden. 4 Apotheken mit 129 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+        "url": "https://weed.de/cannabis-apotheke/wiesbaden",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Wiesbaden",
+        "href": "https://weed.de/cannabis-apotheke/wiesbaden"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Wiesbaden",
+            "item": "https://weed.de/cannabis-apotheke/wiesbaden"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Cannabis Apotheken in Wiesbaden",
+        "numberOfItems": 4,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/apotheke/park-apotheke-1",
+            "name": "Park Apotheke / Rhein-Main-Cannabis"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/apotheke/taunus-apotheke",
+            "name": "Herbaluh / Taunus-Apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/apotheke/adler-apotheke-2",
+            "name": "Adler Apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/apotheke/wilhelms-apotheke-wiesbaden",
+            "name": "Wilhelms Apotheke Wiesbaden"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "pharmacies": [
+      {
+        "href": "/apotheke/park-apotheke-1",
+        "text": "Park Apotheke / Rhein-Main-Cannabis",
+        "title": "Park Apotheke / Rhein-Main-Cannabis in Wiesbaden"
+      },
+      {
+        "href": "/apotheke/taunus-apotheke",
+        "text": "Herbaluh / Taunus-Apotheke",
+        "title": "Herbaluh / Taunus-Apotheke in Wiesbaden"
+      },
+      {
+        "href": "/apotheke/adler-apotheke-2",
+        "text": "Adler Apotheke",
+        "title": "Adler Apotheke in Wiesbaden"
+      },
+      {
+        "href": "/apotheke/wilhelms-apotheke-wiesbaden",
+        "text": "Wilhelms Apotheke Wiesbaden",
+        "title": "Wilhelms Apotheke Wiesbaden in Wiesbaden"
+      }
+    ],
+    "nearbyCities": [
+      {
+        "href": "/cannabis-apotheke/frankfurt-am-main",
+        "text": "Cannabis Apotheke Frankfurt am Main",
+        "title": "6 Apotheken in Frankfurt am Main"
+      },
+      {
+        "href": "/cannabis-apotheke/hanau",
+        "text": "Cannabis Apotheke Hanau",
+        "title": "3 Apotheken in Hanau"
+      },
+      {
+        "href": "/cannabis-apotheke/kassel",
+        "text": "Cannabis Apotheke Kassel",
+        "title": "3 Apotheken in Kassel"
+      },
+      {
+        "href": "/cannabis-apotheke/otzberg",
+        "text": "Cannabis Apotheke Otzberg",
+        "title": "2 Apotheken in Otzberg"
+      },
+      {
+        "href": "/cannabis-apotheke/bensheim",
+        "text": "Cannabis Apotheke Bensheim",
+        "title": "2 Apotheken in Bensheim"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has 4 pharmacies"
+  }
+}

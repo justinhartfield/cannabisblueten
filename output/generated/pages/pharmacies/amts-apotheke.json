@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "amts-apotheke",
+    "name": "Taunus-Blüten",
+    "street": "Marktplatz 17",
+    "zip": "61250",
+    "cityName": "Usingen",
+    "state": "Hessen",
+    "lat": 50.33534960000001,
+    "lng": 8.5329727,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": null,
+    "phone": "0608110100",
+    "email": "shop@taunus-blueten.de",
+    "productCount": 77,
+    "rating": 5,
+    "ratingCount": 1,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/674833cc0e10d11ed3b439ff-cgd56f.jpg"
+  },
+  "city": {
+    "slug": "usingen",
+    "name": "Usingen",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "cannabis-vital-apotheke",
+      "name": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
+      "cityName": "Hattersheim am Main",
+      "productCount": 187,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis-apotheke-frankfurtkissel-apotheke",
+      "name": "Cannabis Apotheke Frankfurt/Kissel-Apotheke",
+      "cityName": "Frankfurt am Main",
+      "productCount": 183,
+      "hasDelivery": true
+    },
+    {
+      "slug": "schloss-apotheke",
+      "name": "Schloss Apotheke / svapo.de",
+      "cityName": "Offenbach am Main",
+      "productCount": 148,
+      "hasDelivery": true
+    },
+    {
+      "slug": "42unicornde",
+      "name": "420unicorn.de",
+      "cityName": "Kassel",
+      "productCount": 123,
+      "hasDelivery": true
+    },
+    {
+      "slug": "wehling-von-buttlar-apotheke",
+      "name": "Wehling von Buttlar Apotheke",
+      "cityName": "Rodgau",
+      "productCount": 58,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Taunus-Blüten - Cannabis Apotheke in Usingen",
+      "description": "Taunus-Blüten in Usingen. 77 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/amts-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Taunus-Blüten - Cannabis Apotheke in Usingen",
+        "description": "Taunus-Blüten in Usingen. 77 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/amts-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/674833cc0e10d11ed3b439ff-cgd56f.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Usingen",
+        "href": "https://weed.de/cannabis-apotheke/usingen"
+      },
+      {
+        "name": "Taunus-Blüten",
+        "href": "https://weed.de/apotheke/amts-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Usingen",
+            "item": "https://weed.de/cannabis-apotheke/usingen"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Taunus-Blüten",
+            "item": "https://weed.de/apotheke/amts-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Taunus-Blüten",
+        "url": "https://weed.de/apotheke/amts-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Marktplatz 17",
+          "addressLocality": "Usingen",
+          "postalCode": "61250",
+          "addressRegion": "Hessen",
+          "addressCountry": "DE"
+        },
+        "telephone": "0608110100",
+        "email": "shop@taunus-blueten.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/usingen",
+      "text": "Cannabis Apotheken in Usingen",
+      "title": "Alle Apotheken in Usingen"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/cannabis-vital-apotheke",
+        "text": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
+        "title": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim) in Hattersheim am Main"
+      },
+      {
+        "href": "/apotheke/cannabis-apotheke-frankfurtkissel-apotheke",
+        "text": "Cannabis Apotheke Frankfurt/Kissel-Apotheke",
+        "title": "Cannabis Apotheke Frankfurt/Kissel-Apotheke in Frankfurt am Main"
+      },
+      {
+        "href": "/apotheke/schloss-apotheke",
+        "text": "Schloss Apotheke / svapo.de",
+        "title": "Schloss Apotheke / svapo.de in Offenbach am Main"
+      },
+      {
+        "href": "/apotheke/42unicornde",
+        "text": "420unicorn.de",
+        "title": "420unicorn.de in Kassel"
+      },
+      {
+        "href": "/apotheke/wehling-von-buttlar-apotheke",
+        "text": "Wehling von Buttlar Apotheke",
+        "title": "Wehling von Buttlar Apotheke in Rodgau"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

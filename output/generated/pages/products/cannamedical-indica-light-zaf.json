@@ -1,0 +1,224 @@
+{
+  "product": {
+    "slug": "cannamedical-indica-light-zaf",
+    "name": "Cannamedical Indica Light ZAF",
+    "type": "flower",
+    "genetics": "indica",
+    "thcPercent": 18,
+    "cbdPercent": 1,
+    "priceMin": 490,
+    "priceMax": 490,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Republik Südafrika",
+    "imageUrl": "https://weed.de/products/cannamedical-indica-light-zaf-2ccbfe.png"
+  },
+  "brand": {
+    "slug": "cannamedical",
+    "name": "Cannamedical",
+    "productCount": 238
+  },
+  "strain": {
+    "slug": "black-cherry-punch",
+    "name": "Black Cherry Punch",
+    "geneticType": "hybrid",
+    "effects": [
+      "Sleepy",
+      "Tingly",
+      "Happy"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Caryophyllene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Sleepy",
+      "Tingly",
+      "Happy"
+    ],
+    "tastes": [
+      "Berry",
+      "Sweet"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Caryophyllene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "enua-221-bcp-ca",
+      "name": "enua 22/1 BCP CA",
+      "brandName": "enua",
+      "thcPercent": 23.2,
+      "priceMin": 334,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-indica-classic-zaf-1",
+      "name": "Cannamedical Indica classic ZAF",
+      "brandName": "Cannamedical",
+      "thcPercent": 21,
+      "priceMin": 399,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-indica-forte-zaf",
+      "name": "Cannamedical Indica forte ZAF",
+      "brandName": "Cannamedical",
+      "thcPercent": 24,
+      "priceMin": 429,
+      "inStock": true
+    },
+    {
+      "slug": "remexian-211-ras-alb",
+      "name": "Remexian 21/1 RAS ALB",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 21,
+      "priceMin": 475,
+      "inStock": true
+    },
+    {
+      "slug": "thc-akut-mg-28-bcp",
+      "name": "THC AKUT MG 28 BCP",
+      "brandName": "Bathera",
+      "thcPercent": 25,
+      "priceMin": 498,
+      "inStock": true
+    },
+    {
+      "slug": "mediprocan-african-ruby-31",
+      "name": "Mediprocan African Ruby 30/1",
+      "brandName": "mediproCan",
+      "thcPercent": 30,
+      "priceMin": 579,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannamedical Indica Light ZAF | ab 4,90 €",
+      "description": "Cannamedical Indica Light ZAF von Cannamedical. THC: 18%, CBD: 1%. Sorte: Black Cherry Punch. Preis ab 4,90 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/cannamedical-indica-light-zaf",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannamedical Indica Light ZAF | ab 4,90 €",
+        "description": "Cannamedical Indica Light ZAF von Cannamedical. THC: 18%, CBD: 1%. Sorte: Black Cherry Punch. Preis ab 4,90 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/cannamedical-indica-light-zaf",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/cannamedical-indica-light-zaf-2ccbfe.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Cannamedical",
+        "href": "https://weed.de/brand/cannamedical"
+      },
+      {
+        "name": "Cannamedical Indica Light ZAF",
+        "href": "https://weed.de/product/cannamedical-indica-light-zaf"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Cannamedical Indica Light ZAF",
+            "item": "https://weed.de/product/cannamedical-indica-light-zaf"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Cannamedical Indica Light ZAF",
+        "brand": {
+          "@type": "Brand",
+          "name": "Cannamedical"
+        },
+        "description": "THC: 18%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/black-cherry-punch",
+      "text": "Black Cherry Punch",
+      "title": "Black Cherry Punch Sorte"
+    },
+    "brand": {
+      "href": "/brand/cannamedical",
+      "text": "Cannamedical",
+      "title": "Alle Cannamedical Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/enua-221-bcp-ca",
+        "text": "enua 22/1 BCP CA",
+        "title": "Alternative: enua 22/1 BCP CA"
+      },
+      {
+        "href": "/product/cannamedical-indica-classic-zaf-1",
+        "text": "Cannamedical Indica classic ZAF",
+        "title": "Alternative: Cannamedical Indica classic ZAF"
+      },
+      {
+        "href": "/product/cannamedical-indica-forte-zaf",
+        "text": "Cannamedical Indica forte ZAF",
+        "title": "Alternative: Cannamedical Indica forte ZAF"
+      },
+      {
+        "href": "/product/remexian-211-ras-alb",
+        "text": "Remexian 21/1 RAS ALB",
+        "title": "Alternative: Remexian 21/1 RAS ALB"
+      },
+      {
+        "href": "/product/thc-akut-mg-28-bcp",
+        "text": "THC AKUT MG 28 BCP",
+        "title": "Alternative: THC AKUT MG 28 BCP"
+      },
+      {
+        "href": "/product/mediprocan-african-ruby-31",
+        "text": "Mediprocan African Ruby 30/1",
+        "title": "Alternative: Mediprocan African Ruby 30/1"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

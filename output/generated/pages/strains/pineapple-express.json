@@ -1,0 +1,271 @@
+{
+  "strain": {
+    "slug": "pineapple-express",
+    "name": "Pineapple Express",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.5,
+      "max": 0.5
+    },
+    "effects": [
+      "Cerebral",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Lemon",
+      "Pineapple"
+    ],
+    "terpenes": [],
+    "description": "Pineapple Express ist ein potenter indicadominierter Hybrid, der aus einer Mischung von Big Bud- und Skunk-Genetik hervorgegangen ist. Mit ihrer kurzen Blütezeit, den großzügigen Ernten und dem hohen THC-Gehalt ist sie ein Favorit unter den Züchtern und ist seit Jahren unsere meistverkaufte Sorte. Ihre überschaubare mittlere Höhe macht sie sowohl für den Innen- als auch für den Außenanbau geeignet. Sie bildet große, harzige, dichte Blütenköpfe und ihr Aroma und Geschmack sind intensiv nach Zitrone und Ananas. Pineapple Express vermittelt eine zerebrale und doch zutiefst beruhigende Wirkung.",
+    "imageUrl": "/strains/Pineapple_Express-c203di.jpeg"
+  },
+  "stats": {
+    "productCount": 5,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 479,
+      "max": 799,
+      "formatted": {
+        "min": "4,79 €",
+        "max": "7,99 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "bava-med-211-pineapple-express",
+      "name": "Bava Med 21/1 Pineapple Express",
+      "brandName": "bava medical",
+      "thcPercent": 21,
+      "priceMin": 479,
+      "inStock": true
+    },
+    {
+      "slug": "all-nations-pe-251",
+      "name": "All Nations PE 25/1",
+      "brandName": "Cantourage",
+      "thcPercent": 25,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "cannamedical-indica-forte-sm",
+      "name": "Cannamedical Indica forte SM PE",
+      "brandName": "Cannamedical",
+      "thcPercent": 24,
+      "priceMin": 499,
+      "inStock": true
+    },
+    {
+      "slug": "imc-tkh-thc27-pe",
+      "name": "IMC TKH THC27 PE",
+      "brandName": "IMC",
+      "thcPercent": 27,
+      "priceMin": 499,
+      "inStock": false
+    },
+    {
+      "slug": "all-nations-pe-211",
+      "name": "All Nations PE 21/1",
+      "brandName": "Cantourage",
+      "thcPercent": 21,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "glueberry-og",
+      "name": "Glueberry OG",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "wappa",
+      "name": "Wappa",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "tremblant",
+      "name": "Tremblant",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "super-skunk",
+      "name": "Super Skunk",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "auto-bride-cake",
+      "name": "Auto Bride Cake",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Pineapple Express (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Pineapple Express: Cerebral, Relaxed. 5 Produkte verfügbar. ab 4,79 €.",
+      "canonical": "https://weed.de/strain/pineapple-express",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Pineapple Express (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Pineapple Express: Cerebral, Relaxed. 5 Produkte verfügbar. ab 4,79 €.",
+        "url": "https://weed.de/strain/pineapple-express",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "/strains/Pineapple_Express-c203di.jpeg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Pineapple Express",
+        "href": "https://weed.de/strain/pineapple-express"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Pineapple Express",
+            "item": "https://weed.de/strain/pineapple-express"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Pineapple Express Produkte",
+        "numberOfItems": 5,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/bava-med-211-pineapple-express",
+            "name": "Bava Med 21/1 Pineapple Express"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/all-nations-pe-251",
+            "name": "All Nations PE 25/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/cannamedical-indica-forte-sm",
+            "name": "Cannamedical Indica forte SM PE"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/product/imc-tkh-thc27-pe",
+            "name": "IMC TKH THC27 PE"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "https://weed.de/product/all-nations-pe-211",
+            "name": "All Nations PE 21/1"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/bava-med-211-pineapple-express",
+        "text": "Bava Med 21/1 Pineapple Express",
+        "title": "Bava Med 21/1 Pineapple Express von bava medical"
+      },
+      {
+        "href": "/product/all-nations-pe-251",
+        "text": "All Nations PE 25/1",
+        "title": "All Nations PE 25/1 von Cantourage"
+      },
+      {
+        "href": "/product/cannamedical-indica-forte-sm",
+        "text": "Cannamedical Indica forte SM PE",
+        "title": "Cannamedical Indica forte SM PE von Cannamedical"
+      },
+      {
+        "href": "/product/imc-tkh-thc27-pe",
+        "text": "IMC TKH THC27 PE",
+        "title": "IMC TKH THC27 PE von IMC"
+      },
+      {
+        "href": "/product/all-nations-pe-211",
+        "text": "All Nations PE 21/1",
+        "title": "All Nations PE 21/1 von Cantourage"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/glueberry-og",
+        "text": "Glueberry OG",
+        "title": "Glueberry OG - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/wappa",
+        "text": "Wappa",
+        "title": "Wappa - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/tremblant",
+        "text": "Tremblant",
+        "title": "Tremblant - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/super-skunk",
+        "text": "Super Skunk",
+        "title": "Super Skunk - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/auto-bride-cake",
+        "text": "Auto Bride Cake",
+        "title": "Auto Bride Cake - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": []
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

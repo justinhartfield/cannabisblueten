@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "apotheke-im-brandenburger-einkaufszentrum",
+    "name": "Apotheke im Brandenburger Einkaufszentrum",
+    "street": "Brandenburg an der Havel, Deutschland",
+    "zip": "14",
+    "cityName": "Brandenburg an der Havel",
+    "state": "Brandenburg",
+    "lat": 52.4125287,
+    "lng": 12.5316444,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://www.apotheke-wust.de/apotheke/willkommen.htm",
+    "phone": "03381201620",
+    "email": "infoapotheke@t-online.de",
+    "productCount": 380,
+    "rating": 4.2,
+    "ratingCount": 5,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/667169fb7dc625ac15b90dab-f2bj4c.jpg"
+  },
+  "city": {
+    "slug": "brandenburg-an-der-havel",
+    "name": "Brandenburg an der Havel",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "rosen-apotheke-1",
+      "name": "Rosen-Apotheke",
+      "cityName": "Forst (Lausitz)",
+      "productCount": 13,
+      "hasDelivery": true
+    },
+    {
+      "slug": "stadt-apotheke-teltow",
+      "name": "Stadt-Apotheke Teltow",
+      "cityName": "Teltow",
+      "productCount": 10,
+      "hasDelivery": true
+    },
+    {
+      "slug": "rathaus-apotheke",
+      "name": "Rathaus Apotheke",
+      "cityName": "Senftenberg",
+      "productCount": 5,
+      "hasDelivery": true
+    },
+    {
+      "slug": "test-test",
+      "name": "TEST TEST",
+      "cityName": "Schönefeld",
+      "productCount": 0,
+      "hasDelivery": false
+    },
+    {
+      "slug": "adler-apotheke-5",
+      "name": "Adler Apotheke",
+      "cityName": "Blankenfelde-Mahlow",
+      "productCount": 0,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Apotheke im Brandenburger Einkaufszentrum - Cannabis Apotheke in Brandenburg an der Havel",
+      "description": "Apotheke im Brandenburger Einkaufszentrum in Brandenburg an der Havel. 380 Cannabis Produkte. Lieferung & Abholung. Bewertung: 4.2/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/apotheke-im-brandenburger-einkaufszentrum",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Apotheke im Brandenburger Einkaufszentrum - Cannabis Apotheke in Brandenburg an der Havel",
+        "description": "Apotheke im Brandenburger Einkaufszentrum in Brandenburg an der Havel. 380 Cannabis Produkte. Lieferung & Abholung. Bewertung: 4.2/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/apotheke-im-brandenburger-einkaufszentrum",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/667169fb7dc625ac15b90dab-f2bj4c.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Brandenburg an der Havel",
+        "href": "https://weed.de/cannabis-apotheke/brandenburg-an-der-havel"
+      },
+      {
+        "name": "Apotheke im Brandenburger Einkaufszentrum",
+        "href": "https://weed.de/apotheke/apotheke-im-brandenburger-einkaufszentrum"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Brandenburg an der Havel",
+            "item": "https://weed.de/cannabis-apotheke/brandenburg-an-der-havel"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Apotheke im Brandenburger Einkaufszentrum",
+            "item": "https://weed.de/apotheke/apotheke-im-brandenburger-einkaufszentrum"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Apotheke im Brandenburger Einkaufszentrum",
+        "url": "https://weed.de/apotheke/apotheke-im-brandenburger-einkaufszentrum",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Brandenburg an der Havel, Deutschland",
+          "addressLocality": "Brandenburg an der Havel",
+          "postalCode": "14",
+          "addressRegion": "Brandenburg",
+          "addressCountry": "DE"
+        },
+        "telephone": "03381201620",
+        "email": "infoapotheke@t-online.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/brandenburg-an-der-havel",
+      "text": "Cannabis Apotheken in Brandenburg an der Havel",
+      "title": "Alle Apotheken in Brandenburg an der Havel"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/rosen-apotheke-1",
+        "text": "Rosen-Apotheke",
+        "title": "Rosen-Apotheke in Forst (Lausitz)"
+      },
+      {
+        "href": "/apotheke/stadt-apotheke-teltow",
+        "text": "Stadt-Apotheke Teltow",
+        "title": "Stadt-Apotheke Teltow in Teltow"
+      },
+      {
+        "href": "/apotheke/rathaus-apotheke",
+        "text": "Rathaus Apotheke",
+        "title": "Rathaus Apotheke in Senftenberg"
+      },
+      {
+        "href": "/apotheke/test-test",
+        "text": "TEST TEST",
+        "title": "TEST TEST in Schönefeld"
+      },
+      {
+        "href": "/apotheke/adler-apotheke-5",
+        "text": "Adler Apotheke",
+        "title": "Adler Apotheke in Blankenfelde-Mahlow"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

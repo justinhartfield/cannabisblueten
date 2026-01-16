@@ -1,0 +1,209 @@
+{
+  "strain": {
+    "slug": "kali-banana",
+    "name": "Kali Banana",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0,
+      "max": 0
+    },
+    "effects": [
+      "Focused",
+      "Creative",
+      "Euphoric"
+    ],
+    "tastes": [
+      "Tropical",
+      "Earthy",
+      "Sweet"
+    ],
+    "terpenes": [
+      "Ocimene",
+      "Beta-Pinene",
+      "Beta-Myrcene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": null
+  },
+  "products": [
+    {
+      "slug": "adrex-21-kbn-col",
+      "name": "Adrex 20/1 KBN COL",
+      "brandName": "Adrexpharma",
+      "thcPercent": 20,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "orange-cookie-kush-x-free-world-chem",
+      "name": "Orange Cookie Kush x Free World Chem",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "sweets",
+      "name": "Sweets",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "think-fast",
+      "name": "Think Fast",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "glitter-pop-bomb",
+      "name": "Glitter Pop Bomb",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "lemon-slushie",
+      "name": "Lemon Slushie",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Kali Banana (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Kali Banana: Focused, Creative, Euphoric. 1 Produkte verfügbar.",
+      "canonical": "https://weed.de/strain/kali-banana",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Kali Banana (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Kali Banana: Focused, Creative, Euphoric. 1 Produkte verfügbar.",
+        "url": "https://weed.de/strain/kali-banana",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Kali Banana",
+        "href": "https://weed.de/strain/kali-banana"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Kali Banana",
+            "item": "https://weed.de/strain/kali-banana"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Kali Banana Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/adrex-21-kbn-col",
+            "name": "Adrex 20/1 KBN COL"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/adrex-21-kbn-col",
+        "text": "Adrex 20/1 KBN COL",
+        "title": "Adrex 20/1 KBN COL von Adrexpharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/orange-cookie-kush-x-free-world-chem",
+        "text": "Orange Cookie Kush x Free World Chem",
+        "title": "Orange Cookie Kush x Free World Chem - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/sweets",
+        "text": "Sweets",
+        "title": "Sweets - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/think-fast",
+        "text": "Think Fast",
+        "title": "Think Fast - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/glitter-pop-bomb",
+        "text": "Glitter Pop Bomb",
+        "title": "Glitter Pop Bomb - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/lemon-slushie",
+        "text": "Lemon Slushie",
+        "title": "Lemon Slushie - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/ocimene",
+        "text": "Ocimene",
+        "title": "Ocimene Terpen"
+      },
+      {
+        "href": "/terpene/beta-pinene",
+        "text": "Beta-Pinene",
+        "title": "Beta-Pinene Terpen"
+      },
+      {
+        "href": "/terpene/beta-myrcene",
+        "text": "Beta-Myrcene",
+        "title": "Beta-Myrcene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

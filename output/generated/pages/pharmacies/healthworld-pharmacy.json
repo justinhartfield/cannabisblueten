@@ -1,0 +1,187 @@
+{
+  "pharmacy": {
+    "slug": "healthworld-pharmacy",
+    "name": "HealthWorld Pharmacy",
+    "street": "Rheinstraße 9",
+    "zip": "76532",
+    "cityName": "Baden-Baden",
+    "state": "Baden-Württemberg",
+    "lat": 48.7741372,
+    "lng": 8.2230248,
+    "hasDelivery": true,
+    "hasPickup": false,
+    "hasPrices": true,
+    "website": "",
+    "phone": "049876543201",
+    "email": "pharmacy@test.com",
+    "productCount": 0,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": null
+  },
+  "city": {
+    "slug": "baden-baden",
+    "name": "Baden-Baden",
+    "pharmacyCount": 3
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "sophien-apotheke",
+      "name": "Sophien Apotheke",
+      "cityName": "Baden-Baden",
+      "productCount": 44,
+      "hasDelivery": true
+    },
+    {
+      "slug": "bernhardus-apotheke",
+      "name": "Bernhardus Apotheke",
+      "cityName": "Baden-Baden",
+      "productCount": 2,
+      "hasDelivery": true
+    },
+    {
+      "slug": "florians-vital-apotheke",
+      "name": "Florians Vital Apotheke",
+      "cityName": "Esslingen am Neckar",
+      "productCount": 248,
+      "hasDelivery": true
+    },
+    {
+      "slug": "central-apotheke",
+      "name": "Cannabis-Champion",
+      "cityName": "Waiblingen",
+      "productCount": 240,
+      "hasDelivery": true
+    },
+    {
+      "slug": "karlchengras",
+      "name": "Karlchengras (Karl-Apotheke)",
+      "cityName": "Karlsruhe",
+      "productCount": 188,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "HealthWorld Pharmacy - Cannabis Apotheke in Baden-Baden",
+      "description": "HealthWorld Pharmacy in Baden-Baden. Lieferung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/healthworld-pharmacy",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "HealthWorld Pharmacy - Cannabis Apotheke in Baden-Baden",
+        "description": "HealthWorld Pharmacy in Baden-Baden. Lieferung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/healthworld-pharmacy",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Baden-Baden",
+        "href": "https://weed.de/cannabis-apotheke/baden-baden"
+      },
+      {
+        "name": "HealthWorld Pharmacy",
+        "href": "https://weed.de/apotheke/healthworld-pharmacy"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Baden-Baden",
+            "item": "https://weed.de/cannabis-apotheke/baden-baden"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "HealthWorld Pharmacy",
+            "item": "https://weed.de/apotheke/healthworld-pharmacy"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "HealthWorld Pharmacy",
+        "url": "https://weed.de/apotheke/healthworld-pharmacy",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Rheinstraße 9",
+          "addressLocality": "Baden-Baden",
+          "postalCode": "76532",
+          "addressRegion": "Baden-Württemberg",
+          "addressCountry": "DE"
+        },
+        "telephone": "049876543201",
+        "email": "pharmacy@test.com"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/baden-baden",
+      "text": "Cannabis Apotheken in Baden-Baden",
+      "title": "Alle Apotheken in Baden-Baden"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/sophien-apotheke",
+        "text": "Sophien Apotheke",
+        "title": "Sophien Apotheke in Baden-Baden"
+      },
+      {
+        "href": "/apotheke/bernhardus-apotheke",
+        "text": "Bernhardus Apotheke",
+        "title": "Bernhardus Apotheke in Baden-Baden"
+      },
+      {
+        "href": "/apotheke/florians-vital-apotheke",
+        "text": "Florians Vital Apotheke",
+        "title": "Florians Vital Apotheke in Esslingen am Neckar"
+      },
+      {
+        "href": "/apotheke/central-apotheke",
+        "text": "Cannabis-Champion",
+        "title": "Cannabis-Champion in Waiblingen"
+      },
+      {
+        "href": "/apotheke/karlchengras",
+        "text": "Karlchengras (Karl-Apotheke)",
+        "title": "Karlchengras (Karl-Apotheke) in Karlsruhe"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

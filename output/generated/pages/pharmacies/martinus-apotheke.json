@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "martinus-apotheke",
+    "name": "Martinus Apotheke",
+    "street": "Martinstraße 23",
+    "zip": "57462",
+    "cityName": "Olpe",
+    "state": "Nordrhein-Westfalen",
+    "lat": 51.029289,
+    "lng": 7.8479582,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://cannabis.martinus-apotheke.de",
+    "phone": "027612797",
+    "email": "service@martinus-apotheke.de",
+    "productCount": 27,
+    "rating": 5,
+    "ratingCount": 2,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/67a0db6318d08f1548eb5701-dh43fa.jpg"
+  },
+  "city": {
+    "slug": "olpe",
+    "name": "Olpe",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "higreen-apotheke",
+      "name": "higreen! Online Marktplatz für Cannabis Apotheken",
+      "cityName": "Krefeld",
+      "productCount": 256,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-zur-alten-post",
+      "name": "Cannacompany (Apotheke zur Alten Post)",
+      "cityName": "Bonn",
+      "productCount": 233,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis-apotheke-essen-glocken-apotheke",
+      "name": "Cannabis Apotheke Essen (Glocken Apotheke)",
+      "cityName": "Essen",
+      "productCount": 174,
+      "hasDelivery": true
+    },
+    {
+      "slug": "grafenberger-apotheke",
+      "name": "GRAFENBERGER APOTHEKE",
+      "cityName": "Düsseldorf",
+      "productCount": 158,
+      "hasDelivery": true
+    },
+    {
+      "slug": "420brokkoli",
+      "name": "420brokkoli",
+      "cityName": "Paderborn",
+      "productCount": 156,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Martinus Apotheke - Cannabis Apotheke in Olpe",
+      "description": "Martinus Apotheke in Olpe. 27 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/martinus-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Martinus Apotheke - Cannabis Apotheke in Olpe",
+        "description": "Martinus Apotheke in Olpe. 27 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/martinus-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/67a0db6318d08f1548eb5701-dh43fa.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Olpe",
+        "href": "https://weed.de/cannabis-apotheke/olpe"
+      },
+      {
+        "name": "Martinus Apotheke",
+        "href": "https://weed.de/apotheke/martinus-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Olpe",
+            "item": "https://weed.de/cannabis-apotheke/olpe"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Martinus Apotheke",
+            "item": "https://weed.de/apotheke/martinus-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Martinus Apotheke",
+        "url": "https://weed.de/apotheke/martinus-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Martinstraße 23",
+          "addressLocality": "Olpe",
+          "postalCode": "57462",
+          "addressRegion": "Nordrhein-Westfalen",
+          "addressCountry": "DE"
+        },
+        "telephone": "027612797",
+        "email": "service@martinus-apotheke.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/olpe",
+      "text": "Cannabis Apotheken in Olpe",
+      "title": "Alle Apotheken in Olpe"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/higreen-apotheke",
+        "text": "higreen! Online Marktplatz für Cannabis Apotheken",
+        "title": "higreen! Online Marktplatz für Cannabis Apotheken in Krefeld"
+      },
+      {
+        "href": "/apotheke/apotheke-zur-alten-post",
+        "text": "Cannacompany (Apotheke zur Alten Post)",
+        "title": "Cannacompany (Apotheke zur Alten Post) in Bonn"
+      },
+      {
+        "href": "/apotheke/cannabis-apotheke-essen-glocken-apotheke",
+        "text": "Cannabis Apotheke Essen (Glocken Apotheke)",
+        "title": "Cannabis Apotheke Essen (Glocken Apotheke) in Essen"
+      },
+      {
+        "href": "/apotheke/grafenberger-apotheke",
+        "text": "GRAFENBERGER APOTHEKE",
+        "title": "GRAFENBERGER APOTHEKE in Düsseldorf"
+      },
+      {
+        "href": "/apotheke/420brokkoli",
+        "text": "420brokkoli",
+        "title": "420brokkoli in Paderborn"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

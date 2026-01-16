@@ -1,0 +1,273 @@
+{
+  "strain": {
+    "slug": "farm-gas",
+    "name": "Farm Gas",
+    "geneticType": "indica",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Euphoric",
+      "Happy",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Diesel",
+      "Earthy",
+      "Sweet"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Pinene",
+      "Caryophyllene"
+    ],
+    "description": "Farm Gas ist eine indica-dominante Cannabissorte, die für ihr robustes und einzigartiges Aroma bekannt ist. Sie vereint dieselartige, erdige und süße Noten zu einem verlockenden Geschmackserlebnis für Liebhaber. Die dominierenden Terpene in Farm Gas, darunter Limonene, Pinene und Caryophyllene, tragen zu ihrem unverwechselbaren Aroma und potenziellen therapeutischen Vorteilen bei. Mit einem THC-Gehalt von 22% bis 25% dürfte diese Sorte Gefühle tiefen Glücks und innerer Ruhe hervorrufen, wodurch sie zur bevorzugten Wahl für diejenigen wird, die ein beruhigendes und fröhliches Cannabiserlebnis suchen.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 4,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 476,
+      "max": 1975,
+      "formatted": {
+        "min": "4,76 €",
+        "max": "19,75 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "pedanios-271-frg-ca",
+      "name": "Pedanios 27/1 FRG-CA",
+      "brandName": "Aurora",
+      "thcPercent": 27.7,
+      "priceMin": 514,
+      "inStock": true
+    },
+    {
+      "slug": "aurora-extract-251",
+      "name": "Aurora Extract 25:1",
+      "brandName": "Aurora",
+      "thcPercent": 25,
+      "priceMin": 631,
+      "inStock": true
+    },
+    {
+      "slug": "aurora-5050-extract",
+      "name": "Aurora 50:50 Extract",
+      "brandName": "Aurora",
+      "thcPercent": 5,
+      "priceMin": 1580,
+      "inStock": true
+    },
+    {
+      "slug": "extract-aurora-125125",
+      "name": "Extract Aurora 12.5:12.5",
+      "brandName": "Aurora",
+      "thcPercent": 1.25,
+      "priceMin": 476,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "banana-punch",
+      "name": "Banana Punch",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "blueberry-og",
+      "name": "Blueberry OG",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "hindu-kush",
+      "name": "Hindu Kush",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "siggi's-minze",
+      "name": "Siggi's Minze",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "purple-punch",
+      "name": "Purple Punch",
+      "geneticType": "indica",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Farm Gas (Indica) - Wirkung, THC & Verfügbarkeit",
+      "description": "Farm Gas: Euphoric, Happy, Relaxed. 4 Produkte verfügbar. ab 4,76 €.",
+      "canonical": "https://weed.de/strain/farm-gas",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Farm Gas (Indica) - Wirkung, THC & Verfügbarkeit",
+        "description": "Farm Gas: Euphoric, Happy, Relaxed. 4 Produkte verfügbar. ab 4,76 €.",
+        "url": "https://weed.de/strain/farm-gas",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Farm Gas",
+        "href": "https://weed.de/strain/farm-gas"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Farm Gas",
+            "item": "https://weed.de/strain/farm-gas"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Farm Gas Produkte",
+        "numberOfItems": 4,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/pedanios-271-frg-ca",
+            "name": "Pedanios 27/1 FRG-CA"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/aurora-extract-251",
+            "name": "Aurora Extract 25:1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/aurora-5050-extract",
+            "name": "Aurora 50:50 Extract"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/product/extract-aurora-125125",
+            "name": "Extract Aurora 12.5:12.5"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/pedanios-271-frg-ca",
+        "text": "Pedanios 27/1 FRG-CA",
+        "title": "Pedanios 27/1 FRG-CA von Aurora"
+      },
+      {
+        "href": "/product/aurora-extract-251",
+        "text": "Aurora Extract 25:1",
+        "title": "Aurora Extract 25:1 von Aurora"
+      },
+      {
+        "href": "/product/aurora-5050-extract",
+        "text": "Aurora 50:50 Extract",
+        "title": "Aurora 50:50 Extract von Aurora"
+      },
+      {
+        "href": "/product/extract-aurora-125125",
+        "text": "Extract Aurora 12.5:12.5",
+        "title": "Extract Aurora 12.5:12.5 von Aurora"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/banana-punch",
+        "text": "Banana Punch",
+        "title": "Banana Punch - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/blueberry-og",
+        "text": "Blueberry OG",
+        "title": "Blueberry OG - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/hindu-kush",
+        "text": "Hindu Kush",
+        "title": "Hindu Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/siggi's-minze",
+        "text": "Siggi's Minze",
+        "title": "Siggi's Minze - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/purple-punch",
+        "text": "Purple Punch",
+        "title": "Purple Punch - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/pinene",
+        "text": "Pinene",
+        "title": "Pinene Terpen"
+      },
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

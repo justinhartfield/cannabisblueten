@@ -1,0 +1,165 @@
+{
+  "city": {
+    "slug": "gladbeck",
+    "name": "Gladbeck",
+    "state": "Nordrhein-Westfalen"
+  },
+  "stats": {
+    "pharmacyCount": 1,
+    "totalProducts": 76,
+    "hasDelivery": true
+  },
+  "pharmacies": [
+    {
+      "slug": "farma-plus-apotheke-beuth-in-gladbeck",
+      "name": "Cannabis-Apo-Shop der farma-plus Apotheke Beuth in Gladbeck",
+      "street": "Buersche Straße 99",
+      "zip": "45964",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 76,
+      "rating": 0,
+      "ratingCount": 0
+    }
+  ],
+  "nearbyCities": [
+    {
+      "slug": "duesseldorf",
+      "name": "Düsseldorf",
+      "pharmacyCount": 9
+    },
+    {
+      "slug": "koeln",
+      "name": "Köln",
+      "pharmacyCount": 7
+    },
+    {
+      "slug": "bonn",
+      "name": "Bonn",
+      "pharmacyCount": 6
+    },
+    {
+      "slug": "muenster",
+      "name": "Münster",
+      "pharmacyCount": 6
+    },
+    {
+      "slug": "dortmund",
+      "name": "Dortmund",
+      "pharmacyCount": 5
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannabis Apotheke Gladbeck - 1 Apotheken",
+      "description": "Cannabis Apotheken in Gladbeck. 1 Apotheken mit 76 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+      "canonical": "https://weed.de/cannabis-apotheke/gladbeck",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannabis Apotheke Gladbeck - 1 Apotheken",
+        "description": "Cannabis Apotheken in Gladbeck. 1 Apotheken mit 76 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+        "url": "https://weed.de/cannabis-apotheke/gladbeck",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Gladbeck",
+        "href": "https://weed.de/cannabis-apotheke/gladbeck"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Gladbeck",
+            "item": "https://weed.de/cannabis-apotheke/gladbeck"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Cannabis Apotheken in Gladbeck",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/apotheke/farma-plus-apotheke-beuth-in-gladbeck",
+            "name": "Cannabis-Apo-Shop der farma-plus Apotheke Beuth in Gladbeck"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "pharmacies": [
+      {
+        "href": "/apotheke/farma-plus-apotheke-beuth-in-gladbeck",
+        "text": "Cannabis-Apo-Shop der farma-plus Apotheke Beuth in Gladbeck",
+        "title": "Cannabis-Apo-Shop der farma-plus Apotheke Beuth in Gladbeck in Gladbeck"
+      }
+    ],
+    "nearbyCities": [
+      {
+        "href": "/cannabis-apotheke/duesseldorf",
+        "text": "Cannabis Apotheke Düsseldorf",
+        "title": "9 Apotheken in Düsseldorf"
+      },
+      {
+        "href": "/cannabis-apotheke/koeln",
+        "text": "Cannabis Apotheke Köln",
+        "title": "7 Apotheken in Köln"
+      },
+      {
+        "href": "/cannabis-apotheke/bonn",
+        "text": "Cannabis Apotheke Bonn",
+        "title": "6 Apotheken in Bonn"
+      },
+      {
+        "href": "/cannabis-apotheke/muenster",
+        "text": "Cannabis Apotheke Münster",
+        "title": "6 Apotheken in Münster"
+      },
+      {
+        "href": "/cannabis-apotheke/dortmund",
+        "text": "Cannabis Apotheke Dortmund",
+        "title": "5 Apotheken in Dortmund"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Single pharmacy with good product coverage"
+  }
+}

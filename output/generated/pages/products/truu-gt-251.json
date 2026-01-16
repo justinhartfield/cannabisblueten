@@ -1,0 +1,225 @@
+{
+  "product": {
+    "slug": "truu-gt-251",
+    "name": "TRUU GT 25:01",
+    "type": "flower",
+    "genetics": "hybrid_sativa",
+    "thcPercent": 25,
+    "cbdPercent": 1,
+    "priceMin": 470,
+    "priceMax": 750,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": "https://weed.de/products/truu-gt-251-gd3i8g.png"
+  },
+  "brand": {
+    "slug": "demecan",
+    "name": "Demecan",
+    "productCount": 168
+  },
+  "strain": {
+    "slug": "crumbled-lime",
+    "name": "Crumbled Lime",
+    "geneticType": "sativa",
+    "effects": [
+      "Euphoric",
+      "Happy",
+      "Creative"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Myrcene",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Euphoric",
+      "Happy",
+      "Creative"
+    ],
+    "tastes": [
+      "Earthy",
+      "Citrus",
+      "Sweet"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Myrcene",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "amp-classic-251",
+      "name": "AMP Classic 25/1",
+      "brandName": "AMP",
+      "thcPercent": 25,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "slouu-251-crl-ca",
+      "name": "Slouu 25/1 CRL CA",
+      "brandName": "enua",
+      "thcPercent": 25,
+      "priceMin": 399,
+      "inStock": true
+    },
+    {
+      "slug": "slouu-21-crl-ca",
+      "name": "Slouu 20/1 CRL CA",
+      "brandName": "enua",
+      "thcPercent": 20,
+      "priceMin": 420,
+      "inStock": true
+    },
+    {
+      "slug": "truu-gt-271-crumbled-lime",
+      "name": "TRUU GT 27/01 Crumbled Lime",
+      "brandName": "Demecan",
+      "thcPercent": 26,
+      "priceMin": 465,
+      "inStock": true
+    },
+    {
+      "slug": "truu-gt-221-cl",
+      "name": "TRUU GT 22:01  CL",
+      "brandName": "Demecan",
+      "thcPercent": 22,
+      "priceMin": 569,
+      "inStock": true
+    },
+    {
+      "slug": "weeco-231",
+      "name": "Weeco 23/1",
+      "brandName": "Weeco",
+      "thcPercent": 23,
+      "priceMin": 599,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "TRUU GT 25:01 - Demecan | ab 4,70 €",
+      "description": "TRUU GT 25:01 von Demecan. THC: 25%, CBD: 1%. Sorte: Crumbled Lime. Preis ab 4,70 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/truu-gt-251",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "TRUU GT 25:01 - Demecan | ab 4,70 €",
+        "description": "TRUU GT 25:01 von Demecan. THC: 25%, CBD: 1%. Sorte: Crumbled Lime. Preis ab 4,70 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/truu-gt-251",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/truu-gt-251-gd3i8g.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Demecan",
+        "href": "https://weed.de/brand/demecan"
+      },
+      {
+        "name": "TRUU GT 25:01",
+        "href": "https://weed.de/product/truu-gt-251"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "TRUU GT 25:01",
+            "item": "https://weed.de/product/truu-gt-251"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "TRUU GT 25:01",
+        "brand": {
+          "@type": "Brand",
+          "name": "Demecan"
+        },
+        "description": "THC: 25%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/crumbled-lime",
+      "text": "Crumbled Lime",
+      "title": "Crumbled Lime Sorte"
+    },
+    "brand": {
+      "href": "/brand/demecan",
+      "text": "Demecan",
+      "title": "Alle Demecan Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/amp-classic-251",
+        "text": "AMP Classic 25/1",
+        "title": "Alternative: AMP Classic 25/1"
+      },
+      {
+        "href": "/product/slouu-251-crl-ca",
+        "text": "Slouu 25/1 CRL CA",
+        "title": "Alternative: Slouu 25/1 CRL CA"
+      },
+      {
+        "href": "/product/slouu-21-crl-ca",
+        "text": "Slouu 20/1 CRL CA",
+        "title": "Alternative: Slouu 20/1 CRL CA"
+      },
+      {
+        "href": "/product/truu-gt-271-crumbled-lime",
+        "text": "TRUU GT 27/01 Crumbled Lime",
+        "title": "Alternative: TRUU GT 27/01 Crumbled Lime"
+      },
+      {
+        "href": "/product/truu-gt-221-cl",
+        "text": "TRUU GT 22:01  CL",
+        "title": "Alternative: TRUU GT 22:01  CL"
+      },
+      {
+        "href": "/product/weeco-231",
+        "text": "Weeco 23/1",
+        "title": "Alternative: Weeco 23/1"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

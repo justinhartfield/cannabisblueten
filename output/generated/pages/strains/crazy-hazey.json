@@ -1,0 +1,234 @@
+{
+  "strain": {
+    "slug": "crazy-hazey",
+    "name": "Crazy Hazey",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Creative",
+      "Euphoric"
+    ],
+    "tastes": [
+      "Floral",
+      "Earthy",
+      "Citrus"
+    ],
+    "terpenes": [
+      "Terpineol",
+      "Limonene",
+      "Beta-Myrcene"
+    ],
+    "description": "Crazy Hazey ist ein komplexer Hybridstrain von Archive Seedbank, entstanden aus der Kreuzung von Big Sur Holy Weed, Face Off (insbesondere Face-Off OG Kush Pheno #4) und Moonbow #75. Big Sur Holy Weed ist überwiegend Sativa und stammt von Bodhi Seeds, während Face Off eine indica-dominante Sorte von Archive Seedbank ist. Moonbow #75 wiederum ist ein Hybride aus Zkittlez und Do-Si-Dos, die für ihr süßes und potentes Aroma geschätzt wird.\n",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 998,
+      "max": 998,
+      "formatted": {
+        "min": "9,98 €",
+        "max": "9,98 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "demecan-core-florestrura-221",
+      "name": "Demecan Core Florestrura 22:01",
+      "brandName": "Demecan",
+      "thcPercent": 22,
+      "priceMin": 998,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-core-florestrura-241",
+      "name": "Demecan Core Florestrura 24:01",
+      "brandName": "Demecan",
+      "thcPercent": 24,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "sun-county-kush",
+      "name": "Sun County Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "kerosene-krash",
+      "name": "Kerosene Krash",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "platinum-grapes",
+      "name": "Platinum Grapes",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "purple-ice-water",
+      "name": "Purple Ice Water",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "gelat-skyfloater",
+      "name": "Gelat Skyfloater",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Crazy Hazey (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Crazy Hazey: Creative, Euphoric. 2 Produkte verfügbar. ab 9,98 €.",
+      "canonical": "https://weed.de/strain/crazy-hazey",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Crazy Hazey (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Crazy Hazey: Creative, Euphoric. 2 Produkte verfügbar. ab 9,98 €.",
+        "url": "https://weed.de/strain/crazy-hazey",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Crazy Hazey",
+        "href": "https://weed.de/strain/crazy-hazey"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Crazy Hazey",
+            "item": "https://weed.de/strain/crazy-hazey"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Crazy Hazey Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/demecan-core-florestrura-221",
+            "name": "Demecan Core Florestrura 22:01"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/demecan-core-florestrura-241",
+            "name": "Demecan Core Florestrura 24:01"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/demecan-core-florestrura-221",
+        "text": "Demecan Core Florestrura 22:01",
+        "title": "Demecan Core Florestrura 22:01 von Demecan"
+      },
+      {
+        "href": "/product/demecan-core-florestrura-241",
+        "text": "Demecan Core Florestrura 24:01",
+        "title": "Demecan Core Florestrura 24:01 von Demecan"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/sun-county-kush",
+        "text": "Sun County Kush",
+        "title": "Sun County Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/kerosene-krash",
+        "text": "Kerosene Krash",
+        "title": "Kerosene Krash - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/platinum-grapes",
+        "text": "Platinum Grapes",
+        "title": "Platinum Grapes - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/purple-ice-water",
+        "text": "Purple Ice Water",
+        "title": "Purple Ice Water - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/gelat-skyfloater",
+        "text": "Gelat Skyfloater",
+        "title": "Gelat Skyfloater - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/terpineol",
+        "text": "Terpineol",
+        "title": "Terpineol Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-myrcene",
+        "text": "Beta-Myrcene",
+        "title": "Beta-Myrcene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

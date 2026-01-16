@@ -1,0 +1,296 @@
+{
+  "strain": {
+    "slug": "m-runtz",
+    "name": "M Runtz",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0,
+      "max": 0
+    },
+    "effects": [
+      "Focused",
+      "Creative",
+      "Sleepy"
+    ],
+    "tastes": [
+      "Diesel"
+    ],
+    "terpenes": [
+      "Linalool",
+      "D-Limonene",
+      "Beta-Pinene",
+      "Beta-Myrcene"
+    ],
+    "description": "M Runtz Strain ist eine kraftvolle und geschmacklich außergewöhnliche Kreuzung aus dem beliebten Runtz Strain und dem weniger bekannten, aber ebenso potenten M18 Strain. Diese Kombination vereint die süßen, fruchtigen und zuckrigen Aromen des Runtz mit der erdigen, gasartigen Intensität des M18 und erzeugt einen Strain, der sowohl geschmacklich als auch hinsichtlich ihrer Wirkung beeindruckt. M Runtz ist vor allem bei Kennern beliebt, die ein ausgewogenes High mit starker Wirkung und einem komplexen Terpenprofil suchen. Durch ihre genetische Zusammensetzung bietet sie ein einzigartiges Erlebnis, das sowohl körperlich entspannend als auch geistig erhebend ist – ideal für den Tagesausklang oder kreative Aktivitäten.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 5,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 289,
+      "max": 995,
+      "formatted": {
+        "min": "2,89 €",
+        "max": "9,95 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "drapalin-251",
+      "name": "Drapalin 25/1 Cannabisextrakt",
+      "brandName": "Drapalin",
+      "thcPercent": 25,
+      "priceMin": 321,
+      "inStock": true
+    },
+    {
+      "slug": "drapalin-125125",
+      "name": "Drapalin 12.5/12.5 Cannabisextrakt",
+      "brandName": "Drapalin",
+      "thcPercent": 12,
+      "priceMin": 289,
+      "inStock": true
+    },
+    {
+      "slug": "drapalin-55",
+      "name": "Drapalin 5/50",
+      "brandName": "Drapalin",
+      "thcPercent": 5,
+      "priceMin": 417,
+      "inStock": true
+    },
+    {
+      "slug": "drapalin-2725",
+      "name": "Drapalin 27/25 Cannabisextrak",
+      "brandName": "Drapalin",
+      "thcPercent": 27,
+      "priceMin": 423,
+      "inStock": true
+    },
+    {
+      "slug": "drapalin-251-1",
+      "name": "Drapalin 250/1",
+      "brandName": "Drapalin",
+      "thcPercent": 25,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "florida-kush",
+      "name": "Florida Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "head-with-bang",
+      "name": "Head With Bang",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "detroit-runtz",
+      "name": "Detroit Runtz",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "blue-cookies-spritzer",
+      "name": "Blue Cookies Spritzer",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "rainbow-jungle",
+      "name": "Rainbow Jungle",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "M Runtz (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "M Runtz: Focused, Creative, Sleepy. 5 Produkte verfügbar. ab 2,89 €.",
+      "canonical": "https://weed.de/strain/m-runtz",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "M Runtz (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "M Runtz: Focused, Creative, Sleepy. 5 Produkte verfügbar. ab 2,89 €.",
+        "url": "https://weed.de/strain/m-runtz",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "M Runtz",
+        "href": "https://weed.de/strain/m-runtz"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "M Runtz",
+            "item": "https://weed.de/strain/m-runtz"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "M Runtz Produkte",
+        "numberOfItems": 5,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/drapalin-251",
+            "name": "Drapalin 25/1 Cannabisextrakt"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/drapalin-125125",
+            "name": "Drapalin 12.5/12.5 Cannabisextrakt"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/drapalin-55",
+            "name": "Drapalin 5/50"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/product/drapalin-2725",
+            "name": "Drapalin 27/25 Cannabisextrak"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "https://weed.de/product/drapalin-251-1",
+            "name": "Drapalin 250/1"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/drapalin-251",
+        "text": "Drapalin 25/1 Cannabisextrakt",
+        "title": "Drapalin 25/1 Cannabisextrakt von Drapalin"
+      },
+      {
+        "href": "/product/drapalin-125125",
+        "text": "Drapalin 12.5/12.5 Cannabisextrakt",
+        "title": "Drapalin 12.5/12.5 Cannabisextrakt von Drapalin"
+      },
+      {
+        "href": "/product/drapalin-55",
+        "text": "Drapalin 5/50",
+        "title": "Drapalin 5/50 von Drapalin"
+      },
+      {
+        "href": "/product/drapalin-2725",
+        "text": "Drapalin 27/25 Cannabisextrak",
+        "title": "Drapalin 27/25 Cannabisextrak von Drapalin"
+      },
+      {
+        "href": "/product/drapalin-251-1",
+        "text": "Drapalin 250/1",
+        "title": "Drapalin 250/1 von Drapalin"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/florida-kush",
+        "text": "Florida Kush",
+        "title": "Florida Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/head-with-bang",
+        "text": "Head With Bang",
+        "title": "Head With Bang - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/detroit-runtz",
+        "text": "Detroit Runtz",
+        "title": "Detroit Runtz - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/blue-cookies-spritzer",
+        "text": "Blue Cookies Spritzer",
+        "title": "Blue Cookies Spritzer - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/rainbow-jungle",
+        "text": "Rainbow Jungle",
+        "title": "Rainbow Jungle - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      },
+      {
+        "href": "/terpene/d-limonene",
+        "text": "D-Limonene",
+        "title": "D-Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-pinene",
+        "text": "Beta-Pinene",
+        "title": "Beta-Pinene Terpen"
+      },
+      {
+        "href": "/terpene/beta-myrcene",
+        "text": "Beta-Myrcene",
+        "title": "Beta-Myrcene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

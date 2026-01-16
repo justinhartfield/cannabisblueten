@@ -1,0 +1,230 @@
+{
+  "product": {
+    "slug": "dirty-zprite24",
+    "name": "Dirty Zprite/24",
+    "type": "flower",
+    "genetics": "hybrid",
+    "thcPercent": 24,
+    "cbdPercent": 1,
+    "priceMin": 779,
+    "priceMax": 999,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Portugal",
+    "imageUrl": "https://weed.de/products/dirty-zprite24-a68cai.webp"
+  },
+  "brand": {
+    "slug": "mgf-via-medical",
+    "name": "MGF Via Medical",
+    "productCount": 35
+  },
+  "strain": {
+    "slug": "dirty-zprite",
+    "name": "Dirty Zprite",
+    "geneticType": "hybrid",
+    "effects": [
+      "Focused",
+      "Euphoric",
+      "Mental ease",
+      "Activating"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Myrcene",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Focused",
+      "Euphoric",
+      "Mental ease",
+      "Activating"
+    ],
+    "tastes": [
+      "Sweet",
+      "Lemon",
+      "Floral",
+      "Citrus",
+      "Earthy",
+      "Subtle"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Myrcene",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "tilray-thc-25-spotlight-porto-purps",
+      "name": "Tilray THC 25 Spotlight Porto Purps",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": 349,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc5cbd2",
+      "name": "Tilray Cannabisextrakt THC5:CBD20",
+      "brandName": "Tilray",
+      "thcPercent": 5,
+      "priceMin": 350,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc1cbd1",
+      "name": "Tilray Cannabisextrakt THC10:CBD10",
+      "brandName": "Tilray",
+      "thcPercent": 10,
+      "priceMin": 400,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-2",
+      "name": "Demecan Typ 2",
+      "brandName": "Demecan",
+      "thcPercent": 16,
+      "priceMin": 533,
+      "inStock": true
+    },
+    {
+      "slug": "420-natural-201-ca-gg4",
+      "name": "420 Natural 20/1 CA GG4",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 20,
+      "priceMin": 589,
+      "inStock": true
+    },
+    {
+      "slug": "khiron-191-gelato",
+      "name": "Khiron 19/1 Gelato",
+      "brandName": "Khiron",
+      "thcPercent": 17.6,
+      "priceMin": 638,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Dirty Zprite/24 - MGF Via Medical | ab 7,79 €",
+      "description": "Dirty Zprite/24 von MGF Via Medical. THC: 24%, CBD: 1%. Sorte: Dirty Zprite. Preis ab 7,79 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/dirty-zprite24",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Dirty Zprite/24 - MGF Via Medical | ab 7,79 €",
+        "description": "Dirty Zprite/24 von MGF Via Medical. THC: 24%, CBD: 1%. Sorte: Dirty Zprite. Preis ab 7,79 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/dirty-zprite24",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/dirty-zprite24-a68cai.webp"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "MGF Via Medical",
+        "href": "https://weed.de/brand/mgf-via-medical"
+      },
+      {
+        "name": "Dirty Zprite/24",
+        "href": "https://weed.de/product/dirty-zprite24"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Dirty Zprite/24",
+            "item": "https://weed.de/product/dirty-zprite24"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Dirty Zprite/24",
+        "brand": {
+          "@type": "Brand",
+          "name": "MGF Via Medical"
+        },
+        "description": "THC: 24%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/dirty-zprite",
+      "text": "Dirty Zprite",
+      "title": "Dirty Zprite Sorte"
+    },
+    "brand": {
+      "href": "/brand/mgf-via-medical",
+      "text": "MGF Via Medical",
+      "title": "Alle MGF Via Medical Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/tilray-thc-25-spotlight-porto-purps",
+        "text": "Tilray THC 25 Spotlight Porto Purps",
+        "title": "Alternative: Tilray THC 25 Spotlight Porto Purps"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc5cbd2",
+        "text": "Tilray Cannabisextrakt THC5:CBD20",
+        "title": "Alternative: Tilray Cannabisextrakt THC5:CBD20"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc1cbd1",
+        "text": "Tilray Cannabisextrakt THC10:CBD10",
+        "title": "Alternative: Tilray Cannabisextrakt THC10:CBD10"
+      },
+      {
+        "href": "/product/demecan-typ-2",
+        "text": "Demecan Typ 2",
+        "title": "Alternative: Demecan Typ 2"
+      },
+      {
+        "href": "/product/420-natural-201-ca-gg4",
+        "text": "420 Natural 20/1 CA GG4",
+        "title": "Alternative: 420 Natural 20/1 CA GG4"
+      },
+      {
+        "href": "/product/khiron-191-gelato",
+        "text": "Khiron 19/1 Gelato",
+        "title": "Alternative: Khiron 19/1 Gelato"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

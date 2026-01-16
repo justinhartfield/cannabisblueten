@@ -1,0 +1,260 @@
+{
+  "strain": {
+    "slug": "rainbow-sherbert-11",
+    "name": "Rainbow Sherbert 11",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [
+      "Happy",
+      "Creative",
+      "Focused"
+    ],
+    "tastes": [
+      "Diesel",
+      "Citrus",
+      "Flowery"
+    ],
+    "terpenes": [
+      "Linalool",
+      "Myrcene",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 3,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 635,
+      "max": 870,
+      "formatted": {
+        "min": "6,35 €",
+        "max": "8,70 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "enua-251-rs11",
+      "name": "enua 25/1 RS11",
+      "brandName": "enua",
+      "thcPercent": 24,
+      "priceMin": 635,
+      "inStock": true
+    },
+    {
+      "slug": "thc-akut-22-rs11-rainbow-sherbert-11",
+      "name": "THC AKUT 22 RS11 Rainbow Sherbert #11",
+      "brandName": "Bathera",
+      "thcPercent": 22.5,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "demecan-core-purple-twist-261-rs11",
+      "name": "Demecan Core Purple Twist 26:01 RS11",
+      "brandName": "Demecan",
+      "thcPercent": 26,
+      "priceMin": 870,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "alien-mints",
+      "name": "Alien Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "frosted-cookies",
+      "name": "Frosted Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "super-citra-g",
+      "name": "Super Citra G",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "diamond-mints",
+      "name": "Diamond Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "cinderella-kush",
+      "name": "Cinderella Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Rainbow Sherbert 11 (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Rainbow Sherbert 11: Happy, Creative, Focused. 3 Produkte verfügbar. ab 6,35 €.",
+      "canonical": "https://weed.de/strain/rainbow-sherbert-11",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Rainbow Sherbert 11 (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Rainbow Sherbert 11: Happy, Creative, Focused. 3 Produkte verfügbar. ab 6,35 €.",
+        "url": "https://weed.de/strain/rainbow-sherbert-11",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Rainbow Sherbert 11",
+        "href": "https://weed.de/strain/rainbow-sherbert-11"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Rainbow Sherbert 11",
+            "item": "https://weed.de/strain/rainbow-sherbert-11"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Rainbow Sherbert 11 Produkte",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/enua-251-rs11",
+            "name": "enua 25/1 RS11"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/thc-akut-22-rs11-rainbow-sherbert-11",
+            "name": "THC AKUT 22 RS11 Rainbow Sherbert #11"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/demecan-core-purple-twist-261-rs11",
+            "name": "Demecan Core Purple Twist 26:01 RS11"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/enua-251-rs11",
+        "text": "enua 25/1 RS11",
+        "title": "enua 25/1 RS11 von enua"
+      },
+      {
+        "href": "/product/thc-akut-22-rs11-rainbow-sherbert-11",
+        "text": "THC AKUT 22 RS11 Rainbow Sherbert #11",
+        "title": "THC AKUT 22 RS11 Rainbow Sherbert #11 von Bathera"
+      },
+      {
+        "href": "/product/demecan-core-purple-twist-261-rs11",
+        "text": "Demecan Core Purple Twist 26:01 RS11",
+        "title": "Demecan Core Purple Twist 26:01 RS11 von Demecan"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/alien-mints",
+        "text": "Alien Mints",
+        "title": "Alien Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/frosted-cookies",
+        "text": "Frosted Cookies",
+        "title": "Frosted Cookies - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/super-citra-g",
+        "text": "Super Citra G",
+        "title": "Super Citra G - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/diamond-mints",
+        "text": "Diamond Mints",
+        "title": "Diamond Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/cinderella-kush",
+        "text": "Cinderella Kush",
+        "title": "Cinderella Kush - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

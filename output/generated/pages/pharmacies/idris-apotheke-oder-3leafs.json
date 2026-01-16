@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "idris-apotheke-oder-3leafs",
+    "name": "Idris Apotheke | 3Leafs",
+    "street": "Bergstraße 49 - 57",
+    "zip": "69469",
+    "cityName": "Weinheim",
+    "state": "Baden-Württemberg",
+    "lat": 49.5539014,
+    "lng": 8.6681565,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": null,
+    "phone": "06201710000",
+    "email": "info@idris-apotheke-weinheim.de",
+    "productCount": 149,
+    "rating": 2.5,
+    "ratingCount": 27,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/67b87e41f0fd91698137b60b-b4df2i.jpg"
+  },
+  "city": {
+    "slug": "weinheim",
+    "name": "Weinheim",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "florians-vital-apotheke",
+      "name": "Florians Vital Apotheke",
+      "cityName": "Esslingen am Neckar",
+      "productCount": 248,
+      "hasDelivery": true
+    },
+    {
+      "slug": "central-apotheke",
+      "name": "Cannabis-Champion",
+      "cityName": "Waiblingen",
+      "productCount": 240,
+      "hasDelivery": true
+    },
+    {
+      "slug": "karlchengras",
+      "name": "Karlchengras (Karl-Apotheke)",
+      "cityName": "Karlsruhe",
+      "productCount": 188,
+      "hasDelivery": true
+    },
+    {
+      "slug": "schwarzwald-vital-apotheke",
+      "name": "Schwarzwald Vital Apotheke",
+      "cityName": "Gaggenau",
+      "productCount": 133,
+      "hasDelivery": true
+    },
+    {
+      "slug": "rhein-apotheke-im-aerztehaus-muehlburg",
+      "name": "Rhein-Apotheke im Ärztehaus Mühlburg",
+      "cityName": "Karlsruhe",
+      "productCount": 133,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Idris Apotheke | 3Leafs - Cannabis Apotheke in Weinheim",
+      "description": "Idris Apotheke | 3Leafs in Weinheim. 149 Cannabis Produkte. Lieferung & Abholung. Bewertung: 2.5/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/idris-apotheke-oder-3leafs",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Idris Apotheke | 3Leafs - Cannabis Apotheke in Weinheim",
+        "description": "Idris Apotheke | 3Leafs in Weinheim. 149 Cannabis Produkte. Lieferung & Abholung. Bewertung: 2.5/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/idris-apotheke-oder-3leafs",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/67b87e41f0fd91698137b60b-b4df2i.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Weinheim",
+        "href": "https://weed.de/cannabis-apotheke/weinheim"
+      },
+      {
+        "name": "Idris Apotheke | 3Leafs",
+        "href": "https://weed.de/apotheke/idris-apotheke-oder-3leafs"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Weinheim",
+            "item": "https://weed.de/cannabis-apotheke/weinheim"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Idris Apotheke | 3Leafs",
+            "item": "https://weed.de/apotheke/idris-apotheke-oder-3leafs"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Idris Apotheke | 3Leafs",
+        "url": "https://weed.de/apotheke/idris-apotheke-oder-3leafs",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Bergstraße 49 - 57",
+          "addressLocality": "Weinheim",
+          "postalCode": "69469",
+          "addressRegion": "Baden-Württemberg",
+          "addressCountry": "DE"
+        },
+        "telephone": "06201710000",
+        "email": "info@idris-apotheke-weinheim.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/weinheim",
+      "text": "Cannabis Apotheken in Weinheim",
+      "title": "Alle Apotheken in Weinheim"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/florians-vital-apotheke",
+        "text": "Florians Vital Apotheke",
+        "title": "Florians Vital Apotheke in Esslingen am Neckar"
+      },
+      {
+        "href": "/apotheke/central-apotheke",
+        "text": "Cannabis-Champion",
+        "title": "Cannabis-Champion in Waiblingen"
+      },
+      {
+        "href": "/apotheke/karlchengras",
+        "text": "Karlchengras (Karl-Apotheke)",
+        "title": "Karlchengras (Karl-Apotheke) in Karlsruhe"
+      },
+      {
+        "href": "/apotheke/schwarzwald-vital-apotheke",
+        "text": "Schwarzwald Vital Apotheke",
+        "title": "Schwarzwald Vital Apotheke in Gaggenau"
+      },
+      {
+        "href": "/apotheke/rhein-apotheke-im-aerztehaus-muehlburg",
+        "text": "Rhein-Apotheke im Ärztehaus Mühlburg",
+        "title": "Rhein-Apotheke im Ärztehaus Mühlburg in Karlsruhe"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "strain": {
+    "slug": "poison-kush",
+    "name": "Poison Kush",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [
+      "Euphoric",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Pine",
+      "Citrus",
+      "Fruity"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Ocimene",
+      "Terpinolene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 735,
+      "max": 735,
+      "formatted": {
+        "min": "7,35 €",
+        "max": "7,35 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "remexian-271-civ-pku",
+      "name": "Remexian 27/1 CIV PKU",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 27,
+      "priceMin": 735,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "haymaker-haze",
+      "name": "Haymaker Haze",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "top-5",
+      "name": "Top 5",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "cannabis-sativa-l.-elida",
+      "name": "Elida",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "super-citra-g",
+      "name": "Super Citra G",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "alien-kush-mintz",
+      "name": "Alien Kush Mintz",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Poison Kush (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Poison Kush: Euphoric, Relaxed. 1 Produkte verfügbar. ab 7,35 €.",
+      "canonical": "https://weed.de/strain/poison-kush",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Poison Kush (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Poison Kush: Euphoric, Relaxed. 1 Produkte verfügbar. ab 7,35 €.",
+        "url": "https://weed.de/strain/poison-kush",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Poison Kush",
+        "href": "https://weed.de/strain/poison-kush"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Poison Kush",
+            "item": "https://weed.de/strain/poison-kush"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Poison Kush Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/remexian-271-civ-pku",
+            "name": "Remexian 27/1 CIV PKU"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/remexian-271-civ-pku",
+        "text": "Remexian 27/1 CIV PKU",
+        "title": "Remexian 27/1 CIV PKU von Remexian Pharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/haymaker-haze",
+        "text": "Haymaker Haze",
+        "title": "Haymaker Haze - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/top-5",
+        "text": "Top 5",
+        "title": "Top 5 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/cannabis-sativa-l.-elida",
+        "text": "Elida",
+        "title": "Elida - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/super-citra-g",
+        "text": "Super Citra G",
+        "title": "Super Citra G - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/alien-kush-mintz",
+        "text": "Alien Kush Mintz",
+        "title": "Alien Kush Mintz - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/ocimene",
+        "text": "Ocimene",
+        "title": "Ocimene Terpen"
+      },
+      {
+        "href": "/terpene/terpinolene",
+        "text": "Terpinolene",
+        "title": "Terpinolene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

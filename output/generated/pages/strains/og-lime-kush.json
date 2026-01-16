@@ -1,0 +1,254 @@
+{
+  "strain": {
+    "slug": "og-lime-kush",
+    "name": "OG Lime Kush",
+    "geneticType": "sativa",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [
+      "Happy",
+      "Creative",
+      "Energetic"
+    ],
+    "tastes": [
+      "Diesel",
+      "Flowery",
+      "Citrus"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Terpinolene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 3,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 439,
+      "max": 999,
+      "formatted": {
+        "min": "4,39 €",
+        "max": "9,99 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "zoiks-261-lk",
+      "name": "ZOIKS 26/1 LK",
+      "brandName": "Avaay",
+      "thcPercent": 26,
+      "priceMin": 469,
+      "inStock": true
+    },
+    {
+      "slug": "zoiks-311-lk",
+      "name": "ZOIKS 31/1 LK",
+      "brandName": "Avaay",
+      "thcPercent": 31,
+      "priceMin": 999,
+      "inStock": false
+    },
+    {
+      "slug": "zoiks-221-lk-og-lk",
+      "name": "ZOIKS 22/1 LK OG",
+      "brandName": "Avaay",
+      "thcPercent": 22,
+      "priceMin": 439,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "strawberry-lemonade",
+      "name": "Strawberry Lemonade",
+      "geneticType": "sativa",
+      "thcMax": null
+    },
+    {
+      "slug": "amsterdam-amnesia",
+      "name": "Amsterdam Amnesia",
+      "geneticType": "sativa",
+      "thcMax": null
+    },
+    {
+      "slug": "auto-desfran",
+      "name": "Auto Desfrán",
+      "geneticType": "sativa",
+      "thcMax": null
+    },
+    {
+      "slug": "black-mountain-side",
+      "name": "Black Mountain Side",
+      "geneticType": "sativa",
+      "thcMax": null
+    },
+    {
+      "slug": "la-wedding-pop",
+      "name": "LA Wedding Pop",
+      "geneticType": "sativa",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "OG Lime Kush (Sativa) - Wirkung, THC & Verfügbarkeit",
+      "description": "OG Lime Kush: Happy, Creative, Energetic. 3 Produkte verfügbar. ab 4,39 €.",
+      "canonical": "https://weed.de/strain/og-lime-kush",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "OG Lime Kush (Sativa) - Wirkung, THC & Verfügbarkeit",
+        "description": "OG Lime Kush: Happy, Creative, Energetic. 3 Produkte verfügbar. ab 4,39 €.",
+        "url": "https://weed.de/strain/og-lime-kush",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "OG Lime Kush",
+        "href": "https://weed.de/strain/og-lime-kush"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "OG Lime Kush",
+            "item": "https://weed.de/strain/og-lime-kush"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "OG Lime Kush Produkte",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/zoiks-261-lk",
+            "name": "ZOIKS 26/1 LK"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/zoiks-311-lk",
+            "name": "ZOIKS 31/1 LK"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/zoiks-221-lk-og-lk",
+            "name": "ZOIKS 22/1 LK OG"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/zoiks-261-lk",
+        "text": "ZOIKS 26/1 LK",
+        "title": "ZOIKS 26/1 LK von Avaay"
+      },
+      {
+        "href": "/product/zoiks-311-lk",
+        "text": "ZOIKS 31/1 LK",
+        "title": "ZOIKS 31/1 LK von Avaay"
+      },
+      {
+        "href": "/product/zoiks-221-lk-og-lk",
+        "text": "ZOIKS 22/1 LK OG",
+        "title": "ZOIKS 22/1 LK OG von Avaay"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/strawberry-lemonade",
+        "text": "Strawberry Lemonade",
+        "title": "Strawberry Lemonade - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/amsterdam-amnesia",
+        "text": "Amsterdam Amnesia",
+        "title": "Amsterdam Amnesia - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/auto-desfran",
+        "text": "Auto Desfrán",
+        "title": "Auto Desfrán - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/black-mountain-side",
+        "text": "Black Mountain Side",
+        "title": "Black Mountain Side - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/la-wedding-pop",
+        "text": "LA Wedding Pop",
+        "title": "LA Wedding Pop - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/terpinolene",
+        "text": "Terpinolene",
+        "title": "Terpinolene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

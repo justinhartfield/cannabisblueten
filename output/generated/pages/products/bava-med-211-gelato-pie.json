@@ -1,0 +1,224 @@
+{
+  "product": {
+    "slug": "bava-med-211-gelato-pie",
+    "name": "Bava Med 21/1 Gelato Pie",
+    "type": "flower",
+    "genetics": "hybrid",
+    "thcPercent": 21,
+    "cbdPercent": 1,
+    "priceMin": 599,
+    "priceMax": 599,
+    "inStock": false,
+    "pzn": null,
+    "originCountry": "Portugal",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "bava-medical",
+    "name": "bava medical",
+    "productCount": 24
+  },
+  "strain": {
+    "slug": "gelato-pie",
+    "name": "Gelato Pie",
+    "geneticType": "hybrid",
+    "effects": [
+      "Euphoric",
+      "Relaxed",
+      "Creative"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Caryophyllene",
+      "Humulene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Euphoric",
+      "Relaxed",
+      "Creative"
+    ],
+    "tastes": [
+      "Sweet",
+      "Spicy",
+      "Flowery"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Caryophyllene",
+      "Humulene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "tilray-thc-25-spotlight-porto-purps",
+      "name": "Tilray THC 25 Spotlight Porto Purps",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": 349,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc5cbd2",
+      "name": "Tilray Cannabisextrakt THC5:CBD20",
+      "brandName": "Tilray",
+      "thcPercent": 5,
+      "priceMin": 350,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc1cbd1",
+      "name": "Tilray Cannabisextrakt THC10:CBD10",
+      "brandName": "Tilray",
+      "thcPercent": 10,
+      "priceMin": 400,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-2",
+      "name": "Demecan Typ 2",
+      "brandName": "Demecan",
+      "thcPercent": 16,
+      "priceMin": 533,
+      "inStock": true
+    },
+    {
+      "slug": "420-natural-201-ca-gg4",
+      "name": "420 Natural 20/1 CA GG4",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 20,
+      "priceMin": 589,
+      "inStock": true
+    },
+    {
+      "slug": "khiron-191-gelato",
+      "name": "Khiron 19/1 Gelato",
+      "brandName": "Khiron",
+      "thcPercent": 17.6,
+      "priceMin": 638,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Bava Med 21/1 Gelato Pie - bava medical | ab 5,99 €",
+      "description": "Bava Med 21/1 Gelato Pie von bava medical. THC: 21%, CBD: 1%. Sorte: Gelato Pie. Preis ab 5,99 €. Preise vergleichen.",
+      "canonical": "https://weed.de/product/bava-med-211-gelato-pie",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Bava Med 21/1 Gelato Pie - bava medical | ab 5,99 €",
+        "description": "Bava Med 21/1 Gelato Pie von bava medical. THC: 21%, CBD: 1%. Sorte: Gelato Pie. Preis ab 5,99 €. Preise vergleichen.",
+        "url": "https://weed.de/product/bava-med-211-gelato-pie",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "bava medical",
+        "href": "https://weed.de/brand/bava-medical"
+      },
+      {
+        "name": "Bava Med 21/1 Gelato Pie",
+        "href": "https://weed.de/product/bava-med-211-gelato-pie"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Bava Med 21/1 Gelato Pie",
+            "item": "https://weed.de/product/bava-med-211-gelato-pie"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Bava Med 21/1 Gelato Pie",
+        "brand": {
+          "@type": "Brand",
+          "name": "bava medical"
+        },
+        "description": "THC: 21%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/gelato-pie",
+      "text": "Gelato Pie",
+      "title": "Gelato Pie Sorte"
+    },
+    "brand": {
+      "href": "/brand/bava-medical",
+      "text": "bava medical",
+      "title": "Alle bava medical Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/tilray-thc-25-spotlight-porto-purps",
+        "text": "Tilray THC 25 Spotlight Porto Purps",
+        "title": "Alternative: Tilray THC 25 Spotlight Porto Purps"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc5cbd2",
+        "text": "Tilray Cannabisextrakt THC5:CBD20",
+        "title": "Alternative: Tilray Cannabisextrakt THC5:CBD20"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc1cbd1",
+        "text": "Tilray Cannabisextrakt THC10:CBD10",
+        "title": "Alternative: Tilray Cannabisextrakt THC10:CBD10"
+      },
+      {
+        "href": "/product/demecan-typ-2",
+        "text": "Demecan Typ 2",
+        "title": "Alternative: Demecan Typ 2"
+      },
+      {
+        "href": "/product/420-natural-201-ca-gg4",
+        "text": "420 Natural 20/1 CA GG4",
+        "title": "Alternative: 420 Natural 20/1 CA GG4"
+      },
+      {
+        "href": "/product/khiron-191-gelato",
+        "text": "Khiron 19/1 Gelato",
+        "title": "Alternative: Khiron 19/1 Gelato"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has price data"
+  }
+}

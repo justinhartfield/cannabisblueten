@@ -1,0 +1,241 @@
+{
+  "strain": {
+    "slug": "zkittlez-kushmints",
+    "name": "Zkittlez Kushmints",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Creative",
+      "Focused",
+      "Euphoric"
+    ],
+    "tastes": [
+      "Citrus",
+      "Mint",
+      "Tropical"
+    ],
+    "terpenes": [
+      "Linalool",
+      "Limonene",
+      "Humulene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 595,
+      "max": 795,
+      "formatted": {
+        "min": "5,95 €",
+        "max": "7,95 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "enua-271-zkm-ca",
+      "name": "enua 27/1 ZKM CA",
+      "brandName": "enua",
+      "thcPercent": 27,
+      "priceMin": 795,
+      "inStock": true
+    },
+    {
+      "slug": "enua-31-zkm-ca",
+      "name": "enua 30/1 ZKM CA",
+      "brandName": "enua",
+      "thcPercent": 30,
+      "priceMin": 595,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "blue-z",
+      "name": "Blue Z",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "oz",
+      "name": "OZ",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "frosted-cookies",
+      "name": "Frosted Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "purple-ice-water",
+      "name": "Purple Ice Water",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "orange-panties",
+      "name": "Orange Panties",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Zkittlez Kushmints (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Zkittlez Kushmints: Creative, Focused, Euphoric. 2 Produkte verfügbar. ab 5,95 €.",
+      "canonical": "https://weed.de/strain/zkittlez-kushmints",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Zkittlez Kushmints (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Zkittlez Kushmints: Creative, Focused, Euphoric. 2 Produkte verfügbar. ab 5,95 €.",
+        "url": "https://weed.de/strain/zkittlez-kushmints",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Zkittlez Kushmints",
+        "href": "https://weed.de/strain/zkittlez-kushmints"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Zkittlez Kushmints",
+            "item": "https://weed.de/strain/zkittlez-kushmints"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Zkittlez Kushmints Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/enua-271-zkm-ca",
+            "name": "enua 27/1 ZKM CA"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/enua-31-zkm-ca",
+            "name": "enua 30/1 ZKM CA"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/enua-271-zkm-ca",
+        "text": "enua 27/1 ZKM CA",
+        "title": "enua 27/1 ZKM CA von enua"
+      },
+      {
+        "href": "/product/enua-31-zkm-ca",
+        "text": "enua 30/1 ZKM CA",
+        "title": "enua 30/1 ZKM CA von enua"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/blue-z",
+        "text": "Blue Z",
+        "title": "Blue Z - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/oz",
+        "text": "OZ",
+        "title": "OZ - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/frosted-cookies",
+        "text": "Frosted Cookies",
+        "title": "Frosted Cookies - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/purple-ice-water",
+        "text": "Purple Ice Water",
+        "title": "Purple Ice Water - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/orange-panties",
+        "text": "Orange Panties",
+        "title": "Orange Panties - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/humulene",
+        "text": "Humulene",
+        "title": "Humulene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

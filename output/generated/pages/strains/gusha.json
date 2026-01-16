@@ -1,0 +1,180 @@
+{
+  "strain": {
+    "slug": "gusha",
+    "name": "Gusha",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Euphoric",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Sweet",
+      "Tropical",
+      "Berry",
+      "Fruity"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Limonene",
+      "Pinene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 0,
+    "pharmacyCount": 0,
+    "priceRange": null
+  },
+  "products": [],
+  "similarStrains": [
+    {
+      "slug": "lsage",
+      "name": "La S.A.G.E.",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "biscotti",
+      "name": "Biscotti",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "grape-mac",
+      "name": "Grape MAC",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "white-gorilla",
+      "name": "White Gorilla",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "octagon-kush",
+      "name": "Octagon Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Gusha (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Gusha: Euphoric, Relaxed.",
+      "canonical": "https://weed.de/strain/gusha",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Gusha (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Gusha: Euphoric, Relaxed.",
+        "url": "https://weed.de/strain/gusha",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Gusha",
+        "href": "https://weed.de/strain/gusha"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Gusha",
+            "item": "https://weed.de/strain/gusha"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [],
+    "similarStrains": [
+      {
+        "href": "/strain/lsage",
+        "text": "La S.A.G.E.",
+        "title": "La S.A.G.E. - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/biscotti",
+        "text": "Biscotti",
+        "title": "Biscotti - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/grape-mac",
+        "text": "Grape MAC",
+        "title": "Grape MAC - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/white-gorilla",
+        "text": "White Gorilla",
+        "title": "White Gorilla - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/octagon-kush",
+        "text": "Octagon Kush",
+        "title": "Octagon Kush - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/pinene",
+        "text": "Pinene",
+        "title": "Pinene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has data and related content"
+  }
+}

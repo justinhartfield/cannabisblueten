@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "lender-apotheke",
+    "name": "Lender Apotheke",
+    "street": "Hauptstraße 19",
+    "zip": "77880",
+    "cityName": "Sasbach",
+    "state": "Baden-Württemberg",
+    "lat": 48.6360286,
+    "lng": 8.089188,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://www.lender-apotheke.de",
+    "phone": "078414479",
+    "email": "info@lender-apotheke.de",
+    "productCount": 20,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/66e2aeba2cf3abeeb211d30f-df6hf8.jpg"
+  },
+  "city": {
+    "slug": "sasbach",
+    "name": "Sasbach",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "florians-vital-apotheke",
+      "name": "Florians Vital Apotheke",
+      "cityName": "Esslingen am Neckar",
+      "productCount": 248,
+      "hasDelivery": true
+    },
+    {
+      "slug": "central-apotheke",
+      "name": "Cannabis-Champion",
+      "cityName": "Waiblingen",
+      "productCount": 240,
+      "hasDelivery": true
+    },
+    {
+      "slug": "karlchengras",
+      "name": "Karlchengras (Karl-Apotheke)",
+      "cityName": "Karlsruhe",
+      "productCount": 188,
+      "hasDelivery": true
+    },
+    {
+      "slug": "idris-apotheke-oder-3leafs",
+      "name": "Idris Apotheke | 3Leafs",
+      "cityName": "Weinheim",
+      "productCount": 149,
+      "hasDelivery": true
+    },
+    {
+      "slug": "schwarzwald-vital-apotheke",
+      "name": "Schwarzwald Vital Apotheke",
+      "cityName": "Gaggenau",
+      "productCount": 133,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Lender Apotheke - Cannabis Apotheke in Sasbach",
+      "description": "Lender Apotheke in Sasbach. 20 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/lender-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Lender Apotheke - Cannabis Apotheke in Sasbach",
+        "description": "Lender Apotheke in Sasbach. 20 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/lender-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/66e2aeba2cf3abeeb211d30f-df6hf8.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Sasbach",
+        "href": "https://weed.de/cannabis-apotheke/sasbach"
+      },
+      {
+        "name": "Lender Apotheke",
+        "href": "https://weed.de/apotheke/lender-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Sasbach",
+            "item": "https://weed.de/cannabis-apotheke/sasbach"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Lender Apotheke",
+            "item": "https://weed.de/apotheke/lender-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Lender Apotheke",
+        "url": "https://weed.de/apotheke/lender-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Hauptstraße 19",
+          "addressLocality": "Sasbach",
+          "postalCode": "77880",
+          "addressRegion": "Baden-Württemberg",
+          "addressCountry": "DE"
+        },
+        "telephone": "078414479",
+        "email": "info@lender-apotheke.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/sasbach",
+      "text": "Cannabis Apotheken in Sasbach",
+      "title": "Alle Apotheken in Sasbach"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/florians-vital-apotheke",
+        "text": "Florians Vital Apotheke",
+        "title": "Florians Vital Apotheke in Esslingen am Neckar"
+      },
+      {
+        "href": "/apotheke/central-apotheke",
+        "text": "Cannabis-Champion",
+        "title": "Cannabis-Champion in Waiblingen"
+      },
+      {
+        "href": "/apotheke/karlchengras",
+        "text": "Karlchengras (Karl-Apotheke)",
+        "title": "Karlchengras (Karl-Apotheke) in Karlsruhe"
+      },
+      {
+        "href": "/apotheke/idris-apotheke-oder-3leafs",
+        "text": "Idris Apotheke | 3Leafs",
+        "title": "Idris Apotheke | 3Leafs in Weinheim"
+      },
+      {
+        "href": "/apotheke/schwarzwald-vital-apotheke",
+        "text": "Schwarzwald Vital Apotheke",
+        "title": "Schwarzwald Vital Apotheke in Gaggenau"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

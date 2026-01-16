@@ -1,0 +1,230 @@
+{
+  "product": {
+    "slug": "mc-thc2-t6",
+    "name": "IMC THC20 T06",
+    "type": "flower",
+    "genetics": "indica",
+    "thcPercent": 20,
+    "cbdPercent": 1,
+    "priceMin": 955,
+    "priceMax": 955,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Spanien",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "imc",
+    "name": "IMC",
+    "productCount": 128
+  },
+  "strain": {
+    "slug": "black-russian",
+    "name": "Black Russian",
+    "geneticType": "indica",
+    "effects": [
+      "Relaxed",
+      "Sleepy",
+      "Euphoric",
+      "Stress-relief",
+      "Pain-relief"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Beta-Caryophyllene",
+      "Terpinolene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Relaxed",
+      "Sleepy",
+      "Euphoric",
+      "Stress-relief",
+      "Pain-relief"
+    ],
+    "tastes": [
+      "Earthy",
+      "Sweet",
+      "Fruity",
+      "Spicy-Herbal",
+      "Tangy"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Beta-Caryophyllene",
+      "Terpinolene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "weeco-br-221",
+      "name": "Weeco BR 22/1",
+      "brandName": "Weeco",
+      "thcPercent": 22,
+      "priceMin": 347,
+      "inStock": true
+    },
+    {
+      "slug": "imc-thc22-t06",
+      "name": "IMC THC22 T06",
+      "brandName": "IMC",
+      "thcPercent": 22,
+      "priceMin": 394,
+      "inStock": true
+    },
+    {
+      "slug": "aurora-thc-25-cannabis-extract",
+      "name": "Aurora THC 25 Cannabis Extract",
+      "brandName": "Cansativa",
+      "thcPercent": 2.5,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "adven-cannabisextrakt-thc-10-cbd-10",
+      "name": "Adven Cannabisextrakt THC 10 CBD 10",
+      "brandName": "Adven",
+      "thcPercent": 10,
+      "priceMin": 560,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-core-solar-211",
+      "name": "Demecan Core Solar 21/1",
+      "brandName": "Demecan",
+      "thcPercent": 21,
+      "priceMin": 650,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-1",
+      "name": "Demecan Typ 1",
+      "brandName": "Demecan",
+      "thcPercent": 21,
+      "priceMin": 694,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "IMC THC20 T06 | ab 9,55 €",
+      "description": "IMC THC20 T06 von IMC. THC: 20%, CBD: 1%. Sorte: Black Russian. Preis ab 9,55 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/mc-thc2-t6",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "IMC THC20 T06 | ab 9,55 €",
+        "description": "IMC THC20 T06 von IMC. THC: 20%, CBD: 1%. Sorte: Black Russian. Preis ab 9,55 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/mc-thc2-t6",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "IMC",
+        "href": "https://weed.de/brand/imc"
+      },
+      {
+        "name": "IMC THC20 T06",
+        "href": "https://weed.de/product/mc-thc2-t6"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "IMC THC20 T06",
+            "item": "https://weed.de/product/mc-thc2-t6"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "IMC THC20 T06",
+        "brand": {
+          "@type": "Brand",
+          "name": "IMC"
+        },
+        "description": "THC: 20%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/black-russian",
+      "text": "Black Russian",
+      "title": "Black Russian Sorte"
+    },
+    "brand": {
+      "href": "/brand/imc",
+      "text": "IMC",
+      "title": "Alle IMC Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/weeco-br-221",
+        "text": "Weeco BR 22/1",
+        "title": "Alternative: Weeco BR 22/1"
+      },
+      {
+        "href": "/product/imc-thc22-t06",
+        "text": "IMC THC22 T06",
+        "title": "Alternative: IMC THC22 T06"
+      },
+      {
+        "href": "/product/aurora-thc-25-cannabis-extract",
+        "text": "Aurora THC 25 Cannabis Extract",
+        "title": "Alternative: Aurora THC 25 Cannabis Extract"
+      },
+      {
+        "href": "/product/adven-cannabisextrakt-thc-10-cbd-10",
+        "text": "Adven Cannabisextrakt THC 10 CBD 10",
+        "title": "Alternative: Adven Cannabisextrakt THC 10 CBD 10"
+      },
+      {
+        "href": "/product/demecan-core-solar-211",
+        "text": "Demecan Core Solar 21/1",
+        "title": "Alternative: Demecan Core Solar 21/1"
+      },
+      {
+        "href": "/product/demecan-typ-1",
+        "text": "Demecan Typ 1",
+        "title": "Alternative: Demecan Typ 1"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

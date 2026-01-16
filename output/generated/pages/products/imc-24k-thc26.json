@@ -1,0 +1,224 @@
+{
+  "product": {
+    "slug": "imc-24k-thc26",
+    "name": "IMC 24K THC26",
+    "type": "flower",
+    "genetics": "hybrid_indica",
+    "thcPercent": 26,
+    "cbdPercent": 1,
+    "priceMin": 549,
+    "priceMax": 549,
+    "inStock": false,
+    "pzn": null,
+    "originCountry": "Israel",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "imc",
+    "name": "IMC",
+    "productCount": 128
+  },
+  "strain": {
+    "slug": "egoist",
+    "name": "Egoist",
+    "geneticType": "hybrid",
+    "effects": [
+      "Euphoric",
+      "Creative",
+      "Relaxed"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Euphoric",
+      "Creative",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Herbal",
+      "Spicy",
+      "Earthy"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "enua-251-cck-ca",
+      "name": "enua 25/1 CCK CA",
+      "brandName": "enua",
+      "thcPercent": 25.2,
+      "priceMin": 399,
+      "inStock": true
+    },
+    {
+      "slug": "ceres-no-2",
+      "name": "Ceres No. 2",
+      "brandName": "Cantourage",
+      "thcPercent": 25,
+      "priceMin": 590,
+      "inStock": true
+    },
+    {
+      "slug": "420-evolution-271-ca-icc",
+      "name": "420 EVOLUTION 27/1 CA ICC",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 27,
+      "priceMin": 684,
+      "inStock": true
+    },
+    {
+      "slug": "420-natural-221-gg4",
+      "name": "420 Natural 22/1 GG4",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 22,
+      "priceMin": 723,
+      "inStock": true
+    },
+    {
+      "slug": "avaay-241-sk",
+      "name": "AVAAY 24/1 SK",
+      "brandName": "Vayamed",
+      "thcPercent": 24,
+      "priceMin": 899,
+      "inStock": true
+    },
+    {
+      "slug": "avaay-241-did",
+      "name": "AVAAY 24/1 DiD",
+      "brandName": "Avaay",
+      "thcPercent": 24,
+      "priceMin": 949,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "IMC 24K THC26 | ab 5,49 €",
+      "description": "IMC 24K THC26 von IMC. THC: 26%, CBD: 1%. Sorte: Egoist. Preis ab 5,49 €. Preise vergleichen.",
+      "canonical": "https://weed.de/product/imc-24k-thc26",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "IMC 24K THC26 | ab 5,49 €",
+        "description": "IMC 24K THC26 von IMC. THC: 26%, CBD: 1%. Sorte: Egoist. Preis ab 5,49 €. Preise vergleichen.",
+        "url": "https://weed.de/product/imc-24k-thc26",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "IMC",
+        "href": "https://weed.de/brand/imc"
+      },
+      {
+        "name": "IMC 24K THC26",
+        "href": "https://weed.de/product/imc-24k-thc26"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "IMC 24K THC26",
+            "item": "https://weed.de/product/imc-24k-thc26"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "IMC 24K THC26",
+        "brand": {
+          "@type": "Brand",
+          "name": "IMC"
+        },
+        "description": "THC: 26%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/egoist",
+      "text": "Egoist",
+      "title": "Egoist Sorte"
+    },
+    "brand": {
+      "href": "/brand/imc",
+      "text": "IMC",
+      "title": "Alle IMC Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/enua-251-cck-ca",
+        "text": "enua 25/1 CCK CA",
+        "title": "Alternative: enua 25/1 CCK CA"
+      },
+      {
+        "href": "/product/ceres-no-2",
+        "text": "Ceres No. 2",
+        "title": "Alternative: Ceres No. 2"
+      },
+      {
+        "href": "/product/420-evolution-271-ca-icc",
+        "text": "420 EVOLUTION 27/1 CA ICC",
+        "title": "Alternative: 420 EVOLUTION 27/1 CA ICC"
+      },
+      {
+        "href": "/product/420-natural-221-gg4",
+        "text": "420 Natural 22/1 GG4",
+        "title": "Alternative: 420 Natural 22/1 GG4"
+      },
+      {
+        "href": "/product/avaay-241-sk",
+        "text": "AVAAY 24/1 SK",
+        "title": "Alternative: AVAAY 24/1 SK"
+      },
+      {
+        "href": "/product/avaay-241-did",
+        "text": "AVAAY 24/1 DiD",
+        "title": "Alternative: AVAAY 24/1 DiD"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has price data"
+  }
+}

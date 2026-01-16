@@ -1,0 +1,213 @@
+{
+  "strain": {
+    "slug": "snow-lotus",
+    "name": "Snow Lotus",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [],
+    "tastes": [
+      "Earthy",
+      "Sweet",
+      "Fruity",
+      "Creamy"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Humulene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 497,
+      "max": 690,
+      "formatted": {
+        "min": "4,97 €",
+        "max": "6,90 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "lit-311-snw",
+      "name": "LIT 31/1 SNW",
+      "brandName": "Cansativa",
+      "thcPercent": 31,
+      "priceMin": 497,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "frosted-lemon-cake",
+      "name": "Frosted Lemon Cake",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "batha-balanced",
+      "name": "Batha Balanced",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "frosted-cookies",
+      "name": "Frosted Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "purple-ice-water",
+      "name": "Purple Ice Water",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "auto-duck",
+      "name": "Auto Duck",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Snow Lotus (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Snow Lotus Cannabis Sorte. 1 Produkte verfügbar. ab 4,97 €.",
+      "canonical": "https://weed.de/strain/snow-lotus",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Snow Lotus (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Snow Lotus Cannabis Sorte. 1 Produkte verfügbar. ab 4,97 €.",
+        "url": "https://weed.de/strain/snow-lotus",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Snow Lotus",
+        "href": "https://weed.de/strain/snow-lotus"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Snow Lotus",
+            "item": "https://weed.de/strain/snow-lotus"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Snow Lotus Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/lit-311-snw",
+            "name": "LIT 31/1 SNW"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/lit-311-snw",
+        "text": "LIT 31/1 SNW",
+        "title": "LIT 31/1 SNW von Cansativa"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/frosted-lemon-cake",
+        "text": "Frosted Lemon Cake",
+        "title": "Frosted Lemon Cake - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/batha-balanced",
+        "text": "Batha Balanced",
+        "title": "Batha Balanced - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/frosted-cookies",
+        "text": "Frosted Cookies",
+        "title": "Frosted Cookies - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/purple-ice-water",
+        "text": "Purple Ice Water",
+        "title": "Purple Ice Water - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/auto-duck",
+        "text": "Auto Duck",
+        "title": "Auto Duck - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/humulene",
+        "text": "Humulene",
+        "title": "Humulene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

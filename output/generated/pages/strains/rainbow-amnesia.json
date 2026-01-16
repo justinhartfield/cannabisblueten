@@ -1,0 +1,235 @@
+{
+  "strain": {
+    "slug": "rainbow-amnesia",
+    "name": "Rainbow Amnesia",
+    "geneticType": "sativa",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [
+      "Euphoric",
+      "Relaxed",
+      "Creative"
+    ],
+    "tastes": [
+      "Sweet",
+      "Earthy",
+      "Citrus"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 445,
+      "max": 1050,
+      "formatted": {
+        "min": "4,45 €",
+        "max": "10,50 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "nce-251-ram",
+      "name": "N!CE 25/1 RAM",
+      "brandName": "Cansativa",
+      "thcPercent": 25,
+      "priceMin": 1050,
+      "inStock": true
+    },
+    {
+      "slug": "nice-191-ram",
+      "name": "NICE 19/1 RAM",
+      "brandName": "Cansativa",
+      "thcPercent": 19,
+      "priceMin": 445,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "bozy's-cure",
+      "name": "Bozy's Cure",
+      "geneticType": "sativa",
+      "thcMax": null
+    },
+    {
+      "slug": "lemon-thrill",
+      "name": "Lemon Thrill",
+      "geneticType": "sativa",
+      "thcMax": null
+    },
+    {
+      "slug": "carnez-citric",
+      "name": "Carnez Citric",
+      "geneticType": "sativa",
+      "thcMax": null
+    },
+    {
+      "slug": "crumbled-lime",
+      "name": "Crumbled Lime",
+      "geneticType": "sativa",
+      "thcMax": null
+    },
+    {
+      "slug": "platinum-sour-diesel",
+      "name": "Platinum Sour Diesel",
+      "geneticType": "sativa",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Rainbow Amnesia (Sativa) - Wirkung, THC & Verfügbarkeit",
+      "description": "Rainbow Amnesia: Euphoric, Relaxed, Creative. 2 Produkte verfügbar. ab 4,45 €.",
+      "canonical": "https://weed.de/strain/rainbow-amnesia",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Rainbow Amnesia (Sativa) - Wirkung, THC & Verfügbarkeit",
+        "description": "Rainbow Amnesia: Euphoric, Relaxed, Creative. 2 Produkte verfügbar. ab 4,45 €.",
+        "url": "https://weed.de/strain/rainbow-amnesia",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Rainbow Amnesia",
+        "href": "https://weed.de/strain/rainbow-amnesia"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Rainbow Amnesia",
+            "item": "https://weed.de/strain/rainbow-amnesia"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Rainbow Amnesia Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/nce-251-ram",
+            "name": "N!CE 25/1 RAM"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/nice-191-ram",
+            "name": "NICE 19/1 RAM"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/nce-251-ram",
+        "text": "N!CE 25/1 RAM",
+        "title": "N!CE 25/1 RAM von Cansativa"
+      },
+      {
+        "href": "/product/nice-191-ram",
+        "text": "NICE 19/1 RAM",
+        "title": "NICE 19/1 RAM von Cansativa"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/bozy's-cure",
+        "text": "Bozy's Cure",
+        "title": "Bozy's Cure - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/lemon-thrill",
+        "text": "Lemon Thrill",
+        "title": "Lemon Thrill - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/carnez-citric",
+        "text": "Carnez Citric",
+        "title": "Carnez Citric - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/crumbled-lime",
+        "text": "Crumbled Lime",
+        "title": "Crumbled Lime - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/platinum-sour-diesel",
+        "text": "Platinum Sour Diesel",
+        "title": "Platinum Sour Diesel - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

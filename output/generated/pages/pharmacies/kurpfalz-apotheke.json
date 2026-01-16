@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "kurpfalz-apotheke",
+    "name": "Kurpfalz-Apotheke",
+    "street": "G3 6",
+    "zip": "68159",
+    "cityName": "Mannheim",
+    "state": "Baden-Württemberg",
+    "lat": 49.4905171,
+    "lng": 8.466252299999999,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": null,
+    "phone": "062122298",
+    "email": "info@kurpfalz-apotheke.de",
+    "productCount": 90,
+    "rating": 5,
+    "ratingCount": 3,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/67ab87bee5a23bda2c0ac1ae-a8f075.jpg"
+  },
+  "city": {
+    "slug": "mannheim",
+    "name": "Mannheim",
+    "pharmacyCount": 6
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "cannflos-apo",
+      "name": "Medflower Collini-Apotheke",
+      "cityName": "Mannheim",
+      "productCount": 67,
+      "hasDelivery": true
+    },
+    {
+      "slug": "neckar-apotheke",
+      "name": "cannama² - Neckar Apotheke Mannheim",
+      "cityName": "Mannheim",
+      "productCount": 24,
+      "hasDelivery": true
+    },
+    {
+      "slug": "falken-apotheke",
+      "name": "Falken Apotheke",
+      "cityName": "Mannheim",
+      "productCount": 0,
+      "hasDelivery": false
+    },
+    {
+      "slug": "gruenebriese",
+      "name": "Grünebriese",
+      "cityName": "Mannheim",
+      "productCount": 0,
+      "hasDelivery": false
+    },
+    {
+      "slug": "apotheke-in-der-alten-seilerei",
+      "name": "Cannem - Dein Cannabis aus Mannheim",
+      "cityName": "Mannheim",
+      "productCount": 0,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Kurpfalz-Apotheke - Cannabis Apotheke in Mannheim",
+      "description": "Kurpfalz-Apotheke in Mannheim. 90 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/kurpfalz-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Kurpfalz-Apotheke - Cannabis Apotheke in Mannheim",
+        "description": "Kurpfalz-Apotheke in Mannheim. 90 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/kurpfalz-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/67ab87bee5a23bda2c0ac1ae-a8f075.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Mannheim",
+        "href": "https://weed.de/cannabis-apotheke/mannheim"
+      },
+      {
+        "name": "Kurpfalz-Apotheke",
+        "href": "https://weed.de/apotheke/kurpfalz-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Mannheim",
+            "item": "https://weed.de/cannabis-apotheke/mannheim"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Kurpfalz-Apotheke",
+            "item": "https://weed.de/apotheke/kurpfalz-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Kurpfalz-Apotheke",
+        "url": "https://weed.de/apotheke/kurpfalz-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "G3 6",
+          "addressLocality": "Mannheim",
+          "postalCode": "68159",
+          "addressRegion": "Baden-Württemberg",
+          "addressCountry": "DE"
+        },
+        "telephone": "062122298",
+        "email": "info@kurpfalz-apotheke.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/mannheim",
+      "text": "Cannabis Apotheken in Mannheim",
+      "title": "Alle Apotheken in Mannheim"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/cannflos-apo",
+        "text": "Medflower Collini-Apotheke",
+        "title": "Medflower Collini-Apotheke in Mannheim"
+      },
+      {
+        "href": "/apotheke/neckar-apotheke",
+        "text": "cannama² - Neckar Apotheke Mannheim",
+        "title": "cannama² - Neckar Apotheke Mannheim in Mannheim"
+      },
+      {
+        "href": "/apotheke/falken-apotheke",
+        "text": "Falken Apotheke",
+        "title": "Falken Apotheke in Mannheim"
+      },
+      {
+        "href": "/apotheke/gruenebriese",
+        "text": "Grünebriese",
+        "title": "Grünebriese in Mannheim"
+      },
+      {
+        "href": "/apotheke/apotheke-in-der-alten-seilerei",
+        "text": "Cannem - Dein Cannabis aus Mannheim",
+        "title": "Cannem - Dein Cannabis aus Mannheim in Mannheim"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

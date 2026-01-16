@@ -1,0 +1,193 @@
+{
+  "brand": {
+    "slug": "herbasana",
+    "name": "Herbasana",
+    "productCount": 5
+  },
+  "products": [
+    {
+      "slug": "herbasana-colombiana-2001",
+      "name": "Herbasana Colombiana 20:01",
+      "type": "flower",
+      "thcPercent": 20,
+      "priceMin": 480,
+      "inStock": true,
+      "strainName": "Apple Soda"
+    },
+    {
+      "slug": "herbasana-la-santa-21",
+      "name": "Herbasana La Santa 20:01",
+      "type": "flower",
+      "thcPercent": 20,
+      "priceMin": 349,
+      "inStock": true,
+      "strainName": "Passion Soda"
+    },
+    {
+      "slug": "herbasana-salsa-lover-21",
+      "name": "Herbasana Salsa Lover 20:01",
+      "type": "flower",
+      "thcPercent": 20,
+      "priceMin": 369,
+      "inStock": true,
+      "strainName": "Cosmic Soda"
+    },
+    {
+      "slug": "herbasana-colombiana-181-apple-soda",
+      "name": "Herbasana Colombiana 18:01",
+      "type": "flower",
+      "thcPercent": 18,
+      "priceMin": 349,
+      "inStock": true,
+      "strainName": "Apple Soda"
+    },
+    {
+      "slug": "herbasana-la-santa-2401",
+      "name": "Herbasana La Santa 24:01",
+      "type": "flower",
+      "thcPercent": 22,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Passion Soda"
+    }
+  ],
+  "stats": {
+    "productCount": 5,
+    "inStockCount": 4,
+    "avgThc": 20,
+    "priceRange": {
+      "min": 349,
+      "max": 480,
+      "formatted": {
+        "min": "3,49 €",
+        "max": "4,80 €"
+      }
+    }
+  },
+  "seo": {
+    "meta": {
+      "title": "Herbasana Cannabis Produkte - 5 Produkte",
+      "description": "Herbasana: 5 Cannabis Produkte. 4 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+      "canonical": "https://weed.de/brand/herbasana",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Herbasana Cannabis Produkte - 5 Produkte",
+        "description": "Herbasana: 5 Cannabis Produkte. 4 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+        "url": "https://weed.de/brand/herbasana",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Hersteller",
+        "href": "https://weed.de/brands"
+      },
+      {
+        "name": "Herbasana",
+        "href": "https://weed.de/brand/herbasana"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Hersteller",
+            "item": "https://weed.de/brands"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Herbasana",
+            "item": "https://weed.de/brand/herbasana"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Herbasana Produkte",
+        "numberOfItems": 5,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/herbasana-colombiana-2001",
+            "name": "Herbasana Colombiana 20:01"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/herbasana-la-santa-21",
+            "name": "Herbasana La Santa 20:01"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/herbasana-salsa-lover-21",
+            "name": "Herbasana Salsa Lover 20:01"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/product/herbasana-colombiana-181-apple-soda",
+            "name": "Herbasana Colombiana 18:01"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "https://weed.de/product/herbasana-la-santa-2401",
+            "name": "Herbasana La Santa 24:01"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/herbasana-colombiana-2001",
+        "text": "Herbasana Colombiana 20:01",
+        "title": "Herbasana Colombiana 20:01"
+      },
+      {
+        "href": "/product/herbasana-la-santa-21",
+        "text": "Herbasana La Santa 20:01",
+        "title": "Herbasana La Santa 20:01"
+      },
+      {
+        "href": "/product/herbasana-salsa-lover-21",
+        "text": "Herbasana Salsa Lover 20:01",
+        "title": "Herbasana Salsa Lover 20:01"
+      },
+      {
+        "href": "/product/herbasana-colombiana-181-apple-soda",
+        "text": "Herbasana Colombiana 18:01",
+        "title": "Herbasana Colombiana 18:01"
+      },
+      {
+        "href": "/product/herbasana-la-santa-2401",
+        "text": "Herbasana La Santa 24:01",
+        "title": "Herbasana La Santa 24:01"
+      }
+    ]
+  }
+}

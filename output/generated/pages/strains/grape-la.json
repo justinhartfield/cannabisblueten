@@ -1,0 +1,212 @@
+{
+  "strain": {
+    "slug": "grape-la",
+    "name": "Grape LA",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0,
+      "max": 0
+    },
+    "effects": [],
+    "tastes": [
+      "Coffee",
+      "Earthy",
+      "Herbal"
+    ],
+    "terpenes": [
+      "Terpineol",
+      "Myrcene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 378,
+      "max": 650,
+      "formatted": {
+        "min": "3,78 €",
+        "max": "6,50 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "luana-21-grape-la",
+      "name": "Luana 20/1 Grape LA",
+      "brandName": "Cannamedical",
+      "thcPercent": 20,
+      "priceMin": 378,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "scoop-of-chem-x-early-orange",
+      "name": "Scoop of Chem x Early Orange",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "tangrini",
+      "name": "Tangrini",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "frosted-lemon-cake",
+      "name": "Frosted Lemon Cake",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "bedrolite",
+      "name": "Bedrolite®",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "mun-shine-6",
+      "name": "Mun Shine 6",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Grape LA (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Grape LA Cannabis Sorte. 1 Produkte verfügbar. ab 3,78 €.",
+      "canonical": "https://weed.de/strain/grape-la",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Grape LA (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Grape LA Cannabis Sorte. 1 Produkte verfügbar. ab 3,78 €.",
+        "url": "https://weed.de/strain/grape-la",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Grape LA",
+        "href": "https://weed.de/strain/grape-la"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Grape LA",
+            "item": "https://weed.de/strain/grape-la"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Grape LA Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/luana-21-grape-la",
+            "name": "Luana 20/1 Grape LA"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/luana-21-grape-la",
+        "text": "Luana 20/1 Grape LA",
+        "title": "Luana 20/1 Grape LA von Cannamedical"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/scoop-of-chem-x-early-orange",
+        "text": "Scoop of Chem x Early Orange",
+        "title": "Scoop of Chem x Early Orange - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/tangrini",
+        "text": "Tangrini",
+        "title": "Tangrini - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/frosted-lemon-cake",
+        "text": "Frosted Lemon Cake",
+        "title": "Frosted Lemon Cake - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/bedrolite",
+        "text": "Bedrolite®",
+        "title": "Bedrolite® - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/mun-shine-6",
+        "text": "Mun Shine 6",
+        "title": "Mun Shine 6 - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/terpineol",
+        "text": "Terpineol",
+        "title": "Terpineol Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

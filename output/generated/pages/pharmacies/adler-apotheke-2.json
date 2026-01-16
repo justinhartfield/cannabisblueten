@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "adler-apotheke-2",
+    "name": "Adler Apotheke",
+    "street": "Friedrichstraße 40",
+    "zip": "65185",
+    "cityName": "Wiesbaden",
+    "state": "Hessen",
+    "lat": 50.0801605,
+    "lng": 8.2383115,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "www.quickpharm.cannaleo.de",
+    "phone": "061150477910",
+    "email": "bestellung@quickpharm.net",
+    "productCount": 35,
+    "rating": 5,
+    "ratingCount": 1,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/68a5bdd4d4a0ecc8cef15504-0hj71j.jpg"
+  },
+  "city": {
+    "slug": "wiesbaden",
+    "name": "Wiesbaden",
+    "pharmacyCount": 4
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "park-apotheke-1",
+      "name": "Park Apotheke / Rhein-Main-Cannabis",
+      "cityName": "Wiesbaden",
+      "productCount": 56,
+      "hasDelivery": false
+    },
+    {
+      "slug": "taunus-apotheke",
+      "name": "Herbaluh / Taunus-Apotheke",
+      "cityName": "Wiesbaden",
+      "productCount": 38,
+      "hasDelivery": true
+    },
+    {
+      "slug": "wilhelms-apotheke-wiesbaden",
+      "name": "Wilhelms Apotheke Wiesbaden",
+      "cityName": "Wiesbaden",
+      "productCount": 0,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis-vital-apotheke",
+      "name": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
+      "cityName": "Hattersheim am Main",
+      "productCount": 187,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis-apotheke-frankfurtkissel-apotheke",
+      "name": "Cannabis Apotheke Frankfurt/Kissel-Apotheke",
+      "cityName": "Frankfurt am Main",
+      "productCount": 183,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Adler Apotheke - Cannabis Apotheke in Wiesbaden",
+      "description": "Adler Apotheke in Wiesbaden. 35 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/adler-apotheke-2",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Adler Apotheke - Cannabis Apotheke in Wiesbaden",
+        "description": "Adler Apotheke in Wiesbaden. 35 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/adler-apotheke-2",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/68a5bdd4d4a0ecc8cef15504-0hj71j.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Wiesbaden",
+        "href": "https://weed.de/cannabis-apotheke/wiesbaden"
+      },
+      {
+        "name": "Adler Apotheke",
+        "href": "https://weed.de/apotheke/adler-apotheke-2"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Wiesbaden",
+            "item": "https://weed.de/cannabis-apotheke/wiesbaden"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Adler Apotheke",
+            "item": "https://weed.de/apotheke/adler-apotheke-2"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Adler Apotheke",
+        "url": "https://weed.de/apotheke/adler-apotheke-2",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Friedrichstraße 40",
+          "addressLocality": "Wiesbaden",
+          "postalCode": "65185",
+          "addressRegion": "Hessen",
+          "addressCountry": "DE"
+        },
+        "telephone": "061150477910",
+        "email": "bestellung@quickpharm.net"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/wiesbaden",
+      "text": "Cannabis Apotheken in Wiesbaden",
+      "title": "Alle Apotheken in Wiesbaden"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/park-apotheke-1",
+        "text": "Park Apotheke / Rhein-Main-Cannabis",
+        "title": "Park Apotheke / Rhein-Main-Cannabis in Wiesbaden"
+      },
+      {
+        "href": "/apotheke/taunus-apotheke",
+        "text": "Herbaluh / Taunus-Apotheke",
+        "title": "Herbaluh / Taunus-Apotheke in Wiesbaden"
+      },
+      {
+        "href": "/apotheke/wilhelms-apotheke-wiesbaden",
+        "text": "Wilhelms Apotheke Wiesbaden",
+        "title": "Wilhelms Apotheke Wiesbaden in Wiesbaden"
+      },
+      {
+        "href": "/apotheke/cannabis-vital-apotheke",
+        "text": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
+        "title": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim) in Hattersheim am Main"
+      },
+      {
+        "href": "/apotheke/cannabis-apotheke-frankfurtkissel-apotheke",
+        "text": "Cannabis Apotheke Frankfurt/Kissel-Apotheke",
+        "title": "Cannabis Apotheke Frankfurt/Kissel-Apotheke in Frankfurt am Main"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

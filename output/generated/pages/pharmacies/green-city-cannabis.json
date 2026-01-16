@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "green-city-cannabis",
+    "name": "Green City Cannabis",
+    "street": "Hauptstraße 16",
+    "zip": "67269",
+    "cityName": "Grünstadt",
+    "state": "Rheinland-Pfalz",
+    "lat": 49.5638709,
+    "lng": 8.1642298,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://greencitycannabis.de/",
+    "phone": "06359919238",
+    "email": "shop@greencitycannabis.de",
+    "productCount": 62,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/6839d8a2cad57574a9bf9c69-6g57j2.jpg"
+  },
+  "city": {
+    "slug": "gruenstadt",
+    "name": "Grünstadt",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "cannabis-apotheke-rheinland",
+      "name": "Cannabis Apotheke Rheinland",
+      "cityName": "Bad Neuenahr-Ahrweiler",
+      "productCount": 161,
+      "hasDelivery": true
+    },
+    {
+      "slug": "grune-blute-ulmen-apotheke",
+      "name": "Grüne Blüte",
+      "cityName": "Frankenthal (Pfalz)",
+      "productCount": 158,
+      "hasDelivery": true
+    },
+    {
+      "slug": "pharmablute",
+      "name": "PharmaBlüte",
+      "cityName": "Mainz",
+      "productCount": 124,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis4me",
+      "name": "cannabis4me",
+      "cityName": "Bad Neuenahr-Ahrweiler",
+      "productCount": 89,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-am-kornmarkt",
+      "name": "Apotheke am Kornmarkt",
+      "cityName": "Trier",
+      "productCount": 64,
+      "hasDelivery": false
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Green City Cannabis - Cannabis Apotheke in Grünstadt",
+      "description": "Green City Cannabis in Grünstadt. 62 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/green-city-cannabis",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Green City Cannabis - Cannabis Apotheke in Grünstadt",
+        "description": "Green City Cannabis in Grünstadt. 62 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/green-city-cannabis",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/6839d8a2cad57574a9bf9c69-6g57j2.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Grünstadt",
+        "href": "https://weed.de/cannabis-apotheke/gruenstadt"
+      },
+      {
+        "name": "Green City Cannabis",
+        "href": "https://weed.de/apotheke/green-city-cannabis"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Grünstadt",
+            "item": "https://weed.de/cannabis-apotheke/gruenstadt"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Green City Cannabis",
+            "item": "https://weed.de/apotheke/green-city-cannabis"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Green City Cannabis",
+        "url": "https://weed.de/apotheke/green-city-cannabis",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Hauptstraße 16",
+          "addressLocality": "Grünstadt",
+          "postalCode": "67269",
+          "addressRegion": "Rheinland-Pfalz",
+          "addressCountry": "DE"
+        },
+        "telephone": "06359919238",
+        "email": "shop@greencitycannabis.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/gruenstadt",
+      "text": "Cannabis Apotheken in Grünstadt",
+      "title": "Alle Apotheken in Grünstadt"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/cannabis-apotheke-rheinland",
+        "text": "Cannabis Apotheke Rheinland",
+        "title": "Cannabis Apotheke Rheinland in Bad Neuenahr-Ahrweiler"
+      },
+      {
+        "href": "/apotheke/grune-blute-ulmen-apotheke",
+        "text": "Grüne Blüte",
+        "title": "Grüne Blüte in Frankenthal (Pfalz)"
+      },
+      {
+        "href": "/apotheke/pharmablute",
+        "text": "PharmaBlüte",
+        "title": "PharmaBlüte in Mainz"
+      },
+      {
+        "href": "/apotheke/cannabis4me",
+        "text": "cannabis4me",
+        "title": "cannabis4me in Bad Neuenahr-Ahrweiler"
+      },
+      {
+        "href": "/apotheke/apotheke-am-kornmarkt",
+        "text": "Apotheke am Kornmarkt",
+        "title": "Apotheke am Kornmarkt in Trier"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

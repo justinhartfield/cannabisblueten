@@ -1,0 +1,166 @@
+{
+  "brand": {
+    "slug": "apocan",
+    "name": "Apocan",
+    "productCount": 4
+  },
+  "products": [
+    {
+      "slug": "apocan-natural-221-cannabis-flos",
+      "name": "Apocan Natural 22/1 Cannabis flos",
+      "type": "flower",
+      "thcPercent": 22,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "GG4"
+    },
+    {
+      "slug": "apocan-natural-201-cannabis-flos",
+      "name": "Apocan Natural 20/1 Cannabis flos",
+      "type": "flower",
+      "thcPercent": 20,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "GG4"
+    },
+    {
+      "slug": "apocan-1010-can-extractum-normatum",
+      "name": "Apocan 10/10 CAN Extractum Normatum",
+      "type": "extract",
+      "thcPercent": 1,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": null
+    },
+    {
+      "slug": "apocan-251-can-extractum-normatum",
+      "name": "Apocan 25/1 CAN Extractum Normatum",
+      "type": "extract",
+      "thcPercent": 2.5,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": null
+    }
+  ],
+  "stats": {
+    "productCount": 4,
+    "inStockCount": 0,
+    "avgThc": 11.4,
+    "priceRange": null
+  },
+  "seo": {
+    "meta": {
+      "title": "Apocan Cannabis Produkte - 4 Produkte",
+      "description": "Apocan: 4 Cannabis Produkte. 0 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+      "canonical": "https://weed.de/brand/apocan",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Apocan Cannabis Produkte - 4 Produkte",
+        "description": "Apocan: 4 Cannabis Produkte. 0 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+        "url": "https://weed.de/brand/apocan",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Hersteller",
+        "href": "https://weed.de/brands"
+      },
+      {
+        "name": "Apocan",
+        "href": "https://weed.de/brand/apocan"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Hersteller",
+            "item": "https://weed.de/brands"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Apocan",
+            "item": "https://weed.de/brand/apocan"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Apocan Produkte",
+        "numberOfItems": 4,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/apocan-natural-221-cannabis-flos",
+            "name": "Apocan Natural 22/1 Cannabis flos"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/apocan-natural-201-cannabis-flos",
+            "name": "Apocan Natural 20/1 Cannabis flos"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/apocan-1010-can-extractum-normatum",
+            "name": "Apocan 10/10 CAN Extractum Normatum"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/product/apocan-251-can-extractum-normatum",
+            "name": "Apocan 25/1 CAN Extractum Normatum"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/apocan-natural-221-cannabis-flos",
+        "text": "Apocan Natural 22/1 Cannabis flos",
+        "title": "Apocan Natural 22/1 Cannabis flos"
+      },
+      {
+        "href": "/product/apocan-natural-201-cannabis-flos",
+        "text": "Apocan Natural 20/1 Cannabis flos",
+        "title": "Apocan Natural 20/1 Cannabis flos"
+      },
+      {
+        "href": "/product/apocan-1010-can-extractum-normatum",
+        "text": "Apocan 10/10 CAN Extractum Normatum",
+        "title": "Apocan 10/10 CAN Extractum Normatum"
+      },
+      {
+        "href": "/product/apocan-251-can-extractum-normatum",
+        "text": "Apocan 25/1 CAN Extractum Normatum",
+        "title": "Apocan 25/1 CAN Extractum Normatum"
+      }
+    ]
+  }
+}

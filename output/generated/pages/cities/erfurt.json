@@ -1,0 +1,135 @@
+{
+  "city": {
+    "slug": "erfurt",
+    "name": "Erfurt",
+    "state": "Thüringen"
+  },
+  "stats": {
+    "pharmacyCount": 1,
+    "totalProducts": 36,
+    "hasDelivery": true
+  },
+  "pharmacies": [
+    {
+      "slug": "apotheke-am-zoopark",
+      "name": "green elephant weed",
+      "street": "Julius-Leber-Ring 5A",
+      "zip": "99087",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 36,
+      "rating": 5,
+      "ratingCount": 1
+    }
+  ],
+  "nearbyCities": [
+    {
+      "slug": "bad-berka",
+      "name": "Bad Berka",
+      "pharmacyCount": 1
+    },
+    {
+      "slug": "muehlhausen-thueringen",
+      "name": "Mühlhausen/Thüringen",
+      "pharmacyCount": 1
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannabis Apotheke Erfurt - 1 Apotheken",
+      "description": "Cannabis Apotheken in Erfurt. 1 Apotheken mit 36 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+      "canonical": "https://weed.de/cannabis-apotheke/erfurt",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannabis Apotheke Erfurt - 1 Apotheken",
+        "description": "Cannabis Apotheken in Erfurt. 1 Apotheken mit 36 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+        "url": "https://weed.de/cannabis-apotheke/erfurt",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Erfurt",
+        "href": "https://weed.de/cannabis-apotheke/erfurt"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Erfurt",
+            "item": "https://weed.de/cannabis-apotheke/erfurt"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Cannabis Apotheken in Erfurt",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/apotheke/apotheke-am-zoopark",
+            "name": "green elephant weed"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "pharmacies": [
+      {
+        "href": "/apotheke/apotheke-am-zoopark",
+        "text": "green elephant weed",
+        "title": "green elephant weed in Erfurt"
+      }
+    ],
+    "nearbyCities": [
+      {
+        "href": "/cannabis-apotheke/bad-berka",
+        "text": "Cannabis Apotheke Bad Berka",
+        "title": "1 Apotheken in Bad Berka"
+      },
+      {
+        "href": "/cannabis-apotheke/muehlhausen-thueringen",
+        "text": "Cannabis Apotheke Mühlhausen/Thüringen",
+        "title": "1 Apotheken in Mühlhausen/Thüringen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Single pharmacy with good product coverage"
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "strain": {
+    "slug": "jet-fuel-pie",
+    "name": "Jet Fuel Pie",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [
+      "Focused",
+      "Euphoric",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Diesel",
+      "Earthy",
+      "Sweet"
+    ],
+    "terpenes": [
+      "Linalool",
+      "Limonene",
+      "Pinene",
+      "Myrcene",
+      "Humulene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 3,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 499,
+      "max": 1295,
+      "formatted": {
+        "min": "4,99 €",
+        "max": "12,95 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "avaay-31-jfp",
+      "name": "Avaay 30/1 JFP",
+      "brandName": "Avaay",
+      "thcPercent": 30,
+      "priceMin": 769,
+      "inStock": true
+    },
+    {
+      "slug": "avaay-271-jfp",
+      "name": "avaay 27/1 JFP",
+      "brandName": "Avaay",
+      "thcPercent": 27,
+      "priceMin": 499,
+      "inStock": true
+    },
+    {
+      "slug": "avaay-341-jfp",
+      "name": "Avaay 34/1 JFP",
+      "brandName": "Avaay",
+      "thcPercent": 34,
+      "priceMin": 845,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "auto-kerosene-krash",
+      "name": "Auto Kerosene Krash",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "frosted-cookies",
+      "name": "Frosted Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "alien-mints",
+      "name": "Alien Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "dirty-taxi",
+      "name": "Dirty Taxi",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "super-citra-g",
+      "name": "Super Citra G",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Jet Fuel Pie (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Jet Fuel Pie: Focused, Euphoric, Relaxed. 3 Produkte verfügbar. ab 4,99 €.",
+      "canonical": "https://weed.de/strain/jet-fuel-pie",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Jet Fuel Pie (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Jet Fuel Pie: Focused, Euphoric, Relaxed. 3 Produkte verfügbar. ab 4,99 €.",
+        "url": "https://weed.de/strain/jet-fuel-pie",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Jet Fuel Pie",
+        "href": "https://weed.de/strain/jet-fuel-pie"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Jet Fuel Pie",
+            "item": "https://weed.de/strain/jet-fuel-pie"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Jet Fuel Pie Produkte",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/avaay-31-jfp",
+            "name": "Avaay 30/1 JFP"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/avaay-271-jfp",
+            "name": "avaay 27/1 JFP"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/avaay-341-jfp",
+            "name": "Avaay 34/1 JFP"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/avaay-31-jfp",
+        "text": "Avaay 30/1 JFP",
+        "title": "Avaay 30/1 JFP von Avaay"
+      },
+      {
+        "href": "/product/avaay-271-jfp",
+        "text": "avaay 27/1 JFP",
+        "title": "avaay 27/1 JFP von Avaay"
+      },
+      {
+        "href": "/product/avaay-341-jfp",
+        "text": "Avaay 34/1 JFP",
+        "title": "Avaay 34/1 JFP von Avaay"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/auto-kerosene-krash",
+        "text": "Auto Kerosene Krash",
+        "title": "Auto Kerosene Krash - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/frosted-cookies",
+        "text": "Frosted Cookies",
+        "title": "Frosted Cookies - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/alien-mints",
+        "text": "Alien Mints",
+        "title": "Alien Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/dirty-taxi",
+        "text": "Dirty Taxi",
+        "title": "Dirty Taxi - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/super-citra-g",
+        "text": "Super Citra G",
+        "title": "Super Citra G - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/pinene",
+        "text": "Pinene",
+        "title": "Pinene Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/humulene",
+        "text": "Humulene",
+        "title": "Humulene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

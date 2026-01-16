@@ -1,0 +1,235 @@
+{
+  "strain": {
+    "slug": "khalifa-mints",
+    "name": "Khalifa Mints",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Euphoric",
+      "Creative",
+      "Energetic"
+    ],
+    "tastes": [
+      "Diesel",
+      "Mint",
+      "Vanilla"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 878,
+      "max": 1395,
+      "formatted": {
+        "min": "8,78 €",
+        "max": "13,95 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "avaay-khalifa-281-km",
+      "name": "avaay Khalifa 28/1 KM",
+      "brandName": "Avaay",
+      "thcPercent": 28,
+      "priceMin": 878,
+      "inStock": true
+    },
+    {
+      "slug": "avaay-khalifa-241-km",
+      "name": "avaay Khalifa 24/1 KM",
+      "brandName": "Avaay",
+      "thcPercent": 23.8,
+      "priceMin": 899,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "diamond-mints",
+      "name": "Diamond Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "driftwood-diesel",
+      "name": "Driftwood Diesel",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "forbidden-dream",
+      "name": "Forbidden Dream",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "pineapple-nuken",
+      "name": "Pineapple Nuken",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "gul-of-mexiko",
+      "name": "Gul of Mexiko",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Khalifa Mints (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Khalifa Mints: Euphoric, Creative, Energetic. 2 Produkte verfügbar. ab 8,78 €.",
+      "canonical": "https://weed.de/strain/khalifa-mints",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Khalifa Mints (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Khalifa Mints: Euphoric, Creative, Energetic. 2 Produkte verfügbar. ab 8,78 €.",
+        "url": "https://weed.de/strain/khalifa-mints",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Khalifa Mints",
+        "href": "https://weed.de/strain/khalifa-mints"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Khalifa Mints",
+            "item": "https://weed.de/strain/khalifa-mints"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Khalifa Mints Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/avaay-khalifa-281-km",
+            "name": "avaay Khalifa 28/1 KM"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/avaay-khalifa-241-km",
+            "name": "avaay Khalifa 24/1 KM"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/avaay-khalifa-281-km",
+        "text": "avaay Khalifa 28/1 KM",
+        "title": "avaay Khalifa 28/1 KM von Avaay"
+      },
+      {
+        "href": "/product/avaay-khalifa-241-km",
+        "text": "avaay Khalifa 24/1 KM",
+        "title": "avaay Khalifa 24/1 KM von Avaay"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/diamond-mints",
+        "text": "Diamond Mints",
+        "title": "Diamond Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/driftwood-diesel",
+        "text": "Driftwood Diesel",
+        "title": "Driftwood Diesel - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/forbidden-dream",
+        "text": "Forbidden Dream",
+        "title": "Forbidden Dream - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/pineapple-nuken",
+        "text": "Pineapple Nuken",
+        "title": "Pineapple Nuken - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/gul-of-mexiko",
+        "text": "Gul of Mexiko",
+        "title": "Gul of Mexiko - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

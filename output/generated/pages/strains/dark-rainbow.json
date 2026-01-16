@@ -1,0 +1,222 @@
+{
+  "strain": {
+    "slug": "dark-rainbow",
+    "name": "Dark Rainbow",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [
+      "Happy",
+      "Relaxed",
+      "Sleepy"
+    ],
+    "tastes": [
+      "Earthy",
+      "Citrus",
+      "Spicy"
+    ],
+    "terpenes": [
+      "Linalool",
+      "Limonene",
+      "Humulene",
+      "Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 795,
+      "max": 795,
+      "formatted": {
+        "min": "7,95 €",
+        "max": "7,95 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "mgf-dr-26",
+      "name": "MGF DR 26",
+      "brandName": "MGF Via Medical",
+      "thcPercent": 26,
+      "priceMin": 795,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "gush-mints",
+      "name": "Gush Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "rainmaker",
+      "name": "Rainmaker",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "apple-fritter",
+      "name": "Apple Fritter",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "chem-cookies",
+      "name": "Chemdawg Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "scottis-purps",
+      "name": "Scotti´s Purps",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Dark Rainbow (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Dark Rainbow: Happy, Relaxed, Sleepy. 1 Produkte verfügbar. ab 7,95 €.",
+      "canonical": "https://weed.de/strain/dark-rainbow",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Dark Rainbow (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Dark Rainbow: Happy, Relaxed, Sleepy. 1 Produkte verfügbar. ab 7,95 €.",
+        "url": "https://weed.de/strain/dark-rainbow",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Dark Rainbow",
+        "href": "https://weed.de/strain/dark-rainbow"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Dark Rainbow",
+            "item": "https://weed.de/strain/dark-rainbow"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Dark Rainbow Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/mgf-dr-26",
+            "name": "MGF DR 26"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/mgf-dr-26",
+        "text": "MGF DR 26",
+        "title": "MGF DR 26 von MGF Via Medical"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/gush-mints",
+        "text": "Gush Mints",
+        "title": "Gush Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/rainmaker",
+        "text": "Rainmaker",
+        "title": "Rainmaker - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/apple-fritter",
+        "text": "Apple Fritter",
+        "title": "Apple Fritter - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/chem-cookies",
+        "text": "Chemdawg Cookies",
+        "title": "Chemdawg Cookies - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/scottis-purps",
+        "text": "Scotti´s Purps",
+        "title": "Scotti´s Purps - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/humulene",
+        "text": "Humulene",
+        "title": "Humulene Terpen"
+      },
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

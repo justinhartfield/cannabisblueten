@@ -1,0 +1,333 @@
+{
+  "brand": {
+    "slug": "grow-group",
+    "name": "Grow group",
+    "productCount": 12
+  },
+  "products": [
+    {
+      "slug": "grow-251-can",
+      "name": "GROW 25:1 CAN",
+      "type": "extract",
+      "thcPercent": 2.5,
+      "priceMin": 475,
+      "inStock": true,
+      "strainName": "Shiskaberry"
+    },
+    {
+      "slug": "grow-125-can",
+      "name": "GROW 1:25 CAN",
+      "type": "extract",
+      "thcPercent": 0.1,
+      "priceMin": 485,
+      "inStock": true,
+      "strainName": "Shiskaberry"
+    },
+    {
+      "slug": "grow-27-pl",
+      "name": "GROW 27 PL",
+      "type": "flower",
+      "thcPercent": 26,
+      "priceMin": 590,
+      "inStock": true,
+      "strainName": "Pink Lilac"
+    },
+    {
+      "slug": "grow-2525",
+      "name": "GROW 25:25",
+      "type": "extract",
+      "thcPercent": 2.5,
+      "priceMin": 460,
+      "inStock": true,
+      "strainName": "Afghaniberry"
+    },
+    {
+      "slug": "grow-1010",
+      "name": "GROW 10:10",
+      "type": "extract",
+      "thcPercent": 1,
+      "priceMin": 425,
+      "inStock": true,
+      "strainName": "Afghaniberry"
+    },
+    {
+      "slug": "grow-fs-extrakt",
+      "name": "GROW FS Extrakt",
+      "type": "extract",
+      "thcPercent": 1,
+      "priceMin": 333,
+      "inStock": true,
+      "strainName": "Nebula"
+    },
+    {
+      "slug": "grow-1015",
+      "name": "Grow 10:15",
+      "type": "extract",
+      "thcPercent": 1,
+      "priceMin": 485,
+      "inStock": true,
+      "strainName": "Shiskaberry"
+    },
+    {
+      "slug": "grow-ro-24",
+      "name": "GROW RO 24",
+      "type": "flower",
+      "thcPercent": 24.7,
+      "priceMin": 527,
+      "inStock": true,
+      "strainName": "Moon Rocks"
+    },
+    {
+      "slug": "grow-mo-27-g-modo",
+      "name": "GROW MO 27 G-Modo",
+      "type": "flower",
+      "thcPercent": 27,
+      "priceMin": 476,
+      "inStock": true,
+      "strainName": "GMO"
+    },
+    {
+      "slug": "grow-18-hf-mac",
+      "name": "GROW 18 HF Mac",
+      "type": "flower",
+      "thcPercent": 18,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Hellfire OG"
+    },
+    {
+      "slug": "grow-27-dc",
+      "name": "GROW 27 DC",
+      "type": "flower",
+      "thcPercent": 27,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Dosi Cookies"
+    },
+    {
+      "slug": "grow-30-gs",
+      "name": "GROW 30 GS",
+      "type": "flower",
+      "thcPercent": 27,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Gelato Sherbert"
+    }
+  ],
+  "stats": {
+    "productCount": 12,
+    "inStockCount": 9,
+    "avgThc": 13.2,
+    "priceRange": {
+      "min": 333,
+      "max": 590,
+      "formatted": {
+        "min": "3,33 €",
+        "max": "5,90 €"
+      }
+    }
+  },
+  "seo": {
+    "meta": {
+      "title": "Grow group Cannabis Produkte - 12 Produkte",
+      "description": "Grow group: 12 Cannabis Produkte. 9 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+      "canonical": "https://weed.de/brand/grow-group",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Grow group Cannabis Produkte - 12 Produkte",
+        "description": "Grow group: 12 Cannabis Produkte. 9 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+        "url": "https://weed.de/brand/grow-group",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Hersteller",
+        "href": "https://weed.de/brands"
+      },
+      {
+        "name": "Grow group",
+        "href": "https://weed.de/brand/grow-group"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Hersteller",
+            "item": "https://weed.de/brands"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Grow group",
+            "item": "https://weed.de/brand/grow-group"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Grow group Produkte",
+        "numberOfItems": 12,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/grow-251-can",
+            "name": "GROW 25:1 CAN"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/grow-125-can",
+            "name": "GROW 1:25 CAN"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/grow-27-pl",
+            "name": "GROW 27 PL"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/product/grow-2525",
+            "name": "GROW 25:25"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "https://weed.de/product/grow-1010",
+            "name": "GROW 10:10"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "url": "https://weed.de/product/grow-fs-extrakt",
+            "name": "GROW FS Extrakt"
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "url": "https://weed.de/product/grow-1015",
+            "name": "Grow 10:15"
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "url": "https://weed.de/product/grow-ro-24",
+            "name": "GROW RO 24"
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "url": "https://weed.de/product/grow-mo-27-g-modo",
+            "name": "GROW MO 27 G-Modo"
+          },
+          {
+            "@type": "ListItem",
+            "position": 10,
+            "url": "https://weed.de/product/grow-18-hf-mac",
+            "name": "GROW 18 HF Mac"
+          },
+          {
+            "@type": "ListItem",
+            "position": 11,
+            "url": "https://weed.de/product/grow-27-dc",
+            "name": "GROW 27 DC"
+          },
+          {
+            "@type": "ListItem",
+            "position": 12,
+            "url": "https://weed.de/product/grow-30-gs",
+            "name": "GROW 30 GS"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/grow-251-can",
+        "text": "GROW 25:1 CAN",
+        "title": "GROW 25:1 CAN"
+      },
+      {
+        "href": "/product/grow-125-can",
+        "text": "GROW 1:25 CAN",
+        "title": "GROW 1:25 CAN"
+      },
+      {
+        "href": "/product/grow-27-pl",
+        "text": "GROW 27 PL",
+        "title": "GROW 27 PL"
+      },
+      {
+        "href": "/product/grow-2525",
+        "text": "GROW 25:25",
+        "title": "GROW 25:25"
+      },
+      {
+        "href": "/product/grow-1010",
+        "text": "GROW 10:10",
+        "title": "GROW 10:10"
+      },
+      {
+        "href": "/product/grow-fs-extrakt",
+        "text": "GROW FS Extrakt",
+        "title": "GROW FS Extrakt"
+      },
+      {
+        "href": "/product/grow-1015",
+        "text": "Grow 10:15",
+        "title": "Grow 10:15"
+      },
+      {
+        "href": "/product/grow-ro-24",
+        "text": "GROW RO 24",
+        "title": "GROW RO 24"
+      },
+      {
+        "href": "/product/grow-mo-27-g-modo",
+        "text": "GROW MO 27 G-Modo",
+        "title": "GROW MO 27 G-Modo"
+      },
+      {
+        "href": "/product/grow-18-hf-mac",
+        "text": "GROW 18 HF Mac",
+        "title": "GROW 18 HF Mac"
+      },
+      {
+        "href": "/product/grow-27-dc",
+        "text": "GROW 27 DC",
+        "title": "GROW 27 DC"
+      },
+      {
+        "href": "/product/grow-30-gs",
+        "text": "GROW 30 GS",
+        "title": "GROW 30 GS"
+      }
+    ]
+  }
+}

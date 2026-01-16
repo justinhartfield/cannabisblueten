@@ -1,0 +1,215 @@
+{
+  "strain": {
+    "slug": "gelato-x-orange-cake",
+    "name": "Gelato x Orange Cake",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Creative",
+      "Focused"
+    ],
+    "tastes": [
+      "Vanilla",
+      "Citrus",
+      "Spicy"
+    ],
+    "terpenes": [],
+    "description": "Gelato x Orange Cake, auch bekannt als GLOC, ist ein ausgewogener Hybrid, der durch die Kreuzung von Gelato 33 und Orange Cake entstanden ist. Diese Sorte wurde von Lot420 gezüchtet und vereint die kraftvollen, dichten Blütenstrukturen von Gelato 33 mit dem exotischen Terpenprofil von Orange Cake, das selbst aus Glazed Apricot Gelato und Medellin hervorgegangen ist.\n",
+    "imageUrl": "/strains/68b40f6f34d38519d1254369-a27ej3.webp"
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 920,
+      "max": 1090,
+      "formatted": {
+        "min": "9,20 €",
+        "max": "10,90 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "lot-42-gloc-251",
+      "name": "LOT 420 GLOC 25/1",
+      "brandName": "Cantourage",
+      "thcPercent": 25,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "lot-42-gloc",
+      "name": "LOT 420 GLOC",
+      "brandName": "Cantourage",
+      "thcPercent": 28,
+      "priceMin": 920,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "purple-dog-bud",
+      "name": "Purple Dog Bud",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "mac-1",
+      "name": "MAC 1",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "delahaze",
+      "name": "Delahaze",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "cold-creek-kush",
+      "name": "Cold Creek Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "california-orange",
+      "name": "California Orange",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Gelato x Orange Cake (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Gelato x Orange Cake: Creative, Focused. 2 Produkte verfügbar. ab 9,20 €.",
+      "canonical": "https://weed.de/strain/gelato-x-orange-cake",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Gelato x Orange Cake (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Gelato x Orange Cake: Creative, Focused. 2 Produkte verfügbar. ab 9,20 €.",
+        "url": "https://weed.de/strain/gelato-x-orange-cake",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "/strains/68b40f6f34d38519d1254369-a27ej3.webp"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Gelato x Orange Cake",
+        "href": "https://weed.de/strain/gelato-x-orange-cake"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Gelato x Orange Cake",
+            "item": "https://weed.de/strain/gelato-x-orange-cake"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Gelato x Orange Cake Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/lot-42-gloc-251",
+            "name": "LOT 420 GLOC 25/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/lot-42-gloc",
+            "name": "LOT 420 GLOC"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/lot-42-gloc-251",
+        "text": "LOT 420 GLOC 25/1",
+        "title": "LOT 420 GLOC 25/1 von Cantourage"
+      },
+      {
+        "href": "/product/lot-42-gloc",
+        "text": "LOT 420 GLOC",
+        "title": "LOT 420 GLOC von Cantourage"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/purple-dog-bud",
+        "text": "Purple Dog Bud",
+        "title": "Purple Dog Bud - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/mac-1",
+        "text": "MAC 1",
+        "title": "MAC 1 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/delahaze",
+        "text": "Delahaze",
+        "title": "Delahaze - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/cold-creek-kush",
+        "text": "Cold Creek Kush",
+        "title": "Cold Creek Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/california-orange",
+        "text": "California Orange",
+        "title": "California Orange - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": []
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

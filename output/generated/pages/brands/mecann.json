@@ -1,0 +1,153 @@
+{
+  "brand": {
+    "slug": "mecann",
+    "name": "MeCann",
+    "productCount": 3
+  },
+  "products": [
+    {
+      "slug": "mecann-241-oreoz",
+      "name": "MeCann 24/1 Oreoz",
+      "type": "flower",
+      "thcPercent": 24,
+      "priceMin": 418,
+      "inStock": true,
+      "strainName": "Oreoz"
+    },
+    {
+      "slug": "mecann-251",
+      "name": "MeCann 25/1",
+      "type": "flower",
+      "thcPercent": 25,
+      "priceMin": 485,
+      "inStock": true,
+      "strainName": "Permanent Marker"
+    },
+    {
+      "slug": "mecann-191-jh",
+      "name": "MeCann 19/1 JH",
+      "type": "flower",
+      "thcPercent": 18.5,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Jack Herer"
+    }
+  ],
+  "stats": {
+    "productCount": 3,
+    "inStockCount": 2,
+    "avgThc": 22.5,
+    "priceRange": {
+      "min": 418,
+      "max": 485,
+      "formatted": {
+        "min": "4,18 €",
+        "max": "4,85 €"
+      }
+    }
+  },
+  "seo": {
+    "meta": {
+      "title": "MeCann Cannabis Produkte - 3 Produkte",
+      "description": "MeCann: 3 Cannabis Produkte. 2 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+      "canonical": "https://weed.de/brand/mecann",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "MeCann Cannabis Produkte - 3 Produkte",
+        "description": "MeCann: 3 Cannabis Produkte. 2 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+        "url": "https://weed.de/brand/mecann",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Hersteller",
+        "href": "https://weed.de/brands"
+      },
+      {
+        "name": "MeCann",
+        "href": "https://weed.de/brand/mecann"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Hersteller",
+            "item": "https://weed.de/brands"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "MeCann",
+            "item": "https://weed.de/brand/mecann"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "MeCann Produkte",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/mecann-241-oreoz",
+            "name": "MeCann 24/1 Oreoz"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/mecann-251",
+            "name": "MeCann 25/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/mecann-191-jh",
+            "name": "MeCann 19/1 JH"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/mecann-241-oreoz",
+        "text": "MeCann 24/1 Oreoz",
+        "title": "MeCann 24/1 Oreoz"
+      },
+      {
+        "href": "/product/mecann-251",
+        "text": "MeCann 25/1",
+        "title": "MeCann 25/1"
+      },
+      {
+        "href": "/product/mecann-191-jh",
+        "text": "MeCann 19/1 JH",
+        "title": "MeCann 19/1 JH"
+      }
+    ]
+  }
+}

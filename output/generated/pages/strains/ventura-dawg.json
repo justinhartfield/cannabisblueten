@@ -1,0 +1,244 @@
+{
+  "strain": {
+    "slug": "ventura-dawg",
+    "name": "Ventura Dawg",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [
+      "Relaxed",
+      "Pain-relief",
+      "Stress-relief"
+    ],
+    "tastes": [
+      "Diesel",
+      "Earthy",
+      "Woody",
+      "Lemon",
+      "Chemical",
+      "Tangy"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Farnesene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 794,
+      "max": 794,
+      "formatted": {
+        "min": "7,94 €",
+        "max": "7,94 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "cannabistada-ved-27",
+      "name": "CannabiStada VED 27",
+      "brandName": "Stada",
+      "thcPercent": 27,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "remexian-301-crn-vtd",
+      "name": "Remexian 30/1 CRN VTD",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 30,
+      "priceMin": 794,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "lemon-berry-og",
+      "name": "Lemon Berry OG",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "gelato-zkittles",
+      "name": "Gelato Zkittles",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "mystic-wonder",
+      "name": "Mystic Wonder",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "frosted-lemon-cake",
+      "name": "Frosted Lemon Cake",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "platinum-grapes",
+      "name": "Platinum Grapes",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Ventura Dawg (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Ventura Dawg: Relaxed, Pain-relief, Stress-relief. 2 Produkte verfügbar. ab 7,94 €.",
+      "canonical": "https://weed.de/strain/ventura-dawg",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Ventura Dawg (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Ventura Dawg: Relaxed, Pain-relief, Stress-relief. 2 Produkte verfügbar. ab 7,94 €.",
+        "url": "https://weed.de/strain/ventura-dawg",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Ventura Dawg",
+        "href": "https://weed.de/strain/ventura-dawg"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Ventura Dawg",
+            "item": "https://weed.de/strain/ventura-dawg"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Ventura Dawg Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/cannabistada-ved-27",
+            "name": "CannabiStada VED 27"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/remexian-301-crn-vtd",
+            "name": "Remexian 30/1 CRN VTD"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/cannabistada-ved-27",
+        "text": "CannabiStada VED 27",
+        "title": "CannabiStada VED 27 von Stada"
+      },
+      {
+        "href": "/product/remexian-301-crn-vtd",
+        "text": "Remexian 30/1 CRN VTD",
+        "title": "Remexian 30/1 CRN VTD von Remexian Pharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/lemon-berry-og",
+        "text": "Lemon Berry OG",
+        "title": "Lemon Berry OG - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/gelato-zkittles",
+        "text": "Gelato Zkittles",
+        "title": "Gelato Zkittles - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/mystic-wonder",
+        "text": "Mystic Wonder",
+        "title": "Mystic Wonder - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/frosted-lemon-cake",
+        "text": "Frosted Lemon Cake",
+        "title": "Frosted Lemon Cake - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/platinum-grapes",
+        "text": "Platinum Grapes",
+        "title": "Platinum Grapes - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/farnesene",
+        "text": "Farnesene",
+        "title": "Farnesene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

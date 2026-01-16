@@ -1,0 +1,237 @@
+{
+  "product": {
+    "slug": "bc-green-171-oc",
+    "name": "BC Green 17/1 OC",
+    "type": "flower",
+    "genetics": "hybrid_indica",
+    "thcPercent": 17,
+    "cbdPercent": 1,
+    "priceMin": 900,
+    "priceMax": 900,
+    "inStock": false,
+    "pzn": null,
+    "originCountry": "N/A",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "bc-green",
+    "name": "BC Green",
+    "productCount": 16
+  },
+  "strain": {
+    "slug": "orange-crasher",
+    "name": "Orange Crasher",
+    "geneticType": "hybrid",
+    "effects": [
+      "Euphoric",
+      "Creative",
+      "Focused",
+      "Relaxed",
+      "Mood-lifting",
+      "Sleepy",
+      "Pain-relief",
+      "Stress-relief"
+    ],
+    "terpenes": [
+      "Beta-Myrcene",
+      "Beta-Caryophyllene",
+      "Terpinolene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Euphoric",
+      "Creative",
+      "Focused",
+      "Relaxed",
+      "Mood-lifting",
+      "Sleepy",
+      "Pain-relief",
+      "Stress-relief"
+    ],
+    "tastes": [
+      "Earthy",
+      "Citrus",
+      "Vanilla",
+      "Orange",
+      "Creamy",
+      "Tangy"
+    ],
+    "terpenes": [
+      "Beta-Myrcene",
+      "Beta-Caryophyllene",
+      "Terpinolene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "enua-251-cck-ca",
+      "name": "enua 25/1 CCK CA",
+      "brandName": "enua",
+      "thcPercent": 25.2,
+      "priceMin": 399,
+      "inStock": true
+    },
+    {
+      "slug": "ceres-no-2",
+      "name": "Ceres No. 2",
+      "brandName": "Cantourage",
+      "thcPercent": 25,
+      "priceMin": 590,
+      "inStock": true
+    },
+    {
+      "slug": "420-evolution-271-ca-icc",
+      "name": "420 EVOLUTION 27/1 CA ICC",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 27,
+      "priceMin": 684,
+      "inStock": true
+    },
+    {
+      "slug": "420-natural-221-gg4",
+      "name": "420 Natural 22/1 GG4",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 22,
+      "priceMin": 723,
+      "inStock": true
+    },
+    {
+      "slug": "canngo-ocr-21-orange-crasher-by-the-bc-green",
+      "name": "CannGo OCR 20/1 Orange Crasher by The BC Green",
+      "brandName": "BC Green",
+      "thcPercent": 20,
+      "priceMin": 895,
+      "inStock": true
+    },
+    {
+      "slug": "avaay-241-did",
+      "name": "AVAAY 24/1 DiD",
+      "brandName": "Avaay",
+      "thcPercent": 24,
+      "priceMin": 949,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "BC Green 17/1 OC | ab 9,00 €",
+      "description": "BC Green 17/1 OC von BC Green. THC: 17%, CBD: 1%. Sorte: Orange Crasher. Preis ab 9,00 €. Preise vergleichen.",
+      "canonical": "https://weed.de/product/bc-green-171-oc",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "BC Green 17/1 OC | ab 9,00 €",
+        "description": "BC Green 17/1 OC von BC Green. THC: 17%, CBD: 1%. Sorte: Orange Crasher. Preis ab 9,00 €. Preise vergleichen.",
+        "url": "https://weed.de/product/bc-green-171-oc",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "BC Green",
+        "href": "https://weed.de/brand/bc-green"
+      },
+      {
+        "name": "BC Green 17/1 OC",
+        "href": "https://weed.de/product/bc-green-171-oc"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "BC Green 17/1 OC",
+            "item": "https://weed.de/product/bc-green-171-oc"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BC Green 17/1 OC",
+        "brand": {
+          "@type": "Brand",
+          "name": "BC Green"
+        },
+        "description": "THC: 17%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/orange-crasher",
+      "text": "Orange Crasher",
+      "title": "Orange Crasher Sorte"
+    },
+    "brand": {
+      "href": "/brand/bc-green",
+      "text": "BC Green",
+      "title": "Alle BC Green Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/enua-251-cck-ca",
+        "text": "enua 25/1 CCK CA",
+        "title": "Alternative: enua 25/1 CCK CA"
+      },
+      {
+        "href": "/product/ceres-no-2",
+        "text": "Ceres No. 2",
+        "title": "Alternative: Ceres No. 2"
+      },
+      {
+        "href": "/product/420-evolution-271-ca-icc",
+        "text": "420 EVOLUTION 27/1 CA ICC",
+        "title": "Alternative: 420 EVOLUTION 27/1 CA ICC"
+      },
+      {
+        "href": "/product/420-natural-221-gg4",
+        "text": "420 Natural 22/1 GG4",
+        "title": "Alternative: 420 Natural 22/1 GG4"
+      },
+      {
+        "href": "/product/canngo-ocr-21-orange-crasher-by-the-bc-green",
+        "text": "CannGo OCR 20/1 Orange Crasher by The BC Green",
+        "title": "Alternative: CannGo OCR 20/1 Orange Crasher by The BC Green"
+      },
+      {
+        "href": "/product/avaay-241-did",
+        "text": "AVAAY 24/1 DiD",
+        "title": "Alternative: AVAAY 24/1 DiD"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has price data"
+  }
+}

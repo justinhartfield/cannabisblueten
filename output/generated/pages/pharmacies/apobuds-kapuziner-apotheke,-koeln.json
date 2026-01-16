@@ -1,0 +1,187 @@
+{
+  "pharmacy": {
+    "slug": "apobuds-kapuziner-apotheke,-koeln",
+    "name": "Kapuziner Apotheke, Köln",
+    "street": "Neusser Straße 651",
+    "zip": "50737",
+    "cityName": "Köln",
+    "state": "Nordrhein-Westfalen",
+    "lat": 50.9851775,
+    "lng": 6.9464038,
+    "hasDelivery": false,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://kapuziner.apobuds.de",
+    "phone": "+49221742121",
+    "email": "cannabis@kapuziner-apotheke.com",
+    "productCount": 23,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": null
+  },
+  "city": {
+    "slug": "koeln",
+    "name": "Köln",
+    "pharmacyCount": 7
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "paracelsus-apotheke-cannabis-caesar",
+      "name": "Paracelsus Apotheke (Cannabis Caesar)",
+      "cityName": "Köln",
+      "productCount": 147,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-im-haubrichforum",
+      "name": "Apotheke im Haubrichforum",
+      "cityName": "Köln",
+      "productCount": 47,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-friesentor-cannacolonia",
+      "name": "Apotheke Friesentor - CannaColonia",
+      "cityName": "Köln",
+      "productCount": 25,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannamundus-stadt-apotheke-koeln",
+      "name": "CANNAMUNDUS (Stadt-Apotheke Köln)",
+      "cityName": "Köln",
+      "productCount": 24,
+      "hasDelivery": true
+    },
+    {
+      "slug": "docverde-apotheke-koeln-muelheim-ohg",
+      "name": "DocVerde Apotheke Köln-Mülheim OHG",
+      "cityName": "Köln",
+      "productCount": 7,
+      "hasDelivery": false
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Kapuziner Apotheke, Köln - Cannabis Apotheke in Köln",
+      "description": "Kapuziner Apotheke, Köln in Köln. 23 Cannabis Produkte. Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/apobuds-kapuziner-apotheke,-koeln",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Kapuziner Apotheke, Köln - Cannabis Apotheke in Köln",
+        "description": "Kapuziner Apotheke, Köln in Köln. 23 Cannabis Produkte. Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/apobuds-kapuziner-apotheke,-koeln",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Köln",
+        "href": "https://weed.de/cannabis-apotheke/koeln"
+      },
+      {
+        "name": "Kapuziner Apotheke, Köln",
+        "href": "https://weed.de/apotheke/apobuds-kapuziner-apotheke,-koeln"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Köln",
+            "item": "https://weed.de/cannabis-apotheke/koeln"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Kapuziner Apotheke, Köln",
+            "item": "https://weed.de/apotheke/apobuds-kapuziner-apotheke,-koeln"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Kapuziner Apotheke, Köln",
+        "url": "https://weed.de/apotheke/apobuds-kapuziner-apotheke,-koeln",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Neusser Straße 651",
+          "addressLocality": "Köln",
+          "postalCode": "50737",
+          "addressRegion": "Nordrhein-Westfalen",
+          "addressCountry": "DE"
+        },
+        "telephone": "+49221742121",
+        "email": "cannabis@kapuziner-apotheke.com"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/koeln",
+      "text": "Cannabis Apotheken in Köln",
+      "title": "Alle Apotheken in Köln"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/paracelsus-apotheke-cannabis-caesar",
+        "text": "Paracelsus Apotheke (Cannabis Caesar)",
+        "title": "Paracelsus Apotheke (Cannabis Caesar) in Köln"
+      },
+      {
+        "href": "/apotheke/apotheke-im-haubrichforum",
+        "text": "Apotheke im Haubrichforum",
+        "title": "Apotheke im Haubrichforum in Köln"
+      },
+      {
+        "href": "/apotheke/apotheke-friesentor-cannacolonia",
+        "text": "Apotheke Friesentor - CannaColonia",
+        "title": "Apotheke Friesentor - CannaColonia in Köln"
+      },
+      {
+        "href": "/apotheke/cannamundus-stadt-apotheke-koeln",
+        "text": "CANNAMUNDUS (Stadt-Apotheke Köln)",
+        "title": "CANNAMUNDUS (Stadt-Apotheke Köln) in Köln"
+      },
+      {
+        "href": "/apotheke/docverde-apotheke-koeln-muelheim-ohg",
+        "text": "DocVerde Apotheke Köln-Mülheim OHG",
+        "title": "DocVerde Apotheke Köln-Mülheim OHG in Köln"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

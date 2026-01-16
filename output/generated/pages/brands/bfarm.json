@@ -1,0 +1,173 @@
+{
+  "brand": {
+    "slug": "bfarm",
+    "name": "BFARM",
+    "productCount": 4
+  },
+  "products": [
+    {
+      "slug": "medizinal-cannabis-typ-1-aphria",
+      "name": "Medizinal Cannabis Typ 1 Aphria",
+      "type": "flower",
+      "thcPercent": 22,
+      "priceMin": 1311,
+      "inStock": true,
+      "strainName": "Jean Guy"
+    },
+    {
+      "slug": "medizinal-cannabis-typ-2-aphria",
+      "name": "Medizinal Cannabis Typ 2 Aphria",
+      "type": "flower",
+      "thcPercent": 16,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Great Bear"
+    },
+    {
+      "slug": "medizinal-cannabis-typ-3-aphria",
+      "name": "Medizinal Cannabis Typ 3 Aphria",
+      "type": "flower",
+      "thcPercent": 5,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Churchill"
+    },
+    {
+      "slug": "aphria-typ-1",
+      "name": "Aphria Typ 1",
+      "type": "flower",
+      "thcPercent": 21,
+      "priceMin": 1311,
+      "inStock": false,
+      "strainName": "Bienville"
+    }
+  ],
+  "stats": {
+    "productCount": 4,
+    "inStockCount": 1,
+    "avgThc": 16,
+    "priceRange": {
+      "min": 1311,
+      "max": 1311,
+      "formatted": {
+        "min": "13,11 €",
+        "max": "13,11 €"
+      }
+    }
+  },
+  "seo": {
+    "meta": {
+      "title": "BFARM Cannabis Produkte - 4 Produkte",
+      "description": "BFARM: 4 Cannabis Produkte. 1 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+      "canonical": "https://weed.de/brand/bfarm",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "BFARM Cannabis Produkte - 4 Produkte",
+        "description": "BFARM: 4 Cannabis Produkte. 1 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+        "url": "https://weed.de/brand/bfarm",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Hersteller",
+        "href": "https://weed.de/brands"
+      },
+      {
+        "name": "BFARM",
+        "href": "https://weed.de/brand/bfarm"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Hersteller",
+            "item": "https://weed.de/brands"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "BFARM",
+            "item": "https://weed.de/brand/bfarm"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "BFARM Produkte",
+        "numberOfItems": 4,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/medizinal-cannabis-typ-1-aphria",
+            "name": "Medizinal Cannabis Typ 1 Aphria"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/medizinal-cannabis-typ-2-aphria",
+            "name": "Medizinal Cannabis Typ 2 Aphria"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/medizinal-cannabis-typ-3-aphria",
+            "name": "Medizinal Cannabis Typ 3 Aphria"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/product/aphria-typ-1",
+            "name": "Aphria Typ 1"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/medizinal-cannabis-typ-1-aphria",
+        "text": "Medizinal Cannabis Typ 1 Aphria",
+        "title": "Medizinal Cannabis Typ 1 Aphria"
+      },
+      {
+        "href": "/product/medizinal-cannabis-typ-2-aphria",
+        "text": "Medizinal Cannabis Typ 2 Aphria",
+        "title": "Medizinal Cannabis Typ 2 Aphria"
+      },
+      {
+        "href": "/product/medizinal-cannabis-typ-3-aphria",
+        "text": "Medizinal Cannabis Typ 3 Aphria",
+        "title": "Medizinal Cannabis Typ 3 Aphria"
+      },
+      {
+        "href": "/product/aphria-typ-1",
+        "text": "Aphria Typ 1",
+        "title": "Aphria Typ 1"
+      }
+    ]
+  }
+}

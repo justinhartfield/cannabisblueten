@@ -1,0 +1,233 @@
+{
+  "strain": {
+    "slug": "cherry-cookies",
+    "name": "Cherry Cookies",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Relaxed",
+      "Sleepy"
+    ],
+    "tastes": [
+      "Cherry",
+      "Sweet",
+      "Fruity"
+    ],
+    "terpenes": [
+      "Beta-Myrcene",
+      "Alpha-Pinene",
+      "Limonene",
+      "Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": null
+  },
+  "products": [
+    {
+      "slug": "phyto-hemp-phcc-21",
+      "name": "Phyto-Hemp PHCC 20/1",
+      "brandName": "Jumis Pharma",
+      "thcPercent": 19.33,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "phyto-hemp-phcc-221",
+      "name": "Phyto-Hemp PHCC 22/1",
+      "brandName": "Jumis Pharma",
+      "thcPercent": 19.33,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "godfather-og-auto",
+      "name": "Godfather OG Auto",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "c47",
+      "name": "C47",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "kerosene-krash",
+      "name": "Kerosene Krash",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "banjo",
+      "name": "Banjo",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "mandarin-cookies",
+      "name": "Mandarin Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cherry Cookies (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Cherry Cookies: Relaxed, Sleepy. 2 Produkte verfügbar.",
+      "canonical": "https://weed.de/strain/cherry-cookies",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cherry Cookies (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Cherry Cookies: Relaxed, Sleepy. 2 Produkte verfügbar.",
+        "url": "https://weed.de/strain/cherry-cookies",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Cherry Cookies",
+        "href": "https://weed.de/strain/cherry-cookies"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Cherry Cookies",
+            "item": "https://weed.de/strain/cherry-cookies"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Cherry Cookies Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/phyto-hemp-phcc-21",
+            "name": "Phyto-Hemp PHCC 20/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/phyto-hemp-phcc-221",
+            "name": "Phyto-Hemp PHCC 22/1"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/phyto-hemp-phcc-21",
+        "text": "Phyto-Hemp PHCC 20/1",
+        "title": "Phyto-Hemp PHCC 20/1 von Jumis Pharma"
+      },
+      {
+        "href": "/product/phyto-hemp-phcc-221",
+        "text": "Phyto-Hemp PHCC 22/1",
+        "title": "Phyto-Hemp PHCC 22/1 von Jumis Pharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/godfather-og-auto",
+        "text": "Godfather OG Auto",
+        "title": "Godfather OG Auto - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/c47",
+        "text": "C47",
+        "title": "C47 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/kerosene-krash",
+        "text": "Kerosene Krash",
+        "title": "Kerosene Krash - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/banjo",
+        "text": "Banjo",
+        "title": "Banjo - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/mandarin-cookies",
+        "text": "Mandarin Cookies",
+        "title": "Mandarin Cookies - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/beta-myrcene",
+        "text": "Beta-Myrcene",
+        "title": "Beta-Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/alpha-pinene",
+        "text": "Alpha-Pinene",
+        "title": "Alpha-Pinene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

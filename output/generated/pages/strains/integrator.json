@@ -1,0 +1,217 @@
+{
+  "strain": {
+    "slug": "integrator",
+    "name": "Integrator",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Creative",
+      "Focused",
+      "Euphoric"
+    ],
+    "tastes": [
+      "Earthy",
+      "Herbal",
+      "Sweet"
+    ],
+    "terpenes": [
+      "Linalool",
+      "Farnesene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "Integrator vereint zwei herausragende Genetiken: Grateful Breath und High School Sweetheart. Grateful Breath, eine Kreuzung aus OG Kush Breath und Joseph OG, ist bekannt für ihre tiefgreifende körperliche Entspannung und erdige, würzige Aromen. Diese Sorte wurde von Gage Green Group entwickelt und gilt als zuverlässige Wahl für Stressabbau und Schlafstörungen.\n",
+    "imageUrl": "/strains/integrator-4h1c9j.webp"
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 479,
+      "max": 750,
+      "formatted": {
+        "min": "4,79 €",
+        "max": "7,50 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "eufloria-31-igt",
+      "name": "Eufloria 30/1 IGT",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 30,
+      "priceMin": 479,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "golden-gauth",
+      "name": "Golden Gauth",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "flap-jacks",
+      "name": "Flap Jacks",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "platinum-gushers",
+      "name": "Platinum Gushers",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "neutronium",
+      "name": "Neutronium",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "juicy-j",
+      "name": "Juicy J",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Integrator (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Integrator: Creative, Focused, Euphoric. 1 Produkte verfügbar. ab 4,79 €.",
+      "canonical": "https://weed.de/strain/integrator",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Integrator (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Integrator: Creative, Focused, Euphoric. 1 Produkte verfügbar. ab 4,79 €.",
+        "url": "https://weed.de/strain/integrator",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "/strains/integrator-4h1c9j.webp"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Integrator",
+        "href": "https://weed.de/strain/integrator"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Integrator",
+            "item": "https://weed.de/strain/integrator"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Integrator Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/eufloria-31-igt",
+            "name": "Eufloria 30/1 IGT"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/eufloria-31-igt",
+        "text": "Eufloria 30/1 IGT",
+        "title": "Eufloria 30/1 IGT von Remexian Pharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/golden-gauth",
+        "text": "Golden Gauth",
+        "title": "Golden Gauth - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/flap-jacks",
+        "text": "Flap Jacks",
+        "title": "Flap Jacks - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/platinum-gushers",
+        "text": "Platinum Gushers",
+        "title": "Platinum Gushers - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/neutronium",
+        "text": "Neutronium",
+        "title": "Neutronium - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/juicy-j",
+        "text": "Juicy J",
+        "title": "Juicy J - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      },
+      {
+        "href": "/terpene/farnesene",
+        "text": "Farnesene",
+        "title": "Farnesene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

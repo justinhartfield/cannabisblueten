@@ -1,0 +1,214 @@
+{
+  "strain": {
+    "slug": "cosmic-candy",
+    "name": "Cosmic Candy",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Euphoric",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Sweet",
+      "Fruity"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Linalool",
+      "Limonene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 999,
+      "max": 999,
+      "formatted": {
+        "min": "9,99 €",
+        "max": "9,99 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "remexian-301-gjy-cca",
+      "name": "Remexian 30/1 GJY CCA",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 30,
+      "priceMin": 999,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "legendary-larry",
+      "name": "Legendary Larry",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "black-kush",
+      "name": "Black Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "mac-doughnut",
+      "name": "Mac Doughnut",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "grape-pie",
+      "name": "Grape Pie",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "fire-og",
+      "name": "Fire OG",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cosmic Candy (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Cosmic Candy: Euphoric, Relaxed. 1 Produkte verfügbar. ab 9,99 €.",
+      "canonical": "https://weed.de/strain/cosmic-candy",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cosmic Candy (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Cosmic Candy: Euphoric, Relaxed. 1 Produkte verfügbar. ab 9,99 €.",
+        "url": "https://weed.de/strain/cosmic-candy",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Cosmic Candy",
+        "href": "https://weed.de/strain/cosmic-candy"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Cosmic Candy",
+            "item": "https://weed.de/strain/cosmic-candy"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Cosmic Candy Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/remexian-301-gjy-cca",
+            "name": "Remexian 30/1 GJY CCA"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/remexian-301-gjy-cca",
+        "text": "Remexian 30/1 GJY CCA",
+        "title": "Remexian 30/1 GJY CCA von Remexian Pharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/legendary-larry",
+        "text": "Legendary Larry",
+        "title": "Legendary Larry - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/black-kush",
+        "text": "Black Kush",
+        "title": "Black Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/mac-doughnut",
+        "text": "Mac Doughnut",
+        "title": "Mac Doughnut - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/grape-pie",
+        "text": "Grape Pie",
+        "title": "Grape Pie - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/fire-og",
+        "text": "Fire OG",
+        "title": "Fire OG - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

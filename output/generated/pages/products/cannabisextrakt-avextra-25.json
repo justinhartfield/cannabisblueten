@@ -1,0 +1,224 @@
+{
+  "product": {
+    "slug": "cannabisextrakt-avextra-25",
+    "name": "Cannabisextrakt Avextra 25",
+    "type": "extract",
+    "genetics": "hybrid",
+    "thcPercent": 2.5,
+    "cbdPercent": 0.1,
+    "priceMin": 357,
+    "priceMax": 550,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": null,
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "avextra",
+    "name": "Avextra",
+    "productCount": 5
+  },
+  "strain": {
+    "slug": "jack-haze",
+    "name": "Jack Haze",
+    "geneticType": "hybrid",
+    "effects": [
+      "Energetic",
+      "Talkative",
+      "Giggly"
+    ],
+    "terpenes": [
+      "Terpinolene",
+      "Caryophyllene",
+      "Pinene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Energetic",
+      "Talkative",
+      "Giggly"
+    ],
+    "tastes": [
+      "Tobacco",
+      "Rose",
+      "Spicy-Herbal"
+    ],
+    "terpenes": [
+      "Terpinolene",
+      "Caryophyllene",
+      "Pinene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "avextra-1010",
+      "name": "Avextra 10/10",
+      "brandName": "Avextra",
+      "thcPercent": 1,
+      "priceMin": 279,
+      "inStock": true
+    },
+    {
+      "slug": "canopy-jh-211",
+      "name": "Canopy JH 21/1",
+      "brandName": "Canopy Growth",
+      "thcPercent": 21,
+      "priceMin": 319,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-thc-25-spotlight-porto-purps",
+      "name": "Tilray THC 25 Spotlight Porto Purps",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": 349,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc5cbd2",
+      "name": "Tilray Cannabisextrakt THC5:CBD20",
+      "brandName": "Tilray",
+      "thcPercent": 5,
+      "priceMin": 350,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc1cbd1",
+      "name": "Tilray Cannabisextrakt THC10:CBD10",
+      "brandName": "Tilray",
+      "thcPercent": 10,
+      "priceMin": 400,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-2",
+      "name": "Demecan Typ 2",
+      "brandName": "Demecan",
+      "thcPercent": 16,
+      "priceMin": 533,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannabisextrakt Avextra 25 | ab 3,57 €",
+      "description": "Cannabisextrakt Avextra 25 von Avextra. THC: 2.5%, CBD: 0.1%. Sorte: Jack Haze. Preis ab 3,57 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/cannabisextrakt-avextra-25",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannabisextrakt Avextra 25 | ab 3,57 €",
+        "description": "Cannabisextrakt Avextra 25 von Avextra. THC: 2.5%, CBD: 0.1%. Sorte: Jack Haze. Preis ab 3,57 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/cannabisextrakt-avextra-25",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Avextra",
+        "href": "https://weed.de/brand/avextra"
+      },
+      {
+        "name": "Cannabisextrakt Avextra 25",
+        "href": "https://weed.de/product/cannabisextrakt-avextra-25"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Cannabisextrakt Avextra 25",
+            "item": "https://weed.de/product/cannabisextrakt-avextra-25"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Cannabisextrakt Avextra 25",
+        "brand": {
+          "@type": "Brand",
+          "name": "Avextra"
+        },
+        "description": "THC: 2.5%, CBD: 0.1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/jack-haze",
+      "text": "Jack Haze",
+      "title": "Jack Haze Sorte"
+    },
+    "brand": {
+      "href": "/brand/avextra",
+      "text": "Avextra",
+      "title": "Alle Avextra Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/avextra-1010",
+        "text": "Avextra 10/10",
+        "title": "Alternative: Avextra 10/10"
+      },
+      {
+        "href": "/product/canopy-jh-211",
+        "text": "Canopy JH 21/1",
+        "title": "Alternative: Canopy JH 21/1"
+      },
+      {
+        "href": "/product/tilray-thc-25-spotlight-porto-purps",
+        "text": "Tilray THC 25 Spotlight Porto Purps",
+        "title": "Alternative: Tilray THC 25 Spotlight Porto Purps"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc5cbd2",
+        "text": "Tilray Cannabisextrakt THC5:CBD20",
+        "title": "Alternative: Tilray Cannabisextrakt THC5:CBD20"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc1cbd1",
+        "text": "Tilray Cannabisextrakt THC10:CBD10",
+        "title": "Alternative: Tilray Cannabisextrakt THC10:CBD10"
+      },
+      {
+        "href": "/product/demecan-typ-2",
+        "text": "Demecan Typ 2",
+        "title": "Alternative: Demecan Typ 2"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

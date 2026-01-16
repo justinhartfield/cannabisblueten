@@ -1,0 +1,285 @@
+{
+  "strain": {
+    "slug": "tiger-cake",
+    "name": "Tiger Cake",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.5,
+      "max": 0.5
+    },
+    "effects": [
+      "Euphoric",
+      "Relaxed",
+      "Hungry"
+    ],
+    "tastes": [
+      "Vanilla",
+      "Earthy",
+      "Diesel"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Myrcene",
+      "Limonene",
+      "Humulene",
+      "Ocimene"
+    ],
+    "description": "Tiger Cake ist eine stark indica-dominierte Hybridsorte, die ihre Genetik von den Sorten “Layer Cake” und “The Menthol” geerbt hat. Mit hohen THC-Werten, durchschnittlich zwischen 24% und 30% und einem CBD-Gehalt von weniger als 0,5%, gilt Tiger Cake als sehr potenter Strain. Das Haupt-Terpen, das in dieser Sorte gefunden wird, ist Caryophyllen, gefolgt von Myrcen,  Limonen, Humulen und Ocimen. Geschmacklich bewegt sich dieser Strain von holzig-erdig und scharf bis hin zu einer vanilligen Süße. Die Wirkung kann als appetitanregend, entspannend und euphorisierend beschrieben werden, was Tiger Cake manch einem Bericht zufolge zu einer stark wirkenden Sorte für Schmerzen, Stress und Übelkeit machen könnte. Das Aussehen dieses Strains geht in sehr Tiefe Grün-, teilweise schon fast schwarze Töne, durch welche die braunen Blütenstempel sowie die zahlreichen Trichome extrem auffällig zur Geltung kommen.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 4,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 549,
+      "max": 1295,
+      "formatted": {
+        "min": "5,49 €",
+        "max": "12,95 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "canopy-tck-27",
+      "name": "Canopy TCK 27",
+      "brandName": "Canopy Growth",
+      "thcPercent": 28,
+      "priceMin": 549,
+      "inStock": true
+    },
+    {
+      "slug": "grunhorn-bc-331",
+      "name": "Grünhorn BC 33/1",
+      "brandName": "Grünhorn",
+      "thcPercent": 33,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "bc-green-331-tck",
+      "name": "BC Green 33/1 TCK",
+      "brandName": "BC Green",
+      "thcPercent": 33.5,
+      "priceMin": 1295,
+      "inStock": false
+    },
+    {
+      "slug": "bc-green-31-tck",
+      "name": "BC Green 30/1 TCK",
+      "brandName": "BC Green",
+      "thcPercent": 30,
+      "priceMin": 599,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "og-deluxe",
+      "name": "OG Deluxe",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "auto-tropicana-cookies",
+      "name": "Auto Tropicana Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "auto-grape-ape-f1",
+      "name": "Auto Grape Ape F1",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "auto-super-boof",
+      "name": "Auto Super Boof",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "grease-monkey",
+      "name": "Grease Monkey",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Tiger Cake (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Tiger Cake: Euphoric, Relaxed, Hungry. 4 Produkte verfügbar. ab 5,49 €.",
+      "canonical": "https://weed.de/strain/tiger-cake",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Tiger Cake (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Tiger Cake: Euphoric, Relaxed, Hungry. 4 Produkte verfügbar. ab 5,49 €.",
+        "url": "https://weed.de/strain/tiger-cake",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Tiger Cake",
+        "href": "https://weed.de/strain/tiger-cake"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Tiger Cake",
+            "item": "https://weed.de/strain/tiger-cake"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Tiger Cake Produkte",
+        "numberOfItems": 4,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/canopy-tck-27",
+            "name": "Canopy TCK 27"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/grunhorn-bc-331",
+            "name": "Grünhorn BC 33/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/bc-green-331-tck",
+            "name": "BC Green 33/1 TCK"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/product/bc-green-31-tck",
+            "name": "BC Green 30/1 TCK"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/canopy-tck-27",
+        "text": "Canopy TCK 27",
+        "title": "Canopy TCK 27 von Canopy Growth"
+      },
+      {
+        "href": "/product/grunhorn-bc-331",
+        "text": "Grünhorn BC 33/1",
+        "title": "Grünhorn BC 33/1 von Grünhorn"
+      },
+      {
+        "href": "/product/bc-green-331-tck",
+        "text": "BC Green 33/1 TCK",
+        "title": "BC Green 33/1 TCK von BC Green"
+      },
+      {
+        "href": "/product/bc-green-31-tck",
+        "text": "BC Green 30/1 TCK",
+        "title": "BC Green 30/1 TCK von BC Green"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/og-deluxe",
+        "text": "OG Deluxe",
+        "title": "OG Deluxe - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/auto-tropicana-cookies",
+        "text": "Auto Tropicana Cookies",
+        "title": "Auto Tropicana Cookies - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/auto-grape-ape-f1",
+        "text": "Auto Grape Ape F1",
+        "title": "Auto Grape Ape F1 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/auto-super-boof",
+        "text": "Auto Super Boof",
+        "title": "Auto Super Boof - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/grease-monkey",
+        "text": "Grease Monkey",
+        "title": "Grease Monkey - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/humulene",
+        "text": "Humulene",
+        "title": "Humulene Terpen"
+      },
+      {
+        "href": "/terpene/ocimene",
+        "text": "Ocimene",
+        "title": "Ocimene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

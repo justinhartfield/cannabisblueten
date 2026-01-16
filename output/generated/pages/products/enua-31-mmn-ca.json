@@ -1,0 +1,227 @@
+{
+  "product": {
+    "slug": "enua-31-mmn-ca",
+    "name": "enua 30/1 MMN CA",
+    "type": "flower",
+    "genetics": "indica",
+    "thcPercent": 30,
+    "cbdPercent": 1,
+    "priceMin": 559,
+    "priceMax": 995,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": "https://weed.de/products/enua-31-mmn-ca-i8h5g3.png"
+  },
+  "brand": {
+    "slug": "enua",
+    "name": "enua",
+    "productCount": 123
+  },
+  "strain": {
+    "slug": "marshmallow-man",
+    "name": "Marshmallow Man",
+    "geneticType": "indica",
+    "effects": [
+      "Aroused",
+      "Giggly",
+      "Creative"
+    ],
+    "terpenes": [
+      "Nerolidol",
+      "Linalool",
+      "D-Limonene",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Aroused",
+      "Giggly",
+      "Creative"
+    ],
+    "tastes": [
+      "Herbal",
+      "Mint",
+      "Diesel"
+    ],
+    "terpenes": [
+      "Nerolidol",
+      "Linalool",
+      "D-Limonene",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "aurora-thc-25-cannabis-extract",
+      "name": "Aurora THC 25 Cannabis Extract",
+      "brandName": "Cansativa",
+      "thcPercent": 2.5,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "adven-cannabisextrakt-thc-20",
+      "name": "Adven Cannabisextrakt THC 20",
+      "brandName": "Adven",
+      "thcPercent": 2,
+      "priceMin": 476,
+      "inStock": true
+    },
+    {
+      "slug": "adven-cannabisextrakt-thc-10-cbd-10",
+      "name": "Adven Cannabisextrakt THC 10 CBD 10",
+      "brandName": "Adven",
+      "thcPercent": 10,
+      "priceMin": 560,
+      "inStock": true
+    },
+    {
+      "slug": "enua-331-mmn-ca",
+      "name": "enua 33/1 MMN CA",
+      "brandName": "enua",
+      "thcPercent": 33,
+      "priceMin": 619,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-1",
+      "name": "Demecan Typ 1",
+      "brandName": "Demecan",
+      "thcPercent": 21,
+      "priceMin": 694,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-indica-forte-ej",
+      "name": "Cannamedical Indica forte EJ",
+      "brandName": "Cannamedical",
+      "thcPercent": 24,
+      "priceMin": 700,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "enua 30/1 MMN CA | ab 5,59 €",
+      "description": "enua 30/1 MMN CA von enua. THC: 30%, CBD: 1%. Sorte: Marshmallow Man. Preis ab 5,59 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/enua-31-mmn-ca",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "enua 30/1 MMN CA | ab 5,59 €",
+        "description": "enua 30/1 MMN CA von enua. THC: 30%, CBD: 1%. Sorte: Marshmallow Man. Preis ab 5,59 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/enua-31-mmn-ca",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/enua-31-mmn-ca-i8h5g3.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "enua",
+        "href": "https://weed.de/brand/enua"
+      },
+      {
+        "name": "enua 30/1 MMN CA",
+        "href": "https://weed.de/product/enua-31-mmn-ca"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "enua 30/1 MMN CA",
+            "item": "https://weed.de/product/enua-31-mmn-ca"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "enua 30/1 MMN CA",
+        "brand": {
+          "@type": "Brand",
+          "name": "enua"
+        },
+        "description": "THC: 30%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/marshmallow-man",
+      "text": "Marshmallow Man",
+      "title": "Marshmallow Man Sorte"
+    },
+    "brand": {
+      "href": "/brand/enua",
+      "text": "enua",
+      "title": "Alle enua Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/aurora-thc-25-cannabis-extract",
+        "text": "Aurora THC 25 Cannabis Extract",
+        "title": "Alternative: Aurora THC 25 Cannabis Extract"
+      },
+      {
+        "href": "/product/adven-cannabisextrakt-thc-20",
+        "text": "Adven Cannabisextrakt THC 20",
+        "title": "Alternative: Adven Cannabisextrakt THC 20"
+      },
+      {
+        "href": "/product/adven-cannabisextrakt-thc-10-cbd-10",
+        "text": "Adven Cannabisextrakt THC 10 CBD 10",
+        "title": "Alternative: Adven Cannabisextrakt THC 10 CBD 10"
+      },
+      {
+        "href": "/product/enua-331-mmn-ca",
+        "text": "enua 33/1 MMN CA",
+        "title": "Alternative: enua 33/1 MMN CA"
+      },
+      {
+        "href": "/product/demecan-typ-1",
+        "text": "Demecan Typ 1",
+        "title": "Alternative: Demecan Typ 1"
+      },
+      {
+        "href": "/product/cannamedical-indica-forte-ej",
+        "text": "Cannamedical Indica forte EJ",
+        "title": "Alternative: Cannamedical Indica forte EJ"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

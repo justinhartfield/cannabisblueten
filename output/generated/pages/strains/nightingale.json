@@ -1,0 +1,222 @@
+{
+  "strain": {
+    "slug": "nightingale",
+    "name": "Nightingale",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 16,
+      "max": 16
+    },
+    "effects": [
+      "Focused",
+      "Relaxed",
+      "Sleepy"
+    ],
+    "tastes": [
+      "Earthy",
+      "Sweet",
+      "Herbal"
+    ],
+    "terpenes": [
+      "Linalool",
+      "Bisabolol",
+      "Beta-Myrcene",
+      "Alpha-Pinene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 595,
+      "max": 649,
+      "formatted": {
+        "min": "5,95 €",
+        "max": "6,49 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "weeco-ng-116",
+      "name": "WEECO NG 1/16",
+      "brandName": "Weeco",
+      "thcPercent": 1,
+      "priceMin": 595,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "godfather-og-auto",
+      "name": "Godfather OG Auto",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "euforia",
+      "name": "Euforia",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "mandarin-cookies",
+      "name": "Mandarin Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "green-croc-orange",
+      "name": "Green Croc Orange",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "oz",
+      "name": "OZ",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Nightingale (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Nightingale: Focused, Relaxed, Sleepy. 1 Produkte verfügbar. ab 5,95 €.",
+      "canonical": "https://weed.de/strain/nightingale",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Nightingale (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Nightingale: Focused, Relaxed, Sleepy. 1 Produkte verfügbar. ab 5,95 €.",
+        "url": "https://weed.de/strain/nightingale",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Nightingale",
+        "href": "https://weed.de/strain/nightingale"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Nightingale",
+            "item": "https://weed.de/strain/nightingale"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Nightingale Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/weeco-ng-116",
+            "name": "WEECO NG 1/16"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/weeco-ng-116",
+        "text": "WEECO NG 1/16",
+        "title": "WEECO NG 1/16 von Weeco"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/godfather-og-auto",
+        "text": "Godfather OG Auto",
+        "title": "Godfather OG Auto - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/euforia",
+        "text": "Euforia",
+        "title": "Euforia - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/mandarin-cookies",
+        "text": "Mandarin Cookies",
+        "title": "Mandarin Cookies - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/green-croc-orange",
+        "text": "Green Croc Orange",
+        "title": "Green Croc Orange - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/oz",
+        "text": "OZ",
+        "title": "OZ - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      },
+      {
+        "href": "/terpene/bisabolol",
+        "text": "Bisabolol",
+        "title": "Bisabolol Terpen"
+      },
+      {
+        "href": "/terpene/beta-myrcene",
+        "text": "Beta-Myrcene",
+        "title": "Beta-Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/alpha-pinene",
+        "text": "Alpha-Pinene",
+        "title": "Alpha-Pinene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

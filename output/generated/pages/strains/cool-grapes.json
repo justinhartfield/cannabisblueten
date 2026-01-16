@@ -1,0 +1,260 @@
+{
+  "strain": {
+    "slug": "cool-grapes",
+    "name": "Cool Grapes",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Euphoric",
+      "Happy",
+      "Sleepy"
+    ],
+    "tastes": [
+      "Menthol",
+      "Chemical",
+      "Sweet"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Pinene",
+      "Myrcene",
+      "Linalool"
+    ],
+    "description": "Cool Grapes, eine sehr ausgeglichene Hybrid-Sorte, die aus der Verbindung von “High Octane” und “Grape Pie” hervorgegangen ist. Mit einem THC-Gehalt von 20% bis 29% und einem minimalen CBD-Gehalt (weniger als 1%) ist diese Sorte für diejenigen, die eine starke Wirkung bevorzugen. Das Terpenprofil dieses Strains umfasst zum größten Teil Linalool, Pinen und Myrcen. Diese Terpene tragen zu einem Geschmack bei, der als chemisch-süß beschrieben wird. Laut Nutzern soll die Wirkung dabei euphorisierend sein, eine körperliche Entspannung begünstigen und müde machen. Das Erscheinungsbild weist ein eher dunkleres Grün mit einem unauffälligen Anteil von dunkel-orangen Blütenstempeln auf und ist von einem hohen Anteil von Trichomen begleitet. ",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 3,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 595,
+      "max": 1050,
+      "formatted": {
+        "min": "5,95 €",
+        "max": "10,50 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "green-karat-cg",
+      "name": "Green Karat CG",
+      "brandName": "Cantourage",
+      "thcPercent": 25,
+      "priceMin": 679,
+      "inStock": true
+    },
+    {
+      "slug": "green-karat-cg-31",
+      "name": "Green Karat CG 30/1",
+      "brandName": "Cantourage",
+      "thcPercent": 30,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "remexian-241-mcs-cgr",
+      "name": "Remexian 24/1 MCS CGR",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 24,
+      "priceMin": 595,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "gummy-bears",
+      "name": "Gummy Bears",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "mac-2.0",
+      "name": "MAC 2.0",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "granddaddy-purple",
+      "name": "Granddaddy Purple",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "gush-mints",
+      "name": "Gush Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "kalini-asia",
+      "name": "Kalini Asia",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cool Grapes (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Cool Grapes: Euphoric, Happy, Sleepy. 3 Produkte verfügbar. ab 5,95 €.",
+      "canonical": "https://weed.de/strain/cool-grapes",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cool Grapes (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Cool Grapes: Euphoric, Happy, Sleepy. 3 Produkte verfügbar. ab 5,95 €.",
+        "url": "https://weed.de/strain/cool-grapes",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Cool Grapes",
+        "href": "https://weed.de/strain/cool-grapes"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Cool Grapes",
+            "item": "https://weed.de/strain/cool-grapes"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Cool Grapes Produkte",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/green-karat-cg",
+            "name": "Green Karat CG"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/green-karat-cg-31",
+            "name": "Green Karat CG 30/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/remexian-241-mcs-cgr",
+            "name": "Remexian 24/1 MCS CGR"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/green-karat-cg",
+        "text": "Green Karat CG",
+        "title": "Green Karat CG von Cantourage"
+      },
+      {
+        "href": "/product/green-karat-cg-31",
+        "text": "Green Karat CG 30/1",
+        "title": "Green Karat CG 30/1 von Cantourage"
+      },
+      {
+        "href": "/product/remexian-241-mcs-cgr",
+        "text": "Remexian 24/1 MCS CGR",
+        "title": "Remexian 24/1 MCS CGR von Remexian Pharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/gummy-bears",
+        "text": "Gummy Bears",
+        "title": "Gummy Bears - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/mac-2.0",
+        "text": "MAC 2.0",
+        "title": "MAC 2.0 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/granddaddy-purple",
+        "text": "Granddaddy Purple",
+        "title": "Granddaddy Purple - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/gush-mints",
+        "text": "Gush Mints",
+        "title": "Gush Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/kalini-asia",
+        "text": "Kalini Asia",
+        "title": "Kalini Asia - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/pinene",
+        "text": "Pinene",
+        "title": "Pinene Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

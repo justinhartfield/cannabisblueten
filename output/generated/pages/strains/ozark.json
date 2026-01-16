@@ -1,0 +1,254 @@
+{
+  "strain": {
+    "slug": "ozark",
+    "name": "Ozark",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Creative",
+      "Euphoric",
+      "Happy"
+    ],
+    "tastes": [
+      "Earthy",
+      "Citrus",
+      "Sweet"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Linalool",
+      "Beta-Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 3,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 259,
+      "max": 699,
+      "formatted": {
+        "min": "2,59 €",
+        "max": "6,99 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "nice-surprise-141-ozk",
+      "name": "NICE surprise 14/1 OZK",
+      "brandName": "Cansativa",
+      "thcPercent": 14,
+      "priceMin": 259,
+      "inStock": true
+    },
+    {
+      "slug": "nice-surprise-161-ozk",
+      "name": "NICE surprise 16/1 OZK",
+      "brandName": "Cansativa",
+      "thcPercent": 16,
+      "priceMin": 269,
+      "inStock": true
+    },
+    {
+      "slug": "nice-31-ozk",
+      "name": "NICE 30/1 OZK",
+      "brandName": "Cansativa",
+      "thcPercent": 30,
+      "priceMin": 488,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "white-runtz",
+      "name": "White Runtz",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "purple-ice-water",
+      "name": "Purple Ice Water",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "alien-mints",
+      "name": "Alien Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "super-citra-g",
+      "name": "Super Citra G",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "jokerz-53",
+      "name": "Jokerz #53",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Ozark (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Ozark: Creative, Euphoric, Happy. 3 Produkte verfügbar. ab 2,59 €.",
+      "canonical": "https://weed.de/strain/ozark",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Ozark (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Ozark: Creative, Euphoric, Happy. 3 Produkte verfügbar. ab 2,59 €.",
+        "url": "https://weed.de/strain/ozark",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Ozark",
+        "href": "https://weed.de/strain/ozark"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Ozark",
+            "item": "https://weed.de/strain/ozark"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Ozark Produkte",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/nice-surprise-141-ozk",
+            "name": "NICE surprise 14/1 OZK"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/nice-surprise-161-ozk",
+            "name": "NICE surprise 16/1 OZK"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/nice-31-ozk",
+            "name": "NICE 30/1 OZK"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/nice-surprise-141-ozk",
+        "text": "NICE surprise 14/1 OZK",
+        "title": "NICE surprise 14/1 OZK von Cansativa"
+      },
+      {
+        "href": "/product/nice-surprise-161-ozk",
+        "text": "NICE surprise 16/1 OZK",
+        "title": "NICE surprise 16/1 OZK von Cansativa"
+      },
+      {
+        "href": "/product/nice-31-ozk",
+        "text": "NICE 30/1 OZK",
+        "title": "NICE 30/1 OZK von Cansativa"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/white-runtz",
+        "text": "White Runtz",
+        "title": "White Runtz - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/purple-ice-water",
+        "text": "Purple Ice Water",
+        "title": "Purple Ice Water - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/alien-mints",
+        "text": "Alien Mints",
+        "title": "Alien Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/super-citra-g",
+        "text": "Super Citra G",
+        "title": "Super Citra G - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/jokerz-53",
+        "text": "Jokerz #53",
+        "title": "Jokerz #53 - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

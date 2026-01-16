@@ -1,0 +1,242 @@
+{
+  "strain": {
+    "slug": "black-label",
+    "name": "Black Label",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Creative",
+      "Hungry",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Diesel",
+      "Pungent",
+      "Earthy"
+    ],
+    "terpenes": [
+      "Terpinolene"
+    ],
+    "description": "Black Label ist eine indica-dominante Hybrid-Sorte, die sorgfältig von Israels Seach Medical Cannabis Group gezüchtet wurde. Das Aroma von Black label ist ein herrliche Note aus Kiefer und Zitrone und zeichnet sich durch kompakte und harzreiche Knospen aus. Mit einem THC-Gehalt von etwa 22% verspricht Black Label ein ruhiges und euphorisches Erlebnis. Sie ist eine ideale Wahl, um am Abend zu entspannen, dank ihres raschen Wirkungseintritts, der sowohl den Körper als auch den Geist effektiv beruhigt.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 3,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 1395,
+      "max": 6995,
+      "formatted": {
+        "min": "13,95 €",
+        "max": "69,95 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "naxiva-panaxol-2525",
+      "name": "Naxiva Panaxol 25/25",
+      "brandName": "Panaxia",
+      "thcPercent": 2.5,
+      "priceMin": 2395,
+      "inStock": false
+    },
+    {
+      "slug": "naxiva-panaxol-251",
+      "name": "Naxiva Panaxol 25/1",
+      "brandName": "Panaxia",
+      "thcPercent": 2.5,
+      "priceMin": 1395,
+      "inStock": false
+    },
+    {
+      "slug": "naxiva-panaxol-thc-25-cannabis-extrakt",
+      "name": "NAXIVA-PANAXOL THC 250 Cannabis-Extrakt",
+      "brandName": "Panaxia",
+      "thcPercent": 24.3,
+      "priceMin": 6900,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "kc-33",
+      "name": "KC 33",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "jack-skunkset",
+      "name": "Jack Skunkset",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "delahaze",
+      "name": "Delahaze",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "bediol",
+      "name": "Bediol",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "white-lemon",
+      "name": "White Lemon",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Black Label (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Black Label: Creative, Hungry, Relaxed. 3 Produkte verfügbar. ab 13,95 €.",
+      "canonical": "https://weed.de/strain/black-label",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Black Label (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Black Label: Creative, Hungry, Relaxed. 3 Produkte verfügbar. ab 13,95 €.",
+        "url": "https://weed.de/strain/black-label",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Black Label",
+        "href": "https://weed.de/strain/black-label"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Black Label",
+            "item": "https://weed.de/strain/black-label"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Black Label Produkte",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/naxiva-panaxol-2525",
+            "name": "Naxiva Panaxol 25/25"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/naxiva-panaxol-251",
+            "name": "Naxiva Panaxol 25/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/naxiva-panaxol-thc-25-cannabis-extrakt",
+            "name": "NAXIVA-PANAXOL THC 250 Cannabis-Extrakt"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/naxiva-panaxol-2525",
+        "text": "Naxiva Panaxol 25/25",
+        "title": "Naxiva Panaxol 25/25 von Panaxia"
+      },
+      {
+        "href": "/product/naxiva-panaxol-251",
+        "text": "Naxiva Panaxol 25/1",
+        "title": "Naxiva Panaxol 25/1 von Panaxia"
+      },
+      {
+        "href": "/product/naxiva-panaxol-thc-25-cannabis-extrakt",
+        "text": "NAXIVA-PANAXOL THC 250 Cannabis-Extrakt",
+        "title": "NAXIVA-PANAXOL THC 250 Cannabis-Extrakt von Panaxia"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/kc-33",
+        "text": "KC 33",
+        "title": "KC 33 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/jack-skunkset",
+        "text": "Jack Skunkset",
+        "title": "Jack Skunkset - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/delahaze",
+        "text": "Delahaze",
+        "title": "Delahaze - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/bediol",
+        "text": "Bediol",
+        "title": "Bediol - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/white-lemon",
+        "text": "White Lemon",
+        "title": "White Lemon - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/terpinolene",
+        "text": "Terpinolene",
+        "title": "Terpinolene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "strain": {
+    "slug": "lemon-cream-cake",
+    "name": "Lemon Cream Cake",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Focused",
+      "Euphoric",
+      "Happy"
+    ],
+    "tastes": [
+      "Tropical",
+      "Earthy",
+      "Citrus"
+    ],
+    "terpenes": [
+      "Terpinolene",
+      "Ocimene",
+      "Myrcene",
+      "Limonene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 599,
+      "max": 750,
+      "formatted": {
+        "min": "5,99 €",
+        "max": "7,50 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "grow-lcc-271",
+      "name": "GROW LCC 27/1",
+      "brandName": "Nimbus Health",
+      "thcPercent": 27,
+      "priceMin": 599,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "super-citra-g",
+      "name": "Super Citra G",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "alien-kush-mintz",
+      "name": "Alien Kush Mintz",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "frosted-cookies",
+      "name": "Frosted Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "space-age-cake",
+      "name": "Space Age Cake",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "og-deluxe",
+      "name": "OG Deluxe",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Lemon Cream Cake (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Lemon Cream Cake: Focused, Euphoric, Happy. 1 Produkte verfügbar. ab 5,99 €.",
+      "canonical": "https://weed.de/strain/lemon-cream-cake",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Lemon Cream Cake (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Lemon Cream Cake: Focused, Euphoric, Happy. 1 Produkte verfügbar. ab 5,99 €.",
+        "url": "https://weed.de/strain/lemon-cream-cake",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Lemon Cream Cake",
+        "href": "https://weed.de/strain/lemon-cream-cake"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Lemon Cream Cake",
+            "item": "https://weed.de/strain/lemon-cream-cake"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Lemon Cream Cake Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/grow-lcc-271",
+            "name": "GROW LCC 27/1"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/grow-lcc-271",
+        "text": "GROW LCC 27/1",
+        "title": "GROW LCC 27/1 von Nimbus Health"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/super-citra-g",
+        "text": "Super Citra G",
+        "title": "Super Citra G - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/alien-kush-mintz",
+        "text": "Alien Kush Mintz",
+        "title": "Alien Kush Mintz - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/frosted-cookies",
+        "text": "Frosted Cookies",
+        "title": "Frosted Cookies - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/space-age-cake",
+        "text": "Space Age Cake",
+        "title": "Space Age Cake - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/og-deluxe",
+        "text": "OG Deluxe",
+        "title": "OG Deluxe - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/terpinolene",
+        "text": "Terpinolene",
+        "title": "Terpinolene Terpen"
+      },
+      {
+        "href": "/terpene/ocimene",
+        "text": "Ocimene",
+        "title": "Ocimene Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

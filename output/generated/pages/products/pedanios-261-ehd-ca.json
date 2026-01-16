@@ -1,0 +1,229 @@
+{
+  "product": {
+    "slug": "pedanios-261-ehd-ca",
+    "name": "Pedanios 26/1 EHD-CA",
+    "type": "flower",
+    "genetics": "sativa",
+    "thcPercent": 26.8,
+    "cbdPercent": 1,
+    "priceMin": 515,
+    "priceMax": 1309,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": "https://weed.de/products/pedanios-261-ehd-ca-24bi07.png"
+  },
+  "brand": {
+    "slug": "aurora",
+    "name": "Aurora",
+    "productCount": 39
+  },
+  "strain": {
+    "slug": "electric-honeydew",
+    "name": "Electric Honeydew",
+    "geneticType": "sativa",
+    "effects": [
+      "Euphoric",
+      "Happy"
+    ],
+    "terpenes": [
+      "Beta-Myrcene",
+      "Limonene",
+      "Caryophyllene",
+      "Guaiol",
+      "Nerolidol",
+      "Linalool"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Euphoric",
+      "Happy"
+    ],
+    "tastes": [
+      "Chemical",
+      "Pine",
+      "Lemon"
+    ],
+    "terpenes": [
+      "Beta-Myrcene",
+      "Limonene",
+      "Caryophyllene",
+      "Guaiol",
+      "Nerolidol",
+      "Linalool"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "aurora-typ-1",
+      "name": "Aurora Typ 1",
+      "brandName": "Aurora",
+      "thcPercent": 19,
+      "priceMin": 479,
+      "inStock": true
+    },
+    {
+      "slug": "pedanios-22-1",
+      "name": "Pedanios 22/1",
+      "brandName": "Aurora",
+      "thcPercent": 22,
+      "priceMin": 629,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-sativa-forte-tc",
+      "name": "Cannamedical Sativa forte TC",
+      "brandName": "Cannamedical",
+      "thcPercent": 24,
+      "priceMin": 683,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-sativa-classic-tc",
+      "name": "Cannamedical Sativa classic TC",
+      "brandName": "Cannamedical",
+      "thcPercent": 20,
+      "priceMin": 755,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-sativa-classic-si",
+      "name": "Cannamedical Sativa classic SI",
+      "brandName": "Cannamedical",
+      "thcPercent": 20,
+      "priceMin": 915,
+      "inStock": true
+    },
+    {
+      "slug": "cannabis-flos-bedrocan-f20",
+      "name": "Cannabis Flos Bedrocan F20",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 22,
+      "priceMin": null,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Pedanios 26/1 EHD-CA - Aurora | ab 5,15 €",
+      "description": "Pedanios 26/1 EHD-CA von Aurora. THC: 26.8%, CBD: 1%. Sorte: Electric Honeydew. Preis ab 5,15 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/pedanios-261-ehd-ca",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Pedanios 26/1 EHD-CA - Aurora | ab 5,15 €",
+        "description": "Pedanios 26/1 EHD-CA von Aurora. THC: 26.8%, CBD: 1%. Sorte: Electric Honeydew. Preis ab 5,15 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/pedanios-261-ehd-ca",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/pedanios-261-ehd-ca-24bi07.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Aurora",
+        "href": "https://weed.de/brand/aurora"
+      },
+      {
+        "name": "Pedanios 26/1 EHD-CA",
+        "href": "https://weed.de/product/pedanios-261-ehd-ca"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Pedanios 26/1 EHD-CA",
+            "item": "https://weed.de/product/pedanios-261-ehd-ca"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Pedanios 26/1 EHD-CA",
+        "brand": {
+          "@type": "Brand",
+          "name": "Aurora"
+        },
+        "description": "THC: 26.8%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/electric-honeydew",
+      "text": "Electric Honeydew",
+      "title": "Electric Honeydew Sorte"
+    },
+    "brand": {
+      "href": "/brand/aurora",
+      "text": "Aurora",
+      "title": "Alle Aurora Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/aurora-typ-1",
+        "text": "Aurora Typ 1",
+        "title": "Alternative: Aurora Typ 1"
+      },
+      {
+        "href": "/product/pedanios-22-1",
+        "text": "Pedanios 22/1",
+        "title": "Alternative: Pedanios 22/1"
+      },
+      {
+        "href": "/product/cannamedical-sativa-forte-tc",
+        "text": "Cannamedical Sativa forte TC",
+        "title": "Alternative: Cannamedical Sativa forte TC"
+      },
+      {
+        "href": "/product/cannamedical-sativa-classic-tc",
+        "text": "Cannamedical Sativa classic TC",
+        "title": "Alternative: Cannamedical Sativa classic TC"
+      },
+      {
+        "href": "/product/cannamedical-sativa-classic-si",
+        "text": "Cannamedical Sativa classic SI",
+        "title": "Alternative: Cannamedical Sativa classic SI"
+      },
+      {
+        "href": "/product/cannabis-flos-bedrocan-f20",
+        "text": "Cannabis Flos Bedrocan F20",
+        "title": "Alternative: Cannabis Flos Bedrocan F20"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

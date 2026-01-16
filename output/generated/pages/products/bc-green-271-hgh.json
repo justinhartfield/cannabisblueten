@@ -1,0 +1,222 @@
+{
+  "product": {
+    "slug": "bc-green-271-hgh",
+    "name": "BC Green 27/1 HGH",
+    "type": "flower",
+    "genetics": "indica",
+    "thcPercent": 27,
+    "cbdPercent": 1,
+    "priceMin": 699,
+    "priceMax": 885,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "bc-green",
+    "name": "BC Green",
+    "productCount": 16
+  },
+  "strain": {
+    "slug": "hgh",
+    "name": "HGH",
+    "geneticType": "hybrid",
+    "effects": [
+      "Relaxed"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Myrcene",
+      "Humulene",
+      "Caryophyllene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Relaxed"
+    ],
+    "tastes": [
+      "Chemical",
+      "Citrus",
+      "Flowery"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Myrcene",
+      "Humulene",
+      "Caryophyllene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "aurora-thc-25-cannabis-extract",
+      "name": "Aurora THC 25 Cannabis Extract",
+      "brandName": "Cansativa",
+      "thcPercent": 2.5,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "adven-cannabisextrakt-thc-20",
+      "name": "Adven Cannabisextrakt THC 20",
+      "brandName": "Adven",
+      "thcPercent": 2,
+      "priceMin": 476,
+      "inStock": true
+    },
+    {
+      "slug": "bc-green-hgh-251",
+      "name": "BC Green HGH 25/1",
+      "brandName": "BC Green",
+      "thcPercent": 25,
+      "priceMin": 499,
+      "inStock": true
+    },
+    {
+      "slug": "adven-cannabisextrakt-thc-10-cbd-10",
+      "name": "Adven Cannabisextrakt THC 10 CBD 10",
+      "brandName": "Adven",
+      "thcPercent": 10,
+      "priceMin": 560,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-1",
+      "name": "Demecan Typ 1",
+      "brandName": "Demecan",
+      "thcPercent": 21,
+      "priceMin": 694,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-indica-forte-ej",
+      "name": "Cannamedical Indica forte EJ",
+      "brandName": "Cannamedical",
+      "thcPercent": 24,
+      "priceMin": 700,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "BC Green 27/1 HGH | ab 6,99 €",
+      "description": "BC Green 27/1 HGH von BC Green. THC: 27%, CBD: 1%. Sorte: HGH. Preis ab 6,99 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/bc-green-271-hgh",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "BC Green 27/1 HGH | ab 6,99 €",
+        "description": "BC Green 27/1 HGH von BC Green. THC: 27%, CBD: 1%. Sorte: HGH. Preis ab 6,99 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/bc-green-271-hgh",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "BC Green",
+        "href": "https://weed.de/brand/bc-green"
+      },
+      {
+        "name": "BC Green 27/1 HGH",
+        "href": "https://weed.de/product/bc-green-271-hgh"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "BC Green 27/1 HGH",
+            "item": "https://weed.de/product/bc-green-271-hgh"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BC Green 27/1 HGH",
+        "brand": {
+          "@type": "Brand",
+          "name": "BC Green"
+        },
+        "description": "THC: 27%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/hgh",
+      "text": "HGH",
+      "title": "HGH Sorte"
+    },
+    "brand": {
+      "href": "/brand/bc-green",
+      "text": "BC Green",
+      "title": "Alle BC Green Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/aurora-thc-25-cannabis-extract",
+        "text": "Aurora THC 25 Cannabis Extract",
+        "title": "Alternative: Aurora THC 25 Cannabis Extract"
+      },
+      {
+        "href": "/product/adven-cannabisextrakt-thc-20",
+        "text": "Adven Cannabisextrakt THC 20",
+        "title": "Alternative: Adven Cannabisextrakt THC 20"
+      },
+      {
+        "href": "/product/bc-green-hgh-251",
+        "text": "BC Green HGH 25/1",
+        "title": "Alternative: BC Green HGH 25/1"
+      },
+      {
+        "href": "/product/adven-cannabisextrakt-thc-10-cbd-10",
+        "text": "Adven Cannabisextrakt THC 10 CBD 10",
+        "title": "Alternative: Adven Cannabisextrakt THC 10 CBD 10"
+      },
+      {
+        "href": "/product/demecan-typ-1",
+        "text": "Demecan Typ 1",
+        "title": "Alternative: Demecan Typ 1"
+      },
+      {
+        "href": "/product/cannamedical-indica-forte-ej",
+        "text": "Cannamedical Indica forte EJ",
+        "title": "Alternative: Cannamedical Indica forte EJ"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "strain": {
+    "slug": "tire-fire",
+    "name": "Tire Fire",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Sleepy",
+      "Giggly",
+      "Hungry"
+    ],
+    "tastes": [
+      "Tar",
+      "Apricot",
+      "Mint"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Limonene",
+      "Pinene"
+    ],
+    "description": "Tire Fire ist eine Hybrid-Sorte, die für ihre moderaten bis hohen THC-Werte bekannt ist, die in der Regel zwischen 18% und 22% liegen. Der CBD-Gehalt ist minimal und beträgt normalerweise weniger als 1%. Diese Sorte hat ein unverwechselbares Geschmacksprofil mit Noten von Teer, Aprikose und Minze. Sie enthält eine Vielzahl von Terpenen, darunter Caryophyllen, Limonen und Pinene. Die Wirkungen von Tire Fire werden mit Schläfrigkeit, Heiterkeit und gesteigertem Appetit in Verbindung gebracht.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 739,
+      "max": 739,
+      "formatted": {
+        "min": "7,39 €",
+        "max": "7,39 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "cannamedical-indica-forte-ma-tf",
+      "name": "Cannamedical Indica forte MA TF",
+      "brandName": "Cannamedical",
+      "thcPercent": 24,
+      "priceMin": 739,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "straweberry-cake",
+      "name": "Strawberry Cake",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "grape-mac",
+      "name": "Grape MAC",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "gush-mints",
+      "name": "Gush Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "gelato-cake",
+      "name": "Gelato Cake",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "banana-cream-cake",
+      "name": "Banana Cream Cake",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Tire Fire (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Tire Fire: Sleepy, Giggly, Hungry. 1 Produkte verfügbar. ab 7,39 €.",
+      "canonical": "https://weed.de/strain/tire-fire",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Tire Fire (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Tire Fire: Sleepy, Giggly, Hungry. 1 Produkte verfügbar. ab 7,39 €.",
+        "url": "https://weed.de/strain/tire-fire",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Tire Fire",
+        "href": "https://weed.de/strain/tire-fire"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Tire Fire",
+            "item": "https://weed.de/strain/tire-fire"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Tire Fire Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/cannamedical-indica-forte-ma-tf",
+            "name": "Cannamedical Indica forte MA TF"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/cannamedical-indica-forte-ma-tf",
+        "text": "Cannamedical Indica forte MA TF",
+        "title": "Cannamedical Indica forte MA TF von Cannamedical"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/straweberry-cake",
+        "text": "Strawberry Cake",
+        "title": "Strawberry Cake - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/grape-mac",
+        "text": "Grape MAC",
+        "title": "Grape MAC - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/gush-mints",
+        "text": "Gush Mints",
+        "title": "Gush Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/gelato-cake",
+        "text": "Gelato Cake",
+        "title": "Gelato Cake - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/banana-cream-cake",
+        "text": "Banana Cream Cake",
+        "title": "Banana Cream Cake - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/pinene",
+        "text": "Pinene",
+        "title": "Pinene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "city": {
+    "slug": "erlangen",
+    "name": "Erlangen",
+    "state": "Bayern"
+  },
+  "stats": {
+    "pharmacyCount": 2,
+    "totalProducts": 0,
+    "hasDelivery": false
+  },
+  "pharmacies": [
+    {
+      "slug": "baeren-apotheke",
+      "name": "Bären Apotheke",
+      "street": "Erlangen, Deutschland",
+      "zip": "91",
+      "hasDelivery": false,
+      "hasPickup": false,
+      "productCount": 0,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "alexandra-test",
+      "name": "Alexandra test",
+      "street": "Erlangen, Deutschland",
+      "zip": "91",
+      "hasDelivery": false,
+      "hasPickup": false,
+      "productCount": 0,
+      "rating": 0,
+      "ratingCount": 0
+    }
+  ],
+  "nearbyCities": [
+    {
+      "slug": "muenchen",
+      "name": "München",
+      "pharmacyCount": 12
+    },
+    {
+      "slug": "nuernberg",
+      "name": "Nürnberg",
+      "pharmacyCount": 7
+    },
+    {
+      "slug": "augsburg",
+      "name": "Augsburg",
+      "pharmacyCount": 6
+    },
+    {
+      "slug": "landshut",
+      "name": "Landshut",
+      "pharmacyCount": 3
+    },
+    {
+      "slug": "ansbach",
+      "name": "Ansbach",
+      "pharmacyCount": 2
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannabis Apotheke Erlangen - 2 Apotheken",
+      "description": "Cannabis Apotheken in Erlangen. 2 Apotheken mit 0 Produkten. Jetzt vergleichen & beste Apotheke finden.",
+      "canonical": "https://weed.de/cannabis-apotheke/erlangen",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannabis Apotheke Erlangen - 2 Apotheken",
+        "description": "Cannabis Apotheken in Erlangen. 2 Apotheken mit 0 Produkten. Jetzt vergleichen & beste Apotheke finden.",
+        "url": "https://weed.de/cannabis-apotheke/erlangen",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Erlangen",
+        "href": "https://weed.de/cannabis-apotheke/erlangen"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Erlangen",
+            "item": "https://weed.de/cannabis-apotheke/erlangen"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Cannabis Apotheken in Erlangen",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/apotheke/baeren-apotheke",
+            "name": "Bären Apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/apotheke/alexandra-test",
+            "name": "Alexandra test"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "pharmacies": [
+      {
+        "href": "/apotheke/baeren-apotheke",
+        "text": "Bären Apotheke",
+        "title": "Bären Apotheke in Erlangen"
+      },
+      {
+        "href": "/apotheke/alexandra-test",
+        "text": "Alexandra test",
+        "title": "Alexandra test in Erlangen"
+      }
+    ],
+    "nearbyCities": [
+      {
+        "href": "/cannabis-apotheke/muenchen",
+        "text": "Cannabis Apotheke München",
+        "title": "12 Apotheken in München"
+      },
+      {
+        "href": "/cannabis-apotheke/nuernberg",
+        "text": "Cannabis Apotheke Nürnberg",
+        "title": "7 Apotheken in Nürnberg"
+      },
+      {
+        "href": "/cannabis-apotheke/augsburg",
+        "text": "Cannabis Apotheke Augsburg",
+        "title": "6 Apotheken in Augsburg"
+      },
+      {
+        "href": "/cannabis-apotheke/landshut",
+        "text": "Cannabis Apotheke Landshut",
+        "title": "3 Apotheken in Landshut"
+      },
+      {
+        "href": "/cannabis-apotheke/ansbach",
+        "text": "Cannabis Apotheke Ansbach",
+        "title": "2 Apotheken in Ansbach"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has 2 pharmacies"
+  }
+}

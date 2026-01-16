@@ -1,0 +1,228 @@
+{
+  "strain": {
+    "slug": "orange-octane",
+    "name": "Orange Octane",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Creative",
+      "Euphoric",
+      "Relaxed",
+      "Mood-lifting",
+      "Clear",
+      "Anxiety-reducing",
+      "Stress-relief",
+      "Pain-relief",
+      "Hungry"
+    ],
+    "tastes": [
+      "Diesel",
+      "Herbal",
+      "Earthy",
+      "Fruity",
+      "Sweet",
+      "Citrus",
+      "Orange",
+      "Gassy",
+      "Spicy-Herbal"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "Orange Octane ist eine potente Hybridsorte, die aus der Kreuzung von Orange Punch und Sunset Octane entstanden ist. Mit einem THC-Gehalt von etwa 23 % und einem CBD-Wert von rund 1 % bietet sie ein intensives Erlebnis, das die süßen, fruchtigen Aspekte ihrer einen Elternseite mit den kräftigen, gasigen Eigenschaften der anderen verbindet.\n\nDas Aromaprofil ist außergewöhnlich komplex und kontrastreich. Es treffen fruchtig-süße Noten von Zitrusfrüchten und reifen Orangen auf kräftige gasige und erdige Nuancen, die dem Ganzen eine robuste Tiefe verleihen. Abgerundet wird dieses Bouquet durch feine Gewürz- und Kräutertöne. Das Terpenprofil, angeführt von Limonen, Beta-Caryophyllen und Myrcen, ist verantwortlich für diese charakteristische Mischung aus frischer Süße, pikanter Würze und schwerem Diesel-Aroma.\n\nDie Wirkung wird als kraftvoll und vielseitig beschrieben. Sie beginnt meist mit einem euphorischen und stimmungsaufhellenden Effekt, der die Kreativität und mentale Klarheit fördern kann. Im weiteren Verlauf geht dieser Zustand in eine tiefe körperliche Entspannung über, die Ruhe bringt. Aufgrund dieser Balance aus geistiger Frische und physischer Gelassenheit wird Orange Octane therapeutisch häufig zur Linderung von Stress, Angstzuständen, Depressionen, chronischen Schmerzen, Muskelverspannungen sowie Appetitlosigkeit eingesetzt.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 800,
+      "max": 800,
+      "formatted": {
+        "min": "8,00 €",
+        "max": "8,00 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "barongo-231-oc",
+      "name": "Barongo 23/1 OC",
+      "brandName": "WMG Pharma",
+      "thcPercent": 23,
+      "priceMin": 800,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "wedding-crasher",
+      "name": "Wedding Crasher",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "purple-amnesia",
+      "name": "Purple Amnesia",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "cookies-kerosene-punch",
+      "name": "Cookies Kerosene Punch",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "petrol-og",
+      "name": "Petrol OG",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "governmint-oasis",
+      "name": "Governmint Oasis",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Orange Octane (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Orange Octane: Creative, Euphoric, Relaxed. 1 Produkte verfügbar. ab 8,00 €.",
+      "canonical": "https://weed.de/strain/orange-octane",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Orange Octane (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Orange Octane: Creative, Euphoric, Relaxed. 1 Produkte verfügbar. ab 8,00 €.",
+        "url": "https://weed.de/strain/orange-octane",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Orange Octane",
+        "href": "https://weed.de/strain/orange-octane"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Orange Octane",
+            "item": "https://weed.de/strain/orange-octane"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Orange Octane Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/barongo-231-oc",
+            "name": "Barongo 23/1 OC"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/barongo-231-oc",
+        "text": "Barongo 23/1 OC",
+        "title": "Barongo 23/1 OC von WMG Pharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/wedding-crasher",
+        "text": "Wedding Crasher",
+        "title": "Wedding Crasher - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/purple-amnesia",
+        "text": "Purple Amnesia",
+        "title": "Purple Amnesia - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/cookies-kerosene-punch",
+        "text": "Cookies Kerosene Punch",
+        "title": "Cookies Kerosene Punch - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/petrol-og",
+        "text": "Petrol OG",
+        "title": "Petrol OG - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/governmint-oasis",
+        "text": "Governmint Oasis",
+        "title": "Governmint Oasis - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

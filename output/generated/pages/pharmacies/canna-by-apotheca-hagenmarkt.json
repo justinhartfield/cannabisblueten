@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "canna-by-apotheca-hagenmarkt",
+    "name": "Canna by apotheca (Hagenmarkt)",
+    "street": "Hagenmarkt 19-20",
+    "zip": "38100",
+    "cityName": "Braunschweig",
+    "state": "Niedersachsen",
+    "lat": 52.2679438,
+    "lng": 10.5242905,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://cannabis.apotheca.de/",
+    "phone": "053148119015",
+    "email": "cannabis@apotheca.de",
+    "productCount": 13,
+    "rating": 5,
+    "ratingCount": 2,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/68a5e8d1d4a0ecc8cef2767b-e166ed.jpg"
+  },
+  "city": {
+    "slug": "braunschweig",
+    "name": "Braunschweig",
+    "pharmacyCount": 2
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "arkaden-apotheke",
+      "name": "Arkaden-Apotheke",
+      "cityName": "Braunschweig",
+      "productCount": 3,
+      "hasDelivery": false
+    },
+    {
+      "slug": "alle-farben-apotheke",
+      "name": "Alle Farben Apotheke",
+      "cityName": "Melle",
+      "productCount": 132,
+      "hasDelivery": true
+    },
+    {
+      "slug": "happy-cannamed",
+      "name": "Marien Apotheke",
+      "cityName": "Cloppenburg",
+      "productCount": 61,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannanord",
+      "name": "CannaNord",
+      "cityName": "Oldenburg",
+      "productCount": 55,
+      "hasDelivery": true
+    },
+    {
+      "slug": "easycannabis-easyapotheke-citylebenstedt",
+      "name": "EasyCannabis easyApotheke CityLebenstedt",
+      "cityName": "Salzgitter",
+      "productCount": 40,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Canna by apotheca (Hagenmarkt) - Cannabis Apotheke in Braunschweig",
+      "description": "Canna by apotheca (Hagenmarkt) in Braunschweig. 13 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/canna-by-apotheca-hagenmarkt",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Canna by apotheca (Hagenmarkt) - Cannabis Apotheke in Braunschweig",
+        "description": "Canna by apotheca (Hagenmarkt) in Braunschweig. 13 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/canna-by-apotheca-hagenmarkt",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/68a5e8d1d4a0ecc8cef2767b-e166ed.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Braunschweig",
+        "href": "https://weed.de/cannabis-apotheke/braunschweig"
+      },
+      {
+        "name": "Canna by apotheca (Hagenmarkt)",
+        "href": "https://weed.de/apotheke/canna-by-apotheca-hagenmarkt"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Braunschweig",
+            "item": "https://weed.de/cannabis-apotheke/braunschweig"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Canna by apotheca (Hagenmarkt)",
+            "item": "https://weed.de/apotheke/canna-by-apotheca-hagenmarkt"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Canna by apotheca (Hagenmarkt)",
+        "url": "https://weed.de/apotheke/canna-by-apotheca-hagenmarkt",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Hagenmarkt 19-20",
+          "addressLocality": "Braunschweig",
+          "postalCode": "38100",
+          "addressRegion": "Niedersachsen",
+          "addressCountry": "DE"
+        },
+        "telephone": "053148119015",
+        "email": "cannabis@apotheca.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/braunschweig",
+      "text": "Cannabis Apotheken in Braunschweig",
+      "title": "Alle Apotheken in Braunschweig"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/arkaden-apotheke",
+        "text": "Arkaden-Apotheke",
+        "title": "Arkaden-Apotheke in Braunschweig"
+      },
+      {
+        "href": "/apotheke/alle-farben-apotheke",
+        "text": "Alle Farben Apotheke",
+        "title": "Alle Farben Apotheke in Melle"
+      },
+      {
+        "href": "/apotheke/happy-cannamed",
+        "text": "Marien Apotheke",
+        "title": "Marien Apotheke in Cloppenburg"
+      },
+      {
+        "href": "/apotheke/cannanord",
+        "text": "CannaNord",
+        "title": "CannaNord in Oldenburg"
+      },
+      {
+        "href": "/apotheke/easycannabis-easyapotheke-citylebenstedt",
+        "text": "EasyCannabis easyApotheke CityLebenstedt",
+        "title": "EasyCannabis easyApotheke CityLebenstedt in Salzgitter"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

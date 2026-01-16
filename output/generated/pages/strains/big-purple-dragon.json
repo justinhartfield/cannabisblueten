@@ -1,0 +1,258 @@
+{
+  "strain": {
+    "slug": "big-purple-dragon",
+    "name": "Big Purple Dragon",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Relaxed",
+      "Creative"
+    ],
+    "tastes": [
+      "Earthy",
+      "Spicy"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Beta-Caryophyllene",
+      "Guaiol"
+    ],
+    "description": "Big Purple Dragon hat eine Hybrid-Genetik. Der Wirkstoffgehalt liegt bei ungefähr 25,0% THC und < 1,0% CBD. Die Blütensorte ist unbestrahlt und wird in Dänemark produziert.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 3,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 348,
+      "max": 749,
+      "formatted": {
+        "min": "3,48 €",
+        "max": "7,49 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "remexian-251-bpd",
+      "name": "Remexian 25/1 BPD",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 25,
+      "priceMin": 480,
+      "inStock": true
+    },
+    {
+      "slug": "remexian-221-bpd",
+      "name": "Remexian 22/1 BPD",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 22,
+      "priceMin": 348,
+      "inStock": true
+    },
+    {
+      "slug": "weeco-dragon-261",
+      "name": "WEECO Dragon 26/1",
+      "brandName": "Weeco",
+      "thcPercent": 26,
+      "priceMin": 385,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "sour-cherry-punch",
+      "name": "Sour Cherry Punch",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "tigerz-eye",
+      "name": "Tigerz Eye",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "alien-mints",
+      "name": "Alien Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "wedding-pop-triangle",
+      "name": "Wedding Pop Triangle",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "lemon-berry-og",
+      "name": "Lemon Berry OG",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Big Purple Dragon (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Big Purple Dragon: Relaxed, Creative. 3 Produkte verfügbar. ab 3,48 €.",
+      "canonical": "https://weed.de/strain/big-purple-dragon",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Big Purple Dragon (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Big Purple Dragon: Relaxed, Creative. 3 Produkte verfügbar. ab 3,48 €.",
+        "url": "https://weed.de/strain/big-purple-dragon",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Big Purple Dragon",
+        "href": "https://weed.de/strain/big-purple-dragon"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Big Purple Dragon",
+            "item": "https://weed.de/strain/big-purple-dragon"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Big Purple Dragon Produkte",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/remexian-251-bpd",
+            "name": "Remexian 25/1 BPD"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/remexian-221-bpd",
+            "name": "Remexian 22/1 BPD"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/weeco-dragon-261",
+            "name": "WEECO Dragon 26/1"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/remexian-251-bpd",
+        "text": "Remexian 25/1 BPD",
+        "title": "Remexian 25/1 BPD von Remexian Pharma"
+      },
+      {
+        "href": "/product/remexian-221-bpd",
+        "text": "Remexian 22/1 BPD",
+        "title": "Remexian 22/1 BPD von Remexian Pharma"
+      },
+      {
+        "href": "/product/weeco-dragon-261",
+        "text": "WEECO Dragon 26/1",
+        "title": "WEECO Dragon 26/1 von Weeco"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/sour-cherry-punch",
+        "text": "Sour Cherry Punch",
+        "title": "Sour Cherry Punch - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/tigerz-eye",
+        "text": "Tigerz Eye",
+        "title": "Tigerz Eye - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/alien-mints",
+        "text": "Alien Mints",
+        "title": "Alien Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/wedding-pop-triangle",
+        "text": "Wedding Pop Triangle",
+        "title": "Wedding Pop Triangle - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/lemon-berry-og",
+        "text": "Lemon Berry OG",
+        "title": "Lemon Berry OG - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/guaiol",
+        "text": "Guaiol",
+        "title": "Guaiol Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

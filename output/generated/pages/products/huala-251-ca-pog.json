@@ -1,0 +1,241 @@
+{
+  "product": {
+    "slug": "huala-251-ca-pog",
+    "name": "Huala 25/1 CA POG",
+    "type": "flower",
+    "genetics": "hybrid_sativa",
+    "thcPercent": 25,
+    "cbdPercent": 1,
+    "priceMin": 399,
+    "priceMax": 690,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": "https://weed.de/products/huala-251-ca-pog-953bj1.png"
+  },
+  "brand": {
+    "slug": "four-20-pharma",
+    "name": "Four 20 Pharma",
+    "productCount": 267
+  },
+  "strain": {
+    "slug": "pineapple-god",
+    "name": "Pineapple God",
+    "geneticType": "hybrid",
+    "effects": [
+      "Euphoric",
+      "Relaxed",
+      "Pain-relief",
+      "Sleepy",
+      "Sedative",
+      "Hungry",
+      "Happy"
+    ],
+    "terpenes": [
+      "Beta-Caryophyllene",
+      "Alpha-Humulene",
+      "Beta-Myrcene",
+      "Linalool",
+      "D-Limonene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Euphoric",
+      "Relaxed",
+      "Pain-relief",
+      "Sleepy",
+      "Sedative",
+      "Hungry",
+      "Happy"
+    ],
+    "tastes": [
+      "Tropical",
+      "Fruity",
+      "Pineapple",
+      "Creamy",
+      "Earthy",
+      "Flowery",
+      "Tangy"
+    ],
+    "terpenes": [
+      "Beta-Caryophyllene",
+      "Alpha-Humulene",
+      "Beta-Myrcene",
+      "Linalool",
+      "D-Limonene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "amp-classic-251",
+      "name": "AMP Classic 25/1",
+      "brandName": "AMP",
+      "thcPercent": 25,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "slouu-pg-ca-271",
+      "name": "Slouu PG CA 27/1",
+      "brandName": "enua",
+      "thcPercent": 27,
+      "priceMin": 449,
+      "inStock": true
+    },
+    {
+      "slug": "slouu-pg-ca-291",
+      "name": "Slouu PG CA 29/1",
+      "brandName": "enua",
+      "thcPercent": 29,
+      "priceMin": 499,
+      "inStock": true
+    },
+    {
+      "slug": "weeco-231",
+      "name": "Weeco 23/1",
+      "brandName": "Weeco",
+      "thcPercent": 23,
+      "priceMin": 599,
+      "inStock": true
+    },
+    {
+      "slug": "aurora-221-dhz-ca",
+      "name": "Aurora 22/1 DHZ-CA",
+      "brandName": "Aurora",
+      "thcPercent": 19.8,
+      "priceMin": 640,
+      "inStock": true
+    },
+    {
+      "slug": "420-evolution-271-ca-str",
+      "name": "420 Evolution 27/1 CA STR",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 27,
+      "priceMin": 645,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Huala 25/1 CA POG - Four 20 Pharma | ab 3,99 €",
+      "description": "Huala 25/1 CA POG von Four 20 Pharma. THC: 25%, CBD: 1%. Sorte: Pineapple God. Preis ab 3,99 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/huala-251-ca-pog",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Huala 25/1 CA POG - Four 20 Pharma | ab 3,99 €",
+        "description": "Huala 25/1 CA POG von Four 20 Pharma. THC: 25%, CBD: 1%. Sorte: Pineapple God. Preis ab 3,99 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/huala-251-ca-pog",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/huala-251-ca-pog-953bj1.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Four 20 Pharma",
+        "href": "https://weed.de/brand/four-20-pharma"
+      },
+      {
+        "name": "Huala 25/1 CA POG",
+        "href": "https://weed.de/product/huala-251-ca-pog"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Huala 25/1 CA POG",
+            "item": "https://weed.de/product/huala-251-ca-pog"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Huala 25/1 CA POG",
+        "brand": {
+          "@type": "Brand",
+          "name": "Four 20 Pharma"
+        },
+        "description": "THC: 25%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/pineapple-god",
+      "text": "Pineapple God",
+      "title": "Pineapple God Sorte"
+    },
+    "brand": {
+      "href": "/brand/four-20-pharma",
+      "text": "Four 20 Pharma",
+      "title": "Alle Four 20 Pharma Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/amp-classic-251",
+        "text": "AMP Classic 25/1",
+        "title": "Alternative: AMP Classic 25/1"
+      },
+      {
+        "href": "/product/slouu-pg-ca-271",
+        "text": "Slouu PG CA 27/1",
+        "title": "Alternative: Slouu PG CA 27/1"
+      },
+      {
+        "href": "/product/slouu-pg-ca-291",
+        "text": "Slouu PG CA 29/1",
+        "title": "Alternative: Slouu PG CA 29/1"
+      },
+      {
+        "href": "/product/weeco-231",
+        "text": "Weeco 23/1",
+        "title": "Alternative: Weeco 23/1"
+      },
+      {
+        "href": "/product/aurora-221-dhz-ca",
+        "text": "Aurora 22/1 DHZ-CA",
+        "title": "Alternative: Aurora 22/1 DHZ-CA"
+      },
+      {
+        "href": "/product/420-evolution-271-ca-str",
+        "text": "420 Evolution 27/1 CA STR",
+        "title": "Alternative: 420 Evolution 27/1 CA STR"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

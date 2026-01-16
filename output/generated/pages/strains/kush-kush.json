@@ -1,0 +1,206 @@
+{
+  "strain": {
+    "slug": "kush-kush",
+    "name": "Kush Kush",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Relaxed",
+      "Calming"
+    ],
+    "tastes": [
+      "Sweet"
+    ],
+    "terpenes": [
+      "Beta-Myrcene",
+      "Beta-Caryophyllene",
+      "Limonene"
+    ],
+    "description": "Kush Kush entstanden aus der Kreuzung von Kosher Kush und Karel’s Haze, ist eine Indica-Dominierte Sorte. Diese Strain überzeugt durch ihren hohen THC-Gehalt in Kombination mit den Terpenen Myrcene-β, Limonene und Caryophyllene-β die in Kombination eine süßen, fast tropischen Geschmack erzeugen.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": null
+  },
+  "products": [
+    {
+      "slug": "together-pharma-andromeda",
+      "name": "Together Pharma Andromeda",
+      "brandName": "Cantourage",
+      "thcPercent": 20,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "creamy-kees-no.-5",
+      "name": "Creamy Kees No. 5",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "wonder-punch",
+      "name": "Wonder Punch",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "auto-mokums-tulip",
+      "name": "Auto Mokum's Tulip",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "big-buddha",
+      "name": "Big Buddha",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "dawg-bud-fusion",
+      "name": "Dawg Bud Fusion",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Kush Kush (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Kush Kush: Relaxed, Calming. 1 Produkte verfügbar.",
+      "canonical": "https://weed.de/strain/kush-kush",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Kush Kush (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Kush Kush: Relaxed, Calming. 1 Produkte verfügbar.",
+        "url": "https://weed.de/strain/kush-kush",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Kush Kush",
+        "href": "https://weed.de/strain/kush-kush"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Kush Kush",
+            "item": "https://weed.de/strain/kush-kush"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Kush Kush Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/together-pharma-andromeda",
+            "name": "Together Pharma Andromeda"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/together-pharma-andromeda",
+        "text": "Together Pharma Andromeda",
+        "title": "Together Pharma Andromeda von Cantourage"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/creamy-kees-no.-5",
+        "text": "Creamy Kees No. 5",
+        "title": "Creamy Kees No. 5 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/wonder-punch",
+        "text": "Wonder Punch",
+        "title": "Wonder Punch - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/auto-mokums-tulip",
+        "text": "Auto Mokum's Tulip",
+        "title": "Auto Mokum's Tulip - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/big-buddha",
+        "text": "Big Buddha",
+        "title": "Big Buddha - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/dawg-bud-fusion",
+        "text": "Dawg Bud Fusion",
+        "title": "Dawg Bud Fusion - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/beta-myrcene",
+        "text": "Beta-Myrcene",
+        "title": "Beta-Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

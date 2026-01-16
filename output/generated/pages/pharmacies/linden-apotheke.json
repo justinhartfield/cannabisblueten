@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "linden-apotheke",
+    "name": "KrautKurier (Linden Apotheke)",
+    "street": "Kirchlinde, Dortmund, Deutschland",
+    "zip": "44379",
+    "cityName": "Dortmund",
+    "state": "Nordrhein-Westfalen",
+    "lat": 51.52093199999999,
+    "lng": 7.364143,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": null,
+    "phone": "0231670704",
+    "email": "order@krautkurier.shop",
+    "productCount": 56,
+    "rating": 3.4,
+    "ratingCount": 5,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/67505022b79af65608377f54-dada1d.jpg"
+  },
+  "city": {
+    "slug": "dortmund",
+    "name": "Dortmund",
+    "pharmacyCount": 5
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "higreen-stern-apotheke",
+      "name": "Stern Apotheke - higreen!",
+      "cityName": "Dortmund",
+      "productCount": 38,
+      "hasDelivery": true
+    },
+    {
+      "slug": "koernebach-apotheke",
+      "name": "Körnebach Apotheke",
+      "cityName": "Dortmund",
+      "productCount": 13,
+      "hasDelivery": false
+    },
+    {
+      "slug": "baeren-apotheke-2",
+      "name": "Bären Apotheke",
+      "cityName": "Dortmund",
+      "productCount": 10,
+      "hasDelivery": false
+    },
+    {
+      "slug": "higreen-apotheke-am-phoenixsee",
+      "name": "higreen! - Apotheke am Phoenixsee",
+      "cityName": "Dortmund",
+      "productCount": 1,
+      "hasDelivery": false
+    },
+    {
+      "slug": "higreen-apotheke",
+      "name": "higreen! Online Marktplatz für Cannabis Apotheken",
+      "cityName": "Krefeld",
+      "productCount": 256,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "KrautKurier (Linden Apotheke) - Cannabis Apotheke in Dortmund",
+      "description": "KrautKurier (Linden Apotheke) in Dortmund. 56 Cannabis Produkte. Lieferung & Abholung. Bewertung: 3.4/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/linden-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "KrautKurier (Linden Apotheke) - Cannabis Apotheke in Dortmund",
+        "description": "KrautKurier (Linden Apotheke) in Dortmund. 56 Cannabis Produkte. Lieferung & Abholung. Bewertung: 3.4/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/linden-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/67505022b79af65608377f54-dada1d.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Dortmund",
+        "href": "https://weed.de/cannabis-apotheke/dortmund"
+      },
+      {
+        "name": "KrautKurier (Linden Apotheke)",
+        "href": "https://weed.de/apotheke/linden-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Dortmund",
+            "item": "https://weed.de/cannabis-apotheke/dortmund"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "KrautKurier (Linden Apotheke)",
+            "item": "https://weed.de/apotheke/linden-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "KrautKurier (Linden Apotheke)",
+        "url": "https://weed.de/apotheke/linden-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Kirchlinde, Dortmund, Deutschland",
+          "addressLocality": "Dortmund",
+          "postalCode": "44379",
+          "addressRegion": "Nordrhein-Westfalen",
+          "addressCountry": "DE"
+        },
+        "telephone": "0231670704",
+        "email": "order@krautkurier.shop"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/dortmund",
+      "text": "Cannabis Apotheken in Dortmund",
+      "title": "Alle Apotheken in Dortmund"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/higreen-stern-apotheke",
+        "text": "Stern Apotheke - higreen!",
+        "title": "Stern Apotheke - higreen! in Dortmund"
+      },
+      {
+        "href": "/apotheke/koernebach-apotheke",
+        "text": "Körnebach Apotheke",
+        "title": "Körnebach Apotheke in Dortmund"
+      },
+      {
+        "href": "/apotheke/baeren-apotheke-2",
+        "text": "Bären Apotheke",
+        "title": "Bären Apotheke in Dortmund"
+      },
+      {
+        "href": "/apotheke/higreen-apotheke-am-phoenixsee",
+        "text": "higreen! - Apotheke am Phoenixsee",
+        "title": "higreen! - Apotheke am Phoenixsee in Dortmund"
+      },
+      {
+        "href": "/apotheke/higreen-apotheke",
+        "text": "higreen! Online Marktplatz für Cannabis Apotheken",
+        "title": "higreen! Online Marktplatz für Cannabis Apotheken in Krefeld"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

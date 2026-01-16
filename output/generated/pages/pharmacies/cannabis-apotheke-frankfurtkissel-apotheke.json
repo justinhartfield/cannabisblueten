@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "cannabis-apotheke-frankfurtkissel-apotheke",
+    "name": "Cannabis Apotheke Frankfurt/Kissel-Apotheke",
+    "street": "Leipziger Straße 20",
+    "zip": "60487",
+    "cityName": "Frankfurt am Main",
+    "state": "Hessen",
+    "lat": 50.1211784,
+    "lng": 8.648751299999999,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": null,
+    "phone": "000000000000",
+    "email": "versand@kisselapotheke.de",
+    "productCount": 183,
+    "rating": 3.5,
+    "ratingCount": 8,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/676003bcb9a000b7c7dd012d-h2c75c.jpg"
+  },
+  "city": {
+    "slug": "frankfurt-am-main",
+    "name": "Frankfurt am Main",
+    "pharmacyCount": 6
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "prinzenapotheke",
+      "name": "Prinzenapotheke",
+      "cityName": "Frankfurt am Main",
+      "productCount": 38,
+      "hasDelivery": true
+    },
+    {
+      "slug": "adler-apotheke-3",
+      "name": "Adler Cannabis Frankfurt",
+      "cityName": "Frankfurt am Main",
+      "productCount": 27,
+      "hasDelivery": true
+    },
+    {
+      "slug": "5k-goethe-apotheke",
+      "name": "5K Goethe Apotheke",
+      "cityName": "Frankfurt am Main",
+      "productCount": 8,
+      "hasDelivery": true
+    },
+    {
+      "slug": "wynter-moses",
+      "name": "Wynter Moses",
+      "cityName": "Frankfurt am Main",
+      "productCount": 0,
+      "hasDelivery": false
+    },
+    {
+      "slug": "izabella-pharmacy",
+      "name": "Izabella Pharmacy",
+      "cityName": "Frankfurt am Main",
+      "productCount": 0,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannabis Apotheke Frankfurt/Kissel-Apotheke - Cannabis Apotheke in Frankfurt am Main",
+      "description": "Cannabis Apotheke Frankfurt/Kissel-Apotheke in Frankfurt am Main. 183 Cannabis Produkte. Lieferung & Abholung. Bewertung: 3.5/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/cannabis-apotheke-frankfurtkissel-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannabis Apotheke Frankfurt/Kissel-Apotheke - Cannabis Apotheke in Frankfurt am Main",
+        "description": "Cannabis Apotheke Frankfurt/Kissel-Apotheke in Frankfurt am Main. 183 Cannabis Produkte. Lieferung & Abholung. Bewertung: 3.5/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/cannabis-apotheke-frankfurtkissel-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/676003bcb9a000b7c7dd012d-h2c75c.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Frankfurt am Main",
+        "href": "https://weed.de/cannabis-apotheke/frankfurt-am-main"
+      },
+      {
+        "name": "Cannabis Apotheke Frankfurt/Kissel-Apotheke",
+        "href": "https://weed.de/apotheke/cannabis-apotheke-frankfurtkissel-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Frankfurt am Main",
+            "item": "https://weed.de/cannabis-apotheke/frankfurt-am-main"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Cannabis Apotheke Frankfurt/Kissel-Apotheke",
+            "item": "https://weed.de/apotheke/cannabis-apotheke-frankfurtkissel-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Cannabis Apotheke Frankfurt/Kissel-Apotheke",
+        "url": "https://weed.de/apotheke/cannabis-apotheke-frankfurtkissel-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Leipziger Straße 20",
+          "addressLocality": "Frankfurt am Main",
+          "postalCode": "60487",
+          "addressRegion": "Hessen",
+          "addressCountry": "DE"
+        },
+        "telephone": "000000000000",
+        "email": "versand@kisselapotheke.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/frankfurt-am-main",
+      "text": "Cannabis Apotheken in Frankfurt am Main",
+      "title": "Alle Apotheken in Frankfurt am Main"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/prinzenapotheke",
+        "text": "Prinzenapotheke",
+        "title": "Prinzenapotheke in Frankfurt am Main"
+      },
+      {
+        "href": "/apotheke/adler-apotheke-3",
+        "text": "Adler Cannabis Frankfurt",
+        "title": "Adler Cannabis Frankfurt in Frankfurt am Main"
+      },
+      {
+        "href": "/apotheke/5k-goethe-apotheke",
+        "text": "5K Goethe Apotheke",
+        "title": "5K Goethe Apotheke in Frankfurt am Main"
+      },
+      {
+        "href": "/apotheke/wynter-moses",
+        "text": "Wynter Moses",
+        "title": "Wynter Moses in Frankfurt am Main"
+      },
+      {
+        "href": "/apotheke/izabella-pharmacy",
+        "text": "Izabella Pharmacy",
+        "title": "Izabella Pharmacy in Frankfurt am Main"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

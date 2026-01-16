@@ -1,0 +1,185 @@
+{
+  "pharmacy": {
+    "slug": "fuchs-apotheke",
+    "name": "fuchs apotheke",
+    "street": null,
+    "zip": null,
+    "cityName": "Unknown",
+    "state": null,
+    "lat": null,
+    "lng": null,
+    "hasDelivery": false,
+    "hasPickup": true,
+    "hasPrices": false,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "productCount": 0,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": null
+  },
+  "city": {
+    "slug": "unknown",
+    "name": "Unknown",
+    "pharmacyCount": 19
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "salus-apotheke-1",
+      "name": "SALUS Apotheke",
+      "cityName": "Unknown",
+      "productCount": 22,
+      "hasDelivery": true
+    },
+    {
+      "slug": "1-apotheke",
+      "name": "+1 Apotheke",
+      "cityName": "Unknown",
+      "productCount": 0,
+      "hasDelivery": false
+    },
+    {
+      "slug": "alte-rats-apotheke-ohg",
+      "name": "Alte Rats-Apotheke OHG",
+      "cityName": "Unknown",
+      "productCount": 0,
+      "hasDelivery": false
+    },
+    {
+      "slug": "maxmo-apotheke-kaufland-dueren",
+      "name": "Maxmo Apotheke Kaufland Düren",
+      "cityName": "Unknown",
+      "productCount": 0,
+      "hasDelivery": false
+    },
+    {
+      "slug": "yolosvath-2",
+      "name": "Yolosvath",
+      "cityName": "Unknown",
+      "productCount": 0,
+      "hasDelivery": false
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "fuchs apotheke - Cannabis Apotheke in Unknown",
+      "description": "fuchs apotheke in Unknown. Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/fuchs-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "fuchs apotheke - Cannabis Apotheke in Unknown",
+        "description": "fuchs apotheke in Unknown. Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/fuchs-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Unknown",
+        "href": "https://weed.de/cannabis-apotheke/unknown"
+      },
+      {
+        "name": "fuchs apotheke",
+        "href": "https://weed.de/apotheke/fuchs-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Unknown",
+            "item": "https://weed.de/cannabis-apotheke/unknown"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "fuchs apotheke",
+            "item": "https://weed.de/apotheke/fuchs-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "fuchs apotheke",
+        "url": "https://weed.de/apotheke/fuchs-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": null,
+          "addressLocality": "Unknown",
+          "postalCode": null,
+          "addressRegion": null,
+          "addressCountry": "DE"
+        }
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/unknown",
+      "text": "Cannabis Apotheken in Unknown",
+      "title": "Alle Apotheken in Unknown"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/salus-apotheke-1",
+        "text": "SALUS Apotheke",
+        "title": "SALUS Apotheke in Unknown"
+      },
+      {
+        "href": "/apotheke/1-apotheke",
+        "text": "+1 Apotheke",
+        "title": "+1 Apotheke in Unknown"
+      },
+      {
+        "href": "/apotheke/alte-rats-apotheke-ohg",
+        "text": "Alte Rats-Apotheke OHG",
+        "title": "Alte Rats-Apotheke OHG in Unknown"
+      },
+      {
+        "href": "/apotheke/maxmo-apotheke-kaufland-dueren",
+        "text": "Maxmo Apotheke Kaufland Düren",
+        "title": "Maxmo Apotheke Kaufland Düren in Unknown"
+      },
+      {
+        "href": "/apotheke/yolosvath-2",
+        "text": "Yolosvath",
+        "title": "Yolosvath in Unknown"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has services"
+  }
+}

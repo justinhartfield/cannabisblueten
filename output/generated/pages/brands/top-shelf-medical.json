@@ -1,0 +1,193 @@
+{
+  "brand": {
+    "slug": "top-shelf-medical",
+    "name": "Top Shelf Medical",
+    "productCount": 5
+  },
+  "products": [
+    {
+      "slug": "top-shelf-medical-s1e1-27",
+      "name": "Top Shelf Medical S1E1-27",
+      "type": "flower",
+      "thcPercent": 27,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Flawless Victory"
+    },
+    {
+      "slug": "top-shelf-medical-s1e2-301",
+      "name": "Top Shelf Medical S1E2 30/1",
+      "type": "flower",
+      "thcPercent": 30,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Oasis OG"
+    },
+    {
+      "slug": "top-shelf-medical-s1e3-wck",
+      "name": "Top Shelf Medical S1E3 WCK",
+      "type": "flower",
+      "thcPercent": 30,
+      "priceMin": 1025,
+      "inStock": false,
+      "strainName": "Wes’ Coast Kush"
+    },
+    {
+      "slug": "top-shelf-medical-341-mtl-snm",
+      "name": "Top Shelf Medical 34/1 MTL SNM",
+      "type": "flower",
+      "thcPercent": 37,
+      "priceMin": 1089,
+      "inStock": false,
+      "strainName": "Strawberry n' Mintz"
+    },
+    {
+      "slug": "top-shelf-medical-341-mtl-wck",
+      "name": "Top Shelf Medical 34/1 MTL WCK",
+      "type": "flower",
+      "thcPercent": 37,
+      "priceMin": 975,
+      "inStock": false,
+      "strainName": "Wes’ Coast Kush"
+    }
+  ],
+  "stats": {
+    "productCount": 5,
+    "inStockCount": 0,
+    "avgThc": 32.2,
+    "priceRange": {
+      "min": 975,
+      "max": 1089,
+      "formatted": {
+        "min": "9,75 €",
+        "max": "10,89 €"
+      }
+    }
+  },
+  "seo": {
+    "meta": {
+      "title": "Top Shelf Medical Cannabis Produkte - 5 Produkte",
+      "description": "Top Shelf Medical: 5 Cannabis Produkte. 0 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+      "canonical": "https://weed.de/brand/top-shelf-medical",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Top Shelf Medical Cannabis Produkte - 5 Produkte",
+        "description": "Top Shelf Medical: 5 Cannabis Produkte. 0 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+        "url": "https://weed.de/brand/top-shelf-medical",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Hersteller",
+        "href": "https://weed.de/brands"
+      },
+      {
+        "name": "Top Shelf Medical",
+        "href": "https://weed.de/brand/top-shelf-medical"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Hersteller",
+            "item": "https://weed.de/brands"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Top Shelf Medical",
+            "item": "https://weed.de/brand/top-shelf-medical"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Top Shelf Medical Produkte",
+        "numberOfItems": 5,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/top-shelf-medical-s1e1-27",
+            "name": "Top Shelf Medical S1E1-27"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/top-shelf-medical-s1e2-301",
+            "name": "Top Shelf Medical S1E2 30/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/top-shelf-medical-s1e3-wck",
+            "name": "Top Shelf Medical S1E3 WCK"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/product/top-shelf-medical-341-mtl-snm",
+            "name": "Top Shelf Medical 34/1 MTL SNM"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "https://weed.de/product/top-shelf-medical-341-mtl-wck",
+            "name": "Top Shelf Medical 34/1 MTL WCK"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/top-shelf-medical-s1e1-27",
+        "text": "Top Shelf Medical S1E1-27",
+        "title": "Top Shelf Medical S1E1-27"
+      },
+      {
+        "href": "/product/top-shelf-medical-s1e2-301",
+        "text": "Top Shelf Medical S1E2 30/1",
+        "title": "Top Shelf Medical S1E2 30/1"
+      },
+      {
+        "href": "/product/top-shelf-medical-s1e3-wck",
+        "text": "Top Shelf Medical S1E3 WCK",
+        "title": "Top Shelf Medical S1E3 WCK"
+      },
+      {
+        "href": "/product/top-shelf-medical-341-mtl-snm",
+        "text": "Top Shelf Medical 34/1 MTL SNM",
+        "title": "Top Shelf Medical 34/1 MTL SNM"
+      },
+      {
+        "href": "/product/top-shelf-medical-341-mtl-wck",
+        "text": "Top Shelf Medical 34/1 MTL WCK",
+        "title": "Top Shelf Medical 34/1 MTL WCK"
+      }
+    ]
+  }
+}

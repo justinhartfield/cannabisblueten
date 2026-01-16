@@ -1,0 +1,224 @@
+{
+  "product": {
+    "slug": "imc-bm-thc26-selected",
+    "name": "IMC BM THC26 Selected",
+    "type": "flower",
+    "genetics": "hybrid_sativa",
+    "thcPercent": 26,
+    "cbdPercent": 1,
+    "priceMin": 449,
+    "priceMax": 920,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "imc",
+    "name": "IMC",
+    "productCount": 128
+  },
+  "strain": {
+    "slug": "neville's-skunk",
+    "name": "Neville's Skunk",
+    "geneticType": "hybrid",
+    "effects": [
+      "Creative",
+      "Focused",
+      "Euphoric"
+    ],
+    "terpenes": [
+      "Linalool",
+      "Beta-Caryophyllene",
+      "Beta-Myrcene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Creative",
+      "Focused",
+      "Euphoric"
+    ],
+    "tastes": [
+      "Earthy",
+      "Herbal",
+      "Woody"
+    ],
+    "terpenes": [
+      "Linalool",
+      "Beta-Caryophyllene",
+      "Beta-Myrcene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "avextra-1010",
+      "name": "Avextra 10/10",
+      "brandName": "Avextra",
+      "thcPercent": 1,
+      "priceMin": 279,
+      "inStock": true
+    },
+    {
+      "slug": "amp-classic-251",
+      "name": "AMP Classic 25/1",
+      "brandName": "AMP",
+      "thcPercent": 25,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "weeco-231",
+      "name": "Weeco 23/1",
+      "brandName": "Weeco",
+      "thcPercent": 23,
+      "priceMin": 599,
+      "inStock": true
+    },
+    {
+      "slug": "aurora-221-dhz-ca",
+      "name": "Aurora 22/1 DHZ-CA",
+      "brandName": "Aurora",
+      "thcPercent": 19.8,
+      "priceMin": 640,
+      "inStock": true
+    },
+    {
+      "slug": "420-evolution-271-ca-str",
+      "name": "420 Evolution 27/1 CA STR",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 27,
+      "priceMin": 645,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-221-florestura",
+      "name": "DEMECAN Florestura 22:01",
+      "brandName": "Deutsche Medizinalcannabis",
+      "thcPercent": 22,
+      "priceMin": 679,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "IMC BM THC26 Selected | ab 4,49 €",
+      "description": "IMC BM THC26 Selected von IMC. THC: 26%, CBD: 1%. Sorte: Neville's Skunk. Preis ab 4,49 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/imc-bm-thc26-selected",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "IMC BM THC26 Selected | ab 4,49 €",
+        "description": "IMC BM THC26 Selected von IMC. THC: 26%, CBD: 1%. Sorte: Neville's Skunk. Preis ab 4,49 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/imc-bm-thc26-selected",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "IMC",
+        "href": "https://weed.de/brand/imc"
+      },
+      {
+        "name": "IMC BM THC26 Selected",
+        "href": "https://weed.de/product/imc-bm-thc26-selected"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "IMC BM THC26 Selected",
+            "item": "https://weed.de/product/imc-bm-thc26-selected"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "IMC BM THC26 Selected",
+        "brand": {
+          "@type": "Brand",
+          "name": "IMC"
+        },
+        "description": "THC: 26%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/neville's-skunk",
+      "text": "Neville's Skunk",
+      "title": "Neville's Skunk Sorte"
+    },
+    "brand": {
+      "href": "/brand/imc",
+      "text": "IMC",
+      "title": "Alle IMC Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/avextra-1010",
+        "text": "Avextra 10/10",
+        "title": "Alternative: Avextra 10/10"
+      },
+      {
+        "href": "/product/amp-classic-251",
+        "text": "AMP Classic 25/1",
+        "title": "Alternative: AMP Classic 25/1"
+      },
+      {
+        "href": "/product/weeco-231",
+        "text": "Weeco 23/1",
+        "title": "Alternative: Weeco 23/1"
+      },
+      {
+        "href": "/product/aurora-221-dhz-ca",
+        "text": "Aurora 22/1 DHZ-CA",
+        "title": "Alternative: Aurora 22/1 DHZ-CA"
+      },
+      {
+        "href": "/product/420-evolution-271-ca-str",
+        "text": "420 Evolution 27/1 CA STR",
+        "title": "Alternative: 420 Evolution 27/1 CA STR"
+      },
+      {
+        "href": "/product/demecan-221-florestura",
+        "text": "DEMECAN Florestura 22:01",
+        "title": "Alternative: DEMECAN Florestura 22:01"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "strain": {
+    "slug": "tangie",
+    "name": "Tangie",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 5,
+      "max": 5
+    },
+    "effects": [
+      "Happy",
+      "Energetic"
+    ],
+    "tastes": [
+      "Tropical",
+      "Skunk",
+      "Citrus",
+      "Sweet"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Phellandrene",
+      "Carene",
+      "Caryophyllene",
+      "Limonene"
+    ],
+    "description": "Tangie ist eine sativa-dominante Hybrid-Cannabissorte mit einem THC-Gehalt von 20% bis 22%, was sie in die Kategorie moderat potent einordnet. Sie zeichnet sich durch ein reizvolles Geschmacksprofil aus, das tropische, skunkige, zitrusartige und süße Noten kombiniert. Das Terpenprofil von Tangie umfasst Myrcene, Phellandrene, Carene, Caryophyllene und Limonene, die zu ihrem einzigartigen Aroma und potenziellen Wirkungen beitragen. Diese Sorte ist bekannt für ihre fröhlichen und energetischen Wirkungen, was sie zu einer geeigneten Wahl für diejenigen macht, die ein belebendes und anregendes Erlebnis suchen.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 4,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 590,
+      "max": 969,
+      "formatted": {
+        "min": "5,90 €",
+        "max": "9,69 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "avaay-simple-201-tng",
+      "name": "Avaay Simple 20/1 TNG",
+      "brandName": "Avaay",
+      "thcPercent": 19.9,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "avaay-191-tng",
+      "name": "Avaay 19/1 TNG",
+      "brandName": "Avaay",
+      "thcPercent": 19,
+      "priceMin": 665,
+      "inStock": true
+    },
+    {
+      "slug": "avaay-231-tng",
+      "name": "AVAAY 23/1 TNG",
+      "brandName": "Avaay",
+      "thcPercent": 23,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "vayamed-day-191-tng",
+      "name": "Vayamed Day 19/1 TNG",
+      "brandName": "Vayamed",
+      "thcPercent": 19,
+      "priceMin": 590,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "g-13-haze",
+      "name": "G-13 Haze",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "chem-og",
+      "name": "Chem OG",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "gelato-33",
+      "name": "Gelato 33",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "crescendo",
+      "name": "Crescendo",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "animal-mints",
+      "name": "Animal Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Tangie (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Tangie: Happy, Energetic. 4 Produkte verfügbar. ab 5,90 €.",
+      "canonical": "https://weed.de/strain/tangie",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Tangie (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Tangie: Happy, Energetic. 4 Produkte verfügbar. ab 5,90 €.",
+        "url": "https://weed.de/strain/tangie",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Tangie",
+        "href": "https://weed.de/strain/tangie"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Tangie",
+            "item": "https://weed.de/strain/tangie"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Tangie Produkte",
+        "numberOfItems": 4,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/avaay-simple-201-tng",
+            "name": "Avaay Simple 20/1 TNG"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/avaay-191-tng",
+            "name": "Avaay 19/1 TNG"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/avaay-231-tng",
+            "name": "AVAAY 23/1 TNG"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/product/vayamed-day-191-tng",
+            "name": "Vayamed Day 19/1 TNG"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/avaay-simple-201-tng",
+        "text": "Avaay Simple 20/1 TNG",
+        "title": "Avaay Simple 20/1 TNG von Avaay"
+      },
+      {
+        "href": "/product/avaay-191-tng",
+        "text": "Avaay 19/1 TNG",
+        "title": "Avaay 19/1 TNG von Avaay"
+      },
+      {
+        "href": "/product/avaay-231-tng",
+        "text": "AVAAY 23/1 TNG",
+        "title": "AVAAY 23/1 TNG von Avaay"
+      },
+      {
+        "href": "/product/vayamed-day-191-tng",
+        "text": "Vayamed Day 19/1 TNG",
+        "title": "Vayamed Day 19/1 TNG von Vayamed"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/g-13-haze",
+        "text": "G-13 Haze",
+        "title": "G-13 Haze - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/chem-og",
+        "text": "Chem OG",
+        "title": "Chem OG - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/gelato-33",
+        "text": "Gelato 33",
+        "title": "Gelato 33 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/crescendo",
+        "text": "Crescendo",
+        "title": "Crescendo - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/animal-mints",
+        "text": "Animal Mints",
+        "title": "Animal Mints - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/phellandrene",
+        "text": "Phellandrene",
+        "title": "Phellandrene Terpen"
+      },
+      {
+        "href": "/terpene/carene",
+        "text": "Carene",
+        "title": "Carene Terpen"
+      },
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

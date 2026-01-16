@@ -1,0 +1,275 @@
+{
+  "city": {
+    "slug": "stuttgart",
+    "name": "Stuttgart",
+    "state": "Baden-Württemberg"
+  },
+  "stats": {
+    "pharmacyCount": 6,
+    "totalProducts": 131,
+    "hasDelivery": true
+  },
+  "pharmacies": [
+    {
+      "slug": "stuttgart-cannabis-alte-apotheke-untertuerkheim",
+      "name": "Stuttgart Cannabis - Alte Apotheke Untertürkheim",
+      "street": "Augsburger Straße 383",
+      "zip": "70327",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 48,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "park-apotheke-stuttgart",
+      "name": "Park-Apotheke Stuttgart",
+      "street": "Waldburgstraße 23",
+      "zip": "70565",
+      "hasDelivery": false,
+      "hasPickup": true,
+      "productCount": 40,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "apotheke-im-otto-hirsch-center",
+      "name": "Apotheke im Otto Hirsch Center",
+      "street": "Otto-Hirsch-Brücken 17",
+      "zip": "70329",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 36,
+      "rating": 5,
+      "ratingCount": 2
+    },
+    {
+      "slug": "internationale-apotheke-stuttgart",
+      "name": "Internationale Apotheke Stuttgart",
+      "street": "Königstraße 70",
+      "zip": "70173",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 4,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "giebel-apotheke",
+      "name": "Giebel Apotheke",
+      "street": "Ernst-Reuter-Platz 2",
+      "zip": "70499",
+      "hasDelivery": false,
+      "hasPickup": true,
+      "productCount": 3,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "stoeckach-apotheke",
+      "name": "Stöckach-Apotheke",
+      "street": "Neckarstraße 136",
+      "zip": "70190",
+      "hasDelivery": false,
+      "hasPickup": true,
+      "productCount": 0,
+      "rating": 0,
+      "ratingCount": 0
+    }
+  ],
+  "nearbyCities": [
+    {
+      "slug": "mannheim",
+      "name": "Mannheim",
+      "pharmacyCount": 6
+    },
+    {
+      "slug": "karlsruhe",
+      "name": "Karlsruhe",
+      "pharmacyCount": 5
+    },
+    {
+      "slug": "baden-baden",
+      "name": "Baden-Baden",
+      "pharmacyCount": 3
+    },
+    {
+      "slug": "tuebingen",
+      "name": "Tübingen",
+      "pharmacyCount": 2
+    },
+    {
+      "slug": "heidelberg",
+      "name": "Heidelberg",
+      "pharmacyCount": 2
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannabis Apotheke Stuttgart - 6 Apotheken",
+      "description": "Cannabis Apotheken in Stuttgart. 6 Apotheken mit 131 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+      "canonical": "https://weed.de/cannabis-apotheke/stuttgart",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannabis Apotheke Stuttgart - 6 Apotheken",
+        "description": "Cannabis Apotheken in Stuttgart. 6 Apotheken mit 131 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+        "url": "https://weed.de/cannabis-apotheke/stuttgart",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Stuttgart",
+        "href": "https://weed.de/cannabis-apotheke/stuttgart"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Stuttgart",
+            "item": "https://weed.de/cannabis-apotheke/stuttgart"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Cannabis Apotheken in Stuttgart",
+        "numberOfItems": 6,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/apotheke/stuttgart-cannabis-alte-apotheke-untertuerkheim",
+            "name": "Stuttgart Cannabis - Alte Apotheke Untertürkheim"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/apotheke/park-apotheke-stuttgart",
+            "name": "Park-Apotheke Stuttgart"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/apotheke/apotheke-im-otto-hirsch-center",
+            "name": "Apotheke im Otto Hirsch Center"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/apotheke/internationale-apotheke-stuttgart",
+            "name": "Internationale Apotheke Stuttgart"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "https://weed.de/apotheke/giebel-apotheke",
+            "name": "Giebel Apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "url": "https://weed.de/apotheke/stoeckach-apotheke",
+            "name": "Stöckach-Apotheke"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "pharmacies": [
+      {
+        "href": "/apotheke/stuttgart-cannabis-alte-apotheke-untertuerkheim",
+        "text": "Stuttgart Cannabis - Alte Apotheke Untertürkheim",
+        "title": "Stuttgart Cannabis - Alte Apotheke Untertürkheim in Stuttgart"
+      },
+      {
+        "href": "/apotheke/park-apotheke-stuttgart",
+        "text": "Park-Apotheke Stuttgart",
+        "title": "Park-Apotheke Stuttgart in Stuttgart"
+      },
+      {
+        "href": "/apotheke/apotheke-im-otto-hirsch-center",
+        "text": "Apotheke im Otto Hirsch Center",
+        "title": "Apotheke im Otto Hirsch Center in Stuttgart"
+      },
+      {
+        "href": "/apotheke/internationale-apotheke-stuttgart",
+        "text": "Internationale Apotheke Stuttgart",
+        "title": "Internationale Apotheke Stuttgart in Stuttgart"
+      },
+      {
+        "href": "/apotheke/giebel-apotheke",
+        "text": "Giebel Apotheke",
+        "title": "Giebel Apotheke in Stuttgart"
+      },
+      {
+        "href": "/apotheke/stoeckach-apotheke",
+        "text": "Stöckach-Apotheke",
+        "title": "Stöckach-Apotheke in Stuttgart"
+      }
+    ],
+    "nearbyCities": [
+      {
+        "href": "/cannabis-apotheke/mannheim",
+        "text": "Cannabis Apotheke Mannheim",
+        "title": "6 Apotheken in Mannheim"
+      },
+      {
+        "href": "/cannabis-apotheke/karlsruhe",
+        "text": "Cannabis Apotheke Karlsruhe",
+        "title": "5 Apotheken in Karlsruhe"
+      },
+      {
+        "href": "/cannabis-apotheke/baden-baden",
+        "text": "Cannabis Apotheke Baden-Baden",
+        "title": "3 Apotheken in Baden-Baden"
+      },
+      {
+        "href": "/cannabis-apotheke/tuebingen",
+        "text": "Cannabis Apotheke Tübingen",
+        "title": "2 Apotheken in Tübingen"
+      },
+      {
+        "href": "/cannabis-apotheke/heidelberg",
+        "text": "Cannabis Apotheke Heidelberg",
+        "title": "2 Apotheken in Heidelberg"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has 6 pharmacies"
+  }
+}

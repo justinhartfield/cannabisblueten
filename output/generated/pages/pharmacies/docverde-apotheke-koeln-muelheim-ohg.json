@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "docverde-apotheke-koeln-muelheim-ohg",
+    "name": "DocVerde Apotheke Köln-Mülheim OHG",
+    "street": "Frankfurter Straße 17",
+    "zip": "51065",
+    "cityName": "Köln",
+    "state": "Nordrhein-Westfalen",
+    "lat": 50.9610887,
+    "lng": 7.006505,
+    "hasDelivery": false,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://www.docverde-apotheken.de/",
+    "phone": "022196490909",
+    "email": "docverdeapothekemuelheim@gmail.com",
+    "productCount": 7,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.de/pharmacies/docverde-apotheke-koeln-muelheim-ohg-92e3d0.png"
+  },
+  "city": {
+    "slug": "koeln",
+    "name": "Köln",
+    "pharmacyCount": 7
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "paracelsus-apotheke-cannabis-caesar",
+      "name": "Paracelsus Apotheke (Cannabis Caesar)",
+      "cityName": "Köln",
+      "productCount": 147,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-im-haubrichforum",
+      "name": "Apotheke im Haubrichforum",
+      "cityName": "Köln",
+      "productCount": 47,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-friesentor-cannacolonia",
+      "name": "Apotheke Friesentor - CannaColonia",
+      "cityName": "Köln",
+      "productCount": 25,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannamundus-stadt-apotheke-koeln",
+      "name": "CANNAMUNDUS (Stadt-Apotheke Köln)",
+      "cityName": "Köln",
+      "productCount": 24,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apobuds-kapuziner-apotheke,-koeln",
+      "name": "Kapuziner Apotheke, Köln",
+      "cityName": "Köln",
+      "productCount": 23,
+      "hasDelivery": false
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "DocVerde Apotheke Köln-Mülheim OHG - Cannabis Apotheke in Köln",
+      "description": "DocVerde Apotheke Köln-Mülheim OHG in Köln. 7 Cannabis Produkte. Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/docverde-apotheke-koeln-muelheim-ohg",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "DocVerde Apotheke Köln-Mülheim OHG - Cannabis Apotheke in Köln",
+        "description": "DocVerde Apotheke Köln-Mülheim OHG in Köln. 7 Cannabis Produkte. Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/docverde-apotheke-koeln-muelheim-ohg",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/pharmacies/docverde-apotheke-koeln-muelheim-ohg-92e3d0.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Köln",
+        "href": "https://weed.de/cannabis-apotheke/koeln"
+      },
+      {
+        "name": "DocVerde Apotheke Köln-Mülheim OHG",
+        "href": "https://weed.de/apotheke/docverde-apotheke-koeln-muelheim-ohg"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Köln",
+            "item": "https://weed.de/cannabis-apotheke/koeln"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "DocVerde Apotheke Köln-Mülheim OHG",
+            "item": "https://weed.de/apotheke/docverde-apotheke-koeln-muelheim-ohg"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "DocVerde Apotheke Köln-Mülheim OHG",
+        "url": "https://weed.de/apotheke/docverde-apotheke-koeln-muelheim-ohg",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Frankfurter Straße 17",
+          "addressLocality": "Köln",
+          "postalCode": "51065",
+          "addressRegion": "Nordrhein-Westfalen",
+          "addressCountry": "DE"
+        },
+        "telephone": "022196490909",
+        "email": "docverdeapothekemuelheim@gmail.com"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/koeln",
+      "text": "Cannabis Apotheken in Köln",
+      "title": "Alle Apotheken in Köln"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/paracelsus-apotheke-cannabis-caesar",
+        "text": "Paracelsus Apotheke (Cannabis Caesar)",
+        "title": "Paracelsus Apotheke (Cannabis Caesar) in Köln"
+      },
+      {
+        "href": "/apotheke/apotheke-im-haubrichforum",
+        "text": "Apotheke im Haubrichforum",
+        "title": "Apotheke im Haubrichforum in Köln"
+      },
+      {
+        "href": "/apotheke/apotheke-friesentor-cannacolonia",
+        "text": "Apotheke Friesentor - CannaColonia",
+        "title": "Apotheke Friesentor - CannaColonia in Köln"
+      },
+      {
+        "href": "/apotheke/cannamundus-stadt-apotheke-koeln",
+        "text": "CANNAMUNDUS (Stadt-Apotheke Köln)",
+        "title": "CANNAMUNDUS (Stadt-Apotheke Köln) in Köln"
+      },
+      {
+        "href": "/apotheke/apobuds-kapuziner-apotheke,-koeln",
+        "text": "Kapuziner Apotheke, Köln",
+        "title": "Kapuziner Apotheke, Köln in Köln"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

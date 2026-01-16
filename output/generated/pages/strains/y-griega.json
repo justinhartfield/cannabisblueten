@@ -1,0 +1,221 @@
+{
+  "strain": {
+    "slug": "y-griega",
+    "name": "Y Griega",
+    "geneticType": "sativa",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Activating",
+      "Cerebral",
+      "Anxiety-reducing",
+      "Hungry",
+      "Calming",
+      "Energetic",
+      "Pain-relief"
+    ],
+    "tastes": [
+      "Pine",
+      "Citrus",
+      "Earthy",
+      "Sweet"
+    ],
+    "terpenes": [
+      "Terpinolene",
+      "Limonene",
+      "Caryophyllene"
+    ],
+    "description": "Y Griega ist eine Sativa-dominante Sorte (80% Sativa / 20% Indica), entstanden aus der Kreuzung von Amnesia und Kali Mist. Mit einem unglaublichen THC-Gehalt von 27,12% und einem niedrigen CBD-Wert liefert sie potente Effekte, die stark und langanhaltend sind.\n\nIhr komplexes Geschmacksprofil ist geprägt von einem klassischen Haze-Duft, kombiniert mit einem leichten süßen Touch. Das Terpenprofil, das von Terpinolen, Limonen und Caryophyllen dominiert wird, unterstreicht das Aroma mit harzigen, zitrusartigen und würzigen Nuancen.\n\nDie Wirkung beginnt mit einem plötzlichen Schub zerebraler Anregung, der langsam in einen Zustand von Aufmerksamkeit und Entspannung übergeht. Y Griega ist ideal, um Schmerzen, psychiatrische Symptome und Appetitlosigkeit zu lindern, da sie ein beruhigendes und zugleich energetisches High bietet. Zusammengefasst ist Y Griega eine Sorte für alle, die ein klassisches, süßliches Haze-Aroma mit einem extrem potenten, anregenden und ausgleichenden High suchen.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 299,
+      "max": 399,
+      "formatted": {
+        "min": "2,99 €",
+        "max": "3,99 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "bg-15-yg-col-y-griega",
+      "name": "BG 15 YG COL",
+      "brandName": "Adrexpharma",
+      "thcPercent": 15,
+      "priceMin": 299,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "bedrocan",
+      "name": "Bedrocan®",
+      "geneticType": "sativa",
+      "thcMax": null
+    },
+    {
+      "slug": "amsterdam-amnesia",
+      "name": "Amsterdam Amnesia",
+      "geneticType": "sativa",
+      "thcMax": null
+    },
+    {
+      "slug": "pulsar",
+      "name": "Pulsar",
+      "geneticType": "sativa",
+      "thcMax": null
+    },
+    {
+      "slug": "landrace-from-south-africa",
+      "name": "Landrace from South Africa",
+      "geneticType": "sativa",
+      "thcMax": null
+    },
+    {
+      "slug": "moby-dick-auto",
+      "name": "Moby Dick Auto",
+      "geneticType": "sativa",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Y Griega (Sativa) - Wirkung, THC & Verfügbarkeit",
+      "description": "Y Griega: Activating, Cerebral, Anxiety-reducing. 1 Produkte verfügbar. ab 2,99 €.",
+      "canonical": "https://weed.de/strain/y-griega",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Y Griega (Sativa) - Wirkung, THC & Verfügbarkeit",
+        "description": "Y Griega: Activating, Cerebral, Anxiety-reducing. 1 Produkte verfügbar. ab 2,99 €.",
+        "url": "https://weed.de/strain/y-griega",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Y Griega",
+        "href": "https://weed.de/strain/y-griega"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Y Griega",
+            "item": "https://weed.de/strain/y-griega"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Y Griega Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/bg-15-yg-col-y-griega",
+            "name": "BG 15 YG COL"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/bg-15-yg-col-y-griega",
+        "text": "BG 15 YG COL",
+        "title": "BG 15 YG COL von Adrexpharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/bedrocan",
+        "text": "Bedrocan®",
+        "title": "Bedrocan® - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/amsterdam-amnesia",
+        "text": "Amsterdam Amnesia",
+        "title": "Amsterdam Amnesia - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/pulsar",
+        "text": "Pulsar",
+        "title": "Pulsar - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/landrace-from-south-africa",
+        "text": "Landrace from South Africa",
+        "title": "Landrace from South Africa - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/moby-dick-auto",
+        "text": "Moby Dick Auto",
+        "title": "Moby Dick Auto - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/terpinolene",
+        "text": "Terpinolene",
+        "title": "Terpinolene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

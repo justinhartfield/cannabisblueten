@@ -1,0 +1,187 @@
+{
+  "pharmacy": {
+    "slug": "salus-apotheke-1",
+    "name": "SALUS Apotheke",
+    "street": "",
+    "zip": "",
+    "cityName": "Unknown",
+    "state": "",
+    "lat": 0,
+    "lng": 0,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": false,
+    "website": null,
+    "phone": "087114341111",
+    "email": "info@salusapotheke.de",
+    "productCount": 22,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": null
+  },
+  "city": {
+    "slug": "unknown",
+    "name": "Unknown",
+    "pharmacyCount": 19
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "1-apotheke",
+      "name": "+1 Apotheke",
+      "cityName": "Unknown",
+      "productCount": 0,
+      "hasDelivery": false
+    },
+    {
+      "slug": "alte-rats-apotheke-ohg",
+      "name": "Alte Rats-Apotheke OHG",
+      "cityName": "Unknown",
+      "productCount": 0,
+      "hasDelivery": false
+    },
+    {
+      "slug": "maxmo-apotheke-kaufland-dueren",
+      "name": "Maxmo Apotheke Kaufland Düren",
+      "cityName": "Unknown",
+      "productCount": 0,
+      "hasDelivery": false
+    },
+    {
+      "slug": "yolosvath-2",
+      "name": "Yolosvath",
+      "cityName": "Unknown",
+      "productCount": 0,
+      "hasDelivery": false
+    },
+    {
+      "slug": "collini-medflower-collini-apotheke-mannheim",
+      "name": "Collini-Medflower (Collini-Apotheke Mannheim)",
+      "cityName": "Unknown",
+      "productCount": 0,
+      "hasDelivery": false
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "SALUS Apotheke - Cannabis Apotheke in Unknown",
+      "description": "SALUS Apotheke in Unknown. 22 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/salus-apotheke-1",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "SALUS Apotheke - Cannabis Apotheke in Unknown",
+        "description": "SALUS Apotheke in Unknown. 22 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/salus-apotheke-1",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Unknown",
+        "href": "https://weed.de/cannabis-apotheke/unknown"
+      },
+      {
+        "name": "SALUS Apotheke",
+        "href": "https://weed.de/apotheke/salus-apotheke-1"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Unknown",
+            "item": "https://weed.de/cannabis-apotheke/unknown"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "SALUS Apotheke",
+            "item": "https://weed.de/apotheke/salus-apotheke-1"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "SALUS Apotheke",
+        "url": "https://weed.de/apotheke/salus-apotheke-1",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "",
+          "addressLocality": "Unknown",
+          "postalCode": "",
+          "addressRegion": "",
+          "addressCountry": "DE"
+        },
+        "telephone": "087114341111",
+        "email": "info@salusapotheke.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/unknown",
+      "text": "Cannabis Apotheken in Unknown",
+      "title": "Alle Apotheken in Unknown"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/1-apotheke",
+        "text": "+1 Apotheke",
+        "title": "+1 Apotheke in Unknown"
+      },
+      {
+        "href": "/apotheke/alte-rats-apotheke-ohg",
+        "text": "Alte Rats-Apotheke OHG",
+        "title": "Alte Rats-Apotheke OHG in Unknown"
+      },
+      {
+        "href": "/apotheke/maxmo-apotheke-kaufland-dueren",
+        "text": "Maxmo Apotheke Kaufland Düren",
+        "title": "Maxmo Apotheke Kaufland Düren in Unknown"
+      },
+      {
+        "href": "/apotheke/yolosvath-2",
+        "text": "Yolosvath",
+        "title": "Yolosvath in Unknown"
+      },
+      {
+        "href": "/apotheke/collini-medflower-collini-apotheke-mannheim",
+        "text": "Collini-Medflower (Collini-Apotheke Mannheim)",
+        "title": "Collini-Medflower (Collini-Apotheke Mannheim) in Unknown"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

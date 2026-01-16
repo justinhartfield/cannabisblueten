@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "cannibo",
+    "name": "Cannibo (Bahnhof Apotheke)",
+    "street": "Poststraße 21",
+    "zip": "53111",
+    "cityName": "Bonn",
+    "state": "Nordrhein-Westfalen",
+    "lat": 50.7335341,
+    "lng": 7.0975812,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://cannibo.de/",
+    "phone": "02287669033",
+    "email": "info@cannibo.de",
+    "productCount": 95,
+    "rating": 5,
+    "ratingCount": 3,
+    "imageUrl": "https://weed.de/pharmacies/64e4b3deffcf61e388f50b0c-b7264i.jpg"
+  },
+  "city": {
+    "slug": "bonn",
+    "name": "Bonn",
+    "pharmacyCount": 6
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "apotheke-zur-alten-post",
+      "name": "Cannacompany (Apotheke zur Alten Post)",
+      "cityName": "Bonn",
+      "productCount": 233,
+      "hasDelivery": true
+    },
+    {
+      "slug": "hausdorff-apotheke",
+      "name": "Hausdorff Apotheke (cannibo)",
+      "cityName": "Bonn",
+      "productCount": 95,
+      "hasDelivery": true
+    },
+    {
+      "slug": "skarabaeus-apotheke-1",
+      "name": "Bahnhof Apotheke Bonn",
+      "cityName": "Bonn",
+      "productCount": 95,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-im-medizinischen-zentrum-bonn",
+      "name": "Apotheke im medizinischen Zentrum Bonn",
+      "cityName": "Bonn",
+      "productCount": 47,
+      "hasDelivery": true
+    },
+    {
+      "slug": "auerberg-apotheke",
+      "name": "Auerberg Apotheke",
+      "cityName": "Bonn",
+      "productCount": 40,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannibo (Bahnhof Apotheke) - Cannabis Apotheke in Bonn",
+      "description": "Cannibo (Bahnhof Apotheke) in Bonn. 95 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/cannibo",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannibo (Bahnhof Apotheke) - Cannabis Apotheke in Bonn",
+        "description": "Cannibo (Bahnhof Apotheke) in Bonn. 95 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/cannibo",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/pharmacies/64e4b3deffcf61e388f50b0c-b7264i.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Bonn",
+        "href": "https://weed.de/cannabis-apotheke/bonn"
+      },
+      {
+        "name": "Cannibo (Bahnhof Apotheke)",
+        "href": "https://weed.de/apotheke/cannibo"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Bonn",
+            "item": "https://weed.de/cannabis-apotheke/bonn"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Cannibo (Bahnhof Apotheke)",
+            "item": "https://weed.de/apotheke/cannibo"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Cannibo (Bahnhof Apotheke)",
+        "url": "https://weed.de/apotheke/cannibo",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Poststraße 21",
+          "addressLocality": "Bonn",
+          "postalCode": "53111",
+          "addressRegion": "Nordrhein-Westfalen",
+          "addressCountry": "DE"
+        },
+        "telephone": "02287669033",
+        "email": "info@cannibo.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/bonn",
+      "text": "Cannabis Apotheken in Bonn",
+      "title": "Alle Apotheken in Bonn"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/apotheke-zur-alten-post",
+        "text": "Cannacompany (Apotheke zur Alten Post)",
+        "title": "Cannacompany (Apotheke zur Alten Post) in Bonn"
+      },
+      {
+        "href": "/apotheke/hausdorff-apotheke",
+        "text": "Hausdorff Apotheke (cannibo)",
+        "title": "Hausdorff Apotheke (cannibo) in Bonn"
+      },
+      {
+        "href": "/apotheke/skarabaeus-apotheke-1",
+        "text": "Bahnhof Apotheke Bonn",
+        "title": "Bahnhof Apotheke Bonn in Bonn"
+      },
+      {
+        "href": "/apotheke/apotheke-im-medizinischen-zentrum-bonn",
+        "text": "Apotheke im medizinischen Zentrum Bonn",
+        "title": "Apotheke im medizinischen Zentrum Bonn in Bonn"
+      },
+      {
+        "href": "/apotheke/auerberg-apotheke",
+        "text": "Auerberg Apotheke",
+        "title": "Auerberg Apotheke in Bonn"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

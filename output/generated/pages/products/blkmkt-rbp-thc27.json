@@ -1,0 +1,238 @@
+{
+  "product": {
+    "slug": "blkmkt-rbp-thc27",
+    "name": "BLKMKT RBP THC27",
+    "type": "flower",
+    "genetics": "sativa",
+    "thcPercent": 25,
+    "cbdPercent": 1,
+    "priceMin": 749,
+    "priceMax": 749,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "imc",
+    "name": "IMC",
+    "productCount": 128
+  },
+  "strain": {
+    "slug": "rainbow-pie",
+    "name": "Rainbow Pie",
+    "geneticType": "hybrid",
+    "effects": [
+      "Creative",
+      "Euphoric",
+      "Sociable",
+      "Mood-lifting",
+      "Pain-relief",
+      "Stress-relief",
+      "Balanced"
+    ],
+    "terpenes": [
+      "Linalool",
+      "Beta-Caryophyllene",
+      "Beta-Myrcene",
+      "D-Limonene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Creative",
+      "Euphoric",
+      "Sociable",
+      "Mood-lifting",
+      "Pain-relief",
+      "Stress-relief",
+      "Balanced"
+    ],
+    "tastes": [
+      "Earthy",
+      "Citrus",
+      "Sweet",
+      "Blueberry",
+      "Fruity",
+      "Nutty",
+      "Vanilla"
+    ],
+    "terpenes": [
+      "Linalool",
+      "Beta-Caryophyllene",
+      "Beta-Myrcene",
+      "D-Limonene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "aurora-typ-1",
+      "name": "Aurora Typ 1",
+      "brandName": "Aurora",
+      "thcPercent": 19,
+      "priceMin": 479,
+      "inStock": true
+    },
+    {
+      "slug": "pedanios-22-1",
+      "name": "Pedanios 22/1",
+      "brandName": "Aurora",
+      "thcPercent": 22,
+      "priceMin": 629,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-sativa-forte-tc",
+      "name": "Cannamedical Sativa forte TC",
+      "brandName": "Cannamedical",
+      "thcPercent": 24,
+      "priceMin": 683,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-sativa-classic-tc",
+      "name": "Cannamedical Sativa classic TC",
+      "brandName": "Cannamedical",
+      "thcPercent": 20,
+      "priceMin": 755,
+      "inStock": true
+    },
+    {
+      "slug": "mv-rbp",
+      "name": "MV RBP",
+      "brandName": "Cantourage",
+      "thcPercent": 25,
+      "priceMin": 845,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-sativa-classic-si",
+      "name": "Cannamedical Sativa classic SI",
+      "brandName": "Cannamedical",
+      "thcPercent": 20,
+      "priceMin": 915,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "BLKMKT RBP THC27 - IMC | ab 7,49 €",
+      "description": "BLKMKT RBP THC27 von IMC. THC: 25%, CBD: 1%. Sorte: Rainbow Pie. Preis ab 7,49 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/blkmkt-rbp-thc27",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "BLKMKT RBP THC27 - IMC | ab 7,49 €",
+        "description": "BLKMKT RBP THC27 von IMC. THC: 25%, CBD: 1%. Sorte: Rainbow Pie. Preis ab 7,49 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/blkmkt-rbp-thc27",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "IMC",
+        "href": "https://weed.de/brand/imc"
+      },
+      {
+        "name": "BLKMKT RBP THC27",
+        "href": "https://weed.de/product/blkmkt-rbp-thc27"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "BLKMKT RBP THC27",
+            "item": "https://weed.de/product/blkmkt-rbp-thc27"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BLKMKT RBP THC27",
+        "brand": {
+          "@type": "Brand",
+          "name": "IMC"
+        },
+        "description": "THC: 25%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/rainbow-pie",
+      "text": "Rainbow Pie",
+      "title": "Rainbow Pie Sorte"
+    },
+    "brand": {
+      "href": "/brand/imc",
+      "text": "IMC",
+      "title": "Alle IMC Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/aurora-typ-1",
+        "text": "Aurora Typ 1",
+        "title": "Alternative: Aurora Typ 1"
+      },
+      {
+        "href": "/product/pedanios-22-1",
+        "text": "Pedanios 22/1",
+        "title": "Alternative: Pedanios 22/1"
+      },
+      {
+        "href": "/product/cannamedical-sativa-forte-tc",
+        "text": "Cannamedical Sativa forte TC",
+        "title": "Alternative: Cannamedical Sativa forte TC"
+      },
+      {
+        "href": "/product/cannamedical-sativa-classic-tc",
+        "text": "Cannamedical Sativa classic TC",
+        "title": "Alternative: Cannamedical Sativa classic TC"
+      },
+      {
+        "href": "/product/mv-rbp",
+        "text": "MV RBP",
+        "title": "Alternative: MV RBP"
+      },
+      {
+        "href": "/product/cannamedical-sativa-classic-si",
+        "text": "Cannamedical Sativa classic SI",
+        "title": "Alternative: Cannamedical Sativa classic SI"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

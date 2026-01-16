@@ -1,0 +1,225 @@
+{
+  "product": {
+    "slug": "cannamedical-sativa-classic-nm-snowflake",
+    "name": "Cannamedical Sativa classic NM Snowflake",
+    "type": "flower",
+    "genetics": "sativa",
+    "thcPercent": 18,
+    "cbdPercent": 1,
+    "priceMin": 1278,
+    "priceMax": 1278,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Mazedonien",
+    "imageUrl": "https://weed.de/products/cannamedical-sativa-classic-nm-snowflake-ab2i7i.png"
+  },
+  "brand": {
+    "slug": "cannamedical",
+    "name": "Cannamedical",
+    "productCount": 238
+  },
+  "strain": {
+    "slug": "snowflake",
+    "name": "Snowflake",
+    "geneticType": "hybrid",
+    "effects": [
+      "Focused",
+      "Happy",
+      "Energetic"
+    ],
+    "terpenes": [
+      "Linalool",
+      "Limonene",
+      "Pinene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Focused",
+      "Happy",
+      "Energetic"
+    ],
+    "tastes": [
+      "Earthy",
+      "Woody",
+      "Citrus"
+    ],
+    "terpenes": [
+      "Linalool",
+      "Limonene",
+      "Pinene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "aurora-typ-1",
+      "name": "Aurora Typ 1",
+      "brandName": "Aurora",
+      "thcPercent": 19,
+      "priceMin": 479,
+      "inStock": true
+    },
+    {
+      "slug": "pedanios-22-1",
+      "name": "Pedanios 22/1",
+      "brandName": "Aurora",
+      "thcPercent": 22,
+      "priceMin": 629,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-sativa-forte-tc",
+      "name": "Cannamedical Sativa forte TC",
+      "brandName": "Cannamedical",
+      "thcPercent": 24,
+      "priceMin": 683,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-sativa-classic-tc",
+      "name": "Cannamedical Sativa classic TC",
+      "brandName": "Cannamedical",
+      "thcPercent": 20,
+      "priceMin": 755,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-sativa-classic-si",
+      "name": "Cannamedical Sativa classic SI",
+      "brandName": "Cannamedical",
+      "thcPercent": 20,
+      "priceMin": 915,
+      "inStock": true
+    },
+    {
+      "slug": "cannabis-flos-bedrocan-f20",
+      "name": "Cannabis Flos Bedrocan F20",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 22,
+      "priceMin": null,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannamedical Sativa classic NM Snowflake | ab 12,78 €",
+      "description": "Cannamedical Sativa classic NM Snowflake von Cannamedical. THC: 18%, CBD: 1%. Sorte: Snowflake. Preis ab 12,78 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/cannamedical-sativa-classic-nm-snowflake",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannamedical Sativa classic NM Snowflake | ab 12,78 €",
+        "description": "Cannamedical Sativa classic NM Snowflake von Cannamedical. THC: 18%, CBD: 1%. Sorte: Snowflake. Preis ab 12,78 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/cannamedical-sativa-classic-nm-snowflake",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/cannamedical-sativa-classic-nm-snowflake-ab2i7i.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Cannamedical",
+        "href": "https://weed.de/brand/cannamedical"
+      },
+      {
+        "name": "Cannamedical Sativa classic NM Snowflake",
+        "href": "https://weed.de/product/cannamedical-sativa-classic-nm-snowflake"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Cannamedical Sativa classic NM Snowflake",
+            "item": "https://weed.de/product/cannamedical-sativa-classic-nm-snowflake"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Cannamedical Sativa classic NM Snowflake",
+        "brand": {
+          "@type": "Brand",
+          "name": "Cannamedical"
+        },
+        "description": "THC: 18%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/snowflake",
+      "text": "Snowflake",
+      "title": "Snowflake Sorte"
+    },
+    "brand": {
+      "href": "/brand/cannamedical",
+      "text": "Cannamedical",
+      "title": "Alle Cannamedical Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/aurora-typ-1",
+        "text": "Aurora Typ 1",
+        "title": "Alternative: Aurora Typ 1"
+      },
+      {
+        "href": "/product/pedanios-22-1",
+        "text": "Pedanios 22/1",
+        "title": "Alternative: Pedanios 22/1"
+      },
+      {
+        "href": "/product/cannamedical-sativa-forte-tc",
+        "text": "Cannamedical Sativa forte TC",
+        "title": "Alternative: Cannamedical Sativa forte TC"
+      },
+      {
+        "href": "/product/cannamedical-sativa-classic-tc",
+        "text": "Cannamedical Sativa classic TC",
+        "title": "Alternative: Cannamedical Sativa classic TC"
+      },
+      {
+        "href": "/product/cannamedical-sativa-classic-si",
+        "text": "Cannamedical Sativa classic SI",
+        "title": "Alternative: Cannamedical Sativa classic SI"
+      },
+      {
+        "href": "/product/cannabis-flos-bedrocan-f20",
+        "text": "Cannabis Flos Bedrocan F20",
+        "title": "Alternative: Cannabis Flos Bedrocan F20"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

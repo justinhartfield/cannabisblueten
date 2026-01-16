@@ -1,0 +1,236 @@
+{
+  "strain": {
+    "slug": "omg",
+    "name": "OMG",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Euphoric",
+      "Sleepy",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Diesel",
+      "Mint",
+      "Herbal"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Humulene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "OMG zeichnet sich als zeitloser Klassiker durch eine harmonische Mischung aus zerebraler Euphorie und spürbarer körperlicher Entspannung aus, mit einem ausgeprägten Aroma von Zitrus und Erde. Die Sorte ist ideal für den genussvollen Abend, da sie effektiv den Schlaf unterstützt und für eine umfassende Beruhigung von Körper und Geist sorgt.",
+    "imageUrl": "/strains/685e22146d13bc4267dfb8ba-f91441.webp"
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 565,
+      "max": 565,
+      "formatted": {
+        "min": "5,65 €",
+        "max": "5,65 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "social-choice-271-lux-omg-ghost-omg",
+      "name": "Social Choice 27/1 LUX OMG Ghost OMG",
+      "brandName": "Social Choice",
+      "thcPercent": 27,
+      "priceMin": 565,
+      "inStock": false
+    },
+    {
+      "slug": "social-choice-211-lux",
+      "name": "Social Choice 21/1 LUX",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 21,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "dirty-taxi",
+      "name": "Dirty Taxi",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "space-dust",
+      "name": "Space Dust",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "blue-slushie",
+      "name": "Blue Slushie",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "frosted-lemon-cake",
+      "name": "Frosted Lemon Cake",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "batha-balanced",
+      "name": "Batha Balanced",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "OMG (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "OMG: Euphoric, Sleepy, Relaxed. 2 Produkte verfügbar. ab 5,65 €.",
+      "canonical": "https://weed.de/strain/omg",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "OMG (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "OMG: Euphoric, Sleepy, Relaxed. 2 Produkte verfügbar. ab 5,65 €.",
+        "url": "https://weed.de/strain/omg",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "/strains/685e22146d13bc4267dfb8ba-f91441.webp"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "OMG",
+        "href": "https://weed.de/strain/omg"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "OMG",
+            "item": "https://weed.de/strain/omg"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "OMG Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/social-choice-271-lux-omg-ghost-omg",
+            "name": "Social Choice 27/1 LUX OMG Ghost OMG"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/social-choice-211-lux",
+            "name": "Social Choice 21/1 LUX"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/social-choice-271-lux-omg-ghost-omg",
+        "text": "Social Choice 27/1 LUX OMG Ghost OMG",
+        "title": "Social Choice 27/1 LUX OMG Ghost OMG von Social Choice"
+      },
+      {
+        "href": "/product/social-choice-211-lux",
+        "text": "Social Choice 21/1 LUX",
+        "title": "Social Choice 21/1 LUX von Remexian Pharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/dirty-taxi",
+        "text": "Dirty Taxi",
+        "title": "Dirty Taxi - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/space-dust",
+        "text": "Space Dust",
+        "title": "Space Dust - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/blue-slushie",
+        "text": "Blue Slushie",
+        "title": "Blue Slushie - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/frosted-lemon-cake",
+        "text": "Frosted Lemon Cake",
+        "title": "Frosted Lemon Cake - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/batha-balanced",
+        "text": "Batha Balanced",
+        "title": "Batha Balanced - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/humulene",
+        "text": "Humulene",
+        "title": "Humulene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

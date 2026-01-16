@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "apotheke-zur-alten-post",
+    "name": "Cannacompany (Apotheke zur Alten Post)",
+    "street": "Friedrich-Breuer-Straße 62",
+    "zip": "53225",
+    "cityName": "Bonn",
+    "state": "Nordrhein-Westfalen",
+    "lat": 50.7391012,
+    "lng": 7.1200477,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://cannacompany.de/",
+    "phone": "022824333915",
+    "email": "info@cannacompany.de",
+    "productCount": 233,
+    "rating": 4.2,
+    "ratingCount": 9,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/667d12a38d9565b9d2dbb35a-db22ii.jpg"
+  },
+  "city": {
+    "slug": "bonn",
+    "name": "Bonn",
+    "pharmacyCount": 6
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "cannibo",
+      "name": "Cannibo (Bahnhof Apotheke)",
+      "cityName": "Bonn",
+      "productCount": 95,
+      "hasDelivery": true
+    },
+    {
+      "slug": "hausdorff-apotheke",
+      "name": "Hausdorff Apotheke (cannibo)",
+      "cityName": "Bonn",
+      "productCount": 95,
+      "hasDelivery": true
+    },
+    {
+      "slug": "skarabaeus-apotheke-1",
+      "name": "Bahnhof Apotheke Bonn",
+      "cityName": "Bonn",
+      "productCount": 95,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-im-medizinischen-zentrum-bonn",
+      "name": "Apotheke im medizinischen Zentrum Bonn",
+      "cityName": "Bonn",
+      "productCount": 47,
+      "hasDelivery": true
+    },
+    {
+      "slug": "auerberg-apotheke",
+      "name": "Auerberg Apotheke",
+      "cityName": "Bonn",
+      "productCount": 40,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannacompany (Apotheke zur Alten Post) - Cannabis Apotheke in Bonn",
+      "description": "Cannacompany (Apotheke zur Alten Post) in Bonn. 233 Cannabis Produkte. Lieferung & Abholung. Bewertung: 4.2/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/apotheke-zur-alten-post",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannacompany (Apotheke zur Alten Post) - Cannabis Apotheke in Bonn",
+        "description": "Cannacompany (Apotheke zur Alten Post) in Bonn. 233 Cannabis Produkte. Lieferung & Abholung. Bewertung: 4.2/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/apotheke-zur-alten-post",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/667d12a38d9565b9d2dbb35a-db22ii.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Bonn",
+        "href": "https://weed.de/cannabis-apotheke/bonn"
+      },
+      {
+        "name": "Cannacompany (Apotheke zur Alten Post)",
+        "href": "https://weed.de/apotheke/apotheke-zur-alten-post"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Bonn",
+            "item": "https://weed.de/cannabis-apotheke/bonn"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Cannacompany (Apotheke zur Alten Post)",
+            "item": "https://weed.de/apotheke/apotheke-zur-alten-post"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Cannacompany (Apotheke zur Alten Post)",
+        "url": "https://weed.de/apotheke/apotheke-zur-alten-post",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Friedrich-Breuer-Straße 62",
+          "addressLocality": "Bonn",
+          "postalCode": "53225",
+          "addressRegion": "Nordrhein-Westfalen",
+          "addressCountry": "DE"
+        },
+        "telephone": "022824333915",
+        "email": "info@cannacompany.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/bonn",
+      "text": "Cannabis Apotheken in Bonn",
+      "title": "Alle Apotheken in Bonn"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/cannibo",
+        "text": "Cannibo (Bahnhof Apotheke)",
+        "title": "Cannibo (Bahnhof Apotheke) in Bonn"
+      },
+      {
+        "href": "/apotheke/hausdorff-apotheke",
+        "text": "Hausdorff Apotheke (cannibo)",
+        "title": "Hausdorff Apotheke (cannibo) in Bonn"
+      },
+      {
+        "href": "/apotheke/skarabaeus-apotheke-1",
+        "text": "Bahnhof Apotheke Bonn",
+        "title": "Bahnhof Apotheke Bonn in Bonn"
+      },
+      {
+        "href": "/apotheke/apotheke-im-medizinischen-zentrum-bonn",
+        "text": "Apotheke im medizinischen Zentrum Bonn",
+        "title": "Apotheke im medizinischen Zentrum Bonn in Bonn"
+      },
+      {
+        "href": "/apotheke/auerberg-apotheke",
+        "text": "Auerberg Apotheke",
+        "title": "Auerberg Apotheke in Bonn"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

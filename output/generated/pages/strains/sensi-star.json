@@ -1,0 +1,222 @@
+{
+  "strain": {
+    "slug": "sensi-star",
+    "name": "Sensi Star",
+    "geneticType": "indica",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Hungry",
+      "Sleepy",
+      "Giggly"
+    ],
+    "tastes": [
+      "Herbal",
+      "Earthy",
+      "Citrus"
+    ],
+    "terpenes": [
+      "Terpinolene",
+      "Myrcene",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 1280,
+      "max": 1280,
+      "formatted": {
+        "min": "12,80 €",
+        "max": "12,80 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "cannabistada-241-sen",
+      "name": "CannabiStada 24/1 SEN",
+      "brandName": "Stada",
+      "thcPercent": 24,
+      "priceMin": 1280,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "auto-blackberry-kush",
+      "name": "Auto Blackberry Kush",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "black-russian",
+      "name": "Black Russian",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "death-star",
+      "name": "Death Star",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "oasis-og",
+      "name": "Oasis OG",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "motor-breath",
+      "name": "Motor Breath",
+      "geneticType": "indica",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Sensi Star (Indica) - Wirkung, THC & Verfügbarkeit",
+      "description": "Sensi Star: Hungry, Sleepy, Giggly. 1 Produkte verfügbar. ab 12,80 €.",
+      "canonical": "https://weed.de/strain/sensi-star",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Sensi Star (Indica) - Wirkung, THC & Verfügbarkeit",
+        "description": "Sensi Star: Hungry, Sleepy, Giggly. 1 Produkte verfügbar. ab 12,80 €.",
+        "url": "https://weed.de/strain/sensi-star",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Sensi Star",
+        "href": "https://weed.de/strain/sensi-star"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Sensi Star",
+            "item": "https://weed.de/strain/sensi-star"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Sensi Star Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/cannabistada-241-sen",
+            "name": "CannabiStada 24/1 SEN"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/cannabistada-241-sen",
+        "text": "CannabiStada 24/1 SEN",
+        "title": "CannabiStada 24/1 SEN von Stada"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/auto-blackberry-kush",
+        "text": "Auto Blackberry Kush",
+        "title": "Auto Blackberry Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/black-russian",
+        "text": "Black Russian",
+        "title": "Black Russian - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/death-star",
+        "text": "Death Star",
+        "title": "Death Star - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/oasis-og",
+        "text": "Oasis OG",
+        "title": "Oasis OG - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/motor-breath",
+        "text": "Motor Breath",
+        "title": "Motor Breath - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/terpinolene",
+        "text": "Terpinolene",
+        "title": "Terpinolene Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

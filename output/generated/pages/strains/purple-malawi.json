@@ -1,0 +1,245 @@
+{
+  "strain": {
+    "slug": "purple-malawi",
+    "name": "Purple Malawi",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Euphoric",
+      "Energetic",
+      "Focused",
+      "Creative",
+      "Stress-relief",
+      "Pain-relief",
+      "Calming",
+      "Headache"
+    ],
+    "tastes": [
+      "Berry",
+      "Earthy",
+      "Woody",
+      "Pepper",
+      "Tropical",
+      "Tangy",
+      "Flowery",
+      "Citrus"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Linalool",
+      "Myrcene"
+    ],
+    "description": "Purple Malawi (auch als Token geführt) ist eine Hybrid-Sorte, die aus der exotischen Kreuzung von Thailand, Wild 501st OG und Purple Malawi entstanden ist. Mit einem hohen THC-Gehalt von ungefähr 27,0 % und einem CBD-Wert von 1,0 % liefert sie potente Effekte, die vor allem geistig anregend wirken. \n\nIhr komplexes Geschmacksprofil ist geprägt von beerigen und erdigen Noten, die durch Pfeffer, Holz und Zitrusfrüchte ergänzt werden. Das Terpenprofil, das von Alpha-Caryophyllen, Linalool und Myrcen dominiert wird, unterstreicht das Aroma mit würzigen, blumigen und tropischen Nuancen. \n\nDie Wirkung beginnt mit einer euphorischen und glücklichen Stimmung, die Kreativität und Fokus fördert. Purple Malawi ist ideal zur Linderung von Stress, Erschöpfung, Kopfschmerzen und ADHS, da sie den Geist belebt und gleichzeitig das Wohlbefinden steigert. Zusammengefasst ist Purple Malawi eine Sorte für alle, die ein vielschichtiges, würzig-fruchtiges Aroma mit einem potenten, energetischen und konzentrationsfördernden High suchen.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 298,
+      "max": 599,
+      "formatted": {
+        "min": "2,98 €",
+        "max": "5,99 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "imc-gmo-thc27-token",
+      "name": "IMC GMO THC27 Token",
+      "brandName": "IMC",
+      "thcPercent": 27,
+      "priceMin": 395,
+      "inStock": true
+    },
+    {
+      "slug": "imc-gmo-thc22-token",
+      "name": "IMC GMO THC22 Token",
+      "brandName": "IMC",
+      "thcPercent": 22,
+      "priceMin": 298,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "mochellow",
+      "name": "Mochellow",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "grapefruit",
+      "name": "Grapefruit",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "skull-cap",
+      "name": "Skull cap",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "patient-zero",
+      "name": "Patient Zero",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "lemon-tartz",
+      "name": "Lemon Tartz",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Purple Malawi (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Purple Malawi: Euphoric, Energetic, Focused. 2 Produkte verfügbar. ab 2,98 €.",
+      "canonical": "https://weed.de/strain/purple-malawi",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Purple Malawi (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Purple Malawi: Euphoric, Energetic, Focused. 2 Produkte verfügbar. ab 2,98 €.",
+        "url": "https://weed.de/strain/purple-malawi",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Purple Malawi",
+        "href": "https://weed.de/strain/purple-malawi"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Purple Malawi",
+            "item": "https://weed.de/strain/purple-malawi"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Purple Malawi Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/imc-gmo-thc27-token",
+            "name": "IMC GMO THC27 Token"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/imc-gmo-thc22-token",
+            "name": "IMC GMO THC22 Token"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/imc-gmo-thc27-token",
+        "text": "IMC GMO THC27 Token",
+        "title": "IMC GMO THC27 Token von IMC"
+      },
+      {
+        "href": "/product/imc-gmo-thc22-token",
+        "text": "IMC GMO THC22 Token",
+        "title": "IMC GMO THC22 Token von IMC"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/mochellow",
+        "text": "Mochellow",
+        "title": "Mochellow - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/grapefruit",
+        "text": "Grapefruit",
+        "title": "Grapefruit - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/skull-cap",
+        "text": "Skull cap",
+        "title": "Skull cap - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/patient-zero",
+        "text": "Patient Zero",
+        "title": "Patient Zero - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/lemon-tartz",
+        "text": "Lemon Tartz",
+        "title": "Lemon Tartz - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

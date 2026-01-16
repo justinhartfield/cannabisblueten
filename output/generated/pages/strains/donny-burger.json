@@ -1,0 +1,215 @@
+{
+  "strain": {
+    "slug": "donny-burger",
+    "name": "Donny Burger",
+    "geneticType": "indica",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [
+      "Creative",
+      "Relaxed",
+      "Sociable"
+    ],
+    "tastes": [
+      "Cheese",
+      "Spicy"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 594,
+      "max": 594,
+      "formatted": {
+        "min": "5,94 €",
+        "max": "5,94 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "big-dreams-181-psf-dob",
+      "name": "Big Dreams 18/1 PSF DOB",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 18,
+      "priceMin": 594,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "motor-breath",
+      "name": "Motor Breath",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "death-star",
+      "name": "Death Star",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "oasis-og",
+      "name": "Oasis OG",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "donkey-butter",
+      "name": "Donkey Butter",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "chevy-og",
+      "name": "Chevy OG",
+      "geneticType": "indica",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Donny Burger (Indica) - Wirkung, THC & Verfügbarkeit",
+      "description": "Donny Burger: Creative, Relaxed, Sociable. 1 Produkte verfügbar. ab 5,94 €.",
+      "canonical": "https://weed.de/strain/donny-burger",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Donny Burger (Indica) - Wirkung, THC & Verfügbarkeit",
+        "description": "Donny Burger: Creative, Relaxed, Sociable. 1 Produkte verfügbar. ab 5,94 €.",
+        "url": "https://weed.de/strain/donny-burger",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Donny Burger",
+        "href": "https://weed.de/strain/donny-burger"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Donny Burger",
+            "item": "https://weed.de/strain/donny-burger"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Donny Burger Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/big-dreams-181-psf-dob",
+            "name": "Big Dreams 18/1 PSF DOB"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/big-dreams-181-psf-dob",
+        "text": "Big Dreams 18/1 PSF DOB",
+        "title": "Big Dreams 18/1 PSF DOB von Remexian Pharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/motor-breath",
+        "text": "Motor Breath",
+        "title": "Motor Breath - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/death-star",
+        "text": "Death Star",
+        "title": "Death Star - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/oasis-og",
+        "text": "Oasis OG",
+        "title": "Oasis OG - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/donkey-butter",
+        "text": "Donkey Butter",
+        "title": "Donkey Butter - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/chevy-og",
+        "text": "Chevy OG",
+        "title": "Chevy OG - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

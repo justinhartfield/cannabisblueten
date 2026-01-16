@@ -1,0 +1,225 @@
+{
+  "product": {
+    "slug": "avaay-51-thcv12",
+    "name": "avaay 5/1 THCV12",
+    "type": "flower",
+    "genetics": "hybrid_sativa",
+    "thcPercent": 5,
+    "cbdPercent": 1,
+    "priceMin": 999,
+    "priceMax": 999,
+    "inStock": false,
+    "pzn": null,
+    "originCountry": "N/A",
+    "imageUrl": "https://weed.de/products/avaay-51-thcv12-gi93e0.png"
+  },
+  "brand": {
+    "slug": "avaay",
+    "name": "Avaay",
+    "productCount": 101
+  },
+  "strain": {
+    "slug": "thcv12",
+    "name": "THCV12",
+    "geneticType": "hybrid",
+    "effects": [
+      "Sleepy",
+      "Mood-lifting"
+    ],
+    "terpenes": [
+      "Pinene",
+      "Linalool",
+      "Limonene",
+      "Beta-Myrcene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Sleepy",
+      "Mood-lifting"
+    ],
+    "tastes": [
+      "Pine",
+      "Earthy",
+      "Woody"
+    ],
+    "terpenes": [
+      "Pinene",
+      "Linalool",
+      "Limonene",
+      "Beta-Myrcene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "avextra-1010",
+      "name": "Avextra 10/10",
+      "brandName": "Avextra",
+      "thcPercent": 1,
+      "priceMin": 279,
+      "inStock": true
+    },
+    {
+      "slug": "amp-classic-251",
+      "name": "AMP Classic 25/1",
+      "brandName": "AMP",
+      "thcPercent": 25,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "weeco-231",
+      "name": "Weeco 23/1",
+      "brandName": "Weeco",
+      "thcPercent": 23,
+      "priceMin": 599,
+      "inStock": true
+    },
+    {
+      "slug": "aurora-221-dhz-ca",
+      "name": "Aurora 22/1 DHZ-CA",
+      "brandName": "Aurora",
+      "thcPercent": 19.8,
+      "priceMin": 640,
+      "inStock": true
+    },
+    {
+      "slug": "420-evolution-271-ca-str",
+      "name": "420 Evolution 27/1 CA STR",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 27,
+      "priceMin": 645,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-221-florestura",
+      "name": "DEMECAN Florestura 22:01",
+      "brandName": "Deutsche Medizinalcannabis",
+      "thcPercent": 22,
+      "priceMin": 679,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "avaay 5/1 THCV12 - Avaay | ab 9,99 €",
+      "description": "avaay 5/1 THCV12 von Avaay. THC: 5%, CBD: 1%. Sorte: THCV12. Preis ab 9,99 €. Preise vergleichen.",
+      "canonical": "https://weed.de/product/avaay-51-thcv12",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "avaay 5/1 THCV12 - Avaay | ab 9,99 €",
+        "description": "avaay 5/1 THCV12 von Avaay. THC: 5%, CBD: 1%. Sorte: THCV12. Preis ab 9,99 €. Preise vergleichen.",
+        "url": "https://weed.de/product/avaay-51-thcv12",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/avaay-51-thcv12-gi93e0.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Avaay",
+        "href": "https://weed.de/brand/avaay"
+      },
+      {
+        "name": "avaay 5/1 THCV12",
+        "href": "https://weed.de/product/avaay-51-thcv12"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "avaay 5/1 THCV12",
+            "item": "https://weed.de/product/avaay-51-thcv12"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "avaay 5/1 THCV12",
+        "brand": {
+          "@type": "Brand",
+          "name": "Avaay"
+        },
+        "description": "THC: 5%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/thcv12",
+      "text": "THCV12",
+      "title": "THCV12 Sorte"
+    },
+    "brand": {
+      "href": "/brand/avaay",
+      "text": "Avaay",
+      "title": "Alle Avaay Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/avextra-1010",
+        "text": "Avextra 10/10",
+        "title": "Alternative: Avextra 10/10"
+      },
+      {
+        "href": "/product/amp-classic-251",
+        "text": "AMP Classic 25/1",
+        "title": "Alternative: AMP Classic 25/1"
+      },
+      {
+        "href": "/product/weeco-231",
+        "text": "Weeco 23/1",
+        "title": "Alternative: Weeco 23/1"
+      },
+      {
+        "href": "/product/aurora-221-dhz-ca",
+        "text": "Aurora 22/1 DHZ-CA",
+        "title": "Alternative: Aurora 22/1 DHZ-CA"
+      },
+      {
+        "href": "/product/420-evolution-271-ca-str",
+        "text": "420 Evolution 27/1 CA STR",
+        "title": "Alternative: 420 Evolution 27/1 CA STR"
+      },
+      {
+        "href": "/product/demecan-221-florestura",
+        "text": "DEMECAN Florestura 22:01",
+        "title": "Alternative: DEMECAN Florestura 22:01"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has price data"
+  }
+}

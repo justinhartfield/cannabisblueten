@@ -1,0 +1,226 @@
+{
+  "product": {
+    "slug": "czechout-181-jku",
+    "name": "CzechOut 18/1 JKU",
+    "type": "flower",
+    "genetics": "hybrid_indica",
+    "thcPercent": 18,
+    "cbdPercent": 1,
+    "priceMin": 329,
+    "priceMax": 598,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Tschechische Republik",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "remexian-pharma",
+    "name": "Remexian Pharma",
+    "productCount": 340
+  },
+  "strain": {
+    "slug": "jager-kush",
+    "name": "Jager Kush",
+    "geneticType": "hybrid",
+    "effects": [
+      "Euphoric",
+      "Happy",
+      "Relaxed"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Caryophyllene",
+      "Ocimene",
+      "Limonene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Euphoric",
+      "Happy",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Herbal",
+      "Earthy",
+      "Sweet"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Caryophyllene",
+      "Ocimene",
+      "Limonene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "enua-251-cck-ca",
+      "name": "enua 25/1 CCK CA",
+      "brandName": "enua",
+      "thcPercent": 25.2,
+      "priceMin": 399,
+      "inStock": true
+    },
+    {
+      "slug": "ceres-no-2",
+      "name": "Ceres No. 2",
+      "brandName": "Cantourage",
+      "thcPercent": 25,
+      "priceMin": 590,
+      "inStock": true
+    },
+    {
+      "slug": "420-evolution-271-ca-icc",
+      "name": "420 EVOLUTION 27/1 CA ICC",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 27,
+      "priceMin": 684,
+      "inStock": true
+    },
+    {
+      "slug": "420-natural-221-gg4",
+      "name": "420 Natural 22/1 GG4",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 22,
+      "priceMin": 723,
+      "inStock": true
+    },
+    {
+      "slug": "avaay-241-sk",
+      "name": "AVAAY 24/1 SK",
+      "brandName": "Vayamed",
+      "thcPercent": 24,
+      "priceMin": 899,
+      "inStock": true
+    },
+    {
+      "slug": "avaay-241-did",
+      "name": "AVAAY 24/1 DiD",
+      "brandName": "Avaay",
+      "thcPercent": 24,
+      "priceMin": 949,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "CzechOut 18/1 JKU - Remexian Pharma | ab 3,29 €",
+      "description": "CzechOut 18/1 JKU von Remexian Pharma. THC: 18%, CBD: 1%. Sorte: Jager Kush. Preis ab 3,29 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/czechout-181-jku",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "CzechOut 18/1 JKU - Remexian Pharma | ab 3,29 €",
+        "description": "CzechOut 18/1 JKU von Remexian Pharma. THC: 18%, CBD: 1%. Sorte: Jager Kush. Preis ab 3,29 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/czechout-181-jku",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Remexian Pharma",
+        "href": "https://weed.de/brand/remexian-pharma"
+      },
+      {
+        "name": "CzechOut 18/1 JKU",
+        "href": "https://weed.de/product/czechout-181-jku"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "CzechOut 18/1 JKU",
+            "item": "https://weed.de/product/czechout-181-jku"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "CzechOut 18/1 JKU",
+        "brand": {
+          "@type": "Brand",
+          "name": "Remexian Pharma"
+        },
+        "description": "THC: 18%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/jager-kush",
+      "text": "Jager Kush",
+      "title": "Jager Kush Sorte"
+    },
+    "brand": {
+      "href": "/brand/remexian-pharma",
+      "text": "Remexian Pharma",
+      "title": "Alle Remexian Pharma Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/enua-251-cck-ca",
+        "text": "enua 25/1 CCK CA",
+        "title": "Alternative: enua 25/1 CCK CA"
+      },
+      {
+        "href": "/product/ceres-no-2",
+        "text": "Ceres No. 2",
+        "title": "Alternative: Ceres No. 2"
+      },
+      {
+        "href": "/product/420-evolution-271-ca-icc",
+        "text": "420 EVOLUTION 27/1 CA ICC",
+        "title": "Alternative: 420 EVOLUTION 27/1 CA ICC"
+      },
+      {
+        "href": "/product/420-natural-221-gg4",
+        "text": "420 Natural 22/1 GG4",
+        "title": "Alternative: 420 Natural 22/1 GG4"
+      },
+      {
+        "href": "/product/avaay-241-sk",
+        "text": "AVAAY 24/1 SK",
+        "title": "Alternative: AVAAY 24/1 SK"
+      },
+      {
+        "href": "/product/avaay-241-did",
+        "text": "AVAAY 24/1 DiD",
+        "title": "Alternative: AVAAY 24/1 DiD"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

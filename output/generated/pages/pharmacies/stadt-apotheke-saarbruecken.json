@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "stadt-apotheke-saarbruecken",
+    "name": "Cannatopie.de by Stadt Apotheke Saarbrücken",
+    "street": "Bahnhofstraße 37",
+    "zip": "66111",
+    "cityName": "Saarbrücken",
+    "state": "Saarland",
+    "lat": 49.2348794,
+    "lng": 6.994094599999999,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "cannatopie.de",
+    "phone": "06813014349",
+    "email": "info@cannatopie.de",
+    "productCount": 54,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/6936dba01e90ffe672eb3beb-e7ajj1.jpg"
+  },
+  "city": {
+    "slug": "saarbruecken",
+    "name": "Saarbrücken",
+    "pharmacyCount": 3
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "markus-apotheke-saarbruecken",
+      "name": "Markus Apotheke Saarbrücken",
+      "cityName": "Saarbrücken",
+      "productCount": 102,
+      "hasDelivery": false
+    },
+    {
+      "slug": "landmann-apotheke-oliver-blank-saarbruecken",
+      "name": "Landmann Apotheke Oliver Blank Saarbrücken",
+      "cityName": "Saarbrücken",
+      "productCount": 19,
+      "hasDelivery": false
+    },
+    {
+      "slug": "cannablies-rats-apotheke",
+      "name": "Cannablies / Rats-Apotheke",
+      "cityName": "Blieskastel",
+      "productCount": 90,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-am-bitscher-platz",
+      "name": "Apotheke am Bitscher Platz",
+      "cityName": "Lebach",
+      "productCount": 0,
+      "hasDelivery": false
+    },
+    {
+      "slug": "abtei-apotheke",
+      "name": "Abtei Apotheke",
+      "cityName": "Wadgassen",
+      "productCount": 0,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannatopie.de by Stadt Apotheke Saarbrücken - Cannabis Apotheke in Saarbrücken",
+      "description": "Cannatopie.de by Stadt Apotheke Saarbrücken in Saarbrücken. 54 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/stadt-apotheke-saarbruecken",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannatopie.de by Stadt Apotheke Saarbrücken - Cannabis Apotheke in Saarbrücken",
+        "description": "Cannatopie.de by Stadt Apotheke Saarbrücken in Saarbrücken. 54 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/stadt-apotheke-saarbruecken",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/6936dba01e90ffe672eb3beb-e7ajj1.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Saarbrücken",
+        "href": "https://weed.de/cannabis-apotheke/saarbruecken"
+      },
+      {
+        "name": "Cannatopie.de by Stadt Apotheke Saarbrücken",
+        "href": "https://weed.de/apotheke/stadt-apotheke-saarbruecken"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Saarbrücken",
+            "item": "https://weed.de/cannabis-apotheke/saarbruecken"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Cannatopie.de by Stadt Apotheke Saarbrücken",
+            "item": "https://weed.de/apotheke/stadt-apotheke-saarbruecken"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Cannatopie.de by Stadt Apotheke Saarbrücken",
+        "url": "https://weed.de/apotheke/stadt-apotheke-saarbruecken",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Bahnhofstraße 37",
+          "addressLocality": "Saarbrücken",
+          "postalCode": "66111",
+          "addressRegion": "Saarland",
+          "addressCountry": "DE"
+        },
+        "telephone": "06813014349",
+        "email": "info@cannatopie.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/saarbruecken",
+      "text": "Cannabis Apotheken in Saarbrücken",
+      "title": "Alle Apotheken in Saarbrücken"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/markus-apotheke-saarbruecken",
+        "text": "Markus Apotheke Saarbrücken",
+        "title": "Markus Apotheke Saarbrücken in Saarbrücken"
+      },
+      {
+        "href": "/apotheke/landmann-apotheke-oliver-blank-saarbruecken",
+        "text": "Landmann Apotheke Oliver Blank Saarbrücken",
+        "title": "Landmann Apotheke Oliver Blank Saarbrücken in Saarbrücken"
+      },
+      {
+        "href": "/apotheke/cannablies-rats-apotheke",
+        "text": "Cannablies / Rats-Apotheke",
+        "title": "Cannablies / Rats-Apotheke in Blieskastel"
+      },
+      {
+        "href": "/apotheke/apotheke-am-bitscher-platz",
+        "text": "Apotheke am Bitscher Platz",
+        "title": "Apotheke am Bitscher Platz in Lebach"
+      },
+      {
+        "href": "/apotheke/abtei-apotheke",
+        "text": "Abtei Apotheke",
+        "title": "Abtei Apotheke in Wadgassen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

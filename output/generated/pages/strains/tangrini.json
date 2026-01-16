@@ -1,0 +1,235 @@
+{
+  "strain": {
+    "slug": "tangrini",
+    "name": "Tangrini",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Creative",
+      "Focused",
+      "Euphoric"
+    ],
+    "tastes": [
+      "Citrus",
+      "Sweet",
+      "Flowery"
+    ],
+    "terpenes": [
+      "Terpineol",
+      "Myrcene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 380,
+      "max": 790,
+      "formatted": {
+        "min": "3,80 €",
+        "max": "7,90 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "zoiks-221-tg",
+      "name": "ZOIKS 22/1 TG",
+      "brandName": "Avaay",
+      "thcPercent": 24,
+      "priceMin": 380,
+      "inStock": true
+    },
+    {
+      "slug": "zoiks-261-tg",
+      "name": "ZOIKS 26/1 TG",
+      "brandName": "Avaay",
+      "thcPercent": 26,
+      "priceMin": 423,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "scoop-of-chem-x-early-orange",
+      "name": "Scoop of Chem x Early Orange",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "pink-diesel",
+      "name": "Pink Diesel",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "polar-cookies",
+      "name": "Polar Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "alien-mints",
+      "name": "Alien Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "wedding-pop-triangle",
+      "name": "Wedding Pop Triangle",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Tangrini (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Tangrini: Creative, Focused, Euphoric. 2 Produkte verfügbar. ab 3,80 €.",
+      "canonical": "https://weed.de/strain/tangrini",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Tangrini (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Tangrini: Creative, Focused, Euphoric. 2 Produkte verfügbar. ab 3,80 €.",
+        "url": "https://weed.de/strain/tangrini",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Tangrini",
+        "href": "https://weed.de/strain/tangrini"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Tangrini",
+            "item": "https://weed.de/strain/tangrini"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Tangrini Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/zoiks-221-tg",
+            "name": "ZOIKS 22/1 TG"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/zoiks-261-tg",
+            "name": "ZOIKS 26/1 TG"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/zoiks-221-tg",
+        "text": "ZOIKS 22/1 TG",
+        "title": "ZOIKS 22/1 TG von Avaay"
+      },
+      {
+        "href": "/product/zoiks-261-tg",
+        "text": "ZOIKS 26/1 TG",
+        "title": "ZOIKS 26/1 TG von Avaay"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/scoop-of-chem-x-early-orange",
+        "text": "Scoop of Chem x Early Orange",
+        "title": "Scoop of Chem x Early Orange - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/pink-diesel",
+        "text": "Pink Diesel",
+        "title": "Pink Diesel - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/polar-cookies",
+        "text": "Polar Cookies",
+        "title": "Polar Cookies - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/alien-mints",
+        "text": "Alien Mints",
+        "title": "Alien Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/wedding-pop-triangle",
+        "text": "Wedding Pop Triangle",
+        "title": "Wedding Pop Triangle - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/terpineol",
+        "text": "Terpineol",
+        "title": "Terpineol Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

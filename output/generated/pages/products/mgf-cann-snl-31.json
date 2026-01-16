@@ -1,0 +1,225 @@
+{
+  "product": {
+    "slug": "mgf-cann-snl-31",
+    "name": "MGF CANN SNL 30/1",
+    "type": "flower",
+    "genetics": "hybrid",
+    "thcPercent": 30,
+    "cbdPercent": 1,
+    "priceMin": 825,
+    "priceMax": 825,
+    "inStock": false,
+    "pzn": [],
+    "originCountry": "Portugal",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "mgf-via-medical",
+    "name": "MGF Via Medical",
+    "productCount": 35
+  },
+  "strain": {
+    "slug": "honey-suckle",
+    "name": "Honey Suckle",
+    "geneticType": "hybrid",
+    "effects": [
+      "Creative",
+      "Focused",
+      "Euphoric"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Creative",
+      "Focused",
+      "Euphoric"
+    ],
+    "tastes": [
+      "Tropical",
+      "Flowery",
+      "Diesel"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "tilray-thc-25-spotlight-porto-purps",
+      "name": "Tilray THC 25 Spotlight Porto Purps",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": 349,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc5cbd2",
+      "name": "Tilray Cannabisextrakt THC5:CBD20",
+      "brandName": "Tilray",
+      "thcPercent": 5,
+      "priceMin": 350,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc1cbd1",
+      "name": "Tilray Cannabisextrakt THC10:CBD10",
+      "brandName": "Tilray",
+      "thcPercent": 10,
+      "priceMin": 400,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-2",
+      "name": "Demecan Typ 2",
+      "brandName": "Demecan",
+      "thcPercent": 16,
+      "priceMin": 533,
+      "inStock": true
+    },
+    {
+      "slug": "khiron-191-gelato",
+      "name": "Khiron 19/1 Gelato",
+      "brandName": "Khiron",
+      "thcPercent": 17.6,
+      "priceMin": 638,
+      "inStock": true
+    },
+    {
+      "slug": "apollo-281-hls",
+      "name": "Apollo 28/1 HLS",
+      "brandName": "Cannprisma",
+      "thcPercent": 28,
+      "priceMin": 700,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "MGF CANN SNL 30/1 - MGF Via Medical | ab 8,25 €",
+      "description": "MGF CANN SNL 30/1 von MGF Via Medical. THC: 30%, CBD: 1%. Sorte: Honey Suckle. Preis ab 8,25 €. Preise vergleichen.",
+      "canonical": "https://weed.de/product/mgf-cann-snl-31",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "MGF CANN SNL 30/1 - MGF Via Medical | ab 8,25 €",
+        "description": "MGF CANN SNL 30/1 von MGF Via Medical. THC: 30%, CBD: 1%. Sorte: Honey Suckle. Preis ab 8,25 €. Preise vergleichen.",
+        "url": "https://weed.de/product/mgf-cann-snl-31",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "MGF Via Medical",
+        "href": "https://weed.de/brand/mgf-via-medical"
+      },
+      {
+        "name": "MGF CANN SNL 30/1",
+        "href": "https://weed.de/product/mgf-cann-snl-31"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "MGF CANN SNL 30/1",
+            "item": "https://weed.de/product/mgf-cann-snl-31"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "MGF CANN SNL 30/1",
+        "brand": {
+          "@type": "Brand",
+          "name": "MGF Via Medical"
+        },
+        "gtin13": [],
+        "description": "THC: 30%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/honey-suckle",
+      "text": "Honey Suckle",
+      "title": "Honey Suckle Sorte"
+    },
+    "brand": {
+      "href": "/brand/mgf-via-medical",
+      "text": "MGF Via Medical",
+      "title": "Alle MGF Via Medical Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/tilray-thc-25-spotlight-porto-purps",
+        "text": "Tilray THC 25 Spotlight Porto Purps",
+        "title": "Alternative: Tilray THC 25 Spotlight Porto Purps"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc5cbd2",
+        "text": "Tilray Cannabisextrakt THC5:CBD20",
+        "title": "Alternative: Tilray Cannabisextrakt THC5:CBD20"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc1cbd1",
+        "text": "Tilray Cannabisextrakt THC10:CBD10",
+        "title": "Alternative: Tilray Cannabisextrakt THC10:CBD10"
+      },
+      {
+        "href": "/product/demecan-typ-2",
+        "text": "Demecan Typ 2",
+        "title": "Alternative: Demecan Typ 2"
+      },
+      {
+        "href": "/product/khiron-191-gelato",
+        "text": "Khiron 19/1 Gelato",
+        "title": "Alternative: Khiron 19/1 Gelato"
+      },
+      {
+        "href": "/product/apollo-281-hls",
+        "text": "Apollo 28/1 HLS",
+        "title": "Alternative: Apollo 28/1 HLS"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has price data"
+  }
+}

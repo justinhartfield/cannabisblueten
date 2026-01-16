@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "1a-cannaduo",
+    "name": "1A CannaDuo",
+    "street": "Friedrichstraße 17",
+    "zip": "40217",
+    "cityName": "Düsseldorf",
+    "state": "Nordrhein-Westfalen",
+    "lat": 51.21765,
+    "lng": 6.77652,
+    "hasDelivery": false,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://1a-cannaduo.de/",
+    "phone": "021131603010",
+    "email": "info@1a-cannaduo.de",
+    "productCount": 14,
+    "rating": 5,
+    "ratingCount": 1,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/668e806b0839a72b2a77e337-6jc5ab.jpg"
+  },
+  "city": {
+    "slug": "duesseldorf",
+    "name": "Düsseldorf",
+    "pharmacyCount": 9
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "grafenberger-apotheke",
+      "name": "GRAFENBERGER APOTHEKE",
+      "cityName": "Düsseldorf",
+      "productCount": 158,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannatreede-rats-apotheke-duesseldorf",
+      "name": "Cannatree.de - Rats-Apotheke Düsseldorf",
+      "cityName": "Düsseldorf",
+      "productCount": 113,
+      "hasDelivery": true
+    },
+    {
+      "slug": "greencalm-by-malteser-apotheke",
+      "name": "GreenCalm by Malteser Apotheke",
+      "cityName": "Düsseldorf",
+      "productCount": 69,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apondium",
+      "name": "Apondium",
+      "cityName": "Düsseldorf",
+      "productCount": 52,
+      "hasDelivery": true
+    },
+    {
+      "slug": "mycannabis",
+      "name": "MYCANNABIS 360Grad-Apotheke",
+      "cityName": "Düsseldorf",
+      "productCount": 42,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "1A CannaDuo - Cannabis Apotheke in Düsseldorf",
+      "description": "1A CannaDuo in Düsseldorf. 14 Cannabis Produkte. Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/1a-cannaduo",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "1A CannaDuo - Cannabis Apotheke in Düsseldorf",
+        "description": "1A CannaDuo in Düsseldorf. 14 Cannabis Produkte. Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/1a-cannaduo",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/668e806b0839a72b2a77e337-6jc5ab.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Düsseldorf",
+        "href": "https://weed.de/cannabis-apotheke/duesseldorf"
+      },
+      {
+        "name": "1A CannaDuo",
+        "href": "https://weed.de/apotheke/1a-cannaduo"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Düsseldorf",
+            "item": "https://weed.de/cannabis-apotheke/duesseldorf"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "1A CannaDuo",
+            "item": "https://weed.de/apotheke/1a-cannaduo"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "1A CannaDuo",
+        "url": "https://weed.de/apotheke/1a-cannaduo",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Friedrichstraße 17",
+          "addressLocality": "Düsseldorf",
+          "postalCode": "40217",
+          "addressRegion": "Nordrhein-Westfalen",
+          "addressCountry": "DE"
+        },
+        "telephone": "021131603010",
+        "email": "info@1a-cannaduo.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/duesseldorf",
+      "text": "Cannabis Apotheken in Düsseldorf",
+      "title": "Alle Apotheken in Düsseldorf"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/grafenberger-apotheke",
+        "text": "GRAFENBERGER APOTHEKE",
+        "title": "GRAFENBERGER APOTHEKE in Düsseldorf"
+      },
+      {
+        "href": "/apotheke/cannatreede-rats-apotheke-duesseldorf",
+        "text": "Cannatree.de - Rats-Apotheke Düsseldorf",
+        "title": "Cannatree.de - Rats-Apotheke Düsseldorf in Düsseldorf"
+      },
+      {
+        "href": "/apotheke/greencalm-by-malteser-apotheke",
+        "text": "GreenCalm by Malteser Apotheke",
+        "title": "GreenCalm by Malteser Apotheke in Düsseldorf"
+      },
+      {
+        "href": "/apotheke/apondium",
+        "text": "Apondium",
+        "title": "Apondium in Düsseldorf"
+      },
+      {
+        "href": "/apotheke/mycannabis",
+        "text": "MYCANNABIS 360Grad-Apotheke",
+        "title": "MYCANNABIS 360Grad-Apotheke in Düsseldorf"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "strain": {
+    "slug": "dank-sinatra",
+    "name": "Dank Sinatra",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Euphoric",
+      "Happy",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Diesel",
+      "Earthy",
+      "Citrus"
+    ],
+    "terpenes": [
+      "Pinene",
+      "Limonene",
+      "Myrcene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 579,
+      "max": 800,
+      "formatted": {
+        "min": "5,79 €",
+        "max": "8,00 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "bathera-231-ds",
+      "name": "Bathera 23/1 DS",
+      "brandName": "Bathera",
+      "thcPercent": 23,
+      "priceMin": 579,
+      "inStock": true
+    },
+    {
+      "slug": "bathera-261-ds",
+      "name": "Bathera 26/1 DS",
+      "brandName": "Bathera",
+      "thcPercent": 26,
+      "priceMin": 649,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "white-gorilla",
+      "name": "White Gorilla",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "mac-3",
+      "name": "MAC 3",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "alien-mints",
+      "name": "Alien Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "grape-haze",
+      "name": "Grape Haze",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "dirty-taxi",
+      "name": "Dirty Taxi",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Dank Sinatra (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Dank Sinatra: Euphoric, Happy, Relaxed. 2 Produkte verfügbar. ab 5,79 €.",
+      "canonical": "https://weed.de/strain/dank-sinatra",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Dank Sinatra (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Dank Sinatra: Euphoric, Happy, Relaxed. 2 Produkte verfügbar. ab 5,79 €.",
+        "url": "https://weed.de/strain/dank-sinatra",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Dank Sinatra",
+        "href": "https://weed.de/strain/dank-sinatra"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Dank Sinatra",
+            "item": "https://weed.de/strain/dank-sinatra"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Dank Sinatra Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/bathera-231-ds",
+            "name": "Bathera 23/1 DS"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/bathera-261-ds",
+            "name": "Bathera 26/1 DS"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/bathera-231-ds",
+        "text": "Bathera 23/1 DS",
+        "title": "Bathera 23/1 DS von Bathera"
+      },
+      {
+        "href": "/product/bathera-261-ds",
+        "text": "Bathera 26/1 DS",
+        "title": "Bathera 26/1 DS von Bathera"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/white-gorilla",
+        "text": "White Gorilla",
+        "title": "White Gorilla - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/mac-3",
+        "text": "MAC 3",
+        "title": "MAC 3 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/alien-mints",
+        "text": "Alien Mints",
+        "title": "Alien Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/grape-haze",
+        "text": "Grape Haze",
+        "title": "Grape Haze - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/dirty-taxi",
+        "text": "Dirty Taxi",
+        "title": "Dirty Taxi - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/pinene",
+        "text": "Pinene",
+        "title": "Pinene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "strain": {
+    "slug": "liquid-imagination",
+    "name": "Liquid Imagination",
+    "geneticType": "sativa",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Creative",
+      "Focused",
+      "Euphoric"
+    ],
+    "tastes": [
+      "Earthy",
+      "Citrus",
+      "Sweet"
+    ],
+    "terpenes": [
+      "Pinene",
+      "Nerolidol",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "Liquid Imagination ist ein ausgewogener Hybrid, der durch die Kreuzung von Blue Zkittlez und Jet Fuel Gelato entstanden ist. Diese Sorte wurde von Compound Genetics gezüchtet und zeichnet sich durch ein komplexes Aromaprofil sowie eine vielseitige, sowohl kreative als auch entspannende Wirkung aus.\n",
+    "imageUrl": "/strains/liquid-imagination-705eia.webp"
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 440,
+      "max": 1115,
+      "formatted": {
+        "min": "4,40 €",
+        "max": "11,15 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "demecan-craft-pulso-311",
+      "name": "Demecan CRAFT Pulso 31:01",
+      "brandName": "Demecan",
+      "thcPercent": 29,
+      "priceMin": 798,
+      "inStock": true
+    },
+    {
+      "slug": "beacon-li-t26",
+      "name": "Beacon LI T26",
+      "brandName": "Adrexpharma",
+      "thcPercent": 26,
+      "priceMin": 440,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "columbian-haze",
+      "name": "Columbian Haze",
+      "geneticType": "sativa",
+      "thcMax": null
+    },
+    {
+      "slug": "strawberry-lemonade",
+      "name": "Strawberry Lemonade",
+      "geneticType": "sativa",
+      "thcMax": null
+    },
+    {
+      "slug": "casey-jones",
+      "name": "Casey Jones",
+      "geneticType": "sativa",
+      "thcMax": null
+    },
+    {
+      "slug": "super-lemon-haze",
+      "name": "Super Lemon Haze",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "carnez-citric",
+      "name": "Carnez Citric",
+      "geneticType": "sativa",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Liquid Imagination (Sativa) - Wirkung, THC & Verfügbarkeit",
+      "description": "Liquid Imagination: Creative, Focused, Euphoric. 2 Produkte verfügbar. ab 4,40 €.",
+      "canonical": "https://weed.de/strain/liquid-imagination",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Liquid Imagination (Sativa) - Wirkung, THC & Verfügbarkeit",
+        "description": "Liquid Imagination: Creative, Focused, Euphoric. 2 Produkte verfügbar. ab 4,40 €.",
+        "url": "https://weed.de/strain/liquid-imagination",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "/strains/liquid-imagination-705eia.webp"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Liquid Imagination",
+        "href": "https://weed.de/strain/liquid-imagination"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Liquid Imagination",
+            "item": "https://weed.de/strain/liquid-imagination"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Liquid Imagination Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/demecan-craft-pulso-311",
+            "name": "Demecan CRAFT Pulso 31:01"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/beacon-li-t26",
+            "name": "Beacon LI T26"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/demecan-craft-pulso-311",
+        "text": "Demecan CRAFT Pulso 31:01",
+        "title": "Demecan CRAFT Pulso 31:01 von Demecan"
+      },
+      {
+        "href": "/product/beacon-li-t26",
+        "text": "Beacon LI T26",
+        "title": "Beacon LI T26 von Adrexpharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/columbian-haze",
+        "text": "Columbian Haze",
+        "title": "Columbian Haze - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/strawberry-lemonade",
+        "text": "Strawberry Lemonade",
+        "title": "Strawberry Lemonade - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/casey-jones",
+        "text": "Casey Jones",
+        "title": "Casey Jones - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/super-lemon-haze",
+        "text": "Super Lemon Haze",
+        "title": "Super Lemon Haze - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/carnez-citric",
+        "text": "Carnez Citric",
+        "title": "Carnez Citric - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/pinene",
+        "text": "Pinene",
+        "title": "Pinene Terpen"
+      },
+      {
+        "href": "/terpene/nerolidol",
+        "text": "Nerolidol",
+        "title": "Nerolidol Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

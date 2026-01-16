@@ -1,0 +1,255 @@
+{
+  "strain": {
+    "slug": "ak47",
+    "name": "AK47",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Euphoric",
+      "Relaxed",
+      "Talkative",
+      "Happy"
+    ],
+    "tastes": [
+      "Skunk",
+      "Spicy-Herbal",
+      "Tobacco"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Pinene",
+      "Caryophyllene"
+    ],
+    "description": "AK47, eine sativa-dominante Hybrid-Sorte, ist eine legendäre Sorte, die für ihren unverkennbaren Geschmack von Skunk, würzig-herb und tabakähnlich bekannt ist. Mit THC-Werten zwischen 17% und 22% bietet sie ein euphorisches, entspanntes, kommunikatives und fröhliches Erlebnis. Der CBD-Gehalt liegt unter 1%, wodurch sie bei Freizeitnutzern beliebt ist. Die Genetik dieser Sorte ist eine Mischung aus Afghani, Mexikaner und Thai, was zu ihren starken und ausgewogenen Effekten führt. Die Blütezeit von AK47 liegt zwischen 7 und 8 Wochen, und sie erreicht in der Regel eine Höhe von 75 bis 150 Zentimetern.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 3,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 599,
+      "max": 1299,
+      "formatted": {
+        "min": "5,99 €",
+        "max": "12,99 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "101-c-extrakt",
+      "name": "101 C-Extrakt 50:0",
+      "brandName": "Heyday",
+      "thcPercent": 5,
+      "priceMin": 1099,
+      "inStock": true
+    },
+    {
+      "slug": "sibanax-extrakt-25",
+      "name": "Sibanax Extrakt 25/0",
+      "brandName": "Heyday",
+      "thcPercent": 25,
+      "priceMin": 649,
+      "inStock": true
+    },
+    {
+      "slug": "sibanax-extrakt-2525",
+      "name": "Sibanax Extrakt 25/25",
+      "brandName": "Heyday",
+      "thcPercent": 25,
+      "priceMin": 599,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "cannatonic",
+      "name": "Cannatonic",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "spritzer",
+      "name": "Spritzer",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "gummy-bears",
+      "name": "Gummy Bears",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "kryptonite",
+      "name": "Kryptonite",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "white-gorilla",
+      "name": "White Gorilla",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "AK47 (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "AK47: Euphoric, Relaxed, Talkative. 3 Produkte verfügbar. ab 5,99 €.",
+      "canonical": "https://weed.de/strain/ak47",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "AK47 (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "AK47: Euphoric, Relaxed, Talkative. 3 Produkte verfügbar. ab 5,99 €.",
+        "url": "https://weed.de/strain/ak47",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "AK47",
+        "href": "https://weed.de/strain/ak47"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "AK47",
+            "item": "https://weed.de/strain/ak47"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "AK47 Produkte",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/101-c-extrakt",
+            "name": "101 C-Extrakt 50:0"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/sibanax-extrakt-25",
+            "name": "Sibanax Extrakt 25/0"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/sibanax-extrakt-2525",
+            "name": "Sibanax Extrakt 25/25"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/101-c-extrakt",
+        "text": "101 C-Extrakt 50:0",
+        "title": "101 C-Extrakt 50:0 von Heyday"
+      },
+      {
+        "href": "/product/sibanax-extrakt-25",
+        "text": "Sibanax Extrakt 25/0",
+        "title": "Sibanax Extrakt 25/0 von Heyday"
+      },
+      {
+        "href": "/product/sibanax-extrakt-2525",
+        "text": "Sibanax Extrakt 25/25",
+        "title": "Sibanax Extrakt 25/25 von Heyday"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/cannatonic",
+        "text": "Cannatonic",
+        "title": "Cannatonic - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/spritzer",
+        "text": "Spritzer",
+        "title": "Spritzer - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/gummy-bears",
+        "text": "Gummy Bears",
+        "title": "Gummy Bears - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/kryptonite",
+        "text": "Kryptonite",
+        "title": "Kryptonite - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/white-gorilla",
+        "text": "White Gorilla",
+        "title": "White Gorilla - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/pinene",
+        "text": "Pinene",
+        "title": "Pinene Terpen"
+      },
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

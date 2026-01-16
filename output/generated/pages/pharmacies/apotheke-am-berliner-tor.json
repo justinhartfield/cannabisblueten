@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "apotheke-am-berliner-tor",
+    "name": "Apotheke am Berliner Tor (Cannabis-Freiburg)",
+    "street": "Breisacher Straße 86",
+    "zip": "79110",
+    "cityName": "Freiburg im Breisgau",
+    "state": "Baden-Württemberg",
+    "lat": 48.0076699,
+    "lng": 7.829802000000001,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "cannabis-freiburg.com",
+    "phone": "076188895800",
+    "email": "info@cannabis-freiburg.com",
+    "productCount": 68,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/68b81f77ad6cb1a8e4895f92-ch863e.jpg"
+  },
+  "city": {
+    "slug": "freiburg-im-breisgau",
+    "name": "Freiburg im Breisgau",
+    "pharmacyCount": 2
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "aeskulap-apotheke",
+      "name": "Aeskulap-Apotheke",
+      "cityName": "Freiburg im Breisgau",
+      "productCount": 9,
+      "hasDelivery": true
+    },
+    {
+      "slug": "florians-vital-apotheke",
+      "name": "Florians Vital Apotheke",
+      "cityName": "Esslingen am Neckar",
+      "productCount": 248,
+      "hasDelivery": true
+    },
+    {
+      "slug": "central-apotheke",
+      "name": "Cannabis-Champion",
+      "cityName": "Waiblingen",
+      "productCount": 240,
+      "hasDelivery": true
+    },
+    {
+      "slug": "karlchengras",
+      "name": "Karlchengras (Karl-Apotheke)",
+      "cityName": "Karlsruhe",
+      "productCount": 188,
+      "hasDelivery": true
+    },
+    {
+      "slug": "idris-apotheke-oder-3leafs",
+      "name": "Idris Apotheke | 3Leafs",
+      "cityName": "Weinheim",
+      "productCount": 149,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Apotheke am Berliner Tor (Cannabis-Freiburg) - Cannabis Apotheke in Freiburg im Breisgau",
+      "description": "Apotheke am Berliner Tor (Cannabis-Freiburg) in Freiburg im Breisgau. 68 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/apotheke-am-berliner-tor",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Apotheke am Berliner Tor (Cannabis-Freiburg) - Cannabis Apotheke in Freiburg im Breisgau",
+        "description": "Apotheke am Berliner Tor (Cannabis-Freiburg) in Freiburg im Breisgau. 68 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/apotheke-am-berliner-tor",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/68b81f77ad6cb1a8e4895f92-ch863e.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Freiburg im Breisgau",
+        "href": "https://weed.de/cannabis-apotheke/freiburg-im-breisgau"
+      },
+      {
+        "name": "Apotheke am Berliner Tor (Cannabis-Freiburg)",
+        "href": "https://weed.de/apotheke/apotheke-am-berliner-tor"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Freiburg im Breisgau",
+            "item": "https://weed.de/cannabis-apotheke/freiburg-im-breisgau"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Apotheke am Berliner Tor (Cannabis-Freiburg)",
+            "item": "https://weed.de/apotheke/apotheke-am-berliner-tor"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Apotheke am Berliner Tor (Cannabis-Freiburg)",
+        "url": "https://weed.de/apotheke/apotheke-am-berliner-tor",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Breisacher Straße 86",
+          "addressLocality": "Freiburg im Breisgau",
+          "postalCode": "79110",
+          "addressRegion": "Baden-Württemberg",
+          "addressCountry": "DE"
+        },
+        "telephone": "076188895800",
+        "email": "info@cannabis-freiburg.com"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/freiburg-im-breisgau",
+      "text": "Cannabis Apotheken in Freiburg im Breisgau",
+      "title": "Alle Apotheken in Freiburg im Breisgau"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/aeskulap-apotheke",
+        "text": "Aeskulap-Apotheke",
+        "title": "Aeskulap-Apotheke in Freiburg im Breisgau"
+      },
+      {
+        "href": "/apotheke/florians-vital-apotheke",
+        "text": "Florians Vital Apotheke",
+        "title": "Florians Vital Apotheke in Esslingen am Neckar"
+      },
+      {
+        "href": "/apotheke/central-apotheke",
+        "text": "Cannabis-Champion",
+        "title": "Cannabis-Champion in Waiblingen"
+      },
+      {
+        "href": "/apotheke/karlchengras",
+        "text": "Karlchengras (Karl-Apotheke)",
+        "title": "Karlchengras (Karl-Apotheke) in Karlsruhe"
+      },
+      {
+        "href": "/apotheke/idris-apotheke-oder-3leafs",
+        "text": "Idris Apotheke | 3Leafs",
+        "title": "Idris Apotheke | 3Leafs in Weinheim"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

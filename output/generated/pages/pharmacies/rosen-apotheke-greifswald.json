@@ -1,0 +1,164 @@
+{
+  "pharmacy": {
+    "slug": "rosen-apotheke-greifswald",
+    "name": "Rosen-Apotheke Greifswald",
+    "street": "Hans-Beimler-Straße 1-3",
+    "zip": "17491",
+    "cityName": "Greifswald",
+    "state": "Mecklenburg-Vorpommern",
+    "lat": 54.0881699,
+    "lng": 13.3991415,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://cannabisplus.rosen-apotheke-greifswald.de/",
+    "phone": "03834820595",
+    "email": "fragen@rosen-apotheke-greifswald.de",
+    "productCount": 12,
+    "rating": 5,
+    "ratingCount": 1,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/68b583fb1af67261f217f2ff-fii03j.jpg"
+  },
+  "city": {
+    "slug": "greifswald",
+    "name": "Greifswald",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "rats-apotheke",
+      "name": "Rats Apotheke | Cannabis Stralsund",
+      "cityName": "Stralsund",
+      "productCount": 20,
+      "hasDelivery": true
+    },
+    {
+      "slug": "marien-apotheke-1",
+      "name": "Marien Apotheke",
+      "cityName": "Neubrandenburg",
+      "productCount": 0,
+      "hasDelivery": true
+    },
+    {
+      "slug": "granitz-apotheke",
+      "name": "Granitz-Apotheke",
+      "cityName": "Sellin",
+      "productCount": 0,
+      "hasDelivery": false
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Rosen-Apotheke Greifswald - Cannabis Apotheke in Greifswald",
+      "description": "Rosen-Apotheke Greifswald in Greifswald. 12 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/rosen-apotheke-greifswald",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Rosen-Apotheke Greifswald - Cannabis Apotheke in Greifswald",
+        "description": "Rosen-Apotheke Greifswald in Greifswald. 12 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/rosen-apotheke-greifswald",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/68b583fb1af67261f217f2ff-fii03j.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Greifswald",
+        "href": "https://weed.de/cannabis-apotheke/greifswald"
+      },
+      {
+        "name": "Rosen-Apotheke Greifswald",
+        "href": "https://weed.de/apotheke/rosen-apotheke-greifswald"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Greifswald",
+            "item": "https://weed.de/cannabis-apotheke/greifswald"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Rosen-Apotheke Greifswald",
+            "item": "https://weed.de/apotheke/rosen-apotheke-greifswald"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Rosen-Apotheke Greifswald",
+        "url": "https://weed.de/apotheke/rosen-apotheke-greifswald",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Hans-Beimler-Straße 1-3",
+          "addressLocality": "Greifswald",
+          "postalCode": "17491",
+          "addressRegion": "Mecklenburg-Vorpommern",
+          "addressCountry": "DE"
+        },
+        "telephone": "03834820595",
+        "email": "fragen@rosen-apotheke-greifswald.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/greifswald",
+      "text": "Cannabis Apotheken in Greifswald",
+      "title": "Alle Apotheken in Greifswald"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/rats-apotheke",
+        "text": "Rats Apotheke | Cannabis Stralsund",
+        "title": "Rats Apotheke | Cannabis Stralsund in Stralsund"
+      },
+      {
+        "href": "/apotheke/marien-apotheke-1",
+        "text": "Marien Apotheke",
+        "title": "Marien Apotheke in Neubrandenburg"
+      },
+      {
+        "href": "/apotheke/granitz-apotheke",
+        "text": "Granitz-Apotheke",
+        "title": "Granitz-Apotheke in Sellin"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "bluetenpottde",
+    "name": "bluetenpott.de",
+    "street": "Weststraße 1",
+    "zip": "44866",
+    "cityName": "Bochum",
+    "state": "Nordrhein-Westfalen",
+    "lat": 51.481089,
+    "lng": 7.1328966,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "Bluetenpott.de",
+    "phone": "0232787173",
+    "email": "shop@bluetenpott.de",
+    "productCount": 61,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.de/pharmacies/bluetenpottde-bee8g7.png"
+  },
+  "city": {
+    "slug": "bochum",
+    "name": "Bochum",
+    "pharmacyCount": 4
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "1a-apoweed",
+      "name": "1A Apoweed",
+      "cityName": "Bochum",
+      "productCount": 64,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apoherbs",
+      "name": "Apoherbs c/o Spitzweg-Apotheke im Martin-Luther-Ärztehaus",
+      "cityName": "Bochum",
+      "productCount": 21,
+      "hasDelivery": true
+    },
+    {
+      "slug": "hoekes-apotheke-stiepel",
+      "name": "Ruhrblüte",
+      "cityName": "Bochum",
+      "productCount": 0,
+      "hasDelivery": false
+    },
+    {
+      "slug": "higreen-apotheke",
+      "name": "higreen! Online Marktplatz für Cannabis Apotheken",
+      "cityName": "Krefeld",
+      "productCount": 256,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-zur-alten-post",
+      "name": "Cannacompany (Apotheke zur Alten Post)",
+      "cityName": "Bonn",
+      "productCount": 233,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "bluetenpott.de - Cannabis Apotheke in Bochum",
+      "description": "bluetenpott.de in Bochum. 61 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/bluetenpottde",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "bluetenpott.de - Cannabis Apotheke in Bochum",
+        "description": "bluetenpott.de in Bochum. 61 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/bluetenpottde",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/pharmacies/bluetenpottde-bee8g7.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Bochum",
+        "href": "https://weed.de/cannabis-apotheke/bochum"
+      },
+      {
+        "name": "bluetenpott.de",
+        "href": "https://weed.de/apotheke/bluetenpottde"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Bochum",
+            "item": "https://weed.de/cannabis-apotheke/bochum"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "bluetenpott.de",
+            "item": "https://weed.de/apotheke/bluetenpottde"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "bluetenpott.de",
+        "url": "https://weed.de/apotheke/bluetenpottde",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Weststraße 1",
+          "addressLocality": "Bochum",
+          "postalCode": "44866",
+          "addressRegion": "Nordrhein-Westfalen",
+          "addressCountry": "DE"
+        },
+        "telephone": "0232787173",
+        "email": "shop@bluetenpott.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/bochum",
+      "text": "Cannabis Apotheken in Bochum",
+      "title": "Alle Apotheken in Bochum"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/1a-apoweed",
+        "text": "1A Apoweed",
+        "title": "1A Apoweed in Bochum"
+      },
+      {
+        "href": "/apotheke/apoherbs",
+        "text": "Apoherbs c/o Spitzweg-Apotheke im Martin-Luther-Ärztehaus",
+        "title": "Apoherbs c/o Spitzweg-Apotheke im Martin-Luther-Ärztehaus in Bochum"
+      },
+      {
+        "href": "/apotheke/hoekes-apotheke-stiepel",
+        "text": "Ruhrblüte",
+        "title": "Ruhrblüte in Bochum"
+      },
+      {
+        "href": "/apotheke/higreen-apotheke",
+        "text": "higreen! Online Marktplatz für Cannabis Apotheken",
+        "title": "higreen! Online Marktplatz für Cannabis Apotheken in Krefeld"
+      },
+      {
+        "href": "/apotheke/apotheke-zur-alten-post",
+        "text": "Cannacompany (Apotheke zur Alten Post)",
+        "title": "Cannacompany (Apotheke zur Alten Post) in Bonn"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

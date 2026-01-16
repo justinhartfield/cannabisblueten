@@ -1,0 +1,228 @@
+{
+  "product": {
+    "slug": "peace-naturals-311-gc",
+    "name": "Peace Naturals 31/1 GC",
+    "type": "flower",
+    "genetics": "indica",
+    "thcPercent": 31,
+    "cbdPercent": 1,
+    "priceMin": 463,
+    "priceMax": 1660,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "peace-naturals",
+    "name": "Peace Naturals",
+    "productCount": 11
+  },
+  "strain": {
+    "slug": "gmo",
+    "name": "GMO",
+    "geneticType": "indica",
+    "effects": [
+      "Euphoric",
+      "Sleepy",
+      "Uplifted",
+      "Body-High"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Limonene",
+      "Myrcene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Euphoric",
+      "Sleepy",
+      "Uplifted",
+      "Body-High"
+    ],
+    "tastes": [
+      "Diesel",
+      "Citrus",
+      "Pine",
+      "Garlic",
+      "Spicy"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Limonene",
+      "Myrcene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "aurora-thc-25-cannabis-extract",
+      "name": "Aurora THC 25 Cannabis Extract",
+      "brandName": "Cansativa",
+      "thcPercent": 2.5,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "420-evolution-301-ca-gmo",
+      "name": "420 EVOLUTION 30/1 CA GMO",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 29.4,
+      "priceMin": 475,
+      "inStock": true
+    },
+    {
+      "slug": "grow-mo-27-g-modo",
+      "name": "GROW MO 27 G-Modo",
+      "brandName": "Grow group",
+      "thcPercent": 27,
+      "priceMin": 476,
+      "inStock": true
+    },
+    {
+      "slug": "adven-cannabisextrakt-thc-20",
+      "name": "Adven Cannabisextrakt THC 20",
+      "brandName": "Adven",
+      "thcPercent": 2,
+      "priceMin": 476,
+      "inStock": true
+    },
+    {
+      "slug": "adven-cannabisextrakt-thc-10-cbd-10",
+      "name": "Adven Cannabisextrakt THC 10 CBD 10",
+      "brandName": "Adven",
+      "thcPercent": 10,
+      "priceMin": 560,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-1",
+      "name": "Demecan Typ 1",
+      "brandName": "Demecan",
+      "thcPercent": 21,
+      "priceMin": 694,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Peace Naturals 31/1 GC | ab 4,63 €",
+      "description": "Peace Naturals 31/1 GC von Peace Naturals. THC: 31%, CBD: 1%. Sorte: GMO. Preis ab 4,63 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/peace-naturals-311-gc",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Peace Naturals 31/1 GC | ab 4,63 €",
+        "description": "Peace Naturals 31/1 GC von Peace Naturals. THC: 31%, CBD: 1%. Sorte: GMO. Preis ab 4,63 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/peace-naturals-311-gc",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Peace Naturals",
+        "href": "https://weed.de/brand/peace-naturals"
+      },
+      {
+        "name": "Peace Naturals 31/1 GC",
+        "href": "https://weed.de/product/peace-naturals-311-gc"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Peace Naturals 31/1 GC",
+            "item": "https://weed.de/product/peace-naturals-311-gc"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Peace Naturals 31/1 GC",
+        "brand": {
+          "@type": "Brand",
+          "name": "Peace Naturals"
+        },
+        "description": "THC: 31%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/gmo",
+      "text": "GMO",
+      "title": "GMO Sorte"
+    },
+    "brand": {
+      "href": "/brand/peace-naturals",
+      "text": "Peace Naturals",
+      "title": "Alle Peace Naturals Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/aurora-thc-25-cannabis-extract",
+        "text": "Aurora THC 25 Cannabis Extract",
+        "title": "Alternative: Aurora THC 25 Cannabis Extract"
+      },
+      {
+        "href": "/product/420-evolution-301-ca-gmo",
+        "text": "420 EVOLUTION 30/1 CA GMO",
+        "title": "Alternative: 420 EVOLUTION 30/1 CA GMO"
+      },
+      {
+        "href": "/product/grow-mo-27-g-modo",
+        "text": "GROW MO 27 G-Modo",
+        "title": "Alternative: GROW MO 27 G-Modo"
+      },
+      {
+        "href": "/product/adven-cannabisextrakt-thc-20",
+        "text": "Adven Cannabisextrakt THC 20",
+        "title": "Alternative: Adven Cannabisextrakt THC 20"
+      },
+      {
+        "href": "/product/adven-cannabisextrakt-thc-10-cbd-10",
+        "text": "Adven Cannabisextrakt THC 10 CBD 10",
+        "title": "Alternative: Adven Cannabisextrakt THC 10 CBD 10"
+      },
+      {
+        "href": "/product/demecan-typ-1",
+        "text": "Demecan Typ 1",
+        "title": "Alternative: Demecan Typ 1"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

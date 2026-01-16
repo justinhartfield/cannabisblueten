@@ -1,0 +1,235 @@
+{
+  "strain": {
+    "slug": "lemon-thrill",
+    "name": "Lemon Thrill",
+    "geneticType": "sativa",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [
+      "Creative",
+      "Focused",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Diesel",
+      "Citrus",
+      "Flowery"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Myrcene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 529,
+      "max": 750,
+      "formatted": {
+        "min": "5,29 €",
+        "max": "7,50 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "remexian-241-let",
+      "name": "Remexian 24/1 LET",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 25.5,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "remexian-271-mhi-let",
+      "name": "Remexian 27/1 MHI LET",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 27,
+      "priceMin": 529,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "strawberry-lemonade",
+      "name": "Strawberry Lemonade",
+      "geneticType": "sativa",
+      "thcMax": null
+    },
+    {
+      "slug": "rainbow-amnesia",
+      "name": "Rainbow Amnesia",
+      "geneticType": "sativa",
+      "thcMax": null
+    },
+    {
+      "slug": "carnez-citric",
+      "name": "Carnez Citric",
+      "geneticType": "sativa",
+      "thcMax": null
+    },
+    {
+      "slug": "platinum-sour-diesel",
+      "name": "Platinum Sour Diesel",
+      "geneticType": "sativa",
+      "thcMax": null
+    },
+    {
+      "slug": "haze",
+      "name": "Haze",
+      "geneticType": "sativa",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Lemon Thrill (Sativa) - Wirkung, THC & Verfügbarkeit",
+      "description": "Lemon Thrill: Creative, Focused, Relaxed. 2 Produkte verfügbar. ab 5,29 €.",
+      "canonical": "https://weed.de/strain/lemon-thrill",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Lemon Thrill (Sativa) - Wirkung, THC & Verfügbarkeit",
+        "description": "Lemon Thrill: Creative, Focused, Relaxed. 2 Produkte verfügbar. ab 5,29 €.",
+        "url": "https://weed.de/strain/lemon-thrill",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Lemon Thrill",
+        "href": "https://weed.de/strain/lemon-thrill"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Lemon Thrill",
+            "item": "https://weed.de/strain/lemon-thrill"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Lemon Thrill Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/remexian-241-let",
+            "name": "Remexian 24/1 LET"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/remexian-271-mhi-let",
+            "name": "Remexian 27/1 MHI LET"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/remexian-241-let",
+        "text": "Remexian 24/1 LET",
+        "title": "Remexian 24/1 LET von Remexian Pharma"
+      },
+      {
+        "href": "/product/remexian-271-mhi-let",
+        "text": "Remexian 27/1 MHI LET",
+        "title": "Remexian 27/1 MHI LET von Remexian Pharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/strawberry-lemonade",
+        "text": "Strawberry Lemonade",
+        "title": "Strawberry Lemonade - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/rainbow-amnesia",
+        "text": "Rainbow Amnesia",
+        "title": "Rainbow Amnesia - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/carnez-citric",
+        "text": "Carnez Citric",
+        "title": "Carnez Citric - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/platinum-sour-diesel",
+        "text": "Platinum Sour Diesel",
+        "title": "Platinum Sour Diesel - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/haze",
+        "text": "Haze",
+        "title": "Haze - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

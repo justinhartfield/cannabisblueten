@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "stuttgart-cannabis-alte-apotheke-untertuerkheim",
+    "name": "Stuttgart Cannabis - Alte Apotheke Untertürkheim",
+    "street": "Augsburger Straße 383",
+    "zip": "70327",
+    "cityName": "Stuttgart",
+    "state": "Baden-Württemberg",
+    "lat": 48.7792239,
+    "lng": 9.2526917,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": null,
+    "phone": "0711330277",
+    "email": "cannabis@alteapo.de",
+    "productCount": 48,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.de/pharmacies/stuttgart-cannabis-alte-apotheke-untertuerkheim-17ec98.png"
+  },
+  "city": {
+    "slug": "stuttgart",
+    "name": "Stuttgart",
+    "pharmacyCount": 6
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "park-apotheke-stuttgart",
+      "name": "Park-Apotheke Stuttgart",
+      "cityName": "Stuttgart",
+      "productCount": 40,
+      "hasDelivery": false
+    },
+    {
+      "slug": "apotheke-im-otto-hirsch-center",
+      "name": "Apotheke im Otto Hirsch Center",
+      "cityName": "Stuttgart",
+      "productCount": 36,
+      "hasDelivery": true
+    },
+    {
+      "slug": "internationale-apotheke-stuttgart",
+      "name": "Internationale Apotheke Stuttgart",
+      "cityName": "Stuttgart",
+      "productCount": 4,
+      "hasDelivery": true
+    },
+    {
+      "slug": "giebel-apotheke",
+      "name": "Giebel Apotheke",
+      "cityName": "Stuttgart",
+      "productCount": 3,
+      "hasDelivery": false
+    },
+    {
+      "slug": "stoeckach-apotheke",
+      "name": "Stöckach-Apotheke",
+      "cityName": "Stuttgart",
+      "productCount": 0,
+      "hasDelivery": false
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Stuttgart Cannabis - Alte Apotheke Untertürkheim - Cannabis Apotheke in Stuttgart",
+      "description": "Stuttgart Cannabis - Alte Apotheke Untertürkheim in Stuttgart. 48 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/stuttgart-cannabis-alte-apotheke-untertuerkheim",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Stuttgart Cannabis - Alte Apotheke Untertürkheim - Cannabis Apotheke in Stuttgart",
+        "description": "Stuttgart Cannabis - Alte Apotheke Untertürkheim in Stuttgart. 48 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/stuttgart-cannabis-alte-apotheke-untertuerkheim",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/pharmacies/stuttgart-cannabis-alte-apotheke-untertuerkheim-17ec98.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Stuttgart",
+        "href": "https://weed.de/cannabis-apotheke/stuttgart"
+      },
+      {
+        "name": "Stuttgart Cannabis - Alte Apotheke Untertürkheim",
+        "href": "https://weed.de/apotheke/stuttgart-cannabis-alte-apotheke-untertuerkheim"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Stuttgart",
+            "item": "https://weed.de/cannabis-apotheke/stuttgart"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Stuttgart Cannabis - Alte Apotheke Untertürkheim",
+            "item": "https://weed.de/apotheke/stuttgart-cannabis-alte-apotheke-untertuerkheim"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Stuttgart Cannabis - Alte Apotheke Untertürkheim",
+        "url": "https://weed.de/apotheke/stuttgart-cannabis-alte-apotheke-untertuerkheim",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Augsburger Straße 383",
+          "addressLocality": "Stuttgart",
+          "postalCode": "70327",
+          "addressRegion": "Baden-Württemberg",
+          "addressCountry": "DE"
+        },
+        "telephone": "0711330277",
+        "email": "cannabis@alteapo.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/stuttgart",
+      "text": "Cannabis Apotheken in Stuttgart",
+      "title": "Alle Apotheken in Stuttgart"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/park-apotheke-stuttgart",
+        "text": "Park-Apotheke Stuttgart",
+        "title": "Park-Apotheke Stuttgart in Stuttgart"
+      },
+      {
+        "href": "/apotheke/apotheke-im-otto-hirsch-center",
+        "text": "Apotheke im Otto Hirsch Center",
+        "title": "Apotheke im Otto Hirsch Center in Stuttgart"
+      },
+      {
+        "href": "/apotheke/internationale-apotheke-stuttgart",
+        "text": "Internationale Apotheke Stuttgart",
+        "title": "Internationale Apotheke Stuttgart in Stuttgart"
+      },
+      {
+        "href": "/apotheke/giebel-apotheke",
+        "text": "Giebel Apotheke",
+        "title": "Giebel Apotheke in Stuttgart"
+      },
+      {
+        "href": "/apotheke/stoeckach-apotheke",
+        "text": "Stöckach-Apotheke",
+        "title": "Stöckach-Apotheke in Stuttgart"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

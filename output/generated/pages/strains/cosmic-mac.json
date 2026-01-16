@@ -1,0 +1,227 @@
+{
+  "strain": {
+    "slug": "cosmic-mac",
+    "name": "Cosmic MAC",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Euphoric",
+      "Creative",
+      "Happy",
+      "Sociable",
+      "Mental ease",
+      "Relaxed",
+      "Mood-lifting",
+      "Stress-relief",
+      "Pain-relief"
+    ],
+    "tastes": [
+      "Menthol",
+      "Fresh",
+      "Tangy",
+      "Diesel",
+      "Gassy",
+      "Fruity",
+      "Sweet",
+      "Flowery"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Linalool",
+      "Pinene"
+    ],
+    "description": "Cosmic MAC ist eine potente und ausgewogene Hybridsorte, die aus der Kreuzung der beliebten MAC (Miracle Alien Cookies) und NC Kush entstanden ist. Mit einem durchschnittlichen THC-Gehalt zwischen 19 % und 24 % und einem CBD-Wert von typischerweise unter 1 % bietet sie eine intensive Wirkungskraft, die sowohl Sativa- als auch Indica-Eigenschaften harmonisch vereint.\n\nDas Aromaprofil ist markant und frisch. Es dominieren würzige Noten von Menthol und kräftiger Kiefer, die von gasartigen Diesel-Nuancen und einem Hauch von Früchten begleitet werden. Geschmacklich zeigt sich eine süße und fruchtige Basis, die im Abgang von einem kräftigen, blumigen Menthol-Aroma abgerundet wird. Das Terpenprofil, angeführt von Caryophyllen, Linalool und Pinen, ist verantwortlich für dieses komplexe Zusammenspiel aus blumiger Schärfe, Waldfrische und Diesel.\n\nDie Wirkung wird als schnell einsetzend und kraftvoll beschrieben. Sie beginnt meist mit einem Schub an Euphorie und mentaler Stimulation, der ein kribbelndes Gefühl von Glück auslöst und sowohl die Geselligkeit als auch die Kreativität fördert. Begleitet wird dieser geistige Zustand von einer wohltuenden körperlichen Entspannung, die beruhigt, ohne zu stark zu sedieren. Aufgrund dieser Balance wird Cosmic MAC therapeutisch häufig zur Linderung von chronischem Stress, Depressionen, Stimmungsschwankungen, chronischen Schmerzen, Krämpfen sowie Muskelspasmen eingesetzt.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 738,
+      "max": 1070,
+      "formatted": {
+        "min": "7,38 €",
+        "max": "10,70 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "sinceritas-sativa-auris-271-cosmic-mac",
+      "name": "Sinceritas Sativa Auris 27/1 Cosmic MAC",
+      "brandName": "Sinceritas",
+      "thcPercent": 26,
+      "priceMin": 738,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "miracle-mints",
+      "name": "Miracle Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "alien-mints",
+      "name": "Alien Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "candy-fumez",
+      "name": "Candy Fumez",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "24k-gold",
+      "name": "24K Gold",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "tribute",
+      "name": "Tribute 7",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cosmic MAC (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Cosmic MAC: Euphoric, Creative, Happy. 1 Produkte verfügbar. ab 7,38 €.",
+      "canonical": "https://weed.de/strain/cosmic-mac",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cosmic MAC (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Cosmic MAC: Euphoric, Creative, Happy. 1 Produkte verfügbar. ab 7,38 €.",
+        "url": "https://weed.de/strain/cosmic-mac",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Cosmic MAC",
+        "href": "https://weed.de/strain/cosmic-mac"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Cosmic MAC",
+            "item": "https://weed.de/strain/cosmic-mac"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Cosmic MAC Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/sinceritas-sativa-auris-271-cosmic-mac",
+            "name": "Sinceritas Sativa Auris 27/1 Cosmic MAC"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/sinceritas-sativa-auris-271-cosmic-mac",
+        "text": "Sinceritas Sativa Auris 27/1 Cosmic MAC",
+        "title": "Sinceritas Sativa Auris 27/1 Cosmic MAC von Sinceritas"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/miracle-mints",
+        "text": "Miracle Mints",
+        "title": "Miracle Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/alien-mints",
+        "text": "Alien Mints",
+        "title": "Alien Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/candy-fumez",
+        "text": "Candy Fumez",
+        "title": "Candy Fumez - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/24k-gold",
+        "text": "24K Gold",
+        "title": "24K Gold - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/tribute",
+        "text": "Tribute 7",
+        "title": "Tribute 7 - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      },
+      {
+        "href": "/terpene/pinene",
+        "text": "Pinene",
+        "title": "Pinene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

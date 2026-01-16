@@ -1,0 +1,254 @@
+{
+  "strain": {
+    "slug": "grape-galena",
+    "name": "Grape Galena",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Uplifted",
+      "Pain-relief",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Citrus",
+      "Musky",
+      "Earthy"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Alpha-Humulene",
+      "Beta-Myrcene"
+    ],
+    "description": "Grape Galena ist eine indica-dominante Hybrid-Sorte mit einem herrlichen Traubenaroma. Diese Sorte kombiniert die Elternsorten OG Kush, Lost Sailor und Platinum Kush. Grape Galena ist für ihre potenten Wirkungen bekannt und weist einen THC-Gehalt von 25,99% und einen CBD-Gehalt unter 1% auf.\nDie dominanten Terpene in Grape Galena sind Limonen, Alpha-Humulene und Beta-Myrcen. Limonen trägt zum zitrusartigen und belebenden Aroma der Sorte bei, während Alpha-Humulene einen Hauch von Erdigkeit und potenzielle entzündungshemmende Eigenschaften hinzufügt. Beta-Myrcen hingegen verleiht einen krautigen und moschusartigen Duft, der die Entspannung fördern und eine beruhigende Wirkung haben kann.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 3,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 499,
+      "max": 900,
+      "formatted": {
+        "min": "4,99 €",
+        "max": "9,00 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "remexian-271-grg",
+      "name": "Remexian 27/1 GRG",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 25.99,
+      "priceMin": 619,
+      "inStock": true
+    },
+    {
+      "slug": "remexian-241-gjy-grg",
+      "name": "Remexian 24/1 GJY GRG",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 21.87,
+      "priceMin": 499,
+      "inStock": true
+    },
+    {
+      "slug": "remexian-21-gjy-grg",
+      "name": "Remexian 20/1 GJY GRG",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 20,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "mandarin-cookies",
+      "name": "Mandarin Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "wonder-punch",
+      "name": "Wonder Punch",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "dawg-bud-fusion",
+      "name": "Dawg Bud Fusion",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "basotho-even",
+      "name": "Basotho Even",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "holy-mints",
+      "name": "Holy Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Grape Galena (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Grape Galena: Uplifted, Pain-relief, Relaxed. 3 Produkte verfügbar. ab 4,99 €.",
+      "canonical": "https://weed.de/strain/grape-galena",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Grape Galena (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Grape Galena: Uplifted, Pain-relief, Relaxed. 3 Produkte verfügbar. ab 4,99 €.",
+        "url": "https://weed.de/strain/grape-galena",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Grape Galena",
+        "href": "https://weed.de/strain/grape-galena"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Grape Galena",
+            "item": "https://weed.de/strain/grape-galena"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Grape Galena Produkte",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/remexian-271-grg",
+            "name": "Remexian 27/1 GRG"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/remexian-241-gjy-grg",
+            "name": "Remexian 24/1 GJY GRG"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/remexian-21-gjy-grg",
+            "name": "Remexian 20/1 GJY GRG"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/remexian-271-grg",
+        "text": "Remexian 27/1 GRG",
+        "title": "Remexian 27/1 GRG von Remexian Pharma"
+      },
+      {
+        "href": "/product/remexian-241-gjy-grg",
+        "text": "Remexian 24/1 GJY GRG",
+        "title": "Remexian 24/1 GJY GRG von Remexian Pharma"
+      },
+      {
+        "href": "/product/remexian-21-gjy-grg",
+        "text": "Remexian 20/1 GJY GRG",
+        "title": "Remexian 20/1 GJY GRG von Remexian Pharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/mandarin-cookies",
+        "text": "Mandarin Cookies",
+        "title": "Mandarin Cookies - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/wonder-punch",
+        "text": "Wonder Punch",
+        "title": "Wonder Punch - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/dawg-bud-fusion",
+        "text": "Dawg Bud Fusion",
+        "title": "Dawg Bud Fusion - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/basotho-even",
+        "text": "Basotho Even",
+        "title": "Basotho Even - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/holy-mints",
+        "text": "Holy Mints",
+        "title": "Holy Mints - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/alpha-humulene",
+        "text": "Alpha-Humulene",
+        "title": "Alpha-Humulene Terpen"
+      },
+      {
+        "href": "/terpene/beta-myrcene",
+        "text": "Beta-Myrcene",
+        "title": "Beta-Myrcene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

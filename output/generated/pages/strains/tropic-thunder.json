@@ -1,0 +1,223 @@
+{
+  "strain": {
+    "slug": "tropic-thunder",
+    "name": "Tropic Thunder",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [
+      "Happy",
+      "Relaxed",
+      "Euphoric",
+      "Anxiety-reducing",
+      "Calming",
+      "Mood-lifting",
+      "Stress-relief"
+    ],
+    "tastes": [
+      "Sage",
+      "Sweet",
+      "Citrus",
+      "Sour",
+      "Tropical",
+      "Pepper"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Pinene",
+      "Limonene"
+    ],
+    "description": "Tropic Thunder ist eine Sativa-dominante Hybridsorte, die für ihre belebende Natur bekannt ist. Genetisch stammt sie von der legendären Maui Wowie ab, die hier mit Gorilla Cookies gekreuzt wurde. Mit einem THC-Gehalt von bis zu 25 % und einem CBD-Wert von unter 0,1 % bietet sie eine solide Wirkungskraft, die geistige Heiterkeit mit körperlicher Gelassenheit verbindet.\n\nDas Aromaprofil ist markant und frisch. Es dominieren Noten von sauren Zitrusfrüchten und süßen tropischen Früchten, die auf interessante Weise von erdigem Salbei und einer leicht pfeffrigen Würze untermalt werden. Das Terpenprofil, angeführt von Myrcen, Pinen und Limonen, ist verantwortlich für dieses ungewöhnliche Bouquet aus fruchtiger Süße und kräuterartiger Tiefe.\n\nDie Wirkung wird als glücklich, entspannt und oft euphorisierend beschrieben. Sie beginnt meist mit einem sanften mentalen Auftrieb, der die Stimmung hebt und nicht selten für Heiterkeit sorgt, während der Körper ruhig und gelöst bleibt. Aufgrund dieser stimmungsaufhellenden und zugleich entspannenden Eigenschaften wird Tropic Thunder therapeutisch häufig zur Linderung von chronischem Stress, Angstzuständen, Depressionen, Entzündungen, Muskelkrämpfen sowie Stimmungsschwankungen eingesetzt.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 489,
+      "max": 893,
+      "formatted": {
+        "min": "4,89 €",
+        "max": "8,93 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "all-nations-tt-251",
+      "name": "All Nations TT 25/1",
+      "brandName": "Cantourage",
+      "thcPercent": 25,
+      "priceMin": 489,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "white-gorilla",
+      "name": "White Gorilla",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "lemon-kush",
+      "name": "Lemon Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "frosted-flakes",
+      "name": "Frosted Flakes",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "mac-3",
+      "name": "MAC 3",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "moon-berry",
+      "name": "Moon Berry",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Tropic Thunder (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Tropic Thunder: Happy, Relaxed, Euphoric. 1 Produkte verfügbar. ab 4,89 €.",
+      "canonical": "https://weed.de/strain/tropic-thunder",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Tropic Thunder (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Tropic Thunder: Happy, Relaxed, Euphoric. 1 Produkte verfügbar. ab 4,89 €.",
+        "url": "https://weed.de/strain/tropic-thunder",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Tropic Thunder",
+        "href": "https://weed.de/strain/tropic-thunder"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Tropic Thunder",
+            "item": "https://weed.de/strain/tropic-thunder"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Tropic Thunder Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/all-nations-tt-251",
+            "name": "All Nations TT 25/1"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/all-nations-tt-251",
+        "text": "All Nations TT 25/1",
+        "title": "All Nations TT 25/1 von Cantourage"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/white-gorilla",
+        "text": "White Gorilla",
+        "title": "White Gorilla - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/lemon-kush",
+        "text": "Lemon Kush",
+        "title": "Lemon Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/frosted-flakes",
+        "text": "Frosted Flakes",
+        "title": "Frosted Flakes - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/mac-3",
+        "text": "MAC 3",
+        "title": "MAC 3 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/moon-berry",
+        "text": "Moon Berry",
+        "title": "Moon Berry - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/pinene",
+        "text": "Pinene",
+        "title": "Pinene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

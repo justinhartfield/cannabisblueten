@@ -1,0 +1,276 @@
+{
+  "strain": {
+    "slug": "glueberry-og",
+    "name": "Glueberry OG",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Relaxed",
+      "Cerebral",
+      "Sociable",
+      "Happy",
+      "Calming"
+    ],
+    "tastes": [
+      "Fruity",
+      "Berry",
+      "Sweet",
+      "Diesel"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Pinene",
+      "Myrcene"
+    ],
+    "description": "Glueberry OG, ein Dreiklang aus bemerkenswerten amerikanischen Hybriden - Gorilla Glue, OG Kush und Blueberry. Diese Sorte vereint die erdigen, scharfen Aromen von Gorilla Glue, die bekannte Wirkung von OG Kush und die süßen Noten von Blueberry, was zu einem einzigartigen Cannabis-Erlebnis führt. Sie ist für ihre potenziellen therapeutischen Eigenschaften bekannt, die Patienten bei Schmerzen, Stress und Angstzuständen helfen können. Ihr einzigartiges Terpenprofil enthält Caryophyllene, Pinene und Myrcene, was dieser ohnehin schon ansprechenden Sorte eine weitere Dimension des potenziellen therapeutischen Nutzens verleiht.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 4,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 329,
+      "max": 585,
+      "formatted": {
+        "min": "3,29 €",
+        "max": "5,85 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "together-pharma-glueberry",
+      "name": "Together Pharma Glueberry",
+      "brandName": "Cantourage",
+      "thcPercent": 17,
+      "priceMin": 399,
+      "inStock": false
+    },
+    {
+      "slug": "bg-gog-glueberry-og",
+      "name": "BG GOG: Glueberry OG",
+      "brandName": "Cantourage",
+      "thcPercent": 23.6,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "together-pharma-gb-181",
+      "name": "Together Pharma GB 18/1",
+      "brandName": "Cantourage",
+      "thcPercent": 18,
+      "priceMin": 329,
+      "inStock": true
+    },
+    {
+      "slug": "together-pharma-gb-211",
+      "name": "Together Pharma GB 21/1",
+      "brandName": "Cantourage",
+      "thcPercent": 21,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "white-gorilla",
+      "name": "White Gorilla",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "auto-bubble-og-gum",
+      "name": "Auto Bubble OG Gum",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "auto-white-runtz",
+      "name": "Auto White Runtz",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "auto-lemon-wonder",
+      "name": "Auto Lemon Wonder",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "pink-rozay",
+      "name": "Pink Rozay",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Glueberry OG (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Glueberry OG: Relaxed, Cerebral, Sociable. 4 Produkte verfügbar. ab 3,29 €.",
+      "canonical": "https://weed.de/strain/glueberry-og",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Glueberry OG (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Glueberry OG: Relaxed, Cerebral, Sociable. 4 Produkte verfügbar. ab 3,29 €.",
+        "url": "https://weed.de/strain/glueberry-og",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Glueberry OG",
+        "href": "https://weed.de/strain/glueberry-og"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Glueberry OG",
+            "item": "https://weed.de/strain/glueberry-og"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Glueberry OG Produkte",
+        "numberOfItems": 4,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/together-pharma-glueberry",
+            "name": "Together Pharma Glueberry"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/bg-gog-glueberry-og",
+            "name": "BG GOG: Glueberry OG"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/together-pharma-gb-181",
+            "name": "Together Pharma GB 18/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/product/together-pharma-gb-211",
+            "name": "Together Pharma GB 21/1"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/together-pharma-glueberry",
+        "text": "Together Pharma Glueberry",
+        "title": "Together Pharma Glueberry von Cantourage"
+      },
+      {
+        "href": "/product/bg-gog-glueberry-og",
+        "text": "BG GOG: Glueberry OG",
+        "title": "BG GOG: Glueberry OG von Cantourage"
+      },
+      {
+        "href": "/product/together-pharma-gb-181",
+        "text": "Together Pharma GB 18/1",
+        "title": "Together Pharma GB 18/1 von Cantourage"
+      },
+      {
+        "href": "/product/together-pharma-gb-211",
+        "text": "Together Pharma GB 21/1",
+        "title": "Together Pharma GB 21/1 von Cantourage"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/white-gorilla",
+        "text": "White Gorilla",
+        "title": "White Gorilla - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/auto-bubble-og-gum",
+        "text": "Auto Bubble OG Gum",
+        "title": "Auto Bubble OG Gum - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/auto-white-runtz",
+        "text": "Auto White Runtz",
+        "title": "Auto White Runtz - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/auto-lemon-wonder",
+        "text": "Auto Lemon Wonder",
+        "title": "Auto Lemon Wonder - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/pink-rozay",
+        "text": "Pink Rozay",
+        "title": "Pink Rozay - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/pinene",
+        "text": "Pinene",
+        "title": "Pinene Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

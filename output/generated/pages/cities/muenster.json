@@ -1,0 +1,275 @@
+{
+  "city": {
+    "slug": "muenster",
+    "name": "Münster",
+    "state": "Nordrhein-Westfalen"
+  },
+  "stats": {
+    "pharmacyCount": 6,
+    "totalProducts": 138,
+    "hasDelivery": true
+  },
+  "pharmacies": [
+    {
+      "slug": "hohenzollern-apotheke",
+      "name": "Hohenzollern Apotheke am Ring",
+      "street": "Hohenzollernring 59",
+      "zip": "48145",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 80,
+      "rating": 5,
+      "ratingCount": 4
+    },
+    {
+      "slug": "bussicann-muenster-apotheke-im-hit",
+      "name": "Bussicann Münster - Partus HIT Apotheke",
+      "street": "Geringhoffstraße 44",
+      "zip": "48163",
+      "hasDelivery": false,
+      "hasPickup": true,
+      "productCount": 38,
+      "rating": 5,
+      "ratingCount": 2
+    },
+    {
+      "slug": "ludgeri-apotheke",
+      "name": "Ludgeri Apotheke",
+      "street": "Windthorststraße 65",
+      "zip": "48143",
+      "hasDelivery": false,
+      "hasPickup": true,
+      "productCount": 18,
+      "rating": 5,
+      "ratingCount": 1
+    },
+    {
+      "slug": "sued-apotheke",
+      "name": "Süd-Apotheke",
+      "street": "Hammer Straße 101",
+      "zip": "48153",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 2,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "kosmas-apotheke-ohg",
+      "name": "Kosmas-Apotheke",
+      "street": "Clemens-August-Platz 12",
+      "zip": "48167",
+      "hasDelivery": false,
+      "hasPickup": true,
+      "productCount": 0,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "test-pharmacy",
+      "name": "Test Pharmacy",
+      "street": "Hohenzollernring 59",
+      "zip": "48145",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 0,
+      "rating": 0,
+      "ratingCount": 0
+    }
+  ],
+  "nearbyCities": [
+    {
+      "slug": "duesseldorf",
+      "name": "Düsseldorf",
+      "pharmacyCount": 9
+    },
+    {
+      "slug": "koeln",
+      "name": "Köln",
+      "pharmacyCount": 7
+    },
+    {
+      "slug": "bonn",
+      "name": "Bonn",
+      "pharmacyCount": 6
+    },
+    {
+      "slug": "dortmund",
+      "name": "Dortmund",
+      "pharmacyCount": 5
+    },
+    {
+      "slug": "paderborn",
+      "name": "Paderborn",
+      "pharmacyCount": 4
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannabis Apotheke Münster - 6 Apotheken",
+      "description": "Cannabis Apotheken in Münster. 6 Apotheken mit 138 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+      "canonical": "https://weed.de/cannabis-apotheke/muenster",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannabis Apotheke Münster - 6 Apotheken",
+        "description": "Cannabis Apotheken in Münster. 6 Apotheken mit 138 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+        "url": "https://weed.de/cannabis-apotheke/muenster",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Münster",
+        "href": "https://weed.de/cannabis-apotheke/muenster"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Münster",
+            "item": "https://weed.de/cannabis-apotheke/muenster"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Cannabis Apotheken in Münster",
+        "numberOfItems": 6,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/apotheke/hohenzollern-apotheke",
+            "name": "Hohenzollern Apotheke am Ring"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/apotheke/bussicann-muenster-apotheke-im-hit",
+            "name": "Bussicann Münster - Partus HIT Apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/apotheke/ludgeri-apotheke",
+            "name": "Ludgeri Apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/apotheke/sued-apotheke",
+            "name": "Süd-Apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "https://weed.de/apotheke/kosmas-apotheke-ohg",
+            "name": "Kosmas-Apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "url": "https://weed.de/apotheke/test-pharmacy",
+            "name": "Test Pharmacy"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "pharmacies": [
+      {
+        "href": "/apotheke/hohenzollern-apotheke",
+        "text": "Hohenzollern Apotheke am Ring",
+        "title": "Hohenzollern Apotheke am Ring in Münster"
+      },
+      {
+        "href": "/apotheke/bussicann-muenster-apotheke-im-hit",
+        "text": "Bussicann Münster - Partus HIT Apotheke",
+        "title": "Bussicann Münster - Partus HIT Apotheke in Münster"
+      },
+      {
+        "href": "/apotheke/ludgeri-apotheke",
+        "text": "Ludgeri Apotheke",
+        "title": "Ludgeri Apotheke in Münster"
+      },
+      {
+        "href": "/apotheke/sued-apotheke",
+        "text": "Süd-Apotheke",
+        "title": "Süd-Apotheke in Münster"
+      },
+      {
+        "href": "/apotheke/kosmas-apotheke-ohg",
+        "text": "Kosmas-Apotheke",
+        "title": "Kosmas-Apotheke in Münster"
+      },
+      {
+        "href": "/apotheke/test-pharmacy",
+        "text": "Test Pharmacy",
+        "title": "Test Pharmacy in Münster"
+      }
+    ],
+    "nearbyCities": [
+      {
+        "href": "/cannabis-apotheke/duesseldorf",
+        "text": "Cannabis Apotheke Düsseldorf",
+        "title": "9 Apotheken in Düsseldorf"
+      },
+      {
+        "href": "/cannabis-apotheke/koeln",
+        "text": "Cannabis Apotheke Köln",
+        "title": "7 Apotheken in Köln"
+      },
+      {
+        "href": "/cannabis-apotheke/bonn",
+        "text": "Cannabis Apotheke Bonn",
+        "title": "6 Apotheken in Bonn"
+      },
+      {
+        "href": "/cannabis-apotheke/dortmund",
+        "text": "Cannabis Apotheke Dortmund",
+        "title": "5 Apotheken in Dortmund"
+      },
+      {
+        "href": "/cannabis-apotheke/paderborn",
+        "text": "Cannabis Apotheke Paderborn",
+        "title": "4 Apotheken in Paderborn"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has 6 pharmacies"
+  }
+}

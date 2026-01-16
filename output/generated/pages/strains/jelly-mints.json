@@ -1,0 +1,255 @@
+{
+  "strain": {
+    "slug": "jelly-mints",
+    "name": "Jelly Mints",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Relaxed",
+      "Euphoric",
+      "Sleepy"
+    ],
+    "tastes": [
+      "Fruity",
+      "Spicy",
+      "Pine"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Linalool",
+      "Limonene"
+    ],
+    "description": "",
+    "imageUrl": "/strains/67c71f63120652dcc0c27c0f-093j16.png"
+  },
+  "stats": {
+    "productCount": 3,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 585,
+      "max": 1200,
+      "formatted": {
+        "min": "5,85 €",
+        "max": "12,00 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "demecan-core-jm7-281",
+      "name": "Demecan Core JM7 28:01",
+      "brandName": "Demecan",
+      "thcPercent": 28,
+      "priceMin": 585,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-jm7-251",
+      "name": "Demecan JM7 25/1",
+      "brandName": "Demecan",
+      "thcPercent": 25,
+      "priceMin": 775,
+      "inStock": false
+    },
+    {
+      "slug": "demecan-core-jm7-311",
+      "name": "Demecan CORE JM7 31:01",
+      "brandName": "Demecan",
+      "thcPercent": 31,
+      "priceMin": 666,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "black-kush",
+      "name": "Black Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "mac-doughnut",
+      "name": "Mac Doughnut",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "fire-og",
+      "name": "Fire OG",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "chem-cookies",
+      "name": "Chemdawg Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "24k-gold",
+      "name": "24K Gold",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Jelly Mints (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Jelly Mints: Relaxed, Euphoric, Sleepy. 3 Produkte verfügbar. ab 5,85 €.",
+      "canonical": "https://weed.de/strain/jelly-mints",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Jelly Mints (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Jelly Mints: Relaxed, Euphoric, Sleepy. 3 Produkte verfügbar. ab 5,85 €.",
+        "url": "https://weed.de/strain/jelly-mints",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "/strains/67c71f63120652dcc0c27c0f-093j16.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Jelly Mints",
+        "href": "https://weed.de/strain/jelly-mints"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Jelly Mints",
+            "item": "https://weed.de/strain/jelly-mints"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Jelly Mints Produkte",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/demecan-core-jm7-281",
+            "name": "Demecan Core JM7 28:01"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/demecan-jm7-251",
+            "name": "Demecan JM7 25/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/demecan-core-jm7-311",
+            "name": "Demecan CORE JM7 31:01"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/demecan-core-jm7-281",
+        "text": "Demecan Core JM7 28:01",
+        "title": "Demecan Core JM7 28:01 von Demecan"
+      },
+      {
+        "href": "/product/demecan-jm7-251",
+        "text": "Demecan JM7 25/1",
+        "title": "Demecan JM7 25/1 von Demecan"
+      },
+      {
+        "href": "/product/demecan-core-jm7-311",
+        "text": "Demecan CORE JM7 31:01",
+        "title": "Demecan CORE JM7 31:01 von Demecan"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/black-kush",
+        "text": "Black Kush",
+        "title": "Black Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/mac-doughnut",
+        "text": "Mac Doughnut",
+        "title": "Mac Doughnut - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/fire-og",
+        "text": "Fire OG",
+        "title": "Fire OG - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/chem-cookies",
+        "text": "Chemdawg Cookies",
+        "title": "Chemdawg Cookies - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/24k-gold",
+        "text": "24K Gold",
+        "title": "24K Gold - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

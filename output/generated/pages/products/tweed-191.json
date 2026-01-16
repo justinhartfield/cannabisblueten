@@ -1,0 +1,238 @@
+{
+  "product": {
+    "slug": "tweed-191",
+    "name": "Tweed 19/1",
+    "type": "flower",
+    "genetics": "hybrid",
+    "thcPercent": 19,
+    "cbdPercent": 1,
+    "priceMin": 395,
+    "priceMax": 535,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": "https://weed.de/products/tweed-191-6h3j77.png"
+  },
+  "brand": {
+    "slug": "canopy-medical",
+    "name": "Canopy Medical",
+    "productCount": 2
+  },
+  "strain": {
+    "slug": "gelato-33",
+    "name": "Gelato 33",
+    "geneticType": "hybrid",
+    "effects": [
+      "Uplifted",
+      "Happy",
+      "Relaxed",
+      "Euphoric",
+      "Dizzy",
+      "Headache"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Myrcene",
+      "Limonene",
+      "Phellandrene",
+      "Bisabolol"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Uplifted",
+      "Happy",
+      "Relaxed",
+      "Euphoric",
+      "Dizzy",
+      "Headache"
+    ],
+    "tastes": [
+      "Fruity",
+      "Sweet",
+      "Vanilla",
+      "Pepper",
+      "Diesel",
+      "Citrus"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Myrcene",
+      "Limonene",
+      "Phellandrene",
+      "Bisabolol"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "tilray-thc-25-spotlight-porto-purps",
+      "name": "Tilray THC 25 Spotlight Porto Purps",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": 349,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc1cbd1",
+      "name": "Tilray Cannabisextrakt THC10:CBD10",
+      "brandName": "Tilray",
+      "thcPercent": 10,
+      "priceMin": 400,
+      "inStock": true
+    },
+    {
+      "slug": "tweed-171-gelato-33",
+      "name": "Tweed 17/1 Gelato 33",
+      "brandName": "Canopy Growth",
+      "thcPercent": 17,
+      "priceMin": 419,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-2",
+      "name": "Demecan Typ 2",
+      "brandName": "Demecan",
+      "thcPercent": 16,
+      "priceMin": 533,
+      "inStock": true
+    },
+    {
+      "slug": "khiron-191-gelato",
+      "name": "Khiron 19/1 Gelato",
+      "brandName": "Khiron",
+      "thcPercent": 17.6,
+      "priceMin": 638,
+      "inStock": true
+    },
+    {
+      "slug": "lot-420-glt",
+      "name": "LOT 420 GLT",
+      "brandName": "Cantourage",
+      "thcPercent": 25,
+      "priceMin": 845,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Tweed 19/1 - Canopy Medical | ab 3,95 €",
+      "description": "Tweed 19/1 von Canopy Medical. THC: 19%, CBD: 1%. Sorte: Gelato 33. Preis ab 3,95 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/tweed-191",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Tweed 19/1 - Canopy Medical | ab 3,95 €",
+        "description": "Tweed 19/1 von Canopy Medical. THC: 19%, CBD: 1%. Sorte: Gelato 33. Preis ab 3,95 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/tweed-191",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/tweed-191-6h3j77.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Canopy Medical",
+        "href": "https://weed.de/brand/canopy-medical"
+      },
+      {
+        "name": "Tweed 19/1",
+        "href": "https://weed.de/product/tweed-191"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Tweed 19/1",
+            "item": "https://weed.de/product/tweed-191"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Tweed 19/1",
+        "brand": {
+          "@type": "Brand",
+          "name": "Canopy Medical"
+        },
+        "description": "THC: 19%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/gelato-33",
+      "text": "Gelato 33",
+      "title": "Gelato 33 Sorte"
+    },
+    "brand": {
+      "href": "/brand/canopy-medical",
+      "text": "Canopy Medical",
+      "title": "Alle Canopy Medical Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/tilray-thc-25-spotlight-porto-purps",
+        "text": "Tilray THC 25 Spotlight Porto Purps",
+        "title": "Alternative: Tilray THC 25 Spotlight Porto Purps"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc1cbd1",
+        "text": "Tilray Cannabisextrakt THC10:CBD10",
+        "title": "Alternative: Tilray Cannabisextrakt THC10:CBD10"
+      },
+      {
+        "href": "/product/tweed-171-gelato-33",
+        "text": "Tweed 17/1 Gelato 33",
+        "title": "Alternative: Tweed 17/1 Gelato 33"
+      },
+      {
+        "href": "/product/demecan-typ-2",
+        "text": "Demecan Typ 2",
+        "title": "Alternative: Demecan Typ 2"
+      },
+      {
+        "href": "/product/khiron-191-gelato",
+        "text": "Khiron 19/1 Gelato",
+        "title": "Alternative: Khiron 19/1 Gelato"
+      },
+      {
+        "href": "/product/lot-420-glt",
+        "text": "LOT 420 GLT",
+        "title": "Alternative: LOT 420 GLT"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

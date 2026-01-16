@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "3koenigen-apotheke",
+    "name": "3Königen Apotheke",
+    "street": "Ostwall 97",
+    "zip": "47799",
+    "cityName": "Krefeld",
+    "state": "Nordrhein-Westfalen",
+    "lat": 51.3306361,
+    "lng": 6.567475099999999,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": null,
+    "phone": "021519132032",
+    "email": "info@3koenigen-apotheke.de",
+    "productCount": 10,
+    "rating": 1,
+    "ratingCount": 1,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/6740628267d721134a69e9c0-bjfe43.jpg"
+  },
+  "city": {
+    "slug": "krefeld",
+    "name": "Krefeld",
+    "pharmacyCount": 4
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "higreen-apotheke",
+      "name": "higreen! Online Marktplatz für Cannabis Apotheken",
+      "cityName": "Krefeld",
+      "productCount": 256,
+      "hasDelivery": true
+    },
+    {
+      "slug": "herbery-krefeld-roland-apotheke",
+      "name": "Herbery Krefeld (Roland Apotheke)",
+      "cityName": "Krefeld",
+      "productCount": 68,
+      "hasDelivery": true
+    },
+    {
+      "slug": "kleeblatt-apotheke-am-ostwall",
+      "name": "Kleeblatt Apotheke am Ostwall (MyWeed24.de)",
+      "cityName": "Krefeld",
+      "productCount": 34,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-zur-alten-post",
+      "name": "Cannacompany (Apotheke zur Alten Post)",
+      "cityName": "Bonn",
+      "productCount": 233,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis-apotheke-essen-glocken-apotheke",
+      "name": "Cannabis Apotheke Essen (Glocken Apotheke)",
+      "cityName": "Essen",
+      "productCount": 174,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "3Königen Apotheke - Cannabis Apotheke in Krefeld",
+      "description": "3Königen Apotheke in Krefeld. 10 Cannabis Produkte. Lieferung & Abholung. Bewertung: 1.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/3koenigen-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "3Königen Apotheke - Cannabis Apotheke in Krefeld",
+        "description": "3Königen Apotheke in Krefeld. 10 Cannabis Produkte. Lieferung & Abholung. Bewertung: 1.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/3koenigen-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/6740628267d721134a69e9c0-bjfe43.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Krefeld",
+        "href": "https://weed.de/cannabis-apotheke/krefeld"
+      },
+      {
+        "name": "3Königen Apotheke",
+        "href": "https://weed.de/apotheke/3koenigen-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Krefeld",
+            "item": "https://weed.de/cannabis-apotheke/krefeld"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "3Königen Apotheke",
+            "item": "https://weed.de/apotheke/3koenigen-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "3Königen Apotheke",
+        "url": "https://weed.de/apotheke/3koenigen-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Ostwall 97",
+          "addressLocality": "Krefeld",
+          "postalCode": "47799",
+          "addressRegion": "Nordrhein-Westfalen",
+          "addressCountry": "DE"
+        },
+        "telephone": "021519132032",
+        "email": "info@3koenigen-apotheke.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/krefeld",
+      "text": "Cannabis Apotheken in Krefeld",
+      "title": "Alle Apotheken in Krefeld"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/higreen-apotheke",
+        "text": "higreen! Online Marktplatz für Cannabis Apotheken",
+        "title": "higreen! Online Marktplatz für Cannabis Apotheken in Krefeld"
+      },
+      {
+        "href": "/apotheke/herbery-krefeld-roland-apotheke",
+        "text": "Herbery Krefeld (Roland Apotheke)",
+        "title": "Herbery Krefeld (Roland Apotheke) in Krefeld"
+      },
+      {
+        "href": "/apotheke/kleeblatt-apotheke-am-ostwall",
+        "text": "Kleeblatt Apotheke am Ostwall (MyWeed24.de)",
+        "title": "Kleeblatt Apotheke am Ostwall (MyWeed24.de) in Krefeld"
+      },
+      {
+        "href": "/apotheke/apotheke-zur-alten-post",
+        "text": "Cannacompany (Apotheke zur Alten Post)",
+        "title": "Cannacompany (Apotheke zur Alten Post) in Bonn"
+      },
+      {
+        "href": "/apotheke/cannabis-apotheke-essen-glocken-apotheke",
+        "text": "Cannabis Apotheke Essen (Glocken Apotheke)",
+        "title": "Cannabis Apotheke Essen (Glocken Apotheke) in Essen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

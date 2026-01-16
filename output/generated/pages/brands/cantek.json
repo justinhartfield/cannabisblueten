@@ -1,0 +1,313 @@
+{
+  "brand": {
+    "slug": "cantek",
+    "name": "Cantek",
+    "productCount": 11
+  },
+  "products": [
+    {
+      "slug": "cannabis-extrakt-aurora-thc-cbd",
+      "name": "Cannabis Extrakt Aurora THC CBD",
+      "type": "extract",
+      "thcPercent": 1.25,
+      "priceMin": 1000,
+      "inStock": true,
+      "strainName": "Cannatonic"
+    },
+    {
+      "slug": "pedanios-201",
+      "name": "Pedanios 20/1",
+      "type": "flower",
+      "thcPercent": 20,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "LA Confidential"
+    },
+    {
+      "slug": "pedanios-88",
+      "name": "Pedanios 8/8",
+      "type": "flower",
+      "thcPercent": 8,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Equiposa"
+    },
+    {
+      "slug": "cannabis-flos-bedica",
+      "name": "Cannabis Flos Bedica",
+      "type": "flower",
+      "thcPercent": 14.2,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Bedica"
+    },
+    {
+      "slug": "pedanios-181",
+      "name": "Pedanios 18/1",
+      "type": "flower",
+      "thcPercent": 18,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Sour Tangie"
+    },
+    {
+      "slug": "cannabis-flos-bediol",
+      "name": "Cannabis Flos Bediol",
+      "type": "flower",
+      "thcPercent": 6.3,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Bediol"
+    },
+    {
+      "slug": "cannabis-flos-bedrocan",
+      "name": "Cannabis Flos Bedrocan",
+      "type": "flower",
+      "thcPercent": 22,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Bedrocan®"
+    },
+    {
+      "slug": "cannabis-flos-bedrobinol",
+      "name": "Cannabis Flos Bedrobinol",
+      "type": "flower",
+      "thcPercent": 13.5,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Bedrobinol"
+    },
+    {
+      "slug": "cannabis-flos-bedrolite",
+      "name": "Cannabis Flos Bedrolite",
+      "type": "flower",
+      "thcPercent": 1,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Bedrolite®"
+    },
+    {
+      "slug": "aurora-221",
+      "name": "Aurora 22/1",
+      "type": "flower",
+      "thcPercent": 22,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Luminarium"
+    },
+    {
+      "slug": "cannabis-extrakt-aurora-thc-25",
+      "name": "Cannabis Extrakt Aurora THC 25",
+      "type": "extract",
+      "thcPercent": 2.5,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "LA Confidential"
+    }
+  ],
+  "stats": {
+    "productCount": 11,
+    "inStockCount": 1,
+    "avgThc": 11.7,
+    "priceRange": {
+      "min": 1000,
+      "max": 1000,
+      "formatted": {
+        "min": "10,00 €",
+        "max": "10,00 €"
+      }
+    }
+  },
+  "seo": {
+    "meta": {
+      "title": "Cantek Cannabis Produkte - 11 Produkte",
+      "description": "Cantek: 11 Cannabis Produkte. 1 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+      "canonical": "https://weed.de/brand/cantek",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cantek Cannabis Produkte - 11 Produkte",
+        "description": "Cantek: 11 Cannabis Produkte. 1 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+        "url": "https://weed.de/brand/cantek",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Hersteller",
+        "href": "https://weed.de/brands"
+      },
+      {
+        "name": "Cantek",
+        "href": "https://weed.de/brand/cantek"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Hersteller",
+            "item": "https://weed.de/brands"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Cantek",
+            "item": "https://weed.de/brand/cantek"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Cantek Produkte",
+        "numberOfItems": 11,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/cannabis-extrakt-aurora-thc-cbd",
+            "name": "Cannabis Extrakt Aurora THC CBD"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/pedanios-201",
+            "name": "Pedanios 20/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/pedanios-88",
+            "name": "Pedanios 8/8"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/product/cannabis-flos-bedica",
+            "name": "Cannabis Flos Bedica"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "https://weed.de/product/pedanios-181",
+            "name": "Pedanios 18/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "url": "https://weed.de/product/cannabis-flos-bediol",
+            "name": "Cannabis Flos Bediol"
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "url": "https://weed.de/product/cannabis-flos-bedrocan",
+            "name": "Cannabis Flos Bedrocan"
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "url": "https://weed.de/product/cannabis-flos-bedrobinol",
+            "name": "Cannabis Flos Bedrobinol"
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "url": "https://weed.de/product/cannabis-flos-bedrolite",
+            "name": "Cannabis Flos Bedrolite"
+          },
+          {
+            "@type": "ListItem",
+            "position": 10,
+            "url": "https://weed.de/product/aurora-221",
+            "name": "Aurora 22/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 11,
+            "url": "https://weed.de/product/cannabis-extrakt-aurora-thc-25",
+            "name": "Cannabis Extrakt Aurora THC 25"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/cannabis-extrakt-aurora-thc-cbd",
+        "text": "Cannabis Extrakt Aurora THC CBD",
+        "title": "Cannabis Extrakt Aurora THC CBD"
+      },
+      {
+        "href": "/product/pedanios-201",
+        "text": "Pedanios 20/1",
+        "title": "Pedanios 20/1"
+      },
+      {
+        "href": "/product/pedanios-88",
+        "text": "Pedanios 8/8",
+        "title": "Pedanios 8/8"
+      },
+      {
+        "href": "/product/cannabis-flos-bedica",
+        "text": "Cannabis Flos Bedica",
+        "title": "Cannabis Flos Bedica"
+      },
+      {
+        "href": "/product/pedanios-181",
+        "text": "Pedanios 18/1",
+        "title": "Pedanios 18/1"
+      },
+      {
+        "href": "/product/cannabis-flos-bediol",
+        "text": "Cannabis Flos Bediol",
+        "title": "Cannabis Flos Bediol"
+      },
+      {
+        "href": "/product/cannabis-flos-bedrocan",
+        "text": "Cannabis Flos Bedrocan",
+        "title": "Cannabis Flos Bedrocan"
+      },
+      {
+        "href": "/product/cannabis-flos-bedrobinol",
+        "text": "Cannabis Flos Bedrobinol",
+        "title": "Cannabis Flos Bedrobinol"
+      },
+      {
+        "href": "/product/cannabis-flos-bedrolite",
+        "text": "Cannabis Flos Bedrolite",
+        "title": "Cannabis Flos Bedrolite"
+      },
+      {
+        "href": "/product/aurora-221",
+        "text": "Aurora 22/1",
+        "title": "Aurora 22/1"
+      },
+      {
+        "href": "/product/cannabis-extrakt-aurora-thc-25",
+        "text": "Cannabis Extrakt Aurora THC 25",
+        "title": "Cannabis Extrakt Aurora THC 25"
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "product": {
+    "slug": "greyscales-am-211",
+    "name": "Greyscales AM 21/1",
+    "type": "flower",
+    "genetics": "hybrid_indica",
+    "thcPercent": 21,
+    "cbdPercent": 1,
+    "priceMin": 494,
+    "priceMax": 761,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": "https://weed.de/products/greyscales-am-211-j5ed83.png"
+  },
+  "brand": {
+    "slug": "cantourage",
+    "name": "Cantourage",
+    "productCount": 248
+  },
+  "strain": {
+    "slug": "animal-mints",
+    "name": "Animal Mints",
+    "geneticType": "hybrid",
+    "effects": [
+      "Relaxed",
+      "Happy",
+      "Giggly",
+      "Hungry",
+      "Sleepy",
+      "Euphoric",
+      "Paranoid"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Bisabolol",
+      "Camphene",
+      "Myrcene",
+      "Caryophyllene",
+      "Carene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Relaxed",
+      "Happy",
+      "Giggly",
+      "Hungry",
+      "Sleepy",
+      "Euphoric",
+      "Paranoid"
+    ],
+    "tastes": [
+      "Mint",
+      "Strawberry",
+      "Tobacco",
+      "Menthol",
+      "Apple"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Bisabolol",
+      "Camphene",
+      "Myrcene",
+      "Caryophyllene",
+      "Carene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "imc-cr7-thc2",
+      "name": "IMC CR7 THC20",
+      "brandName": "IMC",
+      "thcPercent": 20,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "enua-251-cck-ca",
+      "name": "enua 25/1 CCK CA",
+      "brandName": "enua",
+      "thcPercent": 25.2,
+      "priceMin": 399,
+      "inStock": true
+    },
+    {
+      "slug": "thc-akut-fb-27-am",
+      "name": "THC AKUT FB 27 AM",
+      "brandName": "Bathera",
+      "thcPercent": 27,
+      "priceMin": 449,
+      "inStock": true
+    },
+    {
+      "slug": "ceres-no-2",
+      "name": "Ceres No. 2",
+      "brandName": "Cantourage",
+      "thcPercent": 25,
+      "priceMin": 590,
+      "inStock": true
+    },
+    {
+      "slug": "420-natural-221-gg4",
+      "name": "420 Natural 22/1 GG4",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 22,
+      "priceMin": 723,
+      "inStock": true
+    },
+    {
+      "slug": "avaay-241-did",
+      "name": "AVAAY 24/1 DiD",
+      "brandName": "Avaay",
+      "thcPercent": 24,
+      "priceMin": 949,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Greyscales AM 21/1 - Cantourage | ab 4,94 €",
+      "description": "Greyscales AM 21/1 von Cantourage. THC: 21%, CBD: 1%. Sorte: Animal Mints. Preis ab 4,94 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/greyscales-am-211",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Greyscales AM 21/1 - Cantourage | ab 4,94 €",
+        "description": "Greyscales AM 21/1 von Cantourage. THC: 21%, CBD: 1%. Sorte: Animal Mints. Preis ab 4,94 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/greyscales-am-211",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/greyscales-am-211-j5ed83.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Cantourage",
+        "href": "https://weed.de/brand/cantourage"
+      },
+      {
+        "name": "Greyscales AM 21/1",
+        "href": "https://weed.de/product/greyscales-am-211"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Greyscales AM 21/1",
+            "item": "https://weed.de/product/greyscales-am-211"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Greyscales AM 21/1",
+        "brand": {
+          "@type": "Brand",
+          "name": "Cantourage"
+        },
+        "description": "THC: 21%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/animal-mints",
+      "text": "Animal Mints",
+      "title": "Animal Mints Sorte"
+    },
+    "brand": {
+      "href": "/brand/cantourage",
+      "text": "Cantourage",
+      "title": "Alle Cantourage Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/imc-cr7-thc2",
+        "text": "IMC CR7 THC20",
+        "title": "Alternative: IMC CR7 THC20"
+      },
+      {
+        "href": "/product/enua-251-cck-ca",
+        "text": "enua 25/1 CCK CA",
+        "title": "Alternative: enua 25/1 CCK CA"
+      },
+      {
+        "href": "/product/thc-akut-fb-27-am",
+        "text": "THC AKUT FB 27 AM",
+        "title": "Alternative: THC AKUT FB 27 AM"
+      },
+      {
+        "href": "/product/ceres-no-2",
+        "text": "Ceres No. 2",
+        "title": "Alternative: Ceres No. 2"
+      },
+      {
+        "href": "/product/420-natural-221-gg4",
+        "text": "420 Natural 22/1 GG4",
+        "title": "Alternative: 420 Natural 22/1 GG4"
+      },
+      {
+        "href": "/product/avaay-241-did",
+        "text": "AVAAY 24/1 DiD",
+        "title": "Alternative: AVAAY 24/1 DiD"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

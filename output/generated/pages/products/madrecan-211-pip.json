@@ -1,0 +1,225 @@
+{
+  "product": {
+    "slug": "madrecan-211-pip",
+    "name": "madrecan 21/1 PIP",
+    "type": "flower",
+    "genetics": "hybrid_sativa",
+    "thcPercent": 21,
+    "cbdPercent": 1,
+    "priceMin": 375,
+    "priceMax": 429,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Portugal",
+    "imageUrl": "https://weed.de/products/madrecan-211-pip-2jic81.webp"
+  },
+  "brand": {
+    "slug": "remexian-pharma",
+    "name": "Remexian Pharma",
+    "productCount": 340
+  },
+  "strain": {
+    "slug": "pineapple-purps",
+    "name": "Pineapple Purps",
+    "geneticType": "hybrid",
+    "effects": [
+      "Creative",
+      "Focused",
+      "Energetic"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Beta-Caryophyllene",
+      "Beta-Myrcene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Creative",
+      "Focused",
+      "Energetic"
+    ],
+    "tastes": [
+      "Cheese",
+      "Diesel",
+      "Flowery"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Beta-Caryophyllene",
+      "Beta-Myrcene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "avextra-1010",
+      "name": "Avextra 10/10",
+      "brandName": "Avextra",
+      "thcPercent": 1,
+      "priceMin": 279,
+      "inStock": true
+    },
+    {
+      "slug": "amp-classic-251",
+      "name": "AMP Classic 25/1",
+      "brandName": "AMP",
+      "thcPercent": 25,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "weeco-231",
+      "name": "Weeco 23/1",
+      "brandName": "Weeco",
+      "thcPercent": 23,
+      "priceMin": 599,
+      "inStock": true
+    },
+    {
+      "slug": "aurora-221-dhz-ca",
+      "name": "Aurora 22/1 DHZ-CA",
+      "brandName": "Aurora",
+      "thcPercent": 19.8,
+      "priceMin": 640,
+      "inStock": true
+    },
+    {
+      "slug": "420-evolution-271-ca-str",
+      "name": "420 Evolution 27/1 CA STR",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 27,
+      "priceMin": 645,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-221-florestura",
+      "name": "DEMECAN Florestura 22:01",
+      "brandName": "Deutsche Medizinalcannabis",
+      "thcPercent": 22,
+      "priceMin": 679,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "madrecan 21/1 PIP - Remexian Pharma | ab 3,75 €",
+      "description": "madrecan 21/1 PIP von Remexian Pharma. THC: 21%, CBD: 1%. Sorte: Pineapple Purps. Preis ab 3,75 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/madrecan-211-pip",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "madrecan 21/1 PIP - Remexian Pharma | ab 3,75 €",
+        "description": "madrecan 21/1 PIP von Remexian Pharma. THC: 21%, CBD: 1%. Sorte: Pineapple Purps. Preis ab 3,75 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/madrecan-211-pip",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/madrecan-211-pip-2jic81.webp"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Remexian Pharma",
+        "href": "https://weed.de/brand/remexian-pharma"
+      },
+      {
+        "name": "madrecan 21/1 PIP",
+        "href": "https://weed.de/product/madrecan-211-pip"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "madrecan 21/1 PIP",
+            "item": "https://weed.de/product/madrecan-211-pip"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "madrecan 21/1 PIP",
+        "brand": {
+          "@type": "Brand",
+          "name": "Remexian Pharma"
+        },
+        "description": "THC: 21%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/pineapple-purps",
+      "text": "Pineapple Purps",
+      "title": "Pineapple Purps Sorte"
+    },
+    "brand": {
+      "href": "/brand/remexian-pharma",
+      "text": "Remexian Pharma",
+      "title": "Alle Remexian Pharma Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/avextra-1010",
+        "text": "Avextra 10/10",
+        "title": "Alternative: Avextra 10/10"
+      },
+      {
+        "href": "/product/amp-classic-251",
+        "text": "AMP Classic 25/1",
+        "title": "Alternative: AMP Classic 25/1"
+      },
+      {
+        "href": "/product/weeco-231",
+        "text": "Weeco 23/1",
+        "title": "Alternative: Weeco 23/1"
+      },
+      {
+        "href": "/product/aurora-221-dhz-ca",
+        "text": "Aurora 22/1 DHZ-CA",
+        "title": "Alternative: Aurora 22/1 DHZ-CA"
+      },
+      {
+        "href": "/product/420-evolution-271-ca-str",
+        "text": "420 Evolution 27/1 CA STR",
+        "title": "Alternative: 420 Evolution 27/1 CA STR"
+      },
+      {
+        "href": "/product/demecan-221-florestura",
+        "text": "DEMECAN Florestura 22:01",
+        "title": "Alternative: DEMECAN Florestura 22:01"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

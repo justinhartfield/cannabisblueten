@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "apotheke-im-niedersachsenhaus",
+    "name": "Apotheke im Niedersachsenhaus",
+    "street": "Heimfelder Straße 42",
+    "zip": "21075",
+    "cityName": "Hamburg",
+    "state": "Hamburg",
+    "lat": 53.4642378,
+    "lng": 9.956429900000002,
+    "hasDelivery": false,
+    "hasPickup": true,
+    "hasPrices": false,
+    "website": "https://www.apo-im-ndsh.de/",
+    "phone": "04068876052",
+    "email": "apotheke.niedersachsenhaus@gmail.com",
+    "productCount": 10,
+    "rating": 3,
+    "ratingCount": 1,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/66b49037b180f5750f94fc02-5271j0.jpg"
+  },
+  "city": {
+    "slug": "hamburg",
+    "name": "Hamburg",
+    "pharmacyCount": 12
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "aposweet",
+      "name": "ApoSweet",
+      "cityName": "Hamburg",
+      "productCount": 73,
+      "hasDelivery": true
+    },
+    {
+      "slug": "thcundco",
+      "name": "thcundco.de (Arcaden Apotheke OHG)",
+      "cityName": "Hamburg",
+      "productCount": 53,
+      "hasDelivery": true
+    },
+    {
+      "slug": "schwanen-apotheke",
+      "name": "Schwanen-Apotheke",
+      "cityName": "Hamburg",
+      "productCount": 42,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-an-der-friedenseiche",
+      "name": "Apotheke an der Friedenseiche",
+      "cityName": "Hamburg",
+      "productCount": 30,
+      "hasDelivery": true
+    },
+    {
+      "slug": "eulen-apotheke",
+      "name": "Eulen Apotheke",
+      "cityName": "Hamburg",
+      "productCount": 20,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Apotheke im Niedersachsenhaus - Cannabis Apotheke in Hamburg",
+      "description": "Apotheke im Niedersachsenhaus in Hamburg. 10 Cannabis Produkte. Abholung. Bewertung: 3.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/apotheke-im-niedersachsenhaus",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Apotheke im Niedersachsenhaus - Cannabis Apotheke in Hamburg",
+        "description": "Apotheke im Niedersachsenhaus in Hamburg. 10 Cannabis Produkte. Abholung. Bewertung: 3.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/apotheke-im-niedersachsenhaus",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/66b49037b180f5750f94fc02-5271j0.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Hamburg",
+        "href": "https://weed.de/cannabis-apotheke/hamburg"
+      },
+      {
+        "name": "Apotheke im Niedersachsenhaus",
+        "href": "https://weed.de/apotheke/apotheke-im-niedersachsenhaus"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Hamburg",
+            "item": "https://weed.de/cannabis-apotheke/hamburg"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Apotheke im Niedersachsenhaus",
+            "item": "https://weed.de/apotheke/apotheke-im-niedersachsenhaus"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Apotheke im Niedersachsenhaus",
+        "url": "https://weed.de/apotheke/apotheke-im-niedersachsenhaus",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Heimfelder Straße 42",
+          "addressLocality": "Hamburg",
+          "postalCode": "21075",
+          "addressRegion": "Hamburg",
+          "addressCountry": "DE"
+        },
+        "telephone": "04068876052",
+        "email": "apotheke.niedersachsenhaus@gmail.com"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/hamburg",
+      "text": "Cannabis Apotheken in Hamburg",
+      "title": "Alle Apotheken in Hamburg"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/aposweet",
+        "text": "ApoSweet",
+        "title": "ApoSweet in Hamburg"
+      },
+      {
+        "href": "/apotheke/thcundco",
+        "text": "thcundco.de (Arcaden Apotheke OHG)",
+        "title": "thcundco.de (Arcaden Apotheke OHG) in Hamburg"
+      },
+      {
+        "href": "/apotheke/schwanen-apotheke",
+        "text": "Schwanen-Apotheke",
+        "title": "Schwanen-Apotheke in Hamburg"
+      },
+      {
+        "href": "/apotheke/apotheke-an-der-friedenseiche",
+        "text": "Apotheke an der Friedenseiche",
+        "title": "Apotheke an der Friedenseiche in Hamburg"
+      },
+      {
+        "href": "/apotheke/eulen-apotheke",
+        "text": "Eulen Apotheke",
+        "title": "Eulen Apotheke in Hamburg"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

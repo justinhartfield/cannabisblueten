@@ -1,0 +1,225 @@
+{
+  "product": {
+    "slug": "demecan-mc-regular-drop",
+    "name": "Demecan MC Regular Drop",
+    "type": "flower",
+    "genetics": "hybrid_indica",
+    "thcPercent": 24.8,
+    "cbdPercent": 0.1,
+    "priceMin": 690,
+    "priceMax": 750,
+    "inStock": true,
+    "pzn": [],
+    "originCountry": "Kanada",
+    "imageUrl": "https://weed.de/products/mc-regular-drop-710bbd.png"
+  },
+  "brand": {
+    "slug": "demecan",
+    "name": "Demecan",
+    "productCount": 168
+  },
+  "strain": {
+    "slug": "sherbet-mints",
+    "name": "Sherbert Mints",
+    "geneticType": "hybrid",
+    "effects": [
+      "Creative",
+      "Relaxed",
+      "Happy"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Linalool",
+      "Limonene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Creative",
+      "Relaxed",
+      "Happy"
+    ],
+    "tastes": [
+      "Mint",
+      "Lime"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Linalool",
+      "Limonene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "enua-251-cck-ca",
+      "name": "enua 25/1 CCK CA",
+      "brandName": "enua",
+      "thcPercent": 25.2,
+      "priceMin": 399,
+      "inStock": true
+    },
+    {
+      "slug": "ceres-no-2",
+      "name": "Ceres No. 2",
+      "brandName": "Cantourage",
+      "thcPercent": 25,
+      "priceMin": 590,
+      "inStock": true
+    },
+    {
+      "slug": "420-evolution-271-ca-icc",
+      "name": "420 EVOLUTION 27/1 CA ICC",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 27,
+      "priceMin": 684,
+      "inStock": true
+    },
+    {
+      "slug": "420-natural-221-gg4",
+      "name": "420 Natural 22/1 GG4",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 22,
+      "priceMin": 723,
+      "inStock": true
+    },
+    {
+      "slug": "avaay-241-sk",
+      "name": "AVAAY 24/1 SK",
+      "brandName": "Vayamed",
+      "thcPercent": 24,
+      "priceMin": 899,
+      "inStock": true
+    },
+    {
+      "slug": "avaay-241-did",
+      "name": "AVAAY 24/1 DiD",
+      "brandName": "Avaay",
+      "thcPercent": 24,
+      "priceMin": 949,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Demecan MC Regular Drop | ab 6,90 €",
+      "description": "Demecan MC Regular Drop von Demecan. THC: 24.8%, CBD: 0.1%. Sorte: Sherbert Mints. Preis ab 6,90 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/demecan-mc-regular-drop",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Demecan MC Regular Drop | ab 6,90 €",
+        "description": "Demecan MC Regular Drop von Demecan. THC: 24.8%, CBD: 0.1%. Sorte: Sherbert Mints. Preis ab 6,90 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/demecan-mc-regular-drop",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/mc-regular-drop-710bbd.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Demecan",
+        "href": "https://weed.de/brand/demecan"
+      },
+      {
+        "name": "Demecan MC Regular Drop",
+        "href": "https://weed.de/product/demecan-mc-regular-drop"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Demecan MC Regular Drop",
+            "item": "https://weed.de/product/demecan-mc-regular-drop"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Demecan MC Regular Drop",
+        "brand": {
+          "@type": "Brand",
+          "name": "Demecan"
+        },
+        "gtin13": [],
+        "description": "THC: 24.8%, CBD: 0.1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/sherbet-mints",
+      "text": "Sherbert Mints",
+      "title": "Sherbert Mints Sorte"
+    },
+    "brand": {
+      "href": "/brand/demecan",
+      "text": "Demecan",
+      "title": "Alle Demecan Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/enua-251-cck-ca",
+        "text": "enua 25/1 CCK CA",
+        "title": "Alternative: enua 25/1 CCK CA"
+      },
+      {
+        "href": "/product/ceres-no-2",
+        "text": "Ceres No. 2",
+        "title": "Alternative: Ceres No. 2"
+      },
+      {
+        "href": "/product/420-evolution-271-ca-icc",
+        "text": "420 EVOLUTION 27/1 CA ICC",
+        "title": "Alternative: 420 EVOLUTION 27/1 CA ICC"
+      },
+      {
+        "href": "/product/420-natural-221-gg4",
+        "text": "420 Natural 22/1 GG4",
+        "title": "Alternative: 420 Natural 22/1 GG4"
+      },
+      {
+        "href": "/product/avaay-241-sk",
+        "text": "AVAAY 24/1 SK",
+        "title": "Alternative: AVAAY 24/1 SK"
+      },
+      {
+        "href": "/product/avaay-241-did",
+        "text": "AVAAY 24/1 DiD",
+        "title": "Alternative: AVAAY 24/1 DiD"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

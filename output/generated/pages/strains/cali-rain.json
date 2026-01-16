@@ -1,0 +1,216 @@
+{
+  "strain": {
+    "slug": "cali-rain",
+    "name": "Cali Rain",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Euphoric",
+      "Relaxed",
+      "Sociable"
+    ],
+    "tastes": [
+      "Diesel",
+      "Earthy",
+      "Tropical"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 945,
+      "max": 945,
+      "formatted": {
+        "min": "9,45 €",
+        "max": "9,45 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "citizen-labs-cr-321-cali-rain",
+      "name": "Citizen Labs CR 32/1",
+      "brandName": "Cantourage",
+      "thcPercent": 32,
+      "priceMin": 945,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "alien-mints",
+      "name": "Alien Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "chapel-of-love",
+      "name": "Chapel Of Love",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "purple-amnesia",
+      "name": "Purple Amnesia",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "gogurtz",
+      "name": "Gogurtz",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "proxy",
+      "name": "Proxy",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cali Rain (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Cali Rain: Euphoric, Relaxed, Sociable. 1 Produkte verfügbar. ab 9,45 €.",
+      "canonical": "https://weed.de/strain/cali-rain",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cali Rain (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Cali Rain: Euphoric, Relaxed, Sociable. 1 Produkte verfügbar. ab 9,45 €.",
+        "url": "https://weed.de/strain/cali-rain",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Cali Rain",
+        "href": "https://weed.de/strain/cali-rain"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Cali Rain",
+            "item": "https://weed.de/strain/cali-rain"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Cali Rain Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/citizen-labs-cr-321-cali-rain",
+            "name": "Citizen Labs CR 32/1"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/citizen-labs-cr-321-cali-rain",
+        "text": "Citizen Labs CR 32/1",
+        "title": "Citizen Labs CR 32/1 von Cantourage"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/alien-mints",
+        "text": "Alien Mints",
+        "title": "Alien Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/chapel-of-love",
+        "text": "Chapel Of Love",
+        "title": "Chapel Of Love - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/purple-amnesia",
+        "text": "Purple Amnesia",
+        "title": "Purple Amnesia - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/gogurtz",
+        "text": "Gogurtz",
+        "title": "Gogurtz - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/proxy",
+        "text": "Proxy",
+        "title": "Proxy - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

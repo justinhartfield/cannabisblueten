@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "5k-goethe-apotheke",
+    "name": "5K Goethe Apotheke",
+    "street": "Frankfurt am Main, Deutschland",
+    "zip": "",
+    "cityName": "Frankfurt am Main",
+    "state": "Hessen",
+    "lat": 50.1109221,
+    "lng": 8.6821267,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": null,
+    "phone": "069556621",
+    "email": "cannabis@5k-apotheken.de",
+    "productCount": 8,
+    "rating": 5,
+    "ratingCount": 1,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/67442ea867d721134a6deab6-ci0c6a.jpg"
+  },
+  "city": {
+    "slug": "frankfurt-am-main",
+    "name": "Frankfurt am Main",
+    "pharmacyCount": 6
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "cannabis-apotheke-frankfurtkissel-apotheke",
+      "name": "Cannabis Apotheke Frankfurt/Kissel-Apotheke",
+      "cityName": "Frankfurt am Main",
+      "productCount": 183,
+      "hasDelivery": true
+    },
+    {
+      "slug": "prinzenapotheke",
+      "name": "Prinzenapotheke",
+      "cityName": "Frankfurt am Main",
+      "productCount": 38,
+      "hasDelivery": true
+    },
+    {
+      "slug": "adler-apotheke-3",
+      "name": "Adler Cannabis Frankfurt",
+      "cityName": "Frankfurt am Main",
+      "productCount": 27,
+      "hasDelivery": true
+    },
+    {
+      "slug": "wynter-moses",
+      "name": "Wynter Moses",
+      "cityName": "Frankfurt am Main",
+      "productCount": 0,
+      "hasDelivery": false
+    },
+    {
+      "slug": "izabella-pharmacy",
+      "name": "Izabella Pharmacy",
+      "cityName": "Frankfurt am Main",
+      "productCount": 0,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "5K Goethe Apotheke - Cannabis Apotheke in Frankfurt am Main",
+      "description": "5K Goethe Apotheke in Frankfurt am Main. 8 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/5k-goethe-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "5K Goethe Apotheke - Cannabis Apotheke in Frankfurt am Main",
+        "description": "5K Goethe Apotheke in Frankfurt am Main. 8 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/5k-goethe-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/67442ea867d721134a6deab6-ci0c6a.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Frankfurt am Main",
+        "href": "https://weed.de/cannabis-apotheke/frankfurt-am-main"
+      },
+      {
+        "name": "5K Goethe Apotheke",
+        "href": "https://weed.de/apotheke/5k-goethe-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Frankfurt am Main",
+            "item": "https://weed.de/cannabis-apotheke/frankfurt-am-main"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "5K Goethe Apotheke",
+            "item": "https://weed.de/apotheke/5k-goethe-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "5K Goethe Apotheke",
+        "url": "https://weed.de/apotheke/5k-goethe-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Frankfurt am Main, Deutschland",
+          "addressLocality": "Frankfurt am Main",
+          "postalCode": "",
+          "addressRegion": "Hessen",
+          "addressCountry": "DE"
+        },
+        "telephone": "069556621",
+        "email": "cannabis@5k-apotheken.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/frankfurt-am-main",
+      "text": "Cannabis Apotheken in Frankfurt am Main",
+      "title": "Alle Apotheken in Frankfurt am Main"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/cannabis-apotheke-frankfurtkissel-apotheke",
+        "text": "Cannabis Apotheke Frankfurt/Kissel-Apotheke",
+        "title": "Cannabis Apotheke Frankfurt/Kissel-Apotheke in Frankfurt am Main"
+      },
+      {
+        "href": "/apotheke/prinzenapotheke",
+        "text": "Prinzenapotheke",
+        "title": "Prinzenapotheke in Frankfurt am Main"
+      },
+      {
+        "href": "/apotheke/adler-apotheke-3",
+        "text": "Adler Cannabis Frankfurt",
+        "title": "Adler Cannabis Frankfurt in Frankfurt am Main"
+      },
+      {
+        "href": "/apotheke/wynter-moses",
+        "text": "Wynter Moses",
+        "title": "Wynter Moses in Frankfurt am Main"
+      },
+      {
+        "href": "/apotheke/izabella-pharmacy",
+        "text": "Izabella Pharmacy",
+        "title": "Izabella Pharmacy in Frankfurt am Main"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

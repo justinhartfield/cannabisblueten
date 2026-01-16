@@ -1,0 +1,236 @@
+{
+  "product": {
+    "slug": "medical-saints-211-lem",
+    "name": "Medical Saints 21/1 LEM",
+    "type": "flower",
+    "genetics": "sativa",
+    "thcPercent": 21,
+    "cbdPercent": 1,
+    "priceMin": 375,
+    "priceMax": 779,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": "https://weed.de/products/medical-saints-211-lem-45gh52.png"
+  },
+  "brand": {
+    "slug": "medical-saints",
+    "name": "Medical Saints",
+    "productCount": 3
+  },
+  "strain": {
+    "slug": "lemonatti",
+    "name": "Lemonatti",
+    "geneticType": "hybrid",
+    "effects": [
+      "Creative",
+      "Focused",
+      "Euphoric",
+      "Mood-lifting",
+      "Stress-relief",
+      "Pain-relief",
+      "Relaxed"
+    ],
+    "terpenes": [
+      "Pinene",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Creative",
+      "Focused",
+      "Euphoric",
+      "Mood-lifting",
+      "Stress-relief",
+      "Pain-relief",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Flowery",
+      "Citrus",
+      "Earthy",
+      "Berry",
+      "Lemon",
+      "Sweet"
+    ],
+    "terpenes": [
+      "Pinene",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "daily-special-211-lem",
+      "name": "Daily Special 21/1 LEM",
+      "brandName": "Aurora",
+      "thcPercent": 21,
+      "priceMin": 477,
+      "inStock": true
+    },
+    {
+      "slug": "aurora-typ-1",
+      "name": "Aurora Typ 1",
+      "brandName": "Aurora",
+      "thcPercent": 19,
+      "priceMin": 479,
+      "inStock": true
+    },
+    {
+      "slug": "vop-231-marios-selection",
+      "name": "VOP 23/1 Marios Selection",
+      "brandName": "YouCann GmbH",
+      "thcPercent": 23,
+      "priceMin": 599,
+      "inStock": true
+    },
+    {
+      "slug": "pedanios-22-1",
+      "name": "Pedanios 22/1",
+      "brandName": "Aurora",
+      "thcPercent": 22,
+      "priceMin": 629,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-sativa-forte-tc",
+      "name": "Cannamedical Sativa forte TC",
+      "brandName": "Cannamedical",
+      "thcPercent": 24,
+      "priceMin": 683,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-sativa-classic-tc",
+      "name": "Cannamedical Sativa classic TC",
+      "brandName": "Cannamedical",
+      "thcPercent": 20,
+      "priceMin": 755,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Medical Saints 21/1 LEM | ab 3,75 €",
+      "description": "Medical Saints 21/1 LEM von Medical Saints. THC: 21%, CBD: 1%. Sorte: Lemonatti. Preis ab 3,75 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/medical-saints-211-lem",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Medical Saints 21/1 LEM | ab 3,75 €",
+        "description": "Medical Saints 21/1 LEM von Medical Saints. THC: 21%, CBD: 1%. Sorte: Lemonatti. Preis ab 3,75 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/medical-saints-211-lem",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/medical-saints-211-lem-45gh52.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Medical Saints",
+        "href": "https://weed.de/brand/medical-saints"
+      },
+      {
+        "name": "Medical Saints 21/1 LEM",
+        "href": "https://weed.de/product/medical-saints-211-lem"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Medical Saints 21/1 LEM",
+            "item": "https://weed.de/product/medical-saints-211-lem"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Medical Saints 21/1 LEM",
+        "brand": {
+          "@type": "Brand",
+          "name": "Medical Saints"
+        },
+        "description": "THC: 21%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/lemonatti",
+      "text": "Lemonatti",
+      "title": "Lemonatti Sorte"
+    },
+    "brand": {
+      "href": "/brand/medical-saints",
+      "text": "Medical Saints",
+      "title": "Alle Medical Saints Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/daily-special-211-lem",
+        "text": "Daily Special 21/1 LEM",
+        "title": "Alternative: Daily Special 21/1 LEM"
+      },
+      {
+        "href": "/product/aurora-typ-1",
+        "text": "Aurora Typ 1",
+        "title": "Alternative: Aurora Typ 1"
+      },
+      {
+        "href": "/product/vop-231-marios-selection",
+        "text": "VOP 23/1 Marios Selection",
+        "title": "Alternative: VOP 23/1 Marios Selection"
+      },
+      {
+        "href": "/product/pedanios-22-1",
+        "text": "Pedanios 22/1",
+        "title": "Alternative: Pedanios 22/1"
+      },
+      {
+        "href": "/product/cannamedical-sativa-forte-tc",
+        "text": "Cannamedical Sativa forte TC",
+        "title": "Alternative: Cannamedical Sativa forte TC"
+      },
+      {
+        "href": "/product/cannamedical-sativa-classic-tc",
+        "text": "Cannamedical Sativa classic TC",
+        "title": "Alternative: Cannamedical Sativa classic TC"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

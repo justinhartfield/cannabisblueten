@@ -1,0 +1,226 @@
+{
+  "brand": {
+    "slug": "aphria",
+    "name": "Aphria",
+    "productCount": 7
+  },
+  "products": [
+    {
+      "slug": "aphria-forte-9",
+      "name": "Aphria Forte 9",
+      "type": "flower",
+      "thcPercent": 20,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Jean Guy"
+    },
+    {
+      "slug": "aphria-medium-7",
+      "name": "Aphria Medium 7",
+      "type": "flower",
+      "thcPercent": 16,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "White Widow"
+    },
+    {
+      "slug": "aphria-8-cca",
+      "name": "Aphria 8 CCA",
+      "type": "flower",
+      "thcPercent": 20,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Henik"
+    },
+    {
+      "slug": "aphria-200-cannabisextrakt-cca",
+      "name": "Aphria 20/0 Cannabisextrakt CCA",
+      "type": "extract",
+      "thcPercent": 2,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Henik"
+    },
+    {
+      "slug": "aphria-1013-cannabisextrakt-cca",
+      "name": "Aphria 10/13 Cannabisextrakt CCA",
+      "type": "extract",
+      "thcPercent": 1,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Henik"
+    },
+    {
+      "slug": "aphria-strong-9",
+      "name": "Aphria Strong 9",
+      "type": "flower",
+      "thcPercent": 20,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Jean Guy"
+    },
+    {
+      "slug": "aphria-strong-8",
+      "name": "Aphria Strong 8",
+      "type": "flower",
+      "thcPercent": 20,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Henik"
+    }
+  ],
+  "stats": {
+    "productCount": 7,
+    "inStockCount": 0,
+    "avgThc": 14.1,
+    "priceRange": null
+  },
+  "seo": {
+    "meta": {
+      "title": "Aphria Cannabis Produkte - 7 Produkte",
+      "description": "Aphria: 7 Cannabis Produkte. 0 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+      "canonical": "https://weed.de/brand/aphria",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Aphria Cannabis Produkte - 7 Produkte",
+        "description": "Aphria: 7 Cannabis Produkte. 0 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+        "url": "https://weed.de/brand/aphria",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Hersteller",
+        "href": "https://weed.de/brands"
+      },
+      {
+        "name": "Aphria",
+        "href": "https://weed.de/brand/aphria"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Hersteller",
+            "item": "https://weed.de/brands"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Aphria",
+            "item": "https://weed.de/brand/aphria"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Aphria Produkte",
+        "numberOfItems": 7,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/aphria-forte-9",
+            "name": "Aphria Forte 9"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/aphria-medium-7",
+            "name": "Aphria Medium 7"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/aphria-8-cca",
+            "name": "Aphria 8 CCA"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/product/aphria-200-cannabisextrakt-cca",
+            "name": "Aphria 20/0 Cannabisextrakt CCA"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "https://weed.de/product/aphria-1013-cannabisextrakt-cca",
+            "name": "Aphria 10/13 Cannabisextrakt CCA"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "url": "https://weed.de/product/aphria-strong-9",
+            "name": "Aphria Strong 9"
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "url": "https://weed.de/product/aphria-strong-8",
+            "name": "Aphria Strong 8"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/aphria-forte-9",
+        "text": "Aphria Forte 9",
+        "title": "Aphria Forte 9"
+      },
+      {
+        "href": "/product/aphria-medium-7",
+        "text": "Aphria Medium 7",
+        "title": "Aphria Medium 7"
+      },
+      {
+        "href": "/product/aphria-8-cca",
+        "text": "Aphria 8 CCA",
+        "title": "Aphria 8 CCA"
+      },
+      {
+        "href": "/product/aphria-200-cannabisextrakt-cca",
+        "text": "Aphria 20/0 Cannabisextrakt CCA",
+        "title": "Aphria 20/0 Cannabisextrakt CCA"
+      },
+      {
+        "href": "/product/aphria-1013-cannabisextrakt-cca",
+        "text": "Aphria 10/13 Cannabisextrakt CCA",
+        "title": "Aphria 10/13 Cannabisextrakt CCA"
+      },
+      {
+        "href": "/product/aphria-strong-9",
+        "text": "Aphria Strong 9",
+        "title": "Aphria Strong 9"
+      },
+      {
+        "href": "/product/aphria-strong-8",
+        "text": "Aphria Strong 8",
+        "title": "Aphria Strong 8"
+      }
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "strain": {
+    "slug": "kerosane-crash",
+    "name": "Kerosane Crash",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": null,
+      "max": null
+    },
+    "effects": [],
+    "tastes": [],
+    "terpenes": [],
+    "description": null,
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 789,
+      "max": 789,
+      "formatted": {
+        "min": "7,89 €",
+        "max": "7,89 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "blackbird-plain-indica",
+      "name": "Blackbird Plain Indica",
+      "brandName": "Cantourage",
+      "thcPercent": 14.9,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "cannamedical-indica-classic-nm-221",
+      "name": "Cannamedical Indica Classic NM 22/1",
+      "brandName": "Cannamedical",
+      "thcPercent": 21,
+      "priceMin": 789,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [],
+  "seo": {
+    "meta": {
+      "title": "Kerosane Crash (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Kerosane Crash Cannabis Sorte. 2 Produkte verfügbar. ab 7,89 €.",
+      "canonical": "https://weed.de/strain/kerosane-crash",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Kerosane Crash (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Kerosane Crash Cannabis Sorte. 2 Produkte verfügbar. ab 7,89 €.",
+        "url": "https://weed.de/strain/kerosane-crash",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Kerosane Crash",
+        "href": "https://weed.de/strain/kerosane-crash"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Kerosane Crash",
+            "item": "https://weed.de/strain/kerosane-crash"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Kerosane Crash Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/blackbird-plain-indica",
+            "name": "Blackbird Plain Indica"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/cannamedical-indica-classic-nm-221",
+            "name": "Cannamedical Indica Classic NM 22/1"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/blackbird-plain-indica",
+        "text": "Blackbird Plain Indica",
+        "title": "Blackbird Plain Indica von Cantourage"
+      },
+      {
+        "href": "/product/cannamedical-indica-classic-nm-221",
+        "text": "Cannamedical Indica Classic NM 22/1",
+        "title": "Cannamedical Indica Classic NM 22/1 von Cannamedical"
+      }
+    ],
+    "similarStrains": [],
+    "terpenes": []
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

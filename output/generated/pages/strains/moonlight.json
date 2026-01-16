@@ -1,0 +1,242 @@
+{
+  "strain": {
+    "slug": "moonlight",
+    "name": "Moonlight",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [
+      "Happy",
+      "Relaxed",
+      "Sociable",
+      "Anxiety-reducing",
+      "Mood-lifting",
+      "Stress-relief"
+    ],
+    "tastes": [
+      "Earthy",
+      "Citrus",
+      "Sweet",
+      "Fruity",
+      "Sour",
+      "Creamy",
+      "Pine"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Alpha-Pinene"
+    ],
+    "description": "Moonlight, auch bekannt unter dem Namen Velvet Moon, ist eine leicht Indica-dominierte Hybridsorte, die aus der Kreuzung der berühmten Dosidos und Holy Punch entstanden ist. Mit einem hohen THC-Gehalt, der sich häufig zwischen 25 % und 31 % bewegt, und einem CBD-Wert von unter 0,1 % bietet sie ein potentes Erlebnis, das mit einem genetischen Verhältnis von etwa 60 % Indica zu 40 % Sativa eine ausgewogene Balance schafft.\n\nDas Aromaprofil zeichnet sich durch eine harmonische Mischung aus süßen und fruchtigen Noten aus, die auf zitronig-saure und erdige Nuancen treffen. Ergänzt wird dieses Bouquet durch eine cremige Tiefe im Abgang. Das Terpenprofil, angeführt von Myrcen, Limonen und Alpha-Pinen, ist verantwortlich für dieses intensive Zusammenspiel aus Fruchtsüße, säuerlicher Frische und natürlichen Waldaromen.\n\nDie Wirkung setzt meist schnell ein und beginnt mit einem intensiven mentalen Effekt, der allmählich in ein langanhaltendes Gefühl von Glück, Geselligkeit und tiefem Wohlbefinden übergeht. Aufgrund dieser stimmungsaufhellenden und zugleich entspannenden Eigenschaften wird Moonlight therapeutisch häufig zur Linderung von Stress, Depressionen sowie Angstzuständen eingesetzt.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 789,
+      "max": 789,
+      "formatted": {
+        "min": "7,89 €",
+        "max": "7,89 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "nedcann-ml-2501-moonlight",
+      "name": "NEDCANN ML 25/01 Moonlight",
+      "brandName": "California's Medical",
+      "thcPercent": 25,
+      "priceMin": 789,
+      "inStock": true
+    },
+    {
+      "slug": "nedcann-orb-311-moonlight",
+      "name": "Nedcann ORB 31/01 Moonlight",
+      "brandName": "California's Medical",
+      "thcPercent": 31,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "hifi-4g",
+      "name": "HiFi 4G",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "tigerz-eye",
+      "name": "Tigerz Eye",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "chapel-of-love",
+      "name": "Chapel Of Love",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "purple-amnesia",
+      "name": "Purple Amnesia",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "tropic-thunder",
+      "name": "Tropic Thunder",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Moonlight (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Moonlight: Happy, Relaxed, Sociable. 2 Produkte verfügbar. ab 7,89 €.",
+      "canonical": "https://weed.de/strain/moonlight",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Moonlight (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Moonlight: Happy, Relaxed, Sociable. 2 Produkte verfügbar. ab 7,89 €.",
+        "url": "https://weed.de/strain/moonlight",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Moonlight",
+        "href": "https://weed.de/strain/moonlight"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Moonlight",
+            "item": "https://weed.de/strain/moonlight"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Moonlight Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/nedcann-ml-2501-moonlight",
+            "name": "NEDCANN ML 25/01 Moonlight"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/nedcann-orb-311-moonlight",
+            "name": "Nedcann ORB 31/01 Moonlight"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/nedcann-ml-2501-moonlight",
+        "text": "NEDCANN ML 25/01 Moonlight",
+        "title": "NEDCANN ML 25/01 Moonlight von California's Medical"
+      },
+      {
+        "href": "/product/nedcann-orb-311-moonlight",
+        "text": "Nedcann ORB 31/01 Moonlight",
+        "title": "Nedcann ORB 31/01 Moonlight von California's Medical"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/hifi-4g",
+        "text": "HiFi 4G",
+        "title": "HiFi 4G - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/tigerz-eye",
+        "text": "Tigerz Eye",
+        "title": "Tigerz Eye - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/chapel-of-love",
+        "text": "Chapel Of Love",
+        "title": "Chapel Of Love - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/purple-amnesia",
+        "text": "Purple Amnesia",
+        "title": "Purple Amnesia - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/tropic-thunder",
+        "text": "Tropic Thunder",
+        "title": "Tropic Thunder - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/alpha-pinene",
+        "text": "Alpha-Pinene",
+        "title": "Alpha-Pinene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

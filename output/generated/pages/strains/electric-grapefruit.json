@@ -1,0 +1,235 @@
+{
+  "strain": {
+    "slug": "electric-grapefruit",
+    "name": "Electric Grapefruit",
+    "geneticType": "sativa",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [
+      "Focused",
+      "Happy",
+      "Energetic"
+    ],
+    "tastes": [
+      "Earthy",
+      "Diesel",
+      "Herbal"
+    ],
+    "terpenes": [
+      "Terpinolene",
+      "D-Limonene",
+      "Alpha-Humulene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 399,
+      "max": 599,
+      "formatted": {
+        "min": "3,99 €",
+        "max": "5,99 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "enua-221-eg-ca",
+      "name": "enua 22/1 EG CA",
+      "brandName": "enua",
+      "thcPercent": 22,
+      "priceMin": 419,
+      "inStock": true
+    },
+    {
+      "slug": "slouu-221-eg-ca",
+      "name": "Slouu 22/1 EG CA",
+      "brandName": "enua",
+      "thcPercent": 22,
+      "priceMin": 399,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "durban-poison",
+      "name": "Durban Poison",
+      "geneticType": "sativa",
+      "thcMax": null
+    },
+    {
+      "slug": "amsterdam-amnesia",
+      "name": "Amsterdam Amnesia",
+      "geneticType": "sativa",
+      "thcMax": null
+    },
+    {
+      "slug": "landrace-from-south-africa",
+      "name": "Landrace from South Africa",
+      "geneticType": "sativa",
+      "thcMax": null
+    },
+    {
+      "slug": "dr-grinspoon",
+      "name": "Dr Grinspoon",
+      "geneticType": "sativa",
+      "thcMax": null
+    },
+    {
+      "slug": "og-lime-kush",
+      "name": "OG Lime Kush",
+      "geneticType": "sativa",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Electric Grapefruit (Sativa) - Wirkung, THC & Verfügbarkeit",
+      "description": "Electric Grapefruit: Focused, Happy, Energetic. 2 Produkte verfügbar. ab 3,99 €.",
+      "canonical": "https://weed.de/strain/electric-grapefruit",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Electric Grapefruit (Sativa) - Wirkung, THC & Verfügbarkeit",
+        "description": "Electric Grapefruit: Focused, Happy, Energetic. 2 Produkte verfügbar. ab 3,99 €.",
+        "url": "https://weed.de/strain/electric-grapefruit",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Electric Grapefruit",
+        "href": "https://weed.de/strain/electric-grapefruit"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Electric Grapefruit",
+            "item": "https://weed.de/strain/electric-grapefruit"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Electric Grapefruit Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/enua-221-eg-ca",
+            "name": "enua 22/1 EG CA"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/slouu-221-eg-ca",
+            "name": "Slouu 22/1 EG CA"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/enua-221-eg-ca",
+        "text": "enua 22/1 EG CA",
+        "title": "enua 22/1 EG CA von enua"
+      },
+      {
+        "href": "/product/slouu-221-eg-ca",
+        "text": "Slouu 22/1 EG CA",
+        "title": "Slouu 22/1 EG CA von enua"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/durban-poison",
+        "text": "Durban Poison",
+        "title": "Durban Poison - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/amsterdam-amnesia",
+        "text": "Amsterdam Amnesia",
+        "title": "Amsterdam Amnesia - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/landrace-from-south-africa",
+        "text": "Landrace from South Africa",
+        "title": "Landrace from South Africa - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/dr-grinspoon",
+        "text": "Dr Grinspoon",
+        "title": "Dr Grinspoon - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/og-lime-kush",
+        "text": "OG Lime Kush",
+        "title": "OG Lime Kush - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/terpinolene",
+        "text": "Terpinolene",
+        "title": "Terpinolene Terpen"
+      },
+      {
+        "href": "/terpene/d-limonene",
+        "text": "D-Limonene",
+        "title": "D-Limonene Terpen"
+      },
+      {
+        "href": "/terpene/alpha-humulene",
+        "text": "Alpha-Humulene",
+        "title": "Alpha-Humulene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

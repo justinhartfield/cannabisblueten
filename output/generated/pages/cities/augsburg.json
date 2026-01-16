@@ -1,0 +1,275 @@
+{
+  "city": {
+    "slug": "augsburg",
+    "name": "Augsburg",
+    "state": "Bayern"
+  },
+  "stats": {
+    "pharmacyCount": 6,
+    "totalProducts": 688,
+    "hasDelivery": true
+  },
+  "pharmacies": [
+    {
+      "slug": "cannabisapo24",
+      "name": "Cannabisapo24",
+      "street": "Maximilianstraße 27",
+      "zip": "86150",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 364,
+      "rating": 3.7,
+      "ratingCount": 6
+    },
+    {
+      "slug": "cannaplus-apotheke",
+      "name": "Cannaplus Apotheke",
+      "street": "Bleicherbreite 21",
+      "zip": "86154",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 186,
+      "rating": 4,
+      "ratingCount": 10
+    },
+    {
+      "slug": "augusta-apotheke",
+      "name": "Augusta Apotheke",
+      "street": "Bahnhofstraße 29",
+      "zip": "86150",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 100,
+      "rating": 5,
+      "ratingCount": 2
+    },
+    {
+      "slug": "bessergesund-ohg-ipunkt-apotheke",
+      "name": "bessergesund OHG ipunkt Apotheke",
+      "street": "Halderstraße 29",
+      "zip": "86150",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 22,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "hochfeld-apotheke-1",
+      "name": "HIGH FIELD by Hochfeld-Apotheke",
+      "street": "Hochfeldstraße 69",
+      "zip": "86159",
+      "hasDelivery": false,
+      "hasPickup": true,
+      "productCount": 16,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "hochfeld-apotheke",
+      "name": "HighField (by Hochfeld-Apotheke)",
+      "street": "Hochfeldstraße 69",
+      "zip": "86159",
+      "hasDelivery": false,
+      "hasPickup": true,
+      "productCount": 0,
+      "rating": 0,
+      "ratingCount": 0
+    }
+  ],
+  "nearbyCities": [
+    {
+      "slug": "muenchen",
+      "name": "München",
+      "pharmacyCount": 12
+    },
+    {
+      "slug": "nuernberg",
+      "name": "Nürnberg",
+      "pharmacyCount": 7
+    },
+    {
+      "slug": "landshut",
+      "name": "Landshut",
+      "pharmacyCount": 3
+    },
+    {
+      "slug": "erlangen",
+      "name": "Erlangen",
+      "pharmacyCount": 2
+    },
+    {
+      "slug": "ansbach",
+      "name": "Ansbach",
+      "pharmacyCount": 2
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannabis Apotheke Augsburg - 6 Apotheken",
+      "description": "Cannabis Apotheken in Augsburg. 6 Apotheken mit 688 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+      "canonical": "https://weed.de/cannabis-apotheke/augsburg",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannabis Apotheke Augsburg - 6 Apotheken",
+        "description": "Cannabis Apotheken in Augsburg. 6 Apotheken mit 688 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+        "url": "https://weed.de/cannabis-apotheke/augsburg",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Augsburg",
+        "href": "https://weed.de/cannabis-apotheke/augsburg"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Augsburg",
+            "item": "https://weed.de/cannabis-apotheke/augsburg"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Cannabis Apotheken in Augsburg",
+        "numberOfItems": 6,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/apotheke/cannabisapo24",
+            "name": "Cannabisapo24"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/apotheke/cannaplus-apotheke",
+            "name": "Cannaplus Apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/apotheke/augusta-apotheke",
+            "name": "Augusta Apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/apotheke/bessergesund-ohg-ipunkt-apotheke",
+            "name": "bessergesund OHG ipunkt Apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "https://weed.de/apotheke/hochfeld-apotheke-1",
+            "name": "HIGH FIELD by Hochfeld-Apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "url": "https://weed.de/apotheke/hochfeld-apotheke",
+            "name": "HighField (by Hochfeld-Apotheke)"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "pharmacies": [
+      {
+        "href": "/apotheke/cannabisapo24",
+        "text": "Cannabisapo24",
+        "title": "Cannabisapo24 in Augsburg"
+      },
+      {
+        "href": "/apotheke/cannaplus-apotheke",
+        "text": "Cannaplus Apotheke",
+        "title": "Cannaplus Apotheke in Augsburg"
+      },
+      {
+        "href": "/apotheke/augusta-apotheke",
+        "text": "Augusta Apotheke",
+        "title": "Augusta Apotheke in Augsburg"
+      },
+      {
+        "href": "/apotheke/bessergesund-ohg-ipunkt-apotheke",
+        "text": "bessergesund OHG ipunkt Apotheke",
+        "title": "bessergesund OHG ipunkt Apotheke in Augsburg"
+      },
+      {
+        "href": "/apotheke/hochfeld-apotheke-1",
+        "text": "HIGH FIELD by Hochfeld-Apotheke",
+        "title": "HIGH FIELD by Hochfeld-Apotheke in Augsburg"
+      },
+      {
+        "href": "/apotheke/hochfeld-apotheke",
+        "text": "HighField (by Hochfeld-Apotheke)",
+        "title": "HighField (by Hochfeld-Apotheke) in Augsburg"
+      }
+    ],
+    "nearbyCities": [
+      {
+        "href": "/cannabis-apotheke/muenchen",
+        "text": "Cannabis Apotheke München",
+        "title": "12 Apotheken in München"
+      },
+      {
+        "href": "/cannabis-apotheke/nuernberg",
+        "text": "Cannabis Apotheke Nürnberg",
+        "title": "7 Apotheken in Nürnberg"
+      },
+      {
+        "href": "/cannabis-apotheke/landshut",
+        "text": "Cannabis Apotheke Landshut",
+        "title": "3 Apotheken in Landshut"
+      },
+      {
+        "href": "/cannabis-apotheke/erlangen",
+        "text": "Cannabis Apotheke Erlangen",
+        "title": "2 Apotheken in Erlangen"
+      },
+      {
+        "href": "/cannabis-apotheke/ansbach",
+        "text": "Cannabis Apotheke Ansbach",
+        "title": "2 Apotheken in Ansbach"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has 6 pharmacies"
+  }
+}

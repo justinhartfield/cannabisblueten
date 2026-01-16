@@ -1,0 +1,225 @@
+{
+  "product": {
+    "slug": "drapalin-55",
+    "name": "Drapalin 5/50",
+    "type": "extract",
+    "genetics": "hybrid",
+    "thcPercent": 5,
+    "cbdPercent": 50,
+    "priceMin": 417,
+    "priceMax": 995,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Mazedonien",
+    "imageUrl": "https://weed.de/products/drapalin-55-5g02h3.png"
+  },
+  "brand": {
+    "slug": "drapalin",
+    "name": "Drapalin",
+    "productCount": 24
+  },
+  "strain": {
+    "slug": "m-runtz",
+    "name": "M Runtz",
+    "geneticType": "hybrid",
+    "effects": [
+      "Focused",
+      "Creative",
+      "Sleepy"
+    ],
+    "terpenes": [
+      "Linalool",
+      "D-Limonene",
+      "Beta-Pinene",
+      "Beta-Myrcene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Focused",
+      "Creative",
+      "Sleepy"
+    ],
+    "tastes": [
+      "Diesel"
+    ],
+    "terpenes": [
+      "Linalool",
+      "D-Limonene",
+      "Beta-Pinene",
+      "Beta-Myrcene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "drapalin-125125",
+      "name": "Drapalin 12.5/12.5 Cannabisextrakt",
+      "brandName": "Drapalin",
+      "thcPercent": 12,
+      "priceMin": 289,
+      "inStock": true
+    },
+    {
+      "slug": "drapalin-251",
+      "name": "Drapalin 25/1 Cannabisextrakt",
+      "brandName": "Drapalin",
+      "thcPercent": 25,
+      "priceMin": 321,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-thc-25-spotlight-porto-purps",
+      "name": "Tilray THC 25 Spotlight Porto Purps",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": 349,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc5cbd2",
+      "name": "Tilray Cannabisextrakt THC5:CBD20",
+      "brandName": "Tilray",
+      "thcPercent": 5,
+      "priceMin": 350,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc1cbd1",
+      "name": "Tilray Cannabisextrakt THC10:CBD10",
+      "brandName": "Tilray",
+      "thcPercent": 10,
+      "priceMin": 400,
+      "inStock": true
+    },
+    {
+      "slug": "drapalin-2725",
+      "name": "Drapalin 27/25 Cannabisextrak",
+      "brandName": "Drapalin",
+      "thcPercent": 27,
+      "priceMin": 423,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Drapalin 5/50 | ab 4,17 €",
+      "description": "Drapalin 5/50 von Drapalin. THC: 5%, CBD: 50%. Sorte: M Runtz. Preis ab 4,17 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/drapalin-55",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Drapalin 5/50 | ab 4,17 €",
+        "description": "Drapalin 5/50 von Drapalin. THC: 5%, CBD: 50%. Sorte: M Runtz. Preis ab 4,17 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/drapalin-55",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/drapalin-55-5g02h3.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Drapalin",
+        "href": "https://weed.de/brand/drapalin"
+      },
+      {
+        "name": "Drapalin 5/50",
+        "href": "https://weed.de/product/drapalin-55"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Drapalin 5/50",
+            "item": "https://weed.de/product/drapalin-55"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Drapalin 5/50",
+        "brand": {
+          "@type": "Brand",
+          "name": "Drapalin"
+        },
+        "description": "THC: 5%, CBD: 50%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/m-runtz",
+      "text": "M Runtz",
+      "title": "M Runtz Sorte"
+    },
+    "brand": {
+      "href": "/brand/drapalin",
+      "text": "Drapalin",
+      "title": "Alle Drapalin Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/drapalin-125125",
+        "text": "Drapalin 12.5/12.5 Cannabisextrakt",
+        "title": "Alternative: Drapalin 12.5/12.5 Cannabisextrakt"
+      },
+      {
+        "href": "/product/drapalin-251",
+        "text": "Drapalin 25/1 Cannabisextrakt",
+        "title": "Alternative: Drapalin 25/1 Cannabisextrakt"
+      },
+      {
+        "href": "/product/tilray-thc-25-spotlight-porto-purps",
+        "text": "Tilray THC 25 Spotlight Porto Purps",
+        "title": "Alternative: Tilray THC 25 Spotlight Porto Purps"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc5cbd2",
+        "text": "Tilray Cannabisextrakt THC5:CBD20",
+        "title": "Alternative: Tilray Cannabisextrakt THC5:CBD20"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc1cbd1",
+        "text": "Tilray Cannabisextrakt THC10:CBD10",
+        "title": "Alternative: Tilray Cannabisextrakt THC10:CBD10"
+      },
+      {
+        "href": "/product/drapalin-2725",
+        "text": "Drapalin 27/25 Cannabisextrak",
+        "title": "Alternative: Drapalin 27/25 Cannabisextrak"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

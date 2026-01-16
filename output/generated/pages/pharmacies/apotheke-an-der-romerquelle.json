@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "apotheke-an-der-romerquelle",
+    "name": "Cannamed Quelle [Apotheke an der Romerquelle]",
+    "street": "Sertoriusring 51-53",
+    "zip": "55126",
+    "cityName": "Mainz",
+    "state": "Rheinland-Pfalz",
+    "lat": 49.9957284,
+    "lng": 8.176921799999999,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://cannamedquelle.de/blueten",
+    "phone": "061317325300",
+    "email": "info@cannamedquelle.de",
+    "productCount": 50,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.de/pharmacies/apotheke-an-der-romerquelle-b38a27.png"
+  },
+  "city": {
+    "slug": "mainz",
+    "name": "Mainz",
+    "pharmacyCount": 3
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "pharmablute",
+      "name": "PharmaBlüte",
+      "cityName": "Mainz",
+      "productCount": 124,
+      "hasDelivery": true
+    },
+    {
+      "slug": "die-mainz-apotheke",
+      "name": "Die Mainz Apotheke",
+      "cityName": "Mainz",
+      "productCount": 0,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis-apotheke-rheinland",
+      "name": "Cannabis Apotheke Rheinland",
+      "cityName": "Bad Neuenahr-Ahrweiler",
+      "productCount": 161,
+      "hasDelivery": true
+    },
+    {
+      "slug": "grune-blute-ulmen-apotheke",
+      "name": "Grüne Blüte",
+      "cityName": "Frankenthal (Pfalz)",
+      "productCount": 158,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis4me",
+      "name": "cannabis4me",
+      "cityName": "Bad Neuenahr-Ahrweiler",
+      "productCount": 89,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannamed Quelle [Apotheke an der Romerquelle] - Cannabis Apotheke in Mainz",
+      "description": "Cannamed Quelle [Apotheke an der Romerquelle] in Mainz. 50 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/apotheke-an-der-romerquelle",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannamed Quelle [Apotheke an der Romerquelle] - Cannabis Apotheke in Mainz",
+        "description": "Cannamed Quelle [Apotheke an der Romerquelle] in Mainz. 50 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/apotheke-an-der-romerquelle",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/pharmacies/apotheke-an-der-romerquelle-b38a27.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Mainz",
+        "href": "https://weed.de/cannabis-apotheke/mainz"
+      },
+      {
+        "name": "Cannamed Quelle [Apotheke an der Romerquelle]",
+        "href": "https://weed.de/apotheke/apotheke-an-der-romerquelle"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Mainz",
+            "item": "https://weed.de/cannabis-apotheke/mainz"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Cannamed Quelle [Apotheke an der Romerquelle]",
+            "item": "https://weed.de/apotheke/apotheke-an-der-romerquelle"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Cannamed Quelle [Apotheke an der Romerquelle]",
+        "url": "https://weed.de/apotheke/apotheke-an-der-romerquelle",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Sertoriusring 51-53",
+          "addressLocality": "Mainz",
+          "postalCode": "55126",
+          "addressRegion": "Rheinland-Pfalz",
+          "addressCountry": "DE"
+        },
+        "telephone": "061317325300",
+        "email": "info@cannamedquelle.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/mainz",
+      "text": "Cannabis Apotheken in Mainz",
+      "title": "Alle Apotheken in Mainz"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/pharmablute",
+        "text": "PharmaBlüte",
+        "title": "PharmaBlüte in Mainz"
+      },
+      {
+        "href": "/apotheke/die-mainz-apotheke",
+        "text": "Die Mainz Apotheke",
+        "title": "Die Mainz Apotheke in Mainz"
+      },
+      {
+        "href": "/apotheke/cannabis-apotheke-rheinland",
+        "text": "Cannabis Apotheke Rheinland",
+        "title": "Cannabis Apotheke Rheinland in Bad Neuenahr-Ahrweiler"
+      },
+      {
+        "href": "/apotheke/grune-blute-ulmen-apotheke",
+        "text": "Grüne Blüte",
+        "title": "Grüne Blüte in Frankenthal (Pfalz)"
+      },
+      {
+        "href": "/apotheke/cannabis4me",
+        "text": "cannabis4me",
+        "title": "cannabis4me in Bad Neuenahr-Ahrweiler"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

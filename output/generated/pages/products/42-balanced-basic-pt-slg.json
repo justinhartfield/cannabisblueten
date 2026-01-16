@@ -1,0 +1,217 @@
+{
+  "product": {
+    "slug": "42-balanced-basic-pt-slg",
+    "name": "420 Balanced Basic PT SLG",
+    "type": "flower",
+    "genetics": "sativa",
+    "thcPercent": 7,
+    "cbdPercent": 7,
+    "priceMin": 649,
+    "priceMax": 1099,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Portugal",
+    "imageUrl": "https://weed.de/products/42-balanced-basic-pt-slg-9h33dc.jpeg"
+  },
+  "brand": {
+    "slug": "four-20-pharma",
+    "name": "Four 20 Pharma",
+    "productCount": 267
+  },
+  "strain": {
+    "slug": "super-lemon-g",
+    "name": "Super Lemon G",
+    "geneticType": "hybrid",
+    "effects": [
+      "Focused",
+      "Energetic",
+      "Creative"
+    ],
+    "terpenes": []
+  },
+  "attributes": {
+    "effects": [
+      "Focused",
+      "Energetic",
+      "Creative"
+    ],
+    "tastes": [
+      "Flowery",
+      "Citrus",
+      "Sweet"
+    ],
+    "terpenes": []
+  },
+  "alternativeProducts": [
+    {
+      "slug": "aurora-typ-1",
+      "name": "Aurora Typ 1",
+      "brandName": "Aurora",
+      "thcPercent": 19,
+      "priceMin": 479,
+      "inStock": true
+    },
+    {
+      "slug": "pedanios-22-1",
+      "name": "Pedanios 22/1",
+      "brandName": "Aurora",
+      "thcPercent": 22,
+      "priceMin": 629,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-sativa-forte-tc",
+      "name": "Cannamedical Sativa forte TC",
+      "brandName": "Cannamedical",
+      "thcPercent": 24,
+      "priceMin": 683,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-sativa-classic-tc",
+      "name": "Cannamedical Sativa classic TC",
+      "brandName": "Cannamedical",
+      "thcPercent": 20,
+      "priceMin": 755,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-sativa-classic-si",
+      "name": "Cannamedical Sativa classic SI",
+      "brandName": "Cannamedical",
+      "thcPercent": 20,
+      "priceMin": 915,
+      "inStock": true
+    },
+    {
+      "slug": "cannabis-flos-bedrocan-f20",
+      "name": "Cannabis Flos Bedrocan F20",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 22,
+      "priceMin": null,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "420 Balanced Basic PT SLG - Four 20 Pharma | ab 6,49 €",
+      "description": "420 Balanced Basic PT SLG von Four 20 Pharma. THC: 7%, CBD: 7%. Sorte: Super Lemon G. Preis ab 6,49 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/42-balanced-basic-pt-slg",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "420 Balanced Basic PT SLG - Four 20 Pharma | ab 6,49 €",
+        "description": "420 Balanced Basic PT SLG von Four 20 Pharma. THC: 7%, CBD: 7%. Sorte: Super Lemon G. Preis ab 6,49 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/42-balanced-basic-pt-slg",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/42-balanced-basic-pt-slg-9h33dc.jpeg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Four 20 Pharma",
+        "href": "https://weed.de/brand/four-20-pharma"
+      },
+      {
+        "name": "420 Balanced Basic PT SLG",
+        "href": "https://weed.de/product/42-balanced-basic-pt-slg"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "420 Balanced Basic PT SLG",
+            "item": "https://weed.de/product/42-balanced-basic-pt-slg"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "420 Balanced Basic PT SLG",
+        "brand": {
+          "@type": "Brand",
+          "name": "Four 20 Pharma"
+        },
+        "description": "THC: 7%, CBD: 7%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/super-lemon-g",
+      "text": "Super Lemon G",
+      "title": "Super Lemon G Sorte"
+    },
+    "brand": {
+      "href": "/brand/four-20-pharma",
+      "text": "Four 20 Pharma",
+      "title": "Alle Four 20 Pharma Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/aurora-typ-1",
+        "text": "Aurora Typ 1",
+        "title": "Alternative: Aurora Typ 1"
+      },
+      {
+        "href": "/product/pedanios-22-1",
+        "text": "Pedanios 22/1",
+        "title": "Alternative: Pedanios 22/1"
+      },
+      {
+        "href": "/product/cannamedical-sativa-forte-tc",
+        "text": "Cannamedical Sativa forte TC",
+        "title": "Alternative: Cannamedical Sativa forte TC"
+      },
+      {
+        "href": "/product/cannamedical-sativa-classic-tc",
+        "text": "Cannamedical Sativa classic TC",
+        "title": "Alternative: Cannamedical Sativa classic TC"
+      },
+      {
+        "href": "/product/cannamedical-sativa-classic-si",
+        "text": "Cannamedical Sativa classic SI",
+        "title": "Alternative: Cannamedical Sativa classic SI"
+      },
+      {
+        "href": "/product/cannabis-flos-bedrocan-f20",
+        "text": "Cannabis Flos Bedrocan F20",
+        "title": "Alternative: Cannabis Flos Bedrocan F20"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

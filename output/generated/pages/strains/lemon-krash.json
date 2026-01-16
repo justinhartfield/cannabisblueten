@@ -1,0 +1,234 @@
+{
+  "strain": {
+    "slug": "lemon-krash",
+    "name": "Lemon Krash",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [
+      "Euphoric",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Flowery",
+      "Woody",
+      "Citrus"
+    ],
+    "terpenes": [
+      "Linalool",
+      "Beta-Caryophyllene",
+      "Alpha-Humulene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 465,
+      "max": 835,
+      "formatted": {
+        "min": "4,65 €",
+        "max": "8,35 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "cannamedical-indica-classic-dk-lk",
+      "name": "Cannamedical Indica classic DK LK",
+      "brandName": "Cannamedical",
+      "thcPercent": 19.2,
+      "priceMin": 465,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-indica-forte-dk",
+      "name": "Cannamedical Indica Forte DK",
+      "brandName": "Cannamedical",
+      "thcPercent": 22,
+      "priceMin": 499,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "blue-cookies-spritzer",
+      "name": "Blue Cookies Spritzer",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "godfather-og-auto",
+      "name": "Godfather OG Auto",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "pineapple-god",
+      "name": "Pineapple God",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "mandarin-cookies",
+      "name": "Mandarin Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "magic-marker-2",
+      "name": "Magic Marker #2",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Lemon Krash (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Lemon Krash: Euphoric, Relaxed. 2 Produkte verfügbar. ab 4,65 €.",
+      "canonical": "https://weed.de/strain/lemon-krash",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Lemon Krash (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Lemon Krash: Euphoric, Relaxed. 2 Produkte verfügbar. ab 4,65 €.",
+        "url": "https://weed.de/strain/lemon-krash",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Lemon Krash",
+        "href": "https://weed.de/strain/lemon-krash"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Lemon Krash",
+            "item": "https://weed.de/strain/lemon-krash"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Lemon Krash Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/cannamedical-indica-classic-dk-lk",
+            "name": "Cannamedical Indica classic DK LK"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/cannamedical-indica-forte-dk",
+            "name": "Cannamedical Indica Forte DK"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/cannamedical-indica-classic-dk-lk",
+        "text": "Cannamedical Indica classic DK LK",
+        "title": "Cannamedical Indica classic DK LK von Cannamedical"
+      },
+      {
+        "href": "/product/cannamedical-indica-forte-dk",
+        "text": "Cannamedical Indica Forte DK",
+        "title": "Cannamedical Indica Forte DK von Cannamedical"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/blue-cookies-spritzer",
+        "text": "Blue Cookies Spritzer",
+        "title": "Blue Cookies Spritzer - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/godfather-og-auto",
+        "text": "Godfather OG Auto",
+        "title": "Godfather OG Auto - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/pineapple-god",
+        "text": "Pineapple God",
+        "title": "Pineapple God - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/mandarin-cookies",
+        "text": "Mandarin Cookies",
+        "title": "Mandarin Cookies - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/magic-marker-2",
+        "text": "Magic Marker #2",
+        "title": "Magic Marker #2 - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/alpha-humulene",
+        "text": "Alpha-Humulene",
+        "title": "Alpha-Humulene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

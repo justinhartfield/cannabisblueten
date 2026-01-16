@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "cannabisfuermich",
+    "name": "CannabisFürMich",
+    "street": "Fliederstraße 46",
+    "zip": "84032",
+    "cityName": "Landshut",
+    "state": "Bayern",
+    "lat": 48.55074579999999,
+    "lng": 12.1300396,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": null,
+    "phone": "087120662121",
+    "email": "bestellung@cannabisfuermich.de",
+    "productCount": 78,
+    "rating": 1,
+    "ratingCount": 1,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/66ffee3a79ae4f662d4834dd-bc2h2f.jpg"
+  },
+  "city": {
+    "slug": "landshut",
+    "name": "Landshut",
+    "pharmacyCount": 3
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "sonnen-apotheke-oder-cannabis-sunshine",
+      "name": "Sonnen Apotheke | Cannabis Sunshine",
+      "cityName": "Landshut",
+      "productCount": 69,
+      "hasDelivery": true
+    },
+    {
+      "slug": "rennweg-apotheke",
+      "name": "Rennweg-Apotheke",
+      "cityName": "Landshut",
+      "productCount": 0,
+      "hasDelivery": false
+    },
+    {
+      "slug": "cannabisapo24",
+      "name": "Cannabisapo24",
+      "cityName": "Augsburg",
+      "productCount": 364,
+      "hasDelivery": true
+    },
+    {
+      "slug": "spital-apotheke-zum-heiligen-geist",
+      "name": "Canthera.de | Spital Apotheke zum Heiligen Geist",
+      "cityName": "Nürnberg",
+      "productCount": 317,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannaplus-apotheke",
+      "name": "Cannaplus Apotheke",
+      "cityName": "Augsburg",
+      "productCount": 186,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "CannabisFürMich - Cannabis Apotheke in Landshut",
+      "description": "CannabisFürMich in Landshut. 78 Cannabis Produkte. Lieferung & Abholung. Bewertung: 1.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/cannabisfuermich",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "CannabisFürMich - Cannabis Apotheke in Landshut",
+        "description": "CannabisFürMich in Landshut. 78 Cannabis Produkte. Lieferung & Abholung. Bewertung: 1.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/cannabisfuermich",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/66ffee3a79ae4f662d4834dd-bc2h2f.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Landshut",
+        "href": "https://weed.de/cannabis-apotheke/landshut"
+      },
+      {
+        "name": "CannabisFürMich",
+        "href": "https://weed.de/apotheke/cannabisfuermich"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Landshut",
+            "item": "https://weed.de/cannabis-apotheke/landshut"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "CannabisFürMich",
+            "item": "https://weed.de/apotheke/cannabisfuermich"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "CannabisFürMich",
+        "url": "https://weed.de/apotheke/cannabisfuermich",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Fliederstraße 46",
+          "addressLocality": "Landshut",
+          "postalCode": "84032",
+          "addressRegion": "Bayern",
+          "addressCountry": "DE"
+        },
+        "telephone": "087120662121",
+        "email": "bestellung@cannabisfuermich.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/landshut",
+      "text": "Cannabis Apotheken in Landshut",
+      "title": "Alle Apotheken in Landshut"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/sonnen-apotheke-oder-cannabis-sunshine",
+        "text": "Sonnen Apotheke | Cannabis Sunshine",
+        "title": "Sonnen Apotheke | Cannabis Sunshine in Landshut"
+      },
+      {
+        "href": "/apotheke/rennweg-apotheke",
+        "text": "Rennweg-Apotheke",
+        "title": "Rennweg-Apotheke in Landshut"
+      },
+      {
+        "href": "/apotheke/cannabisapo24",
+        "text": "Cannabisapo24",
+        "title": "Cannabisapo24 in Augsburg"
+      },
+      {
+        "href": "/apotheke/spital-apotheke-zum-heiligen-geist",
+        "text": "Canthera.de | Spital Apotheke zum Heiligen Geist",
+        "title": "Canthera.de | Spital Apotheke zum Heiligen Geist in Nürnberg"
+      },
+      {
+        "href": "/apotheke/cannaplus-apotheke",
+        "text": "Cannaplus Apotheke",
+        "title": "Cannaplus Apotheke in Augsburg"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

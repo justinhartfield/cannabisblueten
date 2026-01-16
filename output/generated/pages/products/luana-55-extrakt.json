@@ -1,0 +1,115 @@
+{
+  "product": {
+    "slug": "luana-55-extrakt",
+    "name": "Luana 50:50 Extrakt",
+    "type": "extract",
+    "genetics": null,
+    "thcPercent": 50,
+    "cbdPercent": 50,
+    "priceMin": 453,
+    "priceMax": 599,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": "https://weed.de/products/luana-55-extrakt-aif4ag.jpeg"
+  },
+  "brand": {
+    "slug": "cannamedical",
+    "name": "Cannamedical",
+    "productCount": 238
+  },
+  "strain": null,
+  "attributes": {
+    "effects": [],
+    "tastes": [],
+    "terpenes": []
+  },
+  "alternativeProducts": [],
+  "seo": {
+    "meta": {
+      "title": "Luana 50:50 Extrakt - Cannamedical | ab 4,53 €",
+      "description": "Luana 50:50 Extrakt von Cannamedical. THC: 50%, CBD: 50%. Preis ab 4,53 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/luana-55-extrakt",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Luana 50:50 Extrakt - Cannamedical | ab 4,53 €",
+        "description": "Luana 50:50 Extrakt von Cannamedical. THC: 50%, CBD: 50%. Preis ab 4,53 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/luana-55-extrakt",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/luana-55-extrakt-aif4ag.jpeg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Cannamedical",
+        "href": "https://weed.de/brand/cannamedical"
+      },
+      {
+        "name": "Luana 50:50 Extrakt",
+        "href": "https://weed.de/product/luana-55-extrakt"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Luana 50:50 Extrakt",
+            "item": "https://weed.de/product/luana-55-extrakt"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Luana 50:50 Extrakt",
+        "brand": {
+          "@type": "Brand",
+          "name": "Cannamedical"
+        },
+        "description": "THC: 50%, CBD: 50%"
+      }
+    ]
+  },
+  "links": {
+    "strain": null,
+    "brand": {
+      "href": "/brand/cannamedical",
+      "text": "Cannamedical",
+      "title": "Alle Cannamedical Produkte"
+    },
+    "alternatives": []
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

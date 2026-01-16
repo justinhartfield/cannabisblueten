@@ -1,0 +1,232 @@
+{
+  "product": {
+    "slug": "xetapa",
+    "name": "Xatepa",
+    "type": "extract",
+    "genetics": "hybrid",
+    "thcPercent": 8.3,
+    "cbdPercent": 8.3,
+    "priceMin": 872,
+    "priceMax": 872,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Dänemark",
+    "imageUrl": "https://weed.de/products/xetapa-98h68c.jpeg"
+  },
+  "brand": {
+    "slug": "tetra-pharm-technologies",
+    "name": "Tetra Pharm Technologies",
+    "productCount": 1
+  },
+  "strain": {
+    "slug": "monster-bruce-banner",
+    "name": "Monster Bruce Banner",
+    "geneticType": "hybrid",
+    "effects": [
+      "Relaxed",
+      "Strong",
+      "Body-buzz",
+      "Stress-relief",
+      "Pain-relief"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Limonene",
+      "Myrcene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Relaxed",
+      "Strong",
+      "Body-buzz",
+      "Stress-relief",
+      "Pain-relief"
+    ],
+    "tastes": [
+      "Earthy",
+      "Diesel",
+      "Fruity",
+      "Citrus",
+      "Sweet",
+      "Spicy"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Limonene",
+      "Myrcene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "tilray-thc-25-spotlight-porto-purps",
+      "name": "Tilray THC 25 Spotlight Porto Purps",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": 349,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc5cbd2",
+      "name": "Tilray Cannabisextrakt THC5:CBD20",
+      "brandName": "Tilray",
+      "thcPercent": 5,
+      "priceMin": 350,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc1cbd1",
+      "name": "Tilray Cannabisextrakt THC10:CBD10",
+      "brandName": "Tilray",
+      "thcPercent": 10,
+      "priceMin": 400,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-2",
+      "name": "Demecan Typ 2",
+      "brandName": "Demecan",
+      "thcPercent": 16,
+      "priceMin": 533,
+      "inStock": true
+    },
+    {
+      "slug": "420-natural-201-ca-gg4",
+      "name": "420 Natural 20/1 CA GG4",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 20,
+      "priceMin": 589,
+      "inStock": true
+    },
+    {
+      "slug": "khiron-191-gelato",
+      "name": "Khiron 19/1 Gelato",
+      "brandName": "Khiron",
+      "thcPercent": 17.6,
+      "priceMin": 638,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Xatepa - Tetra Pharm Technologies | ab 8,72 €",
+      "description": "Xatepa von Tetra Pharm Technologies. THC: 8.3%, CBD: 8.3%. Sorte: Monster Bruce Banner. Preis ab 8,72 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/xetapa",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Xatepa - Tetra Pharm Technologies | ab 8,72 €",
+        "description": "Xatepa von Tetra Pharm Technologies. THC: 8.3%, CBD: 8.3%. Sorte: Monster Bruce Banner. Preis ab 8,72 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/xetapa",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/xetapa-98h68c.jpeg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Tetra Pharm Technologies",
+        "href": "https://weed.de/brand/tetra-pharm-technologies"
+      },
+      {
+        "name": "Xatepa",
+        "href": "https://weed.de/product/xetapa"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Xatepa",
+            "item": "https://weed.de/product/xetapa"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Xatepa",
+        "brand": {
+          "@type": "Brand",
+          "name": "Tetra Pharm Technologies"
+        },
+        "description": "THC: 8.3%, CBD: 8.3%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/monster-bruce-banner",
+      "text": "Monster Bruce Banner",
+      "title": "Monster Bruce Banner Sorte"
+    },
+    "brand": {
+      "href": "/brand/tetra-pharm-technologies",
+      "text": "Tetra Pharm Technologies",
+      "title": "Alle Tetra Pharm Technologies Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/tilray-thc-25-spotlight-porto-purps",
+        "text": "Tilray THC 25 Spotlight Porto Purps",
+        "title": "Alternative: Tilray THC 25 Spotlight Porto Purps"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc5cbd2",
+        "text": "Tilray Cannabisextrakt THC5:CBD20",
+        "title": "Alternative: Tilray Cannabisextrakt THC5:CBD20"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc1cbd1",
+        "text": "Tilray Cannabisextrakt THC10:CBD10",
+        "title": "Alternative: Tilray Cannabisextrakt THC10:CBD10"
+      },
+      {
+        "href": "/product/demecan-typ-2",
+        "text": "Demecan Typ 2",
+        "title": "Alternative: Demecan Typ 2"
+      },
+      {
+        "href": "/product/420-natural-201-ca-gg4",
+        "text": "420 Natural 20/1 CA GG4",
+        "title": "Alternative: 420 Natural 20/1 CA GG4"
+      },
+      {
+        "href": "/product/khiron-191-gelato",
+        "text": "Khiron 19/1 Gelato",
+        "title": "Alternative: Khiron 19/1 Gelato"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

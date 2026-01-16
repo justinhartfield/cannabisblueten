@@ -1,0 +1,114 @@
+{
+  "product": {
+    "slug": "cannabisextrakt-avextra-2525",
+    "name": "Cannabisextrakt Avextra 25/25",
+    "type": "extract",
+    "genetics": null,
+    "thcPercent": 25,
+    "cbdPercent": 25,
+    "priceMin": 249,
+    "priceMax": 765,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Portugal",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "avextra",
+    "name": "Avextra",
+    "productCount": 5
+  },
+  "strain": null,
+  "attributes": {
+    "effects": [],
+    "tastes": [],
+    "terpenes": []
+  },
+  "alternativeProducts": [],
+  "seo": {
+    "meta": {
+      "title": "Cannabisextrakt Avextra 25/25 | ab 2,49 €",
+      "description": "Cannabisextrakt Avextra 25/25 von Avextra. THC: 25%, CBD: 25%. Preis ab 2,49 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/cannabisextrakt-avextra-2525",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannabisextrakt Avextra 25/25 | ab 2,49 €",
+        "description": "Cannabisextrakt Avextra 25/25 von Avextra. THC: 25%, CBD: 25%. Preis ab 2,49 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/cannabisextrakt-avextra-2525",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Avextra",
+        "href": "https://weed.de/brand/avextra"
+      },
+      {
+        "name": "Cannabisextrakt Avextra 25/25",
+        "href": "https://weed.de/product/cannabisextrakt-avextra-2525"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Cannabisextrakt Avextra 25/25",
+            "item": "https://weed.de/product/cannabisextrakt-avextra-2525"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Cannabisextrakt Avextra 25/25",
+        "brand": {
+          "@type": "Brand",
+          "name": "Avextra"
+        },
+        "description": "THC: 25%, CBD: 25%"
+      }
+    ]
+  },
+  "links": {
+    "strain": null,
+    "brand": {
+      "href": "/brand/avextra",
+      "text": "Avextra",
+      "title": "Alle Avextra Produkte"
+    },
+    "alternatives": []
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

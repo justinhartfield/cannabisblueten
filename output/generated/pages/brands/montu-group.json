@@ -1,0 +1,213 @@
+{
+  "brand": {
+    "slug": "montu-group",
+    "name": "Montu Group",
+    "productCount": 6
+  },
+  "products": [
+    {
+      "slug": "craft-botanics-251-georgia-pie",
+      "name": "Craft Botanics 25/1 Georgia Pie",
+      "type": "flower",
+      "thcPercent": 25.5,
+      "priceMin": 890,
+      "inStock": true,
+      "strainName": "Georgia Pie"
+    },
+    {
+      "slug": "craft-botanics-31-m",
+      "name": "Craft Botanics 30/1 M",
+      "type": "flower",
+      "thcPercent": 30,
+      "priceMin": 999,
+      "inStock": true,
+      "strainName": "Mimosa"
+    },
+    {
+      "slug": "craft-botanics-271-wr",
+      "name": "Craft Botanics 27/1 WR",
+      "type": "flower",
+      "thcPercent": 27,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "White Runtz"
+    },
+    {
+      "slug": "craft-botanics-271-mimosa",
+      "name": "Craft Botanics 27/1 Mimosa",
+      "type": "flower",
+      "thcPercent": 28.1,
+      "priceMin": 899,
+      "inStock": false,
+      "strainName": "Mimosa"
+    },
+    {
+      "slug": "craft-botanics-271-gelonade",
+      "name": "Craft Botanics 27/1 Gelonade",
+      "type": "flower",
+      "thcPercent": 27,
+      "priceMin": 795,
+      "inStock": false,
+      "strainName": "Gelonade"
+    },
+    {
+      "slug": "craft-botanics-31",
+      "name": "Craft Botanics 30/1",
+      "type": "flower",
+      "thcPercent": 27,
+      "priceMin": 900,
+      "inStock": false,
+      "strainName": "White Runtz"
+    }
+  ],
+  "stats": {
+    "productCount": 6,
+    "inStockCount": 2,
+    "avgThc": 27.4,
+    "priceRange": {
+      "min": 795,
+      "max": 999,
+      "formatted": {
+        "min": "7,95 €",
+        "max": "9,99 €"
+      }
+    }
+  },
+  "seo": {
+    "meta": {
+      "title": "Montu Group Cannabis Produkte - 6 Produkte",
+      "description": "Montu Group: 6 Cannabis Produkte. 2 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+      "canonical": "https://weed.de/brand/montu-group",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Montu Group Cannabis Produkte - 6 Produkte",
+        "description": "Montu Group: 6 Cannabis Produkte. 2 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+        "url": "https://weed.de/brand/montu-group",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Hersteller",
+        "href": "https://weed.de/brands"
+      },
+      {
+        "name": "Montu Group",
+        "href": "https://weed.de/brand/montu-group"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Hersteller",
+            "item": "https://weed.de/brands"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Montu Group",
+            "item": "https://weed.de/brand/montu-group"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Montu Group Produkte",
+        "numberOfItems": 6,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/craft-botanics-251-georgia-pie",
+            "name": "Craft Botanics 25/1 Georgia Pie"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/craft-botanics-31-m",
+            "name": "Craft Botanics 30/1 M"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/craft-botanics-271-wr",
+            "name": "Craft Botanics 27/1 WR"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/product/craft-botanics-271-mimosa",
+            "name": "Craft Botanics 27/1 Mimosa"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "https://weed.de/product/craft-botanics-271-gelonade",
+            "name": "Craft Botanics 27/1 Gelonade"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "url": "https://weed.de/product/craft-botanics-31",
+            "name": "Craft Botanics 30/1"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/craft-botanics-251-georgia-pie",
+        "text": "Craft Botanics 25/1 Georgia Pie",
+        "title": "Craft Botanics 25/1 Georgia Pie"
+      },
+      {
+        "href": "/product/craft-botanics-31-m",
+        "text": "Craft Botanics 30/1 M",
+        "title": "Craft Botanics 30/1 M"
+      },
+      {
+        "href": "/product/craft-botanics-271-wr",
+        "text": "Craft Botanics 27/1 WR",
+        "title": "Craft Botanics 27/1 WR"
+      },
+      {
+        "href": "/product/craft-botanics-271-mimosa",
+        "text": "Craft Botanics 27/1 Mimosa",
+        "title": "Craft Botanics 27/1 Mimosa"
+      },
+      {
+        "href": "/product/craft-botanics-271-gelonade",
+        "text": "Craft Botanics 27/1 Gelonade",
+        "title": "Craft Botanics 27/1 Gelonade"
+      },
+      {
+        "href": "/product/craft-botanics-31",
+        "text": "Craft Botanics 30/1",
+        "title": "Craft Botanics 30/1"
+      }
+    ]
+  }
+}

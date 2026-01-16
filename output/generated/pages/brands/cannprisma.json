@@ -1,0 +1,153 @@
+{
+  "brand": {
+    "slug": "cannprisma",
+    "name": "Cannprisma",
+    "productCount": 3
+  },
+  "products": [
+    {
+      "slug": "apollo-281-hls",
+      "name": "Apollo 28/1 HLS",
+      "type": "flower",
+      "thcPercent": 28,
+      "priceMin": 700,
+      "inStock": true,
+      "strainName": "Honey Suckle"
+    },
+    {
+      "slug": "apollo-281-jgn",
+      "name": "Apollo 28/1 JGN",
+      "type": "flower",
+      "thcPercent": 28,
+      "priceMin": 629,
+      "inStock": true,
+      "strainName": "Think Fast"
+    },
+    {
+      "slug": "apollo-251-bft",
+      "name": "Apollo 25/1 BFT",
+      "type": "flower",
+      "thcPercent": 25,
+      "priceMin": 599,
+      "inStock": true,
+      "strainName": "Blue Monkey"
+    }
+  ],
+  "stats": {
+    "productCount": 3,
+    "inStockCount": 3,
+    "avgThc": 27,
+    "priceRange": {
+      "min": 599,
+      "max": 700,
+      "formatted": {
+        "min": "5,99 €",
+        "max": "7,00 €"
+      }
+    }
+  },
+  "seo": {
+    "meta": {
+      "title": "Cannprisma Cannabis Produkte - 3 Produkte",
+      "description": "Cannprisma: 3 Cannabis Produkte. 3 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+      "canonical": "https://weed.de/brand/cannprisma",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannprisma Cannabis Produkte - 3 Produkte",
+        "description": "Cannprisma: 3 Cannabis Produkte. 3 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+        "url": "https://weed.de/brand/cannprisma",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Hersteller",
+        "href": "https://weed.de/brands"
+      },
+      {
+        "name": "Cannprisma",
+        "href": "https://weed.de/brand/cannprisma"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Hersteller",
+            "item": "https://weed.de/brands"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Cannprisma",
+            "item": "https://weed.de/brand/cannprisma"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Cannprisma Produkte",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/apollo-281-hls",
+            "name": "Apollo 28/1 HLS"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/apollo-281-jgn",
+            "name": "Apollo 28/1 JGN"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/apollo-251-bft",
+            "name": "Apollo 25/1 BFT"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/apollo-281-hls",
+        "text": "Apollo 28/1 HLS",
+        "title": "Apollo 28/1 HLS"
+      },
+      {
+        "href": "/product/apollo-281-jgn",
+        "text": "Apollo 28/1 JGN",
+        "title": "Apollo 28/1 JGN"
+      },
+      {
+        "href": "/product/apollo-251-bft",
+        "text": "Apollo 25/1 BFT",
+        "title": "Apollo 25/1 BFT"
+      }
+    ]
+  }
+}

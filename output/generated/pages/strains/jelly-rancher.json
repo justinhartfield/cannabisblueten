@@ -1,0 +1,242 @@
+{
+  "strain": {
+    "slug": "jelly-rancher",
+    "name": "Jelly Rancher",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Creative",
+      "Focused",
+      "Euphoric"
+    ],
+    "tastes": [
+      "Tropical",
+      "Woody",
+      "Flowery"
+    ],
+    "terpenes": [
+      "Pinene",
+      "Limonene",
+      "Beta-Caryophyllene",
+      "Farnesene"
+    ],
+    "description": "Hella Jelly, früher bekannt unter dem Namen Jelly Rancher, ist ein sativadominierter Hybrid, der von der renommierten Humboldt Seed Company gezüchtet wurde. Diese Sorte ist das Ergebnis der Kreuzung von Very Cherry und Notorious THC und überzeugt durch ein intensives, fruchtiges Aromaprofil, einen außergewöhnlich hohen THC-Gehalt von bis zu 30 % sowie eine starke, langanhaltende Wirkung. Hella Jelly kombiniert das anregende, kreative High von Very Cherry mit der robusten und harzreichen Struktur von Notorious THC. Die Sorte ist besonders bei Extraktoren beliebt, da sie eine überdurchschnittliche Harzproduktion zeigt. Darüber hinaus eignet sie sich durch ihre Widerstandsfähigkeit und die kurze Blütezeit auch hervorragend für den Outdoor-Anbau. Die süßen Aromen erinnern an Zuckerwatte und tropische Früchte, ergänzt durch florale und holzige Noten. Hella Jelly bietet ein durchweg belebendes Konsumerlebnis und ist ideal für Nutzer, die einen klaren, energetisierenden Rausch mit kreativen Impulsen suchen.\n",
+    "imageUrl": "/strains/6885d4c06d37b885b679e653-ad51ha.webp"
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 350,
+      "max": 825,
+      "formatted": {
+        "min": "3,50 €",
+        "max": "8,25 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "roxton-air-stv-251",
+      "name": "Roxton Air STV 25/1",
+      "brandName": "Cantourage",
+      "thcPercent": 25,
+      "priceMin": 350,
+      "inStock": true
+    },
+    {
+      "slug": "roxton-air-stv-211",
+      "name": "Roxton Air STV 21/1",
+      "brandName": "Cantourage",
+      "thcPercent": 21,
+      "priceMin": 825,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "lemon-berry-og",
+      "name": "Lemon Berry OG",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "supreme-diesel",
+      "name": "Supreme Diesel",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "platinum-grapes",
+      "name": "Platinum Grapes",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "octagon-kush",
+      "name": "Octagon Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "alien-mints",
+      "name": "Alien Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Jelly Rancher (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Jelly Rancher: Creative, Focused, Euphoric. 2 Produkte verfügbar. ab 3,50 €.",
+      "canonical": "https://weed.de/strain/jelly-rancher",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Jelly Rancher (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Jelly Rancher: Creative, Focused, Euphoric. 2 Produkte verfügbar. ab 3,50 €.",
+        "url": "https://weed.de/strain/jelly-rancher",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "/strains/6885d4c06d37b885b679e653-ad51ha.webp"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Jelly Rancher",
+        "href": "https://weed.de/strain/jelly-rancher"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Jelly Rancher",
+            "item": "https://weed.de/strain/jelly-rancher"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Jelly Rancher Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/roxton-air-stv-251",
+            "name": "Roxton Air STV 25/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/roxton-air-stv-211",
+            "name": "Roxton Air STV 21/1"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/roxton-air-stv-251",
+        "text": "Roxton Air STV 25/1",
+        "title": "Roxton Air STV 25/1 von Cantourage"
+      },
+      {
+        "href": "/product/roxton-air-stv-211",
+        "text": "Roxton Air STV 21/1",
+        "title": "Roxton Air STV 21/1 von Cantourage"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/lemon-berry-og",
+        "text": "Lemon Berry OG",
+        "title": "Lemon Berry OG - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/supreme-diesel",
+        "text": "Supreme Diesel",
+        "title": "Supreme Diesel - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/platinum-grapes",
+        "text": "Platinum Grapes",
+        "title": "Platinum Grapes - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/octagon-kush",
+        "text": "Octagon Kush",
+        "title": "Octagon Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/alien-mints",
+        "text": "Alien Mints",
+        "title": "Alien Mints - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/pinene",
+        "text": "Pinene",
+        "title": "Pinene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/farnesene",
+        "text": "Farnesene",
+        "title": "Farnesene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

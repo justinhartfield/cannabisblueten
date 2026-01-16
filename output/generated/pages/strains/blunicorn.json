@@ -1,0 +1,273 @@
+{
+  "strain": {
+    "slug": "blunicorn",
+    "name": "Blunicorn",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Euphoric",
+      "Creative",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Diesel",
+      "Earthy",
+      "Flowery"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Beta-Myrcene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 4,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 369,
+      "max": 900,
+      "formatted": {
+        "min": "3,69 €",
+        "max": "9,00 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "thc-akut-28-bf",
+      "name": "THC AKUT 28 BF",
+      "brandName": "Bathera",
+      "thcPercent": 28,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "cannamedical-hybrid-forte-sa",
+      "name": "Cannamedical Hybrid Forte SA",
+      "brandName": "Cannamedical",
+      "thcPercent": 21.9,
+      "priceMin": 499,
+      "inStock": true
+    },
+    {
+      "slug": "remexian-211-chr-bco",
+      "name": "Remexian 21/1 CHR BCO",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 21,
+      "priceMin": 369,
+      "inStock": true
+    },
+    {
+      "slug": "remexian-241-chr-bco",
+      "name": "Remexian 24/1 CHR BCO",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 24,
+      "priceMin": 539,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "platinum-grapes",
+      "name": "Platinum Grapes",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "purple-ice-water",
+      "name": "Purple Ice Water",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "orange-panties",
+      "name": "Orange Panties",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "passion-soda",
+      "name": "Passion Soda",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "petrol-cookies",
+      "name": "Petrol Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Blunicorn (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Blunicorn: Euphoric, Creative, Relaxed. 4 Produkte verfügbar. ab 3,69 €.",
+      "canonical": "https://weed.de/strain/blunicorn",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Blunicorn (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Blunicorn: Euphoric, Creative, Relaxed. 4 Produkte verfügbar. ab 3,69 €.",
+        "url": "https://weed.de/strain/blunicorn",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Blunicorn",
+        "href": "https://weed.de/strain/blunicorn"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Blunicorn",
+            "item": "https://weed.de/strain/blunicorn"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Blunicorn Produkte",
+        "numberOfItems": 4,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/thc-akut-28-bf",
+            "name": "THC AKUT 28 BF"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/cannamedical-hybrid-forte-sa",
+            "name": "Cannamedical Hybrid Forte SA"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/remexian-211-chr-bco",
+            "name": "Remexian 21/1 CHR BCO"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/product/remexian-241-chr-bco",
+            "name": "Remexian 24/1 CHR BCO"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/thc-akut-28-bf",
+        "text": "THC AKUT 28 BF",
+        "title": "THC AKUT 28 BF von Bathera"
+      },
+      {
+        "href": "/product/cannamedical-hybrid-forte-sa",
+        "text": "Cannamedical Hybrid Forte SA",
+        "title": "Cannamedical Hybrid Forte SA von Cannamedical"
+      },
+      {
+        "href": "/product/remexian-211-chr-bco",
+        "text": "Remexian 21/1 CHR BCO",
+        "title": "Remexian 21/1 CHR BCO von Remexian Pharma"
+      },
+      {
+        "href": "/product/remexian-241-chr-bco",
+        "text": "Remexian 24/1 CHR BCO",
+        "title": "Remexian 24/1 CHR BCO von Remexian Pharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/platinum-grapes",
+        "text": "Platinum Grapes",
+        "title": "Platinum Grapes - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/purple-ice-water",
+        "text": "Purple Ice Water",
+        "title": "Purple Ice Water - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/orange-panties",
+        "text": "Orange Panties",
+        "title": "Orange Panties - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/passion-soda",
+        "text": "Passion Soda",
+        "title": "Passion Soda - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/petrol-cookies",
+        "text": "Petrol Cookies",
+        "title": "Petrol Cookies - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-myrcene",
+        "text": "Beta-Myrcene",
+        "title": "Beta-Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

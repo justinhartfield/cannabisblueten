@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "kosmos-apotheke",
+    "name": "Cannakosmos",
+    "street": "Allersberger Straße 96",
+    "zip": "90461",
+    "cityName": "Nürnberg",
+    "state": "Bayern",
+    "lat": 49.4395152,
+    "lng": 11.0900986,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "http://www.cannakosmos.de",
+    "phone": "0911449696",
+    "email": "info@cannakosmos.de",
+    "productCount": 34,
+    "rating": 5,
+    "ratingCount": 2,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/67c05040a673edc8d982bfaf-5e11fe.jpg"
+  },
+  "city": {
+    "slug": "nuernberg",
+    "name": "Nürnberg",
+    "pharmacyCount": 7
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "spital-apotheke-zum-heiligen-geist",
+      "name": "Canthera.de | Spital Apotheke zum Heiligen Geist",
+      "cityName": "Nürnberg",
+      "productCount": 317,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis-nordost-apotheke",
+      "name": "Cannabis Nordost Apotheke",
+      "cityName": "Nürnberg",
+      "productCount": 67,
+      "hasDelivery": true
+    },
+    {
+      "slug": "merkur-apotheke",
+      "name": "Merkur Apotheke",
+      "cityName": "Nürnberg",
+      "productCount": 35,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-im-mmc",
+      "name": "Apotheke im MMC",
+      "cityName": "Nürnberg",
+      "productCount": 15,
+      "hasDelivery": true
+    },
+    {
+      "slug": "koenigs-apotheke",
+      "name": "Königs Apotheke",
+      "cityName": "Nürnberg",
+      "productCount": 0,
+      "hasDelivery": false
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannakosmos - Cannabis Apotheke in Nürnberg",
+      "description": "Cannakosmos in Nürnberg. 34 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/kosmos-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannakosmos - Cannabis Apotheke in Nürnberg",
+        "description": "Cannakosmos in Nürnberg. 34 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/kosmos-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/67c05040a673edc8d982bfaf-5e11fe.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Nürnberg",
+        "href": "https://weed.de/cannabis-apotheke/nuernberg"
+      },
+      {
+        "name": "Cannakosmos",
+        "href": "https://weed.de/apotheke/kosmos-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Nürnberg",
+            "item": "https://weed.de/cannabis-apotheke/nuernberg"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Cannakosmos",
+            "item": "https://weed.de/apotheke/kosmos-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Cannakosmos",
+        "url": "https://weed.de/apotheke/kosmos-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Allersberger Straße 96",
+          "addressLocality": "Nürnberg",
+          "postalCode": "90461",
+          "addressRegion": "Bayern",
+          "addressCountry": "DE"
+        },
+        "telephone": "0911449696",
+        "email": "info@cannakosmos.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/nuernberg",
+      "text": "Cannabis Apotheken in Nürnberg",
+      "title": "Alle Apotheken in Nürnberg"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/spital-apotheke-zum-heiligen-geist",
+        "text": "Canthera.de | Spital Apotheke zum Heiligen Geist",
+        "title": "Canthera.de | Spital Apotheke zum Heiligen Geist in Nürnberg"
+      },
+      {
+        "href": "/apotheke/cannabis-nordost-apotheke",
+        "text": "Cannabis Nordost Apotheke",
+        "title": "Cannabis Nordost Apotheke in Nürnberg"
+      },
+      {
+        "href": "/apotheke/merkur-apotheke",
+        "text": "Merkur Apotheke",
+        "title": "Merkur Apotheke in Nürnberg"
+      },
+      {
+        "href": "/apotheke/apotheke-im-mmc",
+        "text": "Apotheke im MMC",
+        "title": "Apotheke im MMC in Nürnberg"
+      },
+      {
+        "href": "/apotheke/koenigs-apotheke",
+        "text": "Königs Apotheke",
+        "title": "Königs Apotheke in Nürnberg"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "strain": {
+    "slug": "grape-gasoline",
+    "name": "Grape Gasoline",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Relaxed",
+      "Uplifted",
+      "Euphoric"
+    ],
+    "tastes": [
+      "Citrus",
+      "Earthy",
+      "Lemon"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Caryophyllene",
+      "Limonene"
+    ],
+    "description": "Grape Gasoline ist der Indica-dominanter Hybrid Strain, der Eltern Grape Pie und Jet Fuel. Der Name ist bei dieser Strain eindeutig Programm, denn wie soll es auch anders sein wird der Geschmack von Grape Gasoline als Pertrolig und Beerig beschrieben. Grape Gasoline zählt zu den THC-starken Sorten, mit einem THC Gehalt um die 20 % bis 26 %. Dieser Kultivar eignet sich gut für den Nachmittag und Abend, ihre Wirkung wird oft als Belebend, Euphorisierend und Entspannend beschrieben.",
+    "imageUrl": "/strains/6446769b204648008e35b320-j0bjcc.jpeg"
+  },
+  "stats": {
+    "productCount": 4,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 419,
+      "max": 1200,
+      "formatted": {
+        "min": "4,19 €",
+        "max": "12,00 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "vasco-gg",
+      "name": "Vasco GG",
+      "brandName": "Cantourage",
+      "thcPercent": 25,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "remexian-301-hcc-ggl",
+      "name": "Remexian 30/1 HCC GGL",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 30,
+      "priceMin": 1200,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-gbh-strong-drop",
+      "name": "Demecan GBH Strong Drop",
+      "brandName": "Demecan",
+      "thcPercent": 27,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "bg-22-gpg-col-grape-gasoline",
+      "name": "BG 22 GPG COL Grape Gasoline",
+      "brandName": "Adrexpharma",
+      "thcPercent": 22,
+      "priceMin": 419,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "gelato-33",
+      "name": "Gelato 33",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "gorilla-glue-4",
+      "name": "GG4",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "mac-doughnut",
+      "name": "Mac Doughnut",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "chemdawg",
+      "name": "Chemdawg",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "critical-orange-punch",
+      "name": "Critical Orange Punch",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Grape Gasoline (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Grape Gasoline: Relaxed, Uplifted, Euphoric. 4 Produkte verfügbar. ab 4,19 €.",
+      "canonical": "https://weed.de/strain/grape-gasoline",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Grape Gasoline (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Grape Gasoline: Relaxed, Uplifted, Euphoric. 4 Produkte verfügbar. ab 4,19 €.",
+        "url": "https://weed.de/strain/grape-gasoline",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "/strains/6446769b204648008e35b320-j0bjcc.jpeg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Grape Gasoline",
+        "href": "https://weed.de/strain/grape-gasoline"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Grape Gasoline",
+            "item": "https://weed.de/strain/grape-gasoline"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Grape Gasoline Produkte",
+        "numberOfItems": 4,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/vasco-gg",
+            "name": "Vasco GG"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/remexian-301-hcc-ggl",
+            "name": "Remexian 30/1 HCC GGL"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/demecan-gbh-strong-drop",
+            "name": "Demecan GBH Strong Drop"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/product/bg-22-gpg-col-grape-gasoline",
+            "name": "BG 22 GPG COL Grape Gasoline"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/vasco-gg",
+        "text": "Vasco GG",
+        "title": "Vasco GG von Cantourage"
+      },
+      {
+        "href": "/product/remexian-301-hcc-ggl",
+        "text": "Remexian 30/1 HCC GGL",
+        "title": "Remexian 30/1 HCC GGL von Remexian Pharma"
+      },
+      {
+        "href": "/product/demecan-gbh-strong-drop",
+        "text": "Demecan GBH Strong Drop",
+        "title": "Demecan GBH Strong Drop von Demecan"
+      },
+      {
+        "href": "/product/bg-22-gpg-col-grape-gasoline",
+        "text": "BG 22 GPG COL Grape Gasoline",
+        "title": "BG 22 GPG COL Grape Gasoline von Adrexpharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/gelato-33",
+        "text": "Gelato 33",
+        "title": "Gelato 33 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/gorilla-glue-4",
+        "text": "GG4",
+        "title": "GG4 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/mac-doughnut",
+        "text": "Mac Doughnut",
+        "title": "Mac Doughnut - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/chemdawg",
+        "text": "Chemdawg",
+        "title": "Chemdawg - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/critical-orange-punch",
+        "text": "Critical Orange Punch",
+        "title": "Critical Orange Punch - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "gruene-bluete",
+    "name": "Grüne Blüte",
+    "street": "Magdeborner Straße 14",
+    "zip": "04416",
+    "cityName": "Markkleeberg",
+    "state": "Sachsen",
+    "lat": 51.2811916,
+    "lng": 12.4258181,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://gruenebluete.de/",
+    "phone": "03492723100",
+    "email": "service@gruenebluete.de",
+    "productCount": 60,
+    "rating": 1,
+    "ratingCount": 1,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/68591468bd9b69ff07e1ea7a-6g3ga7.jpg"
+  },
+  "city": {
+    "slug": "markkleeberg",
+    "name": "Markkleeberg",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "gruenhorn-apotheke",
+      "name": "GRÜNHORN - Apotheke im P. C.",
+      "cityName": "Leipzig",
+      "productCount": 168,
+      "hasDelivery": true
+    },
+    {
+      "slug": "mycannea-oder-schloss-apotheke",
+      "name": "myCannea | Schloß APOTHEKE",
+      "cityName": "Zwickau",
+      "productCount": 65,
+      "hasDelivery": true
+    },
+    {
+      "slug": "merkur-apotheke-schneeberg",
+      "name": "ErzCannabis - Merkur Apotheke Schneeberg",
+      "cityName": "Schneeberg",
+      "productCount": 50,
+      "hasDelivery": true
+    },
+    {
+      "slug": "medicalherbs-vital-apotheke-dresden",
+      "name": "medicalherbs.de - Vital Apotheke Dresden",
+      "cityName": "Dresden",
+      "productCount": 40,
+      "hasDelivery": true
+    },
+    {
+      "slug": "bethanien-apotheke-ek-abt-cansa",
+      "name": "Bethanien-Apotheke e.K. Abt. Cansa",
+      "cityName": "Chemnitz",
+      "productCount": 16,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Grüne Blüte - Cannabis Apotheke in Markkleeberg",
+      "description": "Grüne Blüte in Markkleeberg. 60 Cannabis Produkte. Lieferung & Abholung. Bewertung: 1.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/gruene-bluete",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Grüne Blüte - Cannabis Apotheke in Markkleeberg",
+        "description": "Grüne Blüte in Markkleeberg. 60 Cannabis Produkte. Lieferung & Abholung. Bewertung: 1.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/gruene-bluete",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/68591468bd9b69ff07e1ea7a-6g3ga7.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Markkleeberg",
+        "href": "https://weed.de/cannabis-apotheke/markkleeberg"
+      },
+      {
+        "name": "Grüne Blüte",
+        "href": "https://weed.de/apotheke/gruene-bluete"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Markkleeberg",
+            "item": "https://weed.de/cannabis-apotheke/markkleeberg"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Grüne Blüte",
+            "item": "https://weed.de/apotheke/gruene-bluete"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Grüne Blüte",
+        "url": "https://weed.de/apotheke/gruene-bluete",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Magdeborner Straße 14",
+          "addressLocality": "Markkleeberg",
+          "postalCode": "04416",
+          "addressRegion": "Sachsen",
+          "addressCountry": "DE"
+        },
+        "telephone": "03492723100",
+        "email": "service@gruenebluete.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/markkleeberg",
+      "text": "Cannabis Apotheken in Markkleeberg",
+      "title": "Alle Apotheken in Markkleeberg"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/gruenhorn-apotheke",
+        "text": "GRÜNHORN - Apotheke im P. C.",
+        "title": "GRÜNHORN - Apotheke im P. C. in Leipzig"
+      },
+      {
+        "href": "/apotheke/mycannea-oder-schloss-apotheke",
+        "text": "myCannea | Schloß APOTHEKE",
+        "title": "myCannea | Schloß APOTHEKE in Zwickau"
+      },
+      {
+        "href": "/apotheke/merkur-apotheke-schneeberg",
+        "text": "ErzCannabis - Merkur Apotheke Schneeberg",
+        "title": "ErzCannabis - Merkur Apotheke Schneeberg in Schneeberg"
+      },
+      {
+        "href": "/apotheke/medicalherbs-vital-apotheke-dresden",
+        "text": "medicalherbs.de - Vital Apotheke Dresden",
+        "title": "medicalherbs.de - Vital Apotheke Dresden in Dresden"
+      },
+      {
+        "href": "/apotheke/bethanien-apotheke-ek-abt-cansa",
+        "text": "Bethanien-Apotheke e.K. Abt. Cansa",
+        "title": "Bethanien-Apotheke e.K. Abt. Cansa in Chemnitz"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

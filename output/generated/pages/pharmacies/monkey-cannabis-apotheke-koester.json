@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "monkey-cannabis-apotheke-koester",
+    "name": "Monkey Cannabis (Apotheke Köster)",
+    "street": "Unnaer Straße 9",
+    "zip": "58706",
+    "cityName": "Menden (Sauerland)",
+    "state": "Nordrhein-Westfalen",
+    "lat": 51.4390945,
+    "lng": 7.7928393,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "www.monkey-cannabis.de",
+    "phone": "023732466",
+    "email": "info@monkey-cannabis.de",
+    "productCount": 19,
+    "rating": 4.3,
+    "ratingCount": 3,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/6856a821bd9b69ff07d40b30-a0c10a.jpg"
+  },
+  "city": {
+    "slug": "menden-sauerland",
+    "name": "Menden (Sauerland)",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "higreen-apotheke",
+      "name": "higreen! Online Marktplatz für Cannabis Apotheken",
+      "cityName": "Krefeld",
+      "productCount": 256,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-zur-alten-post",
+      "name": "Cannacompany (Apotheke zur Alten Post)",
+      "cityName": "Bonn",
+      "productCount": 233,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis-apotheke-essen-glocken-apotheke",
+      "name": "Cannabis Apotheke Essen (Glocken Apotheke)",
+      "cityName": "Essen",
+      "productCount": 174,
+      "hasDelivery": true
+    },
+    {
+      "slug": "grafenberger-apotheke",
+      "name": "GRAFENBERGER APOTHEKE",
+      "cityName": "Düsseldorf",
+      "productCount": 158,
+      "hasDelivery": true
+    },
+    {
+      "slug": "420brokkoli",
+      "name": "420brokkoli",
+      "cityName": "Paderborn",
+      "productCount": 156,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Monkey Cannabis (Apotheke Köster) - Cannabis Apotheke in Menden (Sauerland)",
+      "description": "Monkey Cannabis (Apotheke Köster) in Menden (Sauerland). 19 Cannabis Produkte. Lieferung & Abholung. Bewertung: 4.3/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/monkey-cannabis-apotheke-koester",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Monkey Cannabis (Apotheke Köster) - Cannabis Apotheke in Menden (Sauerland)",
+        "description": "Monkey Cannabis (Apotheke Köster) in Menden (Sauerland). 19 Cannabis Produkte. Lieferung & Abholung. Bewertung: 4.3/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/monkey-cannabis-apotheke-koester",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/6856a821bd9b69ff07d40b30-a0c10a.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Menden (Sauerland)",
+        "href": "https://weed.de/cannabis-apotheke/menden-sauerland"
+      },
+      {
+        "name": "Monkey Cannabis (Apotheke Köster)",
+        "href": "https://weed.de/apotheke/monkey-cannabis-apotheke-koester"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Menden (Sauerland)",
+            "item": "https://weed.de/cannabis-apotheke/menden-sauerland"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Monkey Cannabis (Apotheke Köster)",
+            "item": "https://weed.de/apotheke/monkey-cannabis-apotheke-koester"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Monkey Cannabis (Apotheke Köster)",
+        "url": "https://weed.de/apotheke/monkey-cannabis-apotheke-koester",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Unnaer Straße 9",
+          "addressLocality": "Menden (Sauerland)",
+          "postalCode": "58706",
+          "addressRegion": "Nordrhein-Westfalen",
+          "addressCountry": "DE"
+        },
+        "telephone": "023732466",
+        "email": "info@monkey-cannabis.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/menden-sauerland",
+      "text": "Cannabis Apotheken in Menden (Sauerland)",
+      "title": "Alle Apotheken in Menden (Sauerland)"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/higreen-apotheke",
+        "text": "higreen! Online Marktplatz für Cannabis Apotheken",
+        "title": "higreen! Online Marktplatz für Cannabis Apotheken in Krefeld"
+      },
+      {
+        "href": "/apotheke/apotheke-zur-alten-post",
+        "text": "Cannacompany (Apotheke zur Alten Post)",
+        "title": "Cannacompany (Apotheke zur Alten Post) in Bonn"
+      },
+      {
+        "href": "/apotheke/cannabis-apotheke-essen-glocken-apotheke",
+        "text": "Cannabis Apotheke Essen (Glocken Apotheke)",
+        "title": "Cannabis Apotheke Essen (Glocken Apotheke) in Essen"
+      },
+      {
+        "href": "/apotheke/grafenberger-apotheke",
+        "text": "GRAFENBERGER APOTHEKE",
+        "title": "GRAFENBERGER APOTHEKE in Düsseldorf"
+      },
+      {
+        "href": "/apotheke/420brokkoli",
+        "text": "420brokkoli",
+        "title": "420brokkoli in Paderborn"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

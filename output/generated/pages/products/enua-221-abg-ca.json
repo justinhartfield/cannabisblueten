@@ -1,0 +1,237 @@
+{
+  "product": {
+    "slug": "enua-221-abg-ca",
+    "name": "Enua 22/1 ABG CA",
+    "type": "flower",
+    "genetics": "hybrid_sativa",
+    "thcPercent": 22,
+    "cbdPercent": 1,
+    "priceMin": 390,
+    "priceMax": 749,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "enua",
+    "name": "enua",
+    "productCount": 123
+  },
+  "strain": {
+    "slug": "sweets",
+    "name": "Sweets",
+    "geneticType": "hybrid",
+    "effects": [
+      "Creative",
+      "Focused",
+      "Euphoric",
+      "Happy",
+      "Headache",
+      "Anxiety-reducing",
+      "Mood-lifting"
+    ],
+    "terpenes": [
+      "D-Limonene",
+      "Beta-Myrcene",
+      "Beta-Caryophyllene",
+      "Ocimene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Creative",
+      "Focused",
+      "Euphoric",
+      "Happy",
+      "Headache",
+      "Anxiety-reducing",
+      "Mood-lifting"
+    ],
+    "tastes": [
+      "Diesel",
+      "Spicy",
+      "Sour",
+      "Tangy",
+      "Tropical",
+      "Fruity"
+    ],
+    "terpenes": [
+      "D-Limonene",
+      "Beta-Myrcene",
+      "Beta-Caryophyllene",
+      "Ocimene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "amp-classic-251",
+      "name": "AMP Classic 25/1",
+      "brandName": "AMP",
+      "thcPercent": 25,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "thc-akut-tm-24-sw",
+      "name": "THC AKUT TM 24 SW",
+      "brandName": "Bathera",
+      "thcPercent": 25.1,
+      "priceMin": 449,
+      "inStock": true
+    },
+    {
+      "slug": "enua-201-abg-ca",
+      "name": "enua 20/1 ABG CA",
+      "brandName": "enua",
+      "thcPercent": 20,
+      "priceMin": 595,
+      "inStock": true
+    },
+    {
+      "slug": "weeco-231",
+      "name": "Weeco 23/1",
+      "brandName": "Weeco",
+      "thcPercent": 23,
+      "priceMin": 599,
+      "inStock": true
+    },
+    {
+      "slug": "aurora-221-dhz-ca",
+      "name": "Aurora 22/1 DHZ-CA",
+      "brandName": "Aurora",
+      "thcPercent": 19.8,
+      "priceMin": 640,
+      "inStock": true
+    },
+    {
+      "slug": "420-evolution-271-ca-str",
+      "name": "420 Evolution 27/1 CA STR",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 27,
+      "priceMin": 645,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Enua 22/1 ABG CA - enua | ab 3,90 €",
+      "description": "Enua 22/1 ABG CA von enua. THC: 22%, CBD: 1%. Sorte: Sweets. Preis ab 3,90 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/enua-221-abg-ca",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Enua 22/1 ABG CA - enua | ab 3,90 €",
+        "description": "Enua 22/1 ABG CA von enua. THC: 22%, CBD: 1%. Sorte: Sweets. Preis ab 3,90 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/enua-221-abg-ca",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "enua",
+        "href": "https://weed.de/brand/enua"
+      },
+      {
+        "name": "Enua 22/1 ABG CA",
+        "href": "https://weed.de/product/enua-221-abg-ca"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Enua 22/1 ABG CA",
+            "item": "https://weed.de/product/enua-221-abg-ca"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Enua 22/1 ABG CA",
+        "brand": {
+          "@type": "Brand",
+          "name": "enua"
+        },
+        "description": "THC: 22%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/sweets",
+      "text": "Sweets",
+      "title": "Sweets Sorte"
+    },
+    "brand": {
+      "href": "/brand/enua",
+      "text": "enua",
+      "title": "Alle enua Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/amp-classic-251",
+        "text": "AMP Classic 25/1",
+        "title": "Alternative: AMP Classic 25/1"
+      },
+      {
+        "href": "/product/thc-akut-tm-24-sw",
+        "text": "THC AKUT TM 24 SW",
+        "title": "Alternative: THC AKUT TM 24 SW"
+      },
+      {
+        "href": "/product/enua-201-abg-ca",
+        "text": "enua 20/1 ABG CA",
+        "title": "Alternative: enua 20/1 ABG CA"
+      },
+      {
+        "href": "/product/weeco-231",
+        "text": "Weeco 23/1",
+        "title": "Alternative: Weeco 23/1"
+      },
+      {
+        "href": "/product/aurora-221-dhz-ca",
+        "text": "Aurora 22/1 DHZ-CA",
+        "title": "Alternative: Aurora 22/1 DHZ-CA"
+      },
+      {
+        "href": "/product/420-evolution-271-ca-str",
+        "text": "420 Evolution 27/1 CA STR",
+        "title": "Alternative: 420 Evolution 27/1 CA STR"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

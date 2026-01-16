@@ -1,0 +1,187 @@
+{
+  "pharmacy": {
+    "slug": "kosmas-apotheke-ohg",
+    "name": "Kosmas-Apotheke",
+    "street": "Clemens-August-Platz 12",
+    "zip": "48167",
+    "cityName": "Münster",
+    "state": "Nordrhein-Westfalen",
+    "lat": 51.9606649,
+    "lng": 7.6261347,
+    "hasDelivery": false,
+    "hasPickup": true,
+    "hasPrices": false,
+    "website": "https://www.kosmas-apotheke.com/",
+    "phone": "+49251626632",
+    "email": "kosmas-apo@t-online.de",
+    "productCount": 0,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": null
+  },
+  "city": {
+    "slug": "muenster",
+    "name": "Münster",
+    "pharmacyCount": 6
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "hohenzollern-apotheke",
+      "name": "Hohenzollern Apotheke am Ring",
+      "cityName": "Münster",
+      "productCount": 80,
+      "hasDelivery": true
+    },
+    {
+      "slug": "bussicann-muenster-apotheke-im-hit",
+      "name": "Bussicann Münster - Partus HIT Apotheke",
+      "cityName": "Münster",
+      "productCount": 38,
+      "hasDelivery": false
+    },
+    {
+      "slug": "ludgeri-apotheke",
+      "name": "Ludgeri Apotheke",
+      "cityName": "Münster",
+      "productCount": 18,
+      "hasDelivery": false
+    },
+    {
+      "slug": "sued-apotheke",
+      "name": "Süd-Apotheke",
+      "cityName": "Münster",
+      "productCount": 2,
+      "hasDelivery": true
+    },
+    {
+      "slug": "test-pharmacy",
+      "name": "Test Pharmacy",
+      "cityName": "Münster",
+      "productCount": 0,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Kosmas-Apotheke - Cannabis Apotheke in Münster",
+      "description": "Kosmas-Apotheke in Münster. Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/kosmas-apotheke-ohg",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Kosmas-Apotheke - Cannabis Apotheke in Münster",
+        "description": "Kosmas-Apotheke in Münster. Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/kosmas-apotheke-ohg",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Münster",
+        "href": "https://weed.de/cannabis-apotheke/muenster"
+      },
+      {
+        "name": "Kosmas-Apotheke",
+        "href": "https://weed.de/apotheke/kosmas-apotheke-ohg"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Münster",
+            "item": "https://weed.de/cannabis-apotheke/muenster"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Kosmas-Apotheke",
+            "item": "https://weed.de/apotheke/kosmas-apotheke-ohg"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Kosmas-Apotheke",
+        "url": "https://weed.de/apotheke/kosmas-apotheke-ohg",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Clemens-August-Platz 12",
+          "addressLocality": "Münster",
+          "postalCode": "48167",
+          "addressRegion": "Nordrhein-Westfalen",
+          "addressCountry": "DE"
+        },
+        "telephone": "+49251626632",
+        "email": "kosmas-apo@t-online.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/muenster",
+      "text": "Cannabis Apotheken in Münster",
+      "title": "Alle Apotheken in Münster"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/hohenzollern-apotheke",
+        "text": "Hohenzollern Apotheke am Ring",
+        "title": "Hohenzollern Apotheke am Ring in Münster"
+      },
+      {
+        "href": "/apotheke/bussicann-muenster-apotheke-im-hit",
+        "text": "Bussicann Münster - Partus HIT Apotheke",
+        "title": "Bussicann Münster - Partus HIT Apotheke in Münster"
+      },
+      {
+        "href": "/apotheke/ludgeri-apotheke",
+        "text": "Ludgeri Apotheke",
+        "title": "Ludgeri Apotheke in Münster"
+      },
+      {
+        "href": "/apotheke/sued-apotheke",
+        "text": "Süd-Apotheke",
+        "title": "Süd-Apotheke in Münster"
+      },
+      {
+        "href": "/apotheke/test-pharmacy",
+        "text": "Test Pharmacy",
+        "title": "Test Pharmacy in Münster"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has services"
+  }
+}

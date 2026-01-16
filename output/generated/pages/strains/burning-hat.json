@@ -1,0 +1,229 @@
+{
+  "strain": {
+    "slug": "burning-hat",
+    "name": "Burning Hat",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Creative",
+      "Focused",
+      "Euphoric"
+    ],
+    "tastes": [
+      "Tar",
+      "Herbal",
+      "Earthy"
+    ],
+    "terpenes": [
+      "Trans-Caryophyllene",
+      "Limonene"
+    ],
+    "description": "Burning Hat ist ein seltener, kraftvoller Hybridstrain, der auf die genetische Innovationskraft von Gage Green Genetics zurückgeht – einer Züchtungsschmiede, die für komplexe, terpenreiche und hochwirksame Sorten bekannt ist. Burning Hat vereint moderne Genetik mit unverwechselbarem Aroma, starker Harzproduktion und einem wirksamen, aber ausgeglichenen Effektprofil. Obwohl der Strain nicht flächendeckend verbreitet ist, hat er sich in Kennerkreisen einen Ruf als geschmacklich markanter Hybrid mit therapeutischem Potenzial erarbeitet. Sein Ursprung liegt in der Weiterentwicklung des hauseigenen Kultivars Burn, das für seinen komplexen Geschmack und seine hohe Potenz bekannt ist.\n",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 399,
+      "max": 595,
+      "formatted": {
+        "min": "3,99 €",
+        "max": "5,95 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "remexian-181-trf-buh",
+      "name": "Remexian 18/1 TRF BUH",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 18,
+      "priceMin": 463,
+      "inStock": true
+    },
+    {
+      "slug": "remexian-211-trf-buh",
+      "name": "Remexian 21/1 TRF BUH",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 21,
+      "priceMin": 399,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "mac-1",
+      "name": "MAC 1",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "mac-deluxe",
+      "name": "MAC Deluxe",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "cap-junky",
+      "name": "Cap Junky",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "beta-808",
+      "name": "Beta 808",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "super-boof",
+      "name": "Super Boof",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Burning Hat (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Burning Hat: Creative, Focused, Euphoric. 2 Produkte verfügbar. ab 3,99 €.",
+      "canonical": "https://weed.de/strain/burning-hat",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Burning Hat (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Burning Hat: Creative, Focused, Euphoric. 2 Produkte verfügbar. ab 3,99 €.",
+        "url": "https://weed.de/strain/burning-hat",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Burning Hat",
+        "href": "https://weed.de/strain/burning-hat"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Burning Hat",
+            "item": "https://weed.de/strain/burning-hat"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Burning Hat Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/remexian-181-trf-buh",
+            "name": "Remexian 18/1 TRF BUH"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/remexian-211-trf-buh",
+            "name": "Remexian 21/1 TRF BUH"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/remexian-181-trf-buh",
+        "text": "Remexian 18/1 TRF BUH",
+        "title": "Remexian 18/1 TRF BUH von Remexian Pharma"
+      },
+      {
+        "href": "/product/remexian-211-trf-buh",
+        "text": "Remexian 21/1 TRF BUH",
+        "title": "Remexian 21/1 TRF BUH von Remexian Pharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/mac-1",
+        "text": "MAC 1",
+        "title": "MAC 1 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/mac-deluxe",
+        "text": "MAC Deluxe",
+        "title": "MAC Deluxe - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/cap-junky",
+        "text": "Cap Junky",
+        "title": "Cap Junky - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/beta-808",
+        "text": "Beta 808",
+        "title": "Beta 808 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/super-boof",
+        "text": "Super Boof",
+        "title": "Super Boof - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/trans-caryophyllene",
+        "text": "Trans-Caryophyllene",
+        "title": "Trans-Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

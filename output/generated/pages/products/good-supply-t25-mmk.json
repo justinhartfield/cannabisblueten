@@ -1,0 +1,221 @@
+{
+  "product": {
+    "slug": "good-supply-t25-mmk",
+    "name": "Good Supply T25 MMK",
+    "type": "flower",
+    "genetics": "hybrid_indica",
+    "thcPercent": 25,
+    "cbdPercent": 1,
+    "priceMin": 550,
+    "priceMax": 698,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": "https://weed.de/products/good-supply-t25-mmk-abh7af.png"
+  },
+  "brand": {
+    "slug": "tilray",
+    "name": "Tilray",
+    "productCount": 160
+  },
+  "strain": {
+    "slug": "master-mazar-kush",
+    "name": "Master Mazar Kush",
+    "geneticType": "hybrid",
+    "effects": [
+      "Relaxed"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Caryophyllene",
+      "Linalool"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Relaxed"
+    ],
+    "tastes": [
+      "Diesel",
+      "Herbal",
+      "Earthy"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Caryophyllene",
+      "Linalool"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "enua-251-cck-ca",
+      "name": "enua 25/1 CCK CA",
+      "brandName": "enua",
+      "thcPercent": 25.2,
+      "priceMin": 399,
+      "inStock": true
+    },
+    {
+      "slug": "ceres-no-2",
+      "name": "Ceres No. 2",
+      "brandName": "Cantourage",
+      "thcPercent": 25,
+      "priceMin": 590,
+      "inStock": true
+    },
+    {
+      "slug": "420-evolution-271-ca-icc",
+      "name": "420 EVOLUTION 27/1 CA ICC",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 27,
+      "priceMin": 684,
+      "inStock": true
+    },
+    {
+      "slug": "420-natural-221-gg4",
+      "name": "420 Natural 22/1 GG4",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 22,
+      "priceMin": 723,
+      "inStock": true
+    },
+    {
+      "slug": "avaay-241-sk",
+      "name": "AVAAY 24/1 SK",
+      "brandName": "Vayamed",
+      "thcPercent": 24,
+      "priceMin": 899,
+      "inStock": true
+    },
+    {
+      "slug": "avaay-241-did",
+      "name": "AVAAY 24/1 DiD",
+      "brandName": "Avaay",
+      "thcPercent": 24,
+      "priceMin": 949,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Good Supply T25 MMK - Tilray | ab 5,50 €",
+      "description": "Good Supply T25 MMK von Tilray. THC: 25%, CBD: 1%. Sorte: Master Mazar Kush. Preis ab 5,50 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/good-supply-t25-mmk",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Good Supply T25 MMK - Tilray | ab 5,50 €",
+        "description": "Good Supply T25 MMK von Tilray. THC: 25%, CBD: 1%. Sorte: Master Mazar Kush. Preis ab 5,50 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/good-supply-t25-mmk",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/good-supply-t25-mmk-abh7af.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Tilray",
+        "href": "https://weed.de/brand/tilray"
+      },
+      {
+        "name": "Good Supply T25 MMK",
+        "href": "https://weed.de/product/good-supply-t25-mmk"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Good Supply T25 MMK",
+            "item": "https://weed.de/product/good-supply-t25-mmk"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Good Supply T25 MMK",
+        "brand": {
+          "@type": "Brand",
+          "name": "Tilray"
+        },
+        "description": "THC: 25%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/master-mazar-kush",
+      "text": "Master Mazar Kush",
+      "title": "Master Mazar Kush Sorte"
+    },
+    "brand": {
+      "href": "/brand/tilray",
+      "text": "Tilray",
+      "title": "Alle Tilray Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/enua-251-cck-ca",
+        "text": "enua 25/1 CCK CA",
+        "title": "Alternative: enua 25/1 CCK CA"
+      },
+      {
+        "href": "/product/ceres-no-2",
+        "text": "Ceres No. 2",
+        "title": "Alternative: Ceres No. 2"
+      },
+      {
+        "href": "/product/420-evolution-271-ca-icc",
+        "text": "420 EVOLUTION 27/1 CA ICC",
+        "title": "Alternative: 420 EVOLUTION 27/1 CA ICC"
+      },
+      {
+        "href": "/product/420-natural-221-gg4",
+        "text": "420 Natural 22/1 GG4",
+        "title": "Alternative: 420 Natural 22/1 GG4"
+      },
+      {
+        "href": "/product/avaay-241-sk",
+        "text": "AVAAY 24/1 SK",
+        "title": "Alternative: AVAAY 24/1 SK"
+      },
+      {
+        "href": "/product/avaay-241-did",
+        "text": "AVAAY 24/1 DiD",
+        "title": "Alternative: AVAAY 24/1 DiD"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

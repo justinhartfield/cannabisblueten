@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "alle-farben-apotheke",
+    "name": "Alle Farben Apotheke",
+    "street": "Plettenberger Straße 26",
+    "zip": "49324",
+    "cityName": "Melle",
+    "state": "Niedersachsen",
+    "lat": 52.2020779,
+    "lng": 8.335717299999999,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": null,
+    "phone": "00495422709845",
+    "email": "info@allefarben-apotheke.de",
+    "productCount": 132,
+    "rating": 3.5,
+    "ratingCount": 6,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/668feaf80839a72b2a7f41e0-7ejj53.jpg"
+  },
+  "city": {
+    "slug": "melle",
+    "name": "Melle",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "happy-cannamed",
+      "name": "Marien Apotheke",
+      "cityName": "Cloppenburg",
+      "productCount": 61,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannanord",
+      "name": "CannaNord",
+      "cityName": "Oldenburg",
+      "productCount": 55,
+      "hasDelivery": true
+    },
+    {
+      "slug": "easycannabis-easyapotheke-citylebenstedt",
+      "name": "EasyCannabis easyApotheke CityLebenstedt",
+      "cityName": "Salzgitter",
+      "productCount": 40,
+      "hasDelivery": true
+    },
+    {
+      "slug": "sophie-green",
+      "name": "Sophie Green",
+      "cityName": "Meppen",
+      "productCount": 31,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-brome",
+      "name": "Apotheke Brome",
+      "cityName": "Brome",
+      "productCount": 31,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Alle Farben Apotheke - Cannabis Apotheke in Melle",
+      "description": "Alle Farben Apotheke in Melle. 132 Cannabis Produkte. Lieferung & Abholung. Bewertung: 3.5/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/alle-farben-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Alle Farben Apotheke - Cannabis Apotheke in Melle",
+        "description": "Alle Farben Apotheke in Melle. 132 Cannabis Produkte. Lieferung & Abholung. Bewertung: 3.5/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/alle-farben-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/668feaf80839a72b2a7f41e0-7ejj53.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Melle",
+        "href": "https://weed.de/cannabis-apotheke/melle"
+      },
+      {
+        "name": "Alle Farben Apotheke",
+        "href": "https://weed.de/apotheke/alle-farben-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Melle",
+            "item": "https://weed.de/cannabis-apotheke/melle"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Alle Farben Apotheke",
+            "item": "https://weed.de/apotheke/alle-farben-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Alle Farben Apotheke",
+        "url": "https://weed.de/apotheke/alle-farben-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Plettenberger Straße 26",
+          "addressLocality": "Melle",
+          "postalCode": "49324",
+          "addressRegion": "Niedersachsen",
+          "addressCountry": "DE"
+        },
+        "telephone": "00495422709845",
+        "email": "info@allefarben-apotheke.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/melle",
+      "text": "Cannabis Apotheken in Melle",
+      "title": "Alle Apotheken in Melle"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/happy-cannamed",
+        "text": "Marien Apotheke",
+        "title": "Marien Apotheke in Cloppenburg"
+      },
+      {
+        "href": "/apotheke/cannanord",
+        "text": "CannaNord",
+        "title": "CannaNord in Oldenburg"
+      },
+      {
+        "href": "/apotheke/easycannabis-easyapotheke-citylebenstedt",
+        "text": "EasyCannabis easyApotheke CityLebenstedt",
+        "title": "EasyCannabis easyApotheke CityLebenstedt in Salzgitter"
+      },
+      {
+        "href": "/apotheke/sophie-green",
+        "text": "Sophie Green",
+        "title": "Sophie Green in Meppen"
+      },
+      {
+        "href": "/apotheke/apotheke-brome",
+        "text": "Apotheke Brome",
+        "title": "Apotheke Brome in Brome"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

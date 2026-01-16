@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "apotheke-am-rathaus-lichtenberg",
+    "name": "Apotheke am Rathaus Lichtenberg",
+    "street": "Möllendorffstraße 111",
+    "zip": "10367",
+    "cityName": "Berlin",
+    "state": "Berlin",
+    "lat": 52.5161755,
+    "lng": 13.4787077,
+    "hasDelivery": false,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://www.apo-am-rathaus-lichtenberg.de/",
+    "phone": "0305594768",
+    "email": "apothekelichtenberg@t-online.de",
+    "productCount": 4,
+    "rating": 5,
+    "ratingCount": 2,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/68ff4a8e55496c85b50892cf-f24555.jpg"
+  },
+  "city": {
+    "slug": "berlin",
+    "name": "Berlin",
+    "pharmacyCount": 27
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "asavita",
+      "name": "Asavita",
+      "cityName": "Berlin",
+      "productCount": 126,
+      "hasDelivery": true
+    },
+    {
+      "slug": "herbery",
+      "name": "Herbery Berlin",
+      "cityName": "Berlin",
+      "productCount": 91,
+      "hasDelivery": true
+    },
+    {
+      "slug": "preussen-apotheke-spandau",
+      "name": "Preussen Apotheke Spandau",
+      "cityName": "Berlin",
+      "productCount": 66,
+      "hasDelivery": true
+    },
+    {
+      "slug": "jiroo",
+      "name": "jiroo",
+      "cityName": "Berlin",
+      "productCount": 57,
+      "hasDelivery": true
+    },
+    {
+      "slug": "witzleben-apotheke-24-1",
+      "name": "Witzleben Apotheke 24",
+      "cityName": "Berlin",
+      "productCount": 48,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Apotheke am Rathaus Lichtenberg - Cannabis Apotheke in Berlin",
+      "description": "Apotheke am Rathaus Lichtenberg in Berlin. 4 Cannabis Produkte. Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/apotheke-am-rathaus-lichtenberg",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Apotheke am Rathaus Lichtenberg - Cannabis Apotheke in Berlin",
+        "description": "Apotheke am Rathaus Lichtenberg in Berlin. 4 Cannabis Produkte. Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/apotheke-am-rathaus-lichtenberg",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/68ff4a8e55496c85b50892cf-f24555.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Berlin",
+        "href": "https://weed.de/cannabis-apotheke/berlin"
+      },
+      {
+        "name": "Apotheke am Rathaus Lichtenberg",
+        "href": "https://weed.de/apotheke/apotheke-am-rathaus-lichtenberg"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Berlin",
+            "item": "https://weed.de/cannabis-apotheke/berlin"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Apotheke am Rathaus Lichtenberg",
+            "item": "https://weed.de/apotheke/apotheke-am-rathaus-lichtenberg"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Apotheke am Rathaus Lichtenberg",
+        "url": "https://weed.de/apotheke/apotheke-am-rathaus-lichtenberg",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Möllendorffstraße 111",
+          "addressLocality": "Berlin",
+          "postalCode": "10367",
+          "addressRegion": "Berlin",
+          "addressCountry": "DE"
+        },
+        "telephone": "0305594768",
+        "email": "apothekelichtenberg@t-online.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/berlin",
+      "text": "Cannabis Apotheken in Berlin",
+      "title": "Alle Apotheken in Berlin"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/asavita",
+        "text": "Asavita",
+        "title": "Asavita in Berlin"
+      },
+      {
+        "href": "/apotheke/herbery",
+        "text": "Herbery Berlin",
+        "title": "Herbery Berlin in Berlin"
+      },
+      {
+        "href": "/apotheke/preussen-apotheke-spandau",
+        "text": "Preussen Apotheke Spandau",
+        "title": "Preussen Apotheke Spandau in Berlin"
+      },
+      {
+        "href": "/apotheke/jiroo",
+        "text": "jiroo",
+        "title": "jiroo in Berlin"
+      },
+      {
+        "href": "/apotheke/witzleben-apotheke-24-1",
+        "text": "Witzleben Apotheke 24",
+        "title": "Witzleben Apotheke 24 in Berlin"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

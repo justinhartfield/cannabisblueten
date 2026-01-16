@@ -1,0 +1,223 @@
+{
+  "product": {
+    "slug": "cannabistada-extrakt-251",
+    "name": "CannabiStada Extrakt 25/1",
+    "type": "extract",
+    "genetics": "hybrid",
+    "thcPercent": 2.5,
+    "cbdPercent": 0.1,
+    "priceMin": 949,
+    "priceMax": 1260,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": null,
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "stada",
+    "name": "Stada",
+    "productCount": 26
+  },
+  "strain": {
+    "slug": "northern-lights",
+    "name": "Northern Lights",
+    "geneticType": "indica",
+    "effects": [
+      "Relaxed",
+      "Mental ease",
+      "Euphoric"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Caryophyllene",
+      "Limonene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Relaxed",
+      "Mental ease",
+      "Euphoric"
+    ],
+    "tastes": [
+      "Spicy-Herbal",
+      "Sweet"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Caryophyllene",
+      "Limonene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "tilray-thc-25-spotlight-porto-purps",
+      "name": "Tilray THC 25 Spotlight Porto Purps",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": 349,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc5cbd2",
+      "name": "Tilray Cannabisextrakt THC5:CBD20",
+      "brandName": "Tilray",
+      "thcPercent": 5,
+      "priceMin": 350,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc1cbd1",
+      "name": "Tilray Cannabisextrakt THC10:CBD10",
+      "brandName": "Tilray",
+      "thcPercent": 10,
+      "priceMin": 400,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-2",
+      "name": "Demecan Typ 2",
+      "brandName": "Demecan",
+      "thcPercent": 16,
+      "priceMin": 533,
+      "inStock": true
+    },
+    {
+      "slug": "khiron-191-gelato",
+      "name": "Khiron 19/1 Gelato",
+      "brandName": "Khiron",
+      "thcPercent": 17.6,
+      "priceMin": 638,
+      "inStock": true
+    },
+    {
+      "slug": "cannabistada-1010",
+      "name": "CannabiStada 10/10",
+      "brandName": "Stada",
+      "thcPercent": 10,
+      "priceMin": 795,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "CannabiStada Extrakt 25/1 | ab 9,49 €",
+      "description": "CannabiStada Extrakt 25/1 von Stada. THC: 2.5%, CBD: 0.1%. Sorte: Northern Lights. Preis ab 9,49 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/cannabistada-extrakt-251",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "CannabiStada Extrakt 25/1 | ab 9,49 €",
+        "description": "CannabiStada Extrakt 25/1 von Stada. THC: 2.5%, CBD: 0.1%. Sorte: Northern Lights. Preis ab 9,49 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/cannabistada-extrakt-251",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Stada",
+        "href": "https://weed.de/brand/stada"
+      },
+      {
+        "name": "CannabiStada Extrakt 25/1",
+        "href": "https://weed.de/product/cannabistada-extrakt-251"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "CannabiStada Extrakt 25/1",
+            "item": "https://weed.de/product/cannabistada-extrakt-251"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "CannabiStada Extrakt 25/1",
+        "brand": {
+          "@type": "Brand",
+          "name": "Stada"
+        },
+        "description": "THC: 2.5%, CBD: 0.1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/northern-lights",
+      "text": "Northern Lights",
+      "title": "Northern Lights Sorte"
+    },
+    "brand": {
+      "href": "/brand/stada",
+      "text": "Stada",
+      "title": "Alle Stada Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/tilray-thc-25-spotlight-porto-purps",
+        "text": "Tilray THC 25 Spotlight Porto Purps",
+        "title": "Alternative: Tilray THC 25 Spotlight Porto Purps"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc5cbd2",
+        "text": "Tilray Cannabisextrakt THC5:CBD20",
+        "title": "Alternative: Tilray Cannabisextrakt THC5:CBD20"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc1cbd1",
+        "text": "Tilray Cannabisextrakt THC10:CBD10",
+        "title": "Alternative: Tilray Cannabisextrakt THC10:CBD10"
+      },
+      {
+        "href": "/product/demecan-typ-2",
+        "text": "Demecan Typ 2",
+        "title": "Alternative: Demecan Typ 2"
+      },
+      {
+        "href": "/product/khiron-191-gelato",
+        "text": "Khiron 19/1 Gelato",
+        "title": "Alternative: Khiron 19/1 Gelato"
+      },
+      {
+        "href": "/product/cannabistada-1010",
+        "text": "CannabiStada 10/10",
+        "title": "Alternative: CannabiStada 10/10"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

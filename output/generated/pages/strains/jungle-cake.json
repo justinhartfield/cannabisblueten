@@ -1,0 +1,255 @@
+{
+  "strain": {
+    "slug": "jungle-cake",
+    "name": "Jungle Cake",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Talkative",
+      "Happy",
+      "Giggly"
+    ],
+    "tastes": [
+      "Vanilla",
+      "Sweet",
+      "Citrus",
+      "Earthy"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Caryophyllene"
+    ],
+    "description": "Jungle Cake ist eine Hybrid-Sorte, die aus der Kreuzung von \"White Fire #43\" und \"Wedding Cake\" hervorgeht. Sie ist für ihren hohen THC-Gehalt bekannt, der in der Regel zwischen 25% und 28% liegt, und hat einen niedrigen CBD-Gehalt, normalerweise weniger als 1%. Jungle Cake bietet ein köstliches Geschmacksprofil mit Anklängen von Vanille, Süße, Zitrusfrüchten und Erde, was ein angenehmes und komplexes Geschmackserlebnis schafft. Der Genuss von Jungle Cake kann mit gesteigerter Gesprächigkeit, Glückseligkeit und einer Neigung zum Lachen einher gehen.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 3,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 589,
+      "max": 899,
+      "formatted": {
+        "min": "5,89 €",
+        "max": "8,99 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "remexian-301",
+      "name": "Remexian 30/1 JUC",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 30,
+      "priceMin": 599,
+      "inStock": false
+    },
+    {
+      "slug": "remexian-31-mtl-juc",
+      "name": "Remexian 30/1 MTL JUC",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 30,
+      "priceMin": 589,
+      "inStock": false
+    },
+    {
+      "slug": "remexian-331-mtl-juc",
+      "name": "Remexian 33/1 MTL JUC",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 33,
+      "priceMin": 698,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "alien-cookies",
+      "name": "Alien Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "banana-kush",
+      "name": "Banana Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "afghani-skunk",
+      "name": "Afghani Skunk",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "chemdawg-91",
+      "name": "Chemdawg 91",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "strawberry-glue",
+      "name": "Strawberry Glue",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Jungle Cake (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Jungle Cake: Talkative, Happy, Giggly. 3 Produkte verfügbar. ab 5,89 €.",
+      "canonical": "https://weed.de/strain/jungle-cake",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Jungle Cake (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Jungle Cake: Talkative, Happy, Giggly. 3 Produkte verfügbar. ab 5,89 €.",
+        "url": "https://weed.de/strain/jungle-cake",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Jungle Cake",
+        "href": "https://weed.de/strain/jungle-cake"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Jungle Cake",
+            "item": "https://weed.de/strain/jungle-cake"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Jungle Cake Produkte",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/remexian-301",
+            "name": "Remexian 30/1 JUC"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/remexian-31-mtl-juc",
+            "name": "Remexian 30/1 MTL JUC"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/remexian-331-mtl-juc",
+            "name": "Remexian 33/1 MTL JUC"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/remexian-301",
+        "text": "Remexian 30/1 JUC",
+        "title": "Remexian 30/1 JUC von Remexian Pharma"
+      },
+      {
+        "href": "/product/remexian-31-mtl-juc",
+        "text": "Remexian 30/1 MTL JUC",
+        "title": "Remexian 30/1 MTL JUC von Remexian Pharma"
+      },
+      {
+        "href": "/product/remexian-331-mtl-juc",
+        "text": "Remexian 33/1 MTL JUC",
+        "title": "Remexian 33/1 MTL JUC von Remexian Pharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/alien-cookies",
+        "text": "Alien Cookies",
+        "title": "Alien Cookies - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/banana-kush",
+        "text": "Banana Kush",
+        "title": "Banana Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/afghani-skunk",
+        "text": "Afghani Skunk",
+        "title": "Afghani Skunk - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/chemdawg-91",
+        "text": "Chemdawg 91",
+        "title": "Chemdawg 91 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/strawberry-glue",
+        "text": "Strawberry Glue",
+        "title": "Strawberry Glue - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

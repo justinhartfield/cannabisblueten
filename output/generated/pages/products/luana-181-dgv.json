@@ -1,0 +1,224 @@
+{
+  "product": {
+    "slug": "luana-181-dgv",
+    "name": "Luana 18/1 DGV",
+    "type": "flower",
+    "genetics": "hybrid_sativa",
+    "thcPercent": 18,
+    "cbdPercent": 1,
+    "priceMin": 399,
+    "priceMax": 515,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kolumbien",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "cannamedical",
+    "name": "Cannamedical",
+    "productCount": 238
+  },
+  "strain": {
+    "slug": "dougs-varin",
+    "name": "Dougs Varin",
+    "geneticType": "sativa",
+    "effects": [
+      "Euphoric",
+      "Focused",
+      "Energetic"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Alpha-Pinene",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Euphoric",
+      "Focused",
+      "Energetic"
+    ],
+    "tastes": [
+      "Pine",
+      "Earthy",
+      "Citrus"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Alpha-Pinene",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "madrecan-241-dgv",
+      "name": "madrecan 24/1 DGV",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 24,
+      "priceMin": 369,
+      "inStock": true
+    },
+    {
+      "slug": "madrecan-211-dgv",
+      "name": "madrecan 21/1 DGV",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 21,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "amp-classic-251",
+      "name": "AMP Classic 25/1",
+      "brandName": "AMP",
+      "thcPercent": 25,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "cannabis-flos-161-cl-ku",
+      "name": "Canify Cannabis flos 16/1 CL Ku.",
+      "brandName": "Canify",
+      "thcPercent": 16,
+      "priceMin": 449,
+      "inStock": true
+    },
+    {
+      "slug": "weeco-231",
+      "name": "Weeco 23/1",
+      "brandName": "Weeco",
+      "thcPercent": 23,
+      "priceMin": 599,
+      "inStock": true
+    },
+    {
+      "slug": "420-evolution-271-ca-str",
+      "name": "420 Evolution 27/1 CA STR",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 27,
+      "priceMin": 645,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Luana 18/1 DGV - Cannamedical | ab 3,99 €",
+      "description": "Luana 18/1 DGV von Cannamedical. THC: 18%, CBD: 1%. Sorte: Dougs Varin. Preis ab 3,99 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/luana-181-dgv",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Luana 18/1 DGV - Cannamedical | ab 3,99 €",
+        "description": "Luana 18/1 DGV von Cannamedical. THC: 18%, CBD: 1%. Sorte: Dougs Varin. Preis ab 3,99 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/luana-181-dgv",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Cannamedical",
+        "href": "https://weed.de/brand/cannamedical"
+      },
+      {
+        "name": "Luana 18/1 DGV",
+        "href": "https://weed.de/product/luana-181-dgv"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Luana 18/1 DGV",
+            "item": "https://weed.de/product/luana-181-dgv"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Luana 18/1 DGV",
+        "brand": {
+          "@type": "Brand",
+          "name": "Cannamedical"
+        },
+        "description": "THC: 18%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/dougs-varin",
+      "text": "Dougs Varin",
+      "title": "Dougs Varin Sorte"
+    },
+    "brand": {
+      "href": "/brand/cannamedical",
+      "text": "Cannamedical",
+      "title": "Alle Cannamedical Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/madrecan-241-dgv",
+        "text": "madrecan 24/1 DGV",
+        "title": "Alternative: madrecan 24/1 DGV"
+      },
+      {
+        "href": "/product/madrecan-211-dgv",
+        "text": "madrecan 21/1 DGV",
+        "title": "Alternative: madrecan 21/1 DGV"
+      },
+      {
+        "href": "/product/amp-classic-251",
+        "text": "AMP Classic 25/1",
+        "title": "Alternative: AMP Classic 25/1"
+      },
+      {
+        "href": "/product/cannabis-flos-161-cl-ku",
+        "text": "Canify Cannabis flos 16/1 CL Ku.",
+        "title": "Alternative: Canify Cannabis flos 16/1 CL Ku."
+      },
+      {
+        "href": "/product/weeco-231",
+        "text": "Weeco 23/1",
+        "title": "Alternative: Weeco 23/1"
+      },
+      {
+        "href": "/product/420-evolution-271-ca-str",
+        "text": "420 Evolution 27/1 CA STR",
+        "title": "Alternative: 420 Evolution 27/1 CA STR"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

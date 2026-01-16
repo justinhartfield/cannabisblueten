@@ -1,0 +1,228 @@
+{
+  "product": {
+    "slug": "bc-green-31-tck",
+    "name": "BC Green 30/1 TCK",
+    "type": "flower",
+    "genetics": "hybrid_indica",
+    "thcPercent": 30,
+    "cbdPercent": 1,
+    "priceMin": 599,
+    "priceMax": 995,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Portugal",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "bc-green",
+    "name": "BC Green",
+    "productCount": 16
+  },
+  "strain": {
+    "slug": "tiger-cake",
+    "name": "Tiger Cake",
+    "geneticType": "hybrid",
+    "effects": [
+      "Euphoric",
+      "Relaxed",
+      "Hungry"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Myrcene",
+      "Limonene",
+      "Humulene",
+      "Ocimene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Euphoric",
+      "Relaxed",
+      "Hungry"
+    ],
+    "tastes": [
+      "Vanilla",
+      "Earthy",
+      "Diesel"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Myrcene",
+      "Limonene",
+      "Humulene",
+      "Ocimene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "enua-251-cck-ca",
+      "name": "enua 25/1 CCK CA",
+      "brandName": "enua",
+      "thcPercent": 25.2,
+      "priceMin": 399,
+      "inStock": true
+    },
+    {
+      "slug": "canopy-tck-27",
+      "name": "Canopy TCK 27",
+      "brandName": "Canopy Growth",
+      "thcPercent": 28,
+      "priceMin": 549,
+      "inStock": true
+    },
+    {
+      "slug": "ceres-no-2",
+      "name": "Ceres No. 2",
+      "brandName": "Cantourage",
+      "thcPercent": 25,
+      "priceMin": 590,
+      "inStock": true
+    },
+    {
+      "slug": "420-natural-221-gg4",
+      "name": "420 Natural 22/1 GG4",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 22,
+      "priceMin": 723,
+      "inStock": true
+    },
+    {
+      "slug": "avaay-241-did",
+      "name": "AVAAY 24/1 DiD",
+      "brandName": "Avaay",
+      "thcPercent": 24,
+      "priceMin": 949,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-301-oktonia",
+      "name": "Demecan 30/1 Oktonia",
+      "brandName": "Deutsche Medizinalcannabis",
+      "thcPercent": 3,
+      "priceMin": 1079,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "BC Green 30/1 TCK | ab 5,99 €",
+      "description": "BC Green 30/1 TCK von BC Green. THC: 30%, CBD: 1%. Sorte: Tiger Cake. Preis ab 5,99 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/bc-green-31-tck",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "BC Green 30/1 TCK | ab 5,99 €",
+        "description": "BC Green 30/1 TCK von BC Green. THC: 30%, CBD: 1%. Sorte: Tiger Cake. Preis ab 5,99 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/bc-green-31-tck",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "BC Green",
+        "href": "https://weed.de/brand/bc-green"
+      },
+      {
+        "name": "BC Green 30/1 TCK",
+        "href": "https://weed.de/product/bc-green-31-tck"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "BC Green 30/1 TCK",
+            "item": "https://weed.de/product/bc-green-31-tck"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BC Green 30/1 TCK",
+        "brand": {
+          "@type": "Brand",
+          "name": "BC Green"
+        },
+        "description": "THC: 30%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/tiger-cake",
+      "text": "Tiger Cake",
+      "title": "Tiger Cake Sorte"
+    },
+    "brand": {
+      "href": "/brand/bc-green",
+      "text": "BC Green",
+      "title": "Alle BC Green Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/enua-251-cck-ca",
+        "text": "enua 25/1 CCK CA",
+        "title": "Alternative: enua 25/1 CCK CA"
+      },
+      {
+        "href": "/product/canopy-tck-27",
+        "text": "Canopy TCK 27",
+        "title": "Alternative: Canopy TCK 27"
+      },
+      {
+        "href": "/product/ceres-no-2",
+        "text": "Ceres No. 2",
+        "title": "Alternative: Ceres No. 2"
+      },
+      {
+        "href": "/product/420-natural-221-gg4",
+        "text": "420 Natural 22/1 GG4",
+        "title": "Alternative: 420 Natural 22/1 GG4"
+      },
+      {
+        "href": "/product/avaay-241-did",
+        "text": "AVAAY 24/1 DiD",
+        "title": "Alternative: AVAAY 24/1 DiD"
+      },
+      {
+        "href": "/product/demecan-301-oktonia",
+        "text": "Demecan 30/1 Oktonia",
+        "title": "Alternative: Demecan 30/1 Oktonia"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

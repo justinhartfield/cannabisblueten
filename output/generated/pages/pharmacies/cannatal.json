@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "cannatal",
+    "name": "CannaTal",
+    "street": "Bahnhofsplatz 4",
+    "zip": "51766",
+    "cityName": "Engelskirchen",
+    "state": "Nordrhein-Westfalen",
+    "lat": 50.9871222,
+    "lng": 7.408398,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://cannatal.de/",
+    "phone": "02263481408",
+    "email": "Info@cannatal.de",
+    "productCount": 144,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/682aefcbf80d26fe2cc475b6-e865d4.jpg"
+  },
+  "city": {
+    "slug": "engelskirchen",
+    "name": "Engelskirchen",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "higreen-apotheke",
+      "name": "higreen! Online Marktplatz für Cannabis Apotheken",
+      "cityName": "Krefeld",
+      "productCount": 256,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-zur-alten-post",
+      "name": "Cannacompany (Apotheke zur Alten Post)",
+      "cityName": "Bonn",
+      "productCount": 233,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis-apotheke-essen-glocken-apotheke",
+      "name": "Cannabis Apotheke Essen (Glocken Apotheke)",
+      "cityName": "Essen",
+      "productCount": 174,
+      "hasDelivery": true
+    },
+    {
+      "slug": "grafenberger-apotheke",
+      "name": "GRAFENBERGER APOTHEKE",
+      "cityName": "Düsseldorf",
+      "productCount": 158,
+      "hasDelivery": true
+    },
+    {
+      "slug": "420brokkoli",
+      "name": "420brokkoli",
+      "cityName": "Paderborn",
+      "productCount": 156,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "CannaTal - Cannabis Apotheke in Engelskirchen",
+      "description": "CannaTal in Engelskirchen. 144 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/cannatal",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "CannaTal - Cannabis Apotheke in Engelskirchen",
+        "description": "CannaTal in Engelskirchen. 144 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/cannatal",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/682aefcbf80d26fe2cc475b6-e865d4.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Engelskirchen",
+        "href": "https://weed.de/cannabis-apotheke/engelskirchen"
+      },
+      {
+        "name": "CannaTal",
+        "href": "https://weed.de/apotheke/cannatal"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Engelskirchen",
+            "item": "https://weed.de/cannabis-apotheke/engelskirchen"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "CannaTal",
+            "item": "https://weed.de/apotheke/cannatal"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "CannaTal",
+        "url": "https://weed.de/apotheke/cannatal",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Bahnhofsplatz 4",
+          "addressLocality": "Engelskirchen",
+          "postalCode": "51766",
+          "addressRegion": "Nordrhein-Westfalen",
+          "addressCountry": "DE"
+        },
+        "telephone": "02263481408",
+        "email": "Info@cannatal.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/engelskirchen",
+      "text": "Cannabis Apotheken in Engelskirchen",
+      "title": "Alle Apotheken in Engelskirchen"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/higreen-apotheke",
+        "text": "higreen! Online Marktplatz für Cannabis Apotheken",
+        "title": "higreen! Online Marktplatz für Cannabis Apotheken in Krefeld"
+      },
+      {
+        "href": "/apotheke/apotheke-zur-alten-post",
+        "text": "Cannacompany (Apotheke zur Alten Post)",
+        "title": "Cannacompany (Apotheke zur Alten Post) in Bonn"
+      },
+      {
+        "href": "/apotheke/cannabis-apotheke-essen-glocken-apotheke",
+        "text": "Cannabis Apotheke Essen (Glocken Apotheke)",
+        "title": "Cannabis Apotheke Essen (Glocken Apotheke) in Essen"
+      },
+      {
+        "href": "/apotheke/grafenberger-apotheke",
+        "text": "GRAFENBERGER APOTHEKE",
+        "title": "GRAFENBERGER APOTHEKE in Düsseldorf"
+      },
+      {
+        "href": "/apotheke/420brokkoli",
+        "text": "420brokkoli",
+        "title": "420brokkoli in Paderborn"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

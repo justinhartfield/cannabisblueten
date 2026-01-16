@@ -1,0 +1,229 @@
+{
+  "strain": {
+    "slug": "blueberry-haze",
+    "name": "Blueberry Haze",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Euphoric",
+      "Uplifted",
+      "Giggly",
+      "Happy"
+    ],
+    "tastes": [
+      "Sweet",
+      "Fruity",
+      "Berry"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Pinene",
+      "Caryophyllene"
+    ],
+    "description": "Blueberry Haze ist eine einzigartige Mischung aus den legendären Kultivaren Blueberry und Haze-Special. Sie hat einen mittleren THC-Gehalt, um 18 %, mit den Haupt-Terpenen Myrcen und Pinene. Es wurde berichtet, dass diese Sorte eine Reihe von Wirkungen hervorruft, von Entspannung bis hin zu Stimulation, was auf eine mögliche therapeutische Verwendung zur Stimmungsregulierung hindeutet. Ihr ausgeprägtes süßes und fruchtiges Geschmacksprofil könnte Nutzer ansprechen, die nach vielfältigen sensorischen Erfahrungen in Verbindung mit der Behandlung von Symptomen suchen.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": null
+  },
+  "products": [
+    {
+      "slug": "avaay-181-bbh",
+      "name": "Avaay 18/1 BBH",
+      "brandName": "Vayamed",
+      "thcPercent": 18,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "avaay-161-bbh",
+      "name": "AVAAY 16/1 BBH",
+      "brandName": "Vayamed",
+      "thcPercent": 16.6,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "cherry-pie",
+      "name": "Cherry Pie",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "granddaddy-og",
+      "name": "Granddaddy OG",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "cherry-mintz",
+      "name": "Cherry Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "auto-grease-monkey",
+      "name": "Auto Grease Monkey",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "banana-cream-cake",
+      "name": "Banana Cream Cake",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Blueberry Haze (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Blueberry Haze: Euphoric, Uplifted, Giggly. 2 Produkte verfügbar.",
+      "canonical": "https://weed.de/strain/blueberry-haze",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Blueberry Haze (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Blueberry Haze: Euphoric, Uplifted, Giggly. 2 Produkte verfügbar.",
+        "url": "https://weed.de/strain/blueberry-haze",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Blueberry Haze",
+        "href": "https://weed.de/strain/blueberry-haze"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Blueberry Haze",
+            "item": "https://weed.de/strain/blueberry-haze"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Blueberry Haze Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/avaay-181-bbh",
+            "name": "Avaay 18/1 BBH"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/avaay-161-bbh",
+            "name": "AVAAY 16/1 BBH"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/avaay-181-bbh",
+        "text": "Avaay 18/1 BBH",
+        "title": "Avaay 18/1 BBH von Vayamed"
+      },
+      {
+        "href": "/product/avaay-161-bbh",
+        "text": "AVAAY 16/1 BBH",
+        "title": "AVAAY 16/1 BBH von Vayamed"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/cherry-pie",
+        "text": "Cherry Pie",
+        "title": "Cherry Pie - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/granddaddy-og",
+        "text": "Granddaddy OG",
+        "title": "Granddaddy OG - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/cherry-mintz",
+        "text": "Cherry Mints",
+        "title": "Cherry Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/auto-grease-monkey",
+        "text": "Auto Grease Monkey",
+        "title": "Auto Grease Monkey - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/banana-cream-cake",
+        "text": "Banana Cream Cake",
+        "title": "Banana Cream Cake - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/pinene",
+        "text": "Pinene",
+        "title": "Pinene Terpen"
+      },
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

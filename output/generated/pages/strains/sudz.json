@@ -1,0 +1,265 @@
+{
+  "strain": {
+    "slug": "sudz",
+    "name": "Sudz",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [
+      "Relaxed",
+      "Activating"
+    ],
+    "tastes": [
+      "Fruity",
+      "Sweet"
+    ],
+    "terpenes": [
+      "Linalool",
+      "Beta-Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 4,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 575,
+      "max": 1010,
+      "formatted": {
+        "min": "5,75 €",
+        "max": "10,10 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "jrstrain-sudz-271",
+      "name": "J.R.Strain Sudz 27/1",
+      "brandName": "Cantourage",
+      "thcPercent": 27,
+      "priceMin": 1010,
+      "inStock": true
+    },
+    {
+      "slug": "buuo-241-sudz",
+      "name": "Buuo 24/1 Sudz",
+      "brandName": "WMG Pharma",
+      "thcPercent": 24,
+      "priceMin": 575,
+      "inStock": true
+    },
+    {
+      "slug": "omg-241-hgm-sud",
+      "name": "OMG! 24/1 HGM SUD",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 24,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "jr-strain-221",
+      "name": "J.R. Strain 22/1",
+      "brandName": "Cantourage",
+      "thcPercent": 22,
+      "priceMin": 680,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "venomz-eve",
+      "name": "Venomz Eve",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "gelato-zkittles",
+      "name": "Gelato Zkittles",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "frosted-gelato",
+      "name": "Frosted Gelato",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "rose-ember",
+      "name": "Rose Ember",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "do-si-dos",
+      "name": "Do-Si-Dos",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Sudz (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Sudz: Relaxed, Activating. 4 Produkte verfügbar. ab 5,75 €.",
+      "canonical": "https://weed.de/strain/sudz",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Sudz (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Sudz: Relaxed, Activating. 4 Produkte verfügbar. ab 5,75 €.",
+        "url": "https://weed.de/strain/sudz",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Sudz",
+        "href": "https://weed.de/strain/sudz"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Sudz",
+            "item": "https://weed.de/strain/sudz"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Sudz Produkte",
+        "numberOfItems": 4,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/jrstrain-sudz-271",
+            "name": "J.R.Strain Sudz 27/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/buuo-241-sudz",
+            "name": "Buuo 24/1 Sudz"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/omg-241-hgm-sud",
+            "name": "OMG! 24/1 HGM SUD"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/product/jr-strain-221",
+            "name": "J.R. Strain 22/1"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/jrstrain-sudz-271",
+        "text": "J.R.Strain Sudz 27/1",
+        "title": "J.R.Strain Sudz 27/1 von Cantourage"
+      },
+      {
+        "href": "/product/buuo-241-sudz",
+        "text": "Buuo 24/1 Sudz",
+        "title": "Buuo 24/1 Sudz von WMG Pharma"
+      },
+      {
+        "href": "/product/omg-241-hgm-sud",
+        "text": "OMG! 24/1 HGM SUD",
+        "title": "OMG! 24/1 HGM SUD von Remexian Pharma"
+      },
+      {
+        "href": "/product/jr-strain-221",
+        "text": "J.R. Strain 22/1",
+        "title": "J.R. Strain 22/1 von Cantourage"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/venomz-eve",
+        "text": "Venomz Eve",
+        "title": "Venomz Eve - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/gelato-zkittles",
+        "text": "Gelato Zkittles",
+        "title": "Gelato Zkittles - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/frosted-gelato",
+        "text": "Frosted Gelato",
+        "title": "Frosted Gelato - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/rose-ember",
+        "text": "Rose Ember",
+        "title": "Rose Ember - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/do-si-dos",
+        "text": "Do-Si-Dos",
+        "title": "Do-Si-Dos - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

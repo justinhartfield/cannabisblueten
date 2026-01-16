@@ -1,0 +1,225 @@
+{
+  "product": {
+    "slug": "luana-241-delight-cc",
+    "name": "Luana 24/1 Delight CC",
+    "type": "flower",
+    "genetics": "sativa",
+    "thcPercent": 24,
+    "cbdPercent": 1,
+    "priceMin": 547,
+    "priceMax": 547,
+    "inStock": false,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": "https://weed.de/products/luana-241-delight-cc-5dbdfe.png"
+  },
+  "brand": {
+    "slug": "cannamedical",
+    "name": "Cannamedical",
+    "productCount": 238
+  },
+  "strain": {
+    "slug": "carnez-citric",
+    "name": "Carnez Citric",
+    "geneticType": "sativa",
+    "effects": [
+      "Euphoric",
+      "Creative",
+      "Focused"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Beta-Caryophyllene",
+      "Limonene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Euphoric",
+      "Creative",
+      "Focused"
+    ],
+    "tastes": [
+      "Herbal",
+      "Citrus",
+      "Sweet"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Beta-Caryophyllene",
+      "Limonene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "luana-21-delight",
+      "name": "Luana 20/1 Delight",
+      "brandName": "Cannamedical",
+      "thcPercent": 22,
+      "priceMin": 389,
+      "inStock": true
+    },
+    {
+      "slug": "canify-cannabis-flos-231-csf-ku",
+      "name": "Canify Cannabis Flos 23/1 CSF Ku.",
+      "brandName": "Canify",
+      "thcPercent": 23,
+      "priceMin": 419,
+      "inStock": true
+    },
+    {
+      "slug": "aurora-typ-1",
+      "name": "Aurora Typ 1",
+      "brandName": "Aurora",
+      "thcPercent": 19,
+      "priceMin": 479,
+      "inStock": true
+    },
+    {
+      "slug": "cannabis-flos-251-csf",
+      "name": "Canify Cannabis Flos 25/1 CSF",
+      "brandName": "Canify",
+      "thcPercent": 25,
+      "priceMin": 499,
+      "inStock": true
+    },
+    {
+      "slug": "pedanios-22-1",
+      "name": "Pedanios 22/1",
+      "brandName": "Aurora",
+      "thcPercent": 22,
+      "priceMin": 629,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-sativa-forte-tc",
+      "name": "Cannamedical Sativa forte TC",
+      "brandName": "Cannamedical",
+      "thcPercent": 24,
+      "priceMin": 683,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Luana 24/1 Delight CC - Cannamedical | ab 5,47 €",
+      "description": "Luana 24/1 Delight CC von Cannamedical. THC: 24%, CBD: 1%. Sorte: Carnez Citric. Preis ab 5,47 €. Preise vergleichen.",
+      "canonical": "https://weed.de/product/luana-241-delight-cc",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Luana 24/1 Delight CC - Cannamedical | ab 5,47 €",
+        "description": "Luana 24/1 Delight CC von Cannamedical. THC: 24%, CBD: 1%. Sorte: Carnez Citric. Preis ab 5,47 €. Preise vergleichen.",
+        "url": "https://weed.de/product/luana-241-delight-cc",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/luana-241-delight-cc-5dbdfe.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Cannamedical",
+        "href": "https://weed.de/brand/cannamedical"
+      },
+      {
+        "name": "Luana 24/1 Delight CC",
+        "href": "https://weed.de/product/luana-241-delight-cc"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Luana 24/1 Delight CC",
+            "item": "https://weed.de/product/luana-241-delight-cc"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Luana 24/1 Delight CC",
+        "brand": {
+          "@type": "Brand",
+          "name": "Cannamedical"
+        },
+        "description": "THC: 24%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/carnez-citric",
+      "text": "Carnez Citric",
+      "title": "Carnez Citric Sorte"
+    },
+    "brand": {
+      "href": "/brand/cannamedical",
+      "text": "Cannamedical",
+      "title": "Alle Cannamedical Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/luana-21-delight",
+        "text": "Luana 20/1 Delight",
+        "title": "Alternative: Luana 20/1 Delight"
+      },
+      {
+        "href": "/product/canify-cannabis-flos-231-csf-ku",
+        "text": "Canify Cannabis Flos 23/1 CSF Ku.",
+        "title": "Alternative: Canify Cannabis Flos 23/1 CSF Ku."
+      },
+      {
+        "href": "/product/aurora-typ-1",
+        "text": "Aurora Typ 1",
+        "title": "Alternative: Aurora Typ 1"
+      },
+      {
+        "href": "/product/cannabis-flos-251-csf",
+        "text": "Canify Cannabis Flos 25/1 CSF",
+        "title": "Alternative: Canify Cannabis Flos 25/1 CSF"
+      },
+      {
+        "href": "/product/pedanios-22-1",
+        "text": "Pedanios 22/1",
+        "title": "Alternative: Pedanios 22/1"
+      },
+      {
+        "href": "/product/cannamedical-sativa-forte-tc",
+        "text": "Cannamedical Sativa forte TC",
+        "title": "Alternative: Cannamedical Sativa forte TC"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has price data"
+  }
+}

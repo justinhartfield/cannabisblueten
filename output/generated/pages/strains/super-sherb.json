@@ -1,0 +1,215 @@
+{
+  "strain": {
+    "slug": "super-sherb",
+    "name": "Super Sherb",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Euphoric",
+      "Relaxed",
+      "Sociable"
+    ],
+    "tastes": [
+      "Diesel",
+      "Sweet",
+      "Flowery"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Linalool",
+      "Beta-Caryophyllene",
+      "Pinene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": null
+  },
+  "products": [
+    {
+      "slug": "remexian-271-crx-sup",
+      "name": "Remexian 27/1 CRX SUP",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 27,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "alien-mints",
+      "name": "Alien Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "auto-kerosene-krash",
+      "name": "Auto Kerosene Krash",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "jet-fuel-pie",
+      "name": "Jet Fuel Pie",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "blueberry-yum-yum",
+      "name": "Blueberry Yum Yum",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "blue-slushie",
+      "name": "Blue Slushie",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Super Sherb (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Super Sherb: Euphoric, Relaxed, Sociable. 1 Produkte verfügbar.",
+      "canonical": "https://weed.de/strain/super-sherb",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Super Sherb (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Super Sherb: Euphoric, Relaxed, Sociable. 1 Produkte verfügbar.",
+        "url": "https://weed.de/strain/super-sherb",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Super Sherb",
+        "href": "https://weed.de/strain/super-sherb"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Super Sherb",
+            "item": "https://weed.de/strain/super-sherb"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Super Sherb Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/remexian-271-crx-sup",
+            "name": "Remexian 27/1 CRX SUP"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/remexian-271-crx-sup",
+        "text": "Remexian 27/1 CRX SUP",
+        "title": "Remexian 27/1 CRX SUP von Remexian Pharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/alien-mints",
+        "text": "Alien Mints",
+        "title": "Alien Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/auto-kerosene-krash",
+        "text": "Auto Kerosene Krash",
+        "title": "Auto Kerosene Krash - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/jet-fuel-pie",
+        "text": "Jet Fuel Pie",
+        "title": "Jet Fuel Pie - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/blueberry-yum-yum",
+        "text": "Blueberry Yum Yum",
+        "title": "Blueberry Yum Yum - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/blue-slushie",
+        "text": "Blue Slushie",
+        "title": "Blue Slushie - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/pinene",
+        "text": "Pinene",
+        "title": "Pinene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

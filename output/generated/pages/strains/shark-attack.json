@@ -1,0 +1,263 @@
+{
+  "strain": {
+    "slug": "shark-attack",
+    "name": "Shark Attack",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 2,
+      "max": 5
+    },
+    "effects": [
+      "Sleepy",
+      "Relaxed",
+      "Euphoric",
+      "Hungry"
+    ],
+    "tastes": [
+      "Spicy-Herbal",
+      "Pungent",
+      "Pine",
+      "Sweet",
+      "Lemon"
+    ],
+    "terpenes": [
+      "Linalool",
+      "Myrcene",
+      "Camphene",
+      "Pulegon"
+    ],
+    "description": "Shark Attack, ein Indica-dominanter Hybrid, zeichnet sich durch einen THC-Gehaöt von 12-21% und einen dabei bemerkenswert hohen CBD-Gehalt von 2-5% aus. Entstanden aus der Kreuzung von \"White Widow\" und \"Super Skunk\", sorgt diese Sorte laut Erfahrungen für schläfrige, entspannte, euphorische und hungrige Erfahrungen. Das Geschmacksprofil ist eine Mix von würzig-herb, Kiefer, Süße und Zitronennoten, der durch die Terpene Linalool, Myrcen, Camphen und Pulegon entsteht. Die Blüte von Shark Attack wächst verglichen mit anderen indica dominierten Strains eher locker und nicht sehr kompakt. Sie bildet klassische Blütenstände aus, die farblich von Orange bis Braun reichen und ist mit Trichomen überzogen, die milchig weiß daher kommen. ",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 3,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 395,
+      "max": 519,
+      "formatted": {
+        "min": "3,95 €",
+        "max": "5,19 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "madrecan-211-sa",
+      "name": "madrecan 21/1 SA",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 19.1,
+      "priceMin": 395,
+      "inStock": true
+    },
+    {
+      "slug": "madrecan-181-sha",
+      "name": "madrecan 18/1 SHA",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 18,
+      "priceMin": 514,
+      "inStock": false
+    },
+    {
+      "slug": "madrecan-181-sha-minis",
+      "name": "madrecan 18/1 SHA Minis",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 18,
+      "priceMin": 448,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "granddaddy-purple",
+      "name": "Granddaddy Purple",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "gelato-25",
+      "name": "Gelato #25",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "black-kush",
+      "name": "Black Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "animal-mints",
+      "name": "Animal Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "fire-og",
+      "name": "Fire OG",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Shark Attack (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Shark Attack: Sleepy, Relaxed, Euphoric. 3 Produkte verfügbar. ab 3,95 €.",
+      "canonical": "https://weed.de/strain/shark-attack",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Shark Attack (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Shark Attack: Sleepy, Relaxed, Euphoric. 3 Produkte verfügbar. ab 3,95 €.",
+        "url": "https://weed.de/strain/shark-attack",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Shark Attack",
+        "href": "https://weed.de/strain/shark-attack"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Shark Attack",
+            "item": "https://weed.de/strain/shark-attack"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Shark Attack Produkte",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/madrecan-211-sa",
+            "name": "madrecan 21/1 SA"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/madrecan-181-sha",
+            "name": "madrecan 18/1 SHA"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/madrecan-181-sha-minis",
+            "name": "madrecan 18/1 SHA Minis"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/madrecan-211-sa",
+        "text": "madrecan 21/1 SA",
+        "title": "madrecan 21/1 SA von Remexian Pharma"
+      },
+      {
+        "href": "/product/madrecan-181-sha",
+        "text": "madrecan 18/1 SHA",
+        "title": "madrecan 18/1 SHA von Remexian Pharma"
+      },
+      {
+        "href": "/product/madrecan-181-sha-minis",
+        "text": "madrecan 18/1 SHA Minis",
+        "title": "madrecan 18/1 SHA Minis von Remexian Pharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/granddaddy-purple",
+        "text": "Granddaddy Purple",
+        "title": "Granddaddy Purple - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/gelato-25",
+        "text": "Gelato #25",
+        "title": "Gelato #25 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/black-kush",
+        "text": "Black Kush",
+        "title": "Black Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/animal-mints",
+        "text": "Animal Mints",
+        "title": "Animal Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/fire-og",
+        "text": "Fire OG",
+        "title": "Fire OG - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/camphene",
+        "text": "Camphene",
+        "title": "Camphene Terpen"
+      },
+      {
+        "href": "/terpene/pulegon",
+        "text": "Pulegon",
+        "title": "Pulegon Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

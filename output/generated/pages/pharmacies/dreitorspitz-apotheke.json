@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "dreitorspitz-apotheke",
+    "name": "Dreitorspitz-Apotheke",
+    "street": "Garmisch-Partenkirchen, Deutschland",
+    "zip": "82467",
+    "cityName": "Garmisch-Partenkirchen",
+    "state": "Bayern",
+    "lat": 47.4919023,
+    "lng": 11.0947806,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": false,
+    "website": null,
+    "phone": "0882157533",
+    "email": "info@dreitorspitz-apotheke.de",
+    "productCount": 0,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/667ad6ffa577faff13defcd4-60j6h1.jpg"
+  },
+  "city": {
+    "slug": "garmisch-partenkirchen",
+    "name": "Garmisch-Partenkirchen",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "cannabisapo24",
+      "name": "Cannabisapo24",
+      "cityName": "Augsburg",
+      "productCount": 364,
+      "hasDelivery": true
+    },
+    {
+      "slug": "spital-apotheke-zum-heiligen-geist",
+      "name": "Canthera.de | Spital Apotheke zum Heiligen Geist",
+      "cityName": "Nürnberg",
+      "productCount": 317,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannaplus-apotheke",
+      "name": "Cannaplus Apotheke",
+      "cityName": "Augsburg",
+      "productCount": 186,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis-apotheke-bayern-1",
+      "name": "Cannabis Apotheke Bayern",
+      "cityName": "Schweinfurt",
+      "productCount": 184,
+      "hasDelivery": true
+    },
+    {
+      "slug": "canamedico-cannabis-mainfranken",
+      "name": "canamedico® – Cannabis Mainfranken",
+      "cityName": "Volkach",
+      "productCount": 162,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Dreitorspitz-Apotheke - Cannabis Apotheke in Garmisch-Partenkirchen",
+      "description": "Dreitorspitz-Apotheke in Garmisch-Partenkirchen. Lieferung & Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/dreitorspitz-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Dreitorspitz-Apotheke - Cannabis Apotheke in Garmisch-Partenkirchen",
+        "description": "Dreitorspitz-Apotheke in Garmisch-Partenkirchen. Lieferung & Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/dreitorspitz-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/667ad6ffa577faff13defcd4-60j6h1.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Garmisch-Partenkirchen",
+        "href": "https://weed.de/cannabis-apotheke/garmisch-partenkirchen"
+      },
+      {
+        "name": "Dreitorspitz-Apotheke",
+        "href": "https://weed.de/apotheke/dreitorspitz-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Garmisch-Partenkirchen",
+            "item": "https://weed.de/cannabis-apotheke/garmisch-partenkirchen"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Dreitorspitz-Apotheke",
+            "item": "https://weed.de/apotheke/dreitorspitz-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Dreitorspitz-Apotheke",
+        "url": "https://weed.de/apotheke/dreitorspitz-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Garmisch-Partenkirchen, Deutschland",
+          "addressLocality": "Garmisch-Partenkirchen",
+          "postalCode": "82467",
+          "addressRegion": "Bayern",
+          "addressCountry": "DE"
+        },
+        "telephone": "0882157533",
+        "email": "info@dreitorspitz-apotheke.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/garmisch-partenkirchen",
+      "text": "Cannabis Apotheken in Garmisch-Partenkirchen",
+      "title": "Alle Apotheken in Garmisch-Partenkirchen"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/cannabisapo24",
+        "text": "Cannabisapo24",
+        "title": "Cannabisapo24 in Augsburg"
+      },
+      {
+        "href": "/apotheke/spital-apotheke-zum-heiligen-geist",
+        "text": "Canthera.de | Spital Apotheke zum Heiligen Geist",
+        "title": "Canthera.de | Spital Apotheke zum Heiligen Geist in Nürnberg"
+      },
+      {
+        "href": "/apotheke/cannaplus-apotheke",
+        "text": "Cannaplus Apotheke",
+        "title": "Cannaplus Apotheke in Augsburg"
+      },
+      {
+        "href": "/apotheke/cannabis-apotheke-bayern-1",
+        "text": "Cannabis Apotheke Bayern",
+        "title": "Cannabis Apotheke Bayern in Schweinfurt"
+      },
+      {
+        "href": "/apotheke/canamedico-cannabis-mainfranken",
+        "text": "canamedico® – Cannabis Mainfranken",
+        "title": "canamedico® – Cannabis Mainfranken in Volkach"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has services"
+  }
+}

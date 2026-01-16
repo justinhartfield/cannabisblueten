@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "limes-apotheke",
+    "name": "Cannalimes - Limes-Apotheke",
+    "street": "Uhlandstraße 18",
+    "zip": "35415",
+    "cityName": "Pohlheim",
+    "state": "Hessen",
+    "lat": 50.5386991,
+    "lng": 8.7210007,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "www.cannalimes.de",
+    "phone": "0640361595",
+    "email": "kontakt@cannalimes.de",
+    "productCount": 24,
+    "rating": 4,
+    "ratingCount": 1,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/68791db6b9ddd249183c617e-755471.jpg"
+  },
+  "city": {
+    "slug": "pohlheim",
+    "name": "Pohlheim",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "cannabis-vital-apotheke",
+      "name": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
+      "cityName": "Hattersheim am Main",
+      "productCount": 187,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis-apotheke-frankfurtkissel-apotheke",
+      "name": "Cannabis Apotheke Frankfurt/Kissel-Apotheke",
+      "cityName": "Frankfurt am Main",
+      "productCount": 183,
+      "hasDelivery": true
+    },
+    {
+      "slug": "schloss-apotheke",
+      "name": "Schloss Apotheke / svapo.de",
+      "cityName": "Offenbach am Main",
+      "productCount": 148,
+      "hasDelivery": true
+    },
+    {
+      "slug": "42unicornde",
+      "name": "420unicorn.de",
+      "cityName": "Kassel",
+      "productCount": 123,
+      "hasDelivery": true
+    },
+    {
+      "slug": "amts-apotheke",
+      "name": "Taunus-Blüten",
+      "cityName": "Usingen",
+      "productCount": 77,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannalimes - Limes-Apotheke - Cannabis Apotheke in Pohlheim",
+      "description": "Cannalimes - Limes-Apotheke in Pohlheim. 24 Cannabis Produkte. Lieferung & Abholung. Bewertung: 4.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/limes-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannalimes - Limes-Apotheke - Cannabis Apotheke in Pohlheim",
+        "description": "Cannalimes - Limes-Apotheke in Pohlheim. 24 Cannabis Produkte. Lieferung & Abholung. Bewertung: 4.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/limes-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/68791db6b9ddd249183c617e-755471.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Pohlheim",
+        "href": "https://weed.de/cannabis-apotheke/pohlheim"
+      },
+      {
+        "name": "Cannalimes - Limes-Apotheke",
+        "href": "https://weed.de/apotheke/limes-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Pohlheim",
+            "item": "https://weed.de/cannabis-apotheke/pohlheim"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Cannalimes - Limes-Apotheke",
+            "item": "https://weed.de/apotheke/limes-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Cannalimes - Limes-Apotheke",
+        "url": "https://weed.de/apotheke/limes-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Uhlandstraße 18",
+          "addressLocality": "Pohlheim",
+          "postalCode": "35415",
+          "addressRegion": "Hessen",
+          "addressCountry": "DE"
+        },
+        "telephone": "0640361595",
+        "email": "kontakt@cannalimes.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/pohlheim",
+      "text": "Cannabis Apotheken in Pohlheim",
+      "title": "Alle Apotheken in Pohlheim"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/cannabis-vital-apotheke",
+        "text": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
+        "title": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim) in Hattersheim am Main"
+      },
+      {
+        "href": "/apotheke/cannabis-apotheke-frankfurtkissel-apotheke",
+        "text": "Cannabis Apotheke Frankfurt/Kissel-Apotheke",
+        "title": "Cannabis Apotheke Frankfurt/Kissel-Apotheke in Frankfurt am Main"
+      },
+      {
+        "href": "/apotheke/schloss-apotheke",
+        "text": "Schloss Apotheke / svapo.de",
+        "title": "Schloss Apotheke / svapo.de in Offenbach am Main"
+      },
+      {
+        "href": "/apotheke/42unicornde",
+        "text": "420unicorn.de",
+        "title": "420unicorn.de in Kassel"
+      },
+      {
+        "href": "/apotheke/amts-apotheke",
+        "text": "Taunus-Blüten",
+        "title": "Taunus-Blüten in Usingen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "product": {
+    "slug": "imc-token-251-rwt",
+    "name": "IMC Token 25/1 RWT",
+    "type": "flower",
+    "genetics": "hybrid",
+    "thcPercent": 25,
+    "cbdPercent": 1,
+    "priceMin": 675,
+    "priceMax": 675,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "imc",
+    "name": "IMC",
+    "productCount": 128
+  },
+  "strain": {
+    "slug": "white-rhino",
+    "name": "White Rhino",
+    "geneticType": "hybrid",
+    "effects": [
+      "Euphoric",
+      "Relaxed"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Myrcene",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Euphoric",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Earthy",
+      "Citrus",
+      "Sweet"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Myrcene",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "remexian-211-eza-ww",
+      "name": "Remexian 21/1 EZA WW",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 21,
+      "priceMin": 345,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-thc-25-spotlight-porto-purps",
+      "name": "Tilray THC 25 Spotlight Porto Purps",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": 349,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc5cbd2",
+      "name": "Tilray Cannabisextrakt THC5:CBD20",
+      "brandName": "Tilray",
+      "thcPercent": 5,
+      "priceMin": 350,
+      "inStock": true
+    },
+    {
+      "slug": "imc-thc-21-rwt",
+      "name": "IMC THC 21 RWT",
+      "brandName": "IMC",
+      "thcPercent": 21,
+      "priceMin": 379,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc1cbd1",
+      "name": "Tilray Cannabisextrakt THC10:CBD10",
+      "brandName": "Tilray",
+      "thcPercent": 10,
+      "priceMin": 400,
+      "inStock": true
+    },
+    {
+      "slug": "imc-rwt-thc27-token",
+      "name": "IMC RWT THC27 Token",
+      "brandName": "IMC",
+      "thcPercent": 27,
+      "priceMin": 425,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "IMC Token 25/1 RWT | ab 6,75 €",
+      "description": "IMC Token 25/1 RWT von IMC. THC: 25%, CBD: 1%. Sorte: White Rhino. Preis ab 6,75 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/imc-token-251-rwt",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "IMC Token 25/1 RWT | ab 6,75 €",
+        "description": "IMC Token 25/1 RWT von IMC. THC: 25%, CBD: 1%. Sorte: White Rhino. Preis ab 6,75 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/imc-token-251-rwt",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "IMC",
+        "href": "https://weed.de/brand/imc"
+      },
+      {
+        "name": "IMC Token 25/1 RWT",
+        "href": "https://weed.de/product/imc-token-251-rwt"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "IMC Token 25/1 RWT",
+            "item": "https://weed.de/product/imc-token-251-rwt"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "IMC Token 25/1 RWT",
+        "brand": {
+          "@type": "Brand",
+          "name": "IMC"
+        },
+        "description": "THC: 25%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/white-rhino",
+      "text": "White Rhino",
+      "title": "White Rhino Sorte"
+    },
+    "brand": {
+      "href": "/brand/imc",
+      "text": "IMC",
+      "title": "Alle IMC Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/remexian-211-eza-ww",
+        "text": "Remexian 21/1 EZA WW",
+        "title": "Alternative: Remexian 21/1 EZA WW"
+      },
+      {
+        "href": "/product/tilray-thc-25-spotlight-porto-purps",
+        "text": "Tilray THC 25 Spotlight Porto Purps",
+        "title": "Alternative: Tilray THC 25 Spotlight Porto Purps"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc5cbd2",
+        "text": "Tilray Cannabisextrakt THC5:CBD20",
+        "title": "Alternative: Tilray Cannabisextrakt THC5:CBD20"
+      },
+      {
+        "href": "/product/imc-thc-21-rwt",
+        "text": "IMC THC 21 RWT",
+        "title": "Alternative: IMC THC 21 RWT"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc1cbd1",
+        "text": "Tilray Cannabisextrakt THC10:CBD10",
+        "title": "Alternative: Tilray Cannabisextrakt THC10:CBD10"
+      },
+      {
+        "href": "/product/imc-rwt-thc27-token",
+        "text": "IMC RWT THC27 Token",
+        "title": "Alternative: IMC RWT THC27 Token"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "strain": {
+    "slug": "power",
+    "name": "Power",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Focused",
+      "Happy"
+    ],
+    "tastes": [
+      "Pine",
+      "Earthy",
+      "Citrus"
+    ],
+    "terpenes": [],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 548,
+      "max": 998,
+      "formatted": {
+        "min": "5,48 €",
+        "max": "9,98 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "demecan-core-veloz-271",
+      "name": "Demecan Core Veloz 27:01",
+      "brandName": "Demecan",
+      "thcPercent": 27,
+      "priceMin": 548,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "bubblegum-biscotti",
+      "name": "Bubblegum Biscotti",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "delahaze",
+      "name": "Delahaze",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "cold-creek-kush",
+      "name": "Cold Creek Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "orange-hill",
+      "name": "Orange Hill",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "gelato-dream",
+      "name": "Gelato Dream",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Power (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Power: Focused, Happy. 1 Produkte verfügbar. ab 5,48 €.",
+      "canonical": "https://weed.de/strain/power",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Power (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Power: Focused, Happy. 1 Produkte verfügbar. ab 5,48 €.",
+        "url": "https://weed.de/strain/power",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Power",
+        "href": "https://weed.de/strain/power"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Power",
+            "item": "https://weed.de/strain/power"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Power Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/demecan-core-veloz-271",
+            "name": "Demecan Core Veloz 27:01"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/demecan-core-veloz-271",
+        "text": "Demecan Core Veloz 27:01",
+        "title": "Demecan Core Veloz 27:01 von Demecan"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/bubblegum-biscotti",
+        "text": "Bubblegum Biscotti",
+        "title": "Bubblegum Biscotti - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/delahaze",
+        "text": "Delahaze",
+        "title": "Delahaze - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/cold-creek-kush",
+        "text": "Cold Creek Kush",
+        "title": "Cold Creek Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/orange-hill",
+        "text": "Orange Hill",
+        "title": "Orange Hill - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/gelato-dream",
+        "text": "Gelato Dream",
+        "title": "Gelato Dream - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": []
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

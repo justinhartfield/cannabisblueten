@@ -1,0 +1,228 @@
+{
+  "product": {
+    "slug": "canopy-tck-27",
+    "name": "Canopy TCK 27",
+    "type": "flower",
+    "genetics": "indica",
+    "thcPercent": 28,
+    "cbdPercent": 0.5,
+    "priceMin": 549,
+    "priceMax": 849,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "canopy-growth",
+    "name": "Canopy Growth",
+    "productCount": 35
+  },
+  "strain": {
+    "slug": "tiger-cake",
+    "name": "Tiger Cake",
+    "geneticType": "hybrid",
+    "effects": [
+      "Euphoric",
+      "Relaxed",
+      "Hungry"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Myrcene",
+      "Limonene",
+      "Humulene",
+      "Ocimene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Euphoric",
+      "Relaxed",
+      "Hungry"
+    ],
+    "tastes": [
+      "Vanilla",
+      "Earthy",
+      "Diesel"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Myrcene",
+      "Limonene",
+      "Humulene",
+      "Ocimene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "aurora-thc-25-cannabis-extract",
+      "name": "Aurora THC 25 Cannabis Extract",
+      "brandName": "Cansativa",
+      "thcPercent": 2.5,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "adven-cannabisextrakt-thc-20",
+      "name": "Adven Cannabisextrakt THC 20",
+      "brandName": "Adven",
+      "thcPercent": 2,
+      "priceMin": 476,
+      "inStock": true
+    },
+    {
+      "slug": "adven-cannabisextrakt-thc-10-cbd-10",
+      "name": "Adven Cannabisextrakt THC 10 CBD 10",
+      "brandName": "Adven",
+      "thcPercent": 10,
+      "priceMin": 560,
+      "inStock": true
+    },
+    {
+      "slug": "bc-green-31-tck",
+      "name": "BC Green 30/1 TCK",
+      "brandName": "BC Green",
+      "thcPercent": 30,
+      "priceMin": 599,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-1",
+      "name": "Demecan Typ 1",
+      "brandName": "Demecan",
+      "thcPercent": 21,
+      "priceMin": 694,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-indica-forte-ej",
+      "name": "Cannamedical Indica forte EJ",
+      "brandName": "Cannamedical",
+      "thcPercent": 24,
+      "priceMin": 700,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Canopy TCK 27 - Canopy Growth | ab 5,49 €",
+      "description": "Canopy TCK 27 von Canopy Growth. THC: 28%, CBD: 0.5%. Sorte: Tiger Cake. Preis ab 5,49 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/canopy-tck-27",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Canopy TCK 27 - Canopy Growth | ab 5,49 €",
+        "description": "Canopy TCK 27 von Canopy Growth. THC: 28%, CBD: 0.5%. Sorte: Tiger Cake. Preis ab 5,49 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/canopy-tck-27",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Canopy Growth",
+        "href": "https://weed.de/brand/canopy-growth"
+      },
+      {
+        "name": "Canopy TCK 27",
+        "href": "https://weed.de/product/canopy-tck-27"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Canopy TCK 27",
+            "item": "https://weed.de/product/canopy-tck-27"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Canopy TCK 27",
+        "brand": {
+          "@type": "Brand",
+          "name": "Canopy Growth"
+        },
+        "description": "THC: 28%, CBD: 0.5%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/tiger-cake",
+      "text": "Tiger Cake",
+      "title": "Tiger Cake Sorte"
+    },
+    "brand": {
+      "href": "/brand/canopy-growth",
+      "text": "Canopy Growth",
+      "title": "Alle Canopy Growth Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/aurora-thc-25-cannabis-extract",
+        "text": "Aurora THC 25 Cannabis Extract",
+        "title": "Alternative: Aurora THC 25 Cannabis Extract"
+      },
+      {
+        "href": "/product/adven-cannabisextrakt-thc-20",
+        "text": "Adven Cannabisextrakt THC 20",
+        "title": "Alternative: Adven Cannabisextrakt THC 20"
+      },
+      {
+        "href": "/product/adven-cannabisextrakt-thc-10-cbd-10",
+        "text": "Adven Cannabisextrakt THC 10 CBD 10",
+        "title": "Alternative: Adven Cannabisextrakt THC 10 CBD 10"
+      },
+      {
+        "href": "/product/bc-green-31-tck",
+        "text": "BC Green 30/1 TCK",
+        "title": "Alternative: BC Green 30/1 TCK"
+      },
+      {
+        "href": "/product/demecan-typ-1",
+        "text": "Demecan Typ 1",
+        "title": "Alternative: Demecan Typ 1"
+      },
+      {
+        "href": "/product/cannamedical-indica-forte-ej",
+        "text": "Cannamedical Indica forte EJ",
+        "title": "Alternative: Cannamedical Indica forte EJ"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

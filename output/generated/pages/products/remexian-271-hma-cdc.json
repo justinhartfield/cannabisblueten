@@ -1,0 +1,237 @@
+{
+  "product": {
+    "slug": "remexian-271-hma-cdc",
+    "name": "Remexian 27/1 HMA CDC",
+    "type": "flower",
+    "genetics": "hybrid_sativa",
+    "thcPercent": 27,
+    "cbdPercent": 1,
+    "priceMin": 789,
+    "priceMax": 869,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "remexian-pharma",
+    "name": "Remexian Pharma",
+    "productCount": 340
+  },
+  "strain": {
+    "slug": "chem-de-la-chem",
+    "name": "Chem de la Chem",
+    "geneticType": "hybrid",
+    "effects": [
+      "Creative",
+      "Focused",
+      "Euphoric",
+      "Cerebral",
+      "Relaxed",
+      "Pain-relief",
+      "Stress-relief",
+      "Mood-lifting",
+      "Motivating"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Beta-Caryophyllene",
+      "Farnesene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Creative",
+      "Focused",
+      "Euphoric",
+      "Cerebral",
+      "Relaxed",
+      "Pain-relief",
+      "Stress-relief",
+      "Mood-lifting",
+      "Motivating"
+    ],
+    "tastes": [
+      "Diesel",
+      "Pine",
+      "Earthy",
+      "Tangy"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Beta-Caryophyllene",
+      "Farnesene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "amp-classic-251",
+      "name": "AMP Classic 25/1",
+      "brandName": "AMP",
+      "thcPercent": 25,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "weeco-231",
+      "name": "Weeco 23/1",
+      "brandName": "Weeco",
+      "thcPercent": 23,
+      "priceMin": 599,
+      "inStock": true
+    },
+    {
+      "slug": "aurora-221-dhz-ca",
+      "name": "Aurora 22/1 DHZ-CA",
+      "brandName": "Aurora",
+      "thcPercent": 19.8,
+      "priceMin": 640,
+      "inStock": true
+    },
+    {
+      "slug": "420-evolution-271-ca-str",
+      "name": "420 Evolution 27/1 CA STR",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 27,
+      "priceMin": 645,
+      "inStock": true
+    },
+    {
+      "slug": "enua-31-cdc-ca-chem-de-la-chem",
+      "name": "Enua 30/1 CDC CA Chem de la Chem",
+      "brandName": "enua",
+      "thcPercent": 30,
+      "priceMin": 677,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-221-florestura",
+      "name": "DEMECAN Florestura 22:01",
+      "brandName": "Deutsche Medizinalcannabis",
+      "thcPercent": 22,
+      "priceMin": 679,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Remexian 27/1 HMA CDC - Remexian Pharma | ab 7,89 €",
+      "description": "Remexian 27/1 HMA CDC von Remexian Pharma. THC: 27%, CBD: 1%. Sorte: Chem de la Chem. Preis ab 7,89 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/remexian-271-hma-cdc",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Remexian 27/1 HMA CDC - Remexian Pharma | ab 7,89 €",
+        "description": "Remexian 27/1 HMA CDC von Remexian Pharma. THC: 27%, CBD: 1%. Sorte: Chem de la Chem. Preis ab 7,89 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/remexian-271-hma-cdc",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Remexian Pharma",
+        "href": "https://weed.de/brand/remexian-pharma"
+      },
+      {
+        "name": "Remexian 27/1 HMA CDC",
+        "href": "https://weed.de/product/remexian-271-hma-cdc"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Remexian 27/1 HMA CDC",
+            "item": "https://weed.de/product/remexian-271-hma-cdc"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Remexian 27/1 HMA CDC",
+        "brand": {
+          "@type": "Brand",
+          "name": "Remexian Pharma"
+        },
+        "description": "THC: 27%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/chem-de-la-chem",
+      "text": "Chem de la Chem",
+      "title": "Chem de la Chem Sorte"
+    },
+    "brand": {
+      "href": "/brand/remexian-pharma",
+      "text": "Remexian Pharma",
+      "title": "Alle Remexian Pharma Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/amp-classic-251",
+        "text": "AMP Classic 25/1",
+        "title": "Alternative: AMP Classic 25/1"
+      },
+      {
+        "href": "/product/weeco-231",
+        "text": "Weeco 23/1",
+        "title": "Alternative: Weeco 23/1"
+      },
+      {
+        "href": "/product/aurora-221-dhz-ca",
+        "text": "Aurora 22/1 DHZ-CA",
+        "title": "Alternative: Aurora 22/1 DHZ-CA"
+      },
+      {
+        "href": "/product/420-evolution-271-ca-str",
+        "text": "420 Evolution 27/1 CA STR",
+        "title": "Alternative: 420 Evolution 27/1 CA STR"
+      },
+      {
+        "href": "/product/enua-31-cdc-ca-chem-de-la-chem",
+        "text": "Enua 30/1 CDC CA Chem de la Chem",
+        "title": "Alternative: Enua 30/1 CDC CA Chem de la Chem"
+      },
+      {
+        "href": "/product/demecan-221-florestura",
+        "text": "DEMECAN Florestura 22:01",
+        "title": "Alternative: DEMECAN Florestura 22:01"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

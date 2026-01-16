@@ -1,0 +1,187 @@
+{
+  "city": {
+    "slug": "straubing",
+    "name": "Straubing",
+    "state": "Bayern"
+  },
+  "stats": {
+    "pharmacyCount": 2,
+    "totalProducts": 27,
+    "hasDelivery": true
+  },
+  "pharmacies": [
+    {
+      "slug": "draexlmaier-apotheken-in-niederbayern-und-der-oberpfalz",
+      "name": "Dräxlmaier Apotheken in Niederbayern und der Oberpfalz",
+      "street": "Theresienplatz 17",
+      "zip": "94315",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 27,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "baeren-apotheke-1",
+      "name": "Bären Apotheke",
+      "street": "Straubing, Deutschland",
+      "zip": "94315",
+      "hasDelivery": false,
+      "hasPickup": true,
+      "productCount": 0,
+      "rating": 0,
+      "ratingCount": 0
+    }
+  ],
+  "nearbyCities": [
+    {
+      "slug": "muenchen",
+      "name": "München",
+      "pharmacyCount": 12
+    },
+    {
+      "slug": "nuernberg",
+      "name": "Nürnberg",
+      "pharmacyCount": 7
+    },
+    {
+      "slug": "augsburg",
+      "name": "Augsburg",
+      "pharmacyCount": 6
+    },
+    {
+      "slug": "landshut",
+      "name": "Landshut",
+      "pharmacyCount": 3
+    },
+    {
+      "slug": "erlangen",
+      "name": "Erlangen",
+      "pharmacyCount": 2
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannabis Apotheke Straubing - 2 Apotheken",
+      "description": "Cannabis Apotheken in Straubing. 2 Apotheken mit 27 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+      "canonical": "https://weed.de/cannabis-apotheke/straubing",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannabis Apotheke Straubing - 2 Apotheken",
+        "description": "Cannabis Apotheken in Straubing. 2 Apotheken mit 27 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+        "url": "https://weed.de/cannabis-apotheke/straubing",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Straubing",
+        "href": "https://weed.de/cannabis-apotheke/straubing"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Straubing",
+            "item": "https://weed.de/cannabis-apotheke/straubing"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Cannabis Apotheken in Straubing",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/apotheke/draexlmaier-apotheken-in-niederbayern-und-der-oberpfalz",
+            "name": "Dräxlmaier Apotheken in Niederbayern und der Oberpfalz"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/apotheke/baeren-apotheke-1",
+            "name": "Bären Apotheke"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "pharmacies": [
+      {
+        "href": "/apotheke/draexlmaier-apotheken-in-niederbayern-und-der-oberpfalz",
+        "text": "Dräxlmaier Apotheken in Niederbayern und der Oberpfalz",
+        "title": "Dräxlmaier Apotheken in Niederbayern und der Oberpfalz in Straubing"
+      },
+      {
+        "href": "/apotheke/baeren-apotheke-1",
+        "text": "Bären Apotheke",
+        "title": "Bären Apotheke in Straubing"
+      }
+    ],
+    "nearbyCities": [
+      {
+        "href": "/cannabis-apotheke/muenchen",
+        "text": "Cannabis Apotheke München",
+        "title": "12 Apotheken in München"
+      },
+      {
+        "href": "/cannabis-apotheke/nuernberg",
+        "text": "Cannabis Apotheke Nürnberg",
+        "title": "7 Apotheken in Nürnberg"
+      },
+      {
+        "href": "/cannabis-apotheke/augsburg",
+        "text": "Cannabis Apotheke Augsburg",
+        "title": "6 Apotheken in Augsburg"
+      },
+      {
+        "href": "/cannabis-apotheke/landshut",
+        "text": "Cannabis Apotheke Landshut",
+        "title": "3 Apotheken in Landshut"
+      },
+      {
+        "href": "/cannabis-apotheke/erlangen",
+        "text": "Cannabis Apotheke Erlangen",
+        "title": "2 Apotheken in Erlangen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has 2 pharmacies"
+  }
+}

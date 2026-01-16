@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "central-apotheke",
+    "name": "Cannabis-Champion",
+    "street": "Alter Postplatz 2",
+    "zip": "71332",
+    "cityName": "Waiblingen",
+    "state": "Baden-Württemberg",
+    "lat": 48.8305342,
+    "lng": 9.314059799999999,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "cannabis-champion.de",
+    "phone": "0715155762",
+    "email": "cannabiscentrale@gmail.com",
+    "productCount": 240,
+    "rating": 5,
+    "ratingCount": 1,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/68d545dbe9eddcd047e03860-54531g.jpg"
+  },
+  "city": {
+    "slug": "waiblingen",
+    "name": "Waiblingen",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "florians-vital-apotheke",
+      "name": "Florians Vital Apotheke",
+      "cityName": "Esslingen am Neckar",
+      "productCount": 248,
+      "hasDelivery": true
+    },
+    {
+      "slug": "karlchengras",
+      "name": "Karlchengras (Karl-Apotheke)",
+      "cityName": "Karlsruhe",
+      "productCount": 188,
+      "hasDelivery": true
+    },
+    {
+      "slug": "idris-apotheke-oder-3leafs",
+      "name": "Idris Apotheke | 3Leafs",
+      "cityName": "Weinheim",
+      "productCount": 149,
+      "hasDelivery": true
+    },
+    {
+      "slug": "schwarzwald-vital-apotheke",
+      "name": "Schwarzwald Vital Apotheke",
+      "cityName": "Gaggenau",
+      "productCount": 133,
+      "hasDelivery": true
+    },
+    {
+      "slug": "rhein-apotheke-im-aerztehaus-muehlburg",
+      "name": "Rhein-Apotheke im Ärztehaus Mühlburg",
+      "cityName": "Karlsruhe",
+      "productCount": 133,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannabis-Champion - Cannabis Apotheke in Waiblingen",
+      "description": "Cannabis-Champion in Waiblingen. 240 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/central-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannabis-Champion - Cannabis Apotheke in Waiblingen",
+        "description": "Cannabis-Champion in Waiblingen. 240 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/central-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/68d545dbe9eddcd047e03860-54531g.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Waiblingen",
+        "href": "https://weed.de/cannabis-apotheke/waiblingen"
+      },
+      {
+        "name": "Cannabis-Champion",
+        "href": "https://weed.de/apotheke/central-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Waiblingen",
+            "item": "https://weed.de/cannabis-apotheke/waiblingen"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Cannabis-Champion",
+            "item": "https://weed.de/apotheke/central-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Cannabis-Champion",
+        "url": "https://weed.de/apotheke/central-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Alter Postplatz 2",
+          "addressLocality": "Waiblingen",
+          "postalCode": "71332",
+          "addressRegion": "Baden-Württemberg",
+          "addressCountry": "DE"
+        },
+        "telephone": "0715155762",
+        "email": "cannabiscentrale@gmail.com"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/waiblingen",
+      "text": "Cannabis Apotheken in Waiblingen",
+      "title": "Alle Apotheken in Waiblingen"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/florians-vital-apotheke",
+        "text": "Florians Vital Apotheke",
+        "title": "Florians Vital Apotheke in Esslingen am Neckar"
+      },
+      {
+        "href": "/apotheke/karlchengras",
+        "text": "Karlchengras (Karl-Apotheke)",
+        "title": "Karlchengras (Karl-Apotheke) in Karlsruhe"
+      },
+      {
+        "href": "/apotheke/idris-apotheke-oder-3leafs",
+        "text": "Idris Apotheke | 3Leafs",
+        "title": "Idris Apotheke | 3Leafs in Weinheim"
+      },
+      {
+        "href": "/apotheke/schwarzwald-vital-apotheke",
+        "text": "Schwarzwald Vital Apotheke",
+        "title": "Schwarzwald Vital Apotheke in Gaggenau"
+      },
+      {
+        "href": "/apotheke/rhein-apotheke-im-aerztehaus-muehlburg",
+        "text": "Rhein-Apotheke im Ärztehaus Mühlburg",
+        "title": "Rhein-Apotheke im Ärztehaus Mühlburg in Karlsruhe"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

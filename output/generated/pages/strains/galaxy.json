@@ -1,0 +1,203 @@
+{
+  "strain": {
+    "slug": "galaxy",
+    "name": "Galaxy",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Tingly",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Skunk",
+      "Spicy-Herbal",
+      "Earthy",
+      "Sweet"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Linalool"
+    ],
+    "description": "Galaxy ist eine indica-dominante Hybridsorte mit einer Abstammung, die Afghani- und Northern Lights-Genetik einschließt. Während der spezifische THC- und CBD-Gehalt variieren kann, weist Galaxy in der Regel THC-Gehalte von 19% bis 23% auf und hat einen niedrigen CBD-Gehalt, normalerweise weniger als 1%. Das Hauptterpen, das in Galaxy gefunden wird, ist Caryophyllen, das zu ihrem Aroma und ihren Wirkungen beiträgt. In Bezug auf den Geschmack bietet Galaxy ein komplexes und angenehmes Geschmacksprofil mit skunky, würzig-herben, erdigen und süßen Noten. ",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": null
+  },
+  "products": [
+    {
+      "slug": "avaay-261-glx",
+      "name": "AVAAY 26/1 GLX",
+      "brandName": "Vayamed",
+      "thcPercent": 25.2,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "black-kush",
+      "name": "Black Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "apple-fritter",
+      "name": "Apple Fritter",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "biscotti",
+      "name": "Biscotti",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "gummy-bears",
+      "name": "Gummy Bears",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "gush-mints",
+      "name": "Gush Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Galaxy (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Galaxy: Tingly, Relaxed. 1 Produkte verfügbar.",
+      "canonical": "https://weed.de/strain/galaxy",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Galaxy (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Galaxy: Tingly, Relaxed. 1 Produkte verfügbar.",
+        "url": "https://weed.de/strain/galaxy",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Galaxy",
+        "href": "https://weed.de/strain/galaxy"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Galaxy",
+            "item": "https://weed.de/strain/galaxy"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Galaxy Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/avaay-261-glx",
+            "name": "AVAAY 26/1 GLX"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/avaay-261-glx",
+        "text": "AVAAY 26/1 GLX",
+        "title": "AVAAY 26/1 GLX von Vayamed"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/black-kush",
+        "text": "Black Kush",
+        "title": "Black Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/apple-fritter",
+        "text": "Apple Fritter",
+        "title": "Apple Fritter - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/biscotti",
+        "text": "Biscotti",
+        "title": "Biscotti - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/gummy-bears",
+        "text": "Gummy Bears",
+        "title": "Gummy Bears - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/gush-mints",
+        "text": "Gush Mints",
+        "title": "Gush Mints - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

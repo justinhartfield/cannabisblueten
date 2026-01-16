@@ -1,0 +1,253 @@
+{
+  "strain": {
+    "slug": "sherbert-runtz",
+    "name": "Sherbert Runtz",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Euphoric",
+      "Sociable",
+      "Happy"
+    ],
+    "tastes": [
+      "Tropical",
+      "Earthy",
+      "Sweet"
+    ],
+    "terpenes": [],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 4,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 499,
+      "max": 880,
+      "formatted": {
+        "min": "4,99 €",
+        "max": "8,80 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "wellford-luma-261-za-shr",
+      "name": "Wellford Luma 26/1 ZA SHR",
+      "brandName": "Therismos",
+      "thcPercent": 26,
+      "priceMin": 499,
+      "inStock": true
+    },
+    {
+      "slug": "wellford-luma-241-za-shr",
+      "name": "Wellford Luma 24/1 ZA SHR",
+      "brandName": "Therismos",
+      "thcPercent": 24,
+      "priceMin": 655,
+      "inStock": false
+    },
+    {
+      "slug": "wellford-luma-221-za-shr",
+      "name": "Wellford Luma 22/1 ZA SHR",
+      "brandName": "Therismos",
+      "thcPercent": 22,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "wellford-luma-281-za-shr",
+      "name": "Wellford Luma 28/1 ZA SHR",
+      "brandName": "Therismos",
+      "thcPercent": 28,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "alien-mints",
+      "name": "Alien Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "chemical-kush",
+      "name": "Chemical Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "tiger-milk",
+      "name": "Tiger Milk",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "auto-big-jack",
+      "name": "Auto Big Jack",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "pink-rozay",
+      "name": "Pink Rozay",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Sherbert Runtz (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Sherbert Runtz: Euphoric, Sociable, Happy. 4 Produkte verfügbar. ab 4,99 €.",
+      "canonical": "https://weed.de/strain/sherbert-runtz",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Sherbert Runtz (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Sherbert Runtz: Euphoric, Sociable, Happy. 4 Produkte verfügbar. ab 4,99 €.",
+        "url": "https://weed.de/strain/sherbert-runtz",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Sherbert Runtz",
+        "href": "https://weed.de/strain/sherbert-runtz"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Sherbert Runtz",
+            "item": "https://weed.de/strain/sherbert-runtz"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Sherbert Runtz Produkte",
+        "numberOfItems": 4,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/wellford-luma-261-za-shr",
+            "name": "Wellford Luma 26/1 ZA SHR"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/wellford-luma-241-za-shr",
+            "name": "Wellford Luma 24/1 ZA SHR"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/wellford-luma-221-za-shr",
+            "name": "Wellford Luma 22/1 ZA SHR"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/product/wellford-luma-281-za-shr",
+            "name": "Wellford Luma 28/1 ZA SHR"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/wellford-luma-261-za-shr",
+        "text": "Wellford Luma 26/1 ZA SHR",
+        "title": "Wellford Luma 26/1 ZA SHR von Therismos"
+      },
+      {
+        "href": "/product/wellford-luma-241-za-shr",
+        "text": "Wellford Luma 24/1 ZA SHR",
+        "title": "Wellford Luma 24/1 ZA SHR von Therismos"
+      },
+      {
+        "href": "/product/wellford-luma-221-za-shr",
+        "text": "Wellford Luma 22/1 ZA SHR",
+        "title": "Wellford Luma 22/1 ZA SHR von Therismos"
+      },
+      {
+        "href": "/product/wellford-luma-281-za-shr",
+        "text": "Wellford Luma 28/1 ZA SHR",
+        "title": "Wellford Luma 28/1 ZA SHR von Therismos"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/alien-mints",
+        "text": "Alien Mints",
+        "title": "Alien Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/chemical-kush",
+        "text": "Chemical Kush",
+        "title": "Chemical Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/tiger-milk",
+        "text": "Tiger Milk",
+        "title": "Tiger Milk - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/auto-big-jack",
+        "text": "Auto Big Jack",
+        "title": "Auto Big Jack - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/pink-rozay",
+        "text": "Pink Rozay",
+        "title": "Pink Rozay - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": []
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

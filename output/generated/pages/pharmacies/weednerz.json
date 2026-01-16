@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "weednerz",
+    "name": "Weednerz",
+    "street": "Mannheimer Straße 47",
+    "zip": "68782",
+    "cityName": "Brühl",
+    "state": "Baden-Württemberg",
+    "lat": 49.3985396,
+    "lng": 8.5348405,
+    "hasDelivery": false,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "www.perkeo-apotheke.de",
+    "phone": "017647607742",
+    "email": "weednerz@perkeo-apotheke.de",
+    "productCount": 3,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/690ca1068838ef87227f8f1f-hajghf.jpg"
+  },
+  "city": {
+    "slug": "bruehl",
+    "name": "Brühl",
+    "pharmacyCount": 3
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "cannabis-apotheken-engelmann",
+      "name": "Cannabis Apotheken Dr. Engelmann",
+      "cityName": "Brühl",
+      "productCount": 47,
+      "hasDelivery": true
+    },
+    {
+      "slug": "kurfuersten-apotheke",
+      "name": "Kurfürsten Apotheke",
+      "cityName": "Brühl",
+      "productCount": 47,
+      "hasDelivery": true
+    },
+    {
+      "slug": "florians-vital-apotheke",
+      "name": "Florians Vital Apotheke",
+      "cityName": "Esslingen am Neckar",
+      "productCount": 248,
+      "hasDelivery": true
+    },
+    {
+      "slug": "central-apotheke",
+      "name": "Cannabis-Champion",
+      "cityName": "Waiblingen",
+      "productCount": 240,
+      "hasDelivery": true
+    },
+    {
+      "slug": "karlchengras",
+      "name": "Karlchengras (Karl-Apotheke)",
+      "cityName": "Karlsruhe",
+      "productCount": 188,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Weednerz - Cannabis Apotheke in Brühl",
+      "description": "Weednerz in Brühl. 3 Cannabis Produkte. Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/weednerz",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Weednerz - Cannabis Apotheke in Brühl",
+        "description": "Weednerz in Brühl. 3 Cannabis Produkte. Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/weednerz",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/690ca1068838ef87227f8f1f-hajghf.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Brühl",
+        "href": "https://weed.de/cannabis-apotheke/bruehl"
+      },
+      {
+        "name": "Weednerz",
+        "href": "https://weed.de/apotheke/weednerz"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Brühl",
+            "item": "https://weed.de/cannabis-apotheke/bruehl"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Weednerz",
+            "item": "https://weed.de/apotheke/weednerz"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Weednerz",
+        "url": "https://weed.de/apotheke/weednerz",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Mannheimer Straße 47",
+          "addressLocality": "Brühl",
+          "postalCode": "68782",
+          "addressRegion": "Baden-Württemberg",
+          "addressCountry": "DE"
+        },
+        "telephone": "017647607742",
+        "email": "weednerz@perkeo-apotheke.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/bruehl",
+      "text": "Cannabis Apotheken in Brühl",
+      "title": "Alle Apotheken in Brühl"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/cannabis-apotheken-engelmann",
+        "text": "Cannabis Apotheken Dr. Engelmann",
+        "title": "Cannabis Apotheken Dr. Engelmann in Brühl"
+      },
+      {
+        "href": "/apotheke/kurfuersten-apotheke",
+        "text": "Kurfürsten Apotheke",
+        "title": "Kurfürsten Apotheke in Brühl"
+      },
+      {
+        "href": "/apotheke/florians-vital-apotheke",
+        "text": "Florians Vital Apotheke",
+        "title": "Florians Vital Apotheke in Esslingen am Neckar"
+      },
+      {
+        "href": "/apotheke/central-apotheke",
+        "text": "Cannabis-Champion",
+        "title": "Cannabis-Champion in Waiblingen"
+      },
+      {
+        "href": "/apotheke/karlchengras",
+        "text": "Karlchengras (Karl-Apotheke)",
+        "title": "Karlchengras (Karl-Apotheke) in Karlsruhe"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

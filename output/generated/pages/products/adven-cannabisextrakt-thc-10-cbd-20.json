@@ -1,0 +1,234 @@
+{
+  "product": {
+    "slug": "adven-cannabisextrakt-thc-10-cbd-20",
+    "name": "Adven Cannabisextrakt THC 10 CBD 20",
+    "type": "extract",
+    "genetics": "indica",
+    "thcPercent": 1,
+    "cbdPercent": 2,
+    "priceMin": 555,
+    "priceMax": 555,
+    "inStock": false,
+    "pzn": null,
+    "originCountry": null,
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "adven",
+    "name": "Adven",
+    "productCount": 13
+  },
+  "strain": {
+    "slug": "emc-1",
+    "name": "Riga (EMC-1 C14)",
+    "geneticType": "indica",
+    "effects": [
+      "Calming",
+      "Relaxed",
+      "Stress-relief",
+      "Anxiety-reducing",
+      "Sleepy"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Caryophyllene",
+      "Linalool"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Calming",
+      "Relaxed",
+      "Stress-relief",
+      "Anxiety-reducing",
+      "Sleepy"
+    ],
+    "tastes": [
+      "Earthy",
+      "Musky",
+      "Citrus",
+      "Sour",
+      "Tangy",
+      "Lavender",
+      "Floral"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Caryophyllene",
+      "Linalool"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "aurora-thc-25-cannabis-extract",
+      "name": "Aurora THC 25 Cannabis Extract",
+      "brandName": "Cansativa",
+      "thcPercent": 2.5,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "adven-cannabisextrakt-thc-20",
+      "name": "Adven Cannabisextrakt THC 20",
+      "brandName": "Adven",
+      "thcPercent": 2,
+      "priceMin": 476,
+      "inStock": true
+    },
+    {
+      "slug": "adven-cannabisextrakt-thc-10-cbd-10",
+      "name": "Adven Cannabisextrakt THC 10 CBD 10",
+      "brandName": "Adven",
+      "thcPercent": 10,
+      "priceMin": 560,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-1",
+      "name": "Demecan Typ 1",
+      "brandName": "Demecan",
+      "thcPercent": 21,
+      "priceMin": 694,
+      "inStock": true
+    },
+    {
+      "slug": "42-cannabisextrakt-thc-cbd-5",
+      "name": "420 Cannabisextrakt THC 0 / CBD 50",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 0,
+      "priceMin": 700,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-indica-forte-ej",
+      "name": "Cannamedical Indica forte EJ",
+      "brandName": "Cannamedical",
+      "thcPercent": 24,
+      "priceMin": 700,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Adven Cannabisextrakt THC 10 CBD 20 | ab 5,55 €",
+      "description": "Adven Cannabisextrakt THC 10 CBD 20 von Adven. THC: 1%, CBD: 2%. Sorte: Riga (EMC-1 C14). Preis ab 5,55 €. Preise vergleichen.",
+      "canonical": "https://weed.de/product/adven-cannabisextrakt-thc-10-cbd-20",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Adven Cannabisextrakt THC 10 CBD 20 | ab 5,55 €",
+        "description": "Adven Cannabisextrakt THC 10 CBD 20 von Adven. THC: 1%, CBD: 2%. Sorte: Riga (EMC-1 C14). Preis ab 5,55 €. Preise vergleichen.",
+        "url": "https://weed.de/product/adven-cannabisextrakt-thc-10-cbd-20",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Adven",
+        "href": "https://weed.de/brand/adven"
+      },
+      {
+        "name": "Adven Cannabisextrakt THC 10 CBD 20",
+        "href": "https://weed.de/product/adven-cannabisextrakt-thc-10-cbd-20"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Adven Cannabisextrakt THC 10 CBD 20",
+            "item": "https://weed.de/product/adven-cannabisextrakt-thc-10-cbd-20"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Adven Cannabisextrakt THC 10 CBD 20",
+        "brand": {
+          "@type": "Brand",
+          "name": "Adven"
+        },
+        "description": "THC: 1%, CBD: 2%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/emc-1",
+      "text": "Riga (EMC-1 C14)",
+      "title": "Riga (EMC-1 C14) Sorte"
+    },
+    "brand": {
+      "href": "/brand/adven",
+      "text": "Adven",
+      "title": "Alle Adven Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/aurora-thc-25-cannabis-extract",
+        "text": "Aurora THC 25 Cannabis Extract",
+        "title": "Alternative: Aurora THC 25 Cannabis Extract"
+      },
+      {
+        "href": "/product/adven-cannabisextrakt-thc-20",
+        "text": "Adven Cannabisextrakt THC 20",
+        "title": "Alternative: Adven Cannabisextrakt THC 20"
+      },
+      {
+        "href": "/product/adven-cannabisextrakt-thc-10-cbd-10",
+        "text": "Adven Cannabisextrakt THC 10 CBD 10",
+        "title": "Alternative: Adven Cannabisextrakt THC 10 CBD 10"
+      },
+      {
+        "href": "/product/demecan-typ-1",
+        "text": "Demecan Typ 1",
+        "title": "Alternative: Demecan Typ 1"
+      },
+      {
+        "href": "/product/42-cannabisextrakt-thc-cbd-5",
+        "text": "420 Cannabisextrakt THC 0 / CBD 50",
+        "title": "Alternative: 420 Cannabisextrakt THC 0 / CBD 50"
+      },
+      {
+        "href": "/product/cannamedical-indica-forte-ej",
+        "text": "Cannamedical Indica forte EJ",
+        "title": "Alternative: Cannamedical Indica forte EJ"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has price data"
+  }
+}

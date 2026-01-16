@@ -1,0 +1,233 @@
+{
+  "strain": {
+    "slug": "blue-wizard",
+    "name": "Blue Wizard",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Euphoric",
+      "Happy",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Sweet"
+    ],
+    "terpenes": [
+      "Linalool"
+    ],
+    "description": "Blue Wizard ist eine indica-dominante Sorte, die ihren Ursprung in Oklahoma hat. Über die Genetik ist nicht viel bekannt, außer dass es eine Mischung aus Landrasse-Sorten aus Mexiko, Thailand, Kolumbien und Indien ist. Blue Wizard wird als mit energetisierenden, narkotischen Effekten und einem süßen Aroma beschrieben.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 3,
+    "pharmacyCount": 0,
+    "priceRange": null
+  },
+  "products": [
+    {
+      "slug": "lumir",
+      "name": "Lumir",
+      "brandName": "Cantourage",
+      "thcPercent": 17,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "lumir-cannabis-extract-balanced-1010",
+      "name": "Lumir Cannabis Extract Balanced 10:10",
+      "brandName": "Cantourage",
+      "thcPercent": 10,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "lumir-cannabis-extract-thc-25",
+      "name": "Lumir Cannabis Extract THC 25",
+      "brandName": "Cantourage",
+      "thcPercent": 25,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "euforia",
+      "name": "Euforia",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "do-si-dos",
+      "name": "Do-Si-Dos",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "legendary-larry",
+      "name": "Legendary Larry",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "black-kush",
+      "name": "Black Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "fiji-sunset",
+      "name": "Fiji Sunset",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Blue Wizard (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Blue Wizard: Euphoric, Happy, Relaxed. 3 Produkte verfügbar.",
+      "canonical": "https://weed.de/strain/blue-wizard",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Blue Wizard (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Blue Wizard: Euphoric, Happy, Relaxed. 3 Produkte verfügbar.",
+        "url": "https://weed.de/strain/blue-wizard",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Blue Wizard",
+        "href": "https://weed.de/strain/blue-wizard"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Blue Wizard",
+            "item": "https://weed.de/strain/blue-wizard"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Blue Wizard Produkte",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/lumir",
+            "name": "Lumir"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/lumir-cannabis-extract-balanced-1010",
+            "name": "Lumir Cannabis Extract Balanced 10:10"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/lumir-cannabis-extract-thc-25",
+            "name": "Lumir Cannabis Extract THC 25"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/lumir",
+        "text": "Lumir",
+        "title": "Lumir von Cantourage"
+      },
+      {
+        "href": "/product/lumir-cannabis-extract-balanced-1010",
+        "text": "Lumir Cannabis Extract Balanced 10:10",
+        "title": "Lumir Cannabis Extract Balanced 10:10 von Cantourage"
+      },
+      {
+        "href": "/product/lumir-cannabis-extract-thc-25",
+        "text": "Lumir Cannabis Extract THC 25",
+        "title": "Lumir Cannabis Extract THC 25 von Cantourage"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/euforia",
+        "text": "Euforia",
+        "title": "Euforia - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/do-si-dos",
+        "text": "Do-Si-Dos",
+        "title": "Do-Si-Dos - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/legendary-larry",
+        "text": "Legendary Larry",
+        "title": "Legendary Larry - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/black-kush",
+        "text": "Black Kush",
+        "title": "Black Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/fiji-sunset",
+        "text": "Fiji Sunset",
+        "title": "Fiji Sunset - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

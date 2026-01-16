@@ -1,0 +1,291 @@
+{
+  "strain": {
+    "slug": "warlock-cbd",
+    "name": "Warlock CBD",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 7,
+      "max": 10
+    },
+    "effects": [
+      "Relaxed",
+      "Energetic"
+    ],
+    "tastes": [
+      "Earthy",
+      "Flowery",
+      "Citrus"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Linalool",
+      "Myrcene"
+    ],
+    "description": "Warlock CBD ist eine CBD reicher Phänotyp des Indica-dominanten Kultivars Warlock. Entstanden aus der Kombination von Warlock mit dem CBD reichen Kultivar Cannatonic, verfügt Warlock CBD über ein ausgeglichenes THC und CBD Profil. Der THC-Gehalt liegt zwischen 7 % - 10 %, der CBD-Gehalt verhält sich ähnlich. Der Geschmack von Warlock CBD ist erdig, mit einem floralen, frischen Citrus hauch. Durch das ausgewogene CBD und THC Profil eignet sich Warlock gut für Patienten mit niedriger Toleranz und für den Tag. Der Effekt von Warlock CBD wird als entspannend und energiegeladen beschrieben.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 5,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 1299,
+      "max": 1890,
+      "formatted": {
+        "min": "12,99 €",
+        "max": "18,90 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "tilray-11",
+      "name": "Tilray 10/10",
+      "brandName": "Tilray",
+      "thcPercent": 10,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "tilray-thc9-cbd9",
+      "name": "Tilray THC9 CBD9",
+      "brandName": "Tilray",
+      "thcPercent": 8.3,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "tilray-thc10cbd10-no-2",
+      "name": "Tilray THC10/CBD10 No. 2",
+      "brandName": "Tilray",
+      "thcPercent": 10,
+      "priceMin": 1299,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-thc9cbd9-no-2",
+      "name": "Tilray THC9/CBD9 no. 2",
+      "brandName": "Tilray",
+      "thcPercent": 9,
+      "priceMin": 1299,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-thc8cbd8-no-2",
+      "name": "Tilray THC8/CBD8 no. 2",
+      "brandName": "Tilray",
+      "thcPercent": 8,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "legendary-larry",
+      "name": "Legendary Larry",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "gelato-zkittles",
+      "name": "Gelato Zkittles",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "critical-bilbo",
+      "name": "Critical Bilbo",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "frosted-gelato",
+      "name": "Frosted Gelato",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "red-velvet-cake",
+      "name": "Red Velvet Cake",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Warlock CBD (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Warlock CBD: Relaxed, Energetic. 5 Produkte verfügbar. ab 12,99 €.",
+      "canonical": "https://weed.de/strain/warlock-cbd",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Warlock CBD (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Warlock CBD: Relaxed, Energetic. 5 Produkte verfügbar. ab 12,99 €.",
+        "url": "https://weed.de/strain/warlock-cbd",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Warlock CBD",
+        "href": "https://weed.de/strain/warlock-cbd"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Warlock CBD",
+            "item": "https://weed.de/strain/warlock-cbd"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Warlock CBD Produkte",
+        "numberOfItems": 5,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/tilray-11",
+            "name": "Tilray 10/10"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/tilray-thc9-cbd9",
+            "name": "Tilray THC9 CBD9"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/tilray-thc10cbd10-no-2",
+            "name": "Tilray THC10/CBD10 No. 2"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/product/tilray-thc9cbd9-no-2",
+            "name": "Tilray THC9/CBD9 no. 2"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "https://weed.de/product/tilray-thc8cbd8-no-2",
+            "name": "Tilray THC8/CBD8 no. 2"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/tilray-11",
+        "text": "Tilray 10/10",
+        "title": "Tilray 10/10 von Tilray"
+      },
+      {
+        "href": "/product/tilray-thc9-cbd9",
+        "text": "Tilray THC9 CBD9",
+        "title": "Tilray THC9 CBD9 von Tilray"
+      },
+      {
+        "href": "/product/tilray-thc10cbd10-no-2",
+        "text": "Tilray THC10/CBD10 No. 2",
+        "title": "Tilray THC10/CBD10 No. 2 von Tilray"
+      },
+      {
+        "href": "/product/tilray-thc9cbd9-no-2",
+        "text": "Tilray THC9/CBD9 no. 2",
+        "title": "Tilray THC9/CBD9 no. 2 von Tilray"
+      },
+      {
+        "href": "/product/tilray-thc8cbd8-no-2",
+        "text": "Tilray THC8/CBD8 no. 2",
+        "title": "Tilray THC8/CBD8 no. 2 von Tilray"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/legendary-larry",
+        "text": "Legendary Larry",
+        "title": "Legendary Larry - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/gelato-zkittles",
+        "text": "Gelato Zkittles",
+        "title": "Gelato Zkittles - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/critical-bilbo",
+        "text": "Critical Bilbo",
+        "title": "Critical Bilbo - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/frosted-gelato",
+        "text": "Frosted Gelato",
+        "title": "Frosted Gelato - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/red-velvet-cake",
+        "text": "Red Velvet Cake",
+        "title": "Red Velvet Cake - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

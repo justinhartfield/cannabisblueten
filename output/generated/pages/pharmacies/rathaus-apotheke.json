@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "rathaus-apotheke",
+    "name": "Rathaus Apotheke",
+    "street": "Kreuzstraße 1",
+    "zip": "01968",
+    "cityName": "Senftenberg",
+    "state": "Brandenburg",
+    "lat": 51.51931500000001,
+    "lng": 14.0040853,
+    "hasDelivery": true,
+    "hasPickup": false,
+    "hasPrices": true,
+    "website": "https://www.rathausapotheke-sfb.de/",
+    "phone": "03573796030",
+    "email": "rathaus@apotheke-sfb.de",
+    "productCount": 5,
+    "rating": 4,
+    "ratingCount": 4,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/68fc9baa55496c85b597b486-73c2g3.jpg"
+  },
+  "city": {
+    "slug": "senftenberg",
+    "name": "Senftenberg",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "apotheke-im-brandenburger-einkaufszentrum",
+      "name": "Apotheke im Brandenburger Einkaufszentrum",
+      "cityName": "Brandenburg an der Havel",
+      "productCount": 380,
+      "hasDelivery": true
+    },
+    {
+      "slug": "rosen-apotheke-1",
+      "name": "Rosen-Apotheke",
+      "cityName": "Forst (Lausitz)",
+      "productCount": 13,
+      "hasDelivery": true
+    },
+    {
+      "slug": "stadt-apotheke-teltow",
+      "name": "Stadt-Apotheke Teltow",
+      "cityName": "Teltow",
+      "productCount": 10,
+      "hasDelivery": true
+    },
+    {
+      "slug": "test-test",
+      "name": "TEST TEST",
+      "cityName": "Schönefeld",
+      "productCount": 0,
+      "hasDelivery": false
+    },
+    {
+      "slug": "adler-apotheke-5",
+      "name": "Adler Apotheke",
+      "cityName": "Blankenfelde-Mahlow",
+      "productCount": 0,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Rathaus Apotheke - Cannabis Apotheke in Senftenberg",
+      "description": "Rathaus Apotheke in Senftenberg. 5 Cannabis Produkte. Lieferung. Bewertung: 4.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/rathaus-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Rathaus Apotheke - Cannabis Apotheke in Senftenberg",
+        "description": "Rathaus Apotheke in Senftenberg. 5 Cannabis Produkte. Lieferung. Bewertung: 4.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/rathaus-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/68fc9baa55496c85b597b486-73c2g3.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Senftenberg",
+        "href": "https://weed.de/cannabis-apotheke/senftenberg"
+      },
+      {
+        "name": "Rathaus Apotheke",
+        "href": "https://weed.de/apotheke/rathaus-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Senftenberg",
+            "item": "https://weed.de/cannabis-apotheke/senftenberg"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Rathaus Apotheke",
+            "item": "https://weed.de/apotheke/rathaus-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Rathaus Apotheke",
+        "url": "https://weed.de/apotheke/rathaus-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Kreuzstraße 1",
+          "addressLocality": "Senftenberg",
+          "postalCode": "01968",
+          "addressRegion": "Brandenburg",
+          "addressCountry": "DE"
+        },
+        "telephone": "03573796030",
+        "email": "rathaus@apotheke-sfb.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/senftenberg",
+      "text": "Cannabis Apotheken in Senftenberg",
+      "title": "Alle Apotheken in Senftenberg"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/apotheke-im-brandenburger-einkaufszentrum",
+        "text": "Apotheke im Brandenburger Einkaufszentrum",
+        "title": "Apotheke im Brandenburger Einkaufszentrum in Brandenburg an der Havel"
+      },
+      {
+        "href": "/apotheke/rosen-apotheke-1",
+        "text": "Rosen-Apotheke",
+        "title": "Rosen-Apotheke in Forst (Lausitz)"
+      },
+      {
+        "href": "/apotheke/stadt-apotheke-teltow",
+        "text": "Stadt-Apotheke Teltow",
+        "title": "Stadt-Apotheke Teltow in Teltow"
+      },
+      {
+        "href": "/apotheke/test-test",
+        "text": "TEST TEST",
+        "title": "TEST TEST in Schönefeld"
+      },
+      {
+        "href": "/apotheke/adler-apotheke-5",
+        "text": "Adler Apotheke",
+        "title": "Adler Apotheke in Blankenfelde-Mahlow"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

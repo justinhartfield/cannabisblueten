@@ -1,0 +1,228 @@
+{
+  "product": {
+    "slug": "271-amici-as",
+    "name": "27/1 Amici AS",
+    "type": "flower",
+    "genetics": "indica",
+    "thcPercent": 25.1,
+    "cbdPercent": 1,
+    "priceMin": 479,
+    "priceMax": 1540,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "cansativa",
+    "name": "Cansativa",
+    "productCount": 141
+  },
+  "strain": {
+    "slug": "atomic-sour-grapefruit",
+    "name": "Atomic Sour Grapefruit",
+    "geneticType": "indica",
+    "effects": [
+      "Euphoric",
+      "Giggly",
+      "Relaxed"
+    ],
+    "terpenes": [
+      "Linalool",
+      "Limonene",
+      "Myrcene",
+      "Humulene",
+      "Caryophyllene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Euphoric",
+      "Giggly",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Chemical",
+      "Earthy",
+      "Citrus"
+    ],
+    "terpenes": [
+      "Linalool",
+      "Limonene",
+      "Myrcene",
+      "Humulene",
+      "Caryophyllene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "aurora-thc-25-cannabis-extract",
+      "name": "Aurora THC 25 Cannabis Extract",
+      "brandName": "Cansativa",
+      "thcPercent": 2.5,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "adven-cannabisextrakt-thc-20",
+      "name": "Adven Cannabisextrakt THC 20",
+      "brandName": "Adven",
+      "thcPercent": 2,
+      "priceMin": 476,
+      "inStock": true
+    },
+    {
+      "slug": "adven-cannabisextrakt-thc-10-cbd-10",
+      "name": "Adven Cannabisextrakt THC 10 CBD 10",
+      "brandName": "Adven",
+      "thcPercent": 10,
+      "priceMin": 560,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-1",
+      "name": "Demecan Typ 1",
+      "brandName": "Demecan",
+      "thcPercent": 21,
+      "priceMin": 694,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-indica-forte-ej",
+      "name": "Cannamedical Indica forte EJ",
+      "brandName": "Cannamedical",
+      "thcPercent": 24,
+      "priceMin": 700,
+      "inStock": true
+    },
+    {
+      "slug": "251vayamed-cannabisextrakt",
+      "name": "25/1Vayamed Cannabisextrakt",
+      "brandName": "Vayamed",
+      "thcPercent": 2.5,
+      "priceMin": 824,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "27/1 Amici AS - Cansativa | ab 4,79 €",
+      "description": "27/1 Amici AS von Cansativa. THC: 25.1%, CBD: 1%. Sorte: Atomic Sour Grapefruit. Preis ab 4,79 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/271-amici-as",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "27/1 Amici AS - Cansativa | ab 4,79 €",
+        "description": "27/1 Amici AS von Cansativa. THC: 25.1%, CBD: 1%. Sorte: Atomic Sour Grapefruit. Preis ab 4,79 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/271-amici-as",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Cansativa",
+        "href": "https://weed.de/brand/cansativa"
+      },
+      {
+        "name": "27/1 Amici AS",
+        "href": "https://weed.de/product/271-amici-as"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "27/1 Amici AS",
+            "item": "https://weed.de/product/271-amici-as"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "27/1 Amici AS",
+        "brand": {
+          "@type": "Brand",
+          "name": "Cansativa"
+        },
+        "description": "THC: 25.1%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/atomic-sour-grapefruit",
+      "text": "Atomic Sour Grapefruit",
+      "title": "Atomic Sour Grapefruit Sorte"
+    },
+    "brand": {
+      "href": "/brand/cansativa",
+      "text": "Cansativa",
+      "title": "Alle Cansativa Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/aurora-thc-25-cannabis-extract",
+        "text": "Aurora THC 25 Cannabis Extract",
+        "title": "Alternative: Aurora THC 25 Cannabis Extract"
+      },
+      {
+        "href": "/product/adven-cannabisextrakt-thc-20",
+        "text": "Adven Cannabisextrakt THC 20",
+        "title": "Alternative: Adven Cannabisextrakt THC 20"
+      },
+      {
+        "href": "/product/adven-cannabisextrakt-thc-10-cbd-10",
+        "text": "Adven Cannabisextrakt THC 10 CBD 10",
+        "title": "Alternative: Adven Cannabisextrakt THC 10 CBD 10"
+      },
+      {
+        "href": "/product/demecan-typ-1",
+        "text": "Demecan Typ 1",
+        "title": "Alternative: Demecan Typ 1"
+      },
+      {
+        "href": "/product/cannamedical-indica-forte-ej",
+        "text": "Cannamedical Indica forte EJ",
+        "title": "Alternative: Cannamedical Indica forte EJ"
+      },
+      {
+        "href": "/product/251vayamed-cannabisextrakt",
+        "text": "25/1Vayamed Cannabisextrakt",
+        "title": "Alternative: 25/1Vayamed Cannabisextrakt"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

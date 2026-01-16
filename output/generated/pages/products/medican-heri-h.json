@@ -1,0 +1,238 @@
+{
+  "product": {
+    "slug": "medican-heri-h",
+    "name": "Medican Heri",
+    "type": "flower",
+    "genetics": "indica",
+    "thcPercent": 13,
+    "cbdPercent": 1,
+    "priceMin": 850,
+    "priceMax": 850,
+    "inStock": true,
+    "pzn": [],
+    "originCountry": "Dänemark",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "medicann",
+    "name": "MediCann",
+    "productCount": 4
+  },
+  "strain": {
+    "slug": "herijuana",
+    "name": "Herijuana",
+    "geneticType": "hybrid",
+    "effects": [
+      "Relaxed",
+      "Happy",
+      "Sleepy",
+      "Tingly",
+      "Dry Mouth",
+      "Dry Eyes",
+      "Paranoid"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Pinene",
+      "Limonene",
+      "Caryophyllene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Relaxed",
+      "Happy",
+      "Sleepy",
+      "Tingly",
+      "Dry Mouth",
+      "Dry Eyes",
+      "Paranoid"
+    ],
+    "tastes": [
+      "Spicy-Herbal",
+      "Woody",
+      "Earthy",
+      "Flowery",
+      "Cheese",
+      "Tar"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Pinene",
+      "Limonene",
+      "Caryophyllene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "aurora-thc-25-cannabis-extract",
+      "name": "Aurora THC 25 Cannabis Extract",
+      "brandName": "Cansativa",
+      "thcPercent": 2.5,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "nimbus-vita-pura-501",
+      "name": "Nimbus Vita Pura 50:1",
+      "brandName": "Nimbus Health",
+      "thcPercent": 5,
+      "priceMin": 434,
+      "inStock": true
+    },
+    {
+      "slug": "nimbus-vita-pura-11-herijuana",
+      "name": "Nimbus Vita Pura 10:1 - Herijuana",
+      "brandName": "Nimbus Health",
+      "thcPercent": 10,
+      "priceMin": 437,
+      "inStock": true
+    },
+    {
+      "slug": "adven-cannabisextrakt-thc-20",
+      "name": "Adven Cannabisextrakt THC 20",
+      "brandName": "Adven",
+      "thcPercent": 2,
+      "priceMin": 476,
+      "inStock": true
+    },
+    {
+      "slug": "adven-cannabisextrakt-thc-10-cbd-10",
+      "name": "Adven Cannabisextrakt THC 10 CBD 10",
+      "brandName": "Adven",
+      "thcPercent": 10,
+      "priceMin": 560,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-1",
+      "name": "Demecan Typ 1",
+      "brandName": "Demecan",
+      "thcPercent": 21,
+      "priceMin": 694,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Medican Heri - MediCann | ab 8,50 €",
+      "description": "Medican Heri von MediCann. THC: 13%, CBD: 1%. Sorte: Herijuana. Preis ab 8,50 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/medican-heri-h",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Medican Heri - MediCann | ab 8,50 €",
+        "description": "Medican Heri von MediCann. THC: 13%, CBD: 1%. Sorte: Herijuana. Preis ab 8,50 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/medican-heri-h",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "MediCann",
+        "href": "https://weed.de/brand/medicann"
+      },
+      {
+        "name": "Medican Heri",
+        "href": "https://weed.de/product/medican-heri-h"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Medican Heri",
+            "item": "https://weed.de/product/medican-heri-h"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Medican Heri",
+        "brand": {
+          "@type": "Brand",
+          "name": "MediCann"
+        },
+        "gtin13": [],
+        "description": "THC: 13%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/herijuana",
+      "text": "Herijuana",
+      "title": "Herijuana Sorte"
+    },
+    "brand": {
+      "href": "/brand/medicann",
+      "text": "MediCann",
+      "title": "Alle MediCann Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/aurora-thc-25-cannabis-extract",
+        "text": "Aurora THC 25 Cannabis Extract",
+        "title": "Alternative: Aurora THC 25 Cannabis Extract"
+      },
+      {
+        "href": "/product/nimbus-vita-pura-501",
+        "text": "Nimbus Vita Pura 50:1",
+        "title": "Alternative: Nimbus Vita Pura 50:1"
+      },
+      {
+        "href": "/product/nimbus-vita-pura-11-herijuana",
+        "text": "Nimbus Vita Pura 10:1 - Herijuana",
+        "title": "Alternative: Nimbus Vita Pura 10:1 - Herijuana"
+      },
+      {
+        "href": "/product/adven-cannabisextrakt-thc-20",
+        "text": "Adven Cannabisextrakt THC 20",
+        "title": "Alternative: Adven Cannabisextrakt THC 20"
+      },
+      {
+        "href": "/product/adven-cannabisextrakt-thc-10-cbd-10",
+        "text": "Adven Cannabisextrakt THC 10 CBD 10",
+        "title": "Alternative: Adven Cannabisextrakt THC 10 CBD 10"
+      },
+      {
+        "href": "/product/demecan-typ-1",
+        "text": "Demecan Typ 1",
+        "title": "Alternative: Demecan Typ 1"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

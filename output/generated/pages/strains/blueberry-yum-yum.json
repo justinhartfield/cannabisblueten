@@ -1,0 +1,247 @@
+{
+  "strain": {
+    "slug": "blueberry-yum-yum",
+    "name": "Blueberry Yum Yum",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Hungry",
+      "Sociable",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Sweet",
+      "Citrus"
+    ],
+    "terpenes": [
+      "Linalool",
+      "Limonene",
+      "Myrcene",
+      "Pinene",
+      "Farnesene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 881,
+      "max": 881,
+      "formatted": {
+        "min": "8,81 €",
+        "max": "8,81 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "avaay-signature-231-byy",
+      "name": "Avaay Signature 23/1 BYY",
+      "brandName": "Avaay",
+      "thcPercent": 23,
+      "priceMin": 881,
+      "inStock": true
+    },
+    {
+      "slug": "avaay-signature-331-byy",
+      "name": "AVAAY SIGNATURE 33/1 BYY",
+      "brandName": "Avaay",
+      "thcPercent": 33,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "alien-mints",
+      "name": "Alien Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "gelato-zkittles",
+      "name": "Gelato Zkittles",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "flawless-victory",
+      "name": "Flawless Victory",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "auto-kerosene-krash",
+      "name": "Auto Kerosene Krash",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "lemon-berry-og",
+      "name": "Lemon Berry OG",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Blueberry Yum Yum (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Blueberry Yum Yum: Hungry, Sociable, Relaxed. 2 Produkte verfügbar. ab 8,81 €.",
+      "canonical": "https://weed.de/strain/blueberry-yum-yum",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Blueberry Yum Yum (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Blueberry Yum Yum: Hungry, Sociable, Relaxed. 2 Produkte verfügbar. ab 8,81 €.",
+        "url": "https://weed.de/strain/blueberry-yum-yum",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Blueberry Yum Yum",
+        "href": "https://weed.de/strain/blueberry-yum-yum"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Blueberry Yum Yum",
+            "item": "https://weed.de/strain/blueberry-yum-yum"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Blueberry Yum Yum Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/avaay-signature-231-byy",
+            "name": "Avaay Signature 23/1 BYY"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/avaay-signature-331-byy",
+            "name": "AVAAY SIGNATURE 33/1 BYY"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/avaay-signature-231-byy",
+        "text": "Avaay Signature 23/1 BYY",
+        "title": "Avaay Signature 23/1 BYY von Avaay"
+      },
+      {
+        "href": "/product/avaay-signature-331-byy",
+        "text": "AVAAY SIGNATURE 33/1 BYY",
+        "title": "AVAAY SIGNATURE 33/1 BYY von Avaay"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/alien-mints",
+        "text": "Alien Mints",
+        "title": "Alien Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/gelato-zkittles",
+        "text": "Gelato Zkittles",
+        "title": "Gelato Zkittles - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/flawless-victory",
+        "text": "Flawless Victory",
+        "title": "Flawless Victory - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/auto-kerosene-krash",
+        "text": "Auto Kerosene Krash",
+        "title": "Auto Kerosene Krash - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/lemon-berry-og",
+        "text": "Lemon Berry OG",
+        "title": "Lemon Berry OG - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/pinene",
+        "text": "Pinene",
+        "title": "Pinene Terpen"
+      },
+      {
+        "href": "/terpene/farnesene",
+        "text": "Farnesene",
+        "title": "Farnesene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

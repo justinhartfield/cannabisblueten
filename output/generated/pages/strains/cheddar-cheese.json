@@ -1,0 +1,227 @@
+{
+  "strain": {
+    "slug": "cheddar-cheese",
+    "name": "Cheddar Cheese",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 50,
+      "max": 50
+    },
+    "effects": [
+      "Body-High",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Cheese",
+      "Spicy-Herbal"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Beta-Myrcene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 499,
+      "max": 799,
+      "formatted": {
+        "min": "4,99 €",
+        "max": "7,99 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "barongo-31-ecc",
+      "name": "Barongo 30/1 ECC",
+      "brandName": "WMG Pharma",
+      "thcPercent": 30,
+      "priceMin": 723,
+      "inStock": true
+    },
+    {
+      "slug": "barongo-31-ecc-cheddar-cheese-smalls",
+      "name": "Barongo 30/1 ECC Cheddar Cheese smalls",
+      "brandName": "WMG Pharma",
+      "thcPercent": 30,
+      "priceMin": 499,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "bubba-kush",
+      "name": "Bubba Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "kush-kush",
+      "name": "Kush Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "do-si-dos",
+      "name": "Do-Si-Dos",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "karel's-haze",
+      "name": "Karel's Haze",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "kerosene-krash",
+      "name": "Kerosene Krash",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cheddar Cheese (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Cheddar Cheese: Body-High, Relaxed. 2 Produkte verfügbar. ab 4,99 €.",
+      "canonical": "https://weed.de/strain/cheddar-cheese",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cheddar Cheese (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Cheddar Cheese: Body-High, Relaxed. 2 Produkte verfügbar. ab 4,99 €.",
+        "url": "https://weed.de/strain/cheddar-cheese",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Cheddar Cheese",
+        "href": "https://weed.de/strain/cheddar-cheese"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Cheddar Cheese",
+            "item": "https://weed.de/strain/cheddar-cheese"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Cheddar Cheese Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/barongo-31-ecc",
+            "name": "Barongo 30/1 ECC"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/barongo-31-ecc-cheddar-cheese-smalls",
+            "name": "Barongo 30/1 ECC Cheddar Cheese smalls"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/barongo-31-ecc",
+        "text": "Barongo 30/1 ECC",
+        "title": "Barongo 30/1 ECC von WMG Pharma"
+      },
+      {
+        "href": "/product/barongo-31-ecc-cheddar-cheese-smalls",
+        "text": "Barongo 30/1 ECC Cheddar Cheese smalls",
+        "title": "Barongo 30/1 ECC Cheddar Cheese smalls von WMG Pharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/bubba-kush",
+        "text": "Bubba Kush",
+        "title": "Bubba Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/kush-kush",
+        "text": "Kush Kush",
+        "title": "Kush Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/do-si-dos",
+        "text": "Do-Si-Dos",
+        "title": "Do-Si-Dos - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/karel's-haze",
+        "text": "Karel's Haze",
+        "title": "Karel's Haze - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/kerosene-krash",
+        "text": "Kerosene Krash",
+        "title": "Kerosene Krash - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-myrcene",
+        "text": "Beta-Myrcene",
+        "title": "Beta-Myrcene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

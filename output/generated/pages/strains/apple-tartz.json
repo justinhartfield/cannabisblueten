@@ -1,0 +1,195 @@
+{
+  "strain": {
+    "slug": "apple-tartz",
+    "name": "Apple Tartz",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Hungry",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Diesel",
+      "Herbal",
+      "Vanilla"
+    ],
+    "terpenes": [],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 545,
+      "max": 559,
+      "formatted": {
+        "min": "5,45 €",
+        "max": "5,59 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "imc-cannabisblueten-at-thc25",
+      "name": "IMC AT THC25",
+      "brandName": "IMC",
+      "thcPercent": 25,
+      "priceMin": 545,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "galaxy-walker-og",
+      "name": "Galaxy Walker OG",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "la-confidential",
+      "name": "LA Confidential",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "bubba-kush",
+      "name": "Bubba Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "gorilla-glue-4",
+      "name": "GG4",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "god-bud",
+      "name": "God Bud",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Apple Tartz (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Apple Tartz: Hungry, Relaxed. 1 Produkte verfügbar. ab 5,45 €.",
+      "canonical": "https://weed.de/strain/apple-tartz",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Apple Tartz (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Apple Tartz: Hungry, Relaxed. 1 Produkte verfügbar. ab 5,45 €.",
+        "url": "https://weed.de/strain/apple-tartz",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Apple Tartz",
+        "href": "https://weed.de/strain/apple-tartz"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Apple Tartz",
+            "item": "https://weed.de/strain/apple-tartz"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Apple Tartz Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/imc-cannabisblueten-at-thc25",
+            "name": "IMC AT THC25"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/imc-cannabisblueten-at-thc25",
+        "text": "IMC AT THC25",
+        "title": "IMC AT THC25 von IMC"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/galaxy-walker-og",
+        "text": "Galaxy Walker OG",
+        "title": "Galaxy Walker OG - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/la-confidential",
+        "text": "LA Confidential",
+        "title": "LA Confidential - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/bubba-kush",
+        "text": "Bubba Kush",
+        "title": "Bubba Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/gorilla-glue-4",
+        "text": "GG4",
+        "title": "GG4 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/god-bud",
+        "text": "God Bud",
+        "title": "God Bud - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": []
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

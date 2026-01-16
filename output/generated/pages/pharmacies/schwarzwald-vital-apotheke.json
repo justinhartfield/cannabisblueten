@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "schwarzwald-vital-apotheke",
+    "name": "Schwarzwald Vital Apotheke",
+    "street": "Bismarckstraße 53",
+    "zip": "76571",
+    "cityName": "Gaggenau",
+    "state": "Baden-Württemberg",
+    "lat": 48.8039808,
+    "lng": 8.3106426,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": null,
+    "phone": "07225917690",
+    "email": "schwarzwald@vitalapo.de",
+    "productCount": 133,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/67a3389c04267dfcfbe8b174-6djha2.jpg"
+  },
+  "city": {
+    "slug": "gaggenau",
+    "name": "Gaggenau",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "florians-vital-apotheke",
+      "name": "Florians Vital Apotheke",
+      "cityName": "Esslingen am Neckar",
+      "productCount": 248,
+      "hasDelivery": true
+    },
+    {
+      "slug": "central-apotheke",
+      "name": "Cannabis-Champion",
+      "cityName": "Waiblingen",
+      "productCount": 240,
+      "hasDelivery": true
+    },
+    {
+      "slug": "karlchengras",
+      "name": "Karlchengras (Karl-Apotheke)",
+      "cityName": "Karlsruhe",
+      "productCount": 188,
+      "hasDelivery": true
+    },
+    {
+      "slug": "idris-apotheke-oder-3leafs",
+      "name": "Idris Apotheke | 3Leafs",
+      "cityName": "Weinheim",
+      "productCount": 149,
+      "hasDelivery": true
+    },
+    {
+      "slug": "rhein-apotheke-im-aerztehaus-muehlburg",
+      "name": "Rhein-Apotheke im Ärztehaus Mühlburg",
+      "cityName": "Karlsruhe",
+      "productCount": 133,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Schwarzwald Vital Apotheke - Cannabis Apotheke in Gaggenau",
+      "description": "Schwarzwald Vital Apotheke in Gaggenau. 133 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/schwarzwald-vital-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Schwarzwald Vital Apotheke - Cannabis Apotheke in Gaggenau",
+        "description": "Schwarzwald Vital Apotheke in Gaggenau. 133 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/schwarzwald-vital-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/67a3389c04267dfcfbe8b174-6djha2.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Gaggenau",
+        "href": "https://weed.de/cannabis-apotheke/gaggenau"
+      },
+      {
+        "name": "Schwarzwald Vital Apotheke",
+        "href": "https://weed.de/apotheke/schwarzwald-vital-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Gaggenau",
+            "item": "https://weed.de/cannabis-apotheke/gaggenau"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Schwarzwald Vital Apotheke",
+            "item": "https://weed.de/apotheke/schwarzwald-vital-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Schwarzwald Vital Apotheke",
+        "url": "https://weed.de/apotheke/schwarzwald-vital-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Bismarckstraße 53",
+          "addressLocality": "Gaggenau",
+          "postalCode": "76571",
+          "addressRegion": "Baden-Württemberg",
+          "addressCountry": "DE"
+        },
+        "telephone": "07225917690",
+        "email": "schwarzwald@vitalapo.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/gaggenau",
+      "text": "Cannabis Apotheken in Gaggenau",
+      "title": "Alle Apotheken in Gaggenau"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/florians-vital-apotheke",
+        "text": "Florians Vital Apotheke",
+        "title": "Florians Vital Apotheke in Esslingen am Neckar"
+      },
+      {
+        "href": "/apotheke/central-apotheke",
+        "text": "Cannabis-Champion",
+        "title": "Cannabis-Champion in Waiblingen"
+      },
+      {
+        "href": "/apotheke/karlchengras",
+        "text": "Karlchengras (Karl-Apotheke)",
+        "title": "Karlchengras (Karl-Apotheke) in Karlsruhe"
+      },
+      {
+        "href": "/apotheke/idris-apotheke-oder-3leafs",
+        "text": "Idris Apotheke | 3Leafs",
+        "title": "Idris Apotheke | 3Leafs in Weinheim"
+      },
+      {
+        "href": "/apotheke/rhein-apotheke-im-aerztehaus-muehlburg",
+        "text": "Rhein-Apotheke im Ärztehaus Mühlburg",
+        "title": "Rhein-Apotheke im Ärztehaus Mühlburg in Karlsruhe"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

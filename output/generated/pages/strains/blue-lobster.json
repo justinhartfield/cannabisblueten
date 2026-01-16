@@ -1,0 +1,247 @@
+{
+  "strain": {
+    "slug": "blue-lobster",
+    "name": "Blue Lobster",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Relaxed",
+      "Euphoric",
+      "Creative"
+    ],
+    "tastes": [
+      "Sweet",
+      "Fruity"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Pinene",
+      "Terpinolene",
+      "Humulene",
+      "Limonene"
+    ],
+    "description": "Blue Lobster ist ein außergewöhnlicher Hybrid, entstanden aus der Kreuzung von Apples and Bananas und Eye Candy. Die Sorte kombiniert süß-fruchtige und cremig-komplexe Aromen mit einer facettenreichen Wirkung – entspannend, leicht euphorisierend und kreativitätsfördernd. Mit einem meist hohen THC-Gehalt (genaue Werte je nach Charge) gehört Blue Lobster zu den besonderen Delikatessen unter den modernen Strains.",
+    "imageUrl": "/strains/6839829dcad57574a9bc4411-h681d3.png"
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 840,
+      "max": 1048,
+      "formatted": {
+        "min": "8,40 €",
+        "max": "10,48 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "vasco-x-cipher-bl",
+      "name": "Vasco X Cipher BL",
+      "brandName": "Cantourage",
+      "thcPercent": 24,
+      "priceMin": 1048,
+      "inStock": true
+    },
+    {
+      "slug": "enua-31-blue-l-ca",
+      "name": "enua 30/1 Blue L CA",
+      "brandName": "enua",
+      "thcPercent": 28,
+      "priceMin": 840,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "super-citra-g",
+      "name": "Super Citra G",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "miracle-mints",
+      "name": "Miracle Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "purple-amnesia",
+      "name": "Purple Amnesia",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "juggernaut-gas-breath",
+      "name": "Juggernaut Gas Breath",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "ultra-sour",
+      "name": "Ultra Sour",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Blue Lobster (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Blue Lobster: Relaxed, Euphoric, Creative. 2 Produkte verfügbar. ab 8,40 €.",
+      "canonical": "https://weed.de/strain/blue-lobster",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Blue Lobster (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Blue Lobster: Relaxed, Euphoric, Creative. 2 Produkte verfügbar. ab 8,40 €.",
+        "url": "https://weed.de/strain/blue-lobster",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "/strains/6839829dcad57574a9bc4411-h681d3.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Blue Lobster",
+        "href": "https://weed.de/strain/blue-lobster"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Blue Lobster",
+            "item": "https://weed.de/strain/blue-lobster"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Blue Lobster Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/vasco-x-cipher-bl",
+            "name": "Vasco X Cipher BL"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/enua-31-blue-l-ca",
+            "name": "enua 30/1 Blue L CA"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/vasco-x-cipher-bl",
+        "text": "Vasco X Cipher BL",
+        "title": "Vasco X Cipher BL von Cantourage"
+      },
+      {
+        "href": "/product/enua-31-blue-l-ca",
+        "text": "enua 30/1 Blue L CA",
+        "title": "enua 30/1 Blue L CA von enua"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/super-citra-g",
+        "text": "Super Citra G",
+        "title": "Super Citra G - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/miracle-mints",
+        "text": "Miracle Mints",
+        "title": "Miracle Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/purple-amnesia",
+        "text": "Purple Amnesia",
+        "title": "Purple Amnesia - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/juggernaut-gas-breath",
+        "text": "Juggernaut Gas Breath",
+        "title": "Juggernaut Gas Breath - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/ultra-sour",
+        "text": "Ultra Sour",
+        "title": "Ultra Sour - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/pinene",
+        "text": "Pinene",
+        "title": "Pinene Terpen"
+      },
+      {
+        "href": "/terpene/terpinolene",
+        "text": "Terpinolene",
+        "title": "Terpinolene Terpen"
+      },
+      {
+        "href": "/terpene/humulene",
+        "text": "Humulene",
+        "title": "Humulene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

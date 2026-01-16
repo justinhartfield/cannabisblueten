@@ -1,0 +1,297 @@
+{
+  "city": {
+    "slug": "nuernberg",
+    "name": "Nürnberg",
+    "state": "Bayern"
+  },
+  "stats": {
+    "pharmacyCount": 7,
+    "totalProducts": 468,
+    "hasDelivery": true
+  },
+  "pharmacies": [
+    {
+      "slug": "spital-apotheke-zum-heiligen-geist",
+      "name": "Canthera.de | Spital Apotheke zum Heiligen Geist",
+      "street": "Spitalgasse 2",
+      "zip": "90403",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 317,
+      "rating": 3,
+      "ratingCount": 6
+    },
+    {
+      "slug": "cannabis-nordost-apotheke",
+      "name": "Cannabis Nordost Apotheke",
+      "street": "Äußere Bayreuther Straße 105",
+      "zip": "90409",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 67,
+      "rating": 5,
+      "ratingCount": 3
+    },
+    {
+      "slug": "merkur-apotheke",
+      "name": "Merkur Apotheke",
+      "street": "90459 Nürnberg, Deutschland",
+      "zip": "90459",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 35,
+      "rating": 5,
+      "ratingCount": 2
+    },
+    {
+      "slug": "kosmos-apotheke",
+      "name": "Cannakosmos",
+      "street": "Allersberger Straße 96",
+      "zip": "90461",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 34,
+      "rating": 5,
+      "ratingCount": 2
+    },
+    {
+      "slug": "apotheke-im-mmc",
+      "name": "Apotheke im MMC",
+      "street": "Virnsberger Straße 75",
+      "zip": "90431",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 15,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "koenigs-apotheke",
+      "name": "Königs Apotheke",
+      "street": "Nürnberg, Deutschland",
+      "zip": "90",
+      "hasDelivery": false,
+      "hasPickup": false,
+      "productCount": 0,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "hirsch-apotheke",
+      "name": "Hirsch Apotheke",
+      "street": "Bucher Straße 37 A",
+      "zip": "90419",
+      "hasDelivery": false,
+      "hasPickup": true,
+      "productCount": 0,
+      "rating": 0,
+      "ratingCount": 0
+    }
+  ],
+  "nearbyCities": [
+    {
+      "slug": "muenchen",
+      "name": "München",
+      "pharmacyCount": 12
+    },
+    {
+      "slug": "augsburg",
+      "name": "Augsburg",
+      "pharmacyCount": 6
+    },
+    {
+      "slug": "landshut",
+      "name": "Landshut",
+      "pharmacyCount": 3
+    },
+    {
+      "slug": "erlangen",
+      "name": "Erlangen",
+      "pharmacyCount": 2
+    },
+    {
+      "slug": "ansbach",
+      "name": "Ansbach",
+      "pharmacyCount": 2
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannabis Apotheke Nürnberg - 7 Apotheken",
+      "description": "Cannabis Apotheken in Nürnberg. 7 Apotheken mit 468 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+      "canonical": "https://weed.de/cannabis-apotheke/nuernberg",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannabis Apotheke Nürnberg - 7 Apotheken",
+        "description": "Cannabis Apotheken in Nürnberg. 7 Apotheken mit 468 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+        "url": "https://weed.de/cannabis-apotheke/nuernberg",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Nürnberg",
+        "href": "https://weed.de/cannabis-apotheke/nuernberg"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Nürnberg",
+            "item": "https://weed.de/cannabis-apotheke/nuernberg"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Cannabis Apotheken in Nürnberg",
+        "numberOfItems": 7,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/apotheke/spital-apotheke-zum-heiligen-geist",
+            "name": "Canthera.de | Spital Apotheke zum Heiligen Geist"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/apotheke/cannabis-nordost-apotheke",
+            "name": "Cannabis Nordost Apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/apotheke/merkur-apotheke",
+            "name": "Merkur Apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/apotheke/kosmos-apotheke",
+            "name": "Cannakosmos"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "https://weed.de/apotheke/apotheke-im-mmc",
+            "name": "Apotheke im MMC"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "url": "https://weed.de/apotheke/koenigs-apotheke",
+            "name": "Königs Apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "url": "https://weed.de/apotheke/hirsch-apotheke",
+            "name": "Hirsch Apotheke"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "pharmacies": [
+      {
+        "href": "/apotheke/spital-apotheke-zum-heiligen-geist",
+        "text": "Canthera.de | Spital Apotheke zum Heiligen Geist",
+        "title": "Canthera.de | Spital Apotheke zum Heiligen Geist in Nürnberg"
+      },
+      {
+        "href": "/apotheke/cannabis-nordost-apotheke",
+        "text": "Cannabis Nordost Apotheke",
+        "title": "Cannabis Nordost Apotheke in Nürnberg"
+      },
+      {
+        "href": "/apotheke/merkur-apotheke",
+        "text": "Merkur Apotheke",
+        "title": "Merkur Apotheke in Nürnberg"
+      },
+      {
+        "href": "/apotheke/kosmos-apotheke",
+        "text": "Cannakosmos",
+        "title": "Cannakosmos in Nürnberg"
+      },
+      {
+        "href": "/apotheke/apotheke-im-mmc",
+        "text": "Apotheke im MMC",
+        "title": "Apotheke im MMC in Nürnberg"
+      },
+      {
+        "href": "/apotheke/koenigs-apotheke",
+        "text": "Königs Apotheke",
+        "title": "Königs Apotheke in Nürnberg"
+      },
+      {
+        "href": "/apotheke/hirsch-apotheke",
+        "text": "Hirsch Apotheke",
+        "title": "Hirsch Apotheke in Nürnberg"
+      }
+    ],
+    "nearbyCities": [
+      {
+        "href": "/cannabis-apotheke/muenchen",
+        "text": "Cannabis Apotheke München",
+        "title": "12 Apotheken in München"
+      },
+      {
+        "href": "/cannabis-apotheke/augsburg",
+        "text": "Cannabis Apotheke Augsburg",
+        "title": "6 Apotheken in Augsburg"
+      },
+      {
+        "href": "/cannabis-apotheke/landshut",
+        "text": "Cannabis Apotheke Landshut",
+        "title": "3 Apotheken in Landshut"
+      },
+      {
+        "href": "/cannabis-apotheke/erlangen",
+        "text": "Cannabis Apotheke Erlangen",
+        "title": "2 Apotheken in Erlangen"
+      },
+      {
+        "href": "/cannabis-apotheke/ansbach",
+        "text": "Cannabis Apotheke Ansbach",
+        "title": "2 Apotheken in Ansbach"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has 7 pharmacies"
+  }
+}

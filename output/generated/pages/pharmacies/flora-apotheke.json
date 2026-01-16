@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "flora-apotheke",
+    "name": "Flora Apotheke",
+    "street": "Spesenrother Weg 1",
+    "zip": "56288",
+    "cityName": "Kastellaun",
+    "state": "Rheinland-Pfalz",
+    "lat": 50.0711504,
+    "lng": 7.4429073,
+    "hasDelivery": false,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://castellacanna.de/",
+    "phone": "067628242",
+    "email": "contact@flora-apotheke-kastellaun.de",
+    "productCount": 14,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/6835944cf4525a04b7dc21cd-gch84g.jpg"
+  },
+  "city": {
+    "slug": "kastellaun",
+    "name": "Kastellaun",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "cannabis-apotheke-rheinland",
+      "name": "Cannabis Apotheke Rheinland",
+      "cityName": "Bad Neuenahr-Ahrweiler",
+      "productCount": 161,
+      "hasDelivery": true
+    },
+    {
+      "slug": "grune-blute-ulmen-apotheke",
+      "name": "Grüne Blüte",
+      "cityName": "Frankenthal (Pfalz)",
+      "productCount": 158,
+      "hasDelivery": true
+    },
+    {
+      "slug": "pharmablute",
+      "name": "PharmaBlüte",
+      "cityName": "Mainz",
+      "productCount": 124,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis4me",
+      "name": "cannabis4me",
+      "cityName": "Bad Neuenahr-Ahrweiler",
+      "productCount": 89,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-am-kornmarkt",
+      "name": "Apotheke am Kornmarkt",
+      "cityName": "Trier",
+      "productCount": 64,
+      "hasDelivery": false
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Flora Apotheke - Cannabis Apotheke in Kastellaun",
+      "description": "Flora Apotheke in Kastellaun. 14 Cannabis Produkte. Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/flora-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Flora Apotheke - Cannabis Apotheke in Kastellaun",
+        "description": "Flora Apotheke in Kastellaun. 14 Cannabis Produkte. Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/flora-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/6835944cf4525a04b7dc21cd-gch84g.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Kastellaun",
+        "href": "https://weed.de/cannabis-apotheke/kastellaun"
+      },
+      {
+        "name": "Flora Apotheke",
+        "href": "https://weed.de/apotheke/flora-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Kastellaun",
+            "item": "https://weed.de/cannabis-apotheke/kastellaun"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Flora Apotheke",
+            "item": "https://weed.de/apotheke/flora-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Flora Apotheke",
+        "url": "https://weed.de/apotheke/flora-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Spesenrother Weg 1",
+          "addressLocality": "Kastellaun",
+          "postalCode": "56288",
+          "addressRegion": "Rheinland-Pfalz",
+          "addressCountry": "DE"
+        },
+        "telephone": "067628242",
+        "email": "contact@flora-apotheke-kastellaun.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/kastellaun",
+      "text": "Cannabis Apotheken in Kastellaun",
+      "title": "Alle Apotheken in Kastellaun"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/cannabis-apotheke-rheinland",
+        "text": "Cannabis Apotheke Rheinland",
+        "title": "Cannabis Apotheke Rheinland in Bad Neuenahr-Ahrweiler"
+      },
+      {
+        "href": "/apotheke/grune-blute-ulmen-apotheke",
+        "text": "Grüne Blüte",
+        "title": "Grüne Blüte in Frankenthal (Pfalz)"
+      },
+      {
+        "href": "/apotheke/pharmablute",
+        "text": "PharmaBlüte",
+        "title": "PharmaBlüte in Mainz"
+      },
+      {
+        "href": "/apotheke/cannabis4me",
+        "text": "cannabis4me",
+        "title": "cannabis4me in Bad Neuenahr-Ahrweiler"
+      },
+      {
+        "href": "/apotheke/apotheke-am-kornmarkt",
+        "text": "Apotheke am Kornmarkt",
+        "title": "Apotheke am Kornmarkt in Trier"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

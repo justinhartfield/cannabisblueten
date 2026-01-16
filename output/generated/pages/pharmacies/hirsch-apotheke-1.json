@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "hirsch-apotheke-1",
+    "name": "Cannasana",
+    "street": "Hohe Börde-Eichenbarleben, Deutschland",
+    "zip": "39167",
+    "cityName": "Hohe Börde",
+    "state": "Sachsen-Anhalt",
+    "lat": 52.1667076,
+    "lng": 11.4022893,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "",
+    "phone": "039206169995",
+    "email": "service@cannasana.de",
+    "productCount": 66,
+    "rating": 5,
+    "ratingCount": 1,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/67cb31cbbd3198ede44fbed1-47f04e.jpg"
+  },
+  "city": {
+    "slug": "hohe-boerde",
+    "name": "Hohe Börde",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "cannaroko-oder-robert-koch-apotheke-wolfen",
+      "name": "CannaRoKo | Robert-Koch-Apotheke Wolfen",
+      "cityName": "Bitterfeld-Wolfen",
+      "productCount": 80,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-am-collegienhof",
+      "name": "Elbgrün",
+      "cityName": "Lutherstadt Wittenberg",
+      "productCount": 43,
+      "hasDelivery": true
+    },
+    {
+      "slug": "easyapotheke-magdeburg",
+      "name": "easyApotheke Magdeburg",
+      "cityName": "Magdeburg",
+      "productCount": 32,
+      "hasDelivery": true
+    },
+    {
+      "slug": "rosen-apotheke-eisleben",
+      "name": "Rosen Apotheke Eisleben",
+      "cityName": "Lutherstadt Eisleben",
+      "productCount": 25,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannalles",
+      "name": "Cannalles im Salzlandkreis",
+      "cityName": "Hecklingen",
+      "productCount": 22,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannasana - Cannabis Apotheke in Hohe Börde",
+      "description": "Cannasana in Hohe Börde. 66 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/hirsch-apotheke-1",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannasana - Cannabis Apotheke in Hohe Börde",
+        "description": "Cannasana in Hohe Börde. 66 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/hirsch-apotheke-1",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/67cb31cbbd3198ede44fbed1-47f04e.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Hohe Börde",
+        "href": "https://weed.de/cannabis-apotheke/hohe-boerde"
+      },
+      {
+        "name": "Cannasana",
+        "href": "https://weed.de/apotheke/hirsch-apotheke-1"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Hohe Börde",
+            "item": "https://weed.de/cannabis-apotheke/hohe-boerde"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Cannasana",
+            "item": "https://weed.de/apotheke/hirsch-apotheke-1"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Cannasana",
+        "url": "https://weed.de/apotheke/hirsch-apotheke-1",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Hohe Börde-Eichenbarleben, Deutschland",
+          "addressLocality": "Hohe Börde",
+          "postalCode": "39167",
+          "addressRegion": "Sachsen-Anhalt",
+          "addressCountry": "DE"
+        },
+        "telephone": "039206169995",
+        "email": "service@cannasana.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/hohe-boerde",
+      "text": "Cannabis Apotheken in Hohe Börde",
+      "title": "Alle Apotheken in Hohe Börde"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/cannaroko-oder-robert-koch-apotheke-wolfen",
+        "text": "CannaRoKo | Robert-Koch-Apotheke Wolfen",
+        "title": "CannaRoKo | Robert-Koch-Apotheke Wolfen in Bitterfeld-Wolfen"
+      },
+      {
+        "href": "/apotheke/apotheke-am-collegienhof",
+        "text": "Elbgrün",
+        "title": "Elbgrün in Lutherstadt Wittenberg"
+      },
+      {
+        "href": "/apotheke/easyapotheke-magdeburg",
+        "text": "easyApotheke Magdeburg",
+        "title": "easyApotheke Magdeburg in Magdeburg"
+      },
+      {
+        "href": "/apotheke/rosen-apotheke-eisleben",
+        "text": "Rosen Apotheke Eisleben",
+        "title": "Rosen Apotheke Eisleben in Lutherstadt Eisleben"
+      },
+      {
+        "href": "/apotheke/cannalles",
+        "text": "Cannalles im Salzlandkreis",
+        "title": "Cannalles im Salzlandkreis in Hecklingen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

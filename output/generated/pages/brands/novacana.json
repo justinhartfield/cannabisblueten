@@ -1,0 +1,153 @@
+{
+  "brand": {
+    "slug": "novacana",
+    "name": "Novacana",
+    "productCount": 3
+  },
+  "products": [
+    {
+      "slug": "novacana-65-t",
+      "name": "Novacana 65 T",
+      "type": "extract",
+      "thcPercent": 66.5,
+      "priceMin": 7999,
+      "inStock": true,
+      "strainName": null
+    },
+    {
+      "slug": "bedrocan-cannabis-flos-no4",
+      "name": "Bedrocan Cannabis Flos No4",
+      "type": "flower",
+      "thcPercent": 22,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Bedrocan®"
+    },
+    {
+      "slug": "bediol-cannabis-flos-no4",
+      "name": "Bediol Cannabis Flos No4",
+      "type": "flower",
+      "thcPercent": 6.3,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Bediol"
+    }
+  ],
+  "stats": {
+    "productCount": 3,
+    "inStockCount": 1,
+    "avgThc": 31.6,
+    "priceRange": {
+      "min": 7999,
+      "max": 7999,
+      "formatted": {
+        "min": "79,99 €",
+        "max": "79,99 €"
+      }
+    }
+  },
+  "seo": {
+    "meta": {
+      "title": "Novacana Cannabis Produkte - 3 Produkte",
+      "description": "Novacana: 3 Cannabis Produkte. 1 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+      "canonical": "https://weed.de/brand/novacana",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Novacana Cannabis Produkte - 3 Produkte",
+        "description": "Novacana: 3 Cannabis Produkte. 1 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+        "url": "https://weed.de/brand/novacana",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Hersteller",
+        "href": "https://weed.de/brands"
+      },
+      {
+        "name": "Novacana",
+        "href": "https://weed.de/brand/novacana"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Hersteller",
+            "item": "https://weed.de/brands"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Novacana",
+            "item": "https://weed.de/brand/novacana"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Novacana Produkte",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/novacana-65-t",
+            "name": "Novacana 65 T"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/bedrocan-cannabis-flos-no4",
+            "name": "Bedrocan Cannabis Flos No4"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/bediol-cannabis-flos-no4",
+            "name": "Bediol Cannabis Flos No4"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/novacana-65-t",
+        "text": "Novacana 65 T",
+        "title": "Novacana 65 T"
+      },
+      {
+        "href": "/product/bedrocan-cannabis-flos-no4",
+        "text": "Bedrocan Cannabis Flos No4",
+        "title": "Bedrocan Cannabis Flos No4"
+      },
+      {
+        "href": "/product/bediol-cannabis-flos-no4",
+        "text": "Bediol Cannabis Flos No4",
+        "title": "Bediol Cannabis Flos No4"
+      }
+    ]
+  }
+}

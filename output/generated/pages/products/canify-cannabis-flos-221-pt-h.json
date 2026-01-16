@@ -1,0 +1,222 @@
+{
+  "product": {
+    "slug": "canify-cannabis-flos-221-pt-h",
+    "name": "Canify Cannabis flos 22/1 PT H",
+    "type": "flower",
+    "genetics": "hybrid",
+    "thcPercent": 22,
+    "cbdPercent": 1,
+    "priceMin": 725,
+    "priceMax": 725,
+    "inStock": false,
+    "pzn": null,
+    "originCountry": "N/A",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "canify",
+    "name": "Canify",
+    "productCount": 68
+  },
+  "strain": {
+    "slug": "headband",
+    "name": "Headband",
+    "geneticType": "hybrid",
+    "effects": [
+      "Body-buzz",
+      "Euphoric",
+      "Creative"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Myrcene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Body-buzz",
+      "Euphoric",
+      "Creative"
+    ],
+    "tastes": [
+      "Citrus",
+      "Lemon",
+      "Diesel"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Myrcene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "tilray-thc-25-spotlight-porto-purps",
+      "name": "Tilray THC 25 Spotlight Porto Purps",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": 349,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc5cbd2",
+      "name": "Tilray Cannabisextrakt THC5:CBD20",
+      "brandName": "Tilray",
+      "thcPercent": 5,
+      "priceMin": 350,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc1cbd1",
+      "name": "Tilray Cannabisextrakt THC10:CBD10",
+      "brandName": "Tilray",
+      "thcPercent": 10,
+      "priceMin": 400,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-2",
+      "name": "Demecan Typ 2",
+      "brandName": "Demecan",
+      "thcPercent": 16,
+      "priceMin": 533,
+      "inStock": true
+    },
+    {
+      "slug": "khiron-191-gelato",
+      "name": "Khiron 19/1 Gelato",
+      "brandName": "Khiron",
+      "thcPercent": 17.6,
+      "priceMin": 638,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc25",
+      "name": "Tilray Cannabisextrakt THC25",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": 895,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Canify Cannabis flos 22/1 PT H | ab 7,25 €",
+      "description": "Canify Cannabis flos 22/1 PT H von Canify. THC: 22%, CBD: 1%. Sorte: Headband. Preis ab 7,25 €. Preise vergleichen.",
+      "canonical": "https://weed.de/product/canify-cannabis-flos-221-pt-h",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Canify Cannabis flos 22/1 PT H | ab 7,25 €",
+        "description": "Canify Cannabis flos 22/1 PT H von Canify. THC: 22%, CBD: 1%. Sorte: Headband. Preis ab 7,25 €. Preise vergleichen.",
+        "url": "https://weed.de/product/canify-cannabis-flos-221-pt-h",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Canify",
+        "href": "https://weed.de/brand/canify"
+      },
+      {
+        "name": "Canify Cannabis flos 22/1 PT H",
+        "href": "https://weed.de/product/canify-cannabis-flos-221-pt-h"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Canify Cannabis flos 22/1 PT H",
+            "item": "https://weed.de/product/canify-cannabis-flos-221-pt-h"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Canify Cannabis flos 22/1 PT H",
+        "brand": {
+          "@type": "Brand",
+          "name": "Canify"
+        },
+        "description": "THC: 22%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/headband",
+      "text": "Headband",
+      "title": "Headband Sorte"
+    },
+    "brand": {
+      "href": "/brand/canify",
+      "text": "Canify",
+      "title": "Alle Canify Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/tilray-thc-25-spotlight-porto-purps",
+        "text": "Tilray THC 25 Spotlight Porto Purps",
+        "title": "Alternative: Tilray THC 25 Spotlight Porto Purps"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc5cbd2",
+        "text": "Tilray Cannabisextrakt THC5:CBD20",
+        "title": "Alternative: Tilray Cannabisextrakt THC5:CBD20"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc1cbd1",
+        "text": "Tilray Cannabisextrakt THC10:CBD10",
+        "title": "Alternative: Tilray Cannabisextrakt THC10:CBD10"
+      },
+      {
+        "href": "/product/demecan-typ-2",
+        "text": "Demecan Typ 2",
+        "title": "Alternative: Demecan Typ 2"
+      },
+      {
+        "href": "/product/khiron-191-gelato",
+        "text": "Khiron 19/1 Gelato",
+        "title": "Alternative: Khiron 19/1 Gelato"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc25",
+        "text": "Tilray Cannabisextrakt THC25",
+        "title": "Alternative: Tilray Cannabisextrakt THC25"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has price data"
+  }
+}

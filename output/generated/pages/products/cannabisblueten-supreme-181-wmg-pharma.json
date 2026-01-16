@@ -1,0 +1,224 @@
+{
+  "product": {
+    "slug": "cannabisblueten-supreme-181-wmg-pharma",
+    "name": "Supreme 18/1 WMG Pharma",
+    "type": "flower",
+    "genetics": "hybrid",
+    "thcPercent": 18,
+    "cbdPercent": 1,
+    "priceMin": 810,
+    "priceMax": 900,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Dänemark",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "wmg-pharma",
+    "name": "WMG Pharma",
+    "productCount": 62
+  },
+  "strain": {
+    "slug": "white-widow",
+    "name": "White Widow",
+    "geneticType": "hybrid",
+    "effects": [
+      "Lively",
+      "Chatty",
+      "Imaginative"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Pinene",
+      "Caryophyllene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Lively",
+      "Chatty",
+      "Imaginative"
+    ],
+    "tastes": [
+      "Woody",
+      "Herbal",
+      "Earthy"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Pinene",
+      "Caryophyllene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "cannabis-1a-161",
+      "name": "Cannabis 1A 16/1",
+      "brandName": "Vayamed",
+      "thcPercent": 16,
+      "priceMin": 420,
+      "inStock": true
+    },
+    {
+      "slug": "cannabis-1a-181-flos-ww",
+      "name": "Cannabis 1A 18/1 Flos WW",
+      "brandName": "Vayamed",
+      "thcPercent": 18,
+      "priceMin": 559,
+      "inStock": true
+    },
+    {
+      "slug": "weeco-201",
+      "name": "Weeco 20/1",
+      "brandName": "Weeco",
+      "thcPercent": 20.4,
+      "priceMin": 579,
+      "inStock": true
+    },
+    {
+      "slug": "weeco-181-ww",
+      "name": "Weeco 18/1 WW",
+      "brandName": "Weeco",
+      "thcPercent": 18,
+      "priceMin": 620,
+      "inStock": true
+    },
+    {
+      "slug": "khiriox-251-extrakt",
+      "name": "Khiriox 25/1 Extrakt",
+      "brandName": "Khiron",
+      "thcPercent": 25,
+      "priceMin": 704,
+      "inStock": true
+    },
+    {
+      "slug": "remexian-141-ww",
+      "name": "Remexian 14/1 WW",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 14.8,
+      "priceMin": 799,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Supreme 18/1 WMG Pharma | ab 8,10 €",
+      "description": "Supreme 18/1 WMG Pharma von WMG Pharma. THC: 18%, CBD: 1%. Sorte: White Widow. Preis ab 8,10 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/cannabisblueten-supreme-181-wmg-pharma",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Supreme 18/1 WMG Pharma | ab 8,10 €",
+        "description": "Supreme 18/1 WMG Pharma von WMG Pharma. THC: 18%, CBD: 1%. Sorte: White Widow. Preis ab 8,10 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/cannabisblueten-supreme-181-wmg-pharma",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "WMG Pharma",
+        "href": "https://weed.de/brand/wmg-pharma"
+      },
+      {
+        "name": "Supreme 18/1 WMG Pharma",
+        "href": "https://weed.de/product/cannabisblueten-supreme-181-wmg-pharma"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Supreme 18/1 WMG Pharma",
+            "item": "https://weed.de/product/cannabisblueten-supreme-181-wmg-pharma"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Supreme 18/1 WMG Pharma",
+        "brand": {
+          "@type": "Brand",
+          "name": "WMG Pharma"
+        },
+        "description": "THC: 18%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/white-widow",
+      "text": "White Widow",
+      "title": "White Widow Sorte"
+    },
+    "brand": {
+      "href": "/brand/wmg-pharma",
+      "text": "WMG Pharma",
+      "title": "Alle WMG Pharma Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/cannabis-1a-161",
+        "text": "Cannabis 1A 16/1",
+        "title": "Alternative: Cannabis 1A 16/1"
+      },
+      {
+        "href": "/product/cannabis-1a-181-flos-ww",
+        "text": "Cannabis 1A 18/1 Flos WW",
+        "title": "Alternative: Cannabis 1A 18/1 Flos WW"
+      },
+      {
+        "href": "/product/weeco-201",
+        "text": "Weeco 20/1",
+        "title": "Alternative: Weeco 20/1"
+      },
+      {
+        "href": "/product/weeco-181-ww",
+        "text": "Weeco 18/1 WW",
+        "title": "Alternative: Weeco 18/1 WW"
+      },
+      {
+        "href": "/product/khiriox-251-extrakt",
+        "text": "Khiriox 25/1 Extrakt",
+        "title": "Alternative: Khiriox 25/1 Extrakt"
+      },
+      {
+        "href": "/product/remexian-141-ww",
+        "text": "Remexian 14/1 WW",
+        "title": "Alternative: Remexian 14/1 WW"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

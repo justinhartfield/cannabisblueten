@@ -1,0 +1,247 @@
+{
+  "strain": {
+    "slug": "apple-and-gas",
+    "name": "Apple & Gas",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [
+      "Euphoric",
+      "Happy",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Diesel",
+      "Fruity",
+      "Spicy"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Linalool",
+      "Myrcene",
+      "Beta-Caryophyllene",
+      "Alpha-Bisabolol"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 599,
+      "max": 599,
+      "formatted": {
+        "min": "5,99 €",
+        "max": "5,99 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "bc-green-241-aundg",
+      "name": "BC Green 24/1 A&G",
+      "brandName": "BC Green",
+      "thcPercent": 24,
+      "priceMin": 599,
+      "inStock": true
+    },
+    {
+      "slug": "gruenhorn-bc-241-aundg",
+      "name": "Grünhorn BC 24/1 A&G",
+      "brandName": "canymed",
+      "thcPercent": 24,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "frosted-cookies",
+      "name": "Frosted Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "alien-mints",
+      "name": "Alien Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "caviar-gold",
+      "name": "Caviar Gold",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "auto-kerosene-krash",
+      "name": "Auto Kerosene Krash",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "tigerz-eye",
+      "name": "Tigerz Eye",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Apple & Gas (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Apple & Gas: Euphoric, Happy, Relaxed. 2 Produkte verfügbar. ab 5,99 €.",
+      "canonical": "https://weed.de/strain/apple-and-gas",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Apple & Gas (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Apple & Gas: Euphoric, Happy, Relaxed. 2 Produkte verfügbar. ab 5,99 €.",
+        "url": "https://weed.de/strain/apple-and-gas",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Apple & Gas",
+        "href": "https://weed.de/strain/apple-and-gas"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Apple & Gas",
+            "item": "https://weed.de/strain/apple-and-gas"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Apple & Gas Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/bc-green-241-aundg",
+            "name": "BC Green 24/1 A&G"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/gruenhorn-bc-241-aundg",
+            "name": "Grünhorn BC 24/1 A&G"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/bc-green-241-aundg",
+        "text": "BC Green 24/1 A&G",
+        "title": "BC Green 24/1 A&G von BC Green"
+      },
+      {
+        "href": "/product/gruenhorn-bc-241-aundg",
+        "text": "Grünhorn BC 24/1 A&G",
+        "title": "Grünhorn BC 24/1 A&G von canymed"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/frosted-cookies",
+        "text": "Frosted Cookies",
+        "title": "Frosted Cookies - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/alien-mints",
+        "text": "Alien Mints",
+        "title": "Alien Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/caviar-gold",
+        "text": "Caviar Gold",
+        "title": "Caviar Gold - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/auto-kerosene-krash",
+        "text": "Auto Kerosene Krash",
+        "title": "Auto Kerosene Krash - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/tigerz-eye",
+        "text": "Tigerz Eye",
+        "title": "Tigerz Eye - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/alpha-bisabolol",
+        "text": "Alpha-Bisabolol",
+        "title": "Alpha-Bisabolol Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

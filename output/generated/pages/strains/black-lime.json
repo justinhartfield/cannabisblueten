@@ -1,0 +1,273 @@
+{
+  "strain": {
+    "slug": "black-lime",
+    "name": "Black Lime",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Creative",
+      "Focused",
+      "Euphoric"
+    ],
+    "tastes": [
+      "Flowery",
+      "Citrus",
+      "Diesel"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 4,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 319,
+      "max": 999,
+      "formatted": {
+        "min": "3,19 €",
+        "max": "9,99 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "nce-241-bl",
+      "name": "N!CE 24/1 BL",
+      "brandName": "Cansativa",
+      "thcPercent": 24,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "nice-261-bl",
+      "name": "NICE 26/1 BL",
+      "brandName": "Cansativa",
+      "thcPercent": 26,
+      "priceMin": 452,
+      "inStock": true
+    },
+    {
+      "slug": "nice-221-bl",
+      "name": "NICE 22/1 BL",
+      "brandName": "Cansativa",
+      "thcPercent": 22,
+      "priceMin": 319,
+      "inStock": true
+    },
+    {
+      "slug": "nice-291-bl",
+      "name": "NICE 29/1 BL",
+      "brandName": "Cansativa",
+      "thcPercent": 29,
+      "priceMin": 629,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "bruce-banner",
+      "name": "Bruce Banner",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "chem's-sister",
+      "name": "Chem's Sister",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "gelato-41",
+      "name": "Gelato #41",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "skywalker-2.0",
+      "name": "Skywalker 2.0",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "stardawg",
+      "name": "Stardawg",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Black Lime (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Black Lime: Creative, Focused, Euphoric. 4 Produkte verfügbar. ab 3,19 €.",
+      "canonical": "https://weed.de/strain/black-lime",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Black Lime (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Black Lime: Creative, Focused, Euphoric. 4 Produkte verfügbar. ab 3,19 €.",
+        "url": "https://weed.de/strain/black-lime",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Black Lime",
+        "href": "https://weed.de/strain/black-lime"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Black Lime",
+            "item": "https://weed.de/strain/black-lime"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Black Lime Produkte",
+        "numberOfItems": 4,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/nce-241-bl",
+            "name": "N!CE 24/1 BL"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/nice-261-bl",
+            "name": "NICE 26/1 BL"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/nice-221-bl",
+            "name": "NICE 22/1 BL"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/product/nice-291-bl",
+            "name": "NICE 29/1 BL"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/nce-241-bl",
+        "text": "N!CE 24/1 BL",
+        "title": "N!CE 24/1 BL von Cansativa"
+      },
+      {
+        "href": "/product/nice-261-bl",
+        "text": "NICE 26/1 BL",
+        "title": "NICE 26/1 BL von Cansativa"
+      },
+      {
+        "href": "/product/nice-221-bl",
+        "text": "NICE 22/1 BL",
+        "title": "NICE 22/1 BL von Cansativa"
+      },
+      {
+        "href": "/product/nice-291-bl",
+        "text": "NICE 29/1 BL",
+        "title": "NICE 29/1 BL von Cansativa"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/bruce-banner",
+        "text": "Bruce Banner",
+        "title": "Bruce Banner - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/chem's-sister",
+        "text": "Chem's Sister",
+        "title": "Chem's Sister - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/gelato-41",
+        "text": "Gelato #41",
+        "title": "Gelato #41 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/skywalker-2.0",
+        "text": "Skywalker 2.0",
+        "title": "Skywalker 2.0 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/stardawg",
+        "text": "Stardawg",
+        "title": "Stardawg - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

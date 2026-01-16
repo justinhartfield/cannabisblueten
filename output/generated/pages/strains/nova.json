@@ -1,0 +1,217 @@
+{
+  "strain": {
+    "slug": "nova",
+    "name": "Nova",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Creative",
+      "Euphoric",
+      "Sleepy"
+    ],
+    "tastes": [
+      "Cheese",
+      "Earthy",
+      "Woody"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Beta-Caryophyllene",
+      "Beta-Myrcene"
+    ],
+    "description": "Nova ist ein faszinierender Hybrid mit überwiegend Indica-lastigem Charakter, der das Ergebnis einer sorgfältigen Kreuzung zwischen zwei äußerst charakterstarken Elternsorten ist: Harlequin, einer CBD-reichen Sativa mit klarer, fokussierender Wirkung, und Jack The Ripper, einer energiegeladenen, zitrusbetonten Sativa mit stark psychoaktivem Potenzial. Nova vereint das Beste aus beiden Welten – die entspannende, körperlich lindernde Komponente von Harlequin mit der geistig stimulierenden, teils euphorischen Wirkung von Jack The Ripper. Das Ergebnis ist ein Kultivar, der sowohl in medizinischen als auch in freizeitlichen Anwendungsbereichen überzeugt. Mit einem ungewöhnlichen Terpenprofil und einem Geschmack, der zwischen Käse, Holz und chemischer Schärfe changiert, sorgt Nova für ein ebenso einzigartiges wie konsistentes Erlebnis. Wer bereit ist für eine kleine Reise durchs All der Entspannung, findet in Nova einen treuen Begleiter.\n",
+    "imageUrl": "/strains/687df66ca671276932489a56-afga09.webp"
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 598,
+      "max": 952,
+      "formatted": {
+        "min": "5,98 €",
+        "max": "9,52 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "cannamedical-sativa-ultra-es",
+      "name": "Cannamedical Sativa ultra ES",
+      "brandName": "Cannamedical",
+      "thcPercent": 31,
+      "priceMin": 598,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "platinum-grapes",
+      "name": "Platinum Grapes",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "think-fast",
+      "name": "Think Fast",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "petrol-cookies",
+      "name": "Petrol Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "do-si-dos",
+      "name": "Do-Si-Dos",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "purple-ice-water",
+      "name": "Purple Ice Water",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Nova (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Nova: Creative, Euphoric, Sleepy. 1 Produkte verfügbar. ab 5,98 €.",
+      "canonical": "https://weed.de/strain/nova",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Nova (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Nova: Creative, Euphoric, Sleepy. 1 Produkte verfügbar. ab 5,98 €.",
+        "url": "https://weed.de/strain/nova",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "/strains/687df66ca671276932489a56-afga09.webp"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Nova",
+        "href": "https://weed.de/strain/nova"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Nova",
+            "item": "https://weed.de/strain/nova"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Nova Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/cannamedical-sativa-ultra-es",
+            "name": "Cannamedical Sativa ultra ES"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/cannamedical-sativa-ultra-es",
+        "text": "Cannamedical Sativa ultra ES",
+        "title": "Cannamedical Sativa ultra ES von Cannamedical"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/platinum-grapes",
+        "text": "Platinum Grapes",
+        "title": "Platinum Grapes - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/think-fast",
+        "text": "Think Fast",
+        "title": "Think Fast - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/petrol-cookies",
+        "text": "Petrol Cookies",
+        "title": "Petrol Cookies - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/do-si-dos",
+        "text": "Do-Si-Dos",
+        "title": "Do-Si-Dos - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/purple-ice-water",
+        "text": "Purple Ice Water",
+        "title": "Purple Ice Water - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/beta-myrcene",
+        "text": "Beta-Myrcene",
+        "title": "Beta-Myrcene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

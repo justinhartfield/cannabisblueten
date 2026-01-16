@@ -1,0 +1,216 @@
+{
+  "strain": {
+    "slug": "strawberry-froyo",
+    "name": "Strawberry Froyo",
+    "geneticType": "indica",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Creative",
+      "Happy",
+      "Sociable"
+    ],
+    "tastes": [
+      "Fruity",
+      "Earthy",
+      "Flowery"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Farnesene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 850,
+      "max": 850,
+      "formatted": {
+        "min": "8,50 €",
+        "max": "8,50 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "eufloria-31-sfr",
+      "name": "Eufloria 30/1 SFR",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 30,
+      "priceMin": 850,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "mimosa-x-orange-punch-auto",
+      "name": "Mimosa x Orange Punch Auto",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "motor-breath",
+      "name": "Motor Breath",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "donny-burger",
+      "name": "Donny Burger",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "siggi's-minze",
+      "name": "Siggi's Minze",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "purple-grape",
+      "name": "Purple Grape",
+      "geneticType": "indica",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Strawberry Froyo (Indica) - Wirkung, THC & Verfügbarkeit",
+      "description": "Strawberry Froyo: Creative, Happy, Sociable. 1 Produkte verfügbar. ab 8,50 €.",
+      "canonical": "https://weed.de/strain/strawberry-froyo",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Strawberry Froyo (Indica) - Wirkung, THC & Verfügbarkeit",
+        "description": "Strawberry Froyo: Creative, Happy, Sociable. 1 Produkte verfügbar. ab 8,50 €.",
+        "url": "https://weed.de/strain/strawberry-froyo",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Strawberry Froyo",
+        "href": "https://weed.de/strain/strawberry-froyo"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Strawberry Froyo",
+            "item": "https://weed.de/strain/strawberry-froyo"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Strawberry Froyo Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/eufloria-31-sfr",
+            "name": "Eufloria 30/1 SFR"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/eufloria-31-sfr",
+        "text": "Eufloria 30/1 SFR",
+        "title": "Eufloria 30/1 SFR von Remexian Pharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/mimosa-x-orange-punch-auto",
+        "text": "Mimosa x Orange Punch Auto",
+        "title": "Mimosa x Orange Punch Auto - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/motor-breath",
+        "text": "Motor Breath",
+        "title": "Motor Breath - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/donny-burger",
+        "text": "Donny Burger",
+        "title": "Donny Burger - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/siggi's-minze",
+        "text": "Siggi's Minze",
+        "title": "Siggi's Minze - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/purple-grape",
+        "text": "Purple Grape",
+        "title": "Purple Grape - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/farnesene",
+        "text": "Farnesene",
+        "title": "Farnesene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

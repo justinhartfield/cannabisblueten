@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "blaue-blueten-blaue-apotheke-ek",
+    "name": "Blaue Blüten (Blaue Apotheke e.K.)",
+    "street": "Alte Straße 69",
+    "zip": "94034",
+    "cityName": "Passau",
+    "state": "Bayern",
+    "lat": 48.5912425,
+    "lng": 13.4826615,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": null,
+    "phone": "+4915153567332",
+    "email": "info@blaueblueten.de",
+    "productCount": 40,
+    "rating": 5,
+    "ratingCount": 2,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/67d81b4601a099eed5d02a0d-a4hgb2.jpg"
+  },
+  "city": {
+    "slug": "passau",
+    "name": "Passau",
+    "pharmacyCount": 2
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "wittelsbacher-apotheke-oder-weedlsbacher-cannabis",
+      "name": "Wittelsbacher Apotheke | Weedlsbacher Cannabis",
+      "cityName": "Passau",
+      "productCount": 10,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabisapo24",
+      "name": "Cannabisapo24",
+      "cityName": "Augsburg",
+      "productCount": 364,
+      "hasDelivery": true
+    },
+    {
+      "slug": "spital-apotheke-zum-heiligen-geist",
+      "name": "Canthera.de | Spital Apotheke zum Heiligen Geist",
+      "cityName": "Nürnberg",
+      "productCount": 317,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannaplus-apotheke",
+      "name": "Cannaplus Apotheke",
+      "cityName": "Augsburg",
+      "productCount": 186,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis-apotheke-bayern-1",
+      "name": "Cannabis Apotheke Bayern",
+      "cityName": "Schweinfurt",
+      "productCount": 184,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Blaue Blüten (Blaue Apotheke e.K.) - Cannabis Apotheke in Passau",
+      "description": "Blaue Blüten (Blaue Apotheke e.K.) in Passau. 40 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/blaue-blueten-blaue-apotheke-ek",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Blaue Blüten (Blaue Apotheke e.K.) - Cannabis Apotheke in Passau",
+        "description": "Blaue Blüten (Blaue Apotheke e.K.) in Passau. 40 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/blaue-blueten-blaue-apotheke-ek",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/67d81b4601a099eed5d02a0d-a4hgb2.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Passau",
+        "href": "https://weed.de/cannabis-apotheke/passau"
+      },
+      {
+        "name": "Blaue Blüten (Blaue Apotheke e.K.)",
+        "href": "https://weed.de/apotheke/blaue-blueten-blaue-apotheke-ek"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Passau",
+            "item": "https://weed.de/cannabis-apotheke/passau"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Blaue Blüten (Blaue Apotheke e.K.)",
+            "item": "https://weed.de/apotheke/blaue-blueten-blaue-apotheke-ek"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Blaue Blüten (Blaue Apotheke e.K.)",
+        "url": "https://weed.de/apotheke/blaue-blueten-blaue-apotheke-ek",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Alte Straße 69",
+          "addressLocality": "Passau",
+          "postalCode": "94034",
+          "addressRegion": "Bayern",
+          "addressCountry": "DE"
+        },
+        "telephone": "+4915153567332",
+        "email": "info@blaueblueten.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/passau",
+      "text": "Cannabis Apotheken in Passau",
+      "title": "Alle Apotheken in Passau"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/wittelsbacher-apotheke-oder-weedlsbacher-cannabis",
+        "text": "Wittelsbacher Apotheke | Weedlsbacher Cannabis",
+        "title": "Wittelsbacher Apotheke | Weedlsbacher Cannabis in Passau"
+      },
+      {
+        "href": "/apotheke/cannabisapo24",
+        "text": "Cannabisapo24",
+        "title": "Cannabisapo24 in Augsburg"
+      },
+      {
+        "href": "/apotheke/spital-apotheke-zum-heiligen-geist",
+        "text": "Canthera.de | Spital Apotheke zum Heiligen Geist",
+        "title": "Canthera.de | Spital Apotheke zum Heiligen Geist in Nürnberg"
+      },
+      {
+        "href": "/apotheke/cannaplus-apotheke",
+        "text": "Cannaplus Apotheke",
+        "title": "Cannaplus Apotheke in Augsburg"
+      },
+      {
+        "href": "/apotheke/cannabis-apotheke-bayern-1",
+        "text": "Cannabis Apotheke Bayern",
+        "title": "Cannabis Apotheke Bayern in Schweinfurt"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

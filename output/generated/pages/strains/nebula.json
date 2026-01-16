@@ -1,0 +1,243 @@
+{
+  "strain": {
+    "slug": "nebula",
+    "name": "Nebula",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Uplifted",
+      "Creative",
+      "Euphoric",
+      "Headache",
+      "Dry Mouth",
+      "Dry Eyes",
+      "Stress-relief",
+      "Mood-lifting",
+      "Anxiety-reducing"
+    ],
+    "tastes": [
+      "Honey",
+      "Sweet",
+      "Flowery",
+      "Herbal",
+      "Pepper"
+    ],
+    "terpenes": [
+      "Terpinolene",
+      "Myrcene",
+      "Caryophyllene"
+    ],
+    "description": "Nebula (bedeutet „Sternenwolke“) ist eine Sativa-dominante Hybridsorte, die bereits 1996 von Paradise Seeds gezüchtet wurde. Ihre Genetik vereint die Harzproduktion der Original White Widow mit der Robustheit einer Afghan und der aromatischen Süße klassischer kalifornischer Haze.\n\nMit einem THC-Gehalt von ca. 18 % bis 22 %, einem bemerkenswerten CBG-Wert von 1 % und einem CBD-Gehalt von unter 0,1 % liefert sie potente Effekte. Aufgrund ihrer Qualität hat sie zahlreiche Auszeichnungen gewonnen, darunter Platzierungen beim High Times Cannabis Cup (1999, 2005) und dem Copa La Bella Flor.\n\nIhr Geschmacksprofil ist geprägt von einer dominanten Note aus süßem Honig, die durch fruchtige Nuancen und feine blumige Akzente ergänzt wird. Die Blüten glitzern vor lauter Harz, was den Namen \"Sternenwolke\" inspiriert hat. Das Terpenprofil, das von Terpinolen, Myrcen und Caryophyllen angeführt wird, unterstreicht das Aroma mit kräuterigen, floralen und leicht pfeffrigen Untertönen.\n\nDie Wirkung setzt schnell ein und wird als zerebral, spacig und fast psychedelisch beschrieben. Sie fördert Kreativität, Euphorie und ein beschwingtes Gefühl, bevor sie in ein sanftes, ausgleichendes High übergeht. Nebula ist ideal zur Linderung von Stress, Angstzuständen und Depressionen, da sie den Geist auf eine \"kosmische\" Reise schickt. Zusammengefasst ist Nebula eine Sorte für alle, die ein honigsüßes Aroma mit einem inspirierenden und intensiven Kopf-High suchen.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 333,
+      "max": 1502,
+      "formatted": {
+        "min": "3,33 €",
+        "max": "15,02 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "demecan-301-oktonia",
+      "name": "Demecan 30/1 Oktonia",
+      "brandName": "Deutsche Medizinalcannabis",
+      "thcPercent": 3,
+      "priceMin": 1079,
+      "inStock": true
+    },
+    {
+      "slug": "grow-fs-extrakt",
+      "name": "GROW FS Extrakt",
+      "brandName": "Grow group",
+      "thcPercent": 1,
+      "priceMin": 333,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "lemon-fizz",
+      "name": "Lemon Fizz",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "super-buff-cherry",
+      "name": "Super Buff Cherry",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "starhaze-og",
+      "name": "StarHaze OG",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "spritzer",
+      "name": "Spritzer",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "mac-driver",
+      "name": "Mac Driver",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Nebula (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Nebula: Uplifted, Creative, Euphoric. 2 Produkte verfügbar. ab 3,33 €.",
+      "canonical": "https://weed.de/strain/nebula",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Nebula (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Nebula: Uplifted, Creative, Euphoric. 2 Produkte verfügbar. ab 3,33 €.",
+        "url": "https://weed.de/strain/nebula",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Nebula",
+        "href": "https://weed.de/strain/nebula"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Nebula",
+            "item": "https://weed.de/strain/nebula"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Nebula Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/demecan-301-oktonia",
+            "name": "Demecan 30/1 Oktonia"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/grow-fs-extrakt",
+            "name": "GROW FS Extrakt"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/demecan-301-oktonia",
+        "text": "Demecan 30/1 Oktonia",
+        "title": "Demecan 30/1 Oktonia von Deutsche Medizinalcannabis"
+      },
+      {
+        "href": "/product/grow-fs-extrakt",
+        "text": "GROW FS Extrakt",
+        "title": "GROW FS Extrakt von Grow group"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/lemon-fizz",
+        "text": "Lemon Fizz",
+        "title": "Lemon Fizz - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/super-buff-cherry",
+        "text": "Super Buff Cherry",
+        "title": "Super Buff Cherry - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/starhaze-og",
+        "text": "StarHaze OG",
+        "title": "StarHaze OG - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/spritzer",
+        "text": "Spritzer",
+        "title": "Spritzer - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/mac-driver",
+        "text": "Mac Driver",
+        "title": "Mac Driver - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/terpinolene",
+        "text": "Terpinolene",
+        "title": "Terpinolene Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "product": {
+    "slug": "imc-gga-thc22",
+    "name": "IMC GGA THC22",
+    "type": "flower",
+    "genetics": "indica",
+    "thcPercent": 21.8,
+    "cbdPercent": 1,
+    "priceMin": 695,
+    "priceMax": 700,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Republik Südafrika",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "imc",
+    "name": "IMC",
+    "productCount": 128
+  },
+  "strain": {
+    "slug": "purple-grape",
+    "name": "Purple Grape",
+    "geneticType": "indica",
+    "effects": [
+      "Happy",
+      "Sleepy",
+      "Relaxed"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Limonene",
+      "Farnesene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Happy",
+      "Sleepy",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Earthy",
+      "Sweet",
+      "Fruity"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Limonene",
+      "Farnesene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "imc-thc2-gga",
+      "name": "IMC THC20 GGA",
+      "brandName": "IMC",
+      "thcPercent": 20,
+      "priceMin": 359,
+      "inStock": true
+    },
+    {
+      "slug": "aurora-thc-25-cannabis-extract",
+      "name": "Aurora THC 25 Cannabis Extract",
+      "brandName": "Cansativa",
+      "thcPercent": 2.5,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "adven-cannabisextrakt-thc-20",
+      "name": "Adven Cannabisextrakt THC 20",
+      "brandName": "Adven",
+      "thcPercent": 2,
+      "priceMin": 476,
+      "inStock": true
+    },
+    {
+      "slug": "adven-cannabisextrakt-thc-10-cbd-10",
+      "name": "Adven Cannabisextrakt THC 10 CBD 10",
+      "brandName": "Adven",
+      "thcPercent": 10,
+      "priceMin": 560,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-1",
+      "name": "Demecan Typ 1",
+      "brandName": "Demecan",
+      "thcPercent": 21,
+      "priceMin": 694,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-indica-forte-ej",
+      "name": "Cannamedical Indica forte EJ",
+      "brandName": "Cannamedical",
+      "thcPercent": 24,
+      "priceMin": 700,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "IMC GGA THC22 | ab 6,95 €",
+      "description": "IMC GGA THC22 von IMC. THC: 21.8%, CBD: 1%. Sorte: Purple Grape. Preis ab 6,95 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/imc-gga-thc22",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "IMC GGA THC22 | ab 6,95 €",
+        "description": "IMC GGA THC22 von IMC. THC: 21.8%, CBD: 1%. Sorte: Purple Grape. Preis ab 6,95 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/imc-gga-thc22",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "IMC",
+        "href": "https://weed.de/brand/imc"
+      },
+      {
+        "name": "IMC GGA THC22",
+        "href": "https://weed.de/product/imc-gga-thc22"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "IMC GGA THC22",
+            "item": "https://weed.de/product/imc-gga-thc22"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "IMC GGA THC22",
+        "brand": {
+          "@type": "Brand",
+          "name": "IMC"
+        },
+        "description": "THC: 21.8%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/purple-grape",
+      "text": "Purple Grape",
+      "title": "Purple Grape Sorte"
+    },
+    "brand": {
+      "href": "/brand/imc",
+      "text": "IMC",
+      "title": "Alle IMC Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/imc-thc2-gga",
+        "text": "IMC THC20 GGA",
+        "title": "Alternative: IMC THC20 GGA"
+      },
+      {
+        "href": "/product/aurora-thc-25-cannabis-extract",
+        "text": "Aurora THC 25 Cannabis Extract",
+        "title": "Alternative: Aurora THC 25 Cannabis Extract"
+      },
+      {
+        "href": "/product/adven-cannabisextrakt-thc-20",
+        "text": "Adven Cannabisextrakt THC 20",
+        "title": "Alternative: Adven Cannabisextrakt THC 20"
+      },
+      {
+        "href": "/product/adven-cannabisextrakt-thc-10-cbd-10",
+        "text": "Adven Cannabisextrakt THC 10 CBD 10",
+        "title": "Alternative: Adven Cannabisextrakt THC 10 CBD 10"
+      },
+      {
+        "href": "/product/demecan-typ-1",
+        "text": "Demecan Typ 1",
+        "title": "Alternative: Demecan Typ 1"
+      },
+      {
+        "href": "/product/cannamedical-indica-forte-ej",
+        "text": "Cannamedical Indica forte EJ",
+        "title": "Alternative: Cannamedical Indica forte EJ"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

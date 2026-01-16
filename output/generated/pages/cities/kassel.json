@@ -1,0 +1,209 @@
+{
+  "city": {
+    "slug": "kassel",
+    "name": "Kassel",
+    "state": "Hessen"
+  },
+  "stats": {
+    "pharmacyCount": 3,
+    "totalProducts": 206,
+    "hasDelivery": true
+  },
+  "pharmacies": [
+    {
+      "slug": "42unicornde",
+      "name": "420unicorn.de",
+      "street": "Untere Königsstraße 73-75",
+      "zip": "34117",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 123,
+      "rating": 5,
+      "ratingCount": 4
+    },
+    {
+      "slug": "dr-mueller-leafs",
+      "name": "Dr. Müller Leafs",
+      "street": "Obere Königsstraße 21",
+      "zip": "34117",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 52,
+      "rating": 2.8,
+      "ratingCount": 12
+    },
+    {
+      "slug": "post-apotheke-kassel",
+      "name": "Post-Apotheke Kassel",
+      "street": "Friedrich-Ebert-Straße 27",
+      "zip": "34117",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 31,
+      "rating": 0,
+      "ratingCount": 0
+    }
+  ],
+  "nearbyCities": [
+    {
+      "slug": "frankfurt-am-main",
+      "name": "Frankfurt am Main",
+      "pharmacyCount": 6
+    },
+    {
+      "slug": "wiesbaden",
+      "name": "Wiesbaden",
+      "pharmacyCount": 4
+    },
+    {
+      "slug": "hanau",
+      "name": "Hanau",
+      "pharmacyCount": 3
+    },
+    {
+      "slug": "otzberg",
+      "name": "Otzberg",
+      "pharmacyCount": 2
+    },
+    {
+      "slug": "bensheim",
+      "name": "Bensheim",
+      "pharmacyCount": 2
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannabis Apotheke Kassel - 3 Apotheken",
+      "description": "Cannabis Apotheken in Kassel. 3 Apotheken mit 206 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+      "canonical": "https://weed.de/cannabis-apotheke/kassel",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannabis Apotheke Kassel - 3 Apotheken",
+        "description": "Cannabis Apotheken in Kassel. 3 Apotheken mit 206 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+        "url": "https://weed.de/cannabis-apotheke/kassel",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Kassel",
+        "href": "https://weed.de/cannabis-apotheke/kassel"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Kassel",
+            "item": "https://weed.de/cannabis-apotheke/kassel"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Cannabis Apotheken in Kassel",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/apotheke/42unicornde",
+            "name": "420unicorn.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/apotheke/dr-mueller-leafs",
+            "name": "Dr. Müller Leafs"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/apotheke/post-apotheke-kassel",
+            "name": "Post-Apotheke Kassel"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "pharmacies": [
+      {
+        "href": "/apotheke/42unicornde",
+        "text": "420unicorn.de",
+        "title": "420unicorn.de in Kassel"
+      },
+      {
+        "href": "/apotheke/dr-mueller-leafs",
+        "text": "Dr. Müller Leafs",
+        "title": "Dr. Müller Leafs in Kassel"
+      },
+      {
+        "href": "/apotheke/post-apotheke-kassel",
+        "text": "Post-Apotheke Kassel",
+        "title": "Post-Apotheke Kassel in Kassel"
+      }
+    ],
+    "nearbyCities": [
+      {
+        "href": "/cannabis-apotheke/frankfurt-am-main",
+        "text": "Cannabis Apotheke Frankfurt am Main",
+        "title": "6 Apotheken in Frankfurt am Main"
+      },
+      {
+        "href": "/cannabis-apotheke/wiesbaden",
+        "text": "Cannabis Apotheke Wiesbaden",
+        "title": "4 Apotheken in Wiesbaden"
+      },
+      {
+        "href": "/cannabis-apotheke/hanau",
+        "text": "Cannabis Apotheke Hanau",
+        "title": "3 Apotheken in Hanau"
+      },
+      {
+        "href": "/cannabis-apotheke/otzberg",
+        "text": "Cannabis Apotheke Otzberg",
+        "title": "2 Apotheken in Otzberg"
+      },
+      {
+        "href": "/cannabis-apotheke/bensheim",
+        "text": "Cannabis Apotheke Bensheim",
+        "title": "2 Apotheken in Bensheim"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has 3 pharmacies"
+  }
+}

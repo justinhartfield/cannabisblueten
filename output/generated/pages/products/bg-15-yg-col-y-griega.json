@@ -1,0 +1,234 @@
+{
+  "product": {
+    "slug": "bg-15-yg-col-y-griega",
+    "name": "BG 15 YG COL",
+    "type": "flower",
+    "genetics": "hybrid_sativa",
+    "thcPercent": 15,
+    "cbdPercent": 1,
+    "priceMin": 299,
+    "priceMax": 399,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kolumbien",
+    "imageUrl": "https://weed.de/products/bg-15-yg-col-y-griega-a0d96c.jpeg"
+  },
+  "brand": {
+    "slug": "adrexpharma",
+    "name": "Adrexpharma",
+    "productCount": 60
+  },
+  "strain": {
+    "slug": "y-griega",
+    "name": "Y Griega",
+    "geneticType": "sativa",
+    "effects": [
+      "Activating",
+      "Cerebral",
+      "Anxiety-reducing",
+      "Hungry",
+      "Calming",
+      "Energetic",
+      "Pain-relief"
+    ],
+    "terpenes": [
+      "Terpinolene",
+      "Limonene",
+      "Caryophyllene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Activating",
+      "Cerebral",
+      "Anxiety-reducing",
+      "Hungry",
+      "Calming",
+      "Energetic",
+      "Pain-relief"
+    ],
+    "tastes": [
+      "Pine",
+      "Citrus",
+      "Earthy",
+      "Sweet"
+    ],
+    "terpenes": [
+      "Terpinolene",
+      "Limonene",
+      "Caryophyllene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "avextra-1010",
+      "name": "Avextra 10/10",
+      "brandName": "Avextra",
+      "thcPercent": 1,
+      "priceMin": 279,
+      "inStock": true
+    },
+    {
+      "slug": "amp-classic-251",
+      "name": "AMP Classic 25/1",
+      "brandName": "AMP",
+      "thcPercent": 25,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "weeco-231",
+      "name": "Weeco 23/1",
+      "brandName": "Weeco",
+      "thcPercent": 23,
+      "priceMin": 599,
+      "inStock": true
+    },
+    {
+      "slug": "aurora-221-dhz-ca",
+      "name": "Aurora 22/1 DHZ-CA",
+      "brandName": "Aurora",
+      "thcPercent": 19.8,
+      "priceMin": 640,
+      "inStock": true
+    },
+    {
+      "slug": "420-evolution-271-ca-str",
+      "name": "420 Evolution 27/1 CA STR",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 27,
+      "priceMin": 645,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-221-florestura",
+      "name": "DEMECAN Florestura 22:01",
+      "brandName": "Deutsche Medizinalcannabis",
+      "thcPercent": 22,
+      "priceMin": 679,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "BG 15 YG COL - Adrexpharma | ab 2,99 €",
+      "description": "BG 15 YG COL von Adrexpharma. THC: 15%, CBD: 1%. Sorte: Y Griega. Preis ab 2,99 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/bg-15-yg-col-y-griega",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "BG 15 YG COL - Adrexpharma | ab 2,99 €",
+        "description": "BG 15 YG COL von Adrexpharma. THC: 15%, CBD: 1%. Sorte: Y Griega. Preis ab 2,99 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/bg-15-yg-col-y-griega",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/bg-15-yg-col-y-griega-a0d96c.jpeg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Adrexpharma",
+        "href": "https://weed.de/brand/adrexpharma"
+      },
+      {
+        "name": "BG 15 YG COL",
+        "href": "https://weed.de/product/bg-15-yg-col-y-griega"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "BG 15 YG COL",
+            "item": "https://weed.de/product/bg-15-yg-col-y-griega"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BG 15 YG COL",
+        "brand": {
+          "@type": "Brand",
+          "name": "Adrexpharma"
+        },
+        "description": "THC: 15%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/y-griega",
+      "text": "Y Griega",
+      "title": "Y Griega Sorte"
+    },
+    "brand": {
+      "href": "/brand/adrexpharma",
+      "text": "Adrexpharma",
+      "title": "Alle Adrexpharma Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/avextra-1010",
+        "text": "Avextra 10/10",
+        "title": "Alternative: Avextra 10/10"
+      },
+      {
+        "href": "/product/amp-classic-251",
+        "text": "AMP Classic 25/1",
+        "title": "Alternative: AMP Classic 25/1"
+      },
+      {
+        "href": "/product/weeco-231",
+        "text": "Weeco 23/1",
+        "title": "Alternative: Weeco 23/1"
+      },
+      {
+        "href": "/product/aurora-221-dhz-ca",
+        "text": "Aurora 22/1 DHZ-CA",
+        "title": "Alternative: Aurora 22/1 DHZ-CA"
+      },
+      {
+        "href": "/product/420-evolution-271-ca-str",
+        "text": "420 Evolution 27/1 CA STR",
+        "title": "Alternative: 420 Evolution 27/1 CA STR"
+      },
+      {
+        "href": "/product/demecan-221-florestura",
+        "text": "DEMECAN Florestura 22:01",
+        "title": "Alternative: DEMECAN Florestura 22:01"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

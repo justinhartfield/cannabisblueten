@@ -1,0 +1,223 @@
+{
+  "product": {
+    "slug": "thc-akut-mg-28-bcp",
+    "name": "THC AKUT MG 28 BCP",
+    "type": "flower",
+    "genetics": "hybrid_indica",
+    "thcPercent": 25,
+    "cbdPercent": 1,
+    "priceMin": 498,
+    "priceMax": 738,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Republik Südafrika",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "bathera",
+    "name": "Bathera",
+    "productCount": 44
+  },
+  "strain": {
+    "slug": "black-cherry-punch",
+    "name": "Black Cherry Punch",
+    "geneticType": "hybrid",
+    "effects": [
+      "Sleepy",
+      "Tingly",
+      "Happy"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Caryophyllene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Sleepy",
+      "Tingly",
+      "Happy"
+    ],
+    "tastes": [
+      "Berry",
+      "Sweet"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Caryophyllene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "enua-221-bcp-ca",
+      "name": "enua 22/1 BCP CA",
+      "brandName": "enua",
+      "thcPercent": 23.2,
+      "priceMin": 334,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-indica-classic-zaf-1",
+      "name": "Cannamedical Indica classic ZAF",
+      "brandName": "Cannamedical",
+      "thcPercent": 21,
+      "priceMin": 399,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-indica-forte-zaf",
+      "name": "Cannamedical Indica forte ZAF",
+      "brandName": "Cannamedical",
+      "thcPercent": 24,
+      "priceMin": 429,
+      "inStock": true
+    },
+    {
+      "slug": "remexian-211-ras-alb",
+      "name": "Remexian 21/1 RAS ALB",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 21,
+      "priceMin": 475,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-indica-light-zaf",
+      "name": "Cannamedical Indica Light ZAF",
+      "brandName": "Cannamedical",
+      "thcPercent": 18,
+      "priceMin": 490,
+      "inStock": true
+    },
+    {
+      "slug": "mediprocan-african-ruby-31",
+      "name": "Mediprocan African Ruby 30/1",
+      "brandName": "mediproCan",
+      "thcPercent": 30,
+      "priceMin": 579,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "THC AKUT MG 28 BCP - Bathera | ab 4,98 €",
+      "description": "THC AKUT MG 28 BCP von Bathera. THC: 25%, CBD: 1%. Sorte: Black Cherry Punch. Preis ab 4,98 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/thc-akut-mg-28-bcp",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "THC AKUT MG 28 BCP - Bathera | ab 4,98 €",
+        "description": "THC AKUT MG 28 BCP von Bathera. THC: 25%, CBD: 1%. Sorte: Black Cherry Punch. Preis ab 4,98 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/thc-akut-mg-28-bcp",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Bathera",
+        "href": "https://weed.de/brand/bathera"
+      },
+      {
+        "name": "THC AKUT MG 28 BCP",
+        "href": "https://weed.de/product/thc-akut-mg-28-bcp"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "THC AKUT MG 28 BCP",
+            "item": "https://weed.de/product/thc-akut-mg-28-bcp"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "THC AKUT MG 28 BCP",
+        "brand": {
+          "@type": "Brand",
+          "name": "Bathera"
+        },
+        "description": "THC: 25%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/black-cherry-punch",
+      "text": "Black Cherry Punch",
+      "title": "Black Cherry Punch Sorte"
+    },
+    "brand": {
+      "href": "/brand/bathera",
+      "text": "Bathera",
+      "title": "Alle Bathera Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/enua-221-bcp-ca",
+        "text": "enua 22/1 BCP CA",
+        "title": "Alternative: enua 22/1 BCP CA"
+      },
+      {
+        "href": "/product/cannamedical-indica-classic-zaf-1",
+        "text": "Cannamedical Indica classic ZAF",
+        "title": "Alternative: Cannamedical Indica classic ZAF"
+      },
+      {
+        "href": "/product/cannamedical-indica-forte-zaf",
+        "text": "Cannamedical Indica forte ZAF",
+        "title": "Alternative: Cannamedical Indica forte ZAF"
+      },
+      {
+        "href": "/product/remexian-211-ras-alb",
+        "text": "Remexian 21/1 RAS ALB",
+        "title": "Alternative: Remexian 21/1 RAS ALB"
+      },
+      {
+        "href": "/product/cannamedical-indica-light-zaf",
+        "text": "Cannamedical Indica Light ZAF",
+        "title": "Alternative: Cannamedical Indica Light ZAF"
+      },
+      {
+        "href": "/product/mediprocan-african-ruby-31",
+        "text": "Mediprocan African Ruby 30/1",
+        "title": "Alternative: Mediprocan African Ruby 30/1"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "strain": {
+    "slug": "lemon-kush",
+    "name": "Lemon Kush",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Creative",
+      "Euphoric",
+      "Happy",
+      "Stress-relief",
+      "Anxiety-reducing",
+      "Pain-relief",
+      "Balanced",
+      "Calming",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Citrus",
+      "Lemon",
+      "Earthy",
+      "Tangy",
+      "Gassy",
+      "Spicy"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Caryophyllene",
+      "Terpinolene",
+      "Myrcene",
+      "Pinene"
+    ],
+    "description": "Lemon Kush (Kultivarname variiert, z.B. Ultra Jean-G oder NICE LK) ist eine Sativa-dominante Hybrid-Sorte, entstanden aus der Kreuzung von Ultra Sour Kush (oft Ultra Sour #166) und Lemon Margy. Mit einem hohen THC-Gehalt, der typischerweise zwischen 27% und 33% liegt, und einem CBD-Gehalt von unter 1% liefert sie potente Effekte, die gleichzeitig euphorisch und beruhigend wirken. \n\nIhr komplexes Geschmacksprofil ist geprägt von spritzigen Zitrusnoten und einem sauren Zitronenaroma, ergänzt durch erdige, würzige und benzinhaltige Akzente. Das Terpenprofil, das von Limonen, Caryophyllen und Terpinolen dominiert wird, enthält zusätzlich auch Myrcen und Pinene, was das Aroma mit erhebenden Zitrusnoten, scharfer Würze und einer entspannenden, harzigen Nuance unterstreicht. \n\nDie Wirkung beginnt schnell mit Euphorie, gesteigerter Kreativität und Glücksgefühlen. Die Sorte ist ein sehr schön ausgewogener Hybrid, der sich hervorragend zur Behandlung von Stress, Angstzuständen und Schmerzen eignet. Lemon Kush ist ideal für den Nachmittag oder Abend, da sie mentale Balance und Gelassenheit fördert, ohne stark zu sedieren. Zusammengefasst ist Lemon Kush eine Sorte für alle, die ein intensives, zitronig-gasartiges Aroma mit einem potenten, kreativen und ausgleichenden High suchen.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 425,
+      "max": 749,
+      "formatted": {
+        "min": "4,25 €",
+        "max": "7,49 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "nice-281-lk",
+      "name": "NICE 28/1 LK",
+      "brandName": "Cansativa",
+      "thcPercent": 28,
+      "priceMin": 425,
+      "inStock": true
+    },
+    {
+      "slug": "nice-31-lk",
+      "name": "NICE 30/1 LK",
+      "brandName": "Cansativa",
+      "thcPercent": 30,
+      "priceMin": 449,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "spritzer",
+      "name": "Spritzer",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "white-gorilla",
+      "name": "White Gorilla",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "gmo-tropical-gelato",
+      "name": "GMO Tropical Gelato",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "purple-amnesia",
+      "name": "Purple Amnesia",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "juggernaut-gas-breath",
+      "name": "Juggernaut Gas Breath",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Lemon Kush (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Lemon Kush: Creative, Euphoric, Happy. 2 Produkte verfügbar. ab 4,25 €.",
+      "canonical": "https://weed.de/strain/lemon-kush",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Lemon Kush (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Lemon Kush: Creative, Euphoric, Happy. 2 Produkte verfügbar. ab 4,25 €.",
+        "url": "https://weed.de/strain/lemon-kush",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Lemon Kush",
+        "href": "https://weed.de/strain/lemon-kush"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Lemon Kush",
+            "item": "https://weed.de/strain/lemon-kush"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Lemon Kush Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/nice-281-lk",
+            "name": "NICE 28/1 LK"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/nice-31-lk",
+            "name": "NICE 30/1 LK"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/nice-281-lk",
+        "text": "NICE 28/1 LK",
+        "title": "NICE 28/1 LK von Cansativa"
+      },
+      {
+        "href": "/product/nice-31-lk",
+        "text": "NICE 30/1 LK",
+        "title": "NICE 30/1 LK von Cansativa"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/spritzer",
+        "text": "Spritzer",
+        "title": "Spritzer - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/white-gorilla",
+        "text": "White Gorilla",
+        "title": "White Gorilla - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/gmo-tropical-gelato",
+        "text": "GMO Tropical Gelato",
+        "title": "GMO Tropical Gelato - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/purple-amnesia",
+        "text": "Purple Amnesia",
+        "title": "Purple Amnesia - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/juggernaut-gas-breath",
+        "text": "Juggernaut Gas Breath",
+        "title": "Juggernaut Gas Breath - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/terpinolene",
+        "text": "Terpinolene",
+        "title": "Terpinolene Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/pinene",
+        "text": "Pinene",
+        "title": "Pinene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

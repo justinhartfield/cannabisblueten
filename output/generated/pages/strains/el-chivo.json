@@ -1,0 +1,235 @@
+{
+  "strain": {
+    "slug": "el-chivo",
+    "name": "El Chivo",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Focused",
+      "Euphoric",
+      "Creative",
+      "Relaxed",
+      "Calming",
+      "Sleepy",
+      "Pain-relief"
+    ],
+    "tastes": [
+      "Diesel",
+      "Earthy",
+      "Sweet",
+      "Grape",
+      "Berry",
+      "Fruity"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Alpha-Pinene"
+    ],
+    "description": "El Chivo ist eine kraftvolle Indica-dominante Hybridsorte, die aus der anspruchsvollen Kreuzung von OGKB Blueberry Headband und Grape Gasoline #10 entstanden ist. Diese Kombination vereint die entspannenden Eigenschaften der Blueberry-Linie mit der aromatischen Intensität der Grape Gasoline. Mit einem THC-Gehalt von ca. 22 % und einem CBD-Wert von 1 % liefert sie ein ausgewogenes Erlebnis, das sowohl mentale Klarheit als auch körperliche Ruhe bietet.\n\nDas Aromaprofil präsentiert eine komplexe Mischung aus fruchtigen und herzhaften Noten. Im Vordergrund steht ein intensiver Duft nach süßen Trauben und Beeren, der direkt auf die genetische Abstammung verweist. Diese fruchtige Süße wird durch kräftige Diesel-Noten und einen erdigen, leicht würzigen Unterton ergänzt, was für eine besondere aromatische Tiefe sorgt. Das Terpenprofil, dominiert von Myrcen, Limonen und Alpha-Pinen, ist verantwortlich für dieses Zusammenspiel aus süßer Frucht und herbem Treibstoff-Charakter.\n\nDie Wirkung beginnt meist mit einer schnellen, euphorischen Stimulation, die den Geist klärt sowie Fokus und Kreativität fördert. Dieser anfängliche mentale Energieschub geht jedoch fließend in eine tiefe körperliche Entspannung über, die Muskeln lockert und innere Ruhe bringt. Aufgrund dieser Balance eignet sich El Chivo hervorragend für den späten Nachmittag oder Abend, um geistig aktiv zu bleiben, aber körperlich abzuschalten. Medizinisch wird die Sorte oft zur Linderung von Stress, Schlafstörungen und chronischen Schmerzen genutzt.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": null
+  },
+  "products": [
+    {
+      "slug": "imc-ec2-thc22",
+      "name": "IMC EC2 THC22",
+      "brandName": "IMC",
+      "thcPercent": 22,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "mgf-lambo-diablo-221",
+      "name": "MGF Lambo Diablo 22/1",
+      "brandName": "MGF Via Medical",
+      "thcPercent": 22,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "tigerz-eye",
+      "name": "Tigerz Eye",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "mac-daddy",
+      "name": "Mac Daddy",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "alien-mints",
+      "name": "Alien Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "mellowz",
+      "name": "Mellowz",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "beta-808",
+      "name": "Beta 808",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "El Chivo (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "El Chivo: Focused, Euphoric, Creative. 2 Produkte verfügbar.",
+      "canonical": "https://weed.de/strain/el-chivo",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "El Chivo (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "El Chivo: Focused, Euphoric, Creative. 2 Produkte verfügbar.",
+        "url": "https://weed.de/strain/el-chivo",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "El Chivo",
+        "href": "https://weed.de/strain/el-chivo"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "El Chivo",
+            "item": "https://weed.de/strain/el-chivo"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "El Chivo Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/imc-ec2-thc22",
+            "name": "IMC EC2 THC22"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/mgf-lambo-diablo-221",
+            "name": "MGF Lambo Diablo 22/1"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/imc-ec2-thc22",
+        "text": "IMC EC2 THC22",
+        "title": "IMC EC2 THC22 von IMC"
+      },
+      {
+        "href": "/product/mgf-lambo-diablo-221",
+        "text": "MGF Lambo Diablo 22/1",
+        "title": "MGF Lambo Diablo 22/1 von MGF Via Medical"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/tigerz-eye",
+        "text": "Tigerz Eye",
+        "title": "Tigerz Eye - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/mac-daddy",
+        "text": "Mac Daddy",
+        "title": "Mac Daddy - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/alien-mints",
+        "text": "Alien Mints",
+        "title": "Alien Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/mellowz",
+        "text": "Mellowz",
+        "title": "Mellowz - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/beta-808",
+        "text": "Beta 808",
+        "title": "Beta 808 - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/alpha-pinene",
+        "text": "Alpha-Pinene",
+        "title": "Alpha-Pinene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

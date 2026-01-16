@@ -1,0 +1,207 @@
+{
+  "strain": {
+    "slug": "orange-cookie-mac",
+    "name": "Orange Cookie Mac",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [
+      "Euphoric",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Citrus",
+      "Sweet"
+    ],
+    "terpenes": [
+      "Terpinolene",
+      "Beta-Myrcene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": null
+  },
+  "products": [
+    {
+      "slug": "cnbs-ocm-231",
+      "name": "CNBS OCM 23/1",
+      "brandName": "Medical CNBS",
+      "thcPercent": 23,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "la-sage-t22",
+      "name": "LA Sage T22",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "orange-crasher",
+      "name": "Orange Crasher",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "big-buddha",
+      "name": "Big Buddha",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "la-sage",
+      "name": "La Sage",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "munyunz",
+      "name": "Munyunz",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Orange Cookie Mac (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Orange Cookie Mac: Euphoric, Relaxed. 1 Produkte verfügbar.",
+      "canonical": "https://weed.de/strain/orange-cookie-mac",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Orange Cookie Mac (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Orange Cookie Mac: Euphoric, Relaxed. 1 Produkte verfügbar.",
+        "url": "https://weed.de/strain/orange-cookie-mac",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Orange Cookie Mac",
+        "href": "https://weed.de/strain/orange-cookie-mac"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Orange Cookie Mac",
+            "item": "https://weed.de/strain/orange-cookie-mac"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Orange Cookie Mac Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/cnbs-ocm-231",
+            "name": "CNBS OCM 23/1"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/cnbs-ocm-231",
+        "text": "CNBS OCM 23/1",
+        "title": "CNBS OCM 23/1 von Medical CNBS"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/la-sage-t22",
+        "text": "LA Sage T22",
+        "title": "LA Sage T22 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/orange-crasher",
+        "text": "Orange Crasher",
+        "title": "Orange Crasher - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/big-buddha",
+        "text": "Big Buddha",
+        "title": "Big Buddha - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/la-sage",
+        "text": "La Sage",
+        "title": "La Sage - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/munyunz",
+        "text": "Munyunz",
+        "title": "Munyunz - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/terpinolene",
+        "text": "Terpinolene",
+        "title": "Terpinolene Terpen"
+      },
+      {
+        "href": "/terpene/beta-myrcene",
+        "text": "Beta-Myrcene",
+        "title": "Beta-Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "strain": {
+    "slug": "marshmallow-og",
+    "name": "Marshmallow OG",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Calming",
+      "Happy",
+      "Mood-lifting",
+      "Relaxed",
+      "Stress-relief",
+      "Hungry",
+      "Anxiety-reducing"
+    ],
+    "tastes": [
+      "Sweet",
+      "Butter",
+      "Vanilla",
+      "Pepper",
+      "Diesel",
+      "Fruity"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Limonene",
+      "Myrcene"
+    ],
+    "description": "Marshmallow OG, auch unter dem Kürzel Mao bekannt, ist eine Indica-dominante Hybridsorte, die von Compound Genetics entwickelt wurde. Sie entstammt der komplexen und kraftvollen Kreuzung aus Chemdog D, Triangle Kush und Jet Fuel Gelato. Mit einem THC-Gehalt von etwa 20 % und einem CBD-Wert von unter 1 % bietet sie eine solide Wirkungskraft, die intensive Dessert-Aromen mit einer tiefgehenden Entspannung verbindet.\n\n\nDas Aromaprofil ist ebenso einzigartig wie der Name vermuten lässt. Es dominieren süße Noten, die stark an Marshmallows, Butter und Vanille erinnern. Dieser weiche Charakter wird durch eine würzige Pfeffernote und kräftige Diesel-Akzente kontrastiert, begleitet von fruchtigen Untertönen. Das Terpenprofil, typischerweise angeführt von Limonen, Caryophyllen und Myrcen, ist verantwortlich für dieses vielschichtige Bouquet aus süßem Gebäck, pikanter Würze und Treibstoff.\n\nDie Wirkung wird als überwiegend beruhigend beschrieben. Sie beginnt oft mit einem stimmungsaufhellenden und glücklichen Gefühl, das den Geist hebt, bevor eine tiefgehende körperliche Entspannung einsetzt, die für eine wohltuende Schwere sorgt. Zudem wird häufig eine deutliche Anregung des Appetits beobachtet. Aufgrund dieser Kombination aus mentalem Wohlbefinden und physischer Ruhe wird Marshmallow OG therapeutisch häufig zur Linderung von Stress, Angstzuständen, Depressionen sowie Appetitlosigkeit eingesetzt.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 549,
+      "max": 749,
+      "formatted": {
+        "min": "5,49 €",
+        "max": "7,49 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "eufloria-271-mog",
+      "name": "Eufloria 27/1 MOG",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 27,
+      "priceMin": 549,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "blueberry-muffin",
+      "name": "Blueberry Muffin",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "mantis",
+      "name": "Mantis",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "black-kush",
+      "name": "Black Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "white-gorilla",
+      "name": "White Gorilla",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "lemon-kush",
+      "name": "Lemon Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Marshmallow OG (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Marshmallow OG: Calming, Happy, Mood-lifting. 1 Produkte verfügbar. ab 5,49 €.",
+      "canonical": "https://weed.de/strain/marshmallow-og",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Marshmallow OG (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Marshmallow OG: Calming, Happy, Mood-lifting. 1 Produkte verfügbar. ab 5,49 €.",
+        "url": "https://weed.de/strain/marshmallow-og",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Marshmallow OG",
+        "href": "https://weed.de/strain/marshmallow-og"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Marshmallow OG",
+            "item": "https://weed.de/strain/marshmallow-og"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Marshmallow OG Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/eufloria-271-mog",
+            "name": "Eufloria 27/1 MOG"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/eufloria-271-mog",
+        "text": "Eufloria 27/1 MOG",
+        "title": "Eufloria 27/1 MOG von Remexian Pharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/blueberry-muffin",
+        "text": "Blueberry Muffin",
+        "title": "Blueberry Muffin - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/mantis",
+        "text": "Mantis",
+        "title": "Mantis - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/black-kush",
+        "text": "Black Kush",
+        "title": "Black Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/white-gorilla",
+        "text": "White Gorilla",
+        "title": "White Gorilla - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/lemon-kush",
+        "text": "Lemon Kush",
+        "title": "Lemon Kush - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

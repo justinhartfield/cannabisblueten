@@ -1,0 +1,135 @@
+{
+  "city": {
+    "slug": "muehlhausen-thueringen",
+    "name": "Mühlhausen/Thüringen",
+    "state": "Thüringen"
+  },
+  "stats": {
+    "pharmacyCount": 1,
+    "totalProducts": 22,
+    "hasDelivery": true
+  },
+  "pharmacies": [
+    {
+      "slug": "cannatilia",
+      "name": "Cannatilia",
+      "street": "Görmarstraße 54",
+      "zip": "99974",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 22,
+      "rating": 0,
+      "ratingCount": 0
+    }
+  ],
+  "nearbyCities": [
+    {
+      "slug": "bad-berka",
+      "name": "Bad Berka",
+      "pharmacyCount": 1
+    },
+    {
+      "slug": "erfurt",
+      "name": "Erfurt",
+      "pharmacyCount": 1
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannabis Apotheke Mühlhausen/Thüringen - 1 Apotheken",
+      "description": "Cannabis Apotheken in Mühlhausen/Thüringen. 1 Apotheken mit 22 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+      "canonical": "https://weed.de/cannabis-apotheke/muehlhausen-thueringen",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannabis Apotheke Mühlhausen/Thüringen - 1 Apotheken",
+        "description": "Cannabis Apotheken in Mühlhausen/Thüringen. 1 Apotheken mit 22 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+        "url": "https://weed.de/cannabis-apotheke/muehlhausen-thueringen",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Mühlhausen/Thüringen",
+        "href": "https://weed.de/cannabis-apotheke/muehlhausen-thueringen"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Mühlhausen/Thüringen",
+            "item": "https://weed.de/cannabis-apotheke/muehlhausen-thueringen"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Cannabis Apotheken in Mühlhausen/Thüringen",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/apotheke/cannatilia",
+            "name": "Cannatilia"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "pharmacies": [
+      {
+        "href": "/apotheke/cannatilia",
+        "text": "Cannatilia",
+        "title": "Cannatilia in Mühlhausen/Thüringen"
+      }
+    ],
+    "nearbyCities": [
+      {
+        "href": "/cannabis-apotheke/bad-berka",
+        "text": "Cannabis Apotheke Bad Berka",
+        "title": "1 Apotheken in Bad Berka"
+      },
+      {
+        "href": "/cannabis-apotheke/erfurt",
+        "text": "Cannabis Apotheke Erfurt",
+        "title": "1 Apotheken in Erfurt"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Single pharmacy with good product coverage"
+  }
+}

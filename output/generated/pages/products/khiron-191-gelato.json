@@ -1,0 +1,235 @@
+{
+  "product": {
+    "slug": "khiron-191-gelato",
+    "name": "Khiron 19/1 Gelato",
+    "type": "flower",
+    "genetics": "hybrid",
+    "thcPercent": 17.6,
+    "cbdPercent": 1,
+    "priceMin": 638,
+    "priceMax": 715,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Portugal",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "khiron",
+    "name": "Khiron",
+    "productCount": 20
+  },
+  "strain": {
+    "slug": "gelato",
+    "name": "Gelato",
+    "geneticType": "hybrid",
+    "effects": [
+      "Euphoric",
+      "Relaxed",
+      "Happy",
+      "Uplifted",
+      "Creative",
+      "Aroused"
+    ],
+    "terpenes": [
+      "Valencene",
+      "Caryophyllene",
+      "Phellandrene",
+      "Terpineol"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Euphoric",
+      "Relaxed",
+      "Happy",
+      "Uplifted",
+      "Creative",
+      "Aroused"
+    ],
+    "tastes": [
+      "Sweet",
+      "Tropical",
+      "Fruity",
+      "Vanilla",
+      "Mint",
+      "Berry"
+    ],
+    "terpenes": [
+      "Valencene",
+      "Caryophyllene",
+      "Phellandrene",
+      "Terpineol"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "tilray-thc-25-spotlight-porto-purps",
+      "name": "Tilray THC 25 Spotlight Porto Purps",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": 349,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc1cbd1",
+      "name": "Tilray Cannabisextrakt THC10:CBD10",
+      "brandName": "Tilray",
+      "thcPercent": 10,
+      "priceMin": 400,
+      "inStock": true
+    },
+    {
+      "slug": "nimbus-easy-201",
+      "name": "Nimbus easy 20/1",
+      "brandName": "Nimbus Health",
+      "thcPercent": 20,
+      "priceMin": 479,
+      "inStock": true
+    },
+    {
+      "slug": "nimbus-easy-221-gelato",
+      "name": "Nimbus easy 22/1 Gelato",
+      "brandName": "Nimbus Health",
+      "thcPercent": 22,
+      "priceMin": 498,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-2",
+      "name": "Demecan Typ 2",
+      "brandName": "Demecan",
+      "thcPercent": 16,
+      "priceMin": 533,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-craft-electron-281",
+      "name": "Demecan CRAFT Electron 28:01",
+      "brandName": "Demecan",
+      "thcPercent": 28,
+      "priceMin": 874,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Khiron 19/1 Gelato | ab 6,38 €",
+      "description": "Khiron 19/1 Gelato von Khiron. THC: 17.6%, CBD: 1%. Sorte: Gelato. Preis ab 6,38 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/khiron-191-gelato",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Khiron 19/1 Gelato | ab 6,38 €",
+        "description": "Khiron 19/1 Gelato von Khiron. THC: 17.6%, CBD: 1%. Sorte: Gelato. Preis ab 6,38 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/khiron-191-gelato",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Khiron",
+        "href": "https://weed.de/brand/khiron"
+      },
+      {
+        "name": "Khiron 19/1 Gelato",
+        "href": "https://weed.de/product/khiron-191-gelato"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Khiron 19/1 Gelato",
+            "item": "https://weed.de/product/khiron-191-gelato"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Khiron 19/1 Gelato",
+        "brand": {
+          "@type": "Brand",
+          "name": "Khiron"
+        },
+        "description": "THC: 17.6%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/gelato",
+      "text": "Gelato",
+      "title": "Gelato Sorte"
+    },
+    "brand": {
+      "href": "/brand/khiron",
+      "text": "Khiron",
+      "title": "Alle Khiron Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/tilray-thc-25-spotlight-porto-purps",
+        "text": "Tilray THC 25 Spotlight Porto Purps",
+        "title": "Alternative: Tilray THC 25 Spotlight Porto Purps"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc1cbd1",
+        "text": "Tilray Cannabisextrakt THC10:CBD10",
+        "title": "Alternative: Tilray Cannabisextrakt THC10:CBD10"
+      },
+      {
+        "href": "/product/nimbus-easy-201",
+        "text": "Nimbus easy 20/1",
+        "title": "Alternative: Nimbus easy 20/1"
+      },
+      {
+        "href": "/product/nimbus-easy-221-gelato",
+        "text": "Nimbus easy 22/1 Gelato",
+        "title": "Alternative: Nimbus easy 22/1 Gelato"
+      },
+      {
+        "href": "/product/demecan-typ-2",
+        "text": "Demecan Typ 2",
+        "title": "Alternative: Demecan Typ 2"
+      },
+      {
+        "href": "/product/demecan-craft-electron-281",
+        "text": "Demecan CRAFT Electron 28:01",
+        "title": "Alternative: Demecan CRAFT Electron 28:01"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

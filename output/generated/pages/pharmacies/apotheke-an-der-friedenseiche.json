@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "apotheke-an-der-friedenseiche",
+    "name": "Apotheke an der Friedenseiche",
+    "street": "Eppendorfer Marktplatz",
+    "zip": "20251",
+    "cityName": "Hamburg",
+    "state": "Hamburg",
+    "lat": 53.5932421,
+    "lng": 9.9890978,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://happyhanf.hamburg/",
+    "phone": "+4915561248980",
+    "email": "info@happyhanf.hamburg",
+    "productCount": 30,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/681df2855103dc0234238074-e9116h.jpg"
+  },
+  "city": {
+    "slug": "hamburg",
+    "name": "Hamburg",
+    "pharmacyCount": 12
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "aposweet",
+      "name": "ApoSweet",
+      "cityName": "Hamburg",
+      "productCount": 73,
+      "hasDelivery": true
+    },
+    {
+      "slug": "thcundco",
+      "name": "thcundco.de (Arcaden Apotheke OHG)",
+      "cityName": "Hamburg",
+      "productCount": 53,
+      "hasDelivery": true
+    },
+    {
+      "slug": "schwanen-apotheke",
+      "name": "Schwanen-Apotheke",
+      "cityName": "Hamburg",
+      "productCount": 42,
+      "hasDelivery": true
+    },
+    {
+      "slug": "eulen-apotheke",
+      "name": "Eulen Apotheke",
+      "cityName": "Hamburg",
+      "productCount": 20,
+      "hasDelivery": true
+    },
+    {
+      "slug": "dorfplatz-apotheke",
+      "name": "Dorfplatz Apotheke",
+      "cityName": "Hamburg",
+      "productCount": 13,
+      "hasDelivery": false
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Apotheke an der Friedenseiche - Cannabis Apotheke in Hamburg",
+      "description": "Apotheke an der Friedenseiche in Hamburg. 30 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/apotheke-an-der-friedenseiche",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Apotheke an der Friedenseiche - Cannabis Apotheke in Hamburg",
+        "description": "Apotheke an der Friedenseiche in Hamburg. 30 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/apotheke-an-der-friedenseiche",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/681df2855103dc0234238074-e9116h.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Hamburg",
+        "href": "https://weed.de/cannabis-apotheke/hamburg"
+      },
+      {
+        "name": "Apotheke an der Friedenseiche",
+        "href": "https://weed.de/apotheke/apotheke-an-der-friedenseiche"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Hamburg",
+            "item": "https://weed.de/cannabis-apotheke/hamburg"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Apotheke an der Friedenseiche",
+            "item": "https://weed.de/apotheke/apotheke-an-der-friedenseiche"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Apotheke an der Friedenseiche",
+        "url": "https://weed.de/apotheke/apotheke-an-der-friedenseiche",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Eppendorfer Marktplatz",
+          "addressLocality": "Hamburg",
+          "postalCode": "20251",
+          "addressRegion": "Hamburg",
+          "addressCountry": "DE"
+        },
+        "telephone": "+4915561248980",
+        "email": "info@happyhanf.hamburg"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/hamburg",
+      "text": "Cannabis Apotheken in Hamburg",
+      "title": "Alle Apotheken in Hamburg"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/aposweet",
+        "text": "ApoSweet",
+        "title": "ApoSweet in Hamburg"
+      },
+      {
+        "href": "/apotheke/thcundco",
+        "text": "thcundco.de (Arcaden Apotheke OHG)",
+        "title": "thcundco.de (Arcaden Apotheke OHG) in Hamburg"
+      },
+      {
+        "href": "/apotheke/schwanen-apotheke",
+        "text": "Schwanen-Apotheke",
+        "title": "Schwanen-Apotheke in Hamburg"
+      },
+      {
+        "href": "/apotheke/eulen-apotheke",
+        "text": "Eulen Apotheke",
+        "title": "Eulen Apotheke in Hamburg"
+      },
+      {
+        "href": "/apotheke/dorfplatz-apotheke",
+        "text": "Dorfplatz Apotheke",
+        "title": "Dorfplatz Apotheke in Hamburg"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

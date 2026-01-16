@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "st-stephanus-apotheke",
+    "name": "St. Stephanus Apotheke",
+    "street": "Hauptstraße 52",
+    "zip": "66557",
+    "cityName": "Illingen",
+    "state": "Saarland",
+    "lat": 49.3778473,
+    "lng": 7.050439099999999,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": false,
+    "website": "https://www.augustagreen-illingen.de",
+    "phone": "0682548151",
+    "email": "bestellung@augustagreen-illingen.de",
+    "productCount": 0,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/6968b8f4f3b79c5923bb1ec4-ca2b2h.jpg"
+  },
+  "city": {
+    "slug": "illingen",
+    "name": "Illingen",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "markus-apotheke-saarbruecken",
+      "name": "Markus Apotheke Saarbrücken",
+      "cityName": "Saarbrücken",
+      "productCount": 102,
+      "hasDelivery": false
+    },
+    {
+      "slug": "cannablies-rats-apotheke",
+      "name": "Cannablies / Rats-Apotheke",
+      "cityName": "Blieskastel",
+      "productCount": 90,
+      "hasDelivery": true
+    },
+    {
+      "slug": "stadt-apotheke-saarbruecken",
+      "name": "Cannatopie.de by Stadt Apotheke Saarbrücken",
+      "cityName": "Saarbrücken",
+      "productCount": 54,
+      "hasDelivery": true
+    },
+    {
+      "slug": "landmann-apotheke-oliver-blank-saarbruecken",
+      "name": "Landmann Apotheke Oliver Blank Saarbrücken",
+      "cityName": "Saarbrücken",
+      "productCount": 19,
+      "hasDelivery": false
+    },
+    {
+      "slug": "apotheke-am-bitscher-platz",
+      "name": "Apotheke am Bitscher Platz",
+      "cityName": "Lebach",
+      "productCount": 0,
+      "hasDelivery": false
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "St. Stephanus Apotheke - Cannabis Apotheke in Illingen",
+      "description": "St. Stephanus Apotheke in Illingen. Lieferung & Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/st-stephanus-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "St. Stephanus Apotheke - Cannabis Apotheke in Illingen",
+        "description": "St. Stephanus Apotheke in Illingen. Lieferung & Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/st-stephanus-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/6968b8f4f3b79c5923bb1ec4-ca2b2h.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Illingen",
+        "href": "https://weed.de/cannabis-apotheke/illingen"
+      },
+      {
+        "name": "St. Stephanus Apotheke",
+        "href": "https://weed.de/apotheke/st-stephanus-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Illingen",
+            "item": "https://weed.de/cannabis-apotheke/illingen"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "St. Stephanus Apotheke",
+            "item": "https://weed.de/apotheke/st-stephanus-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "St. Stephanus Apotheke",
+        "url": "https://weed.de/apotheke/st-stephanus-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Hauptstraße 52",
+          "addressLocality": "Illingen",
+          "postalCode": "66557",
+          "addressRegion": "Saarland",
+          "addressCountry": "DE"
+        },
+        "telephone": "0682548151",
+        "email": "bestellung@augustagreen-illingen.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/illingen",
+      "text": "Cannabis Apotheken in Illingen",
+      "title": "Alle Apotheken in Illingen"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/markus-apotheke-saarbruecken",
+        "text": "Markus Apotheke Saarbrücken",
+        "title": "Markus Apotheke Saarbrücken in Saarbrücken"
+      },
+      {
+        "href": "/apotheke/cannablies-rats-apotheke",
+        "text": "Cannablies / Rats-Apotheke",
+        "title": "Cannablies / Rats-Apotheke in Blieskastel"
+      },
+      {
+        "href": "/apotheke/stadt-apotheke-saarbruecken",
+        "text": "Cannatopie.de by Stadt Apotheke Saarbrücken",
+        "title": "Cannatopie.de by Stadt Apotheke Saarbrücken in Saarbrücken"
+      },
+      {
+        "href": "/apotheke/landmann-apotheke-oliver-blank-saarbruecken",
+        "text": "Landmann Apotheke Oliver Blank Saarbrücken",
+        "title": "Landmann Apotheke Oliver Blank Saarbrücken in Saarbrücken"
+      },
+      {
+        "href": "/apotheke/apotheke-am-bitscher-platz",
+        "text": "Apotheke am Bitscher Platz",
+        "title": "Apotheke am Bitscher Platz in Lebach"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has services"
+  }
+}

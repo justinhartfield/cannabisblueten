@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "markenbildchen-apotheke",
+    "name": "Markenbildchen Apotheke",
+    "street": "Markenbildchenweg 6",
+    "zip": "56068",
+    "cityName": "Koblenz",
+    "state": "Rheinland-Pfalz",
+    "lat": 50.349819,
+    "lng": 7.595854,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": null,
+    "phone": "026115008",
+    "email": "cannabis@markenbildchen-apotheke.info",
+    "productCount": 44,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.de/pharmacies/markenbi-logo.png"
+  },
+  "city": {
+    "slug": "koblenz",
+    "name": "Koblenz",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "cannabis-apotheke-rheinland",
+      "name": "Cannabis Apotheke Rheinland",
+      "cityName": "Bad Neuenahr-Ahrweiler",
+      "productCount": 161,
+      "hasDelivery": true
+    },
+    {
+      "slug": "grune-blute-ulmen-apotheke",
+      "name": "Grüne Blüte",
+      "cityName": "Frankenthal (Pfalz)",
+      "productCount": 158,
+      "hasDelivery": true
+    },
+    {
+      "slug": "pharmablute",
+      "name": "PharmaBlüte",
+      "cityName": "Mainz",
+      "productCount": 124,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis4me",
+      "name": "cannabis4me",
+      "cityName": "Bad Neuenahr-Ahrweiler",
+      "productCount": 89,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-am-kornmarkt",
+      "name": "Apotheke am Kornmarkt",
+      "cityName": "Trier",
+      "productCount": 64,
+      "hasDelivery": false
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Markenbildchen Apotheke - Cannabis Apotheke in Koblenz",
+      "description": "Markenbildchen Apotheke in Koblenz. 44 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/markenbildchen-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Markenbildchen Apotheke - Cannabis Apotheke in Koblenz",
+        "description": "Markenbildchen Apotheke in Koblenz. 44 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/markenbildchen-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/pharmacies/markenbi-logo.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Koblenz",
+        "href": "https://weed.de/cannabis-apotheke/koblenz"
+      },
+      {
+        "name": "Markenbildchen Apotheke",
+        "href": "https://weed.de/apotheke/markenbildchen-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Koblenz",
+            "item": "https://weed.de/cannabis-apotheke/koblenz"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Markenbildchen Apotheke",
+            "item": "https://weed.de/apotheke/markenbildchen-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Markenbildchen Apotheke",
+        "url": "https://weed.de/apotheke/markenbildchen-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Markenbildchenweg 6",
+          "addressLocality": "Koblenz",
+          "postalCode": "56068",
+          "addressRegion": "Rheinland-Pfalz",
+          "addressCountry": "DE"
+        },
+        "telephone": "026115008",
+        "email": "cannabis@markenbildchen-apotheke.info"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/koblenz",
+      "text": "Cannabis Apotheken in Koblenz",
+      "title": "Alle Apotheken in Koblenz"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/cannabis-apotheke-rheinland",
+        "text": "Cannabis Apotheke Rheinland",
+        "title": "Cannabis Apotheke Rheinland in Bad Neuenahr-Ahrweiler"
+      },
+      {
+        "href": "/apotheke/grune-blute-ulmen-apotheke",
+        "text": "Grüne Blüte",
+        "title": "Grüne Blüte in Frankenthal (Pfalz)"
+      },
+      {
+        "href": "/apotheke/pharmablute",
+        "text": "PharmaBlüte",
+        "title": "PharmaBlüte in Mainz"
+      },
+      {
+        "href": "/apotheke/cannabis4me",
+        "text": "cannabis4me",
+        "title": "cannabis4me in Bad Neuenahr-Ahrweiler"
+      },
+      {
+        "href": "/apotheke/apotheke-am-kornmarkt",
+        "text": "Apotheke am Kornmarkt",
+        "title": "Apotheke am Kornmarkt in Trier"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

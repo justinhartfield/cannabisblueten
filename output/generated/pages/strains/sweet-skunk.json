@@ -1,0 +1,252 @@
+{
+  "strain": {
+    "slug": "sweet-skunk",
+    "name": "Sweet Skunk",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Euphoric",
+      "Creative"
+    ],
+    "tastes": [
+      "Chemical",
+      "Lemon"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Pinene",
+      "Caryophyllene"
+    ],
+    "description": "Sweet Skunk ist eine Kreuzung aus Norhtern Lights und Skunk. Bei ihr handelt es sich um eine Indica-dominante Sorte, mit einem THC-Gehalt um die 18 % - 20 %. Die dominanten Terpene sind Myrcene, Pinene und Caryophyllene. Nutzer berichten über einen euphorischen Energieschub, sowie eine unfokussierte Kreativität. Allerdings können die starken Effekte leichte Ängstlichkeit auslösen.Das Aroma, ist eine Mischung aus Chemikalien und Zitrone, verweilt auch nach dem Rauchen.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 3,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 248,
+      "max": 9999,
+      "formatted": {
+        "min": "2,48 €",
+        "max": "99,99 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "1050-vayamed-cannabisextrakt",
+      "name": "10/50 Vayamed Cannabisextrakt",
+      "brandName": "Vayamed",
+      "thcPercent": 1,
+      "priceMin": 1415,
+      "inStock": true
+    },
+    {
+      "slug": "imc-cannabisextrakt-251",
+      "name": "IMC Cannabisextrakt 25/1",
+      "brandName": "IMC",
+      "thcPercent": 2.5,
+      "priceMin": 248,
+      "inStock": true
+    },
+    {
+      "slug": "11-vayamed-cannabisextrakt-no-1-sweet-skunk",
+      "name": "10/10 Vayamed Cannabisextrakt No 1 (Sweet Skunk /",
+      "brandName": "Vayamed",
+      "thcPercent": 10,
+      "priceMin": 634,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "california-orange",
+      "name": "California Orange",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "cannatonic",
+      "name": "Cannatonic",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "grape-mac",
+      "name": "Grape MAC",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "amnezia-og",
+      "name": "Amnezia OG",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "trainwreck",
+      "name": "Trainwreck",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Sweet Skunk (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Sweet Skunk: Euphoric, Creative. 3 Produkte verfügbar. ab 2,48 €.",
+      "canonical": "https://weed.de/strain/sweet-skunk",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Sweet Skunk (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Sweet Skunk: Euphoric, Creative. 3 Produkte verfügbar. ab 2,48 €.",
+        "url": "https://weed.de/strain/sweet-skunk",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Sweet Skunk",
+        "href": "https://weed.de/strain/sweet-skunk"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Sweet Skunk",
+            "item": "https://weed.de/strain/sweet-skunk"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Sweet Skunk Produkte",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/1050-vayamed-cannabisextrakt",
+            "name": "10/50 Vayamed Cannabisextrakt"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/imc-cannabisextrakt-251",
+            "name": "IMC Cannabisextrakt 25/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/11-vayamed-cannabisextrakt-no-1-sweet-skunk",
+            "name": "10/10 Vayamed Cannabisextrakt No 1 (Sweet Skunk /"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/1050-vayamed-cannabisextrakt",
+        "text": "10/50 Vayamed Cannabisextrakt",
+        "title": "10/50 Vayamed Cannabisextrakt von Vayamed"
+      },
+      {
+        "href": "/product/imc-cannabisextrakt-251",
+        "text": "IMC Cannabisextrakt 25/1",
+        "title": "IMC Cannabisextrakt 25/1 von IMC"
+      },
+      {
+        "href": "/product/11-vayamed-cannabisextrakt-no-1-sweet-skunk",
+        "text": "10/10 Vayamed Cannabisextrakt No 1 (Sweet Skunk /",
+        "title": "10/10 Vayamed Cannabisextrakt No 1 (Sweet Skunk / von Vayamed"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/california-orange",
+        "text": "California Orange",
+        "title": "California Orange - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/cannatonic",
+        "text": "Cannatonic",
+        "title": "Cannatonic - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/grape-mac",
+        "text": "Grape MAC",
+        "title": "Grape MAC - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/amnezia-og",
+        "text": "Amnezia OG",
+        "title": "Amnezia OG - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/trainwreck",
+        "text": "Trainwreck",
+        "title": "Trainwreck - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/pinene",
+        "text": "Pinene",
+        "title": "Pinene Terpen"
+      },
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

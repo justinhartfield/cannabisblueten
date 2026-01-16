@@ -1,0 +1,233 @@
+{
+  "product": {
+    "slug": "imc-cannabisextrakt-1010",
+    "name": "IMC Cannabisextrakt 10/10",
+    "type": "extract",
+    "genetics": "hybrid",
+    "thcPercent": 10,
+    "cbdPercent": 10,
+    "priceMin": 256,
+    "priceMax": 950,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": null,
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "imc",
+    "name": "IMC",
+    "productCount": 128
+  },
+  "strain": {
+    "slug": "cannatonic",
+    "name": "Cannatonic",
+    "geneticType": "hybrid",
+    "effects": [
+      "Relaxed",
+      "Stimulating",
+      "Creative",
+      "Euphoric",
+      "Happy",
+      "Focused"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Caryophyllene",
+      "Pinene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Relaxed",
+      "Stimulating",
+      "Creative",
+      "Euphoric",
+      "Happy",
+      "Focused"
+    ],
+    "tastes": [
+      "Earthy",
+      "Citrus",
+      "Berry",
+      "Woody",
+      "Pine",
+      "Spicy-Herbal"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Caryophyllene",
+      "Pinene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "vayamed-balanced-129",
+      "name": "Vayamed Balanced 12/9",
+      "brandName": "Vayamed",
+      "thcPercent": 11.6,
+      "priceMin": 675,
+      "inStock": true
+    },
+    {
+      "slug": "vayamed-128-can",
+      "name": "Vayamed 12/8 CAN",
+      "brandName": "Vayamed",
+      "thcPercent": 12,
+      "priceMin": 765,
+      "inStock": true
+    },
+    {
+      "slug": "2525-vayamed-cannabisextrakt",
+      "name": "25/25 Vayamed Cannabisextrakt",
+      "brandName": "Vayamed",
+      "thcPercent": 2.5,
+      "priceMin": 805,
+      "inStock": true
+    },
+    {
+      "slug": "cannabistada-extrakt-thc30cbd30",
+      "name": "Cannabistada Extrakt THC30/CBD30",
+      "brandName": "Stada",
+      "thcPercent": 3,
+      "priceMin": 850,
+      "inStock": true
+    },
+    {
+      "slug": "avaay-128-can",
+      "name": "AVAAY 12/8 CAN",
+      "brandName": "Vayamed",
+      "thcPercent": 12.2,
+      "priceMin": 995,
+      "inStock": true
+    },
+    {
+      "slug": "cannabistada-125",
+      "name": "CannabiStada 1/25",
+      "brandName": "Stada",
+      "thcPercent": 0.1,
+      "priceMin": 999,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "IMC Cannabisextrakt 10/10 | ab 2,56 €",
+      "description": "IMC Cannabisextrakt 10/10 von IMC. THC: 10%, CBD: 10%. Sorte: Cannatonic. Preis ab 2,56 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/imc-cannabisextrakt-1010",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "IMC Cannabisextrakt 10/10 | ab 2,56 €",
+        "description": "IMC Cannabisextrakt 10/10 von IMC. THC: 10%, CBD: 10%. Sorte: Cannatonic. Preis ab 2,56 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/imc-cannabisextrakt-1010",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "IMC",
+        "href": "https://weed.de/brand/imc"
+      },
+      {
+        "name": "IMC Cannabisextrakt 10/10",
+        "href": "https://weed.de/product/imc-cannabisextrakt-1010"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "IMC Cannabisextrakt 10/10",
+            "item": "https://weed.de/product/imc-cannabisextrakt-1010"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "IMC Cannabisextrakt 10/10",
+        "brand": {
+          "@type": "Brand",
+          "name": "IMC"
+        },
+        "description": "THC: 10%, CBD: 10%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/cannatonic",
+      "text": "Cannatonic",
+      "title": "Cannatonic Sorte"
+    },
+    "brand": {
+      "href": "/brand/imc",
+      "text": "IMC",
+      "title": "Alle IMC Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/vayamed-balanced-129",
+        "text": "Vayamed Balanced 12/9",
+        "title": "Alternative: Vayamed Balanced 12/9"
+      },
+      {
+        "href": "/product/vayamed-128-can",
+        "text": "Vayamed 12/8 CAN",
+        "title": "Alternative: Vayamed 12/8 CAN"
+      },
+      {
+        "href": "/product/2525-vayamed-cannabisextrakt",
+        "text": "25/25 Vayamed Cannabisextrakt",
+        "title": "Alternative: 25/25 Vayamed Cannabisextrakt"
+      },
+      {
+        "href": "/product/cannabistada-extrakt-thc30cbd30",
+        "text": "Cannabistada Extrakt THC30/CBD30",
+        "title": "Alternative: Cannabistada Extrakt THC30/CBD30"
+      },
+      {
+        "href": "/product/avaay-128-can",
+        "text": "AVAAY 12/8 CAN",
+        "title": "Alternative: AVAAY 12/8 CAN"
+      },
+      {
+        "href": "/product/cannabistada-125",
+        "text": "CannabiStada 1/25",
+        "title": "Alternative: CannabiStada 1/25"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

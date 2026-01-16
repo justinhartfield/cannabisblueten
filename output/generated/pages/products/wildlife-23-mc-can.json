@@ -1,0 +1,237 @@
+{
+  "product": {
+    "slug": "wildlife-23-mc-can",
+    "name": "Wildlife 23 MC CAN",
+    "type": "flower",
+    "genetics": "hybrid_sativa",
+    "thcPercent": 22,
+    "cbdPercent": 1,
+    "priceMin": 433,
+    "priceMax": 488,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "adrexpharma",
+    "name": "Adrexpharma",
+    "productCount": 60
+  },
+  "strain": {
+    "slug": "mandarin-cookies",
+    "name": "Mandarin Cookies",
+    "geneticType": "hybrid",
+    "effects": [
+      "Uplifted",
+      "Relaxed",
+      "Happy"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Beta-Myrcene",
+      "Selinadien",
+      "Beta-Caryophyllene",
+      "Linalool",
+      "Alpha-Humulene",
+      "Fenchol",
+      "Farnesene",
+      "Alpha-Pinene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Uplifted",
+      "Relaxed",
+      "Happy"
+    ],
+    "tastes": [
+      "Diesel",
+      "Citrus",
+      "Earthy",
+      "Orange"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Beta-Myrcene",
+      "Selinadien",
+      "Beta-Caryophyllene",
+      "Linalool",
+      "Alpha-Humulene",
+      "Fenchol",
+      "Farnesene",
+      "Alpha-Pinene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "amp-classic-251",
+      "name": "AMP Classic 25/1",
+      "brandName": "AMP",
+      "thcPercent": 25,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "all-nations-sf-181",
+      "name": "All Nations SF 18/1",
+      "brandName": "Cantourage",
+      "thcPercent": 18,
+      "priceMin": 398,
+      "inStock": true
+    },
+    {
+      "slug": "avaay-signature-191-mc",
+      "name": "avaay Signature 19/1 MC",
+      "brandName": "Avaay",
+      "thcPercent": 19,
+      "priceMin": 599,
+      "inStock": true
+    },
+    {
+      "slug": "weeco-231",
+      "name": "Weeco 23/1",
+      "brandName": "Weeco",
+      "thcPercent": 23,
+      "priceMin": 599,
+      "inStock": true
+    },
+    {
+      "slug": "aurora-221-dhz-ca",
+      "name": "Aurora 22/1 DHZ-CA",
+      "brandName": "Aurora",
+      "thcPercent": 19.8,
+      "priceMin": 640,
+      "inStock": true
+    },
+    {
+      "slug": "420-evolution-271-ca-str",
+      "name": "420 Evolution 27/1 CA STR",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 27,
+      "priceMin": 645,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Wildlife 23 MC CAN - Adrexpharma | ab 4,33 €",
+      "description": "Wildlife 23 MC CAN von Adrexpharma. THC: 22%, CBD: 1%. Sorte: Mandarin Cookies. Preis ab 4,33 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/wildlife-23-mc-can",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Wildlife 23 MC CAN - Adrexpharma | ab 4,33 €",
+        "description": "Wildlife 23 MC CAN von Adrexpharma. THC: 22%, CBD: 1%. Sorte: Mandarin Cookies. Preis ab 4,33 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/wildlife-23-mc-can",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Adrexpharma",
+        "href": "https://weed.de/brand/adrexpharma"
+      },
+      {
+        "name": "Wildlife 23 MC CAN",
+        "href": "https://weed.de/product/wildlife-23-mc-can"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Wildlife 23 MC CAN",
+            "item": "https://weed.de/product/wildlife-23-mc-can"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Wildlife 23 MC CAN",
+        "brand": {
+          "@type": "Brand",
+          "name": "Adrexpharma"
+        },
+        "description": "THC: 22%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/mandarin-cookies",
+      "text": "Mandarin Cookies",
+      "title": "Mandarin Cookies Sorte"
+    },
+    "brand": {
+      "href": "/brand/adrexpharma",
+      "text": "Adrexpharma",
+      "title": "Alle Adrexpharma Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/amp-classic-251",
+        "text": "AMP Classic 25/1",
+        "title": "Alternative: AMP Classic 25/1"
+      },
+      {
+        "href": "/product/all-nations-sf-181",
+        "text": "All Nations SF 18/1",
+        "title": "Alternative: All Nations SF 18/1"
+      },
+      {
+        "href": "/product/avaay-signature-191-mc",
+        "text": "avaay Signature 19/1 MC",
+        "title": "Alternative: avaay Signature 19/1 MC"
+      },
+      {
+        "href": "/product/weeco-231",
+        "text": "Weeco 23/1",
+        "title": "Alternative: Weeco 23/1"
+      },
+      {
+        "href": "/product/aurora-221-dhz-ca",
+        "text": "Aurora 22/1 DHZ-CA",
+        "title": "Alternative: Aurora 22/1 DHZ-CA"
+      },
+      {
+        "href": "/product/420-evolution-271-ca-str",
+        "text": "420 Evolution 27/1 CA STR",
+        "title": "Alternative: 420 Evolution 27/1 CA STR"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

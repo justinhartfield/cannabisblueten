@@ -1,0 +1,236 @@
+{
+  "product": {
+    "slug": "cannabistada-5025-ca",
+    "name": "CannabiStada 50/25 CA",
+    "type": "extract",
+    "genetics": "hybrid",
+    "thcPercent": 5,
+    "cbdPercent": 2.5,
+    "priceMin": 1999,
+    "priceMax": 3558,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": null,
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "stada",
+    "name": "Stada",
+    "productCount": 26
+  },
+  "strain": {
+    "slug": "gorilla-glue-4",
+    "name": "GG4",
+    "geneticType": "hybrid",
+    "effects": [
+      "Relaxed",
+      "Uplifted",
+      "Euphoric",
+      "Hungry",
+      "Sleepy",
+      "Paranoid",
+      "Dry Eyes",
+      "Dry Mouth"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Caryophyllene",
+      "Limonene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Relaxed",
+      "Uplifted",
+      "Euphoric",
+      "Hungry",
+      "Sleepy",
+      "Paranoid",
+      "Dry Eyes",
+      "Dry Mouth"
+    ],
+    "tastes": [
+      "Pungent",
+      "Sweet",
+      "Earthy",
+      "Pine",
+      "Woody"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Caryophyllene",
+      "Limonene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "imc-thc25-t03",
+      "name": "IMC THC25 T03",
+      "brandName": "IMC",
+      "thcPercent": 25,
+      "priceMin": 365,
+      "inStock": true
+    },
+    {
+      "slug": "sibanax-moe-zilla-31",
+      "name": "Sibanax Moe Zilla 30/1",
+      "brandName": "Heyday",
+      "thcPercent": 30,
+      "priceMin": 569,
+      "inStock": true
+    },
+    {
+      "slug": "420-natural-201-ca-gg4",
+      "name": "420 Natural 20/1 CA GG4",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 20,
+      "priceMin": 589,
+      "inStock": true
+    },
+    {
+      "slug": "420-natural-221-gg4",
+      "name": "420 Natural 22/1 GG4",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 22,
+      "priceMin": 723,
+      "inStock": true
+    },
+    {
+      "slug": "420-evolution-221-ca-gg4",
+      "name": "420 Evolution 22/1 CA GG4",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 19,
+      "priceMin": 800,
+      "inStock": true
+    },
+    {
+      "slug": "remexian-221-gg4",
+      "name": "Remexian 22/1 GG4",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 22,
+      "priceMin": 699,
+      "inStock": false
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "CannabiStada 50/25 CA | ab 19,99 €",
+      "description": "CannabiStada 50/25 CA von Stada. THC: 5%, CBD: 2.5%. Sorte: GG4. Preis ab 19,99 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/cannabistada-5025-ca",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "CannabiStada 50/25 CA | ab 19,99 €",
+        "description": "CannabiStada 50/25 CA von Stada. THC: 5%, CBD: 2.5%. Sorte: GG4. Preis ab 19,99 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/cannabistada-5025-ca",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Stada",
+        "href": "https://weed.de/brand/stada"
+      },
+      {
+        "name": "CannabiStada 50/25 CA",
+        "href": "https://weed.de/product/cannabistada-5025-ca"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "CannabiStada 50/25 CA",
+            "item": "https://weed.de/product/cannabistada-5025-ca"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "CannabiStada 50/25 CA",
+        "brand": {
+          "@type": "Brand",
+          "name": "Stada"
+        },
+        "description": "THC: 5%, CBD: 2.5%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/gorilla-glue-4",
+      "text": "GG4",
+      "title": "GG4 Sorte"
+    },
+    "brand": {
+      "href": "/brand/stada",
+      "text": "Stada",
+      "title": "Alle Stada Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/imc-thc25-t03",
+        "text": "IMC THC25 T03",
+        "title": "Alternative: IMC THC25 T03"
+      },
+      {
+        "href": "/product/sibanax-moe-zilla-31",
+        "text": "Sibanax Moe Zilla 30/1",
+        "title": "Alternative: Sibanax Moe Zilla 30/1"
+      },
+      {
+        "href": "/product/420-natural-201-ca-gg4",
+        "text": "420 Natural 20/1 CA GG4",
+        "title": "Alternative: 420 Natural 20/1 CA GG4"
+      },
+      {
+        "href": "/product/420-natural-221-gg4",
+        "text": "420 Natural 22/1 GG4",
+        "title": "Alternative: 420 Natural 22/1 GG4"
+      },
+      {
+        "href": "/product/420-evolution-221-ca-gg4",
+        "text": "420 Evolution 22/1 CA GG4",
+        "title": "Alternative: 420 Evolution 22/1 CA GG4"
+      },
+      {
+        "href": "/product/remexian-221-gg4",
+        "text": "Remexian 22/1 GG4",
+        "title": "Alternative: Remexian 22/1 GG4"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

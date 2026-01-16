@@ -1,0 +1,211 @@
+{
+  "strain": {
+    "slug": "wedding-sunset",
+    "name": "Wedding Sunset",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [],
+    "tastes": [
+      "Fruity",
+      "Lemon"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Caryophyllene",
+      "Myrcene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 395,
+      "max": 499,
+      "formatted": {
+        "min": "3,95 €",
+        "max": "4,99 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "nice-21-wsu",
+      "name": "NICE 20/1 WSU",
+      "brandName": "Cansativa",
+      "thcPercent": 20,
+      "priceMin": 395,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "bucket-list",
+      "name": "Bucket List",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "slurricane-mint",
+      "name": "Slurricane Mint",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "gelato-33",
+      "name": "Gelato 33",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "grape-gasoline",
+      "name": "Grape Gasoline",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "tiger-paw",
+      "name": "Tiger Paw",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Wedding Sunset (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Wedding Sunset Cannabis Sorte. 1 Produkte verfügbar. ab 3,95 €.",
+      "canonical": "https://weed.de/strain/wedding-sunset",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Wedding Sunset (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Wedding Sunset Cannabis Sorte. 1 Produkte verfügbar. ab 3,95 €.",
+        "url": "https://weed.de/strain/wedding-sunset",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Wedding Sunset",
+        "href": "https://weed.de/strain/wedding-sunset"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Wedding Sunset",
+            "item": "https://weed.de/strain/wedding-sunset"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Wedding Sunset Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/nice-21-wsu",
+            "name": "NICE 20/1 WSU"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/nice-21-wsu",
+        "text": "NICE 20/1 WSU",
+        "title": "NICE 20/1 WSU von Cansativa"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/bucket-list",
+        "text": "Bucket List",
+        "title": "Bucket List - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/slurricane-mint",
+        "text": "Slurricane Mint",
+        "title": "Slurricane Mint - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/gelato-33",
+        "text": "Gelato 33",
+        "title": "Gelato 33 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/grape-gasoline",
+        "text": "Grape Gasoline",
+        "title": "Grape Gasoline - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/tiger-paw",
+        "text": "Tiger Paw",
+        "title": "Tiger Paw - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

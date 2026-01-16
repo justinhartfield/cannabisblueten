@@ -1,0 +1,464 @@
+{
+  "city": {
+    "slug": "unknown",
+    "name": "Unknown",
+    "state": ""
+  },
+  "stats": {
+    "pharmacyCount": 19,
+    "totalProducts": 22,
+    "hasDelivery": true
+  },
+  "pharmacies": [
+    {
+      "slug": "salus-apotheke-1",
+      "name": "SALUS Apotheke",
+      "street": "",
+      "zip": "",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 22,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "1-apotheke",
+      "name": "+1 Apotheke",
+      "street": "",
+      "zip": "",
+      "hasDelivery": false,
+      "hasPickup": false,
+      "productCount": 0,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "alte-rats-apotheke-ohg",
+      "name": "Alte Rats-Apotheke OHG",
+      "street": "",
+      "zip": "",
+      "hasDelivery": false,
+      "hasPickup": false,
+      "productCount": 0,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "maxmo-apotheke-kaufland-dueren",
+      "name": "Maxmo Apotheke Kaufland Düren",
+      "street": "",
+      "zip": "",
+      "hasDelivery": false,
+      "hasPickup": false,
+      "productCount": 0,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "yolosvath-2",
+      "name": "Yolosvath",
+      "street": null,
+      "zip": null,
+      "hasDelivery": false,
+      "hasPickup": false,
+      "productCount": 0,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "collini-medflower-collini-apotheke-mannheim",
+      "name": "Collini-Medflower (Collini-Apotheke Mannheim)",
+      "street": null,
+      "zip": null,
+      "hasDelivery": false,
+      "hasPickup": false,
+      "productCount": 0,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "getkong",
+      "name": "GETKONG",
+      "street": null,
+      "zip": null,
+      "hasDelivery": false,
+      "hasPickup": false,
+      "productCount": 0,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "test-2",
+      "name": "test",
+      "street": null,
+      "zip": null,
+      "hasDelivery": false,
+      "hasPickup": false,
+      "productCount": 0,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "zeppelin-apotheke",
+      "name": "Zeppelin-Apotheke",
+      "street": null,
+      "zip": null,
+      "hasDelivery": false,
+      "hasPickup": false,
+      "productCount": 0,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "cannabis-apotheke-gronau-1",
+      "name": "Cannabis-Apotheke-Gronau",
+      "street": null,
+      "zip": null,
+      "hasDelivery": false,
+      "hasPickup": false,
+      "productCount": 0,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "stern-apotheke",
+      "name": "Stern-Apotheke",
+      "street": null,
+      "zip": null,
+      "hasDelivery": false,
+      "hasPickup": false,
+      "productCount": 0,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "jannik",
+      "name": "jannik",
+      "street": null,
+      "zip": null,
+      "hasDelivery": false,
+      "hasPickup": false,
+      "productCount": 0,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "conex",
+      "name": "CONEX",
+      "street": null,
+      "zip": null,
+      "hasDelivery": false,
+      "hasPickup": false,
+      "productCount": 0,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "adler-apotheke-4",
+      "name": "Adler Apotheke ",
+      "street": null,
+      "zip": null,
+      "hasDelivery": false,
+      "hasPickup": false,
+      "productCount": 0,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "kleeblatt-apotheken-in-duesseldorf-heerdt",
+      "name": "Kleeblatt Apotheken in Düsseldorf Heerdt",
+      "street": null,
+      "zip": null,
+      "hasDelivery": false,
+      "hasPickup": false,
+      "productCount": 0,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "baeren-apotheke-3",
+      "name": "Bären Apotheke",
+      "street": null,
+      "zip": null,
+      "hasDelivery": false,
+      "hasPickup": true,
+      "productCount": 0,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "fuchs-apotheke",
+      "name": "fuchs apotheke",
+      "street": null,
+      "zip": null,
+      "hasDelivery": false,
+      "hasPickup": true,
+      "productCount": 0,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "neo-apotheke",
+      "name": "NEO Apotheke",
+      "street": null,
+      "zip": null,
+      "hasDelivery": false,
+      "hasPickup": true,
+      "productCount": 0,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "loewen-apotheke-2",
+      "name": "Löwen Apotheke",
+      "street": null,
+      "zip": null,
+      "hasDelivery": false,
+      "hasPickup": true,
+      "productCount": 0,
+      "rating": 0,
+      "ratingCount": 0
+    }
+  ],
+  "nearbyCities": [],
+  "seo": {
+    "meta": {
+      "title": "Cannabis Apotheke Unknown - 19 Apotheken",
+      "description": "Cannabis Apotheken in Unknown. 19 Apotheken mit 22 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+      "canonical": "https://weed.de/cannabis-apotheke/unknown",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannabis Apotheke Unknown - 19 Apotheken",
+        "description": "Cannabis Apotheken in Unknown. 19 Apotheken mit 22 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+        "url": "https://weed.de/cannabis-apotheke/unknown",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Unknown",
+        "href": "https://weed.de/cannabis-apotheke/unknown"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Unknown",
+            "item": "https://weed.de/cannabis-apotheke/unknown"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Cannabis Apotheken in Unknown",
+        "numberOfItems": 19,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/apotheke/salus-apotheke-1",
+            "name": "SALUS Apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/apotheke/1-apotheke",
+            "name": "+1 Apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/apotheke/alte-rats-apotheke-ohg",
+            "name": "Alte Rats-Apotheke OHG"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/apotheke/maxmo-apotheke-kaufland-dueren",
+            "name": "Maxmo Apotheke Kaufland Düren"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "https://weed.de/apotheke/yolosvath-2",
+            "name": "Yolosvath"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "url": "https://weed.de/apotheke/collini-medflower-collini-apotheke-mannheim",
+            "name": "Collini-Medflower (Collini-Apotheke Mannheim)"
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "url": "https://weed.de/apotheke/getkong",
+            "name": "GETKONG"
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "url": "https://weed.de/apotheke/test-2",
+            "name": "test"
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "url": "https://weed.de/apotheke/zeppelin-apotheke",
+            "name": "Zeppelin-Apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 10,
+            "url": "https://weed.de/apotheke/cannabis-apotheke-gronau-1",
+            "name": "Cannabis-Apotheke-Gronau"
+          },
+          {
+            "@type": "ListItem",
+            "position": 11,
+            "url": "https://weed.de/apotheke/stern-apotheke",
+            "name": "Stern-Apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 12,
+            "url": "https://weed.de/apotheke/jannik",
+            "name": "jannik"
+          },
+          {
+            "@type": "ListItem",
+            "position": 13,
+            "url": "https://weed.de/apotheke/conex",
+            "name": "CONEX"
+          },
+          {
+            "@type": "ListItem",
+            "position": 14,
+            "url": "https://weed.de/apotheke/adler-apotheke-4",
+            "name": "Adler Apotheke "
+          },
+          {
+            "@type": "ListItem",
+            "position": 15,
+            "url": "https://weed.de/apotheke/kleeblatt-apotheken-in-duesseldorf-heerdt",
+            "name": "Kleeblatt Apotheken in Düsseldorf Heerdt"
+          },
+          {
+            "@type": "ListItem",
+            "position": 16,
+            "url": "https://weed.de/apotheke/baeren-apotheke-3",
+            "name": "Bären Apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 17,
+            "url": "https://weed.de/apotheke/fuchs-apotheke",
+            "name": "fuchs apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 18,
+            "url": "https://weed.de/apotheke/neo-apotheke",
+            "name": "NEO Apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 19,
+            "url": "https://weed.de/apotheke/loewen-apotheke-2",
+            "name": "Löwen Apotheke"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "pharmacies": [
+      {
+        "href": "/apotheke/salus-apotheke-1",
+        "text": "SALUS Apotheke",
+        "title": "SALUS Apotheke in Unknown"
+      },
+      {
+        "href": "/apotheke/1-apotheke",
+        "text": "+1 Apotheke",
+        "title": "+1 Apotheke in Unknown"
+      },
+      {
+        "href": "/apotheke/alte-rats-apotheke-ohg",
+        "text": "Alte Rats-Apotheke OHG",
+        "title": "Alte Rats-Apotheke OHG in Unknown"
+      },
+      {
+        "href": "/apotheke/maxmo-apotheke-kaufland-dueren",
+        "text": "Maxmo Apotheke Kaufland Düren",
+        "title": "Maxmo Apotheke Kaufland Düren in Unknown"
+      },
+      {
+        "href": "/apotheke/yolosvath-2",
+        "text": "Yolosvath",
+        "title": "Yolosvath in Unknown"
+      },
+      {
+        "href": "/apotheke/collini-medflower-collini-apotheke-mannheim",
+        "text": "Collini-Medflower (Collini-Apotheke Mannheim)",
+        "title": "Collini-Medflower (Collini-Apotheke Mannheim) in Unknown"
+      },
+      {
+        "href": "/apotheke/getkong",
+        "text": "GETKONG",
+        "title": "GETKONG in Unknown"
+      },
+      {
+        "href": "/apotheke/test-2",
+        "text": "test",
+        "title": "test in Unknown"
+      },
+      {
+        "href": "/apotheke/zeppelin-apotheke",
+        "text": "Zeppelin-Apotheke",
+        "title": "Zeppelin-Apotheke in Unknown"
+      },
+      {
+        "href": "/apotheke/cannabis-apotheke-gronau-1",
+        "text": "Cannabis-Apotheke-Gronau",
+        "title": "Cannabis-Apotheke-Gronau in Unknown"
+      }
+    ],
+    "nearbyCities": []
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has 19 pharmacies"
+  }
+}

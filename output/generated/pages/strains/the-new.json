@@ -1,0 +1,252 @@
+{
+  "strain": {
+    "slug": "the-new",
+    "name": "The New",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [
+      "Happy",
+      "Relaxed",
+      "Mood-lifting",
+      "Pain-relief",
+      "Stress-relief"
+    ],
+    "tastes": [
+      "Diesel",
+      "Sweet",
+      "Earthy",
+      "Cookies",
+      "Citrus",
+      "Flowery"
+    ],
+    "terpenes": [
+      "Germacrene",
+      "Myrcene",
+      "Linalool",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "The New ist eine Indica-dominante Hybridsorte, die in prestigeträchtiger Zusammenarbeit zwischen Sherbinski und der Humboldt Seeds Organization aus der Kreuzung von Girl Scout Cookies und Larry OG entstanden ist. Mit einem THC-Gehalt von typischerweise 18 % bis 25 % und einem CBD-Wert von unter 0,1 % liefert sie potente Effekte, die auf einer preisgekrönten Genetik basieren. \n\nIhr komplexes Geschmacksprofil ist geprägt von einem Cookie-typischen süßen und leicht erdigen Geschmack, der durch einen Hauch von Zimt und Petrol verfeinert wird. Das Terpenprofil, das von Germacrene, Myrcen und Linalool dominiert wird, enthält zusätzlich auch Limonen und Beta-Caryophyllen, was das Aroma mit blumigen, zitrusartigen und würzigen Nuancen unterstreicht. \n\nDie Wirkung ist stimmungsaufhellend und führt zu einer tiefen körperlichen Entspannung und Beruhigung. The New ist ideal zur Linderung von chronischen Schmerzen, Stress und Depressionen, da sie ein Gefühl von Glück und Gelassenheit fördert. Zusammengefasst ist The New eine Sorte für alle, die ein exklusives Diesel-Cookie-Aroma mit einem potenten, tief entspannenden und glücklich machenden High suchen.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 600,
+      "max": 899,
+      "formatted": {
+        "min": "6,00 €",
+        "max": "8,99 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "patagonia-plus-tn",
+      "name": "Patagonia Plus TN",
+      "brandName": "Cantourage",
+      "thcPercent": 25,
+      "priceMin": 600,
+      "inStock": true
+    },
+    {
+      "slug": "sibanax-the-new-181",
+      "name": "Sibanax The New 18/1",
+      "brandName": "Heyday",
+      "thcPercent": 18,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "frosted-cookies",
+      "name": "Frosted Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "tigerz-eye",
+      "name": "Tigerz Eye",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "alien-mints",
+      "name": "Alien Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "hawaiian-rain-x-permanent-marker",
+      "name": "Hawaiian Rain X Permanent Marker",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "garlic-chem",
+      "name": "Garlic Chem",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "The New (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "The New: Happy, Relaxed, Mood-lifting. 2 Produkte verfügbar. ab 6,00 €.",
+      "canonical": "https://weed.de/strain/the-new",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "The New (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "The New: Happy, Relaxed, Mood-lifting. 2 Produkte verfügbar. ab 6,00 €.",
+        "url": "https://weed.de/strain/the-new",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "The New",
+        "href": "https://weed.de/strain/the-new"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "The New",
+            "item": "https://weed.de/strain/the-new"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "The New Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/patagonia-plus-tn",
+            "name": "Patagonia Plus TN"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/sibanax-the-new-181",
+            "name": "Sibanax The New 18/1"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/patagonia-plus-tn",
+        "text": "Patagonia Plus TN",
+        "title": "Patagonia Plus TN von Cantourage"
+      },
+      {
+        "href": "/product/sibanax-the-new-181",
+        "text": "Sibanax The New 18/1",
+        "title": "Sibanax The New 18/1 von Heyday"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/frosted-cookies",
+        "text": "Frosted Cookies",
+        "title": "Frosted Cookies - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/tigerz-eye",
+        "text": "Tigerz Eye",
+        "title": "Tigerz Eye - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/alien-mints",
+        "text": "Alien Mints",
+        "title": "Alien Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/hawaiian-rain-x-permanent-marker",
+        "text": "Hawaiian Rain X Permanent Marker",
+        "title": "Hawaiian Rain X Permanent Marker - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/garlic-chem",
+        "text": "Garlic Chem",
+        "title": "Garlic Chem - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/germacrene",
+        "text": "Germacrene",
+        "title": "Germacrene Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

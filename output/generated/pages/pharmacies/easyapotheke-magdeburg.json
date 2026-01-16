@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "easyapotheke-magdeburg",
+    "name": "easyApotheke Magdeburg",
+    "street": "Lübecker Straße",
+    "zip": "39124",
+    "cityName": "Magdeburg",
+    "state": "Sachsen-Anhalt",
+    "lat": 52.1571313,
+    "lng": 11.6363338,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://luebecker-strasse.easyapotheken.de",
+    "phone": "039128887570",
+    "email": "luebecker-strasse@easyapotheken.de",
+    "productCount": 32,
+    "rating": 5,
+    "ratingCount": 2,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/681dd6c65103dc023422816a-6iiffe.jpg"
+  },
+  "city": {
+    "slug": "magdeburg",
+    "name": "Magdeburg",
+    "pharmacyCount": 2
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "kaiser-otto-apotheke",
+      "name": "Kaiser Otto Apotheke",
+      "cityName": "Magdeburg",
+      "productCount": 0,
+      "hasDelivery": false
+    },
+    {
+      "slug": "cannaroko-oder-robert-koch-apotheke-wolfen",
+      "name": "CannaRoKo | Robert-Koch-Apotheke Wolfen",
+      "cityName": "Bitterfeld-Wolfen",
+      "productCount": 80,
+      "hasDelivery": true
+    },
+    {
+      "slug": "hirsch-apotheke-1",
+      "name": "Cannasana",
+      "cityName": "Hohe Börde",
+      "productCount": 66,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-am-collegienhof",
+      "name": "Elbgrün",
+      "cityName": "Lutherstadt Wittenberg",
+      "productCount": 43,
+      "hasDelivery": true
+    },
+    {
+      "slug": "rosen-apotheke-eisleben",
+      "name": "Rosen Apotheke Eisleben",
+      "cityName": "Lutherstadt Eisleben",
+      "productCount": 25,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "easyApotheke Magdeburg - Cannabis Apotheke in Magdeburg",
+      "description": "easyApotheke Magdeburg in Magdeburg. 32 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/easyapotheke-magdeburg",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "easyApotheke Magdeburg - Cannabis Apotheke in Magdeburg",
+        "description": "easyApotheke Magdeburg in Magdeburg. 32 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/easyapotheke-magdeburg",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/681dd6c65103dc023422816a-6iiffe.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Magdeburg",
+        "href": "https://weed.de/cannabis-apotheke/magdeburg"
+      },
+      {
+        "name": "easyApotheke Magdeburg",
+        "href": "https://weed.de/apotheke/easyapotheke-magdeburg"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Magdeburg",
+            "item": "https://weed.de/cannabis-apotheke/magdeburg"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "easyApotheke Magdeburg",
+            "item": "https://weed.de/apotheke/easyapotheke-magdeburg"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "easyApotheke Magdeburg",
+        "url": "https://weed.de/apotheke/easyapotheke-magdeburg",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Lübecker Straße",
+          "addressLocality": "Magdeburg",
+          "postalCode": "39124",
+          "addressRegion": "Sachsen-Anhalt",
+          "addressCountry": "DE"
+        },
+        "telephone": "039128887570",
+        "email": "luebecker-strasse@easyapotheken.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/magdeburg",
+      "text": "Cannabis Apotheken in Magdeburg",
+      "title": "Alle Apotheken in Magdeburg"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/kaiser-otto-apotheke",
+        "text": "Kaiser Otto Apotheke",
+        "title": "Kaiser Otto Apotheke in Magdeburg"
+      },
+      {
+        "href": "/apotheke/cannaroko-oder-robert-koch-apotheke-wolfen",
+        "text": "CannaRoKo | Robert-Koch-Apotheke Wolfen",
+        "title": "CannaRoKo | Robert-Koch-Apotheke Wolfen in Bitterfeld-Wolfen"
+      },
+      {
+        "href": "/apotheke/hirsch-apotheke-1",
+        "text": "Cannasana",
+        "title": "Cannasana in Hohe Börde"
+      },
+      {
+        "href": "/apotheke/apotheke-am-collegienhof",
+        "text": "Elbgrün",
+        "title": "Elbgrün in Lutherstadt Wittenberg"
+      },
+      {
+        "href": "/apotheke/rosen-apotheke-eisleben",
+        "text": "Rosen Apotheke Eisleben",
+        "title": "Rosen Apotheke Eisleben in Lutherstadt Eisleben"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

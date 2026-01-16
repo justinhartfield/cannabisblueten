@@ -1,0 +1,247 @@
+{
+  "strain": {
+    "slug": "cappuccino",
+    "name": "Cappuccino",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [
+      "Creative",
+      "Euphoric",
+      "Relaxed",
+      "Calming",
+      "Headache"
+    ],
+    "tastes": [
+      "Sweet",
+      "Spicy",
+      "Creamy",
+      "Coffee",
+      "Fresh",
+      "Earthy",
+      "Tangy"
+    ],
+    "terpenes": [
+      "Pinene",
+      "Limonene",
+      "Humulene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "Cappuccino ist eine Sativa-dominante Hybridsorte, die aus der Kreuzung der Elternsorten Espresso und 4516 gezüchtet wurde. Mit einem THC-Gehalt von typischerweise 21 % bis 25 % und einem CBD-Wert von unter 1 % liefert sie potente Effekte, die sowohl geistig anregend als auch körperlich beruhigend wirken. \n\nIhr aromatisches Profil entspricht ihrem Namensvetter und zeichnet sich durch eine cremig-süße Espresso-Note aus, die am Gaumen verweilt. Das Terpenprofil, das von Pinen, Limonen und Beta-Caryophyllen dominiert wird, enthält zusätzlich auch Humulen, was das Aroma mit würzigen, frischen und erdigen Nuancen unterstreicht. \n\nDie Wirkung wird als beruhigend und euphorisch auf Körper und Geist beschrieben, was die Sorte zu einer hervorragenden Begleitung für kreative Vorhaben macht. Cappuccino ist ideal zur Linderung von Übelkeit, Migräne und ADHS, da sie die rauen Kanten des Tages glättet und gleichzeitig entspannt. Zusammengefasst ist Cappuccino eine Sorte für alle, die ein süßes Kaffee-Aroma mit einem potenten, kreativen und ausgleichenden High suchen.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 619,
+      "max": 619,
+      "formatted": {
+        "min": "6,19 €",
+        "max": "6,19 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "grunhorn-cpc-251",
+      "name": "Grünhorn CPC 25/1",
+      "brandName": "Grünhorn",
+      "thcPercent": 25,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "bc-green-201-cpc",
+      "name": "BC Green 20/1 CPC",
+      "brandName": "BC Green",
+      "thcPercent": 21,
+      "priceMin": 619,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "purple-ice-water",
+      "name": "Purple Ice Water",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "octagon-kush",
+      "name": "Octagon Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "auto-kerosene-krash",
+      "name": "Auto Kerosene Krash",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "dirty-taxi",
+      "name": "Dirty Taxi",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "super-lemon-haze",
+      "name": "Super Lemon Haze",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cappuccino (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Cappuccino: Creative, Euphoric, Relaxed. 2 Produkte verfügbar. ab 6,19 €.",
+      "canonical": "https://weed.de/strain/cappuccino",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cappuccino (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Cappuccino: Creative, Euphoric, Relaxed. 2 Produkte verfügbar. ab 6,19 €.",
+        "url": "https://weed.de/strain/cappuccino",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Cappuccino",
+        "href": "https://weed.de/strain/cappuccino"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Cappuccino",
+            "item": "https://weed.de/strain/cappuccino"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Cappuccino Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/grunhorn-cpc-251",
+            "name": "Grünhorn CPC 25/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/bc-green-201-cpc",
+            "name": "BC Green 20/1 CPC"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/grunhorn-cpc-251",
+        "text": "Grünhorn CPC 25/1",
+        "title": "Grünhorn CPC 25/1 von Grünhorn"
+      },
+      {
+        "href": "/product/bc-green-201-cpc",
+        "text": "BC Green 20/1 CPC",
+        "title": "BC Green 20/1 CPC von BC Green"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/purple-ice-water",
+        "text": "Purple Ice Water",
+        "title": "Purple Ice Water - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/octagon-kush",
+        "text": "Octagon Kush",
+        "title": "Octagon Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/auto-kerosene-krash",
+        "text": "Auto Kerosene Krash",
+        "title": "Auto Kerosene Krash - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/dirty-taxi",
+        "text": "Dirty Taxi",
+        "title": "Dirty Taxi - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/super-lemon-haze",
+        "text": "Super Lemon Haze",
+        "title": "Super Lemon Haze - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/pinene",
+        "text": "Pinene",
+        "title": "Pinene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/humulene",
+        "text": "Humulene",
+        "title": "Humulene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

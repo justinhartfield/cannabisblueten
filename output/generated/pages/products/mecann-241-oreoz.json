@@ -1,0 +1,227 @@
+{
+  "product": {
+    "slug": "mecann-241-oreoz",
+    "name": "MeCann 24/1 Oreoz",
+    "type": "flower",
+    "genetics": "indica",
+    "thcPercent": 24,
+    "cbdPercent": 1,
+    "priceMin": 418,
+    "priceMax": 838,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Tschechische Republik",
+    "imageUrl": "https://weed.de/products/mecann-241-oreoz-h6gd55.png"
+  },
+  "brand": {
+    "slug": "mecann",
+    "name": "MeCann",
+    "productCount": 3
+  },
+  "strain": {
+    "slug": "oreoz",
+    "name": "Oreoz",
+    "geneticType": "hybrid",
+    "effects": [
+      "Happy",
+      "Relaxed",
+      "Hungry"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Myrcene",
+      "Limonene",
+      "Nerolidol"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Happy",
+      "Relaxed",
+      "Hungry"
+    ],
+    "tastes": [
+      "Diesel",
+      "Vanilla",
+      "Tobacco"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Myrcene",
+      "Limonene",
+      "Nerolidol"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "aurora-thc-25-cannabis-extract",
+      "name": "Aurora THC 25 Cannabis Extract",
+      "brandName": "Cansativa",
+      "thcPercent": 2.5,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "adven-cannabisextrakt-thc-20",
+      "name": "Adven Cannabisextrakt THC 20",
+      "brandName": "Adven",
+      "thcPercent": 2,
+      "priceMin": 476,
+      "inStock": true
+    },
+    {
+      "slug": "adven-cannabisextrakt-thc-10-cbd-10",
+      "name": "Adven Cannabisextrakt THC 10 CBD 10",
+      "brandName": "Adven",
+      "thcPercent": 10,
+      "priceMin": 560,
+      "inStock": true
+    },
+    {
+      "slug": "mc-regular-drop-secret-weapon-x-cookies-n-cream",
+      "name": "MC Regular Drop Secret Weapon X Cookies n Cream",
+      "brandName": "Demecan",
+      "thcPercent": 25,
+      "priceMin": 590,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-1",
+      "name": "Demecan Typ 1",
+      "brandName": "Demecan",
+      "thcPercent": 21,
+      "priceMin": 694,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-indica-forte-ej",
+      "name": "Cannamedical Indica forte EJ",
+      "brandName": "Cannamedical",
+      "thcPercent": 24,
+      "priceMin": 700,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "MeCann 24/1 Oreoz | ab 4,18 €",
+      "description": "MeCann 24/1 Oreoz von MeCann. THC: 24%, CBD: 1%. Sorte: Oreoz. Preis ab 4,18 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/mecann-241-oreoz",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "MeCann 24/1 Oreoz | ab 4,18 €",
+        "description": "MeCann 24/1 Oreoz von MeCann. THC: 24%, CBD: 1%. Sorte: Oreoz. Preis ab 4,18 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/mecann-241-oreoz",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/mecann-241-oreoz-h6gd55.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "MeCann",
+        "href": "https://weed.de/brand/mecann"
+      },
+      {
+        "name": "MeCann 24/1 Oreoz",
+        "href": "https://weed.de/product/mecann-241-oreoz"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "MeCann 24/1 Oreoz",
+            "item": "https://weed.de/product/mecann-241-oreoz"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "MeCann 24/1 Oreoz",
+        "brand": {
+          "@type": "Brand",
+          "name": "MeCann"
+        },
+        "description": "THC: 24%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/oreoz",
+      "text": "Oreoz",
+      "title": "Oreoz Sorte"
+    },
+    "brand": {
+      "href": "/brand/mecann",
+      "text": "MeCann",
+      "title": "Alle MeCann Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/aurora-thc-25-cannabis-extract",
+        "text": "Aurora THC 25 Cannabis Extract",
+        "title": "Alternative: Aurora THC 25 Cannabis Extract"
+      },
+      {
+        "href": "/product/adven-cannabisextrakt-thc-20",
+        "text": "Adven Cannabisextrakt THC 20",
+        "title": "Alternative: Adven Cannabisextrakt THC 20"
+      },
+      {
+        "href": "/product/adven-cannabisextrakt-thc-10-cbd-10",
+        "text": "Adven Cannabisextrakt THC 10 CBD 10",
+        "title": "Alternative: Adven Cannabisextrakt THC 10 CBD 10"
+      },
+      {
+        "href": "/product/mc-regular-drop-secret-weapon-x-cookies-n-cream",
+        "text": "MC Regular Drop Secret Weapon X Cookies n Cream",
+        "title": "Alternative: MC Regular Drop Secret Weapon X Cookies n Cream"
+      },
+      {
+        "href": "/product/demecan-typ-1",
+        "text": "Demecan Typ 1",
+        "title": "Alternative: Demecan Typ 1"
+      },
+      {
+        "href": "/product/cannamedical-indica-forte-ej",
+        "text": "Cannamedical Indica forte EJ",
+        "title": "Alternative: Cannamedical Indica forte EJ"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

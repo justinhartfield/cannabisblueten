@@ -1,0 +1,224 @@
+{
+  "product": {
+    "slug": "imc-kau-thc28",
+    "name": "IMC KAU THC28",
+    "type": "flower",
+    "genetics": "indica",
+    "thcPercent": 25,
+    "cbdPercent": 1,
+    "priceMin": 388,
+    "priceMax": 388,
+    "inStock": false,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "imc",
+    "name": "IMC",
+    "productCount": 128
+  },
+  "strain": {
+    "slug": "pink-kush",
+    "name": "Pink Kush",
+    "geneticType": "indica",
+    "effects": [
+      "Euphoric",
+      "Body-High",
+      "Meditative"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Caryophyllene",
+      "Limonene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Euphoric",
+      "Body-High",
+      "Meditative"
+    ],
+    "tastes": [
+      "Earthy",
+      "Sweet",
+      "Vanilla"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Caryophyllene",
+      "Limonene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "beacon-cannabisextrakt-11",
+      "name": "Beacon Cannabisextrakt 10:10",
+      "brandName": "Adrexpharma",
+      "thcPercent": 10,
+      "priceMin": 149,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-thc-18-spotlight-porto-pk",
+      "name": "Tilray THC 18 Spotlight Porto PK",
+      "brandName": "Tilray",
+      "thcPercent": 18,
+      "priceMin": 299,
+      "inStock": true
+    },
+    {
+      "slug": "enua-221-db-ca",
+      "name": "enua 22/1 DB CA",
+      "brandName": "enua",
+      "thcPercent": 22,
+      "priceMin": 369,
+      "inStock": true
+    },
+    {
+      "slug": "enua-21-db-ca",
+      "name": "enua 20/1 DB CA",
+      "brandName": "enua",
+      "thcPercent": 20,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "canify-cannabis-flos-231-pt-ku-pk",
+      "name": "Canify Cannabis flos 23/1 PT Ku. PK",
+      "brandName": "Canify",
+      "thcPercent": 23,
+      "priceMin": 399,
+      "inStock": true
+    },
+    {
+      "slug": "wellford-aquaponic-231-pik",
+      "name": "Wellford Aquaponic 23/1 PIK",
+      "brandName": "Therismos",
+      "thcPercent": 23,
+      "priceMin": 485,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "IMC KAU THC28 | ab 3,88 €",
+      "description": "IMC KAU THC28 von IMC. THC: 25%, CBD: 1%. Sorte: Pink Kush. Preis ab 3,88 €. Preise vergleichen.",
+      "canonical": "https://weed.de/product/imc-kau-thc28",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "IMC KAU THC28 | ab 3,88 €",
+        "description": "IMC KAU THC28 von IMC. THC: 25%, CBD: 1%. Sorte: Pink Kush. Preis ab 3,88 €. Preise vergleichen.",
+        "url": "https://weed.de/product/imc-kau-thc28",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "IMC",
+        "href": "https://weed.de/brand/imc"
+      },
+      {
+        "name": "IMC KAU THC28",
+        "href": "https://weed.de/product/imc-kau-thc28"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "IMC KAU THC28",
+            "item": "https://weed.de/product/imc-kau-thc28"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "IMC KAU THC28",
+        "brand": {
+          "@type": "Brand",
+          "name": "IMC"
+        },
+        "description": "THC: 25%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/pink-kush",
+      "text": "Pink Kush",
+      "title": "Pink Kush Sorte"
+    },
+    "brand": {
+      "href": "/brand/imc",
+      "text": "IMC",
+      "title": "Alle IMC Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/beacon-cannabisextrakt-11",
+        "text": "Beacon Cannabisextrakt 10:10",
+        "title": "Alternative: Beacon Cannabisextrakt 10:10"
+      },
+      {
+        "href": "/product/tilray-thc-18-spotlight-porto-pk",
+        "text": "Tilray THC 18 Spotlight Porto PK",
+        "title": "Alternative: Tilray THC 18 Spotlight Porto PK"
+      },
+      {
+        "href": "/product/enua-221-db-ca",
+        "text": "enua 22/1 DB CA",
+        "title": "Alternative: enua 22/1 DB CA"
+      },
+      {
+        "href": "/product/enua-21-db-ca",
+        "text": "enua 20/1 DB CA",
+        "title": "Alternative: enua 20/1 DB CA"
+      },
+      {
+        "href": "/product/canify-cannabis-flos-231-pt-ku-pk",
+        "text": "Canify Cannabis flos 23/1 PT Ku. PK",
+        "title": "Alternative: Canify Cannabis flos 23/1 PT Ku. PK"
+      },
+      {
+        "href": "/product/wellford-aquaponic-231-pik",
+        "text": "Wellford Aquaponic 23/1 PIK",
+        "title": "Alternative: Wellford Aquaponic 23/1 PIK"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has price data"
+  }
+}

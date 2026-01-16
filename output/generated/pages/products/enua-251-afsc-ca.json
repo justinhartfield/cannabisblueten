@@ -1,0 +1,243 @@
+{
+  "product": {
+    "slug": "enua-251-afsc-ca",
+    "name": "enua 25/1 AFSC CA",
+    "type": "flower",
+    "genetics": "hybrid",
+    "thcPercent": 25,
+    "cbdPercent": 1,
+    "priceMin": 800,
+    "priceMax": 800,
+    "inStock": false,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": "https://weed.de/products/enua-251-afsc-ca-70855d.png"
+  },
+  "brand": {
+    "slug": "enua",
+    "name": "enua",
+    "productCount": 123
+  },
+  "strain": {
+    "slug": "animal-face-sherb-crasher",
+    "name": "Animal Face Sherb Crasher",
+    "geneticType": "hybrid",
+    "effects": [
+      "Creative",
+      "Euphoric",
+      "Sociable",
+      "Strong",
+      "Stimulating",
+      "Stress-relief",
+      "Pain-relief",
+      "Anxiety-reducing",
+      "Balanced",
+      "Couch-lock"
+    ],
+    "terpenes": [
+      "Linalool",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Creative",
+      "Euphoric",
+      "Sociable",
+      "Strong",
+      "Stimulating",
+      "Stress-relief",
+      "Pain-relief",
+      "Anxiety-reducing",
+      "Balanced",
+      "Couch-lock"
+    ],
+    "tastes": [
+      "Diesel",
+      "Pine",
+      "Earthy",
+      "Sweet",
+      "Fruity",
+      "Nutty",
+      "Creamy"
+    ],
+    "terpenes": [
+      "Linalool",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "tilray-thc-25-spotlight-porto-purps",
+      "name": "Tilray THC 25 Spotlight Porto Purps",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": 349,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc5cbd2",
+      "name": "Tilray Cannabisextrakt THC5:CBD20",
+      "brandName": "Tilray",
+      "thcPercent": 5,
+      "priceMin": 350,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc1cbd1",
+      "name": "Tilray Cannabisextrakt THC10:CBD10",
+      "brandName": "Tilray",
+      "thcPercent": 10,
+      "priceMin": 400,
+      "inStock": true
+    },
+    {
+      "slug": "enua-221-afsc-ca",
+      "name": "enua 22/1 AFSC CA",
+      "brandName": "enua",
+      "thcPercent": 22,
+      "priceMin": 499,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-2",
+      "name": "Demecan Typ 2",
+      "brandName": "Demecan",
+      "thcPercent": 16,
+      "priceMin": 533,
+      "inStock": true
+    },
+    {
+      "slug": "khiron-191-gelato",
+      "name": "Khiron 19/1 Gelato",
+      "brandName": "Khiron",
+      "thcPercent": 17.6,
+      "priceMin": 638,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "enua 25/1 AFSC CA | ab 8,00 €",
+      "description": "enua 25/1 AFSC CA von enua. THC: 25%, CBD: 1%. Sorte: Animal Face Sherb Crasher. Preis ab 8,00 €. Preise vergleichen.",
+      "canonical": "https://weed.de/product/enua-251-afsc-ca",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "enua 25/1 AFSC CA | ab 8,00 €",
+        "description": "enua 25/1 AFSC CA von enua. THC: 25%, CBD: 1%. Sorte: Animal Face Sherb Crasher. Preis ab 8,00 €. Preise vergleichen.",
+        "url": "https://weed.de/product/enua-251-afsc-ca",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/enua-251-afsc-ca-70855d.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "enua",
+        "href": "https://weed.de/brand/enua"
+      },
+      {
+        "name": "enua 25/1 AFSC CA",
+        "href": "https://weed.de/product/enua-251-afsc-ca"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "enua 25/1 AFSC CA",
+            "item": "https://weed.de/product/enua-251-afsc-ca"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "enua 25/1 AFSC CA",
+        "brand": {
+          "@type": "Brand",
+          "name": "enua"
+        },
+        "description": "THC: 25%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/animal-face-sherb-crasher",
+      "text": "Animal Face Sherb Crasher",
+      "title": "Animal Face Sherb Crasher Sorte"
+    },
+    "brand": {
+      "href": "/brand/enua",
+      "text": "enua",
+      "title": "Alle enua Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/tilray-thc-25-spotlight-porto-purps",
+        "text": "Tilray THC 25 Spotlight Porto Purps",
+        "title": "Alternative: Tilray THC 25 Spotlight Porto Purps"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc5cbd2",
+        "text": "Tilray Cannabisextrakt THC5:CBD20",
+        "title": "Alternative: Tilray Cannabisextrakt THC5:CBD20"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc1cbd1",
+        "text": "Tilray Cannabisextrakt THC10:CBD10",
+        "title": "Alternative: Tilray Cannabisextrakt THC10:CBD10"
+      },
+      {
+        "href": "/product/enua-221-afsc-ca",
+        "text": "enua 22/1 AFSC CA",
+        "title": "Alternative: enua 22/1 AFSC CA"
+      },
+      {
+        "href": "/product/demecan-typ-2",
+        "text": "Demecan Typ 2",
+        "title": "Alternative: Demecan Typ 2"
+      },
+      {
+        "href": "/product/khiron-191-gelato",
+        "text": "Khiron 19/1 Gelato",
+        "title": "Alternative: Khiron 19/1 Gelato"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has price data"
+  }
+}

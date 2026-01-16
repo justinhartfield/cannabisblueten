@@ -1,0 +1,238 @@
+{
+  "strain": {
+    "slug": "fiestaz",
+    "name": "Fiestaz",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Euphoric",
+      "Happy",
+      "Creative",
+      "Sociable",
+      "Relaxed",
+      "Anxiety-reducing",
+      "Stress-relief",
+      "Activating"
+    ],
+    "tastes": [
+      "Candy",
+      "Sweet",
+      "Tropical",
+      "Fruity",
+      "Floral",
+      "Gassy",
+      "Tangy",
+      "Citrus"
+    ],
+    "terpenes": [
+      "Selinadien",
+      "Limonene",
+      "Linalool",
+      "Myrcene",
+      "Caryophyllene"
+    ],
+    "description": "Fiestaz ist eine ausgewogene Hybrid-Sorte, entstanden aus der Kreuzung der Kultivare Ripz und RS11 (Rainbow Sherbet #11). Mit einem hohen THC-Gehalt von typischerweise 25% und einem CBD-Wert von etwa 1% liefert sie kraftvolle Effekte, die sowohl entspannend als auch erhebend wirken. \nIhr komplexes Geschmacksprofil ist geprägt von tropischen Früchten, Süßigkeiten und Minze, was ein vielschichtiges Erlebnis schafft.Ihr komplexes Geschmacksprofil ist geprägt von süßlichen, bonbonartigen Noten, tropischen Fruchtaromen und einem feinen gasigen Einschlag, der an Benzin erinnert. Das Terpenprofil, das von Limonen, Caryophyllen und Myrcen dominiert wird, enthält zusätzlich auch Linalool und Selinadiene, was das Aroma mit erhebenden Zitrusnoten, würzigen und floralen Nuancen unterstreicht. \nDie Wirkung setzt schnell mit einem euphorisierenden Kopf-High ein, das Glücksgefühle, Kreativität und Geselligkeit steigert. Im weiteren Verlauf setzt eine angenehm körperlich entspannende Komponente ein, die muskuläre Spannung sanft löst und zu tiefer Zufriedenheit führt. Fiestaz ist eine hervorragende Wahl zur Linderung von Stress, Angstzuständen und zur Unterstützung bei Depressionen. Zusammengefasst ist Fiestaz eine Sorte für alle, die ein intensives, süß-tropisches Aroma mit einem potenten, geistig aktivierenden und zugleich körperlich entspannenden High suchen.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 1250,
+      "max": 1250,
+      "formatted": {
+        "min": "12,50 €",
+        "max": "12,50 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "241-iuvo-oc-fiestaz",
+      "name": "24/1 IUVO OC Fiestaz",
+      "brandName": "Iuvo",
+      "thcPercent": 25,
+      "priceMin": 1250,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "mochellow",
+      "name": "Mochellow",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "candy-fumez",
+      "name": "Candy Fumez",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "pink-grapes",
+      "name": "Pink Grapes",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "tribute",
+      "name": "Tribute 7",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "black-kush",
+      "name": "Black Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Fiestaz (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Fiestaz: Euphoric, Happy, Creative. 1 Produkte verfügbar. ab 12,50 €.",
+      "canonical": "https://weed.de/strain/fiestaz",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Fiestaz (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Fiestaz: Euphoric, Happy, Creative. 1 Produkte verfügbar. ab 12,50 €.",
+        "url": "https://weed.de/strain/fiestaz",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Fiestaz",
+        "href": "https://weed.de/strain/fiestaz"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Fiestaz",
+            "item": "https://weed.de/strain/fiestaz"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Fiestaz Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/241-iuvo-oc-fiestaz",
+            "name": "24/1 IUVO OC Fiestaz"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/241-iuvo-oc-fiestaz",
+        "text": "24/1 IUVO OC Fiestaz",
+        "title": "24/1 IUVO OC Fiestaz von Iuvo"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/mochellow",
+        "text": "Mochellow",
+        "title": "Mochellow - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/candy-fumez",
+        "text": "Candy Fumez",
+        "title": "Candy Fumez - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/pink-grapes",
+        "text": "Pink Grapes",
+        "title": "Pink Grapes - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/tribute",
+        "text": "Tribute 7",
+        "title": "Tribute 7 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/black-kush",
+        "text": "Black Kush",
+        "title": "Black Kush - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/selinadien",
+        "text": "Selinadien",
+        "title": "Selinadien Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

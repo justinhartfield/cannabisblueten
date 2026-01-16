@@ -1,0 +1,241 @@
+{
+  "strain": {
+    "slug": "stolo-haze",
+    "name": "Stolo Haze",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": null,
+      "max": null
+    },
+    "effects": [
+      "Relaxed",
+      "Energetic",
+      "Euphoric"
+    ],
+    "tastes": [
+      "Pine",
+      "Earthy",
+      "Citrus"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Myrcene",
+      "Limonene",
+      "Humulene"
+    ],
+    "description": "Stolo Haze ist eine Hybrid-Cannabis-Sorte mit Sativa-Dominanz. Dieser Strain ist aus der Kreuzung von “Northern Lights” und “Super Silver Haze” hervorgegangen. Die THC-Werte liegen im Durchschnitt in einem Bereich zwischen 19% und 23%, während der CBD-Wert bei unter 1Caryophyllen, Myrcen, Humulen und Limonen. Diese sorgen für einen Geschmack, der von Nutzern als erdig, holzig und Zitrusartig beschrieben wird. Eine fokussierende, euphorisierende und energetische Wirkung, die einigen Erfahrungsberichten zufolge von Stolo Haze zu erwarten ist, lässt sich möglicherweise auf den höheren Sativa-Anteil in der Genetik zurückführen und spricht für eine Anwendung am Tage. Das Aussehen von Stolo Haze ist eher hell und durch bräunliche, lange Blütenhärchen, gepaart mit kristallinen Trichomenen geprägt. Für eine sativa dominante Sorte ist der Wuchs der Blüte recht kompakt.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 829,
+      "max": 829,
+      "formatted": {
+        "min": "8,29 €",
+        "max": "8,29 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "all-nations-sh-001",
+      "name": "ALL NATIONS SH-001",
+      "brandName": "Cantourage",
+      "thcPercent": 25,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "all-nations-sh-211",
+      "name": "All Nations SH 21/1",
+      "brandName": "Cantourage",
+      "thcPercent": 21,
+      "priceMin": 829,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "grease-monkey",
+      "name": "Grease Monkey",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "tiger-cake",
+      "name": "Tiger Cake",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "og-deluxe",
+      "name": "OG Deluxe",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "kush-mint",
+      "name": "Kush Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "alien-dawg",
+      "name": "Alien Dawg",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Stolo Haze (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Stolo Haze: Relaxed, Energetic, Euphoric. 2 Produkte verfügbar. ab 8,29 €.",
+      "canonical": "https://weed.de/strain/stolo-haze",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Stolo Haze (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Stolo Haze: Relaxed, Energetic, Euphoric. 2 Produkte verfügbar. ab 8,29 €.",
+        "url": "https://weed.de/strain/stolo-haze",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Stolo Haze",
+        "href": "https://weed.de/strain/stolo-haze"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Stolo Haze",
+            "item": "https://weed.de/strain/stolo-haze"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Stolo Haze Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/all-nations-sh-001",
+            "name": "ALL NATIONS SH-001"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/all-nations-sh-211",
+            "name": "All Nations SH 21/1"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/all-nations-sh-001",
+        "text": "ALL NATIONS SH-001",
+        "title": "ALL NATIONS SH-001 von Cantourage"
+      },
+      {
+        "href": "/product/all-nations-sh-211",
+        "text": "All Nations SH 21/1",
+        "title": "All Nations SH 21/1 von Cantourage"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/grease-monkey",
+        "text": "Grease Monkey",
+        "title": "Grease Monkey - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/tiger-cake",
+        "text": "Tiger Cake",
+        "title": "Tiger Cake - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/og-deluxe",
+        "text": "OG Deluxe",
+        "title": "OG Deluxe - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/kush-mint",
+        "text": "Kush Mints",
+        "title": "Kush Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/alien-dawg",
+        "text": "Alien Dawg",
+        "title": "Alien Dawg - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/humulene",
+        "text": "Humulene",
+        "title": "Humulene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

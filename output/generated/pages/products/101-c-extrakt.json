@@ -1,0 +1,226 @@
+{
+  "product": {
+    "slug": "101-c-extrakt",
+    "name": "101 C-Extrakt 50:0",
+    "type": "extract",
+    "genetics": "hybrid_indica",
+    "thcPercent": 5,
+    "cbdPercent": 0,
+    "priceMin": 1099,
+    "priceMax": 1299,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "N/A",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "heyday",
+    "name": "Heyday",
+    "productCount": 33
+  },
+  "strain": {
+    "slug": "ak47",
+    "name": "AK47",
+    "geneticType": "hybrid",
+    "effects": [
+      "Euphoric",
+      "Relaxed",
+      "Talkative",
+      "Happy"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Pinene",
+      "Caryophyllene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Euphoric",
+      "Relaxed",
+      "Talkative",
+      "Happy"
+    ],
+    "tastes": [
+      "Skunk",
+      "Spicy-Herbal",
+      "Tobacco"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Pinene",
+      "Caryophyllene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "enua-251-cck-ca",
+      "name": "enua 25/1 CCK CA",
+      "brandName": "enua",
+      "thcPercent": 25.2,
+      "priceMin": 399,
+      "inStock": true
+    },
+    {
+      "slug": "ceres-no-2",
+      "name": "Ceres No. 2",
+      "brandName": "Cantourage",
+      "thcPercent": 25,
+      "priceMin": 590,
+      "inStock": true
+    },
+    {
+      "slug": "sibanax-extrakt-2525",
+      "name": "Sibanax Extrakt 25/25",
+      "brandName": "Heyday",
+      "thcPercent": 25,
+      "priceMin": 599,
+      "inStock": true
+    },
+    {
+      "slug": "sibanax-extrakt-25",
+      "name": "Sibanax Extrakt 25/0",
+      "brandName": "Heyday",
+      "thcPercent": 25,
+      "priceMin": 649,
+      "inStock": true
+    },
+    {
+      "slug": "420-natural-221-gg4",
+      "name": "420 Natural 22/1 GG4",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 22,
+      "priceMin": 723,
+      "inStock": true
+    },
+    {
+      "slug": "avaay-241-did",
+      "name": "AVAAY 24/1 DiD",
+      "brandName": "Avaay",
+      "thcPercent": 24,
+      "priceMin": 949,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "101 C-Extrakt 50:0 - Heyday | ab 10,99 €",
+      "description": "101 C-Extrakt 50:0 von Heyday. THC: 5%, CBD: 0%. Sorte: AK47. Preis ab 10,99 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/101-c-extrakt",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "101 C-Extrakt 50:0 - Heyday | ab 10,99 €",
+        "description": "101 C-Extrakt 50:0 von Heyday. THC: 5%, CBD: 0%. Sorte: AK47. Preis ab 10,99 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/101-c-extrakt",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Heyday",
+        "href": "https://weed.de/brand/heyday"
+      },
+      {
+        "name": "101 C-Extrakt 50:0",
+        "href": "https://weed.de/product/101-c-extrakt"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "101 C-Extrakt 50:0",
+            "item": "https://weed.de/product/101-c-extrakt"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "101 C-Extrakt 50:0",
+        "brand": {
+          "@type": "Brand",
+          "name": "Heyday"
+        },
+        "description": "THC: 5%, CBD: 0%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/ak47",
+      "text": "AK47",
+      "title": "AK47 Sorte"
+    },
+    "brand": {
+      "href": "/brand/heyday",
+      "text": "Heyday",
+      "title": "Alle Heyday Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/enua-251-cck-ca",
+        "text": "enua 25/1 CCK CA",
+        "title": "Alternative: enua 25/1 CCK CA"
+      },
+      {
+        "href": "/product/ceres-no-2",
+        "text": "Ceres No. 2",
+        "title": "Alternative: Ceres No. 2"
+      },
+      {
+        "href": "/product/sibanax-extrakt-2525",
+        "text": "Sibanax Extrakt 25/25",
+        "title": "Alternative: Sibanax Extrakt 25/25"
+      },
+      {
+        "href": "/product/sibanax-extrakt-25",
+        "text": "Sibanax Extrakt 25/0",
+        "title": "Alternative: Sibanax Extrakt 25/0"
+      },
+      {
+        "href": "/product/420-natural-221-gg4",
+        "text": "420 Natural 22/1 GG4",
+        "title": "Alternative: 420 Natural 22/1 GG4"
+      },
+      {
+        "href": "/product/avaay-241-did",
+        "text": "AVAAY 24/1 DiD",
+        "title": "Alternative: AVAAY 24/1 DiD"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "pharmacy": {
+    "slug": "ginkgo-apotheke",
+    "name": "Ginkgo Apotheke",
+    "street": "Hermann-Pistor-Straße 33",
+    "zip": "07745",
+    "cityName": "Jena",
+    "state": "Thüringen",
+    "lat": 50.8988843,
+    "lng": 11.5732798,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "",
+    "phone": "03641603655",
+    "email": "cannamedjena@freenet.de",
+    "productCount": 7,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/6880d1b68b47764235ab362e-df4h2g.jpg"
+  },
+  "city": {
+    "slug": "jena",
+    "name": "Jena",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "cannalu",
+      "name": "cannalu.de",
+      "cityName": "Bad Berka",
+      "productCount": 44,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-am-zoopark",
+      "name": "green elephant weed",
+      "cityName": "Erfurt",
+      "productCount": 36,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannatilia",
+      "name": "Cannatilia",
+      "cityName": "Mühlhausen/Thüringen",
+      "productCount": 22,
+      "hasDelivery": true
+    },
+    {
+      "slug": "schloss-apotheke-2",
+      "name": "Schloss Apotheke",
+      "cityName": "Gebesee",
+      "productCount": 0,
+      "hasDelivery": false
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Ginkgo Apotheke - Cannabis Apotheke in Jena",
+      "description": "Ginkgo Apotheke in Jena. 7 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/ginkgo-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Ginkgo Apotheke - Cannabis Apotheke in Jena",
+        "description": "Ginkgo Apotheke in Jena. 7 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/ginkgo-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/6880d1b68b47764235ab362e-df4h2g.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Jena",
+        "href": "https://weed.de/cannabis-apotheke/jena"
+      },
+      {
+        "name": "Ginkgo Apotheke",
+        "href": "https://weed.de/apotheke/ginkgo-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Jena",
+            "item": "https://weed.de/cannabis-apotheke/jena"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Ginkgo Apotheke",
+            "item": "https://weed.de/apotheke/ginkgo-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Ginkgo Apotheke",
+        "url": "https://weed.de/apotheke/ginkgo-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Hermann-Pistor-Straße 33",
+          "addressLocality": "Jena",
+          "postalCode": "07745",
+          "addressRegion": "Thüringen",
+          "addressCountry": "DE"
+        },
+        "telephone": "03641603655",
+        "email": "cannamedjena@freenet.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/jena",
+      "text": "Cannabis Apotheken in Jena",
+      "title": "Alle Apotheken in Jena"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/cannalu",
+        "text": "cannalu.de",
+        "title": "cannalu.de in Bad Berka"
+      },
+      {
+        "href": "/apotheke/apotheke-am-zoopark",
+        "text": "green elephant weed",
+        "title": "green elephant weed in Erfurt"
+      },
+      {
+        "href": "/apotheke/cannatilia",
+        "text": "Cannatilia",
+        "title": "Cannatilia in Mühlhausen/Thüringen"
+      },
+      {
+        "href": "/apotheke/schloss-apotheke-2",
+        "text": "Schloss Apotheke",
+        "title": "Schloss Apotheke in Gebesee"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

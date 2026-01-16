@@ -1,0 +1,225 @@
+{
+  "product": {
+    "slug": "tikun-erez-21",
+    "name": "Tikun Erez 20/1",
+    "type": "flower",
+    "genetics": "indica",
+    "thcPercent": 21.9,
+    "cbdPercent": 1,
+    "priceMin": 499,
+    "priceMax": 995,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Griechenland",
+    "imageUrl": "https://weed.de/products/tikun-erez-21-ca4f2g.png"
+  },
+  "brand": {
+    "slug": "dopiopharm",
+    "name": "Dopiopharm",
+    "productCount": 6
+  },
+  "strain": {
+    "slug": "erez",
+    "name": "Erez",
+    "geneticType": "hybrid",
+    "effects": [
+      "Sleepy",
+      "Hungry",
+      "Relaxed"
+    ],
+    "terpenes": [
+      "Pinene",
+      "Humulene",
+      "Linalool"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Sleepy",
+      "Hungry",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Spicy-Herbal",
+      "Berry",
+      "Blueberry"
+    ],
+    "terpenes": [
+      "Pinene",
+      "Humulene",
+      "Linalool"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "aurora-thc-25-cannabis-extract",
+      "name": "Aurora THC 25 Cannabis Extract",
+      "brandName": "Cansativa",
+      "thcPercent": 2.5,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "adven-cannabisextrakt-thc-20",
+      "name": "Adven Cannabisextrakt THC 20",
+      "brandName": "Adven",
+      "thcPercent": 2,
+      "priceMin": 476,
+      "inStock": true
+    },
+    {
+      "slug": "adven-cannabisextrakt-thc-10-cbd-10",
+      "name": "Adven Cannabisextrakt THC 10 CBD 10",
+      "brandName": "Adven",
+      "thcPercent": 10,
+      "priceMin": 560,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-1",
+      "name": "Demecan Typ 1",
+      "brandName": "Demecan",
+      "thcPercent": 21,
+      "priceMin": 694,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-indica-forte-ej",
+      "name": "Cannamedical Indica forte EJ",
+      "brandName": "Cannamedical",
+      "thcPercent": 24,
+      "priceMin": 700,
+      "inStock": true
+    },
+    {
+      "slug": "251vayamed-cannabisextrakt",
+      "name": "25/1Vayamed Cannabisextrakt",
+      "brandName": "Vayamed",
+      "thcPercent": 2.5,
+      "priceMin": 824,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Tikun Erez 20/1 - Dopiopharm | ab 4,99 €",
+      "description": "Tikun Erez 20/1 von Dopiopharm. THC: 21.9%, CBD: 1%. Sorte: Erez. Preis ab 4,99 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/tikun-erez-21",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Tikun Erez 20/1 - Dopiopharm | ab 4,99 €",
+        "description": "Tikun Erez 20/1 von Dopiopharm. THC: 21.9%, CBD: 1%. Sorte: Erez. Preis ab 4,99 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/tikun-erez-21",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/tikun-erez-21-ca4f2g.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Dopiopharm",
+        "href": "https://weed.de/brand/dopiopharm"
+      },
+      {
+        "name": "Tikun Erez 20/1",
+        "href": "https://weed.de/product/tikun-erez-21"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Tikun Erez 20/1",
+            "item": "https://weed.de/product/tikun-erez-21"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Tikun Erez 20/1",
+        "brand": {
+          "@type": "Brand",
+          "name": "Dopiopharm"
+        },
+        "description": "THC: 21.9%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/erez",
+      "text": "Erez",
+      "title": "Erez Sorte"
+    },
+    "brand": {
+      "href": "/brand/dopiopharm",
+      "text": "Dopiopharm",
+      "title": "Alle Dopiopharm Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/aurora-thc-25-cannabis-extract",
+        "text": "Aurora THC 25 Cannabis Extract",
+        "title": "Alternative: Aurora THC 25 Cannabis Extract"
+      },
+      {
+        "href": "/product/adven-cannabisextrakt-thc-20",
+        "text": "Adven Cannabisextrakt THC 20",
+        "title": "Alternative: Adven Cannabisextrakt THC 20"
+      },
+      {
+        "href": "/product/adven-cannabisextrakt-thc-10-cbd-10",
+        "text": "Adven Cannabisextrakt THC 10 CBD 10",
+        "title": "Alternative: Adven Cannabisextrakt THC 10 CBD 10"
+      },
+      {
+        "href": "/product/demecan-typ-1",
+        "text": "Demecan Typ 1",
+        "title": "Alternative: Demecan Typ 1"
+      },
+      {
+        "href": "/product/cannamedical-indica-forte-ej",
+        "text": "Cannamedical Indica forte EJ",
+        "title": "Alternative: Cannamedical Indica forte EJ"
+      },
+      {
+        "href": "/product/251vayamed-cannabisextrakt",
+        "text": "25/1Vayamed Cannabisextrakt",
+        "title": "Alternative: 25/1Vayamed Cannabisextrakt"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

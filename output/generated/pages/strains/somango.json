@@ -1,0 +1,241 @@
+{
+  "strain": {
+    "slug": "somango",
+    "name": "Somango",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Relaxed",
+      "Happy",
+      "Sleepy",
+      "Creative",
+      "Focused"
+    ],
+    "tastes": [
+      "Sweet",
+      "Mango",
+      "Tropical",
+      "Vanilla",
+      "Flowery",
+      "Citrus",
+      "Earthy"
+    ],
+    "terpenes": [
+      "Nerolidol",
+      "Cedrene",
+      "Pinene"
+    ],
+    "description": "Somango ist eine ausgeglichene Hybrid-Sorte mit ungefähren THC-Werten im Bereich von 18% bis 20% und einem minimalen CBD-Gehalt von weniger als 1%. Der Strain entstammt der Kreuzung von “Jack Herer”, “Big Skunk Korean” und “Super Skunk” und weist ein interessantes Terpenprofil, mit Anteilen von Nerolidol, Cedrene, Pinen auf. Das Ergebnis ist ein Geschmack, der als tropisch, mit Anteilen von Mango und anderen Früchten beschrieben wird. Die Wirkung soll laut Nutzern entspannend, schläfrig, aber auch fokussierend sein. Die Blüten des Strains sind eher locker und astig, hellgrün und mit zahlreichen Trichomen sowie braun-orangen Härchen überzogen.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 349,
+      "max": 699,
+      "formatted": {
+        "min": "3,49 €",
+        "max": "6,99 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "cannovum-natura-201-luna",
+      "name": "Cannovum Natura 20/1 Luna",
+      "brandName": "Cannovum Health",
+      "thcPercent": 18.6,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "imc-thc22-t05-somango-skunk",
+      "name": "IMC THC22 T05 Somango Skunk",
+      "brandName": "IMC",
+      "thcPercent": 22,
+      "priceMin": 349,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "alien-mints",
+      "name": "Alien Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "delahaze",
+      "name": "Delahaze",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "cannatonic",
+      "name": "Cannatonic",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "mac-2.0",
+      "name": "MAC 2.0",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "spritzer",
+      "name": "Spritzer",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Somango (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Somango: Relaxed, Happy, Sleepy. 2 Produkte verfügbar. ab 3,49 €.",
+      "canonical": "https://weed.de/strain/somango",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Somango (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Somango: Relaxed, Happy, Sleepy. 2 Produkte verfügbar. ab 3,49 €.",
+        "url": "https://weed.de/strain/somango",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Somango",
+        "href": "https://weed.de/strain/somango"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Somango",
+            "item": "https://weed.de/strain/somango"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Somango Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/cannovum-natura-201-luna",
+            "name": "Cannovum Natura 20/1 Luna"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/imc-thc22-t05-somango-skunk",
+            "name": "IMC THC22 T05 Somango Skunk"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/cannovum-natura-201-luna",
+        "text": "Cannovum Natura 20/1 Luna",
+        "title": "Cannovum Natura 20/1 Luna von Cannovum Health"
+      },
+      {
+        "href": "/product/imc-thc22-t05-somango-skunk",
+        "text": "IMC THC22 T05 Somango Skunk",
+        "title": "IMC THC22 T05 Somango Skunk von IMC"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/alien-mints",
+        "text": "Alien Mints",
+        "title": "Alien Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/delahaze",
+        "text": "Delahaze",
+        "title": "Delahaze - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/cannatonic",
+        "text": "Cannatonic",
+        "title": "Cannatonic - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/mac-2.0",
+        "text": "MAC 2.0",
+        "title": "MAC 2.0 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/spritzer",
+        "text": "Spritzer",
+        "title": "Spritzer - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/nerolidol",
+        "text": "Nerolidol",
+        "title": "Nerolidol Terpen"
+      },
+      {
+        "href": "/terpene/cedrene",
+        "text": "Cedrene",
+        "title": "Cedrene Terpen"
+      },
+      {
+        "href": "/terpene/pinene",
+        "text": "Pinene",
+        "title": "Pinene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

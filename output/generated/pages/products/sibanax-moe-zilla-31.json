@@ -1,0 +1,236 @@
+{
+  "product": {
+    "slug": "sibanax-moe-zilla-31",
+    "name": "Sibanax Moe Zilla 30/1",
+    "type": "flower",
+    "genetics": "hybrid",
+    "thcPercent": 30,
+    "cbdPercent": 1,
+    "priceMin": 569,
+    "priceMax": 850,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "heyday",
+    "name": "Heyday",
+    "productCount": 33
+  },
+  "strain": {
+    "slug": "gorilla-glue-4",
+    "name": "GG4",
+    "geneticType": "hybrid",
+    "effects": [
+      "Relaxed",
+      "Uplifted",
+      "Euphoric",
+      "Hungry",
+      "Sleepy",
+      "Paranoid",
+      "Dry Eyes",
+      "Dry Mouth"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Caryophyllene",
+      "Limonene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Relaxed",
+      "Uplifted",
+      "Euphoric",
+      "Hungry",
+      "Sleepy",
+      "Paranoid",
+      "Dry Eyes",
+      "Dry Mouth"
+    ],
+    "tastes": [
+      "Pungent",
+      "Sweet",
+      "Earthy",
+      "Pine",
+      "Woody"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Caryophyllene",
+      "Limonene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "imc-thc25-t03",
+      "name": "IMC THC25 T03",
+      "brandName": "IMC",
+      "thcPercent": 25,
+      "priceMin": 365,
+      "inStock": true
+    },
+    {
+      "slug": "420-natural-201-ca-gg4",
+      "name": "420 Natural 20/1 CA GG4",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 20,
+      "priceMin": 589,
+      "inStock": true
+    },
+    {
+      "slug": "420-natural-221-gg4",
+      "name": "420 Natural 22/1 GG4",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 22,
+      "priceMin": 723,
+      "inStock": true
+    },
+    {
+      "slug": "420-evolution-221-ca-gg4",
+      "name": "420 Evolution 22/1 CA GG4",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 19,
+      "priceMin": 800,
+      "inStock": true
+    },
+    {
+      "slug": "cannabistada-5025-ca",
+      "name": "CannabiStada 50/25 CA",
+      "brandName": "Stada",
+      "thcPercent": 5,
+      "priceMin": 1999,
+      "inStock": true
+    },
+    {
+      "slug": "remexian-221-gg4",
+      "name": "Remexian 22/1 GG4",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 22,
+      "priceMin": 699,
+      "inStock": false
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Sibanax Moe Zilla 30/1 - Heyday | ab 5,69 €",
+      "description": "Sibanax Moe Zilla 30/1 von Heyday. THC: 30%, CBD: 1%. Sorte: GG4. Preis ab 5,69 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/sibanax-moe-zilla-31",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Sibanax Moe Zilla 30/1 - Heyday | ab 5,69 €",
+        "description": "Sibanax Moe Zilla 30/1 von Heyday. THC: 30%, CBD: 1%. Sorte: GG4. Preis ab 5,69 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/sibanax-moe-zilla-31",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Heyday",
+        "href": "https://weed.de/brand/heyday"
+      },
+      {
+        "name": "Sibanax Moe Zilla 30/1",
+        "href": "https://weed.de/product/sibanax-moe-zilla-31"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Sibanax Moe Zilla 30/1",
+            "item": "https://weed.de/product/sibanax-moe-zilla-31"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Sibanax Moe Zilla 30/1",
+        "brand": {
+          "@type": "Brand",
+          "name": "Heyday"
+        },
+        "description": "THC: 30%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/gorilla-glue-4",
+      "text": "GG4",
+      "title": "GG4 Sorte"
+    },
+    "brand": {
+      "href": "/brand/heyday",
+      "text": "Heyday",
+      "title": "Alle Heyday Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/imc-thc25-t03",
+        "text": "IMC THC25 T03",
+        "title": "Alternative: IMC THC25 T03"
+      },
+      {
+        "href": "/product/420-natural-201-ca-gg4",
+        "text": "420 Natural 20/1 CA GG4",
+        "title": "Alternative: 420 Natural 20/1 CA GG4"
+      },
+      {
+        "href": "/product/420-natural-221-gg4",
+        "text": "420 Natural 22/1 GG4",
+        "title": "Alternative: 420 Natural 22/1 GG4"
+      },
+      {
+        "href": "/product/420-evolution-221-ca-gg4",
+        "text": "420 Evolution 22/1 CA GG4",
+        "title": "Alternative: 420 Evolution 22/1 CA GG4"
+      },
+      {
+        "href": "/product/cannabistada-5025-ca",
+        "text": "CannabiStada 50/25 CA",
+        "title": "Alternative: CannabiStada 50/25 CA"
+      },
+      {
+        "href": "/product/remexian-221-gg4",
+        "text": "Remexian 22/1 GG4",
+        "title": "Alternative: Remexian 22/1 GG4"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

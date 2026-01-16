@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "apotheke-am-bahnhof",
+    "name": "Apotheke am Bahnhof",
+    "street": "Bahnhofstraße 6",
+    "zip": "74072",
+    "cityName": "Heilbronn",
+    "state": "Baden-Württemberg",
+    "lat": 49.1429945,
+    "lng": 9.2136277,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://apoambahnhofhn.de",
+    "phone": "0713186828",
+    "email": "info@apoambahnhofhn.de",
+    "productCount": 28,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/6888e02066d6c31b2badff65-jj08a7.jpg"
+  },
+  "city": {
+    "slug": "heilbronn",
+    "name": "Heilbronn",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "florians-vital-apotheke",
+      "name": "Florians Vital Apotheke",
+      "cityName": "Esslingen am Neckar",
+      "productCount": 248,
+      "hasDelivery": true
+    },
+    {
+      "slug": "central-apotheke",
+      "name": "Cannabis-Champion",
+      "cityName": "Waiblingen",
+      "productCount": 240,
+      "hasDelivery": true
+    },
+    {
+      "slug": "karlchengras",
+      "name": "Karlchengras (Karl-Apotheke)",
+      "cityName": "Karlsruhe",
+      "productCount": 188,
+      "hasDelivery": true
+    },
+    {
+      "slug": "idris-apotheke-oder-3leafs",
+      "name": "Idris Apotheke | 3Leafs",
+      "cityName": "Weinheim",
+      "productCount": 149,
+      "hasDelivery": true
+    },
+    {
+      "slug": "schwarzwald-vital-apotheke",
+      "name": "Schwarzwald Vital Apotheke",
+      "cityName": "Gaggenau",
+      "productCount": 133,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Apotheke am Bahnhof - Cannabis Apotheke in Heilbronn",
+      "description": "Apotheke am Bahnhof in Heilbronn. 28 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/apotheke-am-bahnhof",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Apotheke am Bahnhof - Cannabis Apotheke in Heilbronn",
+        "description": "Apotheke am Bahnhof in Heilbronn. 28 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/apotheke-am-bahnhof",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/6888e02066d6c31b2badff65-jj08a7.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Heilbronn",
+        "href": "https://weed.de/cannabis-apotheke/heilbronn"
+      },
+      {
+        "name": "Apotheke am Bahnhof",
+        "href": "https://weed.de/apotheke/apotheke-am-bahnhof"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Heilbronn",
+            "item": "https://weed.de/cannabis-apotheke/heilbronn"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Apotheke am Bahnhof",
+            "item": "https://weed.de/apotheke/apotheke-am-bahnhof"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Apotheke am Bahnhof",
+        "url": "https://weed.de/apotheke/apotheke-am-bahnhof",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Bahnhofstraße 6",
+          "addressLocality": "Heilbronn",
+          "postalCode": "74072",
+          "addressRegion": "Baden-Württemberg",
+          "addressCountry": "DE"
+        },
+        "telephone": "0713186828",
+        "email": "info@apoambahnhofhn.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/heilbronn",
+      "text": "Cannabis Apotheken in Heilbronn",
+      "title": "Alle Apotheken in Heilbronn"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/florians-vital-apotheke",
+        "text": "Florians Vital Apotheke",
+        "title": "Florians Vital Apotheke in Esslingen am Neckar"
+      },
+      {
+        "href": "/apotheke/central-apotheke",
+        "text": "Cannabis-Champion",
+        "title": "Cannabis-Champion in Waiblingen"
+      },
+      {
+        "href": "/apotheke/karlchengras",
+        "text": "Karlchengras (Karl-Apotheke)",
+        "title": "Karlchengras (Karl-Apotheke) in Karlsruhe"
+      },
+      {
+        "href": "/apotheke/idris-apotheke-oder-3leafs",
+        "text": "Idris Apotheke | 3Leafs",
+        "title": "Idris Apotheke | 3Leafs in Weinheim"
+      },
+      {
+        "href": "/apotheke/schwarzwald-vital-apotheke",
+        "text": "Schwarzwald Vital Apotheke",
+        "title": "Schwarzwald Vital Apotheke in Gaggenau"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

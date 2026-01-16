@@ -1,0 +1,208 @@
+{
+  "strain": {
+    "slug": "astral-drift",
+    "name": "Astral Drift",
+    "geneticType": "sativa",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [],
+    "tastes": [],
+    "terpenes": [
+      "Pinene",
+      "Limonene",
+      "Linalool"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 630,
+      "max": 630,
+      "formatted": {
+        "min": "6,30 €",
+        "max": "6,30 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "medicus-211-yar-adi",
+      "name": "Medicus 21/1 YAR ADI",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 21,
+      "priceMin": 630,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "strawberry-lemonade",
+      "name": "Strawberry Lemonade",
+      "geneticType": "sativa",
+      "thcMax": null
+    },
+    {
+      "slug": "blueberry-muffins-cbd",
+      "name": "Blueberry Muffins CBD",
+      "geneticType": "sativa",
+      "thcMax": null
+    },
+    {
+      "slug": "bedrobinol",
+      "name": "Bedrobinol",
+      "geneticType": "sativa",
+      "thcMax": null
+    },
+    {
+      "slug": "afina",
+      "name": "Afina",
+      "geneticType": "sativa",
+      "thcMax": null
+    },
+    {
+      "slug": "electric-honeydew",
+      "name": "Electric Honeydew",
+      "geneticType": "sativa",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Astral Drift (Sativa) - Wirkung, THC & Verfügbarkeit",
+      "description": "Astral Drift Cannabis Sorte. 1 Produkte verfügbar. ab 6,30 €.",
+      "canonical": "https://weed.de/strain/astral-drift",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Astral Drift (Sativa) - Wirkung, THC & Verfügbarkeit",
+        "description": "Astral Drift Cannabis Sorte. 1 Produkte verfügbar. ab 6,30 €.",
+        "url": "https://weed.de/strain/astral-drift",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Astral Drift",
+        "href": "https://weed.de/strain/astral-drift"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Astral Drift",
+            "item": "https://weed.de/strain/astral-drift"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Astral Drift Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/medicus-211-yar-adi",
+            "name": "Medicus 21/1 YAR ADI"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/medicus-211-yar-adi",
+        "text": "Medicus 21/1 YAR ADI",
+        "title": "Medicus 21/1 YAR ADI von Remexian Pharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/strawberry-lemonade",
+        "text": "Strawberry Lemonade",
+        "title": "Strawberry Lemonade - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/blueberry-muffins-cbd",
+        "text": "Blueberry Muffins CBD",
+        "title": "Blueberry Muffins CBD - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/bedrobinol",
+        "text": "Bedrobinol",
+        "title": "Bedrobinol - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/afina",
+        "text": "Afina",
+        "title": "Afina - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/electric-honeydew",
+        "text": "Electric Honeydew",
+        "title": "Electric Honeydew - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/pinene",
+        "text": "Pinene",
+        "title": "Pinene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

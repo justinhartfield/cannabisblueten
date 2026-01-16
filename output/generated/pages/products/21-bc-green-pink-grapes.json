@@ -1,0 +1,242 @@
+{
+  "product": {
+    "slug": "21-bc-green-pink-grapes",
+    "name": "20/1 BC Green Pink Grapes",
+    "type": "flower",
+    "genetics": "hybrid_sativa",
+    "thcPercent": 18,
+    "cbdPercent": 1,
+    "priceMin": 399,
+    "priceMax": 590,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "bc-green",
+    "name": "BC Green",
+    "productCount": 16
+  },
+  "strain": {
+    "slug": "pink-grapes",
+    "name": "Pink Grapes",
+    "geneticType": "hybrid",
+    "effects": [
+      "Mental ease",
+      "Creative",
+      "Activating",
+      "Focused",
+      "Stress-relief",
+      "Pain-relief",
+      "Anxiety-reducing",
+      "Happy"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Caryophyllene",
+      "Linalool",
+      "Humulene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Mental ease",
+      "Creative",
+      "Activating",
+      "Focused",
+      "Stress-relief",
+      "Pain-relief",
+      "Anxiety-reducing",
+      "Happy"
+    ],
+    "tastes": [
+      "Diesel",
+      "Strawberry",
+      "Fruity",
+      "Grape",
+      "Citrus",
+      "Flowery",
+      "Tangy"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Caryophyllene",
+      "Linalool",
+      "Humulene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "avextra-1010",
+      "name": "Avextra 10/10",
+      "brandName": "Avextra",
+      "thcPercent": 1,
+      "priceMin": 279,
+      "inStock": true
+    },
+    {
+      "slug": "amp-classic-251",
+      "name": "AMP Classic 25/1",
+      "brandName": "AMP",
+      "thcPercent": 25,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "weeco-231",
+      "name": "Weeco 23/1",
+      "brandName": "Weeco",
+      "thcPercent": 23,
+      "priceMin": 599,
+      "inStock": true
+    },
+    {
+      "slug": "aurora-221-dhz-ca",
+      "name": "Aurora 22/1 DHZ-CA",
+      "brandName": "Aurora",
+      "thcPercent": 19.8,
+      "priceMin": 640,
+      "inStock": true
+    },
+    {
+      "slug": "420-evolution-271-ca-str",
+      "name": "420 Evolution 27/1 CA STR",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 27,
+      "priceMin": 645,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-221-florestura",
+      "name": "DEMECAN Florestura 22:01",
+      "brandName": "Deutsche Medizinalcannabis",
+      "thcPercent": 22,
+      "priceMin": 679,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "20/1 BC Green Pink Grapes | ab 3,99 €",
+      "description": "20/1 BC Green Pink Grapes von BC Green. THC: 18%, CBD: 1%. Sorte: Pink Grapes. Preis ab 3,99 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/21-bc-green-pink-grapes",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "20/1 BC Green Pink Grapes | ab 3,99 €",
+        "description": "20/1 BC Green Pink Grapes von BC Green. THC: 18%, CBD: 1%. Sorte: Pink Grapes. Preis ab 3,99 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/21-bc-green-pink-grapes",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "BC Green",
+        "href": "https://weed.de/brand/bc-green"
+      },
+      {
+        "name": "20/1 BC Green Pink Grapes",
+        "href": "https://weed.de/product/21-bc-green-pink-grapes"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "20/1 BC Green Pink Grapes",
+            "item": "https://weed.de/product/21-bc-green-pink-grapes"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "20/1 BC Green Pink Grapes",
+        "brand": {
+          "@type": "Brand",
+          "name": "BC Green"
+        },
+        "description": "THC: 18%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/pink-grapes",
+      "text": "Pink Grapes",
+      "title": "Pink Grapes Sorte"
+    },
+    "brand": {
+      "href": "/brand/bc-green",
+      "text": "BC Green",
+      "title": "Alle BC Green Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/avextra-1010",
+        "text": "Avextra 10/10",
+        "title": "Alternative: Avextra 10/10"
+      },
+      {
+        "href": "/product/amp-classic-251",
+        "text": "AMP Classic 25/1",
+        "title": "Alternative: AMP Classic 25/1"
+      },
+      {
+        "href": "/product/weeco-231",
+        "text": "Weeco 23/1",
+        "title": "Alternative: Weeco 23/1"
+      },
+      {
+        "href": "/product/aurora-221-dhz-ca",
+        "text": "Aurora 22/1 DHZ-CA",
+        "title": "Alternative: Aurora 22/1 DHZ-CA"
+      },
+      {
+        "href": "/product/420-evolution-271-ca-str",
+        "text": "420 Evolution 27/1 CA STR",
+        "title": "Alternative: 420 Evolution 27/1 CA STR"
+      },
+      {
+        "href": "/product/demecan-221-florestura",
+        "text": "DEMECAN Florestura 22:01",
+        "title": "Alternative: DEMECAN Florestura 22:01"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

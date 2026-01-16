@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "apotheke-am-storchenturm",
+    "name": "Apotheke am Storchenturm",
+    "street": "Marktstraße 40",
+    "zip": "77933",
+    "cityName": "Lahr/Schwarzwald",
+    "state": "Baden-Württemberg",
+    "lat": 48.338921,
+    "lng": 7.871936,
+    "hasDelivery": false,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": null,
+    "phone": "0782121206",
+    "email": "storchenturm@brenner-apotheken.com",
+    "productCount": 4,
+    "rating": 5,
+    "ratingCount": 1,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/6723535703ffdd51c1b72aa3-14a1jd.jpg"
+  },
+  "city": {
+    "slug": "lahr-schwarzwald",
+    "name": "Lahr/Schwarzwald",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "florians-vital-apotheke",
+      "name": "Florians Vital Apotheke",
+      "cityName": "Esslingen am Neckar",
+      "productCount": 248,
+      "hasDelivery": true
+    },
+    {
+      "slug": "central-apotheke",
+      "name": "Cannabis-Champion",
+      "cityName": "Waiblingen",
+      "productCount": 240,
+      "hasDelivery": true
+    },
+    {
+      "slug": "karlchengras",
+      "name": "Karlchengras (Karl-Apotheke)",
+      "cityName": "Karlsruhe",
+      "productCount": 188,
+      "hasDelivery": true
+    },
+    {
+      "slug": "idris-apotheke-oder-3leafs",
+      "name": "Idris Apotheke | 3Leafs",
+      "cityName": "Weinheim",
+      "productCount": 149,
+      "hasDelivery": true
+    },
+    {
+      "slug": "schwarzwald-vital-apotheke",
+      "name": "Schwarzwald Vital Apotheke",
+      "cityName": "Gaggenau",
+      "productCount": 133,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Apotheke am Storchenturm - Cannabis Apotheke in Lahr/Schwarzwald",
+      "description": "Apotheke am Storchenturm in Lahr/Schwarzwald. 4 Cannabis Produkte. Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/apotheke-am-storchenturm",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Apotheke am Storchenturm - Cannabis Apotheke in Lahr/Schwarzwald",
+        "description": "Apotheke am Storchenturm in Lahr/Schwarzwald. 4 Cannabis Produkte. Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/apotheke-am-storchenturm",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/6723535703ffdd51c1b72aa3-14a1jd.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Lahr/Schwarzwald",
+        "href": "https://weed.de/cannabis-apotheke/lahr-schwarzwald"
+      },
+      {
+        "name": "Apotheke am Storchenturm",
+        "href": "https://weed.de/apotheke/apotheke-am-storchenturm"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Lahr/Schwarzwald",
+            "item": "https://weed.de/cannabis-apotheke/lahr-schwarzwald"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Apotheke am Storchenturm",
+            "item": "https://weed.de/apotheke/apotheke-am-storchenturm"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Apotheke am Storchenturm",
+        "url": "https://weed.de/apotheke/apotheke-am-storchenturm",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Marktstraße 40",
+          "addressLocality": "Lahr/Schwarzwald",
+          "postalCode": "77933",
+          "addressRegion": "Baden-Württemberg",
+          "addressCountry": "DE"
+        },
+        "telephone": "0782121206",
+        "email": "storchenturm@brenner-apotheken.com"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/lahr-schwarzwald",
+      "text": "Cannabis Apotheken in Lahr/Schwarzwald",
+      "title": "Alle Apotheken in Lahr/Schwarzwald"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/florians-vital-apotheke",
+        "text": "Florians Vital Apotheke",
+        "title": "Florians Vital Apotheke in Esslingen am Neckar"
+      },
+      {
+        "href": "/apotheke/central-apotheke",
+        "text": "Cannabis-Champion",
+        "title": "Cannabis-Champion in Waiblingen"
+      },
+      {
+        "href": "/apotheke/karlchengras",
+        "text": "Karlchengras (Karl-Apotheke)",
+        "title": "Karlchengras (Karl-Apotheke) in Karlsruhe"
+      },
+      {
+        "href": "/apotheke/idris-apotheke-oder-3leafs",
+        "text": "Idris Apotheke | 3Leafs",
+        "title": "Idris Apotheke | 3Leafs in Weinheim"
+      },
+      {
+        "href": "/apotheke/schwarzwald-vital-apotheke",
+        "text": "Schwarzwald Vital Apotheke",
+        "title": "Schwarzwald Vital Apotheke in Gaggenau"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

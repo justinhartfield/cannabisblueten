@@ -1,0 +1,238 @@
+{
+  "product": {
+    "slug": "canopy-bakerstreet-221",
+    "name": "Canopy Bakerstreet 22/1",
+    "type": "flower",
+    "genetics": "indica",
+    "thcPercent": 22,
+    "cbdPercent": 1,
+    "priceMin": 750,
+    "priceMax": 750,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "canopy-growth",
+    "name": "Canopy Growth",
+    "productCount": 35
+  },
+  "strain": {
+    "slug": "hindu-kush",
+    "name": "Hindu Kush",
+    "geneticType": "indica",
+    "effects": [
+      "Relaxed",
+      "Sleepy",
+      "Happy",
+      "Hungry",
+      "Euphoric",
+      "Dry Mouth",
+      "Dry Eyes",
+      "Paranoid"
+    ],
+    "terpenes": [
+      "Carene",
+      "Limonene",
+      "Sabinene",
+      "Caryophyllene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Relaxed",
+      "Sleepy",
+      "Happy",
+      "Hungry",
+      "Euphoric",
+      "Dry Mouth",
+      "Dry Eyes",
+      "Paranoid"
+    ],
+    "tastes": [
+      "Sweet",
+      "Woody",
+      "Pine",
+      "Spicy-Herbal",
+      "Earthy"
+    ],
+    "terpenes": [
+      "Carene",
+      "Limonene",
+      "Sabinene",
+      "Caryophyllene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "weeco-hk-21",
+      "name": "Weeco HK 20/1",
+      "brandName": "Weeco",
+      "thcPercent": 20,
+      "priceMin": 299,
+      "inStock": true
+    },
+    {
+      "slug": "imc-thc-22-t01",
+      "name": "IMC THC 22 T01",
+      "brandName": "IMC",
+      "thcPercent": 22.1,
+      "priceMin": 359,
+      "inStock": true
+    },
+    {
+      "slug": "imc-thc-2-t1-hk",
+      "name": "IMC THC 20 T01 HK",
+      "brandName": "Adjupharm",
+      "thcPercent": 20,
+      "priceMin": 368,
+      "inStock": true
+    },
+    {
+      "slug": "canopy-bakerstreet-20",
+      "name": "Canopy Bakerstreet 20",
+      "brandName": "Canopy Growth",
+      "thcPercent": 20,
+      "priceMin": 369,
+      "inStock": true
+    },
+    {
+      "slug": "imc-cannabisblueten-thc-17-t01",
+      "name": "IMC THC 17 T01",
+      "brandName": "IMC",
+      "thcPercent": 16.8,
+      "priceMin": 399,
+      "inStock": true
+    },
+    {
+      "slug": "cm-21-hk",
+      "name": "CM 20/1 HK",
+      "brandName": "Cannamedical",
+      "thcPercent": 20,
+      "priceMin": 512,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Canopy Bakerstreet 22/1 - Canopy Growth | ab 7,50 €",
+      "description": "Canopy Bakerstreet 22/1 von Canopy Growth. THC: 22%, CBD: 1%. Sorte: Hindu Kush. Preis ab 7,50 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/canopy-bakerstreet-221",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Canopy Bakerstreet 22/1 - Canopy Growth | ab 7,50 €",
+        "description": "Canopy Bakerstreet 22/1 von Canopy Growth. THC: 22%, CBD: 1%. Sorte: Hindu Kush. Preis ab 7,50 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/canopy-bakerstreet-221",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Canopy Growth",
+        "href": "https://weed.de/brand/canopy-growth"
+      },
+      {
+        "name": "Canopy Bakerstreet 22/1",
+        "href": "https://weed.de/product/canopy-bakerstreet-221"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Canopy Bakerstreet 22/1",
+            "item": "https://weed.de/product/canopy-bakerstreet-221"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Canopy Bakerstreet 22/1",
+        "brand": {
+          "@type": "Brand",
+          "name": "Canopy Growth"
+        },
+        "description": "THC: 22%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/hindu-kush",
+      "text": "Hindu Kush",
+      "title": "Hindu Kush Sorte"
+    },
+    "brand": {
+      "href": "/brand/canopy-growth",
+      "text": "Canopy Growth",
+      "title": "Alle Canopy Growth Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/weeco-hk-21",
+        "text": "Weeco HK 20/1",
+        "title": "Alternative: Weeco HK 20/1"
+      },
+      {
+        "href": "/product/imc-thc-22-t01",
+        "text": "IMC THC 22 T01",
+        "title": "Alternative: IMC THC 22 T01"
+      },
+      {
+        "href": "/product/imc-thc-2-t1-hk",
+        "text": "IMC THC 20 T01 HK",
+        "title": "Alternative: IMC THC 20 T01 HK"
+      },
+      {
+        "href": "/product/canopy-bakerstreet-20",
+        "text": "Canopy Bakerstreet 20",
+        "title": "Alternative: Canopy Bakerstreet 20"
+      },
+      {
+        "href": "/product/imc-cannabisblueten-thc-17-t01",
+        "text": "IMC THC 17 T01",
+        "title": "Alternative: IMC THC 17 T01"
+      },
+      {
+        "href": "/product/cm-21-hk",
+        "text": "CM 20/1 HK",
+        "title": "Alternative: CM 20/1 HK"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

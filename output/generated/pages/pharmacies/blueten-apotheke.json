@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "blueten-apotheke",
+    "name": "Blüten-apotheke",
+    "street": "München, Deutschland",
+    "zip": "",
+    "cityName": "München",
+    "state": "Bayern",
+    "lat": 48.1351253,
+    "lng": 11.5819806,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": false,
+    "website": null,
+    "phone": "0893689732",
+    "email": "info@bluetenapotheke.de",
+    "productCount": 0,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/664689ba7a0736bf1cda80ad-idij99.jpg"
+  },
+  "city": {
+    "slug": "muenchen",
+    "name": "München",
+    "pharmacyCount": 12
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "apotheke-forum-schwanthalerhoehe",
+      "name": "Apotheke Forum Schwanthalerhöhe",
+      "cityName": "München",
+      "productCount": 70,
+      "hasDelivery": true
+    },
+    {
+      "slug": "oberlaender-apotheke",
+      "name": "Oberländer Apotheke",
+      "cityName": "München",
+      "productCount": 46,
+      "hasDelivery": false
+    },
+    {
+      "slug": "fox2",
+      "name": "Fox20",
+      "cityName": "München",
+      "productCount": 46,
+      "hasDelivery": false
+    },
+    {
+      "slug": "stachus-apotheke",
+      "name": "Stachus-Apotheke",
+      "cityName": "München",
+      "productCount": 38,
+      "hasDelivery": true
+    },
+    {
+      "slug": "medicus-apotheke",
+      "name": "Cannamedicus",
+      "cityName": "München",
+      "productCount": 30,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Blüten-apotheke - Cannabis Apotheke in München",
+      "description": "Blüten-apotheke in München. Lieferung & Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/blueten-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Blüten-apotheke - Cannabis Apotheke in München",
+        "description": "Blüten-apotheke in München. Lieferung & Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/blueten-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/664689ba7a0736bf1cda80ad-idij99.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "München",
+        "href": "https://weed.de/cannabis-apotheke/muenchen"
+      },
+      {
+        "name": "Blüten-apotheke",
+        "href": "https://weed.de/apotheke/blueten-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "München",
+            "item": "https://weed.de/cannabis-apotheke/muenchen"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Blüten-apotheke",
+            "item": "https://weed.de/apotheke/blueten-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Blüten-apotheke",
+        "url": "https://weed.de/apotheke/blueten-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "München, Deutschland",
+          "addressLocality": "München",
+          "postalCode": "",
+          "addressRegion": "Bayern",
+          "addressCountry": "DE"
+        },
+        "telephone": "0893689732",
+        "email": "info@bluetenapotheke.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/muenchen",
+      "text": "Cannabis Apotheken in München",
+      "title": "Alle Apotheken in München"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/apotheke-forum-schwanthalerhoehe",
+        "text": "Apotheke Forum Schwanthalerhöhe",
+        "title": "Apotheke Forum Schwanthalerhöhe in München"
+      },
+      {
+        "href": "/apotheke/oberlaender-apotheke",
+        "text": "Oberländer Apotheke",
+        "title": "Oberländer Apotheke in München"
+      },
+      {
+        "href": "/apotheke/fox2",
+        "text": "Fox20",
+        "title": "Fox20 in München"
+      },
+      {
+        "href": "/apotheke/stachus-apotheke",
+        "text": "Stachus-Apotheke",
+        "title": "Stachus-Apotheke in München"
+      },
+      {
+        "href": "/apotheke/medicus-apotheke",
+        "text": "Cannamedicus",
+        "title": "Cannamedicus in München"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has services"
+  }
+}

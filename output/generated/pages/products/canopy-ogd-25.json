@@ -1,0 +1,228 @@
+{
+  "product": {
+    "slug": "canopy-ogd-25",
+    "name": "Canopy OGD 25",
+    "type": "flower",
+    "genetics": "indica",
+    "thcPercent": 25,
+    "cbdPercent": 0.5,
+    "priceMin": 700,
+    "priceMax": 700,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "canopy-growth",
+    "name": "Canopy Growth",
+    "productCount": 35
+  },
+  "strain": {
+    "slug": "og-deluxe",
+    "name": "OG Deluxe",
+    "geneticType": "hybrid",
+    "effects": [
+      "Relaxed",
+      "Happy",
+      "Euphoric"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Limonene",
+      "Myrcene",
+      "Humulene",
+      "Ocimene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Relaxed",
+      "Happy",
+      "Euphoric"
+    ],
+    "tastes": [
+      "Diesel",
+      "Chemical",
+      "Woody"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Limonene",
+      "Myrcene",
+      "Humulene",
+      "Ocimene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "aurora-thc-25-cannabis-extract",
+      "name": "Aurora THC 25 Cannabis Extract",
+      "brandName": "Cansativa",
+      "thcPercent": 2.5,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "remexian-271-twe-ogd",
+      "name": "Remexian 27/1 TWE OGD",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 27,
+      "priceMin": 449,
+      "inStock": true
+    },
+    {
+      "slug": "adven-cannabisextrakt-thc-20",
+      "name": "Adven Cannabisextrakt THC 20",
+      "brandName": "Adven",
+      "thcPercent": 2,
+      "priceMin": 476,
+      "inStock": true
+    },
+    {
+      "slug": "adven-cannabisextrakt-thc-10-cbd-10",
+      "name": "Adven Cannabisextrakt THC 10 CBD 10",
+      "brandName": "Adven",
+      "thcPercent": 10,
+      "priceMin": 560,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-1",
+      "name": "Demecan Typ 1",
+      "brandName": "Demecan",
+      "thcPercent": 21,
+      "priceMin": 694,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-indica-forte-ej",
+      "name": "Cannamedical Indica forte EJ",
+      "brandName": "Cannamedical",
+      "thcPercent": 24,
+      "priceMin": 700,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Canopy OGD 25 - Canopy Growth | ab 7,00 €",
+      "description": "Canopy OGD 25 von Canopy Growth. THC: 25%, CBD: 0.5%. Sorte: OG Deluxe. Preis ab 7,00 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/canopy-ogd-25",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Canopy OGD 25 - Canopy Growth | ab 7,00 €",
+        "description": "Canopy OGD 25 von Canopy Growth. THC: 25%, CBD: 0.5%. Sorte: OG Deluxe. Preis ab 7,00 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/canopy-ogd-25",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Canopy Growth",
+        "href": "https://weed.de/brand/canopy-growth"
+      },
+      {
+        "name": "Canopy OGD 25",
+        "href": "https://weed.de/product/canopy-ogd-25"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Canopy OGD 25",
+            "item": "https://weed.de/product/canopy-ogd-25"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Canopy OGD 25",
+        "brand": {
+          "@type": "Brand",
+          "name": "Canopy Growth"
+        },
+        "description": "THC: 25%, CBD: 0.5%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/og-deluxe",
+      "text": "OG Deluxe",
+      "title": "OG Deluxe Sorte"
+    },
+    "brand": {
+      "href": "/brand/canopy-growth",
+      "text": "Canopy Growth",
+      "title": "Alle Canopy Growth Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/aurora-thc-25-cannabis-extract",
+        "text": "Aurora THC 25 Cannabis Extract",
+        "title": "Alternative: Aurora THC 25 Cannabis Extract"
+      },
+      {
+        "href": "/product/remexian-271-twe-ogd",
+        "text": "Remexian 27/1 TWE OGD",
+        "title": "Alternative: Remexian 27/1 TWE OGD"
+      },
+      {
+        "href": "/product/adven-cannabisextrakt-thc-20",
+        "text": "Adven Cannabisextrakt THC 20",
+        "title": "Alternative: Adven Cannabisextrakt THC 20"
+      },
+      {
+        "href": "/product/adven-cannabisextrakt-thc-10-cbd-10",
+        "text": "Adven Cannabisextrakt THC 10 CBD 10",
+        "title": "Alternative: Adven Cannabisextrakt THC 10 CBD 10"
+      },
+      {
+        "href": "/product/demecan-typ-1",
+        "text": "Demecan Typ 1",
+        "title": "Alternative: Demecan Typ 1"
+      },
+      {
+        "href": "/product/cannamedical-indica-forte-ej",
+        "text": "Cannamedical Indica forte EJ",
+        "title": "Alternative: Cannamedical Indica forte EJ"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

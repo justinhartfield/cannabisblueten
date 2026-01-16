@@ -1,0 +1,229 @@
+{
+  "strain": {
+    "slug": "mint-smash",
+    "name": "Mint Smash",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Euphoric",
+      "Uplifted",
+      "Pain-relief",
+      "Anxiety-reducing",
+      "Relaxed",
+      "Sleepy"
+    ],
+    "tastes": [
+      "Mint",
+      "Sweet",
+      "Sour",
+      "Flowery",
+      "Citrus",
+      "Tropical",
+      "Earthy"
+    ],
+    "terpenes": [
+      "Beta-Myrcene",
+      "Caryophyllene",
+      "Beta-Caryophyllene",
+      "Linalool"
+    ],
+    "description": "Mint Smash ist ein Indica-dominanter Hybrid, entstanden aus der Kreuzung von Kush Mints und Mai Tai #4. Mit einem THC-Gehalt von 30 % und einem CBD-Gehalt von 1 % liefert sie eine starke, zugleich ausgewogene Wirkung.\n\nDas Aroma ist geprägt von einer scharfen Minznote, kombiniert mit süß-sauren Zitrusfrüchten und tropischen Fruchtaromen. Das Terpenprofil, das von Linalool, Beta-Caryophyllen und Beta-Myrcen dominiert wird, untermalt den Geschmack mit blumigen, würzigen und erdigen Nuancen.\n\nDie Wirkung setzt sanft mit einer euphorischen, erhebenden Stimmung ein und geht in ein entspannendes Körpergefühl über, was den Nutzer oft hungrig und leicht schläfrig macht. Mint Smash ist eine hervorragende Wahl für den Abend oder zur Linderung von chronischen Schmerzen, Angst und Schlafstörungen.\n\n",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 499,
+      "max": 900,
+      "formatted": {
+        "min": "4,99 €",
+        "max": "9,00 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "remexian-31-pgr-msh",
+      "name": "Remexian 30/1 PGR MSH",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 31.7,
+      "priceMin": 499,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "florida-kush",
+      "name": "Florida Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "purple-ice-water",
+      "name": "Purple Ice Water",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "dawg-bud-fusion",
+      "name": "Dawg Bud Fusion",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "detroit-runtz",
+      "name": "Detroit Runtz",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "orange-panties",
+      "name": "Orange Panties",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Mint Smash (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Mint Smash: Euphoric, Uplifted, Pain-relief. 1 Produkte verfügbar. ab 4,99 €.",
+      "canonical": "https://weed.de/strain/mint-smash",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Mint Smash (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Mint Smash: Euphoric, Uplifted, Pain-relief. 1 Produkte verfügbar. ab 4,99 €.",
+        "url": "https://weed.de/strain/mint-smash",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Mint Smash",
+        "href": "https://weed.de/strain/mint-smash"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Mint Smash",
+            "item": "https://weed.de/strain/mint-smash"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Mint Smash Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/remexian-31-pgr-msh",
+            "name": "Remexian 30/1 PGR MSH"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/remexian-31-pgr-msh",
+        "text": "Remexian 30/1 PGR MSH",
+        "title": "Remexian 30/1 PGR MSH von Remexian Pharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/florida-kush",
+        "text": "Florida Kush",
+        "title": "Florida Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/purple-ice-water",
+        "text": "Purple Ice Water",
+        "title": "Purple Ice Water - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/dawg-bud-fusion",
+        "text": "Dawg Bud Fusion",
+        "title": "Dawg Bud Fusion - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/detroit-runtz",
+        "text": "Detroit Runtz",
+        "title": "Detroit Runtz - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/orange-panties",
+        "text": "Orange Panties",
+        "title": "Orange Panties - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/beta-myrcene",
+        "text": "Beta-Myrcene",
+        "title": "Beta-Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

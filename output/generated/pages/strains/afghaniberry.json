@@ -1,0 +1,239 @@
+{
+  "strain": {
+    "slug": "afghaniberry",
+    "name": "Afghaniberry",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Relaxed",
+      "Happy",
+      "Calming",
+      "Mood-lifting"
+    ],
+    "tastes": [
+      "Fruity",
+      "Flowery",
+      "Earthy",
+      "Pepper",
+      "Citrus",
+      "Fresh"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Beta-Caryophyllene",
+      "Limonene"
+    ],
+    "description": "Afghaniberry ist eine Hybrid-Sorte, die ursprünglich als exklusive und limitierte Züchtung von T.H.Seeds™ auf den Markt kam. Die Genetik basiert auf einer Kreuzung der klassischen Afghani mit der Sorte Jasmin Cat Piss (JCP). Mit einem hohen THC-Gehalt von 27 % und einem CBD-Wert von unter 1 % liefert sie potente Effekte.\n\nIhr Geschmacksprofil wird als perfekte Kombination aus würzigen und fruchtigen Aromen beschrieben, die durch eine feine blumige Note abgerundet werden. Das Terpenprofil, das von Myrcen, Beta-Caryophyllen und Limonen dominiert wird, unterstreicht diesen Charakter mit tiefen erdigen Noten, pfeffriger Schärfe und frischen Zitrusnuancen.\n\nDie Wirkung wird als glücklich machend und tief entspannend beschrieben. Zusammengefasst ist Afghaniberry eine Sorte für Liebhaber klassischer Genetik, die einen würzig-fruchtigen Geschmack mit einem beruhigenden und stimmungsaufhellenden High suchen.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 425,
+      "max": 600,
+      "formatted": {
+        "min": "4,25 €",
+        "max": "6,00 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "grow-2525",
+      "name": "GROW 25:25",
+      "brandName": "Grow group",
+      "thcPercent": 2.5,
+      "priceMin": 460,
+      "inStock": true
+    },
+    {
+      "slug": "grow-1010",
+      "name": "GROW 10:10",
+      "brandName": "Grow group",
+      "thcPercent": 1,
+      "priceMin": 425,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "frosted-cookies",
+      "name": "Frosted Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "grape-fuel",
+      "name": "Grape Fuel",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "wedding-zkittlez",
+      "name": "Wedding Zkittlez",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "purp-sherb-cake",
+      "name": "Purp Sherb Cake",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "cheese-quake",
+      "name": "Cheese Quake",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Afghaniberry (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Afghaniberry: Relaxed, Happy, Calming. 2 Produkte verfügbar. ab 4,25 €.",
+      "canonical": "https://weed.de/strain/afghaniberry",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Afghaniberry (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Afghaniberry: Relaxed, Happy, Calming. 2 Produkte verfügbar. ab 4,25 €.",
+        "url": "https://weed.de/strain/afghaniberry",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Afghaniberry",
+        "href": "https://weed.de/strain/afghaniberry"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Afghaniberry",
+            "item": "https://weed.de/strain/afghaniberry"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Afghaniberry Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/grow-2525",
+            "name": "GROW 25:25"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/grow-1010",
+            "name": "GROW 10:10"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/grow-2525",
+        "text": "GROW 25:25",
+        "title": "GROW 25:25 von Grow group"
+      },
+      {
+        "href": "/product/grow-1010",
+        "text": "GROW 10:10",
+        "title": "GROW 10:10 von Grow group"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/frosted-cookies",
+        "text": "Frosted Cookies",
+        "title": "Frosted Cookies - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/grape-fuel",
+        "text": "Grape Fuel",
+        "title": "Grape Fuel - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/wedding-zkittlez",
+        "text": "Wedding Zkittlez",
+        "title": "Wedding Zkittlez - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/purp-sherb-cake",
+        "text": "Purp Sherb Cake",
+        "title": "Purp Sherb Cake - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/cheese-quake",
+        "text": "Cheese Quake",
+        "title": "Cheese Quake - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

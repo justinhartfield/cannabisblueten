@@ -1,0 +1,216 @@
+{
+  "strain": {
+    "slug": "la-animal",
+    "name": "LA Animal",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Creative",
+      "Euphoric"
+    ],
+    "tastes": [
+      "Diesel",
+      "Flowery",
+      "Earthy"
+    ],
+    "terpenes": [
+      "Trans-Caryophyllene",
+      "Limonene",
+      "Farnesene"
+    ],
+    "description": "Der LA Animal Strain ist eine Hybrid-Kreuzung, die für ihre einzigartige Kombination von Aromen und Wirkungen bekannt ist. Diese Sorte verbindet die genetischen Merkmale von LA Animal, einer Kreuzung aus OG Kush und LA Confidential, mit Animal Cookies, einer Mischung aus Girl Scout Cookies und Fire OG. Diese Kombination führt zu einem komplexen Terpenprofil, das süße, erdige und würzige Noten vereint.\n",
+    "imageUrl": "/strains/68b3edad34d38519d1243839-941f29.webp"
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 698,
+      "max": 698,
+      "formatted": {
+        "min": "6,98 €",
+        "max": "6,98 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "barongo-281-cali-motion",
+      "name": "Barongo 28/1 Cali Motion",
+      "brandName": "WMG Pharma",
+      "thcPercent": 28,
+      "priceMin": 698,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "super-boof",
+      "name": "Super Boof",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "keylime-kush",
+      "name": "Keylime Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "apes-and-space",
+      "name": "Apes & Space",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "rainbow-lava-popstars",
+      "name": "Rainbow Lava Popstars",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "crescendo-cookies",
+      "name": "Crescendo Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "LA Animal (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "LA Animal: Creative, Euphoric. 1 Produkte verfügbar. ab 6,98 €.",
+      "canonical": "https://weed.de/strain/la-animal",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "LA Animal (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "LA Animal: Creative, Euphoric. 1 Produkte verfügbar. ab 6,98 €.",
+        "url": "https://weed.de/strain/la-animal",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "/strains/68b3edad34d38519d1243839-941f29.webp"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "LA Animal",
+        "href": "https://weed.de/strain/la-animal"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "LA Animal",
+            "item": "https://weed.de/strain/la-animal"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "LA Animal Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/barongo-281-cali-motion",
+            "name": "Barongo 28/1 Cali Motion"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/barongo-281-cali-motion",
+        "text": "Barongo 28/1 Cali Motion",
+        "title": "Barongo 28/1 Cali Motion von WMG Pharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/super-boof",
+        "text": "Super Boof",
+        "title": "Super Boof - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/keylime-kush",
+        "text": "Keylime Kush",
+        "title": "Keylime Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/apes-and-space",
+        "text": "Apes & Space",
+        "title": "Apes & Space - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/rainbow-lava-popstars",
+        "text": "Rainbow Lava Popstars",
+        "title": "Rainbow Lava Popstars - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/crescendo-cookies",
+        "text": "Crescendo Cookies",
+        "title": "Crescendo Cookies - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/trans-caryophyllene",
+        "text": "Trans-Caryophyllene",
+        "title": "Trans-Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/farnesene",
+        "text": "Farnesene",
+        "title": "Farnesene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

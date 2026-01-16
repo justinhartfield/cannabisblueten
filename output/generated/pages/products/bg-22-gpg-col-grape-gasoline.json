@@ -1,0 +1,225 @@
+{
+  "product": {
+    "slug": "bg-22-gpg-col-grape-gasoline",
+    "name": "BG 22 GPG COL Grape Gasoline",
+    "type": "flower",
+    "genetics": "hybrid",
+    "thcPercent": 22,
+    "cbdPercent": 1,
+    "priceMin": 419,
+    "priceMax": 499,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": "https://weed.de/products/bg-22-gpg-col-5i047h.jpeg"
+  },
+  "brand": {
+    "slug": "adrexpharma",
+    "name": "Adrexpharma",
+    "productCount": 60
+  },
+  "strain": {
+    "slug": "grape-gasoline",
+    "name": "Grape Gasoline",
+    "geneticType": "hybrid",
+    "effects": [
+      "Relaxed",
+      "Uplifted",
+      "Euphoric"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Caryophyllene",
+      "Limonene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Relaxed",
+      "Uplifted",
+      "Euphoric"
+    ],
+    "tastes": [
+      "Citrus",
+      "Earthy",
+      "Lemon"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Caryophyllene",
+      "Limonene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "tilray-thc-25-spotlight-porto-purps",
+      "name": "Tilray THC 25 Spotlight Porto Purps",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": 349,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc5cbd2",
+      "name": "Tilray Cannabisextrakt THC5:CBD20",
+      "brandName": "Tilray",
+      "thcPercent": 5,
+      "priceMin": 350,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc1cbd1",
+      "name": "Tilray Cannabisextrakt THC10:CBD10",
+      "brandName": "Tilray",
+      "thcPercent": 10,
+      "priceMin": 400,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-2",
+      "name": "Demecan Typ 2",
+      "brandName": "Demecan",
+      "thcPercent": 16,
+      "priceMin": 533,
+      "inStock": true
+    },
+    {
+      "slug": "khiron-191-gelato",
+      "name": "Khiron 19/1 Gelato",
+      "brandName": "Khiron",
+      "thcPercent": 17.6,
+      "priceMin": 638,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc25",
+      "name": "Tilray Cannabisextrakt THC25",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": 895,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "BG 22 GPG COL Grape Gasoline - Adrexpharma | ab 4,19 €",
+      "description": "BG 22 GPG COL Grape Gasoline von Adrexpharma. THC: 22%, CBD: 1%. Sorte: Grape Gasoline. Preis ab 4,19 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/bg-22-gpg-col-grape-gasoline",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "BG 22 GPG COL Grape Gasoline - Adrexpharma | ab 4,19 €",
+        "description": "BG 22 GPG COL Grape Gasoline von Adrexpharma. THC: 22%, CBD: 1%. Sorte: Grape Gasoline. Preis ab 4,19 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/bg-22-gpg-col-grape-gasoline",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/bg-22-gpg-col-5i047h.jpeg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Adrexpharma",
+        "href": "https://weed.de/brand/adrexpharma"
+      },
+      {
+        "name": "BG 22 GPG COL Grape Gasoline",
+        "href": "https://weed.de/product/bg-22-gpg-col-grape-gasoline"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "BG 22 GPG COL Grape Gasoline",
+            "item": "https://weed.de/product/bg-22-gpg-col-grape-gasoline"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BG 22 GPG COL Grape Gasoline",
+        "brand": {
+          "@type": "Brand",
+          "name": "Adrexpharma"
+        },
+        "description": "THC: 22%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/grape-gasoline",
+      "text": "Grape Gasoline",
+      "title": "Grape Gasoline Sorte"
+    },
+    "brand": {
+      "href": "/brand/adrexpharma",
+      "text": "Adrexpharma",
+      "title": "Alle Adrexpharma Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/tilray-thc-25-spotlight-porto-purps",
+        "text": "Tilray THC 25 Spotlight Porto Purps",
+        "title": "Alternative: Tilray THC 25 Spotlight Porto Purps"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc5cbd2",
+        "text": "Tilray Cannabisextrakt THC5:CBD20",
+        "title": "Alternative: Tilray Cannabisextrakt THC5:CBD20"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc1cbd1",
+        "text": "Tilray Cannabisextrakt THC10:CBD10",
+        "title": "Alternative: Tilray Cannabisextrakt THC10:CBD10"
+      },
+      {
+        "href": "/product/demecan-typ-2",
+        "text": "Demecan Typ 2",
+        "title": "Alternative: Demecan Typ 2"
+      },
+      {
+        "href": "/product/khiron-191-gelato",
+        "text": "Khiron 19/1 Gelato",
+        "title": "Alternative: Khiron 19/1 Gelato"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc25",
+        "text": "Tilray Cannabisextrakt THC25",
+        "title": "Alternative: Tilray Cannabisextrakt THC25"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

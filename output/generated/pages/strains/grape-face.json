@@ -1,0 +1,261 @@
+{
+  "strain": {
+    "slug": "grape-face",
+    "name": "Grape Face",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [
+      "Euphoric",
+      "Happy",
+      "Hungry"
+    ],
+    "tastes": [
+      "Sweet",
+      "Pine",
+      "Herbal"
+    ],
+    "terpenes": [
+      "Beta-Myrcene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 4,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 333,
+      "max": 795,
+      "formatted": {
+        "min": "3,33 €",
+        "max": "7,95 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "huala-21-ca-grf",
+      "name": "Huala 20/1 CA GRF",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 20,
+      "priceMin": 699,
+      "inStock": false
+    },
+    {
+      "slug": "huala-221-ca-grf",
+      "name": "Huala 22/1 CA GRF",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 22,
+      "priceMin": 333,
+      "inStock": true
+    },
+    {
+      "slug": "huala-251-ca-grf",
+      "name": "Huala 25/1 CA GRF",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 25,
+      "priceMin": 795,
+      "inStock": true
+    },
+    {
+      "slug": "huala-271-ca-grf",
+      "name": "HUALA 27/1 CA GRF",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 27,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "do-si-dos",
+      "name": "Do-Si-Dos",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "purple-ice-water",
+      "name": "Purple Ice Water",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "chemical-kush",
+      "name": "Chemical Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "crispy-doughnut",
+      "name": "Crispy Doughnut",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "pineapple-god",
+      "name": "Pineapple God",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Grape Face (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Grape Face: Euphoric, Happy, Hungry. 4 Produkte verfügbar. ab 3,33 €.",
+      "canonical": "https://weed.de/strain/grape-face",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Grape Face (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Grape Face: Euphoric, Happy, Hungry. 4 Produkte verfügbar. ab 3,33 €.",
+        "url": "https://weed.de/strain/grape-face",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Grape Face",
+        "href": "https://weed.de/strain/grape-face"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Grape Face",
+            "item": "https://weed.de/strain/grape-face"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Grape Face Produkte",
+        "numberOfItems": 4,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/huala-21-ca-grf",
+            "name": "Huala 20/1 CA GRF"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/huala-221-ca-grf",
+            "name": "Huala 22/1 CA GRF"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/huala-251-ca-grf",
+            "name": "Huala 25/1 CA GRF"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/product/huala-271-ca-grf",
+            "name": "HUALA 27/1 CA GRF"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/huala-21-ca-grf",
+        "text": "Huala 20/1 CA GRF",
+        "title": "Huala 20/1 CA GRF von Four 20 Pharma"
+      },
+      {
+        "href": "/product/huala-221-ca-grf",
+        "text": "Huala 22/1 CA GRF",
+        "title": "Huala 22/1 CA GRF von Four 20 Pharma"
+      },
+      {
+        "href": "/product/huala-251-ca-grf",
+        "text": "Huala 25/1 CA GRF",
+        "title": "Huala 25/1 CA GRF von Four 20 Pharma"
+      },
+      {
+        "href": "/product/huala-271-ca-grf",
+        "text": "HUALA 27/1 CA GRF",
+        "title": "HUALA 27/1 CA GRF von Four 20 Pharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/do-si-dos",
+        "text": "Do-Si-Dos",
+        "title": "Do-Si-Dos - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/purple-ice-water",
+        "text": "Purple Ice Water",
+        "title": "Purple Ice Water - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/chemical-kush",
+        "text": "Chemical Kush",
+        "title": "Chemical Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/crispy-doughnut",
+        "text": "Crispy Doughnut",
+        "title": "Crispy Doughnut - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/pineapple-god",
+        "text": "Pineapple God",
+        "title": "Pineapple God - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/beta-myrcene",
+        "text": "Beta-Myrcene",
+        "title": "Beta-Myrcene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

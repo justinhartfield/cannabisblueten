@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "neue-raths-apotheke",
+    "name": "Neue Raths Apotheke",
+    "street": "Bahnhofstraße 1",
+    "zip": "63165",
+    "cityName": "Mühlheim am Main",
+    "state": "Hessen",
+    "lat": 50.124524,
+    "lng": 8.8326692,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "www.cannabis-muehlheim.de",
+    "phone": "0610897880",
+    "email": "info@neuerathsapotheke.com",
+    "productCount": 32,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/68d253937ea4868834dd6296-5h2i09.jpg"
+  },
+  "city": {
+    "slug": "muehlheim-am-main",
+    "name": "Mühlheim am Main",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "cannabis-vital-apotheke",
+      "name": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
+      "cityName": "Hattersheim am Main",
+      "productCount": 187,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis-apotheke-frankfurtkissel-apotheke",
+      "name": "Cannabis Apotheke Frankfurt/Kissel-Apotheke",
+      "cityName": "Frankfurt am Main",
+      "productCount": 183,
+      "hasDelivery": true
+    },
+    {
+      "slug": "schloss-apotheke",
+      "name": "Schloss Apotheke / svapo.de",
+      "cityName": "Offenbach am Main",
+      "productCount": 148,
+      "hasDelivery": true
+    },
+    {
+      "slug": "42unicornde",
+      "name": "420unicorn.de",
+      "cityName": "Kassel",
+      "productCount": 123,
+      "hasDelivery": true
+    },
+    {
+      "slug": "amts-apotheke",
+      "name": "Taunus-Blüten",
+      "cityName": "Usingen",
+      "productCount": 77,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Neue Raths Apotheke - Cannabis Apotheke in Mühlheim am Main",
+      "description": "Neue Raths Apotheke in Mühlheim am Main. 32 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/neue-raths-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Neue Raths Apotheke - Cannabis Apotheke in Mühlheim am Main",
+        "description": "Neue Raths Apotheke in Mühlheim am Main. 32 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/neue-raths-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/68d253937ea4868834dd6296-5h2i09.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Mühlheim am Main",
+        "href": "https://weed.de/cannabis-apotheke/muehlheim-am-main"
+      },
+      {
+        "name": "Neue Raths Apotheke",
+        "href": "https://weed.de/apotheke/neue-raths-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Mühlheim am Main",
+            "item": "https://weed.de/cannabis-apotheke/muehlheim-am-main"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Neue Raths Apotheke",
+            "item": "https://weed.de/apotheke/neue-raths-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Neue Raths Apotheke",
+        "url": "https://weed.de/apotheke/neue-raths-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Bahnhofstraße 1",
+          "addressLocality": "Mühlheim am Main",
+          "postalCode": "63165",
+          "addressRegion": "Hessen",
+          "addressCountry": "DE"
+        },
+        "telephone": "0610897880",
+        "email": "info@neuerathsapotheke.com"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/muehlheim-am-main",
+      "text": "Cannabis Apotheken in Mühlheim am Main",
+      "title": "Alle Apotheken in Mühlheim am Main"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/cannabis-vital-apotheke",
+        "text": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
+        "title": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim) in Hattersheim am Main"
+      },
+      {
+        "href": "/apotheke/cannabis-apotheke-frankfurtkissel-apotheke",
+        "text": "Cannabis Apotheke Frankfurt/Kissel-Apotheke",
+        "title": "Cannabis Apotheke Frankfurt/Kissel-Apotheke in Frankfurt am Main"
+      },
+      {
+        "href": "/apotheke/schloss-apotheke",
+        "text": "Schloss Apotheke / svapo.de",
+        "title": "Schloss Apotheke / svapo.de in Offenbach am Main"
+      },
+      {
+        "href": "/apotheke/42unicornde",
+        "text": "420unicorn.de",
+        "title": "420unicorn.de in Kassel"
+      },
+      {
+        "href": "/apotheke/amts-apotheke",
+        "text": "Taunus-Blüten",
+        "title": "Taunus-Blüten in Usingen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

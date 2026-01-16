@@ -1,0 +1,232 @@
+{
+  "strain": {
+    "slug": "lost-cause",
+    "name": "Lost Cause",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Calming",
+      "Uplifted",
+      "Relaxed",
+      "Tingly"
+    ],
+    "tastes": [
+      "Sweet",
+      "Sour",
+      "Apple",
+      "Spicy-Herbal",
+      "Flowery"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Terpinolene",
+      "Humulene"
+    ],
+    "description": "Lost Cause ist eine Hybrid-Marihuana-Sorte, gezüchtet von Trichome Farms durch die Kreuzung von Amnesia Haze und Do-Si-Dos. Mit 19% THC ist sie perfekt für Anfänger geeignet. Ihre funkelnden Buds verströmen einen süß-sauren Apfelduft, der von einer würzigen, blumigen Note begleitet wird. Der Geschmack ist ebenso süß, blumig und fruchtig. Lost Cause erzeugt einen kribbelnden, beruhigenden Effekt, der den Geist anhebt und den Körper entspannt, ohne starke Sedierung zu verursachen. Mit einem hohen THC-Gehalt zwischen 19% und 25% wird ihr Terpenprofil von Caryophyllene, Terpinolene und Humulene dominiert.",
+    "imageUrl": "/strains/lost_cause-7cbec0.png"
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": null
+  },
+  "products": [
+    {
+      "slug": "cannamedical-hybrid-forte",
+      "name": "Cannamedical Hybrid forte LC",
+      "brandName": "Cannamedical",
+      "thcPercent": 24,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "cannamedical-hybrid-classic-lc",
+      "name": "Cannamedical Hybrid classic LC",
+      "brandName": "Cannamedical",
+      "thcPercent": 20,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "spritzer",
+      "name": "Spritzer",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "ultra-sour",
+      "name": "Ultra Sour",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "auto-strawberry-banana-purps",
+      "name": "Auto Strawberry Banana Purps",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "auto-girl-scout-cookies",
+      "name": "Auto Girl Scout Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "zour-apple",
+      "name": "Zour Apple",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Lost Cause (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Lost Cause: Calming, Uplifted, Relaxed. 2 Produkte verfügbar.",
+      "canonical": "https://weed.de/strain/lost-cause",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Lost Cause (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Lost Cause: Calming, Uplifted, Relaxed. 2 Produkte verfügbar.",
+        "url": "https://weed.de/strain/lost-cause",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "/strains/lost_cause-7cbec0.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Lost Cause",
+        "href": "https://weed.de/strain/lost-cause"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Lost Cause",
+            "item": "https://weed.de/strain/lost-cause"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Lost Cause Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/cannamedical-hybrid-forte",
+            "name": "Cannamedical Hybrid forte LC"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/cannamedical-hybrid-classic-lc",
+            "name": "Cannamedical Hybrid classic LC"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/cannamedical-hybrid-forte",
+        "text": "Cannamedical Hybrid forte LC",
+        "title": "Cannamedical Hybrid forte LC von Cannamedical"
+      },
+      {
+        "href": "/product/cannamedical-hybrid-classic-lc",
+        "text": "Cannamedical Hybrid classic LC",
+        "title": "Cannamedical Hybrid classic LC von Cannamedical"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/spritzer",
+        "text": "Spritzer",
+        "title": "Spritzer - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/ultra-sour",
+        "text": "Ultra Sour",
+        "title": "Ultra Sour - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/auto-strawberry-banana-purps",
+        "text": "Auto Strawberry Banana Purps",
+        "title": "Auto Strawberry Banana Purps - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/auto-girl-scout-cookies",
+        "text": "Auto Girl Scout Cookies",
+        "title": "Auto Girl Scout Cookies - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/zour-apple",
+        "text": "Zour Apple",
+        "title": "Zour Apple - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/terpinolene",
+        "text": "Terpinolene",
+        "title": "Terpinolene Terpen"
+      },
+      {
+        "href": "/terpene/humulene",
+        "text": "Humulene",
+        "title": "Humulene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "apotheke-zum-goldenen-anker",
+    "name": "Apotheke zum goldenen Anker",
+    "street": "Lenaustraße 19",
+    "zip": "12047",
+    "cityName": "Berlin",
+    "state": "Berlin",
+    "lat": 52.4905135,
+    "lng": 13.4283145,
+    "hasDelivery": false,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://www.apo-goldenenanker.de/",
+    "phone": "0306232496",
+    "email": "apo-goldeneranker@hotmail.de",
+    "productCount": 7,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/68ff4c2455496c85b508d8a4-4bg8ad.jpg"
+  },
+  "city": {
+    "slug": "berlin",
+    "name": "Berlin",
+    "pharmacyCount": 27
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "asavita",
+      "name": "Asavita",
+      "cityName": "Berlin",
+      "productCount": 126,
+      "hasDelivery": true
+    },
+    {
+      "slug": "herbery",
+      "name": "Herbery Berlin",
+      "cityName": "Berlin",
+      "productCount": 91,
+      "hasDelivery": true
+    },
+    {
+      "slug": "preussen-apotheke-spandau",
+      "name": "Preussen Apotheke Spandau",
+      "cityName": "Berlin",
+      "productCount": 66,
+      "hasDelivery": true
+    },
+    {
+      "slug": "jiroo",
+      "name": "jiroo",
+      "cityName": "Berlin",
+      "productCount": 57,
+      "hasDelivery": true
+    },
+    {
+      "slug": "witzleben-apotheke-24-1",
+      "name": "Witzleben Apotheke 24",
+      "cityName": "Berlin",
+      "productCount": 48,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Apotheke zum goldenen Anker - Cannabis Apotheke in Berlin",
+      "description": "Apotheke zum goldenen Anker in Berlin. 7 Cannabis Produkte. Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/apotheke-zum-goldenen-anker",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Apotheke zum goldenen Anker - Cannabis Apotheke in Berlin",
+        "description": "Apotheke zum goldenen Anker in Berlin. 7 Cannabis Produkte. Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/apotheke-zum-goldenen-anker",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/68ff4c2455496c85b508d8a4-4bg8ad.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Berlin",
+        "href": "https://weed.de/cannabis-apotheke/berlin"
+      },
+      {
+        "name": "Apotheke zum goldenen Anker",
+        "href": "https://weed.de/apotheke/apotheke-zum-goldenen-anker"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Berlin",
+            "item": "https://weed.de/cannabis-apotheke/berlin"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Apotheke zum goldenen Anker",
+            "item": "https://weed.de/apotheke/apotheke-zum-goldenen-anker"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Apotheke zum goldenen Anker",
+        "url": "https://weed.de/apotheke/apotheke-zum-goldenen-anker",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Lenaustraße 19",
+          "addressLocality": "Berlin",
+          "postalCode": "12047",
+          "addressRegion": "Berlin",
+          "addressCountry": "DE"
+        },
+        "telephone": "0306232496",
+        "email": "apo-goldeneranker@hotmail.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/berlin",
+      "text": "Cannabis Apotheken in Berlin",
+      "title": "Alle Apotheken in Berlin"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/asavita",
+        "text": "Asavita",
+        "title": "Asavita in Berlin"
+      },
+      {
+        "href": "/apotheke/herbery",
+        "text": "Herbery Berlin",
+        "title": "Herbery Berlin in Berlin"
+      },
+      {
+        "href": "/apotheke/preussen-apotheke-spandau",
+        "text": "Preussen Apotheke Spandau",
+        "title": "Preussen Apotheke Spandau in Berlin"
+      },
+      {
+        "href": "/apotheke/jiroo",
+        "text": "jiroo",
+        "title": "jiroo in Berlin"
+      },
+      {
+        "href": "/apotheke/witzleben-apotheke-24-1",
+        "text": "Witzleben Apotheke 24",
+        "title": "Witzleben Apotheke 24 in Berlin"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

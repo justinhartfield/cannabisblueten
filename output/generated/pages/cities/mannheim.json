@@ -1,0 +1,275 @@
+{
+  "city": {
+    "slug": "mannheim",
+    "name": "Mannheim",
+    "state": "Baden-Württemberg"
+  },
+  "stats": {
+    "pharmacyCount": 6,
+    "totalProducts": 181,
+    "hasDelivery": true
+  },
+  "pharmacies": [
+    {
+      "slug": "kurpfalz-apotheke",
+      "name": "Kurpfalz-Apotheke",
+      "street": "G3 6",
+      "zip": "68159",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 90,
+      "rating": 5,
+      "ratingCount": 3
+    },
+    {
+      "slug": "cannflos-apo",
+      "name": "Medflower Collini-Apotheke",
+      "street": "Collinistraße 11",
+      "zip": "68161",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 67,
+      "rating": 2,
+      "ratingCount": 4
+    },
+    {
+      "slug": "neckar-apotheke",
+      "name": "cannama² - Neckar Apotheke Mannheim",
+      "street": "Mittelstraße 16",
+      "zip": "68169",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 24,
+      "rating": 5,
+      "ratingCount": 1
+    },
+    {
+      "slug": "falken-apotheke",
+      "name": "Falken Apotheke",
+      "street": "Lange Rötterstr. 5",
+      "zip": "68167",
+      "hasDelivery": false,
+      "hasPickup": false,
+      "productCount": 0,
+      "rating": 5,
+      "ratingCount": 1
+    },
+    {
+      "slug": "gruenebriese",
+      "name": "Grünebriese",
+      "street": "Mannheim, Deutschland",
+      "zip": "68",
+      "hasDelivery": false,
+      "hasPickup": false,
+      "productCount": 0,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "apotheke-in-der-alten-seilerei",
+      "name": "Cannem - Dein Cannabis aus Mannheim",
+      "street": "Angelstraße 7",
+      "zip": "68199",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 0,
+      "rating": 0,
+      "ratingCount": 0
+    }
+  ],
+  "nearbyCities": [
+    {
+      "slug": "stuttgart",
+      "name": "Stuttgart",
+      "pharmacyCount": 6
+    },
+    {
+      "slug": "karlsruhe",
+      "name": "Karlsruhe",
+      "pharmacyCount": 5
+    },
+    {
+      "slug": "baden-baden",
+      "name": "Baden-Baden",
+      "pharmacyCount": 3
+    },
+    {
+      "slug": "tuebingen",
+      "name": "Tübingen",
+      "pharmacyCount": 2
+    },
+    {
+      "slug": "heidelberg",
+      "name": "Heidelberg",
+      "pharmacyCount": 2
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannabis Apotheke Mannheim - 6 Apotheken",
+      "description": "Cannabis Apotheken in Mannheim. 6 Apotheken mit 181 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+      "canonical": "https://weed.de/cannabis-apotheke/mannheim",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannabis Apotheke Mannheim - 6 Apotheken",
+        "description": "Cannabis Apotheken in Mannheim. 6 Apotheken mit 181 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+        "url": "https://weed.de/cannabis-apotheke/mannheim",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Mannheim",
+        "href": "https://weed.de/cannabis-apotheke/mannheim"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Mannheim",
+            "item": "https://weed.de/cannabis-apotheke/mannheim"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Cannabis Apotheken in Mannheim",
+        "numberOfItems": 6,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/apotheke/kurpfalz-apotheke",
+            "name": "Kurpfalz-Apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/apotheke/cannflos-apo",
+            "name": "Medflower Collini-Apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/apotheke/neckar-apotheke",
+            "name": "cannama² - Neckar Apotheke Mannheim"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/apotheke/falken-apotheke",
+            "name": "Falken Apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "https://weed.de/apotheke/gruenebriese",
+            "name": "Grünebriese"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "url": "https://weed.de/apotheke/apotheke-in-der-alten-seilerei",
+            "name": "Cannem - Dein Cannabis aus Mannheim"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "pharmacies": [
+      {
+        "href": "/apotheke/kurpfalz-apotheke",
+        "text": "Kurpfalz-Apotheke",
+        "title": "Kurpfalz-Apotheke in Mannheim"
+      },
+      {
+        "href": "/apotheke/cannflos-apo",
+        "text": "Medflower Collini-Apotheke",
+        "title": "Medflower Collini-Apotheke in Mannheim"
+      },
+      {
+        "href": "/apotheke/neckar-apotheke",
+        "text": "cannama² - Neckar Apotheke Mannheim",
+        "title": "cannama² - Neckar Apotheke Mannheim in Mannheim"
+      },
+      {
+        "href": "/apotheke/falken-apotheke",
+        "text": "Falken Apotheke",
+        "title": "Falken Apotheke in Mannheim"
+      },
+      {
+        "href": "/apotheke/gruenebriese",
+        "text": "Grünebriese",
+        "title": "Grünebriese in Mannheim"
+      },
+      {
+        "href": "/apotheke/apotheke-in-der-alten-seilerei",
+        "text": "Cannem - Dein Cannabis aus Mannheim",
+        "title": "Cannem - Dein Cannabis aus Mannheim in Mannheim"
+      }
+    ],
+    "nearbyCities": [
+      {
+        "href": "/cannabis-apotheke/stuttgart",
+        "text": "Cannabis Apotheke Stuttgart",
+        "title": "6 Apotheken in Stuttgart"
+      },
+      {
+        "href": "/cannabis-apotheke/karlsruhe",
+        "text": "Cannabis Apotheke Karlsruhe",
+        "title": "5 Apotheken in Karlsruhe"
+      },
+      {
+        "href": "/cannabis-apotheke/baden-baden",
+        "text": "Cannabis Apotheke Baden-Baden",
+        "title": "3 Apotheken in Baden-Baden"
+      },
+      {
+        "href": "/cannabis-apotheke/tuebingen",
+        "text": "Cannabis Apotheke Tübingen",
+        "title": "2 Apotheken in Tübingen"
+      },
+      {
+        "href": "/cannabis-apotheke/heidelberg",
+        "text": "Cannabis Apotheke Heidelberg",
+        "title": "2 Apotheken in Heidelberg"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has 6 pharmacies"
+  }
+}

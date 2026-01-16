@@ -1,0 +1,235 @@
+{
+  "product": {
+    "slug": "demecan-ps-lean-drop",
+    "name": "Demecan PS Lean Drop",
+    "type": "flower",
+    "genetics": "hybrid_sativa",
+    "thcPercent": 22,
+    "cbdPercent": 1,
+    "priceMin": 389,
+    "priceMax": 599,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": "https://weed.de/products/ps-lean-drop-g5ge7b.png"
+  },
+  "brand": {
+    "slug": "demecan",
+    "name": "Demecan",
+    "productCount": 168
+  },
+  "strain": {
+    "slug": "tropaya-punch",
+    "name": "Tropaya Punch",
+    "geneticType": "hybrid",
+    "effects": [
+      "Euphoric",
+      "Relaxed",
+      "Stress-relief",
+      "Pain-relief",
+      "Headache",
+      "Calming"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Myrcene",
+      "Pinene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Euphoric",
+      "Relaxed",
+      "Stress-relief",
+      "Pain-relief",
+      "Headache",
+      "Calming"
+    ],
+    "tastes": [
+      "Mango",
+      "Berry",
+      "Sweet",
+      "Gassy",
+      "Earthy",
+      "Woody",
+      "Citrus"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Myrcene",
+      "Pinene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "avextra-1010",
+      "name": "Avextra 10/10",
+      "brandName": "Avextra",
+      "thcPercent": 1,
+      "priceMin": 279,
+      "inStock": true
+    },
+    {
+      "slug": "amp-classic-251",
+      "name": "AMP Classic 25/1",
+      "brandName": "AMP",
+      "thcPercent": 25,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "weeco-231",
+      "name": "Weeco 23/1",
+      "brandName": "Weeco",
+      "thcPercent": 23,
+      "priceMin": 599,
+      "inStock": true
+    },
+    {
+      "slug": "aurora-221-dhz-ca",
+      "name": "Aurora 22/1 DHZ-CA",
+      "brandName": "Aurora",
+      "thcPercent": 19.8,
+      "priceMin": 640,
+      "inStock": true
+    },
+    {
+      "slug": "420-evolution-271-ca-str",
+      "name": "420 Evolution 27/1 CA STR",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 27,
+      "priceMin": 645,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-221-florestura",
+      "name": "DEMECAN Florestura 22:01",
+      "brandName": "Deutsche Medizinalcannabis",
+      "thcPercent": 22,
+      "priceMin": 679,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Demecan PS Lean Drop | ab 3,89 €",
+      "description": "Demecan PS Lean Drop von Demecan. THC: 22%, CBD: 1%. Sorte: Tropaya Punch. Preis ab 3,89 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/demecan-ps-lean-drop",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Demecan PS Lean Drop | ab 3,89 €",
+        "description": "Demecan PS Lean Drop von Demecan. THC: 22%, CBD: 1%. Sorte: Tropaya Punch. Preis ab 3,89 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/demecan-ps-lean-drop",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/ps-lean-drop-g5ge7b.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Demecan",
+        "href": "https://weed.de/brand/demecan"
+      },
+      {
+        "name": "Demecan PS Lean Drop",
+        "href": "https://weed.de/product/demecan-ps-lean-drop"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Demecan PS Lean Drop",
+            "item": "https://weed.de/product/demecan-ps-lean-drop"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Demecan PS Lean Drop",
+        "brand": {
+          "@type": "Brand",
+          "name": "Demecan"
+        },
+        "description": "THC: 22%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/tropaya-punch",
+      "text": "Tropaya Punch",
+      "title": "Tropaya Punch Sorte"
+    },
+    "brand": {
+      "href": "/brand/demecan",
+      "text": "Demecan",
+      "title": "Alle Demecan Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/avextra-1010",
+        "text": "Avextra 10/10",
+        "title": "Alternative: Avextra 10/10"
+      },
+      {
+        "href": "/product/amp-classic-251",
+        "text": "AMP Classic 25/1",
+        "title": "Alternative: AMP Classic 25/1"
+      },
+      {
+        "href": "/product/weeco-231",
+        "text": "Weeco 23/1",
+        "title": "Alternative: Weeco 23/1"
+      },
+      {
+        "href": "/product/aurora-221-dhz-ca",
+        "text": "Aurora 22/1 DHZ-CA",
+        "title": "Alternative: Aurora 22/1 DHZ-CA"
+      },
+      {
+        "href": "/product/420-evolution-271-ca-str",
+        "text": "420 Evolution 27/1 CA STR",
+        "title": "Alternative: 420 Evolution 27/1 CA STR"
+      },
+      {
+        "href": "/product/demecan-221-florestura",
+        "text": "DEMECAN Florestura 22:01",
+        "title": "Alternative: DEMECAN Florestura 22:01"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "brand": {
+    "slug": "dopiopharm",
+    "name": "Dopiopharm",
+    "productCount": 6
+  },
+  "products": [
+    {
+      "slug": "tikun-erez-21",
+      "name": "Tikun Erez 20/1",
+      "type": "flower",
+      "thcPercent": 21.9,
+      "priceMin": 499,
+      "inStock": true,
+      "strainName": "Erez"
+    },
+    {
+      "slug": "tikun-midnight-114",
+      "name": "Tikun Midnight 10/14",
+      "type": "flower",
+      "thcPercent": 11.3,
+      "priceMin": 773,
+      "inStock": true,
+      "strainName": "Midnight"
+    },
+    {
+      "slug": "tikun-gnc-31",
+      "name": "Tikun GNC 30/1",
+      "type": "flower",
+      "thcPercent": 30,
+      "priceMin": 895,
+      "inStock": true,
+      "strainName": "Grapes & Cream"
+    },
+    {
+      "slug": "tikun-noga-271",
+      "name": "Tikun Noga 27/1",
+      "type": "flower",
+      "thcPercent": 27,
+      "priceMin": 593,
+      "inStock": true,
+      "strainName": "Noga"
+    },
+    {
+      "slug": "tikun-cap-j-311",
+      "name": "Tikun CAP J 31/1",
+      "type": "flower",
+      "thcPercent": 31,
+      "priceMin": 729,
+      "inStock": true,
+      "strainName": "Cap Junky"
+    },
+    {
+      "slug": "tikun-oz-221",
+      "name": "Tikun OZ 22/1",
+      "type": "flower",
+      "thcPercent": 22,
+      "priceMin": 550,
+      "inStock": true,
+      "strainName": "OZ"
+    }
+  ],
+  "stats": {
+    "productCount": 6,
+    "inStockCount": 6,
+    "avgThc": 23.9,
+    "priceRange": {
+      "min": 499,
+      "max": 895,
+      "formatted": {
+        "min": "4,99 €",
+        "max": "8,95 €"
+      }
+    }
+  },
+  "seo": {
+    "meta": {
+      "title": "Dopiopharm Cannabis Produkte - 6 Produkte",
+      "description": "Dopiopharm: 6 Cannabis Produkte. 6 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+      "canonical": "https://weed.de/brand/dopiopharm",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Dopiopharm Cannabis Produkte - 6 Produkte",
+        "description": "Dopiopharm: 6 Cannabis Produkte. 6 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+        "url": "https://weed.de/brand/dopiopharm",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Hersteller",
+        "href": "https://weed.de/brands"
+      },
+      {
+        "name": "Dopiopharm",
+        "href": "https://weed.de/brand/dopiopharm"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Hersteller",
+            "item": "https://weed.de/brands"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Dopiopharm",
+            "item": "https://weed.de/brand/dopiopharm"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Dopiopharm Produkte",
+        "numberOfItems": 6,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/tikun-erez-21",
+            "name": "Tikun Erez 20/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/tikun-midnight-114",
+            "name": "Tikun Midnight 10/14"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/tikun-gnc-31",
+            "name": "Tikun GNC 30/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/product/tikun-noga-271",
+            "name": "Tikun Noga 27/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "https://weed.de/product/tikun-cap-j-311",
+            "name": "Tikun CAP J 31/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "url": "https://weed.de/product/tikun-oz-221",
+            "name": "Tikun OZ 22/1"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/tikun-erez-21",
+        "text": "Tikun Erez 20/1",
+        "title": "Tikun Erez 20/1"
+      },
+      {
+        "href": "/product/tikun-midnight-114",
+        "text": "Tikun Midnight 10/14",
+        "title": "Tikun Midnight 10/14"
+      },
+      {
+        "href": "/product/tikun-gnc-31",
+        "text": "Tikun GNC 30/1",
+        "title": "Tikun GNC 30/1"
+      },
+      {
+        "href": "/product/tikun-noga-271",
+        "text": "Tikun Noga 27/1",
+        "title": "Tikun Noga 27/1"
+      },
+      {
+        "href": "/product/tikun-cap-j-311",
+        "text": "Tikun CAP J 31/1",
+        "title": "Tikun CAP J 31/1"
+      },
+      {
+        "href": "/product/tikun-oz-221",
+        "text": "Tikun OZ 22/1",
+        "title": "Tikun OZ 22/1"
+      }
+    ]
+  }
+}

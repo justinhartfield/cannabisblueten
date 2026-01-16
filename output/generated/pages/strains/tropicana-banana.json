@@ -1,0 +1,231 @@
+{
+  "strain": {
+    "slug": "tropicana-banana",
+    "name": "Tropicana Banana",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Energetic",
+      "Focused",
+      "Calming",
+      "Body-buzz",
+      "Creative",
+      "Stress-relief",
+      "Mood-lifting"
+    ],
+    "tastes": [
+      "Banana",
+      "Mango",
+      "Orange",
+      "Tropical",
+      "Honey",
+      "Vanilla",
+      "Herbal",
+      "Tangy"
+    ],
+    "terpenes": [
+      "Pinene",
+      "Caryophyllene",
+      "Myrcene",
+      "Limonene"
+    ],
+    "description": "Tropicana Banana (oft auch als Tropical Banana geführt) ist eine Sativa-dominante Hybridsorte, die ursprünglich von Barney’s Farm aus der Kreuzung von Tropicanna und Banana Kush gezüchtet wurde. Mit einem breiten THC-Spektrum, das je nach Charge zwischen 16 % und 27 % variiert, und einem CBD-Wert von ca. 1 % liefert sie potente Effekte, die eine harmonische Mischung aus energetisierender Sativa-Power und entspannender Indica-Tiefe bieten. \n\nIhr komplexes Geschmacksprofil ist geprägt von süßen und tropischen Früchten (Banane, Mango, Orange), ergänzt durch Noten von Honig, Vanille und einer leichten Kräuterwürze. Das Terpenprofil, das von Pinen, Caryophyllen, Myrcen und Limonen dominiert wird, unterstreicht das Aroma mit frischen, zitrusartigen und würzigen Nuancen. \n\nDie Wirkung beginnt oft mit einem Energieschub, Fokus und Kreativität, bevor sie in eine körperliche Beruhigung übergeht, die jedoch nicht sofort sediert. Tropicana Banana ist ideal zur Linderung von Depressionen, Erschöpfung, Stress und Entzündungen, da sie stimmungsaufhellend wirkt und gleichzeitig Verspannungen löst. Zusammengefasst ist Tropicana Banana eine Sorte für alle, die ein cremiges Tropenfrucht-Aroma mit einem potenten, belebenden und ausgeglichenen High suchen.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 574,
+      "max": 799,
+      "formatted": {
+        "min": "5,74 €",
+        "max": "7,99 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "endo-canna-tb",
+      "name": "Endo Canna TB",
+      "brandName": "Cantourage",
+      "thcPercent": 27,
+      "priceMin": 574,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "patient-zero",
+      "name": "Patient Zero",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "spritzer",
+      "name": "Spritzer",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "white-gorilla",
+      "name": "White Gorilla",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "straweberry-cake",
+      "name": "Strawberry Cake",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "corkscrew-auto",
+      "name": "Corkscrew Auto",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Tropicana Banana (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Tropicana Banana: Energetic, Focused, Calming. 1 Produkte verfügbar. ab 5,74 €.",
+      "canonical": "https://weed.de/strain/tropicana-banana",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Tropicana Banana (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Tropicana Banana: Energetic, Focused, Calming. 1 Produkte verfügbar. ab 5,74 €.",
+        "url": "https://weed.de/strain/tropicana-banana",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Tropicana Banana",
+        "href": "https://weed.de/strain/tropicana-banana"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Tropicana Banana",
+            "item": "https://weed.de/strain/tropicana-banana"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Tropicana Banana Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/endo-canna-tb",
+            "name": "Endo Canna TB"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/endo-canna-tb",
+        "text": "Endo Canna TB",
+        "title": "Endo Canna TB von Cantourage"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/patient-zero",
+        "text": "Patient Zero",
+        "title": "Patient Zero - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/spritzer",
+        "text": "Spritzer",
+        "title": "Spritzer - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/white-gorilla",
+        "text": "White Gorilla",
+        "title": "White Gorilla - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/straweberry-cake",
+        "text": "Strawberry Cake",
+        "title": "Strawberry Cake - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/corkscrew-auto",
+        "text": "Corkscrew Auto",
+        "title": "Corkscrew Auto - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/pinene",
+        "text": "Pinene",
+        "title": "Pinene Terpen"
+      },
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "apotheke-im-forum",
+    "name": "Apotheke im Forum",
+    "street": "Bahnhofplatz 6",
+    "zip": "90762",
+    "cityName": "Fürth",
+    "state": "Bayern",
+    "lat": 49.4771169,
+    "lng": 10.988667,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://apotheke-forum.de/",
+    "phone": "091150720130",
+    "email": "info@cannafino.de",
+    "productCount": 57,
+    "rating": 5,
+    "ratingCount": 1,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/665cbe29e544f596adaa6776-5ig52d.jpg"
+  },
+  "city": {
+    "slug": "fuerth",
+    "name": "Fürth",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "cannabisapo24",
+      "name": "Cannabisapo24",
+      "cityName": "Augsburg",
+      "productCount": 364,
+      "hasDelivery": true
+    },
+    {
+      "slug": "spital-apotheke-zum-heiligen-geist",
+      "name": "Canthera.de | Spital Apotheke zum Heiligen Geist",
+      "cityName": "Nürnberg",
+      "productCount": 317,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannaplus-apotheke",
+      "name": "Cannaplus Apotheke",
+      "cityName": "Augsburg",
+      "productCount": 186,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis-apotheke-bayern-1",
+      "name": "Cannabis Apotheke Bayern",
+      "cityName": "Schweinfurt",
+      "productCount": 184,
+      "hasDelivery": true
+    },
+    {
+      "slug": "canamedico-cannabis-mainfranken",
+      "name": "canamedico® – Cannabis Mainfranken",
+      "cityName": "Volkach",
+      "productCount": 162,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Apotheke im Forum - Cannabis Apotheke in Fürth",
+      "description": "Apotheke im Forum in Fürth. 57 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/apotheke-im-forum",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Apotheke im Forum - Cannabis Apotheke in Fürth",
+        "description": "Apotheke im Forum in Fürth. 57 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/apotheke-im-forum",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/665cbe29e544f596adaa6776-5ig52d.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Fürth",
+        "href": "https://weed.de/cannabis-apotheke/fuerth"
+      },
+      {
+        "name": "Apotheke im Forum",
+        "href": "https://weed.de/apotheke/apotheke-im-forum"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Fürth",
+            "item": "https://weed.de/cannabis-apotheke/fuerth"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Apotheke im Forum",
+            "item": "https://weed.de/apotheke/apotheke-im-forum"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Apotheke im Forum",
+        "url": "https://weed.de/apotheke/apotheke-im-forum",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Bahnhofplatz 6",
+          "addressLocality": "Fürth",
+          "postalCode": "90762",
+          "addressRegion": "Bayern",
+          "addressCountry": "DE"
+        },
+        "telephone": "091150720130",
+        "email": "info@cannafino.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/fuerth",
+      "text": "Cannabis Apotheken in Fürth",
+      "title": "Alle Apotheken in Fürth"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/cannabisapo24",
+        "text": "Cannabisapo24",
+        "title": "Cannabisapo24 in Augsburg"
+      },
+      {
+        "href": "/apotheke/spital-apotheke-zum-heiligen-geist",
+        "text": "Canthera.de | Spital Apotheke zum Heiligen Geist",
+        "title": "Canthera.de | Spital Apotheke zum Heiligen Geist in Nürnberg"
+      },
+      {
+        "href": "/apotheke/cannaplus-apotheke",
+        "text": "Cannaplus Apotheke",
+        "title": "Cannaplus Apotheke in Augsburg"
+      },
+      {
+        "href": "/apotheke/cannabis-apotheke-bayern-1",
+        "text": "Cannabis Apotheke Bayern",
+        "title": "Cannabis Apotheke Bayern in Schweinfurt"
+      },
+      {
+        "href": "/apotheke/canamedico-cannabis-mainfranken",
+        "text": "canamedico® – Cannabis Mainfranken",
+        "title": "canamedico® – Cannabis Mainfranken in Volkach"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

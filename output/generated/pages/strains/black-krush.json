@@ -1,0 +1,239 @@
+{
+  "strain": {
+    "slug": "black-krush",
+    "name": "Black Krush",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Relaxed",
+      "Euphoric"
+    ],
+    "tastes": [
+      "Sweet",
+      "Tropical"
+    ],
+    "terpenes": [
+      "Beta-Myrcene",
+      "Beta-Caryophyllene",
+      "Alpha-Pinene",
+      "Farnesene"
+    ],
+    "description": "Black Krush, auch bekannt als „Black Russian“, ist eine vorwiegend Indica-dominierte Sorte, geboren aus der Kreuzung von \"White Russian\" und \"Black Domina\". Black Krush verfügt mit 23 % über einen hohen THC-Gehalt. Der Terpen-Gehalt von über 2 % wird dominiert von Beta-Myrcen, Beta-Caryophyllenc, Alpha-Pinen sowie Farnesen. Das Geschmacksprofil ist süß, mit einem tropischen Hauch. Dieser Sorte werden beruhigende Eigenschaften zugeschrieben, welche sie besonders für den abendlichen Gebrauch anbietet.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 750,
+      "max": 750,
+      "formatted": {
+        "min": "7,50 €",
+        "max": "7,50 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "avaay-231-bkr",
+      "name": "Avaay 23/1 BKR",
+      "brandName": "Avaay",
+      "thcPercent": 21.3,
+      "priceMin": 750,
+      "inStock": true
+    },
+    {
+      "slug": "avaay-211-bkr",
+      "name": "Avaay 21/1 BKR",
+      "brandName": "Avaay",
+      "thcPercent": 20.2,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "mandarin-cookies",
+      "name": "Mandarin Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "la-confidential",
+      "name": "LA Confidential",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "do-si-dos",
+      "name": "Do-Si-Dos",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "banjo",
+      "name": "Banjo",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "platinum-grapes",
+      "name": "Platinum Grapes",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Black Krush (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Black Krush: Relaxed, Euphoric. 2 Produkte verfügbar. ab 7,50 €.",
+      "canonical": "https://weed.de/strain/black-krush",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Black Krush (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Black Krush: Relaxed, Euphoric. 2 Produkte verfügbar. ab 7,50 €.",
+        "url": "https://weed.de/strain/black-krush",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Black Krush",
+        "href": "https://weed.de/strain/black-krush"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Black Krush",
+            "item": "https://weed.de/strain/black-krush"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Black Krush Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/avaay-231-bkr",
+            "name": "Avaay 23/1 BKR"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/avaay-211-bkr",
+            "name": "Avaay 21/1 BKR"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/avaay-231-bkr",
+        "text": "Avaay 23/1 BKR",
+        "title": "Avaay 23/1 BKR von Avaay"
+      },
+      {
+        "href": "/product/avaay-211-bkr",
+        "text": "Avaay 21/1 BKR",
+        "title": "Avaay 21/1 BKR von Avaay"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/mandarin-cookies",
+        "text": "Mandarin Cookies",
+        "title": "Mandarin Cookies - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/la-confidential",
+        "text": "LA Confidential",
+        "title": "LA Confidential - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/do-si-dos",
+        "text": "Do-Si-Dos",
+        "title": "Do-Si-Dos - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/banjo",
+        "text": "Banjo",
+        "title": "Banjo - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/platinum-grapes",
+        "text": "Platinum Grapes",
+        "title": "Platinum Grapes - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/beta-myrcene",
+        "text": "Beta-Myrcene",
+        "title": "Beta-Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/alpha-pinene",
+        "text": "Alpha-Pinene",
+        "title": "Alpha-Pinene Terpen"
+      },
+      {
+        "href": "/terpene/farnesene",
+        "text": "Farnesene",
+        "title": "Farnesene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

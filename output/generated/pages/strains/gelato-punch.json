@@ -1,0 +1,234 @@
+{
+  "strain": {
+    "slug": "gelato-punch",
+    "name": "Gelati Punch",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Uplifted",
+      "Creative"
+    ],
+    "tastes": [
+      "Citrus",
+      "Pepper",
+      "Fruity"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Limonene",
+      "Beta-Myrcene"
+    ],
+    "description": "Gelati Punch ist eine Indica-dominante Hybrid-Sorte mit einem THC-Gehalt von rund 29 % und einem CBD-Gehalt von 1%. Diese Sorte entstand durch die Kreuzung von \"Chemdawg\", \"Gelato\" und \"Grape Mac\". Die dominanten Terpene in Gelati Punch sind Caryophyllen, Limonen und Beta-Myrcen.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 1099,
+      "max": 1099,
+      "formatted": {
+        "min": "10,99 €",
+        "max": "10,99 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "cm-271-gp",
+      "name": "CM 27/1 GP",
+      "brandName": "Cannamedical",
+      "thcPercent": 28.6,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "cannamedical-cm-241-gp",
+      "name": "Cannamedical CM 24/1 GP",
+      "brandName": "Cannamedical",
+      "thcPercent": 24,
+      "priceMin": 1099,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "copper-chem",
+      "name": "Copper Chem",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "platinum-dosi-dos",
+      "name": "Platinum Dosi-Dos",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "cold-creek-kush",
+      "name": "Cold Creek Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "space-cake",
+      "name": "Space Cake",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "chemdawg",
+      "name": "Chemdawg",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Gelati Punch (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Gelati Punch: Uplifted, Creative. 2 Produkte verfügbar. ab 10,99 €.",
+      "canonical": "https://weed.de/strain/gelato-punch",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Gelati Punch (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Gelati Punch: Uplifted, Creative. 2 Produkte verfügbar. ab 10,99 €.",
+        "url": "https://weed.de/strain/gelato-punch",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Gelati Punch",
+        "href": "https://weed.de/strain/gelato-punch"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Gelati Punch",
+            "item": "https://weed.de/strain/gelato-punch"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Gelati Punch Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/cm-271-gp",
+            "name": "CM 27/1 GP"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/cannamedical-cm-241-gp",
+            "name": "Cannamedical CM 24/1 GP"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/cm-271-gp",
+        "text": "CM 27/1 GP",
+        "title": "CM 27/1 GP von Cannamedical"
+      },
+      {
+        "href": "/product/cannamedical-cm-241-gp",
+        "text": "Cannamedical CM 24/1 GP",
+        "title": "Cannamedical CM 24/1 GP von Cannamedical"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/copper-chem",
+        "text": "Copper Chem",
+        "title": "Copper Chem - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/platinum-dosi-dos",
+        "text": "Platinum Dosi-Dos",
+        "title": "Platinum Dosi-Dos - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/cold-creek-kush",
+        "text": "Cold Creek Kush",
+        "title": "Cold Creek Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/space-cake",
+        "text": "Space Cake",
+        "title": "Space Cake - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/chemdawg",
+        "text": "Chemdawg",
+        "title": "Chemdawg - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-myrcene",
+        "text": "Beta-Myrcene",
+        "title": "Beta-Myrcene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

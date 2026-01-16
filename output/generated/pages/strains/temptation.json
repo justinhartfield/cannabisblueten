@@ -1,0 +1,228 @@
+{
+  "strain": {
+    "slug": "temptation",
+    "name": "Temptation",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Focused",
+      "Creative",
+      "Euphoric"
+    ],
+    "tastes": [
+      "Vanilla",
+      "Sweet",
+      "Citrus"
+    ],
+    "terpenes": [
+      "Beta-Caryophyllene",
+      "Germacrene",
+      "Limonene",
+      "Farnesene",
+      "Trans-Nerolidol"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 598,
+      "max": 999,
+      "formatted": {
+        "min": "5,98 €",
+        "max": "9,99 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "21-iuvo-oc-temptation",
+      "name": "20/1 IUVO OC Temptation",
+      "brandName": "Iuvo",
+      "thcPercent": 20,
+      "priceMin": 598,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "neutronium",
+      "name": "Neutronium",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "platinum-grapes",
+      "name": "Platinum Grapes",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "mungo",
+      "name": "Mungo",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "zkittlez-x-sherb-bx1-x-permanent-marker",
+      "name": "Zkittlez x Sherb Bx1 x Permanent Marker",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "golden-gauth",
+      "name": "Golden Gauth",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Temptation (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Temptation: Focused, Creative, Euphoric. 1 Produkte verfügbar. ab 5,98 €.",
+      "canonical": "https://weed.de/strain/temptation",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Temptation (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Temptation: Focused, Creative, Euphoric. 1 Produkte verfügbar. ab 5,98 €.",
+        "url": "https://weed.de/strain/temptation",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Temptation",
+        "href": "https://weed.de/strain/temptation"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Temptation",
+            "item": "https://weed.de/strain/temptation"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Temptation Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/21-iuvo-oc-temptation",
+            "name": "20/1 IUVO OC Temptation"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/21-iuvo-oc-temptation",
+        "text": "20/1 IUVO OC Temptation",
+        "title": "20/1 IUVO OC Temptation von Iuvo"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/neutronium",
+        "text": "Neutronium",
+        "title": "Neutronium - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/platinum-grapes",
+        "text": "Platinum Grapes",
+        "title": "Platinum Grapes - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/mungo",
+        "text": "Mungo",
+        "title": "Mungo - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/zkittlez-x-sherb-bx1-x-permanent-marker",
+        "text": "Zkittlez x Sherb Bx1 x Permanent Marker",
+        "title": "Zkittlez x Sherb Bx1 x Permanent Marker - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/golden-gauth",
+        "text": "Golden Gauth",
+        "title": "Golden Gauth - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/germacrene",
+        "text": "Germacrene",
+        "title": "Germacrene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/farnesene",
+        "text": "Farnesene",
+        "title": "Farnesene Terpen"
+      },
+      {
+        "href": "/terpene/trans-nerolidol",
+        "text": "Trans-Nerolidol",
+        "title": "Trans-Nerolidol Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

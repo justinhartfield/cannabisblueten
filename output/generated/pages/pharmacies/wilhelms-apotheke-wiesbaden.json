@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "wilhelms-apotheke-wiesbaden",
+    "name": "Wilhelms Apotheke Wiesbaden",
+    "street": "Wilhelmstraße 6",
+    "zip": "65185",
+    "cityName": "Wiesbaden",
+    "state": "Hessen",
+    "lat": 50.078542,
+    "lng": 8.2447754,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": false,
+    "website": "https://www.all4cannabis.de",
+    "phone": "0611302100",
+    "email": "all4cannabis@wilhelms-apo-wiesbaden.de",
+    "productCount": 0,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/6968f49af3b79c5923c042eb-45aed8.jpg"
+  },
+  "city": {
+    "slug": "wiesbaden",
+    "name": "Wiesbaden",
+    "pharmacyCount": 4
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "park-apotheke-1",
+      "name": "Park Apotheke / Rhein-Main-Cannabis",
+      "cityName": "Wiesbaden",
+      "productCount": 56,
+      "hasDelivery": false
+    },
+    {
+      "slug": "taunus-apotheke",
+      "name": "Herbaluh / Taunus-Apotheke",
+      "cityName": "Wiesbaden",
+      "productCount": 38,
+      "hasDelivery": true
+    },
+    {
+      "slug": "adler-apotheke-2",
+      "name": "Adler Apotheke",
+      "cityName": "Wiesbaden",
+      "productCount": 35,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis-vital-apotheke",
+      "name": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
+      "cityName": "Hattersheim am Main",
+      "productCount": 187,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis-apotheke-frankfurtkissel-apotheke",
+      "name": "Cannabis Apotheke Frankfurt/Kissel-Apotheke",
+      "cityName": "Frankfurt am Main",
+      "productCount": 183,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Wilhelms Apotheke Wiesbaden - Cannabis Apotheke in Wiesbaden",
+      "description": "Wilhelms Apotheke Wiesbaden in Wiesbaden. Lieferung & Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/wilhelms-apotheke-wiesbaden",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Wilhelms Apotheke Wiesbaden - Cannabis Apotheke in Wiesbaden",
+        "description": "Wilhelms Apotheke Wiesbaden in Wiesbaden. Lieferung & Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/wilhelms-apotheke-wiesbaden",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/6968f49af3b79c5923c042eb-45aed8.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Wiesbaden",
+        "href": "https://weed.de/cannabis-apotheke/wiesbaden"
+      },
+      {
+        "name": "Wilhelms Apotheke Wiesbaden",
+        "href": "https://weed.de/apotheke/wilhelms-apotheke-wiesbaden"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Wiesbaden",
+            "item": "https://weed.de/cannabis-apotheke/wiesbaden"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Wilhelms Apotheke Wiesbaden",
+            "item": "https://weed.de/apotheke/wilhelms-apotheke-wiesbaden"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Wilhelms Apotheke Wiesbaden",
+        "url": "https://weed.de/apotheke/wilhelms-apotheke-wiesbaden",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Wilhelmstraße 6",
+          "addressLocality": "Wiesbaden",
+          "postalCode": "65185",
+          "addressRegion": "Hessen",
+          "addressCountry": "DE"
+        },
+        "telephone": "0611302100",
+        "email": "all4cannabis@wilhelms-apo-wiesbaden.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/wiesbaden",
+      "text": "Cannabis Apotheken in Wiesbaden",
+      "title": "Alle Apotheken in Wiesbaden"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/park-apotheke-1",
+        "text": "Park Apotheke / Rhein-Main-Cannabis",
+        "title": "Park Apotheke / Rhein-Main-Cannabis in Wiesbaden"
+      },
+      {
+        "href": "/apotheke/taunus-apotheke",
+        "text": "Herbaluh / Taunus-Apotheke",
+        "title": "Herbaluh / Taunus-Apotheke in Wiesbaden"
+      },
+      {
+        "href": "/apotheke/adler-apotheke-2",
+        "text": "Adler Apotheke",
+        "title": "Adler Apotheke in Wiesbaden"
+      },
+      {
+        "href": "/apotheke/cannabis-vital-apotheke",
+        "text": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
+        "title": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim) in Hattersheim am Main"
+      },
+      {
+        "href": "/apotheke/cannabis-apotheke-frankfurtkissel-apotheke",
+        "text": "Cannabis Apotheke Frankfurt/Kissel-Apotheke",
+        "title": "Cannabis Apotheke Frankfurt/Kissel-Apotheke in Frankfurt am Main"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has services"
+  }
+}

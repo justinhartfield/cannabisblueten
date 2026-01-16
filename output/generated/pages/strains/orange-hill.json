@@ -1,0 +1,229 @@
+{
+  "strain": {
+    "slug": "orange-hill",
+    "name": "Orange Hill",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Happy",
+      "Calming",
+      "Relaxed",
+      "Focused"
+    ],
+    "tastes": [
+      "Citrus",
+      "Fruity",
+      "Flowery"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Linalool",
+      "Myrcene"
+    ],
+    "description": "Orange Hill, eine fesselnden Hybrid-Sorte, geboren aus der Vereinigung von Orange Bud und California Orange. Diese Sorte, mit einer bescheidenen Höhe von weniger als 100 cm, präsentiert eine reizvolle Fusion von Zitrus-, fruchtigen und blumigen Noten, die auf dem Gaumen tanzen. Tauche ein in die erhebende Umarmung von Orange Hill, wo Limonene, Linalool und Myrcene Terpene eine aromatische Symphonie erschaffen. Mit einem CBD-Gehalt unter 1% und einem THC-Gehalt zwischen 18% und 24% wird Orange Hill eine harmonische Mischung von Effekten nachgesagt, die Glückseligkeit, beruhigende Empfindungen, Entspannung und verbesserte Konzentration umfassen. Die Blütezeit, die 8 bis 9 Wochen umfasst, kulminiert in einer reichen Ernte. ",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": null
+  },
+  "products": [
+    {
+      "slug": "cannabisextrakt-eurox-25",
+      "name": "Cannabisextrakt Eurox 25",
+      "brandName": "Eurox Pharma",
+      "thcPercent": 25,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "cannabisextrakt-eurox-1010",
+      "name": "Cannabisextrakt Eurox 10/10",
+      "brandName": "Eurox Pharma",
+      "thcPercent": 10,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "frosted-cookies",
+      "name": "Frosted Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "black-kush",
+      "name": "Black Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "rainmaker",
+      "name": "Rainmaker",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "alien-mints",
+      "name": "Alien Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "tropical-earth",
+      "name": "Tropical Earth",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Orange Hill (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Orange Hill: Happy, Calming, Relaxed. 2 Produkte verfügbar.",
+      "canonical": "https://weed.de/strain/orange-hill",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Orange Hill (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Orange Hill: Happy, Calming, Relaxed. 2 Produkte verfügbar.",
+        "url": "https://weed.de/strain/orange-hill",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Orange Hill",
+        "href": "https://weed.de/strain/orange-hill"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Orange Hill",
+            "item": "https://weed.de/strain/orange-hill"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Orange Hill Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/cannabisextrakt-eurox-25",
+            "name": "Cannabisextrakt Eurox 25"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/cannabisextrakt-eurox-1010",
+            "name": "Cannabisextrakt Eurox 10/10"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/cannabisextrakt-eurox-25",
+        "text": "Cannabisextrakt Eurox 25",
+        "title": "Cannabisextrakt Eurox 25 von Eurox Pharma"
+      },
+      {
+        "href": "/product/cannabisextrakt-eurox-1010",
+        "text": "Cannabisextrakt Eurox 10/10",
+        "title": "Cannabisextrakt Eurox 10/10 von Eurox Pharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/frosted-cookies",
+        "text": "Frosted Cookies",
+        "title": "Frosted Cookies - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/black-kush",
+        "text": "Black Kush",
+        "title": "Black Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/rainmaker",
+        "text": "Rainmaker",
+        "title": "Rainmaker - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/alien-mints",
+        "text": "Alien Mints",
+        "title": "Alien Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/tropical-earth",
+        "text": "Tropical Earth",
+        "title": "Tropical Earth - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

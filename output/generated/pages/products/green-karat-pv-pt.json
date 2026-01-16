@@ -1,0 +1,227 @@
+{
+  "product": {
+    "slug": "green-karat-pv-pt",
+    "name": "Green Karat PV PT",
+    "type": "flower",
+    "genetics": "hybrid",
+    "thcPercent": 27,
+    "cbdPercent": 1,
+    "priceMin": 859,
+    "priceMax": 859,
+    "inStock": false,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": "https://weed.de/products/green-karat-pv-pt-81ag45.png"
+  },
+  "brand": {
+    "slug": "cantourage",
+    "name": "Cantourage",
+    "productCount": 248
+  },
+  "strain": {
+    "slug": "pave-s1",
+    "name": "Pavé S1",
+    "geneticType": "hybrid",
+    "effects": [
+      "Relaxed",
+      "Calming",
+      "Uplifted"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Caryophyllene",
+      "Farnesene",
+      "Linalool"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Relaxed",
+      "Calming",
+      "Uplifted"
+    ],
+    "tastes": [
+      "Sweet",
+      "Mint",
+      "Citrus"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Caryophyllene",
+      "Farnesene",
+      "Linalool"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "tilray-thc-25-spotlight-porto-purps",
+      "name": "Tilray THC 25 Spotlight Porto Purps",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": 349,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc5cbd2",
+      "name": "Tilray Cannabisextrakt THC5:CBD20",
+      "brandName": "Tilray",
+      "thcPercent": 5,
+      "priceMin": 350,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc1cbd1",
+      "name": "Tilray Cannabisextrakt THC10:CBD10",
+      "brandName": "Tilray",
+      "thcPercent": 10,
+      "priceMin": 400,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-2",
+      "name": "Demecan Typ 2",
+      "brandName": "Demecan",
+      "thcPercent": 16,
+      "priceMin": 533,
+      "inStock": true
+    },
+    {
+      "slug": "khiron-191-gelato",
+      "name": "Khiron 19/1 Gelato",
+      "brandName": "Khiron",
+      "thcPercent": 17.6,
+      "priceMin": 638,
+      "inStock": true
+    },
+    {
+      "slug": "green-karat-pv",
+      "name": "Green Karat PV",
+      "brandName": "Cantourage",
+      "thcPercent": 27,
+      "priceMin": 759,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Green Karat PV PT - Cantourage | ab 8,59 €",
+      "description": "Green Karat PV PT von Cantourage. THC: 27%, CBD: 1%. Sorte: Pavé S1. Preis ab 8,59 €. Preise vergleichen.",
+      "canonical": "https://weed.de/product/green-karat-pv-pt",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Green Karat PV PT - Cantourage | ab 8,59 €",
+        "description": "Green Karat PV PT von Cantourage. THC: 27%, CBD: 1%. Sorte: Pavé S1. Preis ab 8,59 €. Preise vergleichen.",
+        "url": "https://weed.de/product/green-karat-pv-pt",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/green-karat-pv-pt-81ag45.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Cantourage",
+        "href": "https://weed.de/brand/cantourage"
+      },
+      {
+        "name": "Green Karat PV PT",
+        "href": "https://weed.de/product/green-karat-pv-pt"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Green Karat PV PT",
+            "item": "https://weed.de/product/green-karat-pv-pt"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Green Karat PV PT",
+        "brand": {
+          "@type": "Brand",
+          "name": "Cantourage"
+        },
+        "description": "THC: 27%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/pave-s1",
+      "text": "Pavé S1",
+      "title": "Pavé S1 Sorte"
+    },
+    "brand": {
+      "href": "/brand/cantourage",
+      "text": "Cantourage",
+      "title": "Alle Cantourage Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/tilray-thc-25-spotlight-porto-purps",
+        "text": "Tilray THC 25 Spotlight Porto Purps",
+        "title": "Alternative: Tilray THC 25 Spotlight Porto Purps"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc5cbd2",
+        "text": "Tilray Cannabisextrakt THC5:CBD20",
+        "title": "Alternative: Tilray Cannabisextrakt THC5:CBD20"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc1cbd1",
+        "text": "Tilray Cannabisextrakt THC10:CBD10",
+        "title": "Alternative: Tilray Cannabisextrakt THC10:CBD10"
+      },
+      {
+        "href": "/product/demecan-typ-2",
+        "text": "Demecan Typ 2",
+        "title": "Alternative: Demecan Typ 2"
+      },
+      {
+        "href": "/product/khiron-191-gelato",
+        "text": "Khiron 19/1 Gelato",
+        "title": "Alternative: Khiron 19/1 Gelato"
+      },
+      {
+        "href": "/product/green-karat-pv",
+        "text": "Green Karat PV",
+        "title": "Alternative: Green Karat PV"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has price data"
+  }
+}

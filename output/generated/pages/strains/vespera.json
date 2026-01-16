@@ -1,0 +1,221 @@
+{
+  "strain": {
+    "slug": "vespera",
+    "name": "Vespera",
+    "geneticType": "indica",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 12,
+      "max": 18
+    },
+    "effects": [
+      "Sleepy",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Pepper",
+      "Pine",
+      "Earthy"
+    ],
+    "terpenes": [
+      "Beta-Myrcene",
+      "Beta-Caryophyllene",
+      "Alpha-Pinene",
+      "Linalool"
+    ],
+    "description": "Vespera, eine Indica-Sorte mit einem THC-Gehalt unter 1% und einem CBD-Bereich von 12-18%, bietet eine beruhigende Erfahrung, die durch Schläfrigkeit und Entspannung geprägt ist. Das Geschmacksprofil von Vespera ist eine reizvolle Mischung aus Pfeffer, Kiefer und erdigen Noten, die einen einzigartigen und befriedigenden Geschmack erzeugen. Die aromatische Komplexität dieser Sorte wird durch die Terpene Beta-Myrcene, Beta-Caryophyllene, Alpha-Pinene und Linalool verstärkt.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 799,
+      "max": 799,
+      "formatted": {
+        "min": "7,99 €",
+        "max": "7,99 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "aurora-116-vsp-ca",
+      "name": "Aurora 1/16 VSP-CA",
+      "brandName": "Aurora",
+      "thcPercent": 1,
+      "priceMin": 799,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "auto-blackberry-kush",
+      "name": "Auto Blackberry Kush",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "auto-night-queen",
+      "name": "Auto Night Queen",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "godfather-og-auto",
+      "name": "Godfather OG Auto",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "mandarin-cookies",
+      "name": "Mandarin Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "grapefruit-gift",
+      "name": "Grapefruit Gift",
+      "geneticType": "indica",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Vespera (Indica) - Wirkung, THC & Verfügbarkeit",
+      "description": "Vespera: Sleepy, Relaxed. 1 Produkte verfügbar. ab 7,99 €.",
+      "canonical": "https://weed.de/strain/vespera",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Vespera (Indica) - Wirkung, THC & Verfügbarkeit",
+        "description": "Vespera: Sleepy, Relaxed. 1 Produkte verfügbar. ab 7,99 €.",
+        "url": "https://weed.de/strain/vespera",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Vespera",
+        "href": "https://weed.de/strain/vespera"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Vespera",
+            "item": "https://weed.de/strain/vespera"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Vespera Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/aurora-116-vsp-ca",
+            "name": "Aurora 1/16 VSP-CA"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/aurora-116-vsp-ca",
+        "text": "Aurora 1/16 VSP-CA",
+        "title": "Aurora 1/16 VSP-CA von Aurora"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/auto-blackberry-kush",
+        "text": "Auto Blackberry Kush",
+        "title": "Auto Blackberry Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/auto-night-queen",
+        "text": "Auto Night Queen",
+        "title": "Auto Night Queen - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/godfather-og-auto",
+        "text": "Godfather OG Auto",
+        "title": "Godfather OG Auto - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/mandarin-cookies",
+        "text": "Mandarin Cookies",
+        "title": "Mandarin Cookies - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/grapefruit-gift",
+        "text": "Grapefruit Gift",
+        "title": "Grapefruit Gift - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/beta-myrcene",
+        "text": "Beta-Myrcene",
+        "title": "Beta-Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/alpha-pinene",
+        "text": "Alpha-Pinene",
+        "title": "Alpha-Pinene Terpen"
+      },
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "strain": {
+    "slug": "skywalker",
+    "name": "Skywalker",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [
+      "Happy",
+      "Hungry",
+      "Energetic",
+      "Calming",
+      "Sleepy",
+      "Pain-relief"
+    ],
+    "tastes": [
+      "Pine",
+      "Blueberry",
+      "Fruity",
+      "Sage",
+      "Woody",
+      "Pepper",
+      "Tangy"
+    ],
+    "terpenes": [
+      "Nerolidol",
+      "Myrcene",
+      "D-Limonene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "Skywalker ist eine ausgewogene Hybrid-Sorte, entstanden aus der Kreuzung der potenten Elternsorten Mazar-I-Sharif und Blueberry OG. Mit einem hohen THC-Gehalt von typischerweise 23 % bis 27 % und einem CBD-Wert von unter 1 % liefert sie potente Effekte, die trotz der ausgeglichenen Genetik oft als indica-typisch beruhigend wahrgenommen werden.\n\nIhr komplexes Geschmacksprofil ist geprägt von einem starken Blaubeer- und Fruchtaroma, das durch würzige Noten und einen Hauch von Salbei verfeinert wird. Das Terpenprofil, das von Nerolidol, Myrcen und D-Limonen dominiert wird, enthält zusätzlich auch Beta-Caryophyllen, was das Aroma mit holzigen, zitrusartigen, kiefernartigen und pfeffrigen Nuancen unterstreicht.\n\nDie Wirkung beginnt oft mit einem glücklichen Gefühl, geht jedoch schnell in eine stark beruhigende körperliche Entspannung über, die sich hervorragend zur Behandlung von chronischen Schmerzen und Schlaflosigkeit eignet. Zusammengefasst ist Skywalker eine Sorte für alle, die ein fruchtig-würziges Blueberry-Aroma mit einem potenten, tief entspannenden und appetitanregenden High suchen.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 475,
+      "max": 571,
+      "formatted": {
+        "min": "4,75 €",
+        "max": "5,71 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "madrecan-241-skywalker",
+      "name": "madrecan 24/1 Skywalker",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 24,
+      "priceMin": 475,
+      "inStock": true
+    },
+    {
+      "slug": "madrecan-271-sky",
+      "name": "madrecan 27/1 SKY",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 27,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "z-splitter",
+      "name": "Z Splitter",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "pink-gas",
+      "name": "Pink Gas",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "banana-gas",
+      "name": "Banana Gas",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "critical-bilbo",
+      "name": "Critical Bilbo",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "fine-cookies",
+      "name": "Fine Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Skywalker (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Skywalker: Happy, Hungry, Energetic. 2 Produkte verfügbar. ab 4,75 €.",
+      "canonical": "https://weed.de/strain/skywalker",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Skywalker (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Skywalker: Happy, Hungry, Energetic. 2 Produkte verfügbar. ab 4,75 €.",
+        "url": "https://weed.de/strain/skywalker",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Skywalker",
+        "href": "https://weed.de/strain/skywalker"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Skywalker",
+            "item": "https://weed.de/strain/skywalker"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Skywalker Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/madrecan-241-skywalker",
+            "name": "madrecan 24/1 Skywalker"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/madrecan-271-sky",
+            "name": "madrecan 27/1 SKY"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/madrecan-241-skywalker",
+        "text": "madrecan 24/1 Skywalker",
+        "title": "madrecan 24/1 Skywalker von Remexian Pharma"
+      },
+      {
+        "href": "/product/madrecan-271-sky",
+        "text": "madrecan 27/1 SKY",
+        "title": "madrecan 27/1 SKY von Remexian Pharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/z-splitter",
+        "text": "Z Splitter",
+        "title": "Z Splitter - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/pink-gas",
+        "text": "Pink Gas",
+        "title": "Pink Gas - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/banana-gas",
+        "text": "Banana Gas",
+        "title": "Banana Gas - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/critical-bilbo",
+        "text": "Critical Bilbo",
+        "title": "Critical Bilbo - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/fine-cookies",
+        "text": "Fine Cookies",
+        "title": "Fine Cookies - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/nerolidol",
+        "text": "Nerolidol",
+        "title": "Nerolidol Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/d-limonene",
+        "text": "D-Limonene",
+        "title": "D-Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

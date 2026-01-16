@@ -1,0 +1,180 @@
+{
+  "strain": {
+    "slug": "g13",
+    "name": "G13",
+    "geneticType": "indica",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Stress-relief",
+      "Calming"
+    ],
+    "tastes": [
+      "Earthy",
+      "Skunk",
+      "Pine",
+      "Woody"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Myrcene",
+      "Pinene"
+    ],
+    "description": "G13 ist eine legendäre, hochpotente Indica-Sorte, deren genaue Herkunft von Mythen und Spekulationen umgeben ist. Mit einem hohen THC-Gehalt von 20-24 % und einem sehr niedrigen CBD-Wert liefert sie eine außergewöhnlich starke und tiefgreifende Wirkung. Ihr Geschmacksprofil ist unverwechselbar, geprägt von einem intensiven, skunkigen und erdigen Aroma mit Noten von Kiefer und Holz. Das komplexe Terpenprofil umfasst Myrcen, Caryophyllen und Pinen, die maßgeblich für das erdige, würzige und kiefernartige Aroma verantwortlich sind. Die Wirkung wird als extrem entspannend und beruhigend beschrieben, die einen tiefen Zustand der Ruhe und des Wohlbefindens fördert. Zusammenfassend ist G13 eine ikonische Sorte für erfahrene Nutzer, die eine unübertroffene Potenz und ein klassisches, erdiges Aroma suchen.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 0,
+    "pharmacyCount": 0,
+    "priceRange": null
+  },
+  "products": [],
+  "similarStrains": [
+    {
+      "slug": "cbd-tonic",
+      "name": "CBD Tonic",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "8-ball-kush",
+      "name": "8 Ball Kush",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "northern-light-auto",
+      "name": "Northern Light Auto",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "white-afghan",
+      "name": "White Afghan",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "maple-leaf-indica",
+      "name": "Maple Leaf Indica",
+      "geneticType": "indica",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "G13 (Indica) - Wirkung, THC & Verfügbarkeit",
+      "description": "G13: Stress-relief, Calming.",
+      "canonical": "https://weed.de/strain/g13",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "G13 (Indica) - Wirkung, THC & Verfügbarkeit",
+        "description": "G13: Stress-relief, Calming.",
+        "url": "https://weed.de/strain/g13",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "G13",
+        "href": "https://weed.de/strain/g13"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "G13",
+            "item": "https://weed.de/strain/g13"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [],
+    "similarStrains": [
+      {
+        "href": "/strain/cbd-tonic",
+        "text": "CBD Tonic",
+        "title": "CBD Tonic - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/8-ball-kush",
+        "text": "8 Ball Kush",
+        "title": "8 Ball Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/northern-light-auto",
+        "text": "Northern Light Auto",
+        "title": "Northern Light Auto - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/white-afghan",
+        "text": "White Afghan",
+        "title": "White Afghan - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/maple-leaf-indica",
+        "text": "Maple Leaf Indica",
+        "title": "Maple Leaf Indica - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/pinene",
+        "text": "Pinene",
+        "title": "Pinene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has data and related content"
+  }
+}

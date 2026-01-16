@@ -1,0 +1,241 @@
+{
+  "product": {
+    "slug": "imc-gc-thc5-cbd9",
+    "name": "IMC GC THC5 CBD9",
+    "type": "flower",
+    "genetics": "hybrid",
+    "thcPercent": 5,
+    "cbdPercent": 9,
+    "priceMin": 449,
+    "priceMax": 750,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Spanien",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "imc",
+    "name": "IMC",
+    "productCount": 128
+  },
+  "strain": {
+    "slug": "green-crack",
+    "name": "Green Crack",
+    "geneticType": "hybrid",
+    "effects": [
+      "Energetic",
+      "Uplifted",
+      "Happy",
+      "Focused",
+      "Talkative",
+      "Creative",
+      "Paranoid",
+      "Dry Eyes"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Linalool",
+      "Valencene",
+      "Caryophyllene",
+      "Phellandrene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Energetic",
+      "Uplifted",
+      "Happy",
+      "Focused",
+      "Talkative",
+      "Creative",
+      "Paranoid",
+      "Dry Eyes"
+    ],
+    "tastes": [
+      "Skunk",
+      "Citrus",
+      "Mango",
+      "Tropical",
+      "Earthy",
+      "Sweet"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Linalool",
+      "Valencene",
+      "Caryophyllene",
+      "Phellandrene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "tilray-thc-25-spotlight-porto-purps",
+      "name": "Tilray THC 25 Spotlight Porto Purps",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": 349,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc5cbd2",
+      "name": "Tilray Cannabisextrakt THC5:CBD20",
+      "brandName": "Tilray",
+      "thcPercent": 5,
+      "priceMin": 350,
+      "inStock": true
+    },
+    {
+      "slug": "imc-gc-thc6-cbd11",
+      "name": "IMC GC THC6 CBD11",
+      "brandName": "IMC",
+      "thcPercent": 6,
+      "priceMin": 394,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc1cbd1",
+      "name": "Tilray Cannabisextrakt THC10:CBD10",
+      "brandName": "Tilray",
+      "thcPercent": 10,
+      "priceMin": 400,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-2",
+      "name": "Demecan Typ 2",
+      "brandName": "Demecan",
+      "thcPercent": 16,
+      "priceMin": 533,
+      "inStock": true
+    },
+    {
+      "slug": "khiron-191-gelato",
+      "name": "Khiron 19/1 Gelato",
+      "brandName": "Khiron",
+      "thcPercent": 17.6,
+      "priceMin": 638,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "IMC GC THC5 CBD9 | ab 4,49 €",
+      "description": "IMC GC THC5 CBD9 von IMC. THC: 5%, CBD: 9%. Sorte: Green Crack. Preis ab 4,49 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/imc-gc-thc5-cbd9",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "IMC GC THC5 CBD9 | ab 4,49 €",
+        "description": "IMC GC THC5 CBD9 von IMC. THC: 5%, CBD: 9%. Sorte: Green Crack. Preis ab 4,49 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/imc-gc-thc5-cbd9",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "IMC",
+        "href": "https://weed.de/brand/imc"
+      },
+      {
+        "name": "IMC GC THC5 CBD9",
+        "href": "https://weed.de/product/imc-gc-thc5-cbd9"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "IMC GC THC5 CBD9",
+            "item": "https://weed.de/product/imc-gc-thc5-cbd9"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "IMC GC THC5 CBD9",
+        "brand": {
+          "@type": "Brand",
+          "name": "IMC"
+        },
+        "description": "THC: 5%, CBD: 9%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/green-crack",
+      "text": "Green Crack",
+      "title": "Green Crack Sorte"
+    },
+    "brand": {
+      "href": "/brand/imc",
+      "text": "IMC",
+      "title": "Alle IMC Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/tilray-thc-25-spotlight-porto-purps",
+        "text": "Tilray THC 25 Spotlight Porto Purps",
+        "title": "Alternative: Tilray THC 25 Spotlight Porto Purps"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc5cbd2",
+        "text": "Tilray Cannabisextrakt THC5:CBD20",
+        "title": "Alternative: Tilray Cannabisextrakt THC5:CBD20"
+      },
+      {
+        "href": "/product/imc-gc-thc6-cbd11",
+        "text": "IMC GC THC6 CBD11",
+        "title": "Alternative: IMC GC THC6 CBD11"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc1cbd1",
+        "text": "Tilray Cannabisextrakt THC10:CBD10",
+        "title": "Alternative: Tilray Cannabisextrakt THC10:CBD10"
+      },
+      {
+        "href": "/product/demecan-typ-2",
+        "text": "Demecan Typ 2",
+        "title": "Alternative: Demecan Typ 2"
+      },
+      {
+        "href": "/product/khiron-191-gelato",
+        "text": "Khiron 19/1 Gelato",
+        "title": "Alternative: Khiron 19/1 Gelato"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

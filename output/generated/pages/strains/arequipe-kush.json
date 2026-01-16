@@ -1,0 +1,259 @@
+{
+  "strain": {
+    "slug": "arequipe-kush",
+    "name": "Arequipe Kush",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Relaxed",
+      "Calming",
+      "Euphoric"
+    ],
+    "tastes": [
+      "Sweet",
+      "Creamy"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Alpha-Pinene",
+      "Terpinolene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "Arequipe Kush ist eine faszinierende Hybrid-Sorte, die für ihre bezaubernde Mischung aus süßen und cremigen Aromen gefeiert wird. Die genetische Abstammung dieser Sorte lässt sich auf Purple Push und Orange Cookies zurückverfolgen. Sie weist einen potenten THC-Gehalt von 22% bis 30% auf und ist damit bei erfahrenen Nutzern, die ein intensives Erlebnis suchen, sehr beliebt. Arequipe Kush ist dafür bekannt, ein Gefühl der Entspannung, Gelassenheit und Euphorie hervorzurufen. ",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 3,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 329,
+      "max": 455,
+      "formatted": {
+        "min": "3,29 €",
+        "max": "4,55 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "adrex-261-ak-kol",
+      "name": "Adrex 26/1 AK COL",
+      "brandName": "Adrexpharma",
+      "thcPercent": 26,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "adrex-31-ak-col",
+      "name": "ADREX 30/1 AK COL",
+      "brandName": "Adrexpharma",
+      "thcPercent": 30,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "adrex-241-ak-col",
+      "name": "ADREX 24/1 AK COL",
+      "brandName": "Adrexpharma",
+      "thcPercent": 24,
+      "priceMin": 329,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "auto-mokums-tulip",
+      "name": "Auto Mokum's Tulip",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "tigerz-eye",
+      "name": "Tigerz Eye",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "auto-gorilla-blue-f1",
+      "name": "Auto Gorilla Blue F1",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "frosted-lemon-cake",
+      "name": "Frosted Lemon Cake",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "bedrolite",
+      "name": "Bedrolite®",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Arequipe Kush (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Arequipe Kush: Relaxed, Calming, Euphoric. 3 Produkte verfügbar. ab 3,29 €.",
+      "canonical": "https://weed.de/strain/arequipe-kush",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Arequipe Kush (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Arequipe Kush: Relaxed, Calming, Euphoric. 3 Produkte verfügbar. ab 3,29 €.",
+        "url": "https://weed.de/strain/arequipe-kush",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Arequipe Kush",
+        "href": "https://weed.de/strain/arequipe-kush"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Arequipe Kush",
+            "item": "https://weed.de/strain/arequipe-kush"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Arequipe Kush Produkte",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/adrex-261-ak-kol",
+            "name": "Adrex 26/1 AK COL"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/adrex-31-ak-col",
+            "name": "ADREX 30/1 AK COL"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/adrex-241-ak-col",
+            "name": "ADREX 24/1 AK COL"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/adrex-261-ak-kol",
+        "text": "Adrex 26/1 AK COL",
+        "title": "Adrex 26/1 AK COL von Adrexpharma"
+      },
+      {
+        "href": "/product/adrex-31-ak-col",
+        "text": "ADREX 30/1 AK COL",
+        "title": "ADREX 30/1 AK COL von Adrexpharma"
+      },
+      {
+        "href": "/product/adrex-241-ak-col",
+        "text": "ADREX 24/1 AK COL",
+        "title": "ADREX 24/1 AK COL von Adrexpharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/auto-mokums-tulip",
+        "text": "Auto Mokum's Tulip",
+        "title": "Auto Mokum's Tulip - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/tigerz-eye",
+        "text": "Tigerz Eye",
+        "title": "Tigerz Eye - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/auto-gorilla-blue-f1",
+        "text": "Auto Gorilla Blue F1",
+        "title": "Auto Gorilla Blue F1 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/frosted-lemon-cake",
+        "text": "Frosted Lemon Cake",
+        "title": "Frosted Lemon Cake - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/bedrolite",
+        "text": "Bedrolite®",
+        "title": "Bedrolite® - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/alpha-pinene",
+        "text": "Alpha-Pinene",
+        "title": "Alpha-Pinene Terpen"
+      },
+      {
+        "href": "/terpene/terpinolene",
+        "text": "Terpinolene",
+        "title": "Terpinolene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

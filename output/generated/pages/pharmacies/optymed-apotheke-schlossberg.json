@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "optymed-apotheke-schlossberg",
+    "name": "OPTYMED Apotheke Schlossberg",
+    "street": "Kuglmoosstraße 3A",
+    "zip": "83071",
+    "cityName": "Stephanskirchen",
+    "state": "Bayern",
+    "lat": 47.85744510000001,
+    "lng": 12.1486549,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": null,
+    "phone": "080314095283",
+    "email": "postfach@optyweed.de",
+    "productCount": 63,
+    "rating": 5,
+    "ratingCount": 1,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/672f7c57c5ddecc369ae10ec-215977.jpg"
+  },
+  "city": {
+    "slug": "stephanskirchen",
+    "name": "Stephanskirchen",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "cannabisapo24",
+      "name": "Cannabisapo24",
+      "cityName": "Augsburg",
+      "productCount": 364,
+      "hasDelivery": true
+    },
+    {
+      "slug": "spital-apotheke-zum-heiligen-geist",
+      "name": "Canthera.de | Spital Apotheke zum Heiligen Geist",
+      "cityName": "Nürnberg",
+      "productCount": 317,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannaplus-apotheke",
+      "name": "Cannaplus Apotheke",
+      "cityName": "Augsburg",
+      "productCount": 186,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis-apotheke-bayern-1",
+      "name": "Cannabis Apotheke Bayern",
+      "cityName": "Schweinfurt",
+      "productCount": 184,
+      "hasDelivery": true
+    },
+    {
+      "slug": "canamedico-cannabis-mainfranken",
+      "name": "canamedico® – Cannabis Mainfranken",
+      "cityName": "Volkach",
+      "productCount": 162,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "OPTYMED Apotheke Schlossberg - Cannabis Apotheke in Stephanskirchen",
+      "description": "OPTYMED Apotheke Schlossberg in Stephanskirchen. 63 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/optymed-apotheke-schlossberg",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "OPTYMED Apotheke Schlossberg - Cannabis Apotheke in Stephanskirchen",
+        "description": "OPTYMED Apotheke Schlossberg in Stephanskirchen. 63 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/optymed-apotheke-schlossberg",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/672f7c57c5ddecc369ae10ec-215977.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Stephanskirchen",
+        "href": "https://weed.de/cannabis-apotheke/stephanskirchen"
+      },
+      {
+        "name": "OPTYMED Apotheke Schlossberg",
+        "href": "https://weed.de/apotheke/optymed-apotheke-schlossberg"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Stephanskirchen",
+            "item": "https://weed.de/cannabis-apotheke/stephanskirchen"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "OPTYMED Apotheke Schlossberg",
+            "item": "https://weed.de/apotheke/optymed-apotheke-schlossberg"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "OPTYMED Apotheke Schlossberg",
+        "url": "https://weed.de/apotheke/optymed-apotheke-schlossberg",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Kuglmoosstraße 3A",
+          "addressLocality": "Stephanskirchen",
+          "postalCode": "83071",
+          "addressRegion": "Bayern",
+          "addressCountry": "DE"
+        },
+        "telephone": "080314095283",
+        "email": "postfach@optyweed.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/stephanskirchen",
+      "text": "Cannabis Apotheken in Stephanskirchen",
+      "title": "Alle Apotheken in Stephanskirchen"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/cannabisapo24",
+        "text": "Cannabisapo24",
+        "title": "Cannabisapo24 in Augsburg"
+      },
+      {
+        "href": "/apotheke/spital-apotheke-zum-heiligen-geist",
+        "text": "Canthera.de | Spital Apotheke zum Heiligen Geist",
+        "title": "Canthera.de | Spital Apotheke zum Heiligen Geist in Nürnberg"
+      },
+      {
+        "href": "/apotheke/cannaplus-apotheke",
+        "text": "Cannaplus Apotheke",
+        "title": "Cannaplus Apotheke in Augsburg"
+      },
+      {
+        "href": "/apotheke/cannabis-apotheke-bayern-1",
+        "text": "Cannabis Apotheke Bayern",
+        "title": "Cannabis Apotheke Bayern in Schweinfurt"
+      },
+      {
+        "href": "/apotheke/canamedico-cannabis-mainfranken",
+        "text": "canamedico® – Cannabis Mainfranken",
+        "title": "canamedico® – Cannabis Mainfranken in Volkach"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

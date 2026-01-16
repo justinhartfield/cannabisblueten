@@ -1,0 +1,240 @@
+{
+  "strain": {
+    "slug": "pink-diesel",
+    "name": "Pink Diesel",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [
+      "Creative",
+      "Focused",
+      "Euphoric",
+      "Motivating",
+      "Pain-relief"
+    ],
+    "tastes": [
+      "Diesel",
+      "Spicy",
+      "Lavender",
+      "Tangy",
+      "Gassy",
+      "Herbal"
+    ],
+    "terpenes": [
+      "Ocimene",
+      "Myrcene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "Pink Diesel ist ein Indica-dominanter Hybrid-Strain, entstanden aus einer Kreuzung zwischen Pink Kush und Driftwood Diesel. Mit einem hohen THC-Gehalt, der typischerweise zwischen 27% und 31% liegt, und einem CBD-Wert von unter 0,1% liefert sie kräftige Effekte, die schnell eintreten und sich langsam steigern. \nIhr komplexes Geschmacksprofil ist geprägt von reichen, gemischten Geschmacksnoten von Gas, Lavendel und Gewürzen, die durch eine würzige Note ergänzt werden. Das Terpenprofil, das von Ocimen, Myrcen und Beta-Caryophyllen dominiert wird, was das Aroma mit kräuterartigen, entspannenden und scharfen Nuancen unterstreicht. \nDie Wirkung soll sich zu einem energiegeladenen, euphorischen und kreativen High steigern, das den Konsumenten dann konzentriert und motiviert zurücklässt. Pink Diesel ist ideal, um chronische Schmerzen, Übelkeit und Schlafstörungen zu lindern, da sie sowohl Kreativität als auch Entspannung bietet. Zusammengefasst ist Pink Diesel eine Sorte für alle, die ein kräftiges, Diesel-Gewürz-Aroma mit einem potenten, fokussierenden und entspannenden High suchen.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 638,
+      "max": 2140,
+      "formatted": {
+        "min": "6,38 €",
+        "max": "21,40 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "pedanios-271-pnd-ca",
+      "name": "Pedanios 27/1 PND-CA",
+      "brandName": "Aurora",
+      "thcPercent": 27,
+      "priceMin": 638,
+      "inStock": false
+    },
+    {
+      "slug": "pedanios-311-pnd-ca",
+      "name": "Pedanios 31/1 PND-CA",
+      "brandName": "Aurora",
+      "thcPercent": 31,
+      "priceMin": 678,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "frosted-cookies",
+      "name": "Frosted Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "chem-de-la-chem",
+      "name": "Chem de la Chem",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "cannabis-sativa-l.-elida",
+      "name": "Elida",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "polar-cookies",
+      "name": "Polar Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "alien-mints",
+      "name": "Alien Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Pink Diesel (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Pink Diesel: Creative, Focused, Euphoric. 2 Produkte verfügbar. ab 6,38 €.",
+      "canonical": "https://weed.de/strain/pink-diesel",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Pink Diesel (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Pink Diesel: Creative, Focused, Euphoric. 2 Produkte verfügbar. ab 6,38 €.",
+        "url": "https://weed.de/strain/pink-diesel",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Pink Diesel",
+        "href": "https://weed.de/strain/pink-diesel"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Pink Diesel",
+            "item": "https://weed.de/strain/pink-diesel"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Pink Diesel Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/pedanios-271-pnd-ca",
+            "name": "Pedanios 27/1 PND-CA"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/pedanios-311-pnd-ca",
+            "name": "Pedanios 31/1 PND-CA"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/pedanios-271-pnd-ca",
+        "text": "Pedanios 27/1 PND-CA",
+        "title": "Pedanios 27/1 PND-CA von Aurora"
+      },
+      {
+        "href": "/product/pedanios-311-pnd-ca",
+        "text": "Pedanios 31/1 PND-CA",
+        "title": "Pedanios 31/1 PND-CA von Aurora"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/frosted-cookies",
+        "text": "Frosted Cookies",
+        "title": "Frosted Cookies - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/chem-de-la-chem",
+        "text": "Chem de la Chem",
+        "title": "Chem de la Chem - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/cannabis-sativa-l.-elida",
+        "text": "Elida",
+        "title": "Elida - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/polar-cookies",
+        "text": "Polar Cookies",
+        "title": "Polar Cookies - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/alien-mints",
+        "text": "Alien Mints",
+        "title": "Alien Mints - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/ocimene",
+        "text": "Ocimene",
+        "title": "Ocimene Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

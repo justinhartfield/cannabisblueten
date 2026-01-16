@@ -1,0 +1,228 @@
+{
+  "strain": {
+    "slug": "franco's-fullgas",
+    "name": "Franco's Fullgas",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [
+      "Euphoric",
+      "Focused",
+      "Sociable"
+    ],
+    "tastes": [
+      "Cheese",
+      "Earthy",
+      "Citrus"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Linalool",
+      "Beta-Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": null
+  },
+  "products": [
+    {
+      "slug": "remexian-271-ffg",
+      "name": "Remexian 27/1 FFG",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 26,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "remexian-31-eco-ffg",
+      "name": "Remexian 30/1 ECO FFG",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 26.2,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "alien-mints",
+      "name": "Alien Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "frosted-cookies",
+      "name": "Frosted Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "dank-wafers",
+      "name": "Dank Wafers",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "animal-face-sherb-crasher",
+      "name": "Animal Face Sherb Crasher",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "black-kyber-crystal",
+      "name": "Black Kyber Crystal",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Franco's Fullgas (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Franco's Fullgas: Euphoric, Focused, Sociable. 2 Produkte verfügbar.",
+      "canonical": "https://weed.de/strain/franco's-fullgas",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Franco's Fullgas (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Franco's Fullgas: Euphoric, Focused, Sociable. 2 Produkte verfügbar.",
+        "url": "https://weed.de/strain/franco's-fullgas",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Franco's Fullgas",
+        "href": "https://weed.de/strain/franco's-fullgas"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Franco's Fullgas",
+            "item": "https://weed.de/strain/franco's-fullgas"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Franco's Fullgas Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/remexian-271-ffg",
+            "name": "Remexian 27/1 FFG"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/remexian-31-eco-ffg",
+            "name": "Remexian 30/1 ECO FFG"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/remexian-271-ffg",
+        "text": "Remexian 27/1 FFG",
+        "title": "Remexian 27/1 FFG von Remexian Pharma"
+      },
+      {
+        "href": "/product/remexian-31-eco-ffg",
+        "text": "Remexian 30/1 ECO FFG",
+        "title": "Remexian 30/1 ECO FFG von Remexian Pharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/alien-mints",
+        "text": "Alien Mints",
+        "title": "Alien Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/frosted-cookies",
+        "text": "Frosted Cookies",
+        "title": "Frosted Cookies - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/dank-wafers",
+        "text": "Dank Wafers",
+        "title": "Dank Wafers - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/animal-face-sherb-crasher",
+        "text": "Animal Face Sherb Crasher",
+        "title": "Animal Face Sherb Crasher - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/black-kyber-crystal",
+        "text": "Black Kyber Crystal",
+        "title": "Black Kyber Crystal - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

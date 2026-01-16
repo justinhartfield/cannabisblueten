@@ -1,0 +1,224 @@
+{
+  "product": {
+    "slug": "bathera-231-ds",
+    "name": "Bathera 23/1 DS",
+    "type": "flower",
+    "genetics": "hybrid_indica",
+    "thcPercent": 23,
+    "cbdPercent": 1,
+    "priceMin": 579,
+    "priceMax": 800,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "bathera",
+    "name": "Bathera",
+    "productCount": 44
+  },
+  "strain": {
+    "slug": "dank-sinatra",
+    "name": "Dank Sinatra",
+    "geneticType": "hybrid",
+    "effects": [
+      "Euphoric",
+      "Happy",
+      "Relaxed"
+    ],
+    "terpenes": [
+      "Pinene",
+      "Limonene",
+      "Myrcene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Euphoric",
+      "Happy",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Diesel",
+      "Earthy",
+      "Citrus"
+    ],
+    "terpenes": [
+      "Pinene",
+      "Limonene",
+      "Myrcene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "enua-251-cck-ca",
+      "name": "enua 25/1 CCK CA",
+      "brandName": "enua",
+      "thcPercent": 25.2,
+      "priceMin": 399,
+      "inStock": true
+    },
+    {
+      "slug": "ceres-no-2",
+      "name": "Ceres No. 2",
+      "brandName": "Cantourage",
+      "thcPercent": 25,
+      "priceMin": 590,
+      "inStock": true
+    },
+    {
+      "slug": "bathera-261-ds",
+      "name": "Bathera 26/1 DS",
+      "brandName": "Bathera",
+      "thcPercent": 26,
+      "priceMin": 649,
+      "inStock": true
+    },
+    {
+      "slug": "420-evolution-271-ca-icc",
+      "name": "420 EVOLUTION 27/1 CA ICC",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 27,
+      "priceMin": 684,
+      "inStock": true
+    },
+    {
+      "slug": "420-natural-221-gg4",
+      "name": "420 Natural 22/1 GG4",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 22,
+      "priceMin": 723,
+      "inStock": true
+    },
+    {
+      "slug": "avaay-241-did",
+      "name": "AVAAY 24/1 DiD",
+      "brandName": "Avaay",
+      "thcPercent": 24,
+      "priceMin": 949,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Bathera 23/1 DS | ab 5,79 €",
+      "description": "Bathera 23/1 DS von Bathera. THC: 23%, CBD: 1%. Sorte: Dank Sinatra. Preis ab 5,79 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/bathera-231-ds",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Bathera 23/1 DS | ab 5,79 €",
+        "description": "Bathera 23/1 DS von Bathera. THC: 23%, CBD: 1%. Sorte: Dank Sinatra. Preis ab 5,79 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/bathera-231-ds",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Bathera",
+        "href": "https://weed.de/brand/bathera"
+      },
+      {
+        "name": "Bathera 23/1 DS",
+        "href": "https://weed.de/product/bathera-231-ds"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Bathera 23/1 DS",
+            "item": "https://weed.de/product/bathera-231-ds"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Bathera 23/1 DS",
+        "brand": {
+          "@type": "Brand",
+          "name": "Bathera"
+        },
+        "description": "THC: 23%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/dank-sinatra",
+      "text": "Dank Sinatra",
+      "title": "Dank Sinatra Sorte"
+    },
+    "brand": {
+      "href": "/brand/bathera",
+      "text": "Bathera",
+      "title": "Alle Bathera Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/enua-251-cck-ca",
+        "text": "enua 25/1 CCK CA",
+        "title": "Alternative: enua 25/1 CCK CA"
+      },
+      {
+        "href": "/product/ceres-no-2",
+        "text": "Ceres No. 2",
+        "title": "Alternative: Ceres No. 2"
+      },
+      {
+        "href": "/product/bathera-261-ds",
+        "text": "Bathera 26/1 DS",
+        "title": "Alternative: Bathera 26/1 DS"
+      },
+      {
+        "href": "/product/420-evolution-271-ca-icc",
+        "text": "420 EVOLUTION 27/1 CA ICC",
+        "title": "Alternative: 420 EVOLUTION 27/1 CA ICC"
+      },
+      {
+        "href": "/product/420-natural-221-gg4",
+        "text": "420 Natural 22/1 GG4",
+        "title": "Alternative: 420 Natural 22/1 GG4"
+      },
+      {
+        "href": "/product/avaay-241-did",
+        "text": "AVAAY 24/1 DiD",
+        "title": "Alternative: AVAAY 24/1 DiD"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

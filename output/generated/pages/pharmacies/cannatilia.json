@@ -1,0 +1,176 @@
+{
+  "pharmacy": {
+    "slug": "cannatilia",
+    "name": "Cannatilia",
+    "street": "Görmarstraße 54",
+    "zip": "99974",
+    "cityName": "Mühlhausen/Thüringen",
+    "state": "Thüringen",
+    "lat": 51.209336,
+    "lng": 10.4639851,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://cannatilia-flor.com",
+    "phone": "03601812560",
+    "email": "shop@cannatilia-flor.com",
+    "productCount": 22,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/685baaf9ad6bc5b2a6f7ef2c-be97h8.jpg"
+  },
+  "city": {
+    "slug": "muehlhausen-thueringen",
+    "name": "Mühlhausen/Thüringen",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "cannalu",
+      "name": "cannalu.de",
+      "cityName": "Bad Berka",
+      "productCount": 44,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-am-zoopark",
+      "name": "green elephant weed",
+      "cityName": "Erfurt",
+      "productCount": 36,
+      "hasDelivery": true
+    },
+    {
+      "slug": "ginkgo-apotheke",
+      "name": "Ginkgo Apotheke",
+      "cityName": "Jena",
+      "productCount": 7,
+      "hasDelivery": true
+    },
+    {
+      "slug": "schloss-apotheke-2",
+      "name": "Schloss Apotheke",
+      "cityName": "Gebesee",
+      "productCount": 0,
+      "hasDelivery": false
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannatilia - Cannabis Apotheke in Mühlhausen/Thüringen",
+      "description": "Cannatilia in Mühlhausen/Thüringen. 22 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/cannatilia",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannatilia - Cannabis Apotheke in Mühlhausen/Thüringen",
+        "description": "Cannatilia in Mühlhausen/Thüringen. 22 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/cannatilia",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/685baaf9ad6bc5b2a6f7ef2c-be97h8.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Mühlhausen/Thüringen",
+        "href": "https://weed.de/cannabis-apotheke/muehlhausen-thueringen"
+      },
+      {
+        "name": "Cannatilia",
+        "href": "https://weed.de/apotheke/cannatilia"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Mühlhausen/Thüringen",
+            "item": "https://weed.de/cannabis-apotheke/muehlhausen-thueringen"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Cannatilia",
+            "item": "https://weed.de/apotheke/cannatilia"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Cannatilia",
+        "url": "https://weed.de/apotheke/cannatilia",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Görmarstraße 54",
+          "addressLocality": "Mühlhausen/Thüringen",
+          "postalCode": "99974",
+          "addressRegion": "Thüringen",
+          "addressCountry": "DE"
+        },
+        "telephone": "03601812560",
+        "email": "shop@cannatilia-flor.com"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/muehlhausen-thueringen",
+      "text": "Cannabis Apotheken in Mühlhausen/Thüringen",
+      "title": "Alle Apotheken in Mühlhausen/Thüringen"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/cannalu",
+        "text": "cannalu.de",
+        "title": "cannalu.de in Bad Berka"
+      },
+      {
+        "href": "/apotheke/apotheke-am-zoopark",
+        "text": "green elephant weed",
+        "title": "green elephant weed in Erfurt"
+      },
+      {
+        "href": "/apotheke/ginkgo-apotheke",
+        "text": "Ginkgo Apotheke",
+        "title": "Ginkgo Apotheke in Jena"
+      },
+      {
+        "href": "/apotheke/schloss-apotheke-2",
+        "text": "Schloss Apotheke",
+        "title": "Schloss Apotheke in Gebesee"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "schwaben-cannabis-engel-apotheke",
+    "name": "Schwaben Cannabis / Engel-Apotheke",
+    "street": "Maximilianstraße 55",
+    "zip": "87719",
+    "cityName": "Mindelheim",
+    "state": "Bayern",
+    "lat": 48.0461744,
+    "lng": 10.4948841,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": null,
+    "phone": "082617637460",
+    "email": "cannabis@engel-apotheke-mindelheim.de",
+    "productCount": 13,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/66f3d048d371ba12c192cf81-88ebi4.jpg"
+  },
+  "city": {
+    "slug": "mindelheim",
+    "name": "Mindelheim",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "cannabisapo24",
+      "name": "Cannabisapo24",
+      "cityName": "Augsburg",
+      "productCount": 364,
+      "hasDelivery": true
+    },
+    {
+      "slug": "spital-apotheke-zum-heiligen-geist",
+      "name": "Canthera.de | Spital Apotheke zum Heiligen Geist",
+      "cityName": "Nürnberg",
+      "productCount": 317,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannaplus-apotheke",
+      "name": "Cannaplus Apotheke",
+      "cityName": "Augsburg",
+      "productCount": 186,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis-apotheke-bayern-1",
+      "name": "Cannabis Apotheke Bayern",
+      "cityName": "Schweinfurt",
+      "productCount": 184,
+      "hasDelivery": true
+    },
+    {
+      "slug": "canamedico-cannabis-mainfranken",
+      "name": "canamedico® – Cannabis Mainfranken",
+      "cityName": "Volkach",
+      "productCount": 162,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Schwaben Cannabis / Engel-Apotheke - Cannabis Apotheke in Mindelheim",
+      "description": "Schwaben Cannabis / Engel-Apotheke in Mindelheim. 13 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/schwaben-cannabis-engel-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Schwaben Cannabis / Engel-Apotheke - Cannabis Apotheke in Mindelheim",
+        "description": "Schwaben Cannabis / Engel-Apotheke in Mindelheim. 13 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/schwaben-cannabis-engel-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/66f3d048d371ba12c192cf81-88ebi4.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Mindelheim",
+        "href": "https://weed.de/cannabis-apotheke/mindelheim"
+      },
+      {
+        "name": "Schwaben Cannabis / Engel-Apotheke",
+        "href": "https://weed.de/apotheke/schwaben-cannabis-engel-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Mindelheim",
+            "item": "https://weed.de/cannabis-apotheke/mindelheim"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Schwaben Cannabis / Engel-Apotheke",
+            "item": "https://weed.de/apotheke/schwaben-cannabis-engel-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Schwaben Cannabis / Engel-Apotheke",
+        "url": "https://weed.de/apotheke/schwaben-cannabis-engel-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Maximilianstraße 55",
+          "addressLocality": "Mindelheim",
+          "postalCode": "87719",
+          "addressRegion": "Bayern",
+          "addressCountry": "DE"
+        },
+        "telephone": "082617637460",
+        "email": "cannabis@engel-apotheke-mindelheim.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/mindelheim",
+      "text": "Cannabis Apotheken in Mindelheim",
+      "title": "Alle Apotheken in Mindelheim"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/cannabisapo24",
+        "text": "Cannabisapo24",
+        "title": "Cannabisapo24 in Augsburg"
+      },
+      {
+        "href": "/apotheke/spital-apotheke-zum-heiligen-geist",
+        "text": "Canthera.de | Spital Apotheke zum Heiligen Geist",
+        "title": "Canthera.de | Spital Apotheke zum Heiligen Geist in Nürnberg"
+      },
+      {
+        "href": "/apotheke/cannaplus-apotheke",
+        "text": "Cannaplus Apotheke",
+        "title": "Cannaplus Apotheke in Augsburg"
+      },
+      {
+        "href": "/apotheke/cannabis-apotheke-bayern-1",
+        "text": "Cannabis Apotheke Bayern",
+        "title": "Cannabis Apotheke Bayern in Schweinfurt"
+      },
+      {
+        "href": "/apotheke/canamedico-cannabis-mainfranken",
+        "text": "canamedico® – Cannabis Mainfranken",
+        "title": "canamedico® – Cannabis Mainfranken in Volkach"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

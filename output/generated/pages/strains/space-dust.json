@@ -1,0 +1,229 @@
+{
+  "strain": {
+    "slug": "space-dust",
+    "name": "Space Dust",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [
+      "Euphoric",
+      "Relaxed",
+      "Clear",
+      "Anxiety-reducing",
+      "Sleepy",
+      "Stress-relief",
+      "Happy"
+    ],
+    "tastes": [
+      "Coffee",
+      "Fruity",
+      "Spicy",
+      "Sweet",
+      "Pepper",
+      "Earthy"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Humulene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "Space Dust ist eine Indica-dominante Hybridsorte, entstanden aus der Kreuzung von King Sherb und Chatterbox. Mit einem hohen THC-Gehalt von typischerweise 26 % und einem CBD-Wert von unter 0,1 % liefert sie potente Effekte, die als stark und beruhigend beschrieben werden. \n\nIhr komplexes Geschmacksprofil ist eine Mischung aus feuchten Kaffee- und Fruchtnoten, ergänzt durch würzige, erdige und süße Akzente. Das Terpenprofil, das von Myrcen, Limonen und Beta-Caryophyllen dominiert wird, enthält zusätzlich auch Humulen, was das Aroma mit entspannenden, zitrusartigen und pfeffrigen Nuancen unterstreicht. \n\nDie Wirkung bietet ein klares, erhebendes und euphorisches Gefühl, das geistig erfrischt und körperlich entspannt. Space Dust ist ideal zur Linderung von Stress, Angstzuständen und Schlafstörungen, da sie sich perfekt für die zweite Tageshälfte eignet. Zusammengefasst ist Space Dust eine Sorte für alle, die ein komplexes Kaffee-Frucht-Aroma mit einem potenten, entspannenden und glücklich machenden High suchen.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 759,
+      "max": 759,
+      "formatted": {
+        "min": "7,59 €",
+        "max": "7,59 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "ceres-no-3",
+      "name": "Ceres No. 3",
+      "brandName": "Cantourage",
+      "thcPercent": 24.5,
+      "priceMin": 759,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "red-velvet-cake",
+      "name": "Red Velvet Cake",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "dirty-taxi",
+      "name": "Dirty Taxi",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "frosted-lemon-cake",
+      "name": "Frosted Lemon Cake",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "cheese-quake",
+      "name": "Cheese Quake",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "frosted-cookies",
+      "name": "Frosted Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Space Dust (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Space Dust: Euphoric, Relaxed, Clear. 1 Produkte verfügbar. ab 7,59 €.",
+      "canonical": "https://weed.de/strain/space-dust",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Space Dust (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Space Dust: Euphoric, Relaxed, Clear. 1 Produkte verfügbar. ab 7,59 €.",
+        "url": "https://weed.de/strain/space-dust",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Space Dust",
+        "href": "https://weed.de/strain/space-dust"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Space Dust",
+            "item": "https://weed.de/strain/space-dust"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Space Dust Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/ceres-no-3",
+            "name": "Ceres No. 3"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/ceres-no-3",
+        "text": "Ceres No. 3",
+        "title": "Ceres No. 3 von Cantourage"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/red-velvet-cake",
+        "text": "Red Velvet Cake",
+        "title": "Red Velvet Cake - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/dirty-taxi",
+        "text": "Dirty Taxi",
+        "title": "Dirty Taxi - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/frosted-lemon-cake",
+        "text": "Frosted Lemon Cake",
+        "title": "Frosted Lemon Cake - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/cheese-quake",
+        "text": "Cheese Quake",
+        "title": "Cheese Quake - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/frosted-cookies",
+        "text": "Frosted Cookies",
+        "title": "Frosted Cookies - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/humulene",
+        "text": "Humulene",
+        "title": "Humulene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

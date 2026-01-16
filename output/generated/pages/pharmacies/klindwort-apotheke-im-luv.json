@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "klindwort-apotheke-im-luv",
+    "name": "Klindwort Apotheke im LUV",
+    "street": "Dänischburger Landstraße 81",
+    "zip": "23569",
+    "cityName": "Lübeck",
+    "state": "Schleswig-Holstein",
+    "lat": 53.9118702,
+    "lng": 10.7332298,
+    "hasDelivery": false,
+    "hasPickup": true,
+    "hasPrices": false,
+    "website": null,
+    "phone": "04512925090",
+    "email": "apo5@klindwort.de",
+    "productCount": 0,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/67e2771941a42f858b6a50d7-6j49da.jpg"
+  },
+  "city": {
+    "slug": "luebeck",
+    "name": "Lübeck",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "cannabisapothekenord",
+      "name": "Cannabis Apotheke Nord",
+      "cityName": "Neumünster",
+      "productCount": 24,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-ratekau",
+      "name": "Apotheke Ratekau",
+      "cityName": "Ratekau",
+      "productCount": 0,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-am-bebelplatz",
+      "name": "Apotheke am Bebelplatz",
+      "cityName": "Kiel",
+      "productCount": 0,
+      "hasDelivery": false
+    },
+    {
+      "slug": "apotheke-am-amtsgericht-1",
+      "name": "Apotheke am Amtsgericht",
+      "cityName": "Oldenburg in Holstein",
+      "productCount": 0,
+      "hasDelivery": false
+    },
+    {
+      "slug": "adler-apotheke",
+      "name": "Adler Apotheke",
+      "cityName": "Tornesch",
+      "productCount": 0,
+      "hasDelivery": false
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Klindwort Apotheke im LUV - Cannabis Apotheke in Lübeck",
+      "description": "Klindwort Apotheke im LUV in Lübeck. Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/klindwort-apotheke-im-luv",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Klindwort Apotheke im LUV - Cannabis Apotheke in Lübeck",
+        "description": "Klindwort Apotheke im LUV in Lübeck. Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/klindwort-apotheke-im-luv",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/67e2771941a42f858b6a50d7-6j49da.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Lübeck",
+        "href": "https://weed.de/cannabis-apotheke/luebeck"
+      },
+      {
+        "name": "Klindwort Apotheke im LUV",
+        "href": "https://weed.de/apotheke/klindwort-apotheke-im-luv"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Lübeck",
+            "item": "https://weed.de/cannabis-apotheke/luebeck"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Klindwort Apotheke im LUV",
+            "item": "https://weed.de/apotheke/klindwort-apotheke-im-luv"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Klindwort Apotheke im LUV",
+        "url": "https://weed.de/apotheke/klindwort-apotheke-im-luv",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Dänischburger Landstraße 81",
+          "addressLocality": "Lübeck",
+          "postalCode": "23569",
+          "addressRegion": "Schleswig-Holstein",
+          "addressCountry": "DE"
+        },
+        "telephone": "04512925090",
+        "email": "apo5@klindwort.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/luebeck",
+      "text": "Cannabis Apotheken in Lübeck",
+      "title": "Alle Apotheken in Lübeck"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/cannabisapothekenord",
+        "text": "Cannabis Apotheke Nord",
+        "title": "Cannabis Apotheke Nord in Neumünster"
+      },
+      {
+        "href": "/apotheke/apotheke-ratekau",
+        "text": "Apotheke Ratekau",
+        "title": "Apotheke Ratekau in Ratekau"
+      },
+      {
+        "href": "/apotheke/apotheke-am-bebelplatz",
+        "text": "Apotheke am Bebelplatz",
+        "title": "Apotheke am Bebelplatz in Kiel"
+      },
+      {
+        "href": "/apotheke/apotheke-am-amtsgericht-1",
+        "text": "Apotheke am Amtsgericht",
+        "title": "Apotheke am Amtsgericht in Oldenburg in Holstein"
+      },
+      {
+        "href": "/apotheke/adler-apotheke",
+        "text": "Adler Apotheke",
+        "title": "Adler Apotheke in Tornesch"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has services"
+  }
+}

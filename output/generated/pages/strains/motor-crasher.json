@@ -1,0 +1,235 @@
+{
+  "strain": {
+    "slug": "motor-crasher",
+    "name": "Motor Crasher",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0,
+      "max": 0
+    },
+    "effects": [
+      "Relaxed",
+      "Happy",
+      "Sociable"
+    ],
+    "tastes": [
+      "Diesel",
+      "Citrus",
+      "Earthy"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 365,
+      "max": 838,
+      "formatted": {
+        "min": "3,65 €",
+        "max": "8,38 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "remexian-241-prt-mcr",
+      "name": "Remexian 24/1 PRT MCR",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 24,
+      "priceMin": 365,
+      "inStock": true
+    },
+    {
+      "slug": "mgf-cann-jgn-261",
+      "name": "MGF CANN JGN 26/1",
+      "brandName": "MGF Via Medical",
+      "thcPercent": 26,
+      "priceMin": 702,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "alien-mints",
+      "name": "Alien Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "red-velvet-cake",
+      "name": "Red Velvet Cake",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "cheese-quake",
+      "name": "Cheese Quake",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "frosted-cookies",
+      "name": "Frosted Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "dirty-taxi",
+      "name": "Dirty Taxi",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Motor Crasher (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Motor Crasher: Relaxed, Happy, Sociable. 2 Produkte verfügbar. ab 3,65 €.",
+      "canonical": "https://weed.de/strain/motor-crasher",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Motor Crasher (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Motor Crasher: Relaxed, Happy, Sociable. 2 Produkte verfügbar. ab 3,65 €.",
+        "url": "https://weed.de/strain/motor-crasher",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Motor Crasher",
+        "href": "https://weed.de/strain/motor-crasher"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Motor Crasher",
+            "item": "https://weed.de/strain/motor-crasher"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Motor Crasher Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/remexian-241-prt-mcr",
+            "name": "Remexian 24/1 PRT MCR"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/mgf-cann-jgn-261",
+            "name": "MGF CANN JGN 26/1"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/remexian-241-prt-mcr",
+        "text": "Remexian 24/1 PRT MCR",
+        "title": "Remexian 24/1 PRT MCR von Remexian Pharma"
+      },
+      {
+        "href": "/product/mgf-cann-jgn-261",
+        "text": "MGF CANN JGN 26/1",
+        "title": "MGF CANN JGN 26/1 von MGF Via Medical"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/alien-mints",
+        "text": "Alien Mints",
+        "title": "Alien Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/red-velvet-cake",
+        "text": "Red Velvet Cake",
+        "title": "Red Velvet Cake - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/cheese-quake",
+        "text": "Cheese Quake",
+        "title": "Cheese Quake - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/frosted-cookies",
+        "text": "Frosted Cookies",
+        "title": "Frosted Cookies - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/dirty-taxi",
+        "text": "Dirty Taxi",
+        "title": "Dirty Taxi - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

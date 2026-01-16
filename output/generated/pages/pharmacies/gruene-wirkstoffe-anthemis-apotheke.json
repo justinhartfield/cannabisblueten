@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "gruene-wirkstoffe-anthemis-apotheke",
+    "name": "Grüne Wirkstoffe (Anthemis Apotheke)",
+    "street": "Münchener Straße 36",
+    "zip": "91567",
+    "cityName": "Herrieden",
+    "state": "Bayern",
+    "lat": 49.23552240000001,
+    "lng": 10.5031499,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": null,
+    "phone": "09825923500",
+    "email": "shop@gruene-wirkstoffe.de",
+    "productCount": 96,
+    "rating": 5,
+    "ratingCount": 17,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/67b76de9f0fd91698133e76c-75fee7.jpg"
+  },
+  "city": {
+    "slug": "herrieden",
+    "name": "Herrieden",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "cannabisapo24",
+      "name": "Cannabisapo24",
+      "cityName": "Augsburg",
+      "productCount": 364,
+      "hasDelivery": true
+    },
+    {
+      "slug": "spital-apotheke-zum-heiligen-geist",
+      "name": "Canthera.de | Spital Apotheke zum Heiligen Geist",
+      "cityName": "Nürnberg",
+      "productCount": 317,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannaplus-apotheke",
+      "name": "Cannaplus Apotheke",
+      "cityName": "Augsburg",
+      "productCount": 186,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis-apotheke-bayern-1",
+      "name": "Cannabis Apotheke Bayern",
+      "cityName": "Schweinfurt",
+      "productCount": 184,
+      "hasDelivery": true
+    },
+    {
+      "slug": "canamedico-cannabis-mainfranken",
+      "name": "canamedico® – Cannabis Mainfranken",
+      "cityName": "Volkach",
+      "productCount": 162,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Grüne Wirkstoffe (Anthemis Apotheke) - Cannabis Apotheke in Herrieden",
+      "description": "Grüne Wirkstoffe (Anthemis Apotheke) in Herrieden. 96 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/gruene-wirkstoffe-anthemis-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Grüne Wirkstoffe (Anthemis Apotheke) - Cannabis Apotheke in Herrieden",
+        "description": "Grüne Wirkstoffe (Anthemis Apotheke) in Herrieden. 96 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/gruene-wirkstoffe-anthemis-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/67b76de9f0fd91698133e76c-75fee7.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Herrieden",
+        "href": "https://weed.de/cannabis-apotheke/herrieden"
+      },
+      {
+        "name": "Grüne Wirkstoffe (Anthemis Apotheke)",
+        "href": "https://weed.de/apotheke/gruene-wirkstoffe-anthemis-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Herrieden",
+            "item": "https://weed.de/cannabis-apotheke/herrieden"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Grüne Wirkstoffe (Anthemis Apotheke)",
+            "item": "https://weed.de/apotheke/gruene-wirkstoffe-anthemis-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Grüne Wirkstoffe (Anthemis Apotheke)",
+        "url": "https://weed.de/apotheke/gruene-wirkstoffe-anthemis-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Münchener Straße 36",
+          "addressLocality": "Herrieden",
+          "postalCode": "91567",
+          "addressRegion": "Bayern",
+          "addressCountry": "DE"
+        },
+        "telephone": "09825923500",
+        "email": "shop@gruene-wirkstoffe.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/herrieden",
+      "text": "Cannabis Apotheken in Herrieden",
+      "title": "Alle Apotheken in Herrieden"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/cannabisapo24",
+        "text": "Cannabisapo24",
+        "title": "Cannabisapo24 in Augsburg"
+      },
+      {
+        "href": "/apotheke/spital-apotheke-zum-heiligen-geist",
+        "text": "Canthera.de | Spital Apotheke zum Heiligen Geist",
+        "title": "Canthera.de | Spital Apotheke zum Heiligen Geist in Nürnberg"
+      },
+      {
+        "href": "/apotheke/cannaplus-apotheke",
+        "text": "Cannaplus Apotheke",
+        "title": "Cannaplus Apotheke in Augsburg"
+      },
+      {
+        "href": "/apotheke/cannabis-apotheke-bayern-1",
+        "text": "Cannabis Apotheke Bayern",
+        "title": "Cannabis Apotheke Bayern in Schweinfurt"
+      },
+      {
+        "href": "/apotheke/canamedico-cannabis-mainfranken",
+        "text": "canamedico® – Cannabis Mainfranken",
+        "title": "canamedico® – Cannabis Mainfranken in Volkach"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

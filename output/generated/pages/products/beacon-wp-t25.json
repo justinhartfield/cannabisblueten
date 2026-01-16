@@ -1,0 +1,225 @@
+{
+  "product": {
+    "slug": "beacon-wp-t25",
+    "name": "BEACON WP T25",
+    "type": "flower",
+    "genetics": "hybrid_indica",
+    "thcPercent": 25,
+    "cbdPercent": 1,
+    "priceMin": 413,
+    "priceMax": 655,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": "https://weed.de/products/beacon-wp-t25-fjhgde.png"
+  },
+  "brand": {
+    "slug": "adrexpharma",
+    "name": "Adrexpharma",
+    "productCount": 60
+  },
+  "strain": {
+    "slug": "blueberry-pancakes",
+    "name": "Blueberry Pancakes",
+    "geneticType": "hybrid",
+    "effects": [
+      "Aroused",
+      "Happy",
+      "Relaxed"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Myrcene",
+      "Humulene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Aroused",
+      "Happy",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Vanilla",
+      "Butter",
+      "Blueberry"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Myrcene",
+      "Humulene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "enua-251-cck-ca",
+      "name": "enua 25/1 CCK CA",
+      "brandName": "enua",
+      "thcPercent": 25.2,
+      "priceMin": 399,
+      "inStock": true
+    },
+    {
+      "slug": "beacon-wp-t24",
+      "name": "Beacon WP T24",
+      "brandName": "Adrexpharma",
+      "thcPercent": 24,
+      "priceMin": 515,
+      "inStock": true
+    },
+    {
+      "slug": "ceres-no-2",
+      "name": "Ceres No. 2",
+      "brandName": "Cantourage",
+      "thcPercent": 25,
+      "priceMin": 590,
+      "inStock": true
+    },
+    {
+      "slug": "420-evolution-271-ca-icc",
+      "name": "420 EVOLUTION 27/1 CA ICC",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 27,
+      "priceMin": 684,
+      "inStock": true
+    },
+    {
+      "slug": "420-natural-221-gg4",
+      "name": "420 Natural 22/1 GG4",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 22,
+      "priceMin": 723,
+      "inStock": true
+    },
+    {
+      "slug": "avaay-241-did",
+      "name": "AVAAY 24/1 DiD",
+      "brandName": "Avaay",
+      "thcPercent": 24,
+      "priceMin": 949,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "BEACON WP T25 - Adrexpharma | ab 4,13 €",
+      "description": "BEACON WP T25 von Adrexpharma. THC: 25%, CBD: 1%. Sorte: Blueberry Pancakes. Preis ab 4,13 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/beacon-wp-t25",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "BEACON WP T25 - Adrexpharma | ab 4,13 €",
+        "description": "BEACON WP T25 von Adrexpharma. THC: 25%, CBD: 1%. Sorte: Blueberry Pancakes. Preis ab 4,13 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/beacon-wp-t25",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/beacon-wp-t25-fjhgde.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Adrexpharma",
+        "href": "https://weed.de/brand/adrexpharma"
+      },
+      {
+        "name": "BEACON WP T25",
+        "href": "https://weed.de/product/beacon-wp-t25"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "BEACON WP T25",
+            "item": "https://weed.de/product/beacon-wp-t25"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BEACON WP T25",
+        "brand": {
+          "@type": "Brand",
+          "name": "Adrexpharma"
+        },
+        "description": "THC: 25%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/blueberry-pancakes",
+      "text": "Blueberry Pancakes",
+      "title": "Blueberry Pancakes Sorte"
+    },
+    "brand": {
+      "href": "/brand/adrexpharma",
+      "text": "Adrexpharma",
+      "title": "Alle Adrexpharma Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/enua-251-cck-ca",
+        "text": "enua 25/1 CCK CA",
+        "title": "Alternative: enua 25/1 CCK CA"
+      },
+      {
+        "href": "/product/beacon-wp-t24",
+        "text": "Beacon WP T24",
+        "title": "Alternative: Beacon WP T24"
+      },
+      {
+        "href": "/product/ceres-no-2",
+        "text": "Ceres No. 2",
+        "title": "Alternative: Ceres No. 2"
+      },
+      {
+        "href": "/product/420-evolution-271-ca-icc",
+        "text": "420 EVOLUTION 27/1 CA ICC",
+        "title": "Alternative: 420 EVOLUTION 27/1 CA ICC"
+      },
+      {
+        "href": "/product/420-natural-221-gg4",
+        "text": "420 Natural 22/1 GG4",
+        "title": "Alternative: 420 Natural 22/1 GG4"
+      },
+      {
+        "href": "/product/avaay-241-did",
+        "text": "AVAAY 24/1 DiD",
+        "title": "Alternative: AVAAY 24/1 DiD"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "product": {
+    "slug": "enua-221-ba-ca",
+    "name": "enua 22/1 BA CA",
+    "type": "flower",
+    "genetics": "hybrid_sativa",
+    "thcPercent": 22,
+    "cbdPercent": 1,
+    "priceMin": 429,
+    "priceMax": 785,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": "https://weed.de/products/enua-221-ba-ca-jef5fj.webp"
+  },
+  "brand": {
+    "slug": "enua",
+    "name": "enua",
+    "productCount": 123
+  },
+  "strain": {
+    "slug": "busy-animal",
+    "name": "Busy Animal",
+    "geneticType": "hybrid",
+    "effects": [
+      "Creative",
+      "Happy",
+      "Energetic"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Linalool",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Creative",
+      "Happy",
+      "Energetic"
+    ],
+    "tastes": [
+      "Flowery",
+      "Citrus",
+      "Spicy"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Linalool",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "amp-classic-251",
+      "name": "AMP Classic 25/1",
+      "brandName": "AMP",
+      "thcPercent": 25,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "enua-21-ba-ca-1",
+      "name": "enua 20/1 BA CA",
+      "brandName": "enua",
+      "thcPercent": 20,
+      "priceMin": 545,
+      "inStock": true
+    },
+    {
+      "slug": "weeco-231",
+      "name": "Weeco 23/1",
+      "brandName": "Weeco",
+      "thcPercent": 23,
+      "priceMin": 599,
+      "inStock": true
+    },
+    {
+      "slug": "aurora-221-dhz-ca",
+      "name": "Aurora 22/1 DHZ-CA",
+      "brandName": "Aurora",
+      "thcPercent": 19.8,
+      "priceMin": 640,
+      "inStock": true
+    },
+    {
+      "slug": "420-evolution-271-ca-str",
+      "name": "420 Evolution 27/1 CA STR",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 27,
+      "priceMin": 645,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-221-florestura",
+      "name": "DEMECAN Florestura 22:01",
+      "brandName": "Deutsche Medizinalcannabis",
+      "thcPercent": 22,
+      "priceMin": 679,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "enua 22/1 BA CA | ab 4,29 €",
+      "description": "enua 22/1 BA CA von enua. THC: 22%, CBD: 1%. Sorte: Busy Animal. Preis ab 4,29 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/enua-221-ba-ca",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "enua 22/1 BA CA | ab 4,29 €",
+        "description": "enua 22/1 BA CA von enua. THC: 22%, CBD: 1%. Sorte: Busy Animal. Preis ab 4,29 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/enua-221-ba-ca",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/enua-221-ba-ca-jef5fj.webp"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "enua",
+        "href": "https://weed.de/brand/enua"
+      },
+      {
+        "name": "enua 22/1 BA CA",
+        "href": "https://weed.de/product/enua-221-ba-ca"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "enua 22/1 BA CA",
+            "item": "https://weed.de/product/enua-221-ba-ca"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "enua 22/1 BA CA",
+        "brand": {
+          "@type": "Brand",
+          "name": "enua"
+        },
+        "description": "THC: 22%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/busy-animal",
+      "text": "Busy Animal",
+      "title": "Busy Animal Sorte"
+    },
+    "brand": {
+      "href": "/brand/enua",
+      "text": "enua",
+      "title": "Alle enua Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/amp-classic-251",
+        "text": "AMP Classic 25/1",
+        "title": "Alternative: AMP Classic 25/1"
+      },
+      {
+        "href": "/product/enua-21-ba-ca-1",
+        "text": "enua 20/1 BA CA",
+        "title": "Alternative: enua 20/1 BA CA"
+      },
+      {
+        "href": "/product/weeco-231",
+        "text": "Weeco 23/1",
+        "title": "Alternative: Weeco 23/1"
+      },
+      {
+        "href": "/product/aurora-221-dhz-ca",
+        "text": "Aurora 22/1 DHZ-CA",
+        "title": "Alternative: Aurora 22/1 DHZ-CA"
+      },
+      {
+        "href": "/product/420-evolution-271-ca-str",
+        "text": "420 Evolution 27/1 CA STR",
+        "title": "Alternative: 420 Evolution 27/1 CA STR"
+      },
+      {
+        "href": "/product/demecan-221-florestura",
+        "text": "DEMECAN Florestura 22:01",
+        "title": "Alternative: DEMECAN Florestura 22:01"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

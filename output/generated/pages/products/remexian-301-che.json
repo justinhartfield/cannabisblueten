@@ -1,0 +1,239 @@
+{
+  "product": {
+    "slug": "remexian-301-che",
+    "name": "Remexian 30/1 CHE",
+    "type": "flower",
+    "genetics": "hybrid_indica",
+    "thcPercent": 31,
+    "cbdPercent": 1,
+    "priceMin": 729,
+    "priceMax": 989,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "remexian-pharma",
+    "name": "Remexian Pharma",
+    "productCount": 340
+  },
+  "strain": {
+    "slug": "chem-cookies",
+    "name": "Chemdawg Cookies",
+    "geneticType": "hybrid",
+    "effects": [
+      "Euphoric",
+      "Relaxed",
+      "Cerebral",
+      "Stress-relief",
+      "Anxiety-reducing",
+      "Sleepy"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Caryophyllene",
+      "Linalool",
+      "Humulene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Euphoric",
+      "Relaxed",
+      "Cerebral",
+      "Stress-relief",
+      "Anxiety-reducing",
+      "Sleepy"
+    ],
+    "tastes": [
+      "Diesel",
+      "Coffee",
+      "Sweet",
+      "Nutty",
+      "Banana",
+      "Earthy",
+      "Citrus",
+      "Musky"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Caryophyllene",
+      "Linalool",
+      "Humulene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "enua-251-cck-ca",
+      "name": "enua 25/1 CCK CA",
+      "brandName": "enua",
+      "thcPercent": 25.2,
+      "priceMin": 399,
+      "inStock": true
+    },
+    {
+      "slug": "ceres-no-2",
+      "name": "Ceres No. 2",
+      "brandName": "Cantourage",
+      "thcPercent": 25,
+      "priceMin": 590,
+      "inStock": true
+    },
+    {
+      "slug": "enua-31-cdc-ca",
+      "name": "enua 30/1 CDC CA",
+      "brandName": "enua",
+      "thcPercent": 30,
+      "priceMin": 655,
+      "inStock": true
+    },
+    {
+      "slug": "420-evolution-271-ca-icc",
+      "name": "420 EVOLUTION 27/1 CA ICC",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 27,
+      "priceMin": 684,
+      "inStock": true
+    },
+    {
+      "slug": "420-natural-221-gg4",
+      "name": "420 Natural 22/1 GG4",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 22,
+      "priceMin": 723,
+      "inStock": true
+    },
+    {
+      "slug": "avaay-241-did",
+      "name": "AVAAY 24/1 DiD",
+      "brandName": "Avaay",
+      "thcPercent": 24,
+      "priceMin": 949,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Remexian 30/1 CHE - Remexian Pharma | ab 7,29 €",
+      "description": "Remexian 30/1 CHE von Remexian Pharma. THC: 31%, CBD: 1%. Sorte: Chemdawg Cookies. Preis ab 7,29 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/remexian-301-che",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Remexian 30/1 CHE - Remexian Pharma | ab 7,29 €",
+        "description": "Remexian 30/1 CHE von Remexian Pharma. THC: 31%, CBD: 1%. Sorte: Chemdawg Cookies. Preis ab 7,29 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/remexian-301-che",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Remexian Pharma",
+        "href": "https://weed.de/brand/remexian-pharma"
+      },
+      {
+        "name": "Remexian 30/1 CHE",
+        "href": "https://weed.de/product/remexian-301-che"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Remexian 30/1 CHE",
+            "item": "https://weed.de/product/remexian-301-che"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Remexian 30/1 CHE",
+        "brand": {
+          "@type": "Brand",
+          "name": "Remexian Pharma"
+        },
+        "description": "THC: 31%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/chem-cookies",
+      "text": "Chemdawg Cookies",
+      "title": "Chemdawg Cookies Sorte"
+    },
+    "brand": {
+      "href": "/brand/remexian-pharma",
+      "text": "Remexian Pharma",
+      "title": "Alle Remexian Pharma Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/enua-251-cck-ca",
+        "text": "enua 25/1 CCK CA",
+        "title": "Alternative: enua 25/1 CCK CA"
+      },
+      {
+        "href": "/product/ceres-no-2",
+        "text": "Ceres No. 2",
+        "title": "Alternative: Ceres No. 2"
+      },
+      {
+        "href": "/product/enua-31-cdc-ca",
+        "text": "enua 30/1 CDC CA",
+        "title": "Alternative: enua 30/1 CDC CA"
+      },
+      {
+        "href": "/product/420-evolution-271-ca-icc",
+        "text": "420 EVOLUTION 27/1 CA ICC",
+        "title": "Alternative: 420 EVOLUTION 27/1 CA ICC"
+      },
+      {
+        "href": "/product/420-natural-221-gg4",
+        "text": "420 Natural 22/1 GG4",
+        "title": "Alternative: 420 Natural 22/1 GG4"
+      },
+      {
+        "href": "/product/avaay-241-did",
+        "text": "AVAAY 24/1 DiD",
+        "title": "Alternative: AVAAY 24/1 DiD"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

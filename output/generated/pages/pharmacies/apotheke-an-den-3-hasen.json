@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "apotheke-an-den-3-hasen",
+    "name": "Apotheke an den 3 Hasen",
+    "street": "An den Drei Hasen 12",
+    "zip": "61440",
+    "cityName": "Oberursel (Taunus)",
+    "state": "Hessen",
+    "lat": 50.20416909999999,
+    "lng": 8.5955008,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": null,
+    "phone": "06171286960",
+    "email": "shop@m-cannabis.de",
+    "productCount": 19,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/6953ff2e29eb6c8615d494cd-b4cbgg.jpg"
+  },
+  "city": {
+    "slug": "oberursel-taunus",
+    "name": "Oberursel (Taunus)",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "cannabis-vital-apotheke",
+      "name": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
+      "cityName": "Hattersheim am Main",
+      "productCount": 187,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis-apotheke-frankfurtkissel-apotheke",
+      "name": "Cannabis Apotheke Frankfurt/Kissel-Apotheke",
+      "cityName": "Frankfurt am Main",
+      "productCount": 183,
+      "hasDelivery": true
+    },
+    {
+      "slug": "schloss-apotheke",
+      "name": "Schloss Apotheke / svapo.de",
+      "cityName": "Offenbach am Main",
+      "productCount": 148,
+      "hasDelivery": true
+    },
+    {
+      "slug": "42unicornde",
+      "name": "420unicorn.de",
+      "cityName": "Kassel",
+      "productCount": 123,
+      "hasDelivery": true
+    },
+    {
+      "slug": "amts-apotheke",
+      "name": "Taunus-Blüten",
+      "cityName": "Usingen",
+      "productCount": 77,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Apotheke an den 3 Hasen - Cannabis Apotheke in Oberursel (Taunus)",
+      "description": "Apotheke an den 3 Hasen in Oberursel (Taunus). 19 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/apotheke-an-den-3-hasen",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Apotheke an den 3 Hasen - Cannabis Apotheke in Oberursel (Taunus)",
+        "description": "Apotheke an den 3 Hasen in Oberursel (Taunus). 19 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/apotheke-an-den-3-hasen",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/6953ff2e29eb6c8615d494cd-b4cbgg.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Oberursel (Taunus)",
+        "href": "https://weed.de/cannabis-apotheke/oberursel-taunus"
+      },
+      {
+        "name": "Apotheke an den 3 Hasen",
+        "href": "https://weed.de/apotheke/apotheke-an-den-3-hasen"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Oberursel (Taunus)",
+            "item": "https://weed.de/cannabis-apotheke/oberursel-taunus"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Apotheke an den 3 Hasen",
+            "item": "https://weed.de/apotheke/apotheke-an-den-3-hasen"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Apotheke an den 3 Hasen",
+        "url": "https://weed.de/apotheke/apotheke-an-den-3-hasen",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "An den Drei Hasen 12",
+          "addressLocality": "Oberursel (Taunus)",
+          "postalCode": "61440",
+          "addressRegion": "Hessen",
+          "addressCountry": "DE"
+        },
+        "telephone": "06171286960",
+        "email": "shop@m-cannabis.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/oberursel-taunus",
+      "text": "Cannabis Apotheken in Oberursel (Taunus)",
+      "title": "Alle Apotheken in Oberursel (Taunus)"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/cannabis-vital-apotheke",
+        "text": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
+        "title": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim) in Hattersheim am Main"
+      },
+      {
+        "href": "/apotheke/cannabis-apotheke-frankfurtkissel-apotheke",
+        "text": "Cannabis Apotheke Frankfurt/Kissel-Apotheke",
+        "title": "Cannabis Apotheke Frankfurt/Kissel-Apotheke in Frankfurt am Main"
+      },
+      {
+        "href": "/apotheke/schloss-apotheke",
+        "text": "Schloss Apotheke / svapo.de",
+        "title": "Schloss Apotheke / svapo.de in Offenbach am Main"
+      },
+      {
+        "href": "/apotheke/42unicornde",
+        "text": "420unicorn.de",
+        "title": "420unicorn.de in Kassel"
+      },
+      {
+        "href": "/apotheke/amts-apotheke",
+        "text": "Taunus-Blüten",
+        "title": "Taunus-Blüten in Usingen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

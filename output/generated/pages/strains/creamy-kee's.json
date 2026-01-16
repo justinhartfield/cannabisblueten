@@ -1,0 +1,256 @@
+{
+  "strain": {
+    "slug": "creamy-kee's",
+    "name": "Creamy Kee's",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Uplifted",
+      "Euphoric",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Citrus",
+      "Diesel",
+      "Creamy",
+      "Nutty"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Caryophyllene",
+      "Nerolidol"
+    ],
+    "description": "Creamy Kee's ist eine  Hybrid-Sorte, die eine Mischung verschiedener Aromen bietet, darunter Zitrusfrüchte, Diesel, cremige und nussige Noten. Die genetische Abstammung dieser Strain lässt sich auf \"Karel's Haze\" und \"Cookies & Cream\" zurückverfolgen, was zu einem einzigartigen und köstlichen Profil führt. Mit einem THC-Gehalt von 22% bis 26% eignet Creamy Kee's besonders für erfahrene Nutzer. Ihre Wirkung wird oft als Euphorisierend und Entspannend beschreieben. ",
+    "imageUrl": "/strains/creamy_kees-hifb18.jpeg"
+  },
+  "stats": {
+    "productCount": 3,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 920,
+      "max": 920,
+      "formatted": {
+        "min": "9,20 €",
+        "max": "9,20 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "demecan-2401-cresina",
+      "name": "Demecan 24:01 Cresina",
+      "brandName": "Demecan",
+      "thcPercent": 24,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "demecan-241-sunshine-cresina",
+      "name": "Demecan 24/1 Sunshine Cresina",
+      "brandName": "Demecan",
+      "thcPercent": 22.7,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "avaay-241-simple-cre",
+      "name": "avaay 24/1 Simple CRE",
+      "brandName": "Avaay",
+      "thcPercent": 24,
+      "priceMin": 920,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "mac-driver",
+      "name": "Mac Driver",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "black-kush",
+      "name": "Black Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "ostara-solar",
+      "name": "Ostara Solar",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "gelato-33",
+      "name": "Gelato 33",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "grape-gasoline",
+      "name": "Grape Gasoline",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Creamy Kee's (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Creamy Kee's: Uplifted, Euphoric, Relaxed. 3 Produkte verfügbar. ab 9,20 €.",
+      "canonical": "https://weed.de/strain/creamy-kee's",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Creamy Kee's (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Creamy Kee's: Uplifted, Euphoric, Relaxed. 3 Produkte verfügbar. ab 9,20 €.",
+        "url": "https://weed.de/strain/creamy-kee's",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "/strains/creamy_kees-hifb18.jpeg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Creamy Kee's",
+        "href": "https://weed.de/strain/creamy-kee's"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Creamy Kee's",
+            "item": "https://weed.de/strain/creamy-kee's"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Creamy Kee's Produkte",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/demecan-2401-cresina",
+            "name": "Demecan 24:01 Cresina"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/demecan-241-sunshine-cresina",
+            "name": "Demecan 24/1 Sunshine Cresina"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/avaay-241-simple-cre",
+            "name": "avaay 24/1 Simple CRE"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/demecan-2401-cresina",
+        "text": "Demecan 24:01 Cresina",
+        "title": "Demecan 24:01 Cresina von Demecan"
+      },
+      {
+        "href": "/product/demecan-241-sunshine-cresina",
+        "text": "Demecan 24/1 Sunshine Cresina",
+        "title": "Demecan 24/1 Sunshine Cresina von Demecan"
+      },
+      {
+        "href": "/product/avaay-241-simple-cre",
+        "text": "avaay 24/1 Simple CRE",
+        "title": "avaay 24/1 Simple CRE von Avaay"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/mac-driver",
+        "text": "Mac Driver",
+        "title": "Mac Driver - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/black-kush",
+        "text": "Black Kush",
+        "title": "Black Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/ostara-solar",
+        "text": "Ostara Solar",
+        "title": "Ostara Solar - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/gelato-33",
+        "text": "Gelato 33",
+        "title": "Gelato 33 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/grape-gasoline",
+        "text": "Grape Gasoline",
+        "title": "Grape Gasoline - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/nerolidol",
+        "text": "Nerolidol",
+        "title": "Nerolidol Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

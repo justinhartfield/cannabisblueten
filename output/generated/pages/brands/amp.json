@@ -1,0 +1,213 @@
+{
+  "brand": {
+    "slug": "amp",
+    "name": "AMP",
+    "productCount": 6
+  },
+  "products": [
+    {
+      "slug": "amp-classic-251",
+      "name": "AMP Classic 25/1",
+      "type": "flower",
+      "thcPercent": 25,
+      "priceMin": 397,
+      "inStock": true,
+      "strainName": "Frosted Lemon Angel"
+    },
+    {
+      "slug": "amp-classic-181",
+      "name": "AMP Classic 18/1",
+      "type": "flower",
+      "thcPercent": 18,
+      "priceMin": 900,
+      "inStock": true,
+      "strainName": "White Widow"
+    },
+    {
+      "slug": "amp-zen-rbx-thc25-white-wedding-cake-rbx",
+      "name": "AMP ZEN RBX THC25 White Wedding Cake RBX",
+      "type": "flower",
+      "thcPercent": 24.1,
+      "priceMin": 500,
+      "inStock": true,
+      "strainName": "Legendary Larry"
+    },
+    {
+      "slug": "cannabis-flos-amp-bediol",
+      "name": "Cannabis flos AMP Bediol",
+      "type": "flower",
+      "thcPercent": 6.3,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Bediol"
+    },
+    {
+      "slug": "cannabis-flos-amp-bedrocan",
+      "name": "Cannabis flos AMP Bedrocan",
+      "type": "flower",
+      "thcPercent": 22,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Bedrocan®"
+    },
+    {
+      "slug": "pharmcann-silver-thc-22",
+      "name": "PharmCann Silver THC 22",
+      "type": "flower",
+      "thcPercent": 22,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "La S.A.G.E."
+    }
+  ],
+  "stats": {
+    "productCount": 6,
+    "inStockCount": 3,
+    "avgThc": 19.6,
+    "priceRange": {
+      "min": 397,
+      "max": 900,
+      "formatted": {
+        "min": "3,97 €",
+        "max": "9,00 €"
+      }
+    }
+  },
+  "seo": {
+    "meta": {
+      "title": "AMP Cannabis Produkte - 6 Produkte",
+      "description": "AMP: 6 Cannabis Produkte. 3 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+      "canonical": "https://weed.de/brand/amp",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "AMP Cannabis Produkte - 6 Produkte",
+        "description": "AMP: 6 Cannabis Produkte. 3 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+        "url": "https://weed.de/brand/amp",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Hersteller",
+        "href": "https://weed.de/brands"
+      },
+      {
+        "name": "AMP",
+        "href": "https://weed.de/brand/amp"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Hersteller",
+            "item": "https://weed.de/brands"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "AMP",
+            "item": "https://weed.de/brand/amp"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "AMP Produkte",
+        "numberOfItems": 6,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/amp-classic-251",
+            "name": "AMP Classic 25/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/amp-classic-181",
+            "name": "AMP Classic 18/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/amp-zen-rbx-thc25-white-wedding-cake-rbx",
+            "name": "AMP ZEN RBX THC25 White Wedding Cake RBX"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/product/cannabis-flos-amp-bediol",
+            "name": "Cannabis flos AMP Bediol"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "https://weed.de/product/cannabis-flos-amp-bedrocan",
+            "name": "Cannabis flos AMP Bedrocan"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "url": "https://weed.de/product/pharmcann-silver-thc-22",
+            "name": "PharmCann Silver THC 22"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/amp-classic-251",
+        "text": "AMP Classic 25/1",
+        "title": "AMP Classic 25/1"
+      },
+      {
+        "href": "/product/amp-classic-181",
+        "text": "AMP Classic 18/1",
+        "title": "AMP Classic 18/1"
+      },
+      {
+        "href": "/product/amp-zen-rbx-thc25-white-wedding-cake-rbx",
+        "text": "AMP ZEN RBX THC25 White Wedding Cake RBX",
+        "title": "AMP ZEN RBX THC25 White Wedding Cake RBX"
+      },
+      {
+        "href": "/product/cannabis-flos-amp-bediol",
+        "text": "Cannabis flos AMP Bediol",
+        "title": "Cannabis flos AMP Bediol"
+      },
+      {
+        "href": "/product/cannabis-flos-amp-bedrocan",
+        "text": "Cannabis flos AMP Bedrocan",
+        "title": "Cannabis flos AMP Bedrocan"
+      },
+      {
+        "href": "/product/pharmcann-silver-thc-22",
+        "text": "PharmCann Silver THC 22",
+        "title": "PharmCann Silver THC 22"
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "strain": {
+    "slug": "strawberry-grail",
+    "name": "Strawberry Grail",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [
+      "Euphoric",
+      "Relaxed",
+      "Sleepy"
+    ],
+    "tastes": [
+      "Diesel",
+      "Fruity",
+      "Woody"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Beta-Caryophyllene",
+      "Beta-Myrcene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": null
+  },
+  "products": [
+    {
+      "slug": "remexian-301-stg",
+      "name": "Remexian 30/1 STG",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 31,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "do-si-dos",
+      "name": "Do-Si-Dos",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "platinum-grapes",
+      "name": "Platinum Grapes",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "helios-gold",
+      "name": "Helios Gold",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "godfather-og-auto",
+      "name": "Godfather OG Auto",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "petrol-cookies",
+      "name": "Petrol Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Strawberry Grail (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Strawberry Grail: Euphoric, Relaxed, Sleepy. 1 Produkte verfügbar.",
+      "canonical": "https://weed.de/strain/strawberry-grail",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Strawberry Grail (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Strawberry Grail: Euphoric, Relaxed, Sleepy. 1 Produkte verfügbar.",
+        "url": "https://weed.de/strain/strawberry-grail",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Strawberry Grail",
+        "href": "https://weed.de/strain/strawberry-grail"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Strawberry Grail",
+            "item": "https://weed.de/strain/strawberry-grail"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Strawberry Grail Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/remexian-301-stg",
+            "name": "Remexian 30/1 STG"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/remexian-301-stg",
+        "text": "Remexian 30/1 STG",
+        "title": "Remexian 30/1 STG von Remexian Pharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/do-si-dos",
+        "text": "Do-Si-Dos",
+        "title": "Do-Si-Dos - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/platinum-grapes",
+        "text": "Platinum Grapes",
+        "title": "Platinum Grapes - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/helios-gold",
+        "text": "Helios Gold",
+        "title": "Helios Gold - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/godfather-og-auto",
+        "text": "Godfather OG Auto",
+        "title": "Godfather OG Auto - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/petrol-cookies",
+        "text": "Petrol Cookies",
+        "title": "Petrol Cookies - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/beta-myrcene",
+        "text": "Beta-Myrcene",
+        "title": "Beta-Myrcene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

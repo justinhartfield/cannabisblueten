@@ -1,0 +1,227 @@
+{
+  "product": {
+    "slug": "nice-131-sd",
+    "name": "NICE 13/1 SD",
+    "type": "flower",
+    "genetics": "hybrid_sativa",
+    "thcPercent": 13,
+    "cbdPercent": 1,
+    "priceMin": 499,
+    "priceMax": 660,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Portugal",
+    "imageUrl": "https://weed.de/products/nice-131-sd-e933ai.png"
+  },
+  "brand": {
+    "slug": "cansativa",
+    "name": "Cansativa",
+    "productCount": 141
+  },
+  "strain": {
+    "slug": "sour-diesel",
+    "name": "Sour Diesel",
+    "geneticType": "sativa",
+    "effects": [
+      "Energetic",
+      "Talkative",
+      "Creative"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Myrcene",
+      "Limonene",
+      "Carene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Energetic",
+      "Talkative",
+      "Creative"
+    ],
+    "tastes": [
+      "Diesel",
+      "Pungent",
+      "Skunk"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Myrcene",
+      "Limonene",
+      "Carene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "amp-classic-251",
+      "name": "AMP Classic 25/1",
+      "brandName": "AMP",
+      "thcPercent": 25,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-thc-18-spotlight-porto-sd",
+      "name": "Tilray THC 18 Spotlight Porto SD",
+      "brandName": "Tilray",
+      "thcPercent": 18,
+      "priceMin": 598,
+      "inStock": true
+    },
+    {
+      "slug": "weeco-231",
+      "name": "Weeco 23/1",
+      "brandName": "Weeco",
+      "thcPercent": 23,
+      "priceMin": 599,
+      "inStock": true
+    },
+    {
+      "slug": "aurora-221-dhz-ca",
+      "name": "Aurora 22/1 DHZ-CA",
+      "brandName": "Aurora",
+      "thcPercent": 19.8,
+      "priceMin": 640,
+      "inStock": true
+    },
+    {
+      "slug": "420-evolution-271-ca-str",
+      "name": "420 Evolution 27/1 CA STR",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 27,
+      "priceMin": 645,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-thc-22-spotlight-porto-sd",
+      "name": "Tilray THC 22 Spotlight Porto SD",
+      "brandName": "Tilray",
+      "thcPercent": 22,
+      "priceMin": 665,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "NICE 13/1 SD - Cansativa | ab 4,99 €",
+      "description": "NICE 13/1 SD von Cansativa. THC: 13%, CBD: 1%. Sorte: Sour Diesel. Preis ab 4,99 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/nice-131-sd",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "NICE 13/1 SD - Cansativa | ab 4,99 €",
+        "description": "NICE 13/1 SD von Cansativa. THC: 13%, CBD: 1%. Sorte: Sour Diesel. Preis ab 4,99 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/nice-131-sd",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/nice-131-sd-e933ai.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Cansativa",
+        "href": "https://weed.de/brand/cansativa"
+      },
+      {
+        "name": "NICE 13/1 SD",
+        "href": "https://weed.de/product/nice-131-sd"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "NICE 13/1 SD",
+            "item": "https://weed.de/product/nice-131-sd"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "NICE 13/1 SD",
+        "brand": {
+          "@type": "Brand",
+          "name": "Cansativa"
+        },
+        "description": "THC: 13%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/sour-diesel",
+      "text": "Sour Diesel",
+      "title": "Sour Diesel Sorte"
+    },
+    "brand": {
+      "href": "/brand/cansativa",
+      "text": "Cansativa",
+      "title": "Alle Cansativa Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/amp-classic-251",
+        "text": "AMP Classic 25/1",
+        "title": "Alternative: AMP Classic 25/1"
+      },
+      {
+        "href": "/product/tilray-thc-18-spotlight-porto-sd",
+        "text": "Tilray THC 18 Spotlight Porto SD",
+        "title": "Alternative: Tilray THC 18 Spotlight Porto SD"
+      },
+      {
+        "href": "/product/weeco-231",
+        "text": "Weeco 23/1",
+        "title": "Alternative: Weeco 23/1"
+      },
+      {
+        "href": "/product/aurora-221-dhz-ca",
+        "text": "Aurora 22/1 DHZ-CA",
+        "title": "Alternative: Aurora 22/1 DHZ-CA"
+      },
+      {
+        "href": "/product/420-evolution-271-ca-str",
+        "text": "420 Evolution 27/1 CA STR",
+        "title": "Alternative: 420 Evolution 27/1 CA STR"
+      },
+      {
+        "href": "/product/tilray-thc-22-spotlight-porto-sd",
+        "text": "Tilray THC 22 Spotlight Porto SD",
+        "title": "Alternative: Tilray THC 22 Spotlight Porto SD"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

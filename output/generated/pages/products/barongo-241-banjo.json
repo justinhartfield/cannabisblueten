@@ -1,0 +1,225 @@
+{
+  "product": {
+    "slug": "barongo-241-banjo",
+    "name": "Barongo 24/1 Banjo",
+    "type": "flower",
+    "genetics": "hybrid_sativa",
+    "thcPercent": 24,
+    "cbdPercent": 1,
+    "priceMin": 698,
+    "priceMax": 698,
+    "inStock": false,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": "https://weed.de/products/barongo-241-banjo-9f5ejb.png"
+  },
+  "brand": {
+    "slug": "wmg-pharma",
+    "name": "WMG Pharma",
+    "productCount": 62
+  },
+  "strain": {
+    "slug": "banjo",
+    "name": "Banjo",
+    "geneticType": "hybrid",
+    "effects": [
+      "Relaxed",
+      "Euphoric"
+    ],
+    "terpenes": [
+      "Alpha-Pinene",
+      "Beta-Myrcene",
+      "Beta-Caryophyllene",
+      "Limonene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Relaxed",
+      "Euphoric"
+    ],
+    "tastes": [
+      "Citrus",
+      "Cheese",
+      "Pepper"
+    ],
+    "terpenes": [
+      "Alpha-Pinene",
+      "Beta-Myrcene",
+      "Beta-Caryophyllene",
+      "Limonene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "cannamedical-sativa-forte-es-251",
+      "name": "Cannamedical Sativa Forte ES 25/1",
+      "brandName": "Cannamedical",
+      "thcPercent": 25,
+      "priceMin": 420,
+      "inStock": true
+    },
+    {
+      "slug": "barongo-281-fb",
+      "name": "Barongo 28/1 FB",
+      "brandName": "WMG Pharma",
+      "thcPercent": 28,
+      "priceMin": 529,
+      "inStock": true
+    },
+    {
+      "slug": "eufloria-241-ban",
+      "name": "Eufloria 24/1 BAN",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 24,
+      "priceMin": 595,
+      "inStock": true
+    },
+    {
+      "slug": "aleph-matterhorn-211-banjo",
+      "name": "aleph Matterhorn 21/1 Banjo",
+      "brandName": "alephSana",
+      "thcPercent": 21,
+      "priceMin": 699,
+      "inStock": true
+    },
+    {
+      "slug": "remexian-211-ten-ban",
+      "name": "Remexian 21/1 TEN BAN",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 21,
+      "priceMin": 850,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-craft-t4n-g-2501",
+      "name": "Demecan CRAFT T4N-G 25:01",
+      "brandName": "Demecan",
+      "thcPercent": 24.8,
+      "priceMin": 1100,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Barongo 24/1 Banjo - WMG Pharma | ab 6,98 €",
+      "description": "Barongo 24/1 Banjo von WMG Pharma. THC: 24%, CBD: 1%. Sorte: Banjo. Preis ab 6,98 €. Preise vergleichen.",
+      "canonical": "https://weed.de/product/barongo-241-banjo",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Barongo 24/1 Banjo - WMG Pharma | ab 6,98 €",
+        "description": "Barongo 24/1 Banjo von WMG Pharma. THC: 24%, CBD: 1%. Sorte: Banjo. Preis ab 6,98 €. Preise vergleichen.",
+        "url": "https://weed.de/product/barongo-241-banjo",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/barongo-241-banjo-9f5ejb.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "WMG Pharma",
+        "href": "https://weed.de/brand/wmg-pharma"
+      },
+      {
+        "name": "Barongo 24/1 Banjo",
+        "href": "https://weed.de/product/barongo-241-banjo"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Barongo 24/1 Banjo",
+            "item": "https://weed.de/product/barongo-241-banjo"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Barongo 24/1 Banjo",
+        "brand": {
+          "@type": "Brand",
+          "name": "WMG Pharma"
+        },
+        "description": "THC: 24%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/banjo",
+      "text": "Banjo",
+      "title": "Banjo Sorte"
+    },
+    "brand": {
+      "href": "/brand/wmg-pharma",
+      "text": "WMG Pharma",
+      "title": "Alle WMG Pharma Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/cannamedical-sativa-forte-es-251",
+        "text": "Cannamedical Sativa Forte ES 25/1",
+        "title": "Alternative: Cannamedical Sativa Forte ES 25/1"
+      },
+      {
+        "href": "/product/barongo-281-fb",
+        "text": "Barongo 28/1 FB",
+        "title": "Alternative: Barongo 28/1 FB"
+      },
+      {
+        "href": "/product/eufloria-241-ban",
+        "text": "Eufloria 24/1 BAN",
+        "title": "Alternative: Eufloria 24/1 BAN"
+      },
+      {
+        "href": "/product/aleph-matterhorn-211-banjo",
+        "text": "aleph Matterhorn 21/1 Banjo",
+        "title": "Alternative: aleph Matterhorn 21/1 Banjo"
+      },
+      {
+        "href": "/product/remexian-211-ten-ban",
+        "text": "Remexian 21/1 TEN BAN",
+        "title": "Alternative: Remexian 21/1 TEN BAN"
+      },
+      {
+        "href": "/product/demecan-craft-t4n-g-2501",
+        "text": "Demecan CRAFT T4N-G 25:01",
+        "title": "Alternative: Demecan CRAFT T4N-G 25:01"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has price data"
+  }
+}

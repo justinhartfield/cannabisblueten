@@ -1,0 +1,229 @@
+{
+  "strain": {
+    "slug": "nordle",
+    "name": "Nordle",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 96,
+      "max": 98
+    },
+    "effects": [
+      "Relaxed",
+      "Sleepy",
+      "Tingly"
+    ],
+    "tastes": [
+      "Spicy-Herbal",
+      "Pine",
+      "Plum"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Geraniol"
+    ],
+    "description": "Nordle ist eine indica-dominante Hybrid-Sorte mit Genetik aus Afghanistan. Sie ist für ihren hohen CBD-Gehalt bekannt, der in der Regel zwischen 9% und 11% liegt, und weist einen außergewöhnlich niedrigen THC-Gehalt auf. Nordle bietet ein einzigartiges Geschmacksprofil mit Noten von würzig-herbem, Kiefer und Pflaume, was ein einzigartiges und geschmackvolles Erlebnis schafft. Der Genuss von Nordle kann mit Entspannung, Schläfrigkeit und einem Kribbeln einher gehen.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 799,
+      "max": 799,
+      "formatted": {
+        "min": "7,99 €",
+        "max": "7,99 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "remexian-201-nordle",
+      "name": "Remexian 20/1 - Nordle",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 20,
+      "priceMin": 799,
+      "inStock": false
+    },
+    {
+      "slug": "remexian-161-ndl",
+      "name": "Remexian 16/1 NDL",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 16.7,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "granddaddy-og",
+      "name": "Granddaddy OG",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "granddaddy-purple",
+      "name": "Granddaddy Purple",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "grape-pie",
+      "name": "Grape Pie",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "white-gorilla",
+      "name": "White Gorilla",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "el-jefe",
+      "name": "El Jefe",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Nordle (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Nordle: Relaxed, Sleepy, Tingly. 2 Produkte verfügbar. ab 7,99 €.",
+      "canonical": "https://weed.de/strain/nordle",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Nordle (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Nordle: Relaxed, Sleepy, Tingly. 2 Produkte verfügbar. ab 7,99 €.",
+        "url": "https://weed.de/strain/nordle",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Nordle",
+        "href": "https://weed.de/strain/nordle"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Nordle",
+            "item": "https://weed.de/strain/nordle"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Nordle Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/remexian-201-nordle",
+            "name": "Remexian 20/1 - Nordle"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/remexian-161-ndl",
+            "name": "Remexian 16/1 NDL"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/remexian-201-nordle",
+        "text": "Remexian 20/1 - Nordle",
+        "title": "Remexian 20/1 - Nordle von Remexian Pharma"
+      },
+      {
+        "href": "/product/remexian-161-ndl",
+        "text": "Remexian 16/1 NDL",
+        "title": "Remexian 16/1 NDL von Remexian Pharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/granddaddy-og",
+        "text": "Granddaddy OG",
+        "title": "Granddaddy OG - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/granddaddy-purple",
+        "text": "Granddaddy Purple",
+        "title": "Granddaddy Purple - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/grape-pie",
+        "text": "Grape Pie",
+        "title": "Grape Pie - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/white-gorilla",
+        "text": "White Gorilla",
+        "title": "White Gorilla - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/el-jefe",
+        "text": "El Jefe",
+        "title": "El Jefe - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/geraniol",
+        "text": "Geraniol",
+        "title": "Geraniol Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

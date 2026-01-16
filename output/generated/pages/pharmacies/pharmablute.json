@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "pharmablute",
+    "name": "PharmaBlüte",
+    "street": "Daniel-Brendel-Straße 2",
+    "zip": "55127",
+    "cityName": "Mainz",
+    "state": "Rheinland-Pfalz",
+    "lat": 49.9928617,
+    "lng": 8.2472526,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://pharmabluete.de/",
+    "phone": "06131477823",
+    "email": "service@pharmabluete.de",
+    "productCount": 124,
+    "rating": 4.43,
+    "ratingCount": 7,
+    "imageUrl": "https://weed.de/pharmacies/65771a6c22f9635a1ee53d08-chcge8.jpg"
+  },
+  "city": {
+    "slug": "mainz",
+    "name": "Mainz",
+    "pharmacyCount": 3
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "apotheke-an-der-romerquelle",
+      "name": "Cannamed Quelle [Apotheke an der Romerquelle]",
+      "cityName": "Mainz",
+      "productCount": 50,
+      "hasDelivery": true
+    },
+    {
+      "slug": "die-mainz-apotheke",
+      "name": "Die Mainz Apotheke",
+      "cityName": "Mainz",
+      "productCount": 0,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis-apotheke-rheinland",
+      "name": "Cannabis Apotheke Rheinland",
+      "cityName": "Bad Neuenahr-Ahrweiler",
+      "productCount": 161,
+      "hasDelivery": true
+    },
+    {
+      "slug": "grune-blute-ulmen-apotheke",
+      "name": "Grüne Blüte",
+      "cityName": "Frankenthal (Pfalz)",
+      "productCount": 158,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis4me",
+      "name": "cannabis4me",
+      "cityName": "Bad Neuenahr-Ahrweiler",
+      "productCount": 89,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "PharmaBlüte - Cannabis Apotheke in Mainz",
+      "description": "PharmaBlüte in Mainz. 124 Cannabis Produkte. Lieferung & Abholung. Bewertung: 4.4/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/pharmablute",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "PharmaBlüte - Cannabis Apotheke in Mainz",
+        "description": "PharmaBlüte in Mainz. 124 Cannabis Produkte. Lieferung & Abholung. Bewertung: 4.4/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/pharmablute",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/pharmacies/65771a6c22f9635a1ee53d08-chcge8.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Mainz",
+        "href": "https://weed.de/cannabis-apotheke/mainz"
+      },
+      {
+        "name": "PharmaBlüte",
+        "href": "https://weed.de/apotheke/pharmablute"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Mainz",
+            "item": "https://weed.de/cannabis-apotheke/mainz"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "PharmaBlüte",
+            "item": "https://weed.de/apotheke/pharmablute"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "PharmaBlüte",
+        "url": "https://weed.de/apotheke/pharmablute",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Daniel-Brendel-Straße 2",
+          "addressLocality": "Mainz",
+          "postalCode": "55127",
+          "addressRegion": "Rheinland-Pfalz",
+          "addressCountry": "DE"
+        },
+        "telephone": "06131477823",
+        "email": "service@pharmabluete.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/mainz",
+      "text": "Cannabis Apotheken in Mainz",
+      "title": "Alle Apotheken in Mainz"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/apotheke-an-der-romerquelle",
+        "text": "Cannamed Quelle [Apotheke an der Romerquelle]",
+        "title": "Cannamed Quelle [Apotheke an der Romerquelle] in Mainz"
+      },
+      {
+        "href": "/apotheke/die-mainz-apotheke",
+        "text": "Die Mainz Apotheke",
+        "title": "Die Mainz Apotheke in Mainz"
+      },
+      {
+        "href": "/apotheke/cannabis-apotheke-rheinland",
+        "text": "Cannabis Apotheke Rheinland",
+        "title": "Cannabis Apotheke Rheinland in Bad Neuenahr-Ahrweiler"
+      },
+      {
+        "href": "/apotheke/grune-blute-ulmen-apotheke",
+        "text": "Grüne Blüte",
+        "title": "Grüne Blüte in Frankenthal (Pfalz)"
+      },
+      {
+        "href": "/apotheke/cannabis4me",
+        "text": "cannabis4me",
+        "title": "cannabis4me in Bad Neuenahr-Ahrweiler"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

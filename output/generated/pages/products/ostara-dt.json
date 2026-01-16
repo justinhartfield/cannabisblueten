@@ -1,0 +1,240 @@
+{
+  "product": {
+    "slug": "ostara-dt",
+    "name": "Ostara DT",
+    "type": "flower",
+    "genetics": "hybrid_sativa",
+    "thcPercent": 29,
+    "cbdPercent": 1,
+    "priceMin": 1050,
+    "priceMax": 1050,
+    "inStock": false,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/products/ostara-dt-22d2i1.jpeg"
+  },
+  "brand": {
+    "slug": "cantourage",
+    "name": "Cantourage",
+    "productCount": 248
+  },
+  "strain": {
+    "slug": "dirty-taxi",
+    "name": "Dirty Taxi",
+    "geneticType": "hybrid",
+    "effects": [
+      "Focused",
+      "Euphoric",
+      "Happy",
+      "Relaxed",
+      "Stress-relief",
+      "Sleepy",
+      "Pain-relief"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Beta-Caryophyllene",
+      "Humulene",
+      "Pinene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Focused",
+      "Euphoric",
+      "Happy",
+      "Relaxed",
+      "Stress-relief",
+      "Sleepy",
+      "Pain-relief"
+    ],
+    "tastes": [
+      "Diesel",
+      "Pine",
+      "Earthy",
+      "Garlic",
+      "Spicy",
+      "Citrus"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Beta-Caryophyllene",
+      "Humulene",
+      "Pinene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "avextra-1010",
+      "name": "Avextra 10/10",
+      "brandName": "Avextra",
+      "thcPercent": 1,
+      "priceMin": 279,
+      "inStock": true
+    },
+    {
+      "slug": "amp-classic-251",
+      "name": "AMP Classic 25/1",
+      "brandName": "AMP",
+      "thcPercent": 25,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "weeco-231",
+      "name": "Weeco 23/1",
+      "brandName": "Weeco",
+      "thcPercent": 23,
+      "priceMin": 599,
+      "inStock": true
+    },
+    {
+      "slug": "aurora-221-dhz-ca",
+      "name": "Aurora 22/1 DHZ-CA",
+      "brandName": "Aurora",
+      "thcPercent": 19.8,
+      "priceMin": 640,
+      "inStock": true
+    },
+    {
+      "slug": "420-evolution-271-ca-str",
+      "name": "420 Evolution 27/1 CA STR",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 27,
+      "priceMin": 645,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-221-florestura",
+      "name": "DEMECAN Florestura 22:01",
+      "brandName": "Deutsche Medizinalcannabis",
+      "thcPercent": 22,
+      "priceMin": 679,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Ostara DT - Cantourage | ab 10,50 €",
+      "description": "Ostara DT von Cantourage. THC: 29%, CBD: 1%. Sorte: Dirty Taxi. Preis ab 10,50 €. Preise vergleichen.",
+      "canonical": "https://weed.de/product/ostara-dt",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Ostara DT - Cantourage | ab 10,50 €",
+        "description": "Ostara DT von Cantourage. THC: 29%, CBD: 1%. Sorte: Dirty Taxi. Preis ab 10,50 €. Preise vergleichen.",
+        "url": "https://weed.de/product/ostara-dt",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/products/ostara-dt-22d2i1.jpeg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Cantourage",
+        "href": "https://weed.de/brand/cantourage"
+      },
+      {
+        "name": "Ostara DT",
+        "href": "https://weed.de/product/ostara-dt"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Ostara DT",
+            "item": "https://weed.de/product/ostara-dt"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Ostara DT",
+        "brand": {
+          "@type": "Brand",
+          "name": "Cantourage"
+        },
+        "description": "THC: 29%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/dirty-taxi",
+      "text": "Dirty Taxi",
+      "title": "Dirty Taxi Sorte"
+    },
+    "brand": {
+      "href": "/brand/cantourage",
+      "text": "Cantourage",
+      "title": "Alle Cantourage Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/avextra-1010",
+        "text": "Avextra 10/10",
+        "title": "Alternative: Avextra 10/10"
+      },
+      {
+        "href": "/product/amp-classic-251",
+        "text": "AMP Classic 25/1",
+        "title": "Alternative: AMP Classic 25/1"
+      },
+      {
+        "href": "/product/weeco-231",
+        "text": "Weeco 23/1",
+        "title": "Alternative: Weeco 23/1"
+      },
+      {
+        "href": "/product/aurora-221-dhz-ca",
+        "text": "Aurora 22/1 DHZ-CA",
+        "title": "Alternative: Aurora 22/1 DHZ-CA"
+      },
+      {
+        "href": "/product/420-evolution-271-ca-str",
+        "text": "420 Evolution 27/1 CA STR",
+        "title": "Alternative: 420 Evolution 27/1 CA STR"
+      },
+      {
+        "href": "/product/demecan-221-florestura",
+        "text": "DEMECAN Florestura 22:01",
+        "title": "Alternative: DEMECAN Florestura 22:01"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has price data"
+  }
+}

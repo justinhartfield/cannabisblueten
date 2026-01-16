@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "bussicann-muenster-apotheke-im-hit",
+    "name": "Bussicann Münster - Partus HIT Apotheke",
+    "street": "Geringhoffstraße 44",
+    "zip": "48163",
+    "cityName": "Münster",
+    "state": "Nordrhein-Westfalen",
+    "lat": 51.9306373,
+    "lng": 7.5990252,
+    "hasDelivery": false,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "muenster.bussicann.de",
+    "phone": "023828888822",
+    "email": "muenster@bussicann.de",
+    "productCount": 38,
+    "rating": 5,
+    "ratingCount": 2,
+    "imageUrl": "https://weed.de/pharmacies/bussicann-muenster-apotheke-im-hit-j6f57c.png"
+  },
+  "city": {
+    "slug": "muenster",
+    "name": "Münster",
+    "pharmacyCount": 6
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "hohenzollern-apotheke",
+      "name": "Hohenzollern Apotheke am Ring",
+      "cityName": "Münster",
+      "productCount": 80,
+      "hasDelivery": true
+    },
+    {
+      "slug": "ludgeri-apotheke",
+      "name": "Ludgeri Apotheke",
+      "cityName": "Münster",
+      "productCount": 18,
+      "hasDelivery": false
+    },
+    {
+      "slug": "sued-apotheke",
+      "name": "Süd-Apotheke",
+      "cityName": "Münster",
+      "productCount": 2,
+      "hasDelivery": true
+    },
+    {
+      "slug": "kosmas-apotheke-ohg",
+      "name": "Kosmas-Apotheke",
+      "cityName": "Münster",
+      "productCount": 0,
+      "hasDelivery": false
+    },
+    {
+      "slug": "test-pharmacy",
+      "name": "Test Pharmacy",
+      "cityName": "Münster",
+      "productCount": 0,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Bussicann Münster - Partus HIT Apotheke - Cannabis Apotheke in Münster",
+      "description": "Bussicann Münster - Partus HIT Apotheke in Münster. 38 Cannabis Produkte. Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/bussicann-muenster-apotheke-im-hit",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Bussicann Münster - Partus HIT Apotheke - Cannabis Apotheke in Münster",
+        "description": "Bussicann Münster - Partus HIT Apotheke in Münster. 38 Cannabis Produkte. Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/bussicann-muenster-apotheke-im-hit",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/pharmacies/bussicann-muenster-apotheke-im-hit-j6f57c.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Münster",
+        "href": "https://weed.de/cannabis-apotheke/muenster"
+      },
+      {
+        "name": "Bussicann Münster - Partus HIT Apotheke",
+        "href": "https://weed.de/apotheke/bussicann-muenster-apotheke-im-hit"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Münster",
+            "item": "https://weed.de/cannabis-apotheke/muenster"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Bussicann Münster - Partus HIT Apotheke",
+            "item": "https://weed.de/apotheke/bussicann-muenster-apotheke-im-hit"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Bussicann Münster - Partus HIT Apotheke",
+        "url": "https://weed.de/apotheke/bussicann-muenster-apotheke-im-hit",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Geringhoffstraße 44",
+          "addressLocality": "Münster",
+          "postalCode": "48163",
+          "addressRegion": "Nordrhein-Westfalen",
+          "addressCountry": "DE"
+        },
+        "telephone": "023828888822",
+        "email": "muenster@bussicann.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/muenster",
+      "text": "Cannabis Apotheken in Münster",
+      "title": "Alle Apotheken in Münster"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/hohenzollern-apotheke",
+        "text": "Hohenzollern Apotheke am Ring",
+        "title": "Hohenzollern Apotheke am Ring in Münster"
+      },
+      {
+        "href": "/apotheke/ludgeri-apotheke",
+        "text": "Ludgeri Apotheke",
+        "title": "Ludgeri Apotheke in Münster"
+      },
+      {
+        "href": "/apotheke/sued-apotheke",
+        "text": "Süd-Apotheke",
+        "title": "Süd-Apotheke in Münster"
+      },
+      {
+        "href": "/apotheke/kosmas-apotheke-ohg",
+        "text": "Kosmas-Apotheke",
+        "title": "Kosmas-Apotheke in Münster"
+      },
+      {
+        "href": "/apotheke/test-pharmacy",
+        "text": "Test Pharmacy",
+        "title": "Test Pharmacy in Münster"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

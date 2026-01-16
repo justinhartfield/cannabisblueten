@@ -1,0 +1,209 @@
+{
+  "strain": {
+    "slug": "columbian-haze",
+    "name": "Columbian Haze",
+    "geneticType": "sativa",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Euphoric",
+      "Creative",
+      "Focused"
+    ],
+    "tastes": [
+      "Pine",
+      "Earthy",
+      "Citrus"
+    ],
+    "terpenes": [
+      "Pinene",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": null
+  },
+  "products": [
+    {
+      "slug": "zoiks-221-chz",
+      "name": "ZOIKS 22/1 CHZ",
+      "brandName": "Avaay",
+      "thcPercent": 22,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "liquid-imagination",
+      "name": "Liquid Imagination",
+      "geneticType": "sativa",
+      "thcMax": null
+    },
+    {
+      "slug": "strawberry-lemonade",
+      "name": "Strawberry Lemonade",
+      "geneticType": "sativa",
+      "thcMax": null
+    },
+    {
+      "slug": "casey-jones",
+      "name": "Casey Jones",
+      "geneticType": "sativa",
+      "thcMax": null
+    },
+    {
+      "slug": "carnez-citric",
+      "name": "Carnez Citric",
+      "geneticType": "sativa",
+      "thcMax": null
+    },
+    {
+      "slug": "platinum-sour-diesel",
+      "name": "Platinum Sour Diesel",
+      "geneticType": "sativa",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Columbian Haze (Sativa) - Wirkung, THC & Verfügbarkeit",
+      "description": "Columbian Haze: Euphoric, Creative, Focused. 1 Produkte verfügbar.",
+      "canonical": "https://weed.de/strain/columbian-haze",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Columbian Haze (Sativa) - Wirkung, THC & Verfügbarkeit",
+        "description": "Columbian Haze: Euphoric, Creative, Focused. 1 Produkte verfügbar.",
+        "url": "https://weed.de/strain/columbian-haze",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Columbian Haze",
+        "href": "https://weed.de/strain/columbian-haze"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Columbian Haze",
+            "item": "https://weed.de/strain/columbian-haze"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Columbian Haze Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/zoiks-221-chz",
+            "name": "ZOIKS 22/1 CHZ"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/zoiks-221-chz",
+        "text": "ZOIKS 22/1 CHZ",
+        "title": "ZOIKS 22/1 CHZ von Avaay"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/liquid-imagination",
+        "text": "Liquid Imagination",
+        "title": "Liquid Imagination - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/strawberry-lemonade",
+        "text": "Strawberry Lemonade",
+        "title": "Strawberry Lemonade - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/casey-jones",
+        "text": "Casey Jones",
+        "title": "Casey Jones - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/carnez-citric",
+        "text": "Carnez Citric",
+        "title": "Carnez Citric - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/platinum-sour-diesel",
+        "text": "Platinum Sour Diesel",
+        "title": "Platinum Sour Diesel - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/pinene",
+        "text": "Pinene",
+        "title": "Pinene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "strain": {
+    "slug": "afina",
+    "name": "Afina",
+    "geneticType": "sativa",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": null,
+      "max": null
+    },
+    "effects": [
+      "Focused",
+      "Relaxed",
+      "Uplifted"
+    ],
+    "tastes": [
+      "Citrus",
+      "Earthy",
+      "Pine"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Myrcene",
+      "Pinene"
+    ],
+    "description": " Afina ist eine sativa-dominante Cannabissorte, die für ihren hohen THC-Gehalt im Bereich von 19 % bis 25 % bekannt ist.Ihre vielfältige Terpenzusammensetzung umfasst Limonene, das für sein zitrusartiges Aroma bekannt ist, Myrcene und Pinene, das einen Kiefernduft bietet. Afina wird sehr oft in der Forschung eingesetzt. ",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 7,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 429,
+      "max": 1811,
+      "formatted": {
+        "min": "4,29 €",
+        "max": "18,11 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "bedrocan-221",
+      "name": "Bedrocan 22/1",
+      "brandName": "Bedrocan",
+      "thcPercent": 22,
+      "priceMin": 755,
+      "inStock": true
+    },
+    {
+      "slug": "bedrocan",
+      "name": "Bedrocan Cannabis Flos 22/1 Afina",
+      "brandName": "Bedrocan",
+      "thcPercent": 22,
+      "priceMin": 429,
+      "inStock": true
+    },
+    {
+      "slug": "bedrocan-50mgml",
+      "name": "Bedrocan 50mg/ml",
+      "brandName": "Bedrocan",
+      "thcPercent": 5,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "bedrocan-25mgml",
+      "name": "Bedrocan 25mg/ml",
+      "brandName": "Bedrocan",
+      "thcPercent": 25,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "bedrocan-vollspektrumextrakt-kapseln-2,5mg",
+      "name": "Bedrocan Vollspektrumextrakt-Kapseln 2,5mg",
+      "brandName": "Bedrocan",
+      "thcPercent": 2.5,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "bedrocan-vollspektrumextrakt-kapseln-10mg",
+      "name": "Bedrocan Vollspektrumextrakt-Kapseln 10mg",
+      "brandName": "Bedrocan",
+      "thcPercent": 10,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "bedrocan-cannabis-flos-251",
+      "name": "Bedrocan Cannabis Flos 25/1",
+      "brandName": "Bedrocan",
+      "thcPercent": 25,
+      "priceMin": 820,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "casey-jones",
+      "name": "Casey Jones",
+      "geneticType": "sativa",
+      "thcMax": null
+    },
+    {
+      "slug": "strawberry-lemonade",
+      "name": "Strawberry Lemonade",
+      "geneticType": "sativa",
+      "thcMax": null
+    },
+    {
+      "slug": "colombian-gold",
+      "name": "Colombian Gold",
+      "geneticType": "sativa",
+      "thcMax": null
+    },
+    {
+      "slug": "thai",
+      "name": "Thai",
+      "geneticType": "sativa",
+      "thcMax": null
+    },
+    {
+      "slug": "haze",
+      "name": "Haze",
+      "geneticType": "sativa",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Afina (Sativa) - Wirkung, THC & Verfügbarkeit",
+      "description": "Afina: Focused, Relaxed, Uplifted. 7 Produkte verfügbar. ab 4,29 €.",
+      "canonical": "https://weed.de/strain/afina",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Afina (Sativa) - Wirkung, THC & Verfügbarkeit",
+        "description": "Afina: Focused, Relaxed, Uplifted. 7 Produkte verfügbar. ab 4,29 €.",
+        "url": "https://weed.de/strain/afina",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Afina",
+        "href": "https://weed.de/strain/afina"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Afina",
+            "item": "https://weed.de/strain/afina"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Afina Produkte",
+        "numberOfItems": 7,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/bedrocan-221",
+            "name": "Bedrocan 22/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/bedrocan",
+            "name": "Bedrocan Cannabis Flos 22/1 Afina"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/bedrocan-50mgml",
+            "name": "Bedrocan 50mg/ml"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/product/bedrocan-25mgml",
+            "name": "Bedrocan 25mg/ml"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "https://weed.de/product/bedrocan-vollspektrumextrakt-kapseln-2,5mg",
+            "name": "Bedrocan Vollspektrumextrakt-Kapseln 2,5mg"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "url": "https://weed.de/product/bedrocan-vollspektrumextrakt-kapseln-10mg",
+            "name": "Bedrocan Vollspektrumextrakt-Kapseln 10mg"
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "url": "https://weed.de/product/bedrocan-cannabis-flos-251",
+            "name": "Bedrocan Cannabis Flos 25/1"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/bedrocan-221",
+        "text": "Bedrocan 22/1",
+        "title": "Bedrocan 22/1 von Bedrocan"
+      },
+      {
+        "href": "/product/bedrocan",
+        "text": "Bedrocan Cannabis Flos 22/1 Afina",
+        "title": "Bedrocan Cannabis Flos 22/1 Afina von Bedrocan"
+      },
+      {
+        "href": "/product/bedrocan-50mgml",
+        "text": "Bedrocan 50mg/ml",
+        "title": "Bedrocan 50mg/ml von Bedrocan"
+      },
+      {
+        "href": "/product/bedrocan-25mgml",
+        "text": "Bedrocan 25mg/ml",
+        "title": "Bedrocan 25mg/ml von Bedrocan"
+      },
+      {
+        "href": "/product/bedrocan-vollspektrumextrakt-kapseln-2,5mg",
+        "text": "Bedrocan Vollspektrumextrakt-Kapseln 2,5mg",
+        "title": "Bedrocan Vollspektrumextrakt-Kapseln 2,5mg von Bedrocan"
+      },
+      {
+        "href": "/product/bedrocan-vollspektrumextrakt-kapseln-10mg",
+        "text": "Bedrocan Vollspektrumextrakt-Kapseln 10mg",
+        "title": "Bedrocan Vollspektrumextrakt-Kapseln 10mg von Bedrocan"
+      },
+      {
+        "href": "/product/bedrocan-cannabis-flos-251",
+        "text": "Bedrocan Cannabis Flos 25/1",
+        "title": "Bedrocan Cannabis Flos 25/1 von Bedrocan"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/casey-jones",
+        "text": "Casey Jones",
+        "title": "Casey Jones - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/strawberry-lemonade",
+        "text": "Strawberry Lemonade",
+        "title": "Strawberry Lemonade - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/colombian-gold",
+        "text": "Colombian Gold",
+        "title": "Colombian Gold - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/thai",
+        "text": "Thai",
+        "title": "Thai - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/haze",
+        "text": "Haze",
+        "title": "Haze - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/pinene",
+        "text": "Pinene",
+        "title": "Pinene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

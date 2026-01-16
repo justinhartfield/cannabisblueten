@@ -1,0 +1,229 @@
+{
+  "strain": {
+    "slug": "rainbow-lava",
+    "name": "Rainbow Lava",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Creative",
+      "Hungry",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Woody",
+      "Sweet",
+      "Fruity"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Myrcene",
+      "Linalool",
+      "Beta-Caryophyllene",
+      "Geraniol",
+      "Alpha-Cedrene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 649,
+      "max": 649,
+      "formatted": {
+        "min": "6,49 €",
+        "max": "6,49 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "buuo-241-dc-rl",
+      "name": "Buuo 24/1 DC RL",
+      "brandName": "WMG Pharma",
+      "thcPercent": 24,
+      "priceMin": 649,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "peechy-keen",
+      "name": "Peechy Keen",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "frosted-cookies",
+      "name": "Frosted Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "tigerz-eye",
+      "name": "Tigerz Eye",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "alien-mints",
+      "name": "Alien Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "gelato-zkittles",
+      "name": "Gelato Zkittles",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Rainbow Lava (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Rainbow Lava: Creative, Hungry, Relaxed. 1 Produkte verfügbar. ab 6,49 €.",
+      "canonical": "https://weed.de/strain/rainbow-lava",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Rainbow Lava (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Rainbow Lava: Creative, Hungry, Relaxed. 1 Produkte verfügbar. ab 6,49 €.",
+        "url": "https://weed.de/strain/rainbow-lava",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Rainbow Lava",
+        "href": "https://weed.de/strain/rainbow-lava"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Rainbow Lava",
+            "item": "https://weed.de/strain/rainbow-lava"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Rainbow Lava Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/buuo-241-dc-rl",
+            "name": "Buuo 24/1 DC RL"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/buuo-241-dc-rl",
+        "text": "Buuo 24/1 DC RL",
+        "title": "Buuo 24/1 DC RL von WMG Pharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/peechy-keen",
+        "text": "Peechy Keen",
+        "title": "Peechy Keen - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/frosted-cookies",
+        "text": "Frosted Cookies",
+        "title": "Frosted Cookies - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/tigerz-eye",
+        "text": "Tigerz Eye",
+        "title": "Tigerz Eye - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/alien-mints",
+        "text": "Alien Mints",
+        "title": "Alien Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/gelato-zkittles",
+        "text": "Gelato Zkittles",
+        "title": "Gelato Zkittles - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/geraniol",
+        "text": "Geraniol",
+        "title": "Geraniol Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

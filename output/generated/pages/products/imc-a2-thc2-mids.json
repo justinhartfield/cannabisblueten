@@ -1,0 +1,222 @@
+{
+  "product": {
+    "slug": "imc-a2-thc2-mids",
+    "name": "IMC A2 THC20 Mids",
+    "type": "flower",
+    "genetics": "indica",
+    "thcPercent": 21,
+    "cbdPercent": 1,
+    "priceMin": 324,
+    "priceMax": 599,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Israel",
+    "imageUrl": "https://weed.de/products/imc-a2-thc2-mids-ggea7c.webp"
+  },
+  "brand": {
+    "slug": "imc",
+    "name": "IMC",
+    "productCount": 128
+  },
+  "strain": {
+    "slug": "pillow-kush",
+    "name": "Pillow Kush",
+    "geneticType": "hybrid",
+    "effects": [
+      "Focused",
+      "Euphoric"
+    ],
+    "terpenes": [
+      "Linalool",
+      "Beta-Myrcene",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Focused",
+      "Euphoric"
+    ],
+    "tastes": [
+      "Earthy",
+      "Fruity"
+    ],
+    "terpenes": [
+      "Linalool",
+      "Beta-Myrcene",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "aurora-thc-25-cannabis-extract",
+      "name": "Aurora THC 25 Cannabis Extract",
+      "brandName": "Cansativa",
+      "thcPercent": 2.5,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "adven-cannabisextrakt-thc-20",
+      "name": "Adven Cannabisextrakt THC 20",
+      "brandName": "Adven",
+      "thcPercent": 2,
+      "priceMin": 476,
+      "inStock": true
+    },
+    {
+      "slug": "adven-cannabisextrakt-thc-10-cbd-10",
+      "name": "Adven Cannabisextrakt THC 10 CBD 10",
+      "brandName": "Adven",
+      "thcPercent": 10,
+      "priceMin": 560,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-1",
+      "name": "Demecan Typ 1",
+      "brandName": "Demecan",
+      "thcPercent": 21,
+      "priceMin": 694,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-indica-forte-ej",
+      "name": "Cannamedical Indica forte EJ",
+      "brandName": "Cannamedical",
+      "thcPercent": 24,
+      "priceMin": 700,
+      "inStock": true
+    },
+    {
+      "slug": "251vayamed-cannabisextrakt",
+      "name": "25/1Vayamed Cannabisextrakt",
+      "brandName": "Vayamed",
+      "thcPercent": 2.5,
+      "priceMin": 824,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "IMC A2 THC20 Mids | ab 3,24 €",
+      "description": "IMC A2 THC20 Mids von IMC. THC: 21%, CBD: 1%. Sorte: Pillow Kush. Preis ab 3,24 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/imc-a2-thc2-mids",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "IMC A2 THC20 Mids | ab 3,24 €",
+        "description": "IMC A2 THC20 Mids von IMC. THC: 21%, CBD: 1%. Sorte: Pillow Kush. Preis ab 3,24 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/imc-a2-thc2-mids",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/imc-a2-thc2-mids-ggea7c.webp"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "IMC",
+        "href": "https://weed.de/brand/imc"
+      },
+      {
+        "name": "IMC A2 THC20 Mids",
+        "href": "https://weed.de/product/imc-a2-thc2-mids"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "IMC A2 THC20 Mids",
+            "item": "https://weed.de/product/imc-a2-thc2-mids"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "IMC A2 THC20 Mids",
+        "brand": {
+          "@type": "Brand",
+          "name": "IMC"
+        },
+        "description": "THC: 21%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/pillow-kush",
+      "text": "Pillow Kush",
+      "title": "Pillow Kush Sorte"
+    },
+    "brand": {
+      "href": "/brand/imc",
+      "text": "IMC",
+      "title": "Alle IMC Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/aurora-thc-25-cannabis-extract",
+        "text": "Aurora THC 25 Cannabis Extract",
+        "title": "Alternative: Aurora THC 25 Cannabis Extract"
+      },
+      {
+        "href": "/product/adven-cannabisextrakt-thc-20",
+        "text": "Adven Cannabisextrakt THC 20",
+        "title": "Alternative: Adven Cannabisextrakt THC 20"
+      },
+      {
+        "href": "/product/adven-cannabisextrakt-thc-10-cbd-10",
+        "text": "Adven Cannabisextrakt THC 10 CBD 10",
+        "title": "Alternative: Adven Cannabisextrakt THC 10 CBD 10"
+      },
+      {
+        "href": "/product/demecan-typ-1",
+        "text": "Demecan Typ 1",
+        "title": "Alternative: Demecan Typ 1"
+      },
+      {
+        "href": "/product/cannamedical-indica-forte-ej",
+        "text": "Cannamedical Indica forte EJ",
+        "title": "Alternative: Cannamedical Indica forte EJ"
+      },
+      {
+        "href": "/product/251vayamed-cannabisextrakt",
+        "text": "25/1Vayamed Cannabisextrakt",
+        "title": "Alternative: 25/1Vayamed Cannabisextrakt"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

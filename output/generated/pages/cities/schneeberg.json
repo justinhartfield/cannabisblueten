@@ -1,0 +1,165 @@
+{
+  "city": {
+    "slug": "schneeberg",
+    "name": "Schneeberg",
+    "state": "Sachsen"
+  },
+  "stats": {
+    "pharmacyCount": 1,
+    "totalProducts": 50,
+    "hasDelivery": true
+  },
+  "pharmacies": [
+    {
+      "slug": "merkur-apotheke-schneeberg",
+      "name": "ErzCannabis - Merkur Apotheke Schneeberg",
+      "street": "Seminarstraße 43",
+      "zip": "08289",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 50,
+      "rating": 0,
+      "ratingCount": 0
+    }
+  ],
+  "nearbyCities": [
+    {
+      "slug": "leipzig",
+      "name": "Leipzig",
+      "pharmacyCount": 2
+    },
+    {
+      "slug": "dresden",
+      "name": "Dresden",
+      "pharmacyCount": 1
+    },
+    {
+      "slug": "zwickau",
+      "name": "Zwickau",
+      "pharmacyCount": 1
+    },
+    {
+      "slug": "markkleeberg",
+      "name": "Markkleeberg",
+      "pharmacyCount": 1
+    },
+    {
+      "slug": "chemnitz",
+      "name": "Chemnitz",
+      "pharmacyCount": 1
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannabis Apotheke Schneeberg - 1 Apotheken",
+      "description": "Cannabis Apotheken in Schneeberg. 1 Apotheken mit 50 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+      "canonical": "https://weed.de/cannabis-apotheke/schneeberg",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannabis Apotheke Schneeberg - 1 Apotheken",
+        "description": "Cannabis Apotheken in Schneeberg. 1 Apotheken mit 50 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+        "url": "https://weed.de/cannabis-apotheke/schneeberg",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Schneeberg",
+        "href": "https://weed.de/cannabis-apotheke/schneeberg"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Schneeberg",
+            "item": "https://weed.de/cannabis-apotheke/schneeberg"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Cannabis Apotheken in Schneeberg",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/apotheke/merkur-apotheke-schneeberg",
+            "name": "ErzCannabis - Merkur Apotheke Schneeberg"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "pharmacies": [
+      {
+        "href": "/apotheke/merkur-apotheke-schneeberg",
+        "text": "ErzCannabis - Merkur Apotheke Schneeberg",
+        "title": "ErzCannabis - Merkur Apotheke Schneeberg in Schneeberg"
+      }
+    ],
+    "nearbyCities": [
+      {
+        "href": "/cannabis-apotheke/leipzig",
+        "text": "Cannabis Apotheke Leipzig",
+        "title": "2 Apotheken in Leipzig"
+      },
+      {
+        "href": "/cannabis-apotheke/dresden",
+        "text": "Cannabis Apotheke Dresden",
+        "title": "1 Apotheken in Dresden"
+      },
+      {
+        "href": "/cannabis-apotheke/zwickau",
+        "text": "Cannabis Apotheke Zwickau",
+        "title": "1 Apotheken in Zwickau"
+      },
+      {
+        "href": "/cannabis-apotheke/markkleeberg",
+        "text": "Cannabis Apotheke Markkleeberg",
+        "title": "1 Apotheken in Markkleeberg"
+      },
+      {
+        "href": "/cannabis-apotheke/chemnitz",
+        "text": "Cannabis Apotheke Chemnitz",
+        "title": "1 Apotheken in Chemnitz"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Single pharmacy with good product coverage"
+  }
+}

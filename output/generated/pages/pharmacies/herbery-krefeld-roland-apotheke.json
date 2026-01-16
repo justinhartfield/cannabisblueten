@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "herbery-krefeld-roland-apotheke",
+    "name": "Herbery Krefeld (Roland Apotheke)",
+    "street": "Ostwall 242",
+    "zip": "47798",
+    "cityName": "Krefeld",
+    "state": "Nordrhein-Westfalen",
+    "lat": 51.3370173,
+    "lng": 6.5636122,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://krefeld.herbery.de/",
+    "phone": "02151613109",
+    "email": "rezept@krefeld.herbery.de",
+    "productCount": 68,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/686bd5daf06b1ef84575e2f0-i57d2c.jpg"
+  },
+  "city": {
+    "slug": "krefeld",
+    "name": "Krefeld",
+    "pharmacyCount": 4
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "higreen-apotheke",
+      "name": "higreen! Online Marktplatz für Cannabis Apotheken",
+      "cityName": "Krefeld",
+      "productCount": 256,
+      "hasDelivery": true
+    },
+    {
+      "slug": "kleeblatt-apotheke-am-ostwall",
+      "name": "Kleeblatt Apotheke am Ostwall (MyWeed24.de)",
+      "cityName": "Krefeld",
+      "productCount": 34,
+      "hasDelivery": true
+    },
+    {
+      "slug": "3koenigen-apotheke",
+      "name": "3Königen Apotheke",
+      "cityName": "Krefeld",
+      "productCount": 10,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-zur-alten-post",
+      "name": "Cannacompany (Apotheke zur Alten Post)",
+      "cityName": "Bonn",
+      "productCount": 233,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis-apotheke-essen-glocken-apotheke",
+      "name": "Cannabis Apotheke Essen (Glocken Apotheke)",
+      "cityName": "Essen",
+      "productCount": 174,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Herbery Krefeld (Roland Apotheke) - Cannabis Apotheke in Krefeld",
+      "description": "Herbery Krefeld (Roland Apotheke) in Krefeld. 68 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/herbery-krefeld-roland-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Herbery Krefeld (Roland Apotheke) - Cannabis Apotheke in Krefeld",
+        "description": "Herbery Krefeld (Roland Apotheke) in Krefeld. 68 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/herbery-krefeld-roland-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/686bd5daf06b1ef84575e2f0-i57d2c.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Krefeld",
+        "href": "https://weed.de/cannabis-apotheke/krefeld"
+      },
+      {
+        "name": "Herbery Krefeld (Roland Apotheke)",
+        "href": "https://weed.de/apotheke/herbery-krefeld-roland-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Krefeld",
+            "item": "https://weed.de/cannabis-apotheke/krefeld"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Herbery Krefeld (Roland Apotheke)",
+            "item": "https://weed.de/apotheke/herbery-krefeld-roland-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Herbery Krefeld (Roland Apotheke)",
+        "url": "https://weed.de/apotheke/herbery-krefeld-roland-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Ostwall 242",
+          "addressLocality": "Krefeld",
+          "postalCode": "47798",
+          "addressRegion": "Nordrhein-Westfalen",
+          "addressCountry": "DE"
+        },
+        "telephone": "02151613109",
+        "email": "rezept@krefeld.herbery.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/krefeld",
+      "text": "Cannabis Apotheken in Krefeld",
+      "title": "Alle Apotheken in Krefeld"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/higreen-apotheke",
+        "text": "higreen! Online Marktplatz für Cannabis Apotheken",
+        "title": "higreen! Online Marktplatz für Cannabis Apotheken in Krefeld"
+      },
+      {
+        "href": "/apotheke/kleeblatt-apotheke-am-ostwall",
+        "text": "Kleeblatt Apotheke am Ostwall (MyWeed24.de)",
+        "title": "Kleeblatt Apotheke am Ostwall (MyWeed24.de) in Krefeld"
+      },
+      {
+        "href": "/apotheke/3koenigen-apotheke",
+        "text": "3Königen Apotheke",
+        "title": "3Königen Apotheke in Krefeld"
+      },
+      {
+        "href": "/apotheke/apotheke-zur-alten-post",
+        "text": "Cannacompany (Apotheke zur Alten Post)",
+        "title": "Cannacompany (Apotheke zur Alten Post) in Bonn"
+      },
+      {
+        "href": "/apotheke/cannabis-apotheke-essen-glocken-apotheke",
+        "text": "Cannabis Apotheke Essen (Glocken Apotheke)",
+        "title": "Cannabis Apotheke Essen (Glocken Apotheke) in Essen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

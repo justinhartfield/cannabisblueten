@@ -1,0 +1,237 @@
+{
+  "strain": {
+    "slug": "pink-grapes",
+    "name": "Pink Grapes",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Mental ease",
+      "Creative",
+      "Activating",
+      "Focused",
+      "Stress-relief",
+      "Pain-relief",
+      "Anxiety-reducing",
+      "Happy"
+    ],
+    "tastes": [
+      "Diesel",
+      "Strawberry",
+      "Fruity",
+      "Grape",
+      "Citrus",
+      "Flowery",
+      "Tangy"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Caryophyllene",
+      "Linalool",
+      "Humulene"
+    ],
+    "description": "Pink Grapes ist eine Sativa-dominierte Hybrid-Sorte, entstanden aus der Kreuzung der potenten Strains Pink Runtz und Grape Gas. Mit einem hohen THC-Gehalt, der typischerweise zwischen 22% und 24% liegt, und einem niedrigen CBD-Wert liefert sie potente Effekte, die gleichzeitig anregend und körperlich beruhigend sind. \nIhr komplexes Geschmacksprofil ist geprägt von süßen, fruchtigen Erdbeernoten und Trauben, ergänzt durch einen würzigen Diesel-Geruch. Das Terpenprofil, das von Limonen, Myrcen und Caryophyllen dominiert wird, enthält zusätzlich auch Linalool und Humulen, was das Aroma mit anregenden Zitrusnoten, würzigen und blumigen Nuancen unterstreicht. \nDie Wirkung beginnt mit einem Schub mentaler Energie und Kreativität, der den Geist aktiviert und fokussiert. Darauf folgt eine leichte körperliche Entspannung, die glücklich macht und Stress sowie Angstzustände lindert. Pink Grapes ist ideal, um chronische Schmerzen und Kopfschmerzen zu behandeln und die Stimmung aufzuhellen. Zusammengefasst ist Pink Grapes eine Sorte für alle, die ein einzigartiges, süß-fruchtiges Aroma mit einem potenten, anregenden und zugleich entspannenden High suchen.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 399,
+      "max": 590,
+      "formatted": {
+        "min": "3,99 €",
+        "max": "5,90 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "21-bc-green-pink-grapes",
+      "name": "20/1 BC Green Pink Grapes",
+      "brandName": "BC Green",
+      "thcPercent": 18,
+      "priceMin": 399,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "mochellow",
+      "name": "Mochellow",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "sour-flare",
+      "name": "Sour Flare",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "gush-mints",
+      "name": "Gush Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "miracle-mints",
+      "name": "Miracle Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "candy-fumez",
+      "name": "Candy Fumez",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Pink Grapes (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Pink Grapes: Mental ease, Creative, Activating. 1 Produkte verfügbar. ab 3,99 €.",
+      "canonical": "https://weed.de/strain/pink-grapes",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Pink Grapes (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Pink Grapes: Mental ease, Creative, Activating. 1 Produkte verfügbar. ab 3,99 €.",
+        "url": "https://weed.de/strain/pink-grapes",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Pink Grapes",
+        "href": "https://weed.de/strain/pink-grapes"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Pink Grapes",
+            "item": "https://weed.de/strain/pink-grapes"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Pink Grapes Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/21-bc-green-pink-grapes",
+            "name": "20/1 BC Green Pink Grapes"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/21-bc-green-pink-grapes",
+        "text": "20/1 BC Green Pink Grapes",
+        "title": "20/1 BC Green Pink Grapes von BC Green"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/mochellow",
+        "text": "Mochellow",
+        "title": "Mochellow - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/sour-flare",
+        "text": "Sour Flare",
+        "title": "Sour Flare - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/gush-mints",
+        "text": "Gush Mints",
+        "title": "Gush Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/miracle-mints",
+        "text": "Miracle Mints",
+        "title": "Miracle Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/candy-fumez",
+        "text": "Candy Fumez",
+        "title": "Candy Fumez - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      },
+      {
+        "href": "/terpene/humulene",
+        "text": "Humulene",
+        "title": "Humulene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "strain": {
+    "slug": "moonbow",
+    "name": "Moonbow",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Euphoric",
+      "Relaxed",
+      "Giggly"
+    ],
+    "tastes": [
+      "Pear",
+      "Chestnut",
+      "Nutty"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Myrcene",
+      "Limonene"
+    ],
+    "description": "The Moonbow weed strain was created when Archive Seed Bank crossed Zkittlez with a Do-Si-Dos phenotype. Its light-colored buds are densely packed and sugar-coated with a delicious fruity and floral terpene profile.",
+    "imageUrl": "/strains/68650a629dfaed110b1f3c89-6i9bi6.png"
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 499,
+      "max": 799,
+      "formatted": {
+        "min": "4,99 €",
+        "max": "7,99 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "herbery-bb-231",
+      "name": "Herbery BB 23:01",
+      "brandName": "Demecan",
+      "thcPercent": 23,
+      "priceMin": 499,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "animal-mints",
+      "name": "Animal Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "banana-do-si-dos",
+      "name": "Banana Do-Si-Dos",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "banana-sherbet",
+      "name": "Banana Sherbet",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "blue-runtz",
+      "name": "Blue Runtz",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "banana-kush",
+      "name": "Banana Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Moonbow (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Moonbow: Euphoric, Relaxed, Giggly. 1 Produkte verfügbar. ab 4,99 €.",
+      "canonical": "https://weed.de/strain/moonbow",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Moonbow (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Moonbow: Euphoric, Relaxed, Giggly. 1 Produkte verfügbar. ab 4,99 €.",
+        "url": "https://weed.de/strain/moonbow",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "/strains/68650a629dfaed110b1f3c89-6i9bi6.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Moonbow",
+        "href": "https://weed.de/strain/moonbow"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Moonbow",
+            "item": "https://weed.de/strain/moonbow"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Moonbow Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/herbery-bb-231",
+            "name": "Herbery BB 23:01"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/herbery-bb-231",
+        "text": "Herbery BB 23:01",
+        "title": "Herbery BB 23:01 von Demecan"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/animal-mints",
+        "text": "Animal Mints",
+        "title": "Animal Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/banana-do-si-dos",
+        "text": "Banana Do-Si-Dos",
+        "title": "Banana Do-Si-Dos - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/banana-sherbet",
+        "text": "Banana Sherbet",
+        "title": "Banana Sherbet - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/blue-runtz",
+        "text": "Blue Runtz",
+        "title": "Blue Runtz - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/banana-kush",
+        "text": "Banana Kush",
+        "title": "Banana Kush - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

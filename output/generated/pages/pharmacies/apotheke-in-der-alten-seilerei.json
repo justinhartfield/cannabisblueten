@@ -1,0 +1,187 @@
+{
+  "pharmacy": {
+    "slug": "apotheke-in-der-alten-seilerei",
+    "name": "Cannem - Dein Cannabis aus Mannheim",
+    "street": "Angelstraße 7",
+    "zip": "68199",
+    "cityName": "Mannheim",
+    "state": "Baden-Württemberg",
+    "lat": 49.4517611,
+    "lng": 8.4958987,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": false,
+    "website": "www.cannem.de",
+    "phone": "062180331690",
+    "email": "cannabis@petrig-apotheken.de",
+    "productCount": 0,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": null
+  },
+  "city": {
+    "slug": "mannheim",
+    "name": "Mannheim",
+    "pharmacyCount": 6
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "kurpfalz-apotheke",
+      "name": "Kurpfalz-Apotheke",
+      "cityName": "Mannheim",
+      "productCount": 90,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannflos-apo",
+      "name": "Medflower Collini-Apotheke",
+      "cityName": "Mannheim",
+      "productCount": 67,
+      "hasDelivery": true
+    },
+    {
+      "slug": "neckar-apotheke",
+      "name": "cannama² - Neckar Apotheke Mannheim",
+      "cityName": "Mannheim",
+      "productCount": 24,
+      "hasDelivery": true
+    },
+    {
+      "slug": "falken-apotheke",
+      "name": "Falken Apotheke",
+      "cityName": "Mannheim",
+      "productCount": 0,
+      "hasDelivery": false
+    },
+    {
+      "slug": "gruenebriese",
+      "name": "Grünebriese",
+      "cityName": "Mannheim",
+      "productCount": 0,
+      "hasDelivery": false
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannem - Dein Cannabis aus Mannheim - Cannabis Apotheke in Mannheim",
+      "description": "Cannem - Dein Cannabis aus Mannheim in Mannheim. Lieferung & Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/apotheke-in-der-alten-seilerei",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannem - Dein Cannabis aus Mannheim - Cannabis Apotheke in Mannheim",
+        "description": "Cannem - Dein Cannabis aus Mannheim in Mannheim. Lieferung & Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/apotheke-in-der-alten-seilerei",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Mannheim",
+        "href": "https://weed.de/cannabis-apotheke/mannheim"
+      },
+      {
+        "name": "Cannem - Dein Cannabis aus Mannheim",
+        "href": "https://weed.de/apotheke/apotheke-in-der-alten-seilerei"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Mannheim",
+            "item": "https://weed.de/cannabis-apotheke/mannheim"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Cannem - Dein Cannabis aus Mannheim",
+            "item": "https://weed.de/apotheke/apotheke-in-der-alten-seilerei"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Cannem - Dein Cannabis aus Mannheim",
+        "url": "https://weed.de/apotheke/apotheke-in-der-alten-seilerei",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Angelstraße 7",
+          "addressLocality": "Mannheim",
+          "postalCode": "68199",
+          "addressRegion": "Baden-Württemberg",
+          "addressCountry": "DE"
+        },
+        "telephone": "062180331690",
+        "email": "cannabis@petrig-apotheken.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/mannheim",
+      "text": "Cannabis Apotheken in Mannheim",
+      "title": "Alle Apotheken in Mannheim"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/kurpfalz-apotheke",
+        "text": "Kurpfalz-Apotheke",
+        "title": "Kurpfalz-Apotheke in Mannheim"
+      },
+      {
+        "href": "/apotheke/cannflos-apo",
+        "text": "Medflower Collini-Apotheke",
+        "title": "Medflower Collini-Apotheke in Mannheim"
+      },
+      {
+        "href": "/apotheke/neckar-apotheke",
+        "text": "cannama² - Neckar Apotheke Mannheim",
+        "title": "cannama² - Neckar Apotheke Mannheim in Mannheim"
+      },
+      {
+        "href": "/apotheke/falken-apotheke",
+        "text": "Falken Apotheke",
+        "title": "Falken Apotheke in Mannheim"
+      },
+      {
+        "href": "/apotheke/gruenebriese",
+        "text": "Grünebriese",
+        "title": "Grünebriese in Mannheim"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has services"
+  }
+}

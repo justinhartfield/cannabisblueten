@@ -1,0 +1,225 @@
+{
+  "product": {
+    "slug": "tilray-thc-15-spotlight-porto-sirius",
+    "name": "Tilray THC 15 Spotlight Porto Sirius",
+    "type": "flower",
+    "genetics": "indica",
+    "thcPercent": 15,
+    "cbdPercent": 1,
+    "priceMin": 549,
+    "priceMax": 549,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Portugal",
+    "imageUrl": "https://weed.de/products/tilray-thc-15-spotlight-porto-sirius-4861ic.png"
+  },
+  "brand": {
+    "slug": "tilray",
+    "name": "Tilray",
+    "productCount": 160
+  },
+  "strain": {
+    "slug": "sirius",
+    "name": "Sirius",
+    "geneticType": "hybrid",
+    "effects": [
+      "Giggly",
+      "Talkative",
+      "Energetic"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Caryophyllene",
+      "Pinene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Giggly",
+      "Talkative",
+      "Energetic"
+    ],
+    "tastes": [
+      "Earthy",
+      "Sour",
+      "Herbal"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Caryophyllene",
+      "Pinene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "aurora-thc-25-cannabis-extract",
+      "name": "Aurora THC 25 Cannabis Extract",
+      "brandName": "Cansativa",
+      "thcPercent": 2.5,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "adven-cannabisextrakt-thc-10-cbd-10",
+      "name": "Adven Cannabisextrakt THC 10 CBD 10",
+      "brandName": "Adven",
+      "thcPercent": 10,
+      "priceMin": 560,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-1",
+      "name": "Demecan Typ 1",
+      "brandName": "Demecan",
+      "thcPercent": 21,
+      "priceMin": 694,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-indica-forte-ej",
+      "name": "Cannamedical Indica forte EJ",
+      "brandName": "Cannamedical",
+      "thcPercent": 24,
+      "priceMin": 700,
+      "inStock": true
+    },
+    {
+      "slug": "251vayamed-cannabisextrakt",
+      "name": "25/1Vayamed Cannabisextrakt",
+      "brandName": "Vayamed",
+      "thcPercent": 2.5,
+      "priceMin": 824,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-thc-25-spotlight-porto-sirius",
+      "name": "Tilray THC 25 Spotlight Porto Sirius",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": 1050,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Tilray THC 15 Spotlight Porto Sirius | ab 5,49 €",
+      "description": "Tilray THC 15 Spotlight Porto Sirius von Tilray. THC: 15%, CBD: 1%. Sorte: Sirius. Preis ab 5,49 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/tilray-thc-15-spotlight-porto-sirius",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Tilray THC 15 Spotlight Porto Sirius | ab 5,49 €",
+        "description": "Tilray THC 15 Spotlight Porto Sirius von Tilray. THC: 15%, CBD: 1%. Sorte: Sirius. Preis ab 5,49 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/tilray-thc-15-spotlight-porto-sirius",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/tilray-thc-15-spotlight-porto-sirius-4861ic.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Tilray",
+        "href": "https://weed.de/brand/tilray"
+      },
+      {
+        "name": "Tilray THC 15 Spotlight Porto Sirius",
+        "href": "https://weed.de/product/tilray-thc-15-spotlight-porto-sirius"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Tilray THC 15 Spotlight Porto Sirius",
+            "item": "https://weed.de/product/tilray-thc-15-spotlight-porto-sirius"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Tilray THC 15 Spotlight Porto Sirius",
+        "brand": {
+          "@type": "Brand",
+          "name": "Tilray"
+        },
+        "description": "THC: 15%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/sirius",
+      "text": "Sirius",
+      "title": "Sirius Sorte"
+    },
+    "brand": {
+      "href": "/brand/tilray",
+      "text": "Tilray",
+      "title": "Alle Tilray Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/aurora-thc-25-cannabis-extract",
+        "text": "Aurora THC 25 Cannabis Extract",
+        "title": "Alternative: Aurora THC 25 Cannabis Extract"
+      },
+      {
+        "href": "/product/adven-cannabisextrakt-thc-10-cbd-10",
+        "text": "Adven Cannabisextrakt THC 10 CBD 10",
+        "title": "Alternative: Adven Cannabisextrakt THC 10 CBD 10"
+      },
+      {
+        "href": "/product/demecan-typ-1",
+        "text": "Demecan Typ 1",
+        "title": "Alternative: Demecan Typ 1"
+      },
+      {
+        "href": "/product/cannamedical-indica-forte-ej",
+        "text": "Cannamedical Indica forte EJ",
+        "title": "Alternative: Cannamedical Indica forte EJ"
+      },
+      {
+        "href": "/product/251vayamed-cannabisextrakt",
+        "text": "25/1Vayamed Cannabisextrakt",
+        "title": "Alternative: 25/1Vayamed Cannabisextrakt"
+      },
+      {
+        "href": "/product/tilray-thc-25-spotlight-porto-sirius",
+        "text": "Tilray THC 25 Spotlight Porto Sirius",
+        "title": "Alternative: Tilray THC 25 Spotlight Porto Sirius"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

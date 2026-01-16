@@ -1,0 +1,237 @@
+{
+  "product": {
+    "slug": "noc-as-23",
+    "name": "NOC AS 23",
+    "type": "flower",
+    "genetics": "hybrid_sativa",
+    "thcPercent": 23,
+    "cbdPercent": 1,
+    "priceMin": 499,
+    "priceMax": 899,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Argentinien",
+    "imageUrl": "https://weed.de/products/noc-as-23-b4h891.jpeg"
+  },
+  "brand": {
+    "slug": "noc-pharma-gmbh",
+    "name": "NOC Pharma GmbH",
+    "productCount": 15
+  },
+  "strain": {
+    "slug": "amnesia-kush-x-sherbert-sockher",
+    "name": "Amnesia Kush x Sherbert Sockher",
+    "geneticType": "hybrid",
+    "effects": [
+      "Stimulating",
+      "Mental ease",
+      "Focused",
+      "Energetic",
+      "Clear",
+      "Creative"
+    ],
+    "terpenes": [
+      "Alpha-Pinene",
+      "Farnesene",
+      "D-Limonene",
+      "Terpinolene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Stimulating",
+      "Mental ease",
+      "Focused",
+      "Energetic",
+      "Clear",
+      "Creative"
+    ],
+    "tastes": [
+      "Citrus",
+      "Lemon",
+      "Mango",
+      "Sweet",
+      "Woody",
+      "Pine",
+      "Herbal"
+    ],
+    "terpenes": [
+      "Alpha-Pinene",
+      "Farnesene",
+      "D-Limonene",
+      "Terpinolene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "amp-classic-251",
+      "name": "AMP Classic 25/1",
+      "brandName": "AMP",
+      "thcPercent": 25,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "weeco-231",
+      "name": "Weeco 23/1",
+      "brandName": "Weeco",
+      "thcPercent": 23,
+      "priceMin": 599,
+      "inStock": true
+    },
+    {
+      "slug": "aurora-221-dhz-ca",
+      "name": "Aurora 22/1 DHZ-CA",
+      "brandName": "Aurora",
+      "thcPercent": 19.8,
+      "priceMin": 640,
+      "inStock": true
+    },
+    {
+      "slug": "420-evolution-271-ca-str",
+      "name": "420 Evolution 27/1 CA STR",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 27,
+      "priceMin": 645,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-221-florestura",
+      "name": "DEMECAN Florestura 22:01",
+      "brandName": "Deutsche Medizinalcannabis",
+      "thcPercent": 22,
+      "priceMin": 679,
+      "inStock": true
+    },
+    {
+      "slug": "avaay-231-rg",
+      "name": "AVAAY 23/1 RG",
+      "brandName": "Avaay",
+      "thcPercent": 23.7,
+      "priceMin": 689,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "NOC AS 23 - NOC Pharma GmbH | ab 4,99 €",
+      "description": "NOC AS 23 von NOC Pharma GmbH. THC: 23%, CBD: 1%. Sorte: Amnesia Kush x Sherbert Sockher. Preis ab 4,99 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/noc-as-23",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "NOC AS 23 - NOC Pharma GmbH | ab 4,99 €",
+        "description": "NOC AS 23 von NOC Pharma GmbH. THC: 23%, CBD: 1%. Sorte: Amnesia Kush x Sherbert Sockher. Preis ab 4,99 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/noc-as-23",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/noc-as-23-b4h891.jpeg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "NOC Pharma GmbH",
+        "href": "https://weed.de/brand/noc-pharma-gmbh"
+      },
+      {
+        "name": "NOC AS 23",
+        "href": "https://weed.de/product/noc-as-23"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "NOC AS 23",
+            "item": "https://weed.de/product/noc-as-23"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "NOC AS 23",
+        "brand": {
+          "@type": "Brand",
+          "name": "NOC Pharma GmbH"
+        },
+        "description": "THC: 23%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/amnesia-kush-x-sherbert-sockher",
+      "text": "Amnesia Kush x Sherbert Sockher",
+      "title": "Amnesia Kush x Sherbert Sockher Sorte"
+    },
+    "brand": {
+      "href": "/brand/noc-pharma-gmbh",
+      "text": "NOC Pharma GmbH",
+      "title": "Alle NOC Pharma GmbH Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/amp-classic-251",
+        "text": "AMP Classic 25/1",
+        "title": "Alternative: AMP Classic 25/1"
+      },
+      {
+        "href": "/product/weeco-231",
+        "text": "Weeco 23/1",
+        "title": "Alternative: Weeco 23/1"
+      },
+      {
+        "href": "/product/aurora-221-dhz-ca",
+        "text": "Aurora 22/1 DHZ-CA",
+        "title": "Alternative: Aurora 22/1 DHZ-CA"
+      },
+      {
+        "href": "/product/420-evolution-271-ca-str",
+        "text": "420 Evolution 27/1 CA STR",
+        "title": "Alternative: 420 Evolution 27/1 CA STR"
+      },
+      {
+        "href": "/product/demecan-221-florestura",
+        "text": "DEMECAN Florestura 22:01",
+        "title": "Alternative: DEMECAN Florestura 22:01"
+      },
+      {
+        "href": "/product/avaay-231-rg",
+        "text": "AVAAY 23/1 RG",
+        "title": "Alternative: AVAAY 23/1 RG"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

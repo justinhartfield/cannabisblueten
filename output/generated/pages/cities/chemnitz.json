@@ -1,0 +1,165 @@
+{
+  "city": {
+    "slug": "chemnitz",
+    "name": "Chemnitz",
+    "state": "Sachsen"
+  },
+  "stats": {
+    "pharmacyCount": 1,
+    "totalProducts": 16,
+    "hasDelivery": true
+  },
+  "pharmacies": [
+    {
+      "slug": "bethanien-apotheke-ek-abt-cansa",
+      "name": "Bethanien-Apotheke e.K. Abt. Cansa",
+      "street": "Zeisigwaldstraße 101",
+      "zip": "09130",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 16,
+      "rating": 0,
+      "ratingCount": 0
+    }
+  ],
+  "nearbyCities": [
+    {
+      "slug": "leipzig",
+      "name": "Leipzig",
+      "pharmacyCount": 2
+    },
+    {
+      "slug": "schneeberg",
+      "name": "Schneeberg",
+      "pharmacyCount": 1
+    },
+    {
+      "slug": "dresden",
+      "name": "Dresden",
+      "pharmacyCount": 1
+    },
+    {
+      "slug": "zwickau",
+      "name": "Zwickau",
+      "pharmacyCount": 1
+    },
+    {
+      "slug": "markkleeberg",
+      "name": "Markkleeberg",
+      "pharmacyCount": 1
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannabis Apotheke Chemnitz - 1 Apotheken",
+      "description": "Cannabis Apotheken in Chemnitz. 1 Apotheken mit 16 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+      "canonical": "https://weed.de/cannabis-apotheke/chemnitz",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannabis Apotheke Chemnitz - 1 Apotheken",
+        "description": "Cannabis Apotheken in Chemnitz. 1 Apotheken mit 16 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+        "url": "https://weed.de/cannabis-apotheke/chemnitz",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Chemnitz",
+        "href": "https://weed.de/cannabis-apotheke/chemnitz"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Chemnitz",
+            "item": "https://weed.de/cannabis-apotheke/chemnitz"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Cannabis Apotheken in Chemnitz",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/apotheke/bethanien-apotheke-ek-abt-cansa",
+            "name": "Bethanien-Apotheke e.K. Abt. Cansa"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "pharmacies": [
+      {
+        "href": "/apotheke/bethanien-apotheke-ek-abt-cansa",
+        "text": "Bethanien-Apotheke e.K. Abt. Cansa",
+        "title": "Bethanien-Apotheke e.K. Abt. Cansa in Chemnitz"
+      }
+    ],
+    "nearbyCities": [
+      {
+        "href": "/cannabis-apotheke/leipzig",
+        "text": "Cannabis Apotheke Leipzig",
+        "title": "2 Apotheken in Leipzig"
+      },
+      {
+        "href": "/cannabis-apotheke/schneeberg",
+        "text": "Cannabis Apotheke Schneeberg",
+        "title": "1 Apotheken in Schneeberg"
+      },
+      {
+        "href": "/cannabis-apotheke/dresden",
+        "text": "Cannabis Apotheke Dresden",
+        "title": "1 Apotheken in Dresden"
+      },
+      {
+        "href": "/cannabis-apotheke/zwickau",
+        "text": "Cannabis Apotheke Zwickau",
+        "title": "1 Apotheken in Zwickau"
+      },
+      {
+        "href": "/cannabis-apotheke/markkleeberg",
+        "text": "Cannabis Apotheke Markkleeberg",
+        "title": "1 Apotheken in Markkleeberg"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Single pharmacy with good product coverage"
+  }
+}

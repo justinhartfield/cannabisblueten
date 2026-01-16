@@ -1,0 +1,229 @@
+{
+  "strain": {
+    "slug": "top-5",
+    "name": "Top 5",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [
+      "Happy",
+      "Euphoric",
+      "Energetic",
+      "Anxiety-reducing",
+      "Mood-lifting",
+      "Stress-relief",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Citrus",
+      "Sweet",
+      "Fruity",
+      "Mandarine",
+      "Diesel",
+      "Fresh"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Pinene",
+      "Ocimene",
+      "Terpinolene"
+    ],
+    "description": "Top 5 ist eine potente Hybridsorte, die aus der Kreuzung von Mangorita und Miss Kim entstanden ist. Mit einem hohen THC-Gehalt von bis zu 25 % und einem CBD-Wert von unter 0,1 % bietet sie eine intensive Wirkung, die vor allem für ihre stimmungsaufhellenden Eigenschaften geschätzt wird.\n\nDas Aromaprofil ist vielschichtig und ansprechend. Es dominieren süße Noten von Zitrusfrüchten und Mandarinen, die für eine fruchtige Frische sorgen. Dieser süße Kern wird durch markante dieselartige Akzente ergänzt, was dem Ganzen eine interessante Tiefe verleiht. Das Terpenprofil, angeführt von Myrcen, Ocimen, Pinen und Terpinolen, ist verantwortlich für dieses intensive Zusammenspiel aus fruchtiger Süße und herber Würze.\n\nDie Wirkung wird als aktivierend und stimmungsaufhellend beschrieben. Sie beginnt oft mit einem euphorischen und glücklichen Gefühl, das gleichzeitig energetisch wirkt. Aufgrund dieses belebenden Charakters wird Top 5 therapeutisch häufig zur Linderung von Angstzuständen, depressiven Verstimmungen und stressbedingten Symptomen eingesetzt, da sie hilft, den Geist zu aktivieren und das Wohlbefinden zu steigern.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 449,
+      "max": 860,
+      "formatted": {
+        "min": "4,49 €",
+        "max": "8,60 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "ceres-no-4",
+      "name": "Ceres No. 4",
+      "brandName": "Cantourage",
+      "thcPercent": 24.5,
+      "priceMin": 449,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "super-citra-g",
+      "name": "Super Citra G",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "purple-amnesia",
+      "name": "Purple Amnesia",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "auto-pure-cbd",
+      "name": "Auto Pure CBD",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "lemon-kush",
+      "name": "Lemon Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "huckleberry-gelato",
+      "name": "Huckleberry Gelato",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Top 5 (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Top 5: Happy, Euphoric, Energetic. 1 Produkte verfügbar. ab 4,49 €.",
+      "canonical": "https://weed.de/strain/top-5",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Top 5 (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Top 5: Happy, Euphoric, Energetic. 1 Produkte verfügbar. ab 4,49 €.",
+        "url": "https://weed.de/strain/top-5",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Top 5",
+        "href": "https://weed.de/strain/top-5"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Top 5",
+            "item": "https://weed.de/strain/top-5"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Top 5 Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/ceres-no-4",
+            "name": "Ceres No. 4"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/ceres-no-4",
+        "text": "Ceres No. 4",
+        "title": "Ceres No. 4 von Cantourage"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/super-citra-g",
+        "text": "Super Citra G",
+        "title": "Super Citra G - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/purple-amnesia",
+        "text": "Purple Amnesia",
+        "title": "Purple Amnesia - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/auto-pure-cbd",
+        "text": "Auto Pure CBD",
+        "title": "Auto Pure CBD - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/lemon-kush",
+        "text": "Lemon Kush",
+        "title": "Lemon Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/huckleberry-gelato",
+        "text": "Huckleberry Gelato",
+        "title": "Huckleberry Gelato - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/pinene",
+        "text": "Pinene",
+        "title": "Pinene Terpen"
+      },
+      {
+        "href": "/terpene/ocimene",
+        "text": "Ocimene",
+        "title": "Ocimene Terpen"
+      },
+      {
+        "href": "/terpene/terpinolene",
+        "text": "Terpinolene",
+        "title": "Terpinolene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

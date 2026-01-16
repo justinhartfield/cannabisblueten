@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "pharmaphant-apotheke",
+    "name": "pharmaphant Apotheke am Hechinger Eck",
+    "street": "Hechinger Straße 70",
+    "zip": "72072",
+    "cityName": "Tübingen",
+    "state": "Baden-Württemberg",
+    "lat": 48.5216364,
+    "lng": 9.0576448,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://www.pharmaphant.de/",
+    "phone": "0707135588",
+    "email": "info@apotheke-cannabis.de",
+    "productCount": 99,
+    "rating": 5,
+    "ratingCount": 3,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/6667fd4e12a59d184746f96a-1h171a.jpg"
+  },
+  "city": {
+    "slug": "tuebingen",
+    "name": "Tübingen",
+    "pharmacyCount": 2
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "dr-linzsche-apotheke",
+      "name": "Dr. Linz'sche Apotheke",
+      "cityName": "Tübingen",
+      "productCount": 0,
+      "hasDelivery": false
+    },
+    {
+      "slug": "florians-vital-apotheke",
+      "name": "Florians Vital Apotheke",
+      "cityName": "Esslingen am Neckar",
+      "productCount": 248,
+      "hasDelivery": true
+    },
+    {
+      "slug": "central-apotheke",
+      "name": "Cannabis-Champion",
+      "cityName": "Waiblingen",
+      "productCount": 240,
+      "hasDelivery": true
+    },
+    {
+      "slug": "karlchengras",
+      "name": "Karlchengras (Karl-Apotheke)",
+      "cityName": "Karlsruhe",
+      "productCount": 188,
+      "hasDelivery": true
+    },
+    {
+      "slug": "idris-apotheke-oder-3leafs",
+      "name": "Idris Apotheke | 3Leafs",
+      "cityName": "Weinheim",
+      "productCount": 149,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "pharmaphant Apotheke am Hechinger Eck - Cannabis Apotheke in Tübingen",
+      "description": "pharmaphant Apotheke am Hechinger Eck in Tübingen. 99 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/pharmaphant-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "pharmaphant Apotheke am Hechinger Eck - Cannabis Apotheke in Tübingen",
+        "description": "pharmaphant Apotheke am Hechinger Eck in Tübingen. 99 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/pharmaphant-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/6667fd4e12a59d184746f96a-1h171a.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Tübingen",
+        "href": "https://weed.de/cannabis-apotheke/tuebingen"
+      },
+      {
+        "name": "pharmaphant Apotheke am Hechinger Eck",
+        "href": "https://weed.de/apotheke/pharmaphant-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Tübingen",
+            "item": "https://weed.de/cannabis-apotheke/tuebingen"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "pharmaphant Apotheke am Hechinger Eck",
+            "item": "https://weed.de/apotheke/pharmaphant-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "pharmaphant Apotheke am Hechinger Eck",
+        "url": "https://weed.de/apotheke/pharmaphant-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Hechinger Straße 70",
+          "addressLocality": "Tübingen",
+          "postalCode": "72072",
+          "addressRegion": "Baden-Württemberg",
+          "addressCountry": "DE"
+        },
+        "telephone": "0707135588",
+        "email": "info@apotheke-cannabis.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/tuebingen",
+      "text": "Cannabis Apotheken in Tübingen",
+      "title": "Alle Apotheken in Tübingen"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/dr-linzsche-apotheke",
+        "text": "Dr. Linz'sche Apotheke",
+        "title": "Dr. Linz'sche Apotheke in Tübingen"
+      },
+      {
+        "href": "/apotheke/florians-vital-apotheke",
+        "text": "Florians Vital Apotheke",
+        "title": "Florians Vital Apotheke in Esslingen am Neckar"
+      },
+      {
+        "href": "/apotheke/central-apotheke",
+        "text": "Cannabis-Champion",
+        "title": "Cannabis-Champion in Waiblingen"
+      },
+      {
+        "href": "/apotheke/karlchengras",
+        "text": "Karlchengras (Karl-Apotheke)",
+        "title": "Karlchengras (Karl-Apotheke) in Karlsruhe"
+      },
+      {
+        "href": "/apotheke/idris-apotheke-oder-3leafs",
+        "text": "Idris Apotheke | 3Leafs",
+        "title": "Idris Apotheke | 3Leafs in Weinheim"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

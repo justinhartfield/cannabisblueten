@@ -1,0 +1,135 @@
+{
+  "city": {
+    "slug": "bad-berka",
+    "name": "Bad Berka",
+    "state": "Thüringen"
+  },
+  "stats": {
+    "pharmacyCount": 1,
+    "totalProducts": 44,
+    "hasDelivery": true
+  },
+  "pharmacies": [
+    {
+      "slug": "cannalu",
+      "name": "cannalu.de",
+      "street": "Bahnhofstraße 30",
+      "zip": "99438",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 44,
+      "rating": 5,
+      "ratingCount": 2
+    }
+  ],
+  "nearbyCities": [
+    {
+      "slug": "muehlhausen-thueringen",
+      "name": "Mühlhausen/Thüringen",
+      "pharmacyCount": 1
+    },
+    {
+      "slug": "erfurt",
+      "name": "Erfurt",
+      "pharmacyCount": 1
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannabis Apotheke Bad Berka - 1 Apotheken",
+      "description": "Cannabis Apotheken in Bad Berka. 1 Apotheken mit 44 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+      "canonical": "https://weed.de/cannabis-apotheke/bad-berka",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannabis Apotheke Bad Berka - 1 Apotheken",
+        "description": "Cannabis Apotheken in Bad Berka. 1 Apotheken mit 44 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+        "url": "https://weed.de/cannabis-apotheke/bad-berka",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Bad Berka",
+        "href": "https://weed.de/cannabis-apotheke/bad-berka"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Bad Berka",
+            "item": "https://weed.de/cannabis-apotheke/bad-berka"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Cannabis Apotheken in Bad Berka",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/apotheke/cannalu",
+            "name": "cannalu.de"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "pharmacies": [
+      {
+        "href": "/apotheke/cannalu",
+        "text": "cannalu.de",
+        "title": "cannalu.de in Bad Berka"
+      }
+    ],
+    "nearbyCities": [
+      {
+        "href": "/cannabis-apotheke/muehlhausen-thueringen",
+        "text": "Cannabis Apotheke Mühlhausen/Thüringen",
+        "title": "1 Apotheken in Mühlhausen/Thüringen"
+      },
+      {
+        "href": "/cannabis-apotheke/erfurt",
+        "text": "Cannabis Apotheke Erfurt",
+        "title": "1 Apotheken in Erfurt"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Single pharmacy with good product coverage"
+  }
+}

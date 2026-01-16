@@ -1,0 +1,229 @@
+{
+  "product": {
+    "slug": "remexian-241-cbm-fui",
+    "name": "Remexian 24/1 CBM FUI",
+    "type": "flower",
+    "genetics": "hybrid_sativa",
+    "thcPercent": 27,
+    "cbdPercent": 1,
+    "priceMin": 669,
+    "priceMax": 669,
+    "inStock": false,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "remexian-pharma",
+    "name": "Remexian Pharma",
+    "productCount": 340
+  },
+  "strain": {
+    "slug": "future-island",
+    "name": "Future Island",
+    "geneticType": "hybrid",
+    "effects": [
+      "Euphoric",
+      "Energetic",
+      "Mood-lifting",
+      "Uplifted",
+      "Body-High"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Caryophyllene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Euphoric",
+      "Energetic",
+      "Mood-lifting",
+      "Uplifted",
+      "Body-High"
+    ],
+    "tastes": [
+      "Fruity",
+      "Mint",
+      "Mango",
+      "Earthy"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Caryophyllene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "remexian-181-cbm-fui",
+      "name": "Remexian 18/1 CBM FUI",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 18,
+      "priceMin": 395,
+      "inStock": true
+    },
+    {
+      "slug": "amp-classic-251",
+      "name": "AMP Classic 25/1",
+      "brandName": "AMP",
+      "thcPercent": 25,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "weeco-231",
+      "name": "Weeco 23/1",
+      "brandName": "Weeco",
+      "thcPercent": 23,
+      "priceMin": 599,
+      "inStock": true
+    },
+    {
+      "slug": "aurora-221-dhz-ca",
+      "name": "Aurora 22/1 DHZ-CA",
+      "brandName": "Aurora",
+      "thcPercent": 19.8,
+      "priceMin": 640,
+      "inStock": true
+    },
+    {
+      "slug": "420-evolution-271-ca-str",
+      "name": "420 Evolution 27/1 CA STR",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 27,
+      "priceMin": 645,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-221-florestura",
+      "name": "DEMECAN Florestura 22:01",
+      "brandName": "Deutsche Medizinalcannabis",
+      "thcPercent": 22,
+      "priceMin": 679,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Remexian 24/1 CBM FUI - Remexian Pharma | ab 6,69 €",
+      "description": "Remexian 24/1 CBM FUI von Remexian Pharma. THC: 27%, CBD: 1%. Sorte: Future Island. Preis ab 6,69 €. Preise vergleichen.",
+      "canonical": "https://weed.de/product/remexian-241-cbm-fui",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Remexian 24/1 CBM FUI - Remexian Pharma | ab 6,69 €",
+        "description": "Remexian 24/1 CBM FUI von Remexian Pharma. THC: 27%, CBD: 1%. Sorte: Future Island. Preis ab 6,69 €. Preise vergleichen.",
+        "url": "https://weed.de/product/remexian-241-cbm-fui",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Remexian Pharma",
+        "href": "https://weed.de/brand/remexian-pharma"
+      },
+      {
+        "name": "Remexian 24/1 CBM FUI",
+        "href": "https://weed.de/product/remexian-241-cbm-fui"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Remexian 24/1 CBM FUI",
+            "item": "https://weed.de/product/remexian-241-cbm-fui"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Remexian 24/1 CBM FUI",
+        "brand": {
+          "@type": "Brand",
+          "name": "Remexian Pharma"
+        },
+        "description": "THC: 27%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/future-island",
+      "text": "Future Island",
+      "title": "Future Island Sorte"
+    },
+    "brand": {
+      "href": "/brand/remexian-pharma",
+      "text": "Remexian Pharma",
+      "title": "Alle Remexian Pharma Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/remexian-181-cbm-fui",
+        "text": "Remexian 18/1 CBM FUI",
+        "title": "Alternative: Remexian 18/1 CBM FUI"
+      },
+      {
+        "href": "/product/amp-classic-251",
+        "text": "AMP Classic 25/1",
+        "title": "Alternative: AMP Classic 25/1"
+      },
+      {
+        "href": "/product/weeco-231",
+        "text": "Weeco 23/1",
+        "title": "Alternative: Weeco 23/1"
+      },
+      {
+        "href": "/product/aurora-221-dhz-ca",
+        "text": "Aurora 22/1 DHZ-CA",
+        "title": "Alternative: Aurora 22/1 DHZ-CA"
+      },
+      {
+        "href": "/product/420-evolution-271-ca-str",
+        "text": "420 Evolution 27/1 CA STR",
+        "title": "Alternative: 420 Evolution 27/1 CA STR"
+      },
+      {
+        "href": "/product/demecan-221-florestura",
+        "text": "DEMECAN Florestura 22:01",
+        "title": "Alternative: DEMECAN Florestura 22:01"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has price data"
+  }
+}

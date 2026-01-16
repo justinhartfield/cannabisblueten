@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "easycannabis-easyapotheke-citylebenstedt",
+    "name": "EasyCannabis easyApotheke CityLebenstedt",
+    "street": "In den Blumentriften 2",
+    "zip": "38226",
+    "cityName": "Salzgitter",
+    "state": "Niedersachsen",
+    "lat": 52.1535638,
+    "lng": 10.3312079,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": null,
+    "phone": "05341812940",
+    "email": "info@easycannabis.de",
+    "productCount": 40,
+    "rating": 3.6,
+    "ratingCount": 5,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/6790cad9ac80cc91188b2e49-f9j89d.jpg"
+  },
+  "city": {
+    "slug": "salzgitter",
+    "name": "Salzgitter",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "alle-farben-apotheke",
+      "name": "Alle Farben Apotheke",
+      "cityName": "Melle",
+      "productCount": 132,
+      "hasDelivery": true
+    },
+    {
+      "slug": "happy-cannamed",
+      "name": "Marien Apotheke",
+      "cityName": "Cloppenburg",
+      "productCount": 61,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannanord",
+      "name": "CannaNord",
+      "cityName": "Oldenburg",
+      "productCount": 55,
+      "hasDelivery": true
+    },
+    {
+      "slug": "sophie-green",
+      "name": "Sophie Green",
+      "cityName": "Meppen",
+      "productCount": 31,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-brome",
+      "name": "Apotheke Brome",
+      "cityName": "Brome",
+      "productCount": 31,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "EasyCannabis easyApotheke CityLebenstedt - Cannabis Apotheke in Salzgitter",
+      "description": "EasyCannabis easyApotheke CityLebenstedt in Salzgitter. 40 Cannabis Produkte. Lieferung & Abholung. Bewertung: 3.6/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/easycannabis-easyapotheke-citylebenstedt",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "EasyCannabis easyApotheke CityLebenstedt - Cannabis Apotheke in Salzgitter",
+        "description": "EasyCannabis easyApotheke CityLebenstedt in Salzgitter. 40 Cannabis Produkte. Lieferung & Abholung. Bewertung: 3.6/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/easycannabis-easyapotheke-citylebenstedt",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/6790cad9ac80cc91188b2e49-f9j89d.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Salzgitter",
+        "href": "https://weed.de/cannabis-apotheke/salzgitter"
+      },
+      {
+        "name": "EasyCannabis easyApotheke CityLebenstedt",
+        "href": "https://weed.de/apotheke/easycannabis-easyapotheke-citylebenstedt"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Salzgitter",
+            "item": "https://weed.de/cannabis-apotheke/salzgitter"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "EasyCannabis easyApotheke CityLebenstedt",
+            "item": "https://weed.de/apotheke/easycannabis-easyapotheke-citylebenstedt"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "EasyCannabis easyApotheke CityLebenstedt",
+        "url": "https://weed.de/apotheke/easycannabis-easyapotheke-citylebenstedt",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "In den Blumentriften 2",
+          "addressLocality": "Salzgitter",
+          "postalCode": "38226",
+          "addressRegion": "Niedersachsen",
+          "addressCountry": "DE"
+        },
+        "telephone": "05341812940",
+        "email": "info@easycannabis.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/salzgitter",
+      "text": "Cannabis Apotheken in Salzgitter",
+      "title": "Alle Apotheken in Salzgitter"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/alle-farben-apotheke",
+        "text": "Alle Farben Apotheke",
+        "title": "Alle Farben Apotheke in Melle"
+      },
+      {
+        "href": "/apotheke/happy-cannamed",
+        "text": "Marien Apotheke",
+        "title": "Marien Apotheke in Cloppenburg"
+      },
+      {
+        "href": "/apotheke/cannanord",
+        "text": "CannaNord",
+        "title": "CannaNord in Oldenburg"
+      },
+      {
+        "href": "/apotheke/sophie-green",
+        "text": "Sophie Green",
+        "title": "Sophie Green in Meppen"
+      },
+      {
+        "href": "/apotheke/apotheke-brome",
+        "text": "Apotheke Brome",
+        "title": "Apotheke Brome in Brome"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "bluetenrheinde-rhein-apotheke",
+    "name": "Blütenrhein.de Rhein Apotheke",
+    "street": "Germersheim, Deutschland",
+    "zip": "",
+    "cityName": "Germersheim",
+    "state": "Rheinland-Pfalz",
+    "lat": 49.211472,
+    "lng": 8.363785199999999,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": null,
+    "phone": "072748001",
+    "email": "info@bluetenrhein.de",
+    "productCount": 35,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/6728a6b5b3127b8c3df5bcc7-4gg2g8.jpg"
+  },
+  "city": {
+    "slug": "germersheim",
+    "name": "Germersheim",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "cannabis-apotheke-rheinland",
+      "name": "Cannabis Apotheke Rheinland",
+      "cityName": "Bad Neuenahr-Ahrweiler",
+      "productCount": 161,
+      "hasDelivery": true
+    },
+    {
+      "slug": "grune-blute-ulmen-apotheke",
+      "name": "Grüne Blüte",
+      "cityName": "Frankenthal (Pfalz)",
+      "productCount": 158,
+      "hasDelivery": true
+    },
+    {
+      "slug": "pharmablute",
+      "name": "PharmaBlüte",
+      "cityName": "Mainz",
+      "productCount": 124,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis4me",
+      "name": "cannabis4me",
+      "cityName": "Bad Neuenahr-Ahrweiler",
+      "productCount": 89,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-am-kornmarkt",
+      "name": "Apotheke am Kornmarkt",
+      "cityName": "Trier",
+      "productCount": 64,
+      "hasDelivery": false
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Blütenrhein.de Rhein Apotheke - Cannabis Apotheke in Germersheim",
+      "description": "Blütenrhein.de Rhein Apotheke in Germersheim. 35 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/bluetenrheinde-rhein-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Blütenrhein.de Rhein Apotheke - Cannabis Apotheke in Germersheim",
+        "description": "Blütenrhein.de Rhein Apotheke in Germersheim. 35 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/bluetenrheinde-rhein-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/6728a6b5b3127b8c3df5bcc7-4gg2g8.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Germersheim",
+        "href": "https://weed.de/cannabis-apotheke/germersheim"
+      },
+      {
+        "name": "Blütenrhein.de Rhein Apotheke",
+        "href": "https://weed.de/apotheke/bluetenrheinde-rhein-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Germersheim",
+            "item": "https://weed.de/cannabis-apotheke/germersheim"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Blütenrhein.de Rhein Apotheke",
+            "item": "https://weed.de/apotheke/bluetenrheinde-rhein-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Blütenrhein.de Rhein Apotheke",
+        "url": "https://weed.de/apotheke/bluetenrheinde-rhein-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Germersheim, Deutschland",
+          "addressLocality": "Germersheim",
+          "postalCode": "",
+          "addressRegion": "Rheinland-Pfalz",
+          "addressCountry": "DE"
+        },
+        "telephone": "072748001",
+        "email": "info@bluetenrhein.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/germersheim",
+      "text": "Cannabis Apotheken in Germersheim",
+      "title": "Alle Apotheken in Germersheim"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/cannabis-apotheke-rheinland",
+        "text": "Cannabis Apotheke Rheinland",
+        "title": "Cannabis Apotheke Rheinland in Bad Neuenahr-Ahrweiler"
+      },
+      {
+        "href": "/apotheke/grune-blute-ulmen-apotheke",
+        "text": "Grüne Blüte",
+        "title": "Grüne Blüte in Frankenthal (Pfalz)"
+      },
+      {
+        "href": "/apotheke/pharmablute",
+        "text": "PharmaBlüte",
+        "title": "PharmaBlüte in Mainz"
+      },
+      {
+        "href": "/apotheke/cannabis4me",
+        "text": "cannabis4me",
+        "title": "cannabis4me in Bad Neuenahr-Ahrweiler"
+      },
+      {
+        "href": "/apotheke/apotheke-am-kornmarkt",
+        "text": "Apotheke am Kornmarkt",
+        "title": "Apotheke am Kornmarkt in Trier"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

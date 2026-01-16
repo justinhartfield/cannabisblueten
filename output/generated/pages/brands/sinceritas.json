@@ -1,0 +1,233 @@
+{
+  "brand": {
+    "slug": "sinceritas",
+    "name": "Sinceritas",
+    "productCount": 7
+  },
+  "products": [
+    {
+      "slug": "sinceritas-2525",
+      "name": "Sinceritas 25/25",
+      "type": "extract",
+      "thcPercent": 2.5,
+      "priceMin": 430,
+      "inStock": true,
+      "strainName": null
+    },
+    {
+      "slug": "sinceritas-251",
+      "name": "Sinceritas 25/1",
+      "type": "extract",
+      "thcPercent": 2.5,
+      "priceMin": 350,
+      "inStock": true,
+      "strainName": null
+    },
+    {
+      "slug": "sinceritas-1010",
+      "name": "Sinceritas 10/10",
+      "type": "extract",
+      "thcPercent": 1,
+      "priceMin": 310,
+      "inStock": true,
+      "strainName": null
+    },
+    {
+      "slug": "sinceritas-sativa-verum-241",
+      "name": "Sinceritas Sativa Verum 24/1",
+      "type": "flower",
+      "thcPercent": 24,
+      "priceMin": 549,
+      "inStock": true,
+      "strainName": "Kush Mintz"
+    },
+    {
+      "slug": "sinceritas-hybrid-verum-241-bk",
+      "name": "Sinceritas Hybrid Verum 24/1 BK",
+      "type": "flower",
+      "thcPercent": 24,
+      "priceMin": 640,
+      "inStock": true,
+      "strainName": "Banana Kush"
+    },
+    {
+      "slug": "sinceritas-sativa-verum-241-tc",
+      "name": "Sinceritas Sativa Verum 24/1 TC",
+      "type": "flower",
+      "thcPercent": 24,
+      "priceMin": 790,
+      "inStock": true,
+      "strainName": "Tropicana Cookies"
+    },
+    {
+      "slug": "sinceritas-sativa-auris-271-cosmic-mac",
+      "name": "Sinceritas Sativa Auris 27/1 Cosmic MAC",
+      "type": "flower",
+      "thcPercent": 26,
+      "priceMin": 738,
+      "inStock": true,
+      "strainName": "Cosmic MAC"
+    }
+  ],
+  "stats": {
+    "productCount": 7,
+    "inStockCount": 7,
+    "avgThc": 14.9,
+    "priceRange": {
+      "min": 310,
+      "max": 790,
+      "formatted": {
+        "min": "3,10 €",
+        "max": "7,90 €"
+      }
+    }
+  },
+  "seo": {
+    "meta": {
+      "title": "Sinceritas Cannabis Produkte - 7 Produkte",
+      "description": "Sinceritas: 7 Cannabis Produkte. 7 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+      "canonical": "https://weed.de/brand/sinceritas",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Sinceritas Cannabis Produkte - 7 Produkte",
+        "description": "Sinceritas: 7 Cannabis Produkte. 7 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+        "url": "https://weed.de/brand/sinceritas",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Hersteller",
+        "href": "https://weed.de/brands"
+      },
+      {
+        "name": "Sinceritas",
+        "href": "https://weed.de/brand/sinceritas"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Hersteller",
+            "item": "https://weed.de/brands"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Sinceritas",
+            "item": "https://weed.de/brand/sinceritas"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Sinceritas Produkte",
+        "numberOfItems": 7,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/sinceritas-2525",
+            "name": "Sinceritas 25/25"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/sinceritas-251",
+            "name": "Sinceritas 25/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/sinceritas-1010",
+            "name": "Sinceritas 10/10"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/product/sinceritas-sativa-verum-241",
+            "name": "Sinceritas Sativa Verum 24/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "https://weed.de/product/sinceritas-hybrid-verum-241-bk",
+            "name": "Sinceritas Hybrid Verum 24/1 BK"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "url": "https://weed.de/product/sinceritas-sativa-verum-241-tc",
+            "name": "Sinceritas Sativa Verum 24/1 TC"
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "url": "https://weed.de/product/sinceritas-sativa-auris-271-cosmic-mac",
+            "name": "Sinceritas Sativa Auris 27/1 Cosmic MAC"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/sinceritas-2525",
+        "text": "Sinceritas 25/25",
+        "title": "Sinceritas 25/25"
+      },
+      {
+        "href": "/product/sinceritas-251",
+        "text": "Sinceritas 25/1",
+        "title": "Sinceritas 25/1"
+      },
+      {
+        "href": "/product/sinceritas-1010",
+        "text": "Sinceritas 10/10",
+        "title": "Sinceritas 10/10"
+      },
+      {
+        "href": "/product/sinceritas-sativa-verum-241",
+        "text": "Sinceritas Sativa Verum 24/1",
+        "title": "Sinceritas Sativa Verum 24/1"
+      },
+      {
+        "href": "/product/sinceritas-hybrid-verum-241-bk",
+        "text": "Sinceritas Hybrid Verum 24/1 BK",
+        "title": "Sinceritas Hybrid Verum 24/1 BK"
+      },
+      {
+        "href": "/product/sinceritas-sativa-verum-241-tc",
+        "text": "Sinceritas Sativa Verum 24/1 TC",
+        "title": "Sinceritas Sativa Verum 24/1 TC"
+      },
+      {
+        "href": "/product/sinceritas-sativa-auris-271-cosmic-mac",
+        "text": "Sinceritas Sativa Auris 27/1 Cosmic MAC",
+        "title": "Sinceritas Sativa Auris 27/1 Cosmic MAC"
+      }
+    ]
+  }
+}

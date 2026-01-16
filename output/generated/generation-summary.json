@@ -1,0 +1,47 @@
+{
+  "generatedAt": "2026-01-16T09:19:01.984Z",
+  "pipelineDuration": 6988,
+  "source": {
+    "strains": 1897,
+    "products": 3199,
+    "pharmacies": 419
+  },
+  "graph": {
+    "totalStrains": 1897,
+    "totalProducts": 3199,
+    "totalPharmacies": 419,
+    "totalCities": 240,
+    "totalBrands": 123,
+    "totalTerpenes": 42,
+    "indexableStrains": 1863,
+    "indexableProducts": 1963,
+    "indexableCities": 168
+  },
+  "pages": {
+    "strains": 1863,
+    "products": 1963,
+    "cities": 168,
+    "pharmacies": 367,
+    "brands": 84,
+    "hub": 3,
+    "categories": 3,
+    "terpenes": 38
+  },
+  "sitemaps": {
+    "totalFiles": 6,
+    "totalUrls": 4450,
+    "byType": {
+      "static": 5,
+      "strains": 1863,
+      "products": 1963,
+      "cities": 168,
+      "pharmacies": 367,
+      "brands": 84
+    }
+  },
+  "config": {
+    "baseUrl": "https://weed.de",
+    "defaultLocale": "de_DE",
+    "siteName": "Weed.de"
+  }
+}

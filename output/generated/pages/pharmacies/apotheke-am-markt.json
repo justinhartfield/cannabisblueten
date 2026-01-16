@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "apotheke-am-markt",
+    "name": "Cannalles im Harz",
+    "street": "Schleifenbachstraße 2",
+    "zip": "06502",
+    "cityName": "Thale",
+    "state": "Sachsen-Anhalt",
+    "lat": 51.756225,
+    "lng": 11.0418354,
+    "hasDelivery": false,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "www.cannalles.de",
+    "phone": "039472637",
+    "email": "shop@cannalles.de",
+    "productCount": 22,
+    "rating": 5,
+    "ratingCount": 1,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/68d660d8d693a725ccf307de-a5b7hh.jpg"
+  },
+  "city": {
+    "slug": "thale",
+    "name": "Thale",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "cannaroko-oder-robert-koch-apotheke-wolfen",
+      "name": "CannaRoKo | Robert-Koch-Apotheke Wolfen",
+      "cityName": "Bitterfeld-Wolfen",
+      "productCount": 80,
+      "hasDelivery": true
+    },
+    {
+      "slug": "hirsch-apotheke-1",
+      "name": "Cannasana",
+      "cityName": "Hohe Börde",
+      "productCount": 66,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-am-collegienhof",
+      "name": "Elbgrün",
+      "cityName": "Lutherstadt Wittenberg",
+      "productCount": 43,
+      "hasDelivery": true
+    },
+    {
+      "slug": "easyapotheke-magdeburg",
+      "name": "easyApotheke Magdeburg",
+      "cityName": "Magdeburg",
+      "productCount": 32,
+      "hasDelivery": true
+    },
+    {
+      "slug": "rosen-apotheke-eisleben",
+      "name": "Rosen Apotheke Eisleben",
+      "cityName": "Lutherstadt Eisleben",
+      "productCount": 25,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannalles im Harz - Cannabis Apotheke in Thale",
+      "description": "Cannalles im Harz in Thale. 22 Cannabis Produkte. Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/apotheke-am-markt",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannalles im Harz - Cannabis Apotheke in Thale",
+        "description": "Cannalles im Harz in Thale. 22 Cannabis Produkte. Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/apotheke-am-markt",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/68d660d8d693a725ccf307de-a5b7hh.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Thale",
+        "href": "https://weed.de/cannabis-apotheke/thale"
+      },
+      {
+        "name": "Cannalles im Harz",
+        "href": "https://weed.de/apotheke/apotheke-am-markt"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Thale",
+            "item": "https://weed.de/cannabis-apotheke/thale"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Cannalles im Harz",
+            "item": "https://weed.de/apotheke/apotheke-am-markt"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Cannalles im Harz",
+        "url": "https://weed.de/apotheke/apotheke-am-markt",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Schleifenbachstraße 2",
+          "addressLocality": "Thale",
+          "postalCode": "06502",
+          "addressRegion": "Sachsen-Anhalt",
+          "addressCountry": "DE"
+        },
+        "telephone": "039472637",
+        "email": "shop@cannalles.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/thale",
+      "text": "Cannabis Apotheken in Thale",
+      "title": "Alle Apotheken in Thale"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/cannaroko-oder-robert-koch-apotheke-wolfen",
+        "text": "CannaRoKo | Robert-Koch-Apotheke Wolfen",
+        "title": "CannaRoKo | Robert-Koch-Apotheke Wolfen in Bitterfeld-Wolfen"
+      },
+      {
+        "href": "/apotheke/hirsch-apotheke-1",
+        "text": "Cannasana",
+        "title": "Cannasana in Hohe Börde"
+      },
+      {
+        "href": "/apotheke/apotheke-am-collegienhof",
+        "text": "Elbgrün",
+        "title": "Elbgrün in Lutherstadt Wittenberg"
+      },
+      {
+        "href": "/apotheke/easyapotheke-magdeburg",
+        "text": "easyApotheke Magdeburg",
+        "title": "easyApotheke Magdeburg in Magdeburg"
+      },
+      {
+        "href": "/apotheke/rosen-apotheke-eisleben",
+        "text": "Rosen Apotheke Eisleben",
+        "title": "Rosen Apotheke Eisleben in Lutherstadt Eisleben"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

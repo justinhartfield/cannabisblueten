@@ -1,0 +1,216 @@
+{
+  "strain": {
+    "slug": "runtz-mintz",
+    "name": "Runtz Mintz",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Relaxed",
+      "Happy",
+      "Calming"
+    ],
+    "tastes": [
+      "Sweet",
+      "Tropical",
+      "Berry"
+    ],
+    "terpenes": [
+      "Linalool",
+      "Caryophyllene",
+      "Myrcene"
+    ],
+    "description": "Runtz Mintz, von Fidel's Seed Co, ist eine Hybrid-Cannabissorte, die für ihren außerordentlich hohe Harz-Produktion bekannt ist. Geboren ist diese Spezialität aus der Kreuzung von\" Runtz\" mit einer Genetik die sowohl \"Peach Ozz\", als auch \"Gelatti\" und  \"Kush Mints\" vereint. Die daraus entstandene Runtz Minto Genetik enthält zumeist einen THC-Gehalt um 22 % bis 26 %, mit einem niedrigen CBD-Gehalt unter 1 %.  Ihr Geschmacksprofil zeichnet sich durch süße, tropische und beerige Noten aus, welche unter anderem durch die Terpene Limonen, Myrcen, sowie Caryophyllene beeinflusst werden.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 699,
+      "max": 699,
+      "formatted": {
+        "min": "6,99 €",
+        "max": "6,99 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "nimbus-rzm-221",
+      "name": "Nimbus RZM 22/1",
+      "brandName": "Nimbus Health",
+      "thcPercent": 21,
+      "priceMin": 699,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "black-kush",
+      "name": "Black Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "auto-white-runtz",
+      "name": "Auto White Runtz",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "bubblegum-biscotti",
+      "name": "Bubblegum Biscotti",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "solace",
+      "name": "Solace",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "fiji-sunset",
+      "name": "Fiji Sunset",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Runtz Mintz (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Runtz Mintz: Relaxed, Happy, Calming. 1 Produkte verfügbar. ab 6,99 €.",
+      "canonical": "https://weed.de/strain/runtz-mintz",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Runtz Mintz (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Runtz Mintz: Relaxed, Happy, Calming. 1 Produkte verfügbar. ab 6,99 €.",
+        "url": "https://weed.de/strain/runtz-mintz",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Runtz Mintz",
+        "href": "https://weed.de/strain/runtz-mintz"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Runtz Mintz",
+            "item": "https://weed.de/strain/runtz-mintz"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Runtz Mintz Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/nimbus-rzm-221",
+            "name": "Nimbus RZM 22/1"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/nimbus-rzm-221",
+        "text": "Nimbus RZM 22/1",
+        "title": "Nimbus RZM 22/1 von Nimbus Health"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/black-kush",
+        "text": "Black Kush",
+        "title": "Black Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/auto-white-runtz",
+        "text": "Auto White Runtz",
+        "title": "Auto White Runtz - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/bubblegum-biscotti",
+        "text": "Bubblegum Biscotti",
+        "title": "Bubblegum Biscotti - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/solace",
+        "text": "Solace",
+        "title": "Solace - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/fiji-sunset",
+        "text": "Fiji Sunset",
+        "title": "Fiji Sunset - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      },
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "strain": {
+    "slug": "lilac-diesel",
+    "name": "Lilac Diesel",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [
+      "Focused",
+      "Creative",
+      "Sociable"
+    ],
+    "tastes": [
+      "Diesel",
+      "Citrus",
+      "Flowery"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Beta-Caryophyllene",
+      "Humulene",
+      "Terpinolene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 595,
+      "max": 595,
+      "formatted": {
+        "min": "5,95 €",
+        "max": "5,95 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "tilray-thc-18-spotlight-porto-lilac-diesel",
+      "name": "Tilray THC 18 Spotlight Porto Lilac Diesel",
+      "brandName": "Tilray",
+      "thcPercent": 18,
+      "priceMin": 595,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-thc22-spotlight-porto-lilac-diesel",
+      "name": "Tilray THC22 Spotlight Porto Lilac Diesel",
+      "brandName": "Tilray",
+      "thcPercent": 22,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "super-citra-g",
+      "name": "Super Citra G",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "frosted-lemon-cake",
+      "name": "Frosted Lemon Cake",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "purple-amnesia",
+      "name": "Purple Amnesia",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "apes-in-space",
+      "name": "Apes in Space",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "ultra-sour",
+      "name": "Ultra Sour",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Lilac Diesel (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Lilac Diesel: Focused, Creative, Sociable. 2 Produkte verfügbar. ab 5,95 €.",
+      "canonical": "https://weed.de/strain/lilac-diesel",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Lilac Diesel (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Lilac Diesel: Focused, Creative, Sociable. 2 Produkte verfügbar. ab 5,95 €.",
+        "url": "https://weed.de/strain/lilac-diesel",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Lilac Diesel",
+        "href": "https://weed.de/strain/lilac-diesel"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Lilac Diesel",
+            "item": "https://weed.de/strain/lilac-diesel"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Lilac Diesel Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/tilray-thc-18-spotlight-porto-lilac-diesel",
+            "name": "Tilray THC 18 Spotlight Porto Lilac Diesel"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/tilray-thc22-spotlight-porto-lilac-diesel",
+            "name": "Tilray THC22 Spotlight Porto Lilac Diesel"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/tilray-thc-18-spotlight-porto-lilac-diesel",
+        "text": "Tilray THC 18 Spotlight Porto Lilac Diesel",
+        "title": "Tilray THC 18 Spotlight Porto Lilac Diesel von Tilray"
+      },
+      {
+        "href": "/product/tilray-thc22-spotlight-porto-lilac-diesel",
+        "text": "Tilray THC22 Spotlight Porto Lilac Diesel",
+        "title": "Tilray THC22 Spotlight Porto Lilac Diesel von Tilray"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/super-citra-g",
+        "text": "Super Citra G",
+        "title": "Super Citra G - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/frosted-lemon-cake",
+        "text": "Frosted Lemon Cake",
+        "title": "Frosted Lemon Cake - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/purple-amnesia",
+        "text": "Purple Amnesia",
+        "title": "Purple Amnesia - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/apes-in-space",
+        "text": "Apes in Space",
+        "title": "Apes in Space - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/ultra-sour",
+        "text": "Ultra Sour",
+        "title": "Ultra Sour - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/humulene",
+        "text": "Humulene",
+        "title": "Humulene Terpen"
+      },
+      {
+        "href": "/terpene/terpinolene",
+        "text": "Terpinolene",
+        "title": "Terpinolene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

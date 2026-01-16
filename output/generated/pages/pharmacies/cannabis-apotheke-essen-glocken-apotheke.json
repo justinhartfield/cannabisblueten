@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "cannabis-apotheke-essen-glocken-apotheke",
+    "name": "Cannabis Apotheke Essen (Glocken Apotheke)",
+    "street": "Rüttenscheider Straße 131",
+    "zip": "45130",
+    "cityName": "Essen",
+    "state": "Nordrhein-Westfalen",
+    "lat": 51.43533129999999,
+    "lng": 7.0050782,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://cannabis-apotheke-essen.de/",
+    "phone": "0201793914",
+    "email": "cannabis@glockenapotheke-essen.de",
+    "productCount": 174,
+    "rating": 4,
+    "ratingCount": 1,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/671ea4c9f2bec0db182105cb-3baa53.jpg"
+  },
+  "city": {
+    "slug": "essen",
+    "name": "Essen",
+    "pharmacyCount": 3
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "medicannabis-essen",
+      "name": "Medicannabis Essen",
+      "cityName": "Essen",
+      "productCount": 111,
+      "hasDelivery": true
+    },
+    {
+      "slug": "higreen-roentgen-apotheke",
+      "name": "higreen! - Röntgen Apotheke",
+      "cityName": "Essen",
+      "productCount": 7,
+      "hasDelivery": false
+    },
+    {
+      "slug": "higreen-apotheke",
+      "name": "higreen! Online Marktplatz für Cannabis Apotheken",
+      "cityName": "Krefeld",
+      "productCount": 256,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-zur-alten-post",
+      "name": "Cannacompany (Apotheke zur Alten Post)",
+      "cityName": "Bonn",
+      "productCount": 233,
+      "hasDelivery": true
+    },
+    {
+      "slug": "grafenberger-apotheke",
+      "name": "GRAFENBERGER APOTHEKE",
+      "cityName": "Düsseldorf",
+      "productCount": 158,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannabis Apotheke Essen (Glocken Apotheke) - Cannabis Apotheke in Essen",
+      "description": "Cannabis Apotheke Essen (Glocken Apotheke) in Essen. 174 Cannabis Produkte. Lieferung & Abholung. Bewertung: 4.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/cannabis-apotheke-essen-glocken-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannabis Apotheke Essen (Glocken Apotheke) - Cannabis Apotheke in Essen",
+        "description": "Cannabis Apotheke Essen (Glocken Apotheke) in Essen. 174 Cannabis Produkte. Lieferung & Abholung. Bewertung: 4.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/cannabis-apotheke-essen-glocken-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/671ea4c9f2bec0db182105cb-3baa53.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Essen",
+        "href": "https://weed.de/cannabis-apotheke/essen"
+      },
+      {
+        "name": "Cannabis Apotheke Essen (Glocken Apotheke)",
+        "href": "https://weed.de/apotheke/cannabis-apotheke-essen-glocken-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Essen",
+            "item": "https://weed.de/cannabis-apotheke/essen"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Cannabis Apotheke Essen (Glocken Apotheke)",
+            "item": "https://weed.de/apotheke/cannabis-apotheke-essen-glocken-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Cannabis Apotheke Essen (Glocken Apotheke)",
+        "url": "https://weed.de/apotheke/cannabis-apotheke-essen-glocken-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Rüttenscheider Straße 131",
+          "addressLocality": "Essen",
+          "postalCode": "45130",
+          "addressRegion": "Nordrhein-Westfalen",
+          "addressCountry": "DE"
+        },
+        "telephone": "0201793914",
+        "email": "cannabis@glockenapotheke-essen.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/essen",
+      "text": "Cannabis Apotheken in Essen",
+      "title": "Alle Apotheken in Essen"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/medicannabis-essen",
+        "text": "Medicannabis Essen",
+        "title": "Medicannabis Essen in Essen"
+      },
+      {
+        "href": "/apotheke/higreen-roentgen-apotheke",
+        "text": "higreen! - Röntgen Apotheke",
+        "title": "higreen! - Röntgen Apotheke in Essen"
+      },
+      {
+        "href": "/apotheke/higreen-apotheke",
+        "text": "higreen! Online Marktplatz für Cannabis Apotheken",
+        "title": "higreen! Online Marktplatz für Cannabis Apotheken in Krefeld"
+      },
+      {
+        "href": "/apotheke/apotheke-zur-alten-post",
+        "text": "Cannacompany (Apotheke zur Alten Post)",
+        "title": "Cannacompany (Apotheke zur Alten Post) in Bonn"
+      },
+      {
+        "href": "/apotheke/grafenberger-apotheke",
+        "text": "GRAFENBERGER APOTHEKE",
+        "title": "GRAFENBERGER APOTHEKE in Düsseldorf"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

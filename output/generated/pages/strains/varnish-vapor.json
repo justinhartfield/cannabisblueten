@@ -1,0 +1,257 @@
+{
+  "strain": {
+    "slug": "varnish-vapor",
+    "name": "Varnish Vapor",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [
+      "Relaxed",
+      "Focused",
+      "Headache",
+      "Pain-relief"
+    ],
+    "tastes": [
+      "Sweet",
+      "Fruity",
+      "Spicy",
+      "Citrus",
+      "Diesel"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "Varnish Vapor ist eine Indica-dominante Hybridsorte, entstanden aus der Kreuzung zwischen Jet Fuel Gelato und Pinesoul. Mit einem hohen THC-Gehalt von typischerweise 26 % bis 32 % und einem CBD-Wert von unter 0,1 % liefert sie potente Effekte, die sowohl geistige Fokussierung als auch körperliche Ruhe umfassen. \n\nIhr komplexes Geschmacksprofil ist geprägt von Zitrus- und Dieselnuancen, ergänzt durch süße, fruchtige und erdige Komponenten. Das Terpenprofil, das von Myrcen, Limonen und Beta-Caryophyllen dominiert wird, unterstreicht das Aroma mit entspannenden, frischen und würzigen Nuancen. \n\nDie Wirkung vermittelt ein Gefühl der Ruhe und bewirkt gleichzeitig eine verbesserte Konzentration. Varnish Vapor ist ideal zur Linderung von Krämpfen, Kopfschmerzen und chronischen Schmerzen, da sie krampflösende und appetitsteigernde Eigenschaften besitzt. Zusammengefasst ist Varnish Vapor eine Sorte für alle, die ein intensives Diesel-Zitrus-Aroma mit einem potenten, fokussierenden und tief entspannenden Effekt suchen.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 3,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 930,
+      "max": 930,
+      "formatted": {
+        "min": "9,30 €",
+        "max": "9,30 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "cnbs-vv-301",
+      "name": "CNBS VV 30/1",
+      "brandName": "Medical CNBS",
+      "thcPercent": 31,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "cnbs-vv-261",
+      "name": "CNBS VV 26/1",
+      "brandName": "Medical CNBS",
+      "thcPercent": 26,
+      "priceMin": 930,
+      "inStock": true
+    },
+    {
+      "slug": "cnbs-vv-321",
+      "name": "CNBS VV 32/1",
+      "brandName": "Medical CNBS",
+      "thcPercent": 32,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "black-jelly",
+      "name": "Black Jelly",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "frosted-cookies",
+      "name": "Frosted Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "tickle-burger",
+      "name": "Tickle Burger",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "alien-mints",
+      "name": "Alien Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "wedding-pop-triangle",
+      "name": "Wedding Pop Triangle",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Varnish Vapor (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Varnish Vapor: Relaxed, Focused, Headache. 3 Produkte verfügbar. ab 9,30 €.",
+      "canonical": "https://weed.de/strain/varnish-vapor",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Varnish Vapor (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Varnish Vapor: Relaxed, Focused, Headache. 3 Produkte verfügbar. ab 9,30 €.",
+        "url": "https://weed.de/strain/varnish-vapor",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Varnish Vapor",
+        "href": "https://weed.de/strain/varnish-vapor"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Varnish Vapor",
+            "item": "https://weed.de/strain/varnish-vapor"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Varnish Vapor Produkte",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/cnbs-vv-301",
+            "name": "CNBS VV 30/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/cnbs-vv-261",
+            "name": "CNBS VV 26/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/cnbs-vv-321",
+            "name": "CNBS VV 32/1"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/cnbs-vv-301",
+        "text": "CNBS VV 30/1",
+        "title": "CNBS VV 30/1 von Medical CNBS"
+      },
+      {
+        "href": "/product/cnbs-vv-261",
+        "text": "CNBS VV 26/1",
+        "title": "CNBS VV 26/1 von Medical CNBS"
+      },
+      {
+        "href": "/product/cnbs-vv-321",
+        "text": "CNBS VV 32/1",
+        "title": "CNBS VV 32/1 von Medical CNBS"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/black-jelly",
+        "text": "Black Jelly",
+        "title": "Black Jelly - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/frosted-cookies",
+        "text": "Frosted Cookies",
+        "title": "Frosted Cookies - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/tickle-burger",
+        "text": "Tickle Burger",
+        "title": "Tickle Burger - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/alien-mints",
+        "text": "Alien Mints",
+        "title": "Alien Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/wedding-pop-triangle",
+        "text": "Wedding Pop Triangle",
+        "title": "Wedding Pop Triangle - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

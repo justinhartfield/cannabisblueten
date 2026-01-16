@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "rosen-apotheke-1",
+    "name": "Rosen-Apotheke",
+    "street": "Friedrichplatz",
+    "zip": "03149",
+    "cityName": "Forst (Lausitz)",
+    "state": "Brandenburg",
+    "lat": 51.7437074,
+    "lng": 14.645891,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": null,
+    "phone": "035622021",
+    "email": "info@rosen-apotheke-forst.de",
+    "productCount": 13,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/67c6cbee91ec739e24a522f8-c5hade.jpg"
+  },
+  "city": {
+    "slug": "forst-lausitz",
+    "name": "Forst (Lausitz)",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "apotheke-im-brandenburger-einkaufszentrum",
+      "name": "Apotheke im Brandenburger Einkaufszentrum",
+      "cityName": "Brandenburg an der Havel",
+      "productCount": 380,
+      "hasDelivery": true
+    },
+    {
+      "slug": "stadt-apotheke-teltow",
+      "name": "Stadt-Apotheke Teltow",
+      "cityName": "Teltow",
+      "productCount": 10,
+      "hasDelivery": true
+    },
+    {
+      "slug": "rathaus-apotheke",
+      "name": "Rathaus Apotheke",
+      "cityName": "Senftenberg",
+      "productCount": 5,
+      "hasDelivery": true
+    },
+    {
+      "slug": "test-test",
+      "name": "TEST TEST",
+      "cityName": "Schönefeld",
+      "productCount": 0,
+      "hasDelivery": false
+    },
+    {
+      "slug": "adler-apotheke-5",
+      "name": "Adler Apotheke",
+      "cityName": "Blankenfelde-Mahlow",
+      "productCount": 0,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Rosen-Apotheke - Cannabis Apotheke in Forst (Lausitz)",
+      "description": "Rosen-Apotheke in Forst (Lausitz). 13 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/rosen-apotheke-1",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Rosen-Apotheke - Cannabis Apotheke in Forst (Lausitz)",
+        "description": "Rosen-Apotheke in Forst (Lausitz). 13 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/rosen-apotheke-1",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/67c6cbee91ec739e24a522f8-c5hade.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Forst (Lausitz)",
+        "href": "https://weed.de/cannabis-apotheke/forst-lausitz"
+      },
+      {
+        "name": "Rosen-Apotheke",
+        "href": "https://weed.de/apotheke/rosen-apotheke-1"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Forst (Lausitz)",
+            "item": "https://weed.de/cannabis-apotheke/forst-lausitz"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Rosen-Apotheke",
+            "item": "https://weed.de/apotheke/rosen-apotheke-1"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Rosen-Apotheke",
+        "url": "https://weed.de/apotheke/rosen-apotheke-1",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Friedrichplatz",
+          "addressLocality": "Forst (Lausitz)",
+          "postalCode": "03149",
+          "addressRegion": "Brandenburg",
+          "addressCountry": "DE"
+        },
+        "telephone": "035622021",
+        "email": "info@rosen-apotheke-forst.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/forst-lausitz",
+      "text": "Cannabis Apotheken in Forst (Lausitz)",
+      "title": "Alle Apotheken in Forst (Lausitz)"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/apotheke-im-brandenburger-einkaufszentrum",
+        "text": "Apotheke im Brandenburger Einkaufszentrum",
+        "title": "Apotheke im Brandenburger Einkaufszentrum in Brandenburg an der Havel"
+      },
+      {
+        "href": "/apotheke/stadt-apotheke-teltow",
+        "text": "Stadt-Apotheke Teltow",
+        "title": "Stadt-Apotheke Teltow in Teltow"
+      },
+      {
+        "href": "/apotheke/rathaus-apotheke",
+        "text": "Rathaus Apotheke",
+        "title": "Rathaus Apotheke in Senftenberg"
+      },
+      {
+        "href": "/apotheke/test-test",
+        "text": "TEST TEST",
+        "title": "TEST TEST in Schönefeld"
+      },
+      {
+        "href": "/apotheke/adler-apotheke-5",
+        "text": "Adler Apotheke",
+        "title": "Adler Apotheke in Blankenfelde-Mahlow"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

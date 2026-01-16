@@ -1,0 +1,236 @@
+{
+  "strain": {
+    "slug": "sonic-lemon-fuel",
+    "name": "Sonic Lemon Fuel",
+    "geneticType": "sativa",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0,
+      "max": 0
+    },
+    "effects": [
+      "Creative",
+      "Focused",
+      "Energetic"
+    ],
+    "tastes": [
+      "Diesel",
+      "Herbal",
+      "Flowery"
+    ],
+    "terpenes": [
+      "Farnesene",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "Sonic Lemon Fuel ist eine energetischer, sativa-dominanter Strain, der aus der komplexen Kreuzung von Super Skunk, Chemdawg, Sour Diesel und Sage hervorgeht. Diese Genetik vereint einige der charakterstärksten Linien der modernen Cannabisgeschichte zu einem Kultivar, der durch seine kräftige Zitrus-Diesel-Aromatik, seine belebende Wirkung und seine Vielschichtigkeit sowohl Freizeitkonsumenten als auch medizinische Anwender anspricht. Das Profil von Sonic Lemon Fuel wird dominiert von den Terpenen Farnesen, Caryophyllen und Limonen, die gemeinsam ein fruchtig-würziges Duftspektrum mit stimmungsaufhellender, aber zugleich ausbalancierter Wirkung erzeugen. Diese Sorte eignet sich besonders für den Tagesgebrauch und überzeugt durch ihr klares, fokussiertes High ohne überwältigende Schwere.\n",
+    "imageUrl": "/strains/686f3b2bcc239b30d73eeea7-gejj2j.webp"
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 576,
+      "max": 1490,
+      "formatted": {
+        "min": "5,76 €",
+        "max": "14,90 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "peace-naturals-311-sl",
+      "name": "Peace Naturals 31/1 SL",
+      "brandName": "Cansativa",
+      "thcPercent": 31,
+      "priceMin": 928,
+      "inStock": true
+    },
+    {
+      "slug": "peace-naturals-331-sl",
+      "name": "Peace Naturals 33/1 SL",
+      "brandName": "Cansativa",
+      "thcPercent": 33,
+      "priceMin": 576,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "strawberry-lemonade",
+      "name": "Strawberry Lemonade",
+      "geneticType": "sativa",
+      "thcMax": null
+    },
+    {
+      "slug": "auto-desfran",
+      "name": "Auto Desfrán",
+      "geneticType": "sativa",
+      "thcMax": null
+    },
+    {
+      "slug": "black-mountain-side",
+      "name": "Black Mountain Side",
+      "geneticType": "sativa",
+      "thcMax": null
+    },
+    {
+      "slug": "columbian-haze",
+      "name": "Columbian Haze",
+      "geneticType": "sativa",
+      "thcMax": null
+    },
+    {
+      "slug": "lemon-thrill",
+      "name": "Lemon Thrill",
+      "geneticType": "sativa",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Sonic Lemon Fuel (Sativa) - Wirkung, THC & Verfügbarkeit",
+      "description": "Sonic Lemon Fuel: Creative, Focused, Energetic. 2 Produkte verfügbar. ab 5,76 €.",
+      "canonical": "https://weed.de/strain/sonic-lemon-fuel",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Sonic Lemon Fuel (Sativa) - Wirkung, THC & Verfügbarkeit",
+        "description": "Sonic Lemon Fuel: Creative, Focused, Energetic. 2 Produkte verfügbar. ab 5,76 €.",
+        "url": "https://weed.de/strain/sonic-lemon-fuel",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "/strains/686f3b2bcc239b30d73eeea7-gejj2j.webp"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Sonic Lemon Fuel",
+        "href": "https://weed.de/strain/sonic-lemon-fuel"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Sonic Lemon Fuel",
+            "item": "https://weed.de/strain/sonic-lemon-fuel"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Sonic Lemon Fuel Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/peace-naturals-311-sl",
+            "name": "Peace Naturals 31/1 SL"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/peace-naturals-331-sl",
+            "name": "Peace Naturals 33/1 SL"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/peace-naturals-311-sl",
+        "text": "Peace Naturals 31/1 SL",
+        "title": "Peace Naturals 31/1 SL von Cansativa"
+      },
+      {
+        "href": "/product/peace-naturals-331-sl",
+        "text": "Peace Naturals 33/1 SL",
+        "title": "Peace Naturals 33/1 SL von Cansativa"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/strawberry-lemonade",
+        "text": "Strawberry Lemonade",
+        "title": "Strawberry Lemonade - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/auto-desfran",
+        "text": "Auto Desfrán",
+        "title": "Auto Desfrán - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/black-mountain-side",
+        "text": "Black Mountain Side",
+        "title": "Black Mountain Side - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/columbian-haze",
+        "text": "Columbian Haze",
+        "title": "Columbian Haze - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/lemon-thrill",
+        "text": "Lemon Thrill",
+        "title": "Lemon Thrill - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/farnesene",
+        "text": "Farnesene",
+        "title": "Farnesene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

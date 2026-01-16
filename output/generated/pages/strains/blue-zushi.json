@@ -1,0 +1,235 @@
+{
+  "strain": {
+    "slug": "blue-zushi",
+    "name": "Blue Zushi",
+    "geneticType": "indica",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Happy",
+      "Hungry",
+      "Sociable"
+    ],
+    "tastes": [
+      "Fruity",
+      "Sweet",
+      "Flowery"
+    ],
+    "terpenes": [
+      "Linalool",
+      "Beta-Caryophyllene",
+      "Alpha-Humulene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 738,
+      "max": 797,
+      "formatted": {
+        "min": "7,38 €",
+        "max": "7,97 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "hisociety-bz-291",
+      "name": "HiSociety BZ 29/1",
+      "brandName": "Cantourage",
+      "thcPercent": 29,
+      "priceMin": 738,
+      "inStock": false
+    },
+    {
+      "slug": "hisociety-bz-31-bz",
+      "name": "HiSociety BZ 30/1 BZ",
+      "brandName": "Cantourage",
+      "thcPercent": 30,
+      "priceMin": 797,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "mimosa-x-orange-punch",
+      "name": "Mimosa x Orange Punch",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "mimosa-x-orange-punch-auto",
+      "name": "Mimosa x Orange Punch Auto",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "vespera",
+      "name": "Vespera",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "grapefruit-gift",
+      "name": "Grapefruit Gift",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "afghan-hash-plant-regular",
+      "name": "Afghan Hash Plant - Regular",
+      "geneticType": "indica",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Blue Zushi (Indica) - Wirkung, THC & Verfügbarkeit",
+      "description": "Blue Zushi: Happy, Hungry, Sociable. 2 Produkte verfügbar. ab 7,38 €.",
+      "canonical": "https://weed.de/strain/blue-zushi",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Blue Zushi (Indica) - Wirkung, THC & Verfügbarkeit",
+        "description": "Blue Zushi: Happy, Hungry, Sociable. 2 Produkte verfügbar. ab 7,38 €.",
+        "url": "https://weed.de/strain/blue-zushi",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Blue Zushi",
+        "href": "https://weed.de/strain/blue-zushi"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Blue Zushi",
+            "item": "https://weed.de/strain/blue-zushi"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Blue Zushi Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/hisociety-bz-291",
+            "name": "HiSociety BZ 29/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/hisociety-bz-31-bz",
+            "name": "HiSociety BZ 30/1 BZ"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/hisociety-bz-291",
+        "text": "HiSociety BZ 29/1",
+        "title": "HiSociety BZ 29/1 von Cantourage"
+      },
+      {
+        "href": "/product/hisociety-bz-31-bz",
+        "text": "HiSociety BZ 30/1 BZ",
+        "title": "HiSociety BZ 30/1 BZ von Cantourage"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/mimosa-x-orange-punch",
+        "text": "Mimosa x Orange Punch",
+        "title": "Mimosa x Orange Punch - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/mimosa-x-orange-punch-auto",
+        "text": "Mimosa x Orange Punch Auto",
+        "title": "Mimosa x Orange Punch Auto - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/vespera",
+        "text": "Vespera",
+        "title": "Vespera - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/grapefruit-gift",
+        "text": "Grapefruit Gift",
+        "title": "Grapefruit Gift - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/afghan-hash-plant-regular",
+        "text": "Afghan Hash Plant - Regular",
+        "title": "Afghan Hash Plant - Regular - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/alpha-humulene",
+        "text": "Alpha-Humulene",
+        "title": "Alpha-Humulene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

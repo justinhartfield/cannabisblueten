@@ -1,0 +1,209 @@
+{
+  "strain": {
+    "slug": "power-plant",
+    "name": "Power Plant",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Talkative",
+      "Creative",
+      "Energetic"
+    ],
+    "tastes": [
+      "Pepper",
+      "Woody",
+      "Spicy-Herbal"
+    ],
+    "terpenes": [
+      "Pinene",
+      "Myrcene",
+      "Caryophyllene"
+    ],
+    "description": "Power Plant ist eine sativa-dominante, afrikanische Landrasse, die Anfang der 90er Jahre von der niederländischen Saatgut-Firma Dutch Passion perfektioniert wurde. Nutzer berichten von, einem klaren, glücklichen, kreativen Gefühl. Das Arom von Power Plant wird als holzig, erdig und durchdringend beschrieben, mit einem pfeffrigen, scharfen Geschmack.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": null
+  },
+  "products": [
+    {
+      "slug": "together-pharma-iapetus",
+      "name": "Together Pharma Iapetus",
+      "brandName": "Cantourage",
+      "thcPercent": 16,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "lemon-pepper-punch",
+      "name": "Lemon Pepper Punch",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "jealousy",
+      "name": "Jealousy",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "spritzer",
+      "name": "Spritzer",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "corkscrew-auto",
+      "name": "Corkscrew Auto",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "grapefruit",
+      "name": "Grapefruit",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Power Plant (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Power Plant: Talkative, Creative, Energetic. 1 Produkte verfügbar.",
+      "canonical": "https://weed.de/strain/power-plant",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Power Plant (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Power Plant: Talkative, Creative, Energetic. 1 Produkte verfügbar.",
+        "url": "https://weed.de/strain/power-plant",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Power Plant",
+        "href": "https://weed.de/strain/power-plant"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Power Plant",
+            "item": "https://weed.de/strain/power-plant"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Power Plant Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/together-pharma-iapetus",
+            "name": "Together Pharma Iapetus"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/together-pharma-iapetus",
+        "text": "Together Pharma Iapetus",
+        "title": "Together Pharma Iapetus von Cantourage"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/lemon-pepper-punch",
+        "text": "Lemon Pepper Punch",
+        "title": "Lemon Pepper Punch - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/jealousy",
+        "text": "Jealousy",
+        "title": "Jealousy - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/spritzer",
+        "text": "Spritzer",
+        "title": "Spritzer - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/corkscrew-auto",
+        "text": "Corkscrew Auto",
+        "title": "Corkscrew Auto - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/grapefruit",
+        "text": "Grapefruit",
+        "title": "Grapefruit - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/pinene",
+        "text": "Pinene",
+        "title": "Pinene Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

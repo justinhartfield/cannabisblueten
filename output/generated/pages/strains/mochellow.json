@@ -1,0 +1,235 @@
+{
+  "strain": {
+    "slug": "mochellow",
+    "name": "Mochellow",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": null,
+      "max": null
+    },
+    "effects": [
+      "Euphoric",
+      "Happy",
+      "Creative",
+      "Focused",
+      "Anxiety-reducing",
+      "Headache",
+      "Pain-relief",
+      "Relaxed",
+      "Stress-relief",
+      "Hungry"
+    ],
+    "tastes": [
+      "Sweet",
+      "Grape",
+      "Berry",
+      "Candy",
+      "Diesel",
+      "Creamy",
+      "Earthy",
+      "Gassy",
+      "Tangy"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Limonene",
+      "Linalool",
+      "Myrcene"
+    ],
+    "description": "Mochellow ist eine moderne Hybridsorte, die auf der Genetik von Mellowz basiert und von Compound Genetics entwickelt wurde. Sie entstammt der komplexen Kreuzung von Spritzer und Grape Gasoline. Mit einem THC-Gehalt von etwa 22 % und einem CBD-Wert von 0 % bietet sie eine ausgewogene Wirkungskraft, die fruchtige Süße mit funktionaler Entspannung vereint.\n\nDas Aromaprofil ist auffällig und vielschichtig. Es dominieren süße Noten von Trauben, reifen Beeren und Zuckerguss, die von kräftigen Diesel-Akzenten und blumigen Nuancen begleitet werden. Ergänzt wird dieser Charakter durch erdige Untertöne und eine leicht cremige Struktur. Das Terpenprofil, angeführt von Limonen, Myrcen, Caryophyllen und Linalool, ist verantwortlich für dieses intensive Bouquet aus Frucht, Süße und gasartiger Würze.\n\nDie Wirkung wird als balanciert und stimmungsaufhellend beschrieben. Sie beginnt meist mit einem euphorischen und glücklichen Gefühl, das die Fokussierung und Kreativität fördert. Im weiteren Verlauf geht dieser mentale Auftrieb in eine tiefe körperliche Entspannung über, die beruhigt, ohne übermäßig zu ermüden. Aufgrund dieser Kombination aus geistiger Klarheit und körperlicher Ruhe wird Mochellow therapeutisch häufig zur Linderung von Stress, Depressionen, Angstzuständen, ADHS, Kopfschmerzen, chronischen Schmerzen sowie Appetitlosigkeit eingesetzt.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 395,
+      "max": 869,
+      "formatted": {
+        "min": "3,95 €",
+        "max": "8,69 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "zoiks-221-moc",
+      "name": "ZOIKS 22/1 MOC",
+      "brandName": "Avaay",
+      "thcPercent": 22,
+      "priceMin": 395,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "gush-mints",
+      "name": "Gush Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "candy-fumez",
+      "name": "Candy Fumez",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "fiestaz",
+      "name": "Fiestaz",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "pink-grapes",
+      "name": "Pink Grapes",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "tribute",
+      "name": "Tribute 7",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Mochellow (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Mochellow: Euphoric, Happy, Creative. 1 Produkte verfügbar. ab 3,95 €.",
+      "canonical": "https://weed.de/strain/mochellow",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Mochellow (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Mochellow: Euphoric, Happy, Creative. 1 Produkte verfügbar. ab 3,95 €.",
+        "url": "https://weed.de/strain/mochellow",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Mochellow",
+        "href": "https://weed.de/strain/mochellow"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Mochellow",
+            "item": "https://weed.de/strain/mochellow"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Mochellow Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/zoiks-221-moc",
+            "name": "ZOIKS 22/1 MOC"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/zoiks-221-moc",
+        "text": "ZOIKS 22/1 MOC",
+        "title": "ZOIKS 22/1 MOC von Avaay"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/gush-mints",
+        "text": "Gush Mints",
+        "title": "Gush Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/candy-fumez",
+        "text": "Candy Fumez",
+        "title": "Candy Fumez - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/fiestaz",
+        "text": "Fiestaz",
+        "title": "Fiestaz - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/pink-grapes",
+        "text": "Pink Grapes",
+        "title": "Pink Grapes - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/tribute",
+        "text": "Tribute 7",
+        "title": "Tribute 7 - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

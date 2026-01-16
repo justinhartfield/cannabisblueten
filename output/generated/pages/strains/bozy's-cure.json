@@ -1,0 +1,254 @@
+{
+  "strain": {
+    "slug": "bozy's-cure",
+    "name": "Bozy's Cure",
+    "geneticType": "sativa",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Euphoric",
+      "Creative",
+      "Sociable"
+    ],
+    "tastes": [
+      "Diesel",
+      "Tropical",
+      "Pine"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 3,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 490,
+      "max": 788,
+      "formatted": {
+        "min": "4,90 €",
+        "max": "7,88 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "wellford-aquaponic-261-boc",
+      "name": "Wellford Aquaponic 26/1 BOC",
+      "brandName": "Therismos",
+      "thcPercent": 26,
+      "priceMin": 788,
+      "inStock": true
+    },
+    {
+      "slug": "wellford-aquaponic-231-boc",
+      "name": "Wellford Aquaponic 23/1 BOC",
+      "brandName": "Therismos",
+      "thcPercent": 23,
+      "priceMin": 490,
+      "inStock": true
+    },
+    {
+      "slug": "wellford-aquaponic-291-boc",
+      "name": "Wellford Aquaponic 29/1 BOC",
+      "brandName": "Therismos",
+      "thcPercent": 29,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "rainbow-amnesia",
+      "name": "Rainbow Amnesia",
+      "geneticType": "sativa",
+      "thcMax": null
+    },
+    {
+      "slug": "carnez-citric",
+      "name": "Carnez Citric",
+      "geneticType": "sativa",
+      "thcMax": null
+    },
+    {
+      "slug": "crumbled-lime",
+      "name": "Crumbled Lime",
+      "geneticType": "sativa",
+      "thcMax": null
+    },
+    {
+      "slug": "platinum-sour-diesel",
+      "name": "Platinum Sour Diesel",
+      "geneticType": "sativa",
+      "thcMax": null
+    },
+    {
+      "slug": "strawberry-lemonade",
+      "name": "Strawberry Lemonade",
+      "geneticType": "sativa",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Bozy's Cure (Sativa) - Wirkung, THC & Verfügbarkeit",
+      "description": "Bozy's Cure: Euphoric, Creative, Sociable. 3 Produkte verfügbar. ab 4,90 €.",
+      "canonical": "https://weed.de/strain/bozy's-cure",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Bozy's Cure (Sativa) - Wirkung, THC & Verfügbarkeit",
+        "description": "Bozy's Cure: Euphoric, Creative, Sociable. 3 Produkte verfügbar. ab 4,90 €.",
+        "url": "https://weed.de/strain/bozy's-cure",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Bozy's Cure",
+        "href": "https://weed.de/strain/bozy's-cure"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Bozy's Cure",
+            "item": "https://weed.de/strain/bozy's-cure"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Bozy's Cure Produkte",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/wellford-aquaponic-261-boc",
+            "name": "Wellford Aquaponic 26/1 BOC"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/wellford-aquaponic-231-boc",
+            "name": "Wellford Aquaponic 23/1 BOC"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/wellford-aquaponic-291-boc",
+            "name": "Wellford Aquaponic 29/1 BOC"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/wellford-aquaponic-261-boc",
+        "text": "Wellford Aquaponic 26/1 BOC",
+        "title": "Wellford Aquaponic 26/1 BOC von Therismos"
+      },
+      {
+        "href": "/product/wellford-aquaponic-231-boc",
+        "text": "Wellford Aquaponic 23/1 BOC",
+        "title": "Wellford Aquaponic 23/1 BOC von Therismos"
+      },
+      {
+        "href": "/product/wellford-aquaponic-291-boc",
+        "text": "Wellford Aquaponic 29/1 BOC",
+        "title": "Wellford Aquaponic 29/1 BOC von Therismos"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/rainbow-amnesia",
+        "text": "Rainbow Amnesia",
+        "title": "Rainbow Amnesia - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/carnez-citric",
+        "text": "Carnez Citric",
+        "title": "Carnez Citric - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/crumbled-lime",
+        "text": "Crumbled Lime",
+        "title": "Crumbled Lime - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/platinum-sour-diesel",
+        "text": "Platinum Sour Diesel",
+        "title": "Platinum Sour Diesel - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/strawberry-lemonade",
+        "text": "Strawberry Lemonade",
+        "title": "Strawberry Lemonade - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

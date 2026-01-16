@@ -1,0 +1,228 @@
+{
+  "product": {
+    "slug": "canopy-kmi-28",
+    "name": "Canopy KMI 28",
+    "type": "flower",
+    "genetics": "indica",
+    "thcPercent": 26.2,
+    "cbdPercent": 1,
+    "priceMin": 429,
+    "priceMax": 800,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "canopy-growth",
+    "name": "Canopy Growth",
+    "productCount": 35
+  },
+  "strain": {
+    "slug": "kush-mint",
+    "name": "Kush Mints",
+    "geneticType": "hybrid",
+    "effects": [
+      "Relaxed",
+      "Euphoric",
+      "Aroused"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Myrcene",
+      "Humulene",
+      "Limonene",
+      "Fenchol"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Relaxed",
+      "Euphoric",
+      "Aroused"
+    ],
+    "tastes": [
+      "Mint",
+      "Pine",
+      "Spicy-Herbal"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Myrcene",
+      "Humulene",
+      "Limonene",
+      "Fenchol"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "aurora-thc-25-cannabis-extract",
+      "name": "Aurora THC 25 Cannabis Extract",
+      "brandName": "Cansativa",
+      "thcPercent": 2.5,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "nice-311-km",
+      "name": "NICE 31/1 KM",
+      "brandName": "Cansativa",
+      "thcPercent": 31,
+      "priceMin": 489,
+      "inStock": true
+    },
+    {
+      "slug": "thc-akut-fb-25-kush-mints",
+      "name": "THC AKUT FB 25 KM",
+      "brandName": "Bathera",
+      "thcPercent": 25,
+      "priceMin": 497,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-1",
+      "name": "Demecan Typ 1",
+      "brandName": "Demecan",
+      "thcPercent": 21,
+      "priceMin": 694,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-indica-forte-ej",
+      "name": "Cannamedical Indica forte EJ",
+      "brandName": "Cannamedical",
+      "thcPercent": 24,
+      "priceMin": 700,
+      "inStock": true
+    },
+    {
+      "slug": "251vayamed-cannabisextrakt",
+      "name": "25/1Vayamed Cannabisextrakt",
+      "brandName": "Vayamed",
+      "thcPercent": 2.5,
+      "priceMin": 824,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Canopy KMI 28 - Canopy Growth | ab 4,29 €",
+      "description": "Canopy KMI 28 von Canopy Growth. THC: 26.2%, CBD: 1%. Sorte: Kush Mints. Preis ab 4,29 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/canopy-kmi-28",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Canopy KMI 28 - Canopy Growth | ab 4,29 €",
+        "description": "Canopy KMI 28 von Canopy Growth. THC: 26.2%, CBD: 1%. Sorte: Kush Mints. Preis ab 4,29 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/canopy-kmi-28",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Canopy Growth",
+        "href": "https://weed.de/brand/canopy-growth"
+      },
+      {
+        "name": "Canopy KMI 28",
+        "href": "https://weed.de/product/canopy-kmi-28"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Canopy KMI 28",
+            "item": "https://weed.de/product/canopy-kmi-28"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Canopy KMI 28",
+        "brand": {
+          "@type": "Brand",
+          "name": "Canopy Growth"
+        },
+        "description": "THC: 26.2%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/kush-mint",
+      "text": "Kush Mints",
+      "title": "Kush Mints Sorte"
+    },
+    "brand": {
+      "href": "/brand/canopy-growth",
+      "text": "Canopy Growth",
+      "title": "Alle Canopy Growth Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/aurora-thc-25-cannabis-extract",
+        "text": "Aurora THC 25 Cannabis Extract",
+        "title": "Alternative: Aurora THC 25 Cannabis Extract"
+      },
+      {
+        "href": "/product/nice-311-km",
+        "text": "NICE 31/1 KM",
+        "title": "Alternative: NICE 31/1 KM"
+      },
+      {
+        "href": "/product/thc-akut-fb-25-kush-mints",
+        "text": "THC AKUT FB 25 KM",
+        "title": "Alternative: THC AKUT FB 25 KM"
+      },
+      {
+        "href": "/product/demecan-typ-1",
+        "text": "Demecan Typ 1",
+        "title": "Alternative: Demecan Typ 1"
+      },
+      {
+        "href": "/product/cannamedical-indica-forte-ej",
+        "text": "Cannamedical Indica forte EJ",
+        "title": "Alternative: Cannamedical Indica forte EJ"
+      },
+      {
+        "href": "/product/251vayamed-cannabisextrakt",
+        "text": "25/1Vayamed Cannabisextrakt",
+        "title": "Alternative: 25/1Vayamed Cannabisextrakt"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

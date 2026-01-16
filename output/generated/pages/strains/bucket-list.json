@@ -1,0 +1,292 @@
+{
+  "strain": {
+    "slug": "bucket-list",
+    "name": "Bucket List",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Euphoric",
+      "Relaxed",
+      "Focused"
+    ],
+    "tastes": [
+      "Diesel",
+      "Pine",
+      "Skunk"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Caryophyllene"
+    ],
+    "description": "Bucket List ist das Ergebnis der Kreuzungen Chem 91, Star Fighter und White 91. Chem 91 x Star Fighter x White 91. Ihr THC-Gehalt variiert zwischen 25 - 30 %, mit einem gesamt Terpengehalt von bis zu 3 %. Hauptverantwortlich für den Geschmack sind die Terpene Myrcene, Limonene sowie Caryophyllene. Der Geschmack von Bucket List, soll sehr sanft sein und an warme Erde erinnern. Benutzer richten von einem produktivem high, welches sich für den Tag eignet.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 5,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 589,
+      "max": 845,
+      "formatted": {
+        "min": "5,89 €",
+        "max": "8,45 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "420-evolution-301-ca-bul",
+      "name": "420 EVOLUTION 30/1 CA BUL",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 30,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "420-evolution-271-ca-bul",
+      "name": "420  EVOLUTION 27/1 CA BUL",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 27,
+      "priceMin": 589,
+      "inStock": true
+    },
+    {
+      "slug": "420-evolution-251",
+      "name": "420  EVOLUTION 25/1 BUL",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 25,
+      "priceMin": 845,
+      "inStock": false
+    },
+    {
+      "slug": "420-evolution-221-ca-bul",
+      "name": "420 EVOLUTION 22/1 CA BUL",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 22,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "42-evolution-31-ca-bul",
+      "name": "420 EVOLUTION 33/1 CA BUL",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 33,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "bruce-banner",
+      "name": "Bruce Banner",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "gelato-41",
+      "name": "Gelato #41",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "rainbow-cake",
+      "name": "Rainbow Cake",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "skywalker-2.0",
+      "name": "Skywalker 2.0",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "aspen-og",
+      "name": "Aspen OG",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Bucket List (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Bucket List: Euphoric, Relaxed, Focused. 5 Produkte verfügbar. ab 5,89 €.",
+      "canonical": "https://weed.de/strain/bucket-list",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Bucket List (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Bucket List: Euphoric, Relaxed, Focused. 5 Produkte verfügbar. ab 5,89 €.",
+        "url": "https://weed.de/strain/bucket-list",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Bucket List",
+        "href": "https://weed.de/strain/bucket-list"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Bucket List",
+            "item": "https://weed.de/strain/bucket-list"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Bucket List Produkte",
+        "numberOfItems": 5,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/420-evolution-301-ca-bul",
+            "name": "420 EVOLUTION 30/1 CA BUL"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/420-evolution-271-ca-bul",
+            "name": "420  EVOLUTION 27/1 CA BUL"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/420-evolution-251",
+            "name": "420  EVOLUTION 25/1 BUL"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/product/420-evolution-221-ca-bul",
+            "name": "420 EVOLUTION 22/1 CA BUL"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "https://weed.de/product/42-evolution-31-ca-bul",
+            "name": "420 EVOLUTION 33/1 CA BUL"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/420-evolution-301-ca-bul",
+        "text": "420 EVOLUTION 30/1 CA BUL",
+        "title": "420 EVOLUTION 30/1 CA BUL von Four 20 Pharma"
+      },
+      {
+        "href": "/product/420-evolution-271-ca-bul",
+        "text": "420  EVOLUTION 27/1 CA BUL",
+        "title": "420  EVOLUTION 27/1 CA BUL von Four 20 Pharma"
+      },
+      {
+        "href": "/product/420-evolution-251",
+        "text": "420  EVOLUTION 25/1 BUL",
+        "title": "420  EVOLUTION 25/1 BUL von Four 20 Pharma"
+      },
+      {
+        "href": "/product/420-evolution-221-ca-bul",
+        "text": "420 EVOLUTION 22/1 CA BUL",
+        "title": "420 EVOLUTION 22/1 CA BUL von Four 20 Pharma"
+      },
+      {
+        "href": "/product/42-evolution-31-ca-bul",
+        "text": "420 EVOLUTION 33/1 CA BUL",
+        "title": "420 EVOLUTION 33/1 CA BUL von Four 20 Pharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/bruce-banner",
+        "text": "Bruce Banner",
+        "title": "Bruce Banner - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/gelato-41",
+        "text": "Gelato #41",
+        "title": "Gelato #41 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/rainbow-cake",
+        "text": "Rainbow Cake",
+        "title": "Rainbow Cake - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/skywalker-2.0",
+        "text": "Skywalker 2.0",
+        "title": "Skywalker 2.0 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/aspen-og",
+        "text": "Aspen OG",
+        "title": "Aspen OG - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

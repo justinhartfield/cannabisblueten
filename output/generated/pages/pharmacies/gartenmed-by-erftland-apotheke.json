@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "gartenmed-by-erftland-apotheke",
+    "name": "Gartenmed by Erftland Apotheke",
+    "street": "Kerpener Straße 32",
+    "zip": "50170",
+    "cityName": "Kerpen",
+    "state": "Nordrhein-Westfalen",
+    "lat": 50.9060109,
+    "lng": 6.6740093,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": null,
+    "phone": "0227352654",
+    "email": "info@gartenmed.de",
+    "productCount": 22,
+    "rating": 5,
+    "ratingCount": 1,
+    "imageUrl": "https://weed.de/pharmacies/gartenmed-by-erftland-apotheke-03e0jj.png"
+  },
+  "city": {
+    "slug": "kerpen",
+    "name": "Kerpen",
+    "pharmacyCount": 2
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "higreen-erftland-apotheke",
+      "name": "higreen! - Erftland Apotheke",
+      "cityName": "Kerpen",
+      "productCount": 11,
+      "hasDelivery": true
+    },
+    {
+      "slug": "higreen-apotheke",
+      "name": "higreen! Online Marktplatz für Cannabis Apotheken",
+      "cityName": "Krefeld",
+      "productCount": 256,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-zur-alten-post",
+      "name": "Cannacompany (Apotheke zur Alten Post)",
+      "cityName": "Bonn",
+      "productCount": 233,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis-apotheke-essen-glocken-apotheke",
+      "name": "Cannabis Apotheke Essen (Glocken Apotheke)",
+      "cityName": "Essen",
+      "productCount": 174,
+      "hasDelivery": true
+    },
+    {
+      "slug": "grafenberger-apotheke",
+      "name": "GRAFENBERGER APOTHEKE",
+      "cityName": "Düsseldorf",
+      "productCount": 158,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Gartenmed by Erftland Apotheke - Cannabis Apotheke in Kerpen",
+      "description": "Gartenmed by Erftland Apotheke in Kerpen. 22 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/gartenmed-by-erftland-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Gartenmed by Erftland Apotheke - Cannabis Apotheke in Kerpen",
+        "description": "Gartenmed by Erftland Apotheke in Kerpen. 22 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/gartenmed-by-erftland-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/pharmacies/gartenmed-by-erftland-apotheke-03e0jj.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Kerpen",
+        "href": "https://weed.de/cannabis-apotheke/kerpen"
+      },
+      {
+        "name": "Gartenmed by Erftland Apotheke",
+        "href": "https://weed.de/apotheke/gartenmed-by-erftland-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Kerpen",
+            "item": "https://weed.de/cannabis-apotheke/kerpen"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Gartenmed by Erftland Apotheke",
+            "item": "https://weed.de/apotheke/gartenmed-by-erftland-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Gartenmed by Erftland Apotheke",
+        "url": "https://weed.de/apotheke/gartenmed-by-erftland-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Kerpener Straße 32",
+          "addressLocality": "Kerpen",
+          "postalCode": "50170",
+          "addressRegion": "Nordrhein-Westfalen",
+          "addressCountry": "DE"
+        },
+        "telephone": "0227352654",
+        "email": "info@gartenmed.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/kerpen",
+      "text": "Cannabis Apotheken in Kerpen",
+      "title": "Alle Apotheken in Kerpen"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/higreen-erftland-apotheke",
+        "text": "higreen! - Erftland Apotheke",
+        "title": "higreen! - Erftland Apotheke in Kerpen"
+      },
+      {
+        "href": "/apotheke/higreen-apotheke",
+        "text": "higreen! Online Marktplatz für Cannabis Apotheken",
+        "title": "higreen! Online Marktplatz für Cannabis Apotheken in Krefeld"
+      },
+      {
+        "href": "/apotheke/apotheke-zur-alten-post",
+        "text": "Cannacompany (Apotheke zur Alten Post)",
+        "title": "Cannacompany (Apotheke zur Alten Post) in Bonn"
+      },
+      {
+        "href": "/apotheke/cannabis-apotheke-essen-glocken-apotheke",
+        "text": "Cannabis Apotheke Essen (Glocken Apotheke)",
+        "title": "Cannabis Apotheke Essen (Glocken Apotheke) in Essen"
+      },
+      {
+        "href": "/apotheke/grafenberger-apotheke",
+        "text": "GRAFENBERGER APOTHEKE",
+        "title": "GRAFENBERGER APOTHEKE in Düsseldorf"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

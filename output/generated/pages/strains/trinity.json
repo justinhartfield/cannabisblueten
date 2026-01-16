@@ -1,0 +1,223 @@
+{
+  "strain": {
+    "slug": "trinity",
+    "name": "Trinity",
+    "geneticType": "sativa",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Happy",
+      "Creative",
+      "Focused",
+      "Motivating",
+      "Mood-lifting",
+      "Clear",
+      "Stress-relief"
+    ],
+    "tastes": [
+      "Musky",
+      "Fruity",
+      "Hash",
+      "Skunk",
+      "Earthy",
+      "Tangy"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Caryophyllene",
+      "Limonene"
+    ],
+    "description": "Trinity ist eine Sativa-dominante Hybridsorte, die als seltener Klon aus Nordkalifornien stammt und deren genaue genetische Abstammung oft als unbekannt oder Skunk-verwandt gilt. Mit einem THC-Gehalt von typischerweise 15 % bis 20 % und einem niedrigen CBD-Wert liefert sie potente Effekte, die vor allem durch eine geistige Belebung gekennzeichnet sind. \n\nIhr komplexes Geschmacksprofil ist geprägt von moschusartigen, vergorenen Früchten und einer deutlichen Haschisch-Note, was ein sehr ursprüngliches Erlebnis schafft. Das Terpenprofil, das von Myrcen, Caryophyllen und Limonen dominiert wird, unterstreicht das Aroma mit erdigen, würzigen und skunkigen Nuancen. \n\nDie Wirkung beginnt mit einer stimmungsaufhellenden Euphorie, die Kreativität und Fokus fördert, bevor eine sanfte körperliche Entspannung einsetzt. Trinity ist ideal, um Depressionen, Stress und Niedergeschlagenheit zu lindern, da sie motiviert, ohne zu sedieren. Zusammengefasst ist Trinity eine Sorte für alle, die ein seltenes, fruchtig-harziges Old-School-Aroma mit einer klaren und motivierenden Wirkung suchen.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 399,
+      "max": 469,
+      "formatted": {
+        "min": "3,99 €",
+        "max": "4,69 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "thc-akut-tm-24-trinity",
+      "name": "THC AKUT TM 24",
+      "brandName": "Bathera",
+      "thcPercent": 22.9,
+      "priceMin": 399,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "pulsar",
+      "name": "Pulsar",
+      "geneticType": "sativa",
+      "thcMax": null
+    },
+    {
+      "slug": "haze",
+      "name": "Haze",
+      "geneticType": "sativa",
+      "thcMax": null
+    },
+    {
+      "slug": "thai",
+      "name": "Thai",
+      "geneticType": "sativa",
+      "thcMax": null
+    },
+    {
+      "slug": "guava-haze",
+      "name": "Guava Haze",
+      "geneticType": "sativa",
+      "thcMax": null
+    },
+    {
+      "slug": "herer-widow",
+      "name": "Herer Widow",
+      "geneticType": "sativa",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Trinity (Sativa) - Wirkung, THC & Verfügbarkeit",
+      "description": "Trinity: Happy, Creative, Focused. 1 Produkte verfügbar. ab 3,99 €.",
+      "canonical": "https://weed.de/strain/trinity",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Trinity (Sativa) - Wirkung, THC & Verfügbarkeit",
+        "description": "Trinity: Happy, Creative, Focused. 1 Produkte verfügbar. ab 3,99 €.",
+        "url": "https://weed.de/strain/trinity",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Trinity",
+        "href": "https://weed.de/strain/trinity"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Trinity",
+            "item": "https://weed.de/strain/trinity"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Trinity Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/thc-akut-tm-24-trinity",
+            "name": "THC AKUT TM 24"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/thc-akut-tm-24-trinity",
+        "text": "THC AKUT TM 24",
+        "title": "THC AKUT TM 24 von Bathera"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/pulsar",
+        "text": "Pulsar",
+        "title": "Pulsar - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/haze",
+        "text": "Haze",
+        "title": "Haze - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/thai",
+        "text": "Thai",
+        "title": "Thai - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/guava-haze",
+        "text": "Guava Haze",
+        "title": "Guava Haze - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/herer-widow",
+        "text": "Herer Widow",
+        "title": "Herer Widow - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

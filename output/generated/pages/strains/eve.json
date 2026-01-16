@@ -1,0 +1,218 @@
+{
+  "strain": {
+    "slug": "eve",
+    "name": "Eve",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Relaxed",
+      "Hungry",
+      "Sleepy"
+    ],
+    "tastes": [
+      "Spicy-Herbal",
+      "Pine",
+      "Sweet",
+      "Earthy"
+    ],
+    "terpenes": [
+      "Pinene",
+      "Valencene",
+      "Myrcene"
+    ],
+    "description": "Eve, eine indica-dominante Hybridsorte, bietet eine herrliche Kombination aus würzig-herben, pinienartigen, süßen und erdigen Aromen. Eve stammt von den Eltern Afghani No. 1 und Burmese ab und verfügt über einen moderaten THC-Gehalt von 17 -22 %. Nutzer berichten von einer entspannenden, Appetit-anregenden und beruhigend-schläfrigen Wirkung. Sie zeichnet sich durch Terpene wie Pinen, Valencen und Myrcen aus, die zu ihrem ansprechenden Aroma und ihren Wirkungen beitragen.",
+    "imageUrl": "/strains/eve-5ee583.png"
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 950,
+      "max": 950,
+      "formatted": {
+        "min": "9,50 €",
+        "max": "9,50 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "cbd-sunshine-coast",
+      "name": "CBD Sunshine coast",
+      "brandName": "Cannamedical",
+      "thcPercent": 1,
+      "priceMin": 950,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "god-bud",
+      "name": "God Bud",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "big-bud",
+      "name": "Big Bud",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "critical-mass",
+      "name": "Critical Mass",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "grape-mac",
+      "name": "Grape MAC",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "granddaddy-purple",
+      "name": "Granddaddy Purple",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Eve (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Eve: Relaxed, Hungry, Sleepy. 1 Produkte verfügbar. ab 9,50 €.",
+      "canonical": "https://weed.de/strain/eve",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Eve (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Eve: Relaxed, Hungry, Sleepy. 1 Produkte verfügbar. ab 9,50 €.",
+        "url": "https://weed.de/strain/eve",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "/strains/eve-5ee583.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Eve",
+        "href": "https://weed.de/strain/eve"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Eve",
+            "item": "https://weed.de/strain/eve"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Eve Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/cbd-sunshine-coast",
+            "name": "CBD Sunshine coast"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/cbd-sunshine-coast",
+        "text": "CBD Sunshine coast",
+        "title": "CBD Sunshine coast von Cannamedical"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/god-bud",
+        "text": "God Bud",
+        "title": "God Bud - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/big-bud",
+        "text": "Big Bud",
+        "title": "Big Bud - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/critical-mass",
+        "text": "Critical Mass",
+        "title": "Critical Mass - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/grape-mac",
+        "text": "Grape MAC",
+        "title": "Grape MAC - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/granddaddy-purple",
+        "text": "Granddaddy Purple",
+        "title": "Granddaddy Purple - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/pinene",
+        "text": "Pinene",
+        "title": "Pinene Terpen"
+      },
+      {
+        "href": "/terpene/valencene",
+        "text": "Valencene",
+        "title": "Valencene Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

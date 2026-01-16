@@ -1,0 +1,208 @@
+{
+  "strain": {
+    "slug": "mad-berry",
+    "name": "Mad Berry",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [
+      "Relaxed",
+      "Energetic",
+      "Sleepy"
+    ],
+    "tastes": [
+      "Coffee",
+      "Citrus"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Linalool",
+      "Beta-Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": null
+  },
+  "products": [
+    {
+      "slug": "remexian-241-prt-mab",
+      "name": "Remexian 24/1 PRT MAB",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 24,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "critical-bilbo",
+      "name": "Critical Bilbo",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "red-velvet-cake",
+      "name": "Red Velvet Cake",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "do-si-dos",
+      "name": "Do-Si-Dos",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "creamy-kees-no.-5",
+      "name": "Creamy Kees No. 5",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "sky-pie",
+      "name": "Sky Pie",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Mad Berry (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Mad Berry: Relaxed, Energetic, Sleepy. 1 Produkte verfügbar.",
+      "canonical": "https://weed.de/strain/mad-berry",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Mad Berry (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Mad Berry: Relaxed, Energetic, Sleepy. 1 Produkte verfügbar.",
+        "url": "https://weed.de/strain/mad-berry",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Mad Berry",
+        "href": "https://weed.de/strain/mad-berry"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Mad Berry",
+            "item": "https://weed.de/strain/mad-berry"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Mad Berry Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/remexian-241-prt-mab",
+            "name": "Remexian 24/1 PRT MAB"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/remexian-241-prt-mab",
+        "text": "Remexian 24/1 PRT MAB",
+        "title": "Remexian 24/1 PRT MAB von Remexian Pharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/critical-bilbo",
+        "text": "Critical Bilbo",
+        "title": "Critical Bilbo - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/red-velvet-cake",
+        "text": "Red Velvet Cake",
+        "title": "Red Velvet Cake - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/do-si-dos",
+        "text": "Do-Si-Dos",
+        "title": "Do-Si-Dos - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/creamy-kees-no.-5",
+        "text": "Creamy Kees No. 5",
+        "title": "Creamy Kees No. 5 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/sky-pie",
+        "text": "Sky Pie",
+        "title": "Sky Pie - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

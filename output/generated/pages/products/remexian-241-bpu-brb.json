@@ -1,0 +1,229 @@
+{
+  "product": {
+    "slug": "remexian-241-bpu-brb",
+    "name": "Remexian 24/1 BPU BRB",
+    "type": "flower",
+    "genetics": "hybrid",
+    "thcPercent": 24,
+    "cbdPercent": 1,
+    "priceMin": 318,
+    "priceMax": 599,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Republik Südafrika",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "remexian-pharma",
+    "name": "Remexian Pharma",
+    "productCount": 340
+  },
+  "strain": {
+    "slug": "big-red-beard",
+    "name": "Big Red Beard",
+    "geneticType": "hybrid",
+    "effects": [
+      "Relaxed",
+      "Anxiety-reducing",
+      "Mood-lifting",
+      "Stress-relief",
+      "Calming"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Relaxed",
+      "Anxiety-reducing",
+      "Mood-lifting",
+      "Stress-relief",
+      "Calming"
+    ],
+    "tastes": [
+      "Sweet",
+      "Tangy",
+      "Citrus",
+      "Pepper"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "remexian-211-bpu-brb",
+      "name": "Remexian 21/1 BPU BRB",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 21,
+      "priceMin": 295,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-thc-25-spotlight-porto-purps",
+      "name": "Tilray THC 25 Spotlight Porto Purps",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": 349,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc5cbd2",
+      "name": "Tilray Cannabisextrakt THC5:CBD20",
+      "brandName": "Tilray",
+      "thcPercent": 5,
+      "priceMin": 350,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc1cbd1",
+      "name": "Tilray Cannabisextrakt THC10:CBD10",
+      "brandName": "Tilray",
+      "thcPercent": 10,
+      "priceMin": 400,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-bpg-lean-drop",
+      "name": "Demecan BPG Lean Drop",
+      "brandName": "Demecan",
+      "thcPercent": 22,
+      "priceMin": 438,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-2",
+      "name": "Demecan Typ 2",
+      "brandName": "Demecan",
+      "thcPercent": 16,
+      "priceMin": 533,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Remexian 24/1 BPU BRB - Remexian Pharma | ab 3,18 €",
+      "description": "Remexian 24/1 BPU BRB von Remexian Pharma. THC: 24%, CBD: 1%. Sorte: Big Red Beard. Preis ab 3,18 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/remexian-241-bpu-brb",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Remexian 24/1 BPU BRB - Remexian Pharma | ab 3,18 €",
+        "description": "Remexian 24/1 BPU BRB von Remexian Pharma. THC: 24%, CBD: 1%. Sorte: Big Red Beard. Preis ab 3,18 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/remexian-241-bpu-brb",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Remexian Pharma",
+        "href": "https://weed.de/brand/remexian-pharma"
+      },
+      {
+        "name": "Remexian 24/1 BPU BRB",
+        "href": "https://weed.de/product/remexian-241-bpu-brb"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Remexian 24/1 BPU BRB",
+            "item": "https://weed.de/product/remexian-241-bpu-brb"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Remexian 24/1 BPU BRB",
+        "brand": {
+          "@type": "Brand",
+          "name": "Remexian Pharma"
+        },
+        "description": "THC: 24%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/big-red-beard",
+      "text": "Big Red Beard",
+      "title": "Big Red Beard Sorte"
+    },
+    "brand": {
+      "href": "/brand/remexian-pharma",
+      "text": "Remexian Pharma",
+      "title": "Alle Remexian Pharma Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/remexian-211-bpu-brb",
+        "text": "Remexian 21/1 BPU BRB",
+        "title": "Alternative: Remexian 21/1 BPU BRB"
+      },
+      {
+        "href": "/product/tilray-thc-25-spotlight-porto-purps",
+        "text": "Tilray THC 25 Spotlight Porto Purps",
+        "title": "Alternative: Tilray THC 25 Spotlight Porto Purps"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc5cbd2",
+        "text": "Tilray Cannabisextrakt THC5:CBD20",
+        "title": "Alternative: Tilray Cannabisextrakt THC5:CBD20"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc1cbd1",
+        "text": "Tilray Cannabisextrakt THC10:CBD10",
+        "title": "Alternative: Tilray Cannabisextrakt THC10:CBD10"
+      },
+      {
+        "href": "/product/demecan-bpg-lean-drop",
+        "text": "Demecan BPG Lean Drop",
+        "title": "Alternative: Demecan BPG Lean Drop"
+      },
+      {
+        "href": "/product/demecan-typ-2",
+        "text": "Demecan Typ 2",
+        "title": "Alternative: Demecan Typ 2"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

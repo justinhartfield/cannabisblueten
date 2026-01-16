@@ -1,0 +1,226 @@
+{
+  "product": {
+    "slug": "remexian-241-mcs-cgr",
+    "name": "Remexian 24/1 MCS CGR",
+    "type": "flower",
+    "genetics": "hybrid_indica",
+    "thcPercent": 24,
+    "cbdPercent": 1,
+    "priceMin": 595,
+    "priceMax": 595,
+    "inStock": false,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "remexian-pharma",
+    "name": "Remexian Pharma",
+    "productCount": 340
+  },
+  "strain": {
+    "slug": "cool-grapes",
+    "name": "Cool Grapes",
+    "geneticType": "hybrid",
+    "effects": [
+      "Euphoric",
+      "Happy",
+      "Sleepy"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Pinene",
+      "Myrcene",
+      "Linalool"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Euphoric",
+      "Happy",
+      "Sleepy"
+    ],
+    "tastes": [
+      "Menthol",
+      "Chemical",
+      "Sweet"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Pinene",
+      "Myrcene",
+      "Linalool"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "enua-251-cck-ca",
+      "name": "enua 25/1 CCK CA",
+      "brandName": "enua",
+      "thcPercent": 25.2,
+      "priceMin": 399,
+      "inStock": true
+    },
+    {
+      "slug": "ceres-no-2",
+      "name": "Ceres No. 2",
+      "brandName": "Cantourage",
+      "thcPercent": 25,
+      "priceMin": 590,
+      "inStock": true
+    },
+    {
+      "slug": "green-karat-cg",
+      "name": "Green Karat CG",
+      "brandName": "Cantourage",
+      "thcPercent": 25,
+      "priceMin": 679,
+      "inStock": true
+    },
+    {
+      "slug": "420-evolution-271-ca-icc",
+      "name": "420 EVOLUTION 27/1 CA ICC",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 27,
+      "priceMin": 684,
+      "inStock": true
+    },
+    {
+      "slug": "420-natural-221-gg4",
+      "name": "420 Natural 22/1 GG4",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 22,
+      "priceMin": 723,
+      "inStock": true
+    },
+    {
+      "slug": "avaay-241-did",
+      "name": "AVAAY 24/1 DiD",
+      "brandName": "Avaay",
+      "thcPercent": 24,
+      "priceMin": 949,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Remexian 24/1 MCS CGR - Remexian Pharma | ab 5,95 €",
+      "description": "Remexian 24/1 MCS CGR von Remexian Pharma. THC: 24%, CBD: 1%. Sorte: Cool Grapes. Preis ab 5,95 €. Preise vergleichen.",
+      "canonical": "https://weed.de/product/remexian-241-mcs-cgr",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Remexian 24/1 MCS CGR - Remexian Pharma | ab 5,95 €",
+        "description": "Remexian 24/1 MCS CGR von Remexian Pharma. THC: 24%, CBD: 1%. Sorte: Cool Grapes. Preis ab 5,95 €. Preise vergleichen.",
+        "url": "https://weed.de/product/remexian-241-mcs-cgr",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Remexian Pharma",
+        "href": "https://weed.de/brand/remexian-pharma"
+      },
+      {
+        "name": "Remexian 24/1 MCS CGR",
+        "href": "https://weed.de/product/remexian-241-mcs-cgr"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Remexian 24/1 MCS CGR",
+            "item": "https://weed.de/product/remexian-241-mcs-cgr"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Remexian 24/1 MCS CGR",
+        "brand": {
+          "@type": "Brand",
+          "name": "Remexian Pharma"
+        },
+        "description": "THC: 24%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/cool-grapes",
+      "text": "Cool Grapes",
+      "title": "Cool Grapes Sorte"
+    },
+    "brand": {
+      "href": "/brand/remexian-pharma",
+      "text": "Remexian Pharma",
+      "title": "Alle Remexian Pharma Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/enua-251-cck-ca",
+        "text": "enua 25/1 CCK CA",
+        "title": "Alternative: enua 25/1 CCK CA"
+      },
+      {
+        "href": "/product/ceres-no-2",
+        "text": "Ceres No. 2",
+        "title": "Alternative: Ceres No. 2"
+      },
+      {
+        "href": "/product/green-karat-cg",
+        "text": "Green Karat CG",
+        "title": "Alternative: Green Karat CG"
+      },
+      {
+        "href": "/product/420-evolution-271-ca-icc",
+        "text": "420 EVOLUTION 27/1 CA ICC",
+        "title": "Alternative: 420 EVOLUTION 27/1 CA ICC"
+      },
+      {
+        "href": "/product/420-natural-221-gg4",
+        "text": "420 Natural 22/1 GG4",
+        "title": "Alternative: 420 Natural 22/1 GG4"
+      },
+      {
+        "href": "/product/avaay-241-did",
+        "text": "AVAAY 24/1 DiD",
+        "title": "Alternative: AVAAY 24/1 DiD"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has price data"
+  }
+}

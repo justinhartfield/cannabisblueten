@@ -1,0 +1,235 @@
+{
+  "product": {
+    "slug": "imc-c2-thc2-mids-sp",
+    "name": "IMC C2 THC20 Mids SP",
+    "type": "flower",
+    "genetics": "sativa",
+    "thcPercent": 20,
+    "cbdPercent": 1,
+    "priceMin": 282,
+    "priceMax": 599,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "imc",
+    "name": "IMC",
+    "productCount": 128
+  },
+  "strain": {
+    "slug": "sour-pulse",
+    "name": "Sour Pulse",
+    "geneticType": "hybrid",
+    "effects": [
+      "Activating",
+      "Clear",
+      "Cerebral",
+      "Creative",
+      "Mental ease",
+      "Mood-lifting",
+      "Motivating"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Myrcene",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Activating",
+      "Clear",
+      "Cerebral",
+      "Creative",
+      "Mental ease",
+      "Mood-lifting",
+      "Motivating"
+    ],
+    "tastes": [
+      "Diesel",
+      "Skunk",
+      "Spicy",
+      "Pepper",
+      "Earthy",
+      "Citrus"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Myrcene",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "aurora-typ-1",
+      "name": "Aurora Typ 1",
+      "brandName": "Aurora",
+      "thcPercent": 19,
+      "priceMin": 479,
+      "inStock": true
+    },
+    {
+      "slug": "pedanios-22-1",
+      "name": "Pedanios 22/1",
+      "brandName": "Aurora",
+      "thcPercent": 22,
+      "priceMin": 629,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-sativa-forte-tc",
+      "name": "Cannamedical Sativa forte TC",
+      "brandName": "Cannamedical",
+      "thcPercent": 24,
+      "priceMin": 683,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-sativa-classic-tc",
+      "name": "Cannamedical Sativa classic TC",
+      "brandName": "Cannamedical",
+      "thcPercent": 20,
+      "priceMin": 755,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-sativa-classic-si",
+      "name": "Cannamedical Sativa classic SI",
+      "brandName": "Cannamedical",
+      "thcPercent": 20,
+      "priceMin": 915,
+      "inStock": true
+    },
+    {
+      "slug": "cannabis-flos-bedrocan-f20",
+      "name": "Cannabis Flos Bedrocan F20",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 22,
+      "priceMin": null,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "IMC C2 THC20 Mids SP | ab 2,82 €",
+      "description": "IMC C2 THC20 Mids SP von IMC. THC: 20%, CBD: 1%. Sorte: Sour Pulse. Preis ab 2,82 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/imc-c2-thc2-mids-sp",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "IMC C2 THC20 Mids SP | ab 2,82 €",
+        "description": "IMC C2 THC20 Mids SP von IMC. THC: 20%, CBD: 1%. Sorte: Sour Pulse. Preis ab 2,82 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/imc-c2-thc2-mids-sp",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "IMC",
+        "href": "https://weed.de/brand/imc"
+      },
+      {
+        "name": "IMC C2 THC20 Mids SP",
+        "href": "https://weed.de/product/imc-c2-thc2-mids-sp"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "IMC C2 THC20 Mids SP",
+            "item": "https://weed.de/product/imc-c2-thc2-mids-sp"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "IMC C2 THC20 Mids SP",
+        "brand": {
+          "@type": "Brand",
+          "name": "IMC"
+        },
+        "description": "THC: 20%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/sour-pulse",
+      "text": "Sour Pulse",
+      "title": "Sour Pulse Sorte"
+    },
+    "brand": {
+      "href": "/brand/imc",
+      "text": "IMC",
+      "title": "Alle IMC Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/aurora-typ-1",
+        "text": "Aurora Typ 1",
+        "title": "Alternative: Aurora Typ 1"
+      },
+      {
+        "href": "/product/pedanios-22-1",
+        "text": "Pedanios 22/1",
+        "title": "Alternative: Pedanios 22/1"
+      },
+      {
+        "href": "/product/cannamedical-sativa-forte-tc",
+        "text": "Cannamedical Sativa forte TC",
+        "title": "Alternative: Cannamedical Sativa forte TC"
+      },
+      {
+        "href": "/product/cannamedical-sativa-classic-tc",
+        "text": "Cannamedical Sativa classic TC",
+        "title": "Alternative: Cannamedical Sativa classic TC"
+      },
+      {
+        "href": "/product/cannamedical-sativa-classic-si",
+        "text": "Cannamedical Sativa classic SI",
+        "title": "Alternative: Cannamedical Sativa classic SI"
+      },
+      {
+        "href": "/product/cannabis-flos-bedrocan-f20",
+        "text": "Cannabis Flos Bedrocan F20",
+        "title": "Alternative: Cannabis Flos Bedrocan F20"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

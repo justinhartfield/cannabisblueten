@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "apotheke-am-kornmarkt",
+    "name": "Apotheke am Kornmarkt",
+    "street": "Kornmarkt 11",
+    "zip": "54290",
+    "cityName": "Trier",
+    "state": "Rheinland-Pfalz",
+    "lat": 49.7550981,
+    "lng": 6.639329,
+    "hasDelivery": false,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": null,
+    "phone": "01758201456",
+    "email": "bestellung@apothekekornmarkt-tr.de",
+    "productCount": 64,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/687f6cab806380562afe6b65-h4462g.jpg"
+  },
+  "city": {
+    "slug": "trier",
+    "name": "Trier",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "cannabis-apotheke-rheinland",
+      "name": "Cannabis Apotheke Rheinland",
+      "cityName": "Bad Neuenahr-Ahrweiler",
+      "productCount": 161,
+      "hasDelivery": true
+    },
+    {
+      "slug": "grune-blute-ulmen-apotheke",
+      "name": "Grüne Blüte",
+      "cityName": "Frankenthal (Pfalz)",
+      "productCount": 158,
+      "hasDelivery": true
+    },
+    {
+      "slug": "pharmablute",
+      "name": "PharmaBlüte",
+      "cityName": "Mainz",
+      "productCount": 124,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis4me",
+      "name": "cannabis4me",
+      "cityName": "Bad Neuenahr-Ahrweiler",
+      "productCount": 89,
+      "hasDelivery": true
+    },
+    {
+      "slug": "green-city-cannabis",
+      "name": "Green City Cannabis",
+      "cityName": "Grünstadt",
+      "productCount": 62,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Apotheke am Kornmarkt - Cannabis Apotheke in Trier",
+      "description": "Apotheke am Kornmarkt in Trier. 64 Cannabis Produkte. Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/apotheke-am-kornmarkt",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Apotheke am Kornmarkt - Cannabis Apotheke in Trier",
+        "description": "Apotheke am Kornmarkt in Trier. 64 Cannabis Produkte. Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/apotheke-am-kornmarkt",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/687f6cab806380562afe6b65-h4462g.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Trier",
+        "href": "https://weed.de/cannabis-apotheke/trier"
+      },
+      {
+        "name": "Apotheke am Kornmarkt",
+        "href": "https://weed.de/apotheke/apotheke-am-kornmarkt"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Trier",
+            "item": "https://weed.de/cannabis-apotheke/trier"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Apotheke am Kornmarkt",
+            "item": "https://weed.de/apotheke/apotheke-am-kornmarkt"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Apotheke am Kornmarkt",
+        "url": "https://weed.de/apotheke/apotheke-am-kornmarkt",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Kornmarkt 11",
+          "addressLocality": "Trier",
+          "postalCode": "54290",
+          "addressRegion": "Rheinland-Pfalz",
+          "addressCountry": "DE"
+        },
+        "telephone": "01758201456",
+        "email": "bestellung@apothekekornmarkt-tr.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/trier",
+      "text": "Cannabis Apotheken in Trier",
+      "title": "Alle Apotheken in Trier"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/cannabis-apotheke-rheinland",
+        "text": "Cannabis Apotheke Rheinland",
+        "title": "Cannabis Apotheke Rheinland in Bad Neuenahr-Ahrweiler"
+      },
+      {
+        "href": "/apotheke/grune-blute-ulmen-apotheke",
+        "text": "Grüne Blüte",
+        "title": "Grüne Blüte in Frankenthal (Pfalz)"
+      },
+      {
+        "href": "/apotheke/pharmablute",
+        "text": "PharmaBlüte",
+        "title": "PharmaBlüte in Mainz"
+      },
+      {
+        "href": "/apotheke/cannabis4me",
+        "text": "cannabis4me",
+        "title": "cannabis4me in Bad Neuenahr-Ahrweiler"
+      },
+      {
+        "href": "/apotheke/green-city-cannabis",
+        "text": "Green City Cannabis",
+        "title": "Green City Cannabis in Grünstadt"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

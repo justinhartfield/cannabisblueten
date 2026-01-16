@@ -1,0 +1,245 @@
+{
+  "strain": {
+    "slug": "purple-punch-cookies",
+    "name": "Purple Punch Cookies",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Relaxed",
+      "Creative",
+      "Sleepy",
+      "Clear",
+      "Stress-relief",
+      "Pain-relief",
+      "Mood-lifting"
+    ],
+    "tastes": [
+      "Diesel",
+      "Earthy",
+      "Sweet",
+      "Berry",
+      "Grape",
+      "Creamy",
+      "Tangy",
+      "Fruity",
+      "Pepper"
+    ],
+    "terpenes": [
+      "Pinene",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "Purple Punch Cookies ist eine Hybrid-Sorte, entstanden aus der Kreuzung von Cookies & Cream und Purple Punch. Mit einem THC-Gehalt von typischerweise 21 bis 24 und einem CBD-Wert von 1 liefert sie potente Effekte, die die besten Eigenschaften beider Eltern vereinen. \n\nIhr komplexes Geschmacksprofil ist intensiv fruchtig, geprägt von Beeren und Trauben, die von einer cremigen Vanillenote begleitet werden. Im Hintergrund und besonders im Abgang entfaltet sich eine deutliche Diesel-Note (gassig), die zusammen mit erdigen und würzigen Akzenten einen spannenden Kontrast zur Süße bildet. Das Terpenprofil, das von Pinene, Limonen und Beta-Caryophyllen dominiert wird, unterstreicht das Aroma mit harzigen, zitrusartigen und pfeffrigen Nuancen. \n\nDie Wirkung beginnt mit einer Welle der Euphorie und geistigen Klarheit, die Kreativität fördert, bevor eine tiefe körperliche Entspannung einsetzt. Purple Punch Cookies ist ideal zur Linderung von Stress, Schlafstörungen und chronischen Schmerzen, da sie körperliche Ruhe und Schwere bietet. Zusammengefasst ist Purple Punch Cookies eine Sorte für alle, die ein komplexes, diesel-fruchtiges Aroma mit einem potenten, entspannenden und stimmungsaufhellenden High suchen.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 628,
+      "max": 1050,
+      "formatted": {
+        "min": "6,28 €",
+        "max": "10,50 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "can-hydro-ppc",
+      "name": "Can Hydro PPC",
+      "brandName": "Cantourage",
+      "thcPercent": 26,
+      "priceMin": 1050,
+      "inStock": false
+    },
+    {
+      "slug": "can-hydro-ppc-211",
+      "name": "Can Hydro PPC 21/1",
+      "brandName": "Cantourage",
+      "thcPercent": 21,
+      "priceMin": 628,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "lemorange",
+      "name": "Lemorange",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "alien-mints",
+      "name": "Alien Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "lemonatti",
+      "name": "Lemonatti",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "purple-amnesia",
+      "name": "Purple Amnesia",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "vanilla-ice",
+      "name": "Vanilla Ice",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Purple Punch Cookies (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Purple Punch Cookies: Relaxed, Creative, Sleepy. 2 Produkte verfügbar. ab 6,28 €.",
+      "canonical": "https://weed.de/strain/purple-punch-cookies",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Purple Punch Cookies (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Purple Punch Cookies: Relaxed, Creative, Sleepy. 2 Produkte verfügbar. ab 6,28 €.",
+        "url": "https://weed.de/strain/purple-punch-cookies",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Purple Punch Cookies",
+        "href": "https://weed.de/strain/purple-punch-cookies"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Purple Punch Cookies",
+            "item": "https://weed.de/strain/purple-punch-cookies"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Purple Punch Cookies Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/can-hydro-ppc",
+            "name": "Can Hydro PPC"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/can-hydro-ppc-211",
+            "name": "Can Hydro PPC 21/1"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/can-hydro-ppc",
+        "text": "Can Hydro PPC",
+        "title": "Can Hydro PPC von Cantourage"
+      },
+      {
+        "href": "/product/can-hydro-ppc-211",
+        "text": "Can Hydro PPC 21/1",
+        "title": "Can Hydro PPC 21/1 von Cantourage"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/lemorange",
+        "text": "Lemorange",
+        "title": "Lemorange - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/alien-mints",
+        "text": "Alien Mints",
+        "title": "Alien Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/lemonatti",
+        "text": "Lemonatti",
+        "title": "Lemonatti - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/purple-amnesia",
+        "text": "Purple Amnesia",
+        "title": "Purple Amnesia - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/vanilla-ice",
+        "text": "Vanilla Ice",
+        "title": "Vanilla Ice - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/pinene",
+        "text": "Pinene",
+        "title": "Pinene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

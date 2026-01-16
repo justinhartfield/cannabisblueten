@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "apotheke-am-collegienhof",
+    "name": "Elbgrün",
+    "street": "Collegienstraße 74",
+    "zip": "06886",
+    "cityName": "Lutherstadt Wittenberg",
+    "state": "Sachsen-Anhalt",
+    "lat": 51.8652301,
+    "lng": 12.6475697,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "www.elbgruen.shop",
+    "phone": "0349149690",
+    "email": "info@elbgruen.shop",
+    "productCount": 43,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/6921e7f6eb2d8bf6a5bb27ca-f0cadb.jpg"
+  },
+  "city": {
+    "slug": "lutherstadt-wittenberg",
+    "name": "Lutherstadt Wittenberg",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "cannaroko-oder-robert-koch-apotheke-wolfen",
+      "name": "CannaRoKo | Robert-Koch-Apotheke Wolfen",
+      "cityName": "Bitterfeld-Wolfen",
+      "productCount": 80,
+      "hasDelivery": true
+    },
+    {
+      "slug": "hirsch-apotheke-1",
+      "name": "Cannasana",
+      "cityName": "Hohe Börde",
+      "productCount": 66,
+      "hasDelivery": true
+    },
+    {
+      "slug": "easyapotheke-magdeburg",
+      "name": "easyApotheke Magdeburg",
+      "cityName": "Magdeburg",
+      "productCount": 32,
+      "hasDelivery": true
+    },
+    {
+      "slug": "rosen-apotheke-eisleben",
+      "name": "Rosen Apotheke Eisleben",
+      "cityName": "Lutherstadt Eisleben",
+      "productCount": 25,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannalles",
+      "name": "Cannalles im Salzlandkreis",
+      "cityName": "Hecklingen",
+      "productCount": 22,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Elbgrün - Cannabis Apotheke in Lutherstadt Wittenberg",
+      "description": "Elbgrün in Lutherstadt Wittenberg. 43 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/apotheke-am-collegienhof",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Elbgrün - Cannabis Apotheke in Lutherstadt Wittenberg",
+        "description": "Elbgrün in Lutherstadt Wittenberg. 43 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/apotheke-am-collegienhof",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/6921e7f6eb2d8bf6a5bb27ca-f0cadb.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Lutherstadt Wittenberg",
+        "href": "https://weed.de/cannabis-apotheke/lutherstadt-wittenberg"
+      },
+      {
+        "name": "Elbgrün",
+        "href": "https://weed.de/apotheke/apotheke-am-collegienhof"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Lutherstadt Wittenberg",
+            "item": "https://weed.de/cannabis-apotheke/lutherstadt-wittenberg"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Elbgrün",
+            "item": "https://weed.de/apotheke/apotheke-am-collegienhof"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Elbgrün",
+        "url": "https://weed.de/apotheke/apotheke-am-collegienhof",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Collegienstraße 74",
+          "addressLocality": "Lutherstadt Wittenberg",
+          "postalCode": "06886",
+          "addressRegion": "Sachsen-Anhalt",
+          "addressCountry": "DE"
+        },
+        "telephone": "0349149690",
+        "email": "info@elbgruen.shop"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/lutherstadt-wittenberg",
+      "text": "Cannabis Apotheken in Lutherstadt Wittenberg",
+      "title": "Alle Apotheken in Lutherstadt Wittenberg"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/cannaroko-oder-robert-koch-apotheke-wolfen",
+        "text": "CannaRoKo | Robert-Koch-Apotheke Wolfen",
+        "title": "CannaRoKo | Robert-Koch-Apotheke Wolfen in Bitterfeld-Wolfen"
+      },
+      {
+        "href": "/apotheke/hirsch-apotheke-1",
+        "text": "Cannasana",
+        "title": "Cannasana in Hohe Börde"
+      },
+      {
+        "href": "/apotheke/easyapotheke-magdeburg",
+        "text": "easyApotheke Magdeburg",
+        "title": "easyApotheke Magdeburg in Magdeburg"
+      },
+      {
+        "href": "/apotheke/rosen-apotheke-eisleben",
+        "text": "Rosen Apotheke Eisleben",
+        "title": "Rosen Apotheke Eisleben in Lutherstadt Eisleben"
+      },
+      {
+        "href": "/apotheke/cannalles",
+        "text": "Cannalles im Salzlandkreis",
+        "title": "Cannalles im Salzlandkreis in Hecklingen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

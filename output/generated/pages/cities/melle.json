@@ -1,0 +1,165 @@
+{
+  "city": {
+    "slug": "melle",
+    "name": "Melle",
+    "state": "Niedersachsen"
+  },
+  "stats": {
+    "pharmacyCount": 1,
+    "totalProducts": 132,
+    "hasDelivery": true
+  },
+  "pharmacies": [
+    {
+      "slug": "alle-farben-apotheke",
+      "name": "Alle Farben Apotheke",
+      "street": "Plettenberger Straße 26",
+      "zip": "49324",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 132,
+      "rating": 3.5,
+      "ratingCount": 6
+    }
+  ],
+  "nearbyCities": [
+    {
+      "slug": "braunschweig",
+      "name": "Braunschweig",
+      "pharmacyCount": 2
+    },
+    {
+      "slug": "meppen",
+      "name": "Meppen",
+      "pharmacyCount": 1
+    },
+    {
+      "slug": "salzgitter",
+      "name": "Salzgitter",
+      "pharmacyCount": 1
+    },
+    {
+      "slug": "cloppenburg",
+      "name": "Cloppenburg",
+      "pharmacyCount": 1
+    },
+    {
+      "slug": "garbsen",
+      "name": "Garbsen",
+      "pharmacyCount": 1
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannabis Apotheke Melle - 1 Apotheken",
+      "description": "Cannabis Apotheken in Melle. 1 Apotheken mit 132 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+      "canonical": "https://weed.de/cannabis-apotheke/melle",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannabis Apotheke Melle - 1 Apotheken",
+        "description": "Cannabis Apotheken in Melle. 1 Apotheken mit 132 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+        "url": "https://weed.de/cannabis-apotheke/melle",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Melle",
+        "href": "https://weed.de/cannabis-apotheke/melle"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Melle",
+            "item": "https://weed.de/cannabis-apotheke/melle"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Cannabis Apotheken in Melle",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/apotheke/alle-farben-apotheke",
+            "name": "Alle Farben Apotheke"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "pharmacies": [
+      {
+        "href": "/apotheke/alle-farben-apotheke",
+        "text": "Alle Farben Apotheke",
+        "title": "Alle Farben Apotheke in Melle"
+      }
+    ],
+    "nearbyCities": [
+      {
+        "href": "/cannabis-apotheke/braunschweig",
+        "text": "Cannabis Apotheke Braunschweig",
+        "title": "2 Apotheken in Braunschweig"
+      },
+      {
+        "href": "/cannabis-apotheke/meppen",
+        "text": "Cannabis Apotheke Meppen",
+        "title": "1 Apotheken in Meppen"
+      },
+      {
+        "href": "/cannabis-apotheke/salzgitter",
+        "text": "Cannabis Apotheke Salzgitter",
+        "title": "1 Apotheken in Salzgitter"
+      },
+      {
+        "href": "/cannabis-apotheke/cloppenburg",
+        "text": "Cannabis Apotheke Cloppenburg",
+        "title": "1 Apotheken in Cloppenburg"
+      },
+      {
+        "href": "/cannabis-apotheke/garbsen",
+        "text": "Cannabis Apotheke Garbsen",
+        "title": "1 Apotheken in Garbsen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Single pharmacy with good product coverage"
+  }
+}

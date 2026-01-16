@@ -1,0 +1,235 @@
+{
+  "strain": {
+    "slug": "sky-pie",
+    "name": "Sky Pie",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [
+      "Calming",
+      "Relaxed",
+      "Sleepy"
+    ],
+    "tastes": [
+      "Citrus",
+      "Spicy-Herbal",
+      "Lavender"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Linalool",
+      "Beta-Caryophyllene"
+    ],
+    "description": " Sky Pie ist eine THC-reiche, indica-dominante Sorte. Sie erbt ihre Potenz von ihren bekannten Eltern \"Wedding Cake\" und \"Gelato #33\". Zu ihren dominanten Terpenen zählen Limonen, Linalool und Beta-Caryophyllen.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 899,
+      "max": 1199,
+      "formatted": {
+        "min": "8,99 €",
+        "max": "11,99 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "mc-strong-drop",
+      "name": "MC Strong Drop",
+      "brandName": "Demecan",
+      "thcPercent": 24.9,
+      "priceMin": 899,
+      "inStock": false
+    },
+    {
+      "slug": "demecan-craft-sky-2501",
+      "name": "Demecan Craft Sky 25:01",
+      "brandName": "Demecan",
+      "thcPercent": 25,
+      "priceMin": 1199,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "creamy-kees-no.-5",
+      "name": "Creamy Kees No. 5",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "tigerz-eye",
+      "name": "Tigerz Eye",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "dawg-bud-fusion",
+      "name": "Dawg Bud Fusion",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "pink-slurricane",
+      "name": "Pink Slurricane",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "black-kyber-crystal",
+      "name": "Black Kyber Crystal",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Sky Pie (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Sky Pie: Calming, Relaxed, Sleepy. 2 Produkte verfügbar. ab 8,99 €.",
+      "canonical": "https://weed.de/strain/sky-pie",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Sky Pie (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Sky Pie: Calming, Relaxed, Sleepy. 2 Produkte verfügbar. ab 8,99 €.",
+        "url": "https://weed.de/strain/sky-pie",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Sky Pie",
+        "href": "https://weed.de/strain/sky-pie"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Sky Pie",
+            "item": "https://weed.de/strain/sky-pie"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Sky Pie Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/mc-strong-drop",
+            "name": "MC Strong Drop"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/demecan-craft-sky-2501",
+            "name": "Demecan Craft Sky 25:01"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/mc-strong-drop",
+        "text": "MC Strong Drop",
+        "title": "MC Strong Drop von Demecan"
+      },
+      {
+        "href": "/product/demecan-craft-sky-2501",
+        "text": "Demecan Craft Sky 25:01",
+        "title": "Demecan Craft Sky 25:01 von Demecan"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/creamy-kees-no.-5",
+        "text": "Creamy Kees No. 5",
+        "title": "Creamy Kees No. 5 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/tigerz-eye",
+        "text": "Tigerz Eye",
+        "title": "Tigerz Eye - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/dawg-bud-fusion",
+        "text": "Dawg Bud Fusion",
+        "title": "Dawg Bud Fusion - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/pink-slurricane",
+        "text": "Pink Slurricane",
+        "title": "Pink Slurricane - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/black-kyber-crystal",
+        "text": "Black Kyber Crystal",
+        "title": "Black Kyber Crystal - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

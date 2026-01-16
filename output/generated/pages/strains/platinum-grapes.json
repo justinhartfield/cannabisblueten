@@ -1,0 +1,231 @@
+{
+  "strain": {
+    "slug": "platinum-grapes",
+    "name": "Platinum Grapes",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Euphoric",
+      "Balanced",
+      "Relaxed",
+      "Focused",
+      "Stress-relief",
+      "Pain-relief",
+      "Sleepy",
+      "Creative"
+    ],
+    "tastes": [
+      "Grape",
+      "Sweet",
+      "Fruity",
+      "Earthy",
+      "Kush",
+      "Pepper"
+    ],
+    "terpenes": [
+      "Beta-Caryophyllene",
+      "Beta-Myrcene",
+      "Farnesene",
+      "Limonene"
+    ],
+    "description": "Platinum Grapes ist eine Hybrid-Sorte, entstanden aus der Kreuzung der potenten Genetiken Platinum Cookies und Grape Ape. Mit einem hohen THC-Gehalt, der typischerweise zwischen 20 % und 25 % liegt, und einem CBD-Wert von unter 1 % liefert sie potente Effekte, die Körper und Geist gleichermaßen entspannen und stimulieren.\n\nIhr komplexes Geschmacksprofil ist einzigartig und unverwechselbar, geprägt von süßen und fruchtigen Noten von Trauben, die harmonisch mit einem erdigen Kush-Aroma verschmelzen. Das Terpenprofil, das von Limonen und Beta-Caryophyllen dominiert wird, enthält zusätzlich auch Farnesen und Beta-Myrcen, was das Aroma mit stimmungsaufhellenden Zitrusnoten, pfeffriger Würze und tief entspannenden, erdigen Nuancen unterstreicht.\n\nDie Wirkung ist bekannt für ihre ausgewogene Mischung aus Entspannung und Euphorie, die eine tiefe körperliche Ruhe bei gleichzeitig klarem und fokussiertem Geist vermittelt. Platinum Grapes ist ideal, um Schmerzen, Stress und Schlaflosigkeit zu lindern, eignet sich aber dank der zerebralen Stimulation auch für kreative Tätigkeiten am Tage. Zusammengefasst ist Platinum Grapes eine Sorte für alle, die ein intensives, süßes Trauben-Kush-Aroma mit einer vielseitigen und langanhaltenden Wirkung suchen.",
+    "imageUrl": "/strains/Platinum_Grapes-3792bg.jpeg"
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 499,
+      "max": 1020,
+      "formatted": {
+        "min": "4,99 €",
+        "max": "10,20 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "cannamedical-cm-241-pg",
+      "name": "Cannamedical CM 24/1 PG",
+      "brandName": "Cannamedical",
+      "thcPercent": 24,
+      "priceMin": 499,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "think-fast",
+      "name": "Think Fast",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "gelly-popper",
+      "name": "Gelly Popper",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "lemon-berry-og",
+      "name": "Lemon Berry OG",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "mellowz",
+      "name": "Mellowz",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "munyunz",
+      "name": "Munyunz",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Platinum Grapes (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Platinum Grapes: Euphoric, Balanced, Relaxed. 1 Produkte verfügbar. ab 4,99 €.",
+      "canonical": "https://weed.de/strain/platinum-grapes",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Platinum Grapes (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Platinum Grapes: Euphoric, Balanced, Relaxed. 1 Produkte verfügbar. ab 4,99 €.",
+        "url": "https://weed.de/strain/platinum-grapes",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "/strains/Platinum_Grapes-3792bg.jpeg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Platinum Grapes",
+        "href": "https://weed.de/strain/platinum-grapes"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Platinum Grapes",
+            "item": "https://weed.de/strain/platinum-grapes"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Platinum Grapes Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/cannamedical-cm-241-pg",
+            "name": "Cannamedical CM 24/1 PG"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/cannamedical-cm-241-pg",
+        "text": "Cannamedical CM 24/1 PG",
+        "title": "Cannamedical CM 24/1 PG von Cannamedical"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/think-fast",
+        "text": "Think Fast",
+        "title": "Think Fast - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/gelly-popper",
+        "text": "Gelly Popper",
+        "title": "Gelly Popper - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/lemon-berry-og",
+        "text": "Lemon Berry OG",
+        "title": "Lemon Berry OG - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/mellowz",
+        "text": "Mellowz",
+        "title": "Mellowz - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/munyunz",
+        "text": "Munyunz",
+        "title": "Munyunz - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/beta-myrcene",
+        "text": "Beta-Myrcene",
+        "title": "Beta-Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/farnesene",
+        "text": "Farnesene",
+        "title": "Farnesene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

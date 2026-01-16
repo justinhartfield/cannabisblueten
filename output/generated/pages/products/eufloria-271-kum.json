@@ -1,0 +1,228 @@
+{
+  "product": {
+    "slug": "eufloria-271-kum",
+    "name": "Eufloria 27/1 KUM",
+    "type": "flower",
+    "genetics": "hybrid_sativa",
+    "thcPercent": 27,
+    "cbdPercent": 1,
+    "priceMin": 357,
+    "priceMax": 357,
+    "inStock": false,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "remexian-pharma",
+    "name": "Remexian Pharma",
+    "productCount": 340
+  },
+  "strain": {
+    "slug": "kush-mint",
+    "name": "Kush Mints",
+    "geneticType": "hybrid",
+    "effects": [
+      "Relaxed",
+      "Euphoric",
+      "Aroused"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Myrcene",
+      "Humulene",
+      "Limonene",
+      "Fenchol"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Relaxed",
+      "Euphoric",
+      "Aroused"
+    ],
+    "tastes": [
+      "Mint",
+      "Pine",
+      "Spicy-Herbal"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Myrcene",
+      "Humulene",
+      "Limonene",
+      "Fenchol"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "amp-classic-251",
+      "name": "AMP Classic 25/1",
+      "brandName": "AMP",
+      "thcPercent": 25,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "canopy-kmi-28",
+      "name": "Canopy KMI 28",
+      "brandName": "Canopy Growth",
+      "thcPercent": 26.2,
+      "priceMin": 429,
+      "inStock": true
+    },
+    {
+      "slug": "nice-311-km",
+      "name": "NICE 31/1 KM",
+      "brandName": "Cansativa",
+      "thcPercent": 31,
+      "priceMin": 489,
+      "inStock": true
+    },
+    {
+      "slug": "thc-akut-fb-25-kush-mints",
+      "name": "THC AKUT FB 25 KM",
+      "brandName": "Bathera",
+      "thcPercent": 25,
+      "priceMin": 497,
+      "inStock": true
+    },
+    {
+      "slug": "weeco-231",
+      "name": "Weeco 23/1",
+      "brandName": "Weeco",
+      "thcPercent": 23,
+      "priceMin": 599,
+      "inStock": true
+    },
+    {
+      "slug": "420-evolution-271-ca-str",
+      "name": "420 Evolution 27/1 CA STR",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 27,
+      "priceMin": 645,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Eufloria 27/1 KUM - Remexian Pharma | ab 3,57 €",
+      "description": "Eufloria 27/1 KUM von Remexian Pharma. THC: 27%, CBD: 1%. Sorte: Kush Mints. Preis ab 3,57 €. Preise vergleichen.",
+      "canonical": "https://weed.de/product/eufloria-271-kum",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Eufloria 27/1 KUM - Remexian Pharma | ab 3,57 €",
+        "description": "Eufloria 27/1 KUM von Remexian Pharma. THC: 27%, CBD: 1%. Sorte: Kush Mints. Preis ab 3,57 €. Preise vergleichen.",
+        "url": "https://weed.de/product/eufloria-271-kum",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Remexian Pharma",
+        "href": "https://weed.de/brand/remexian-pharma"
+      },
+      {
+        "name": "Eufloria 27/1 KUM",
+        "href": "https://weed.de/product/eufloria-271-kum"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Eufloria 27/1 KUM",
+            "item": "https://weed.de/product/eufloria-271-kum"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Eufloria 27/1 KUM",
+        "brand": {
+          "@type": "Brand",
+          "name": "Remexian Pharma"
+        },
+        "description": "THC: 27%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/kush-mint",
+      "text": "Kush Mints",
+      "title": "Kush Mints Sorte"
+    },
+    "brand": {
+      "href": "/brand/remexian-pharma",
+      "text": "Remexian Pharma",
+      "title": "Alle Remexian Pharma Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/amp-classic-251",
+        "text": "AMP Classic 25/1",
+        "title": "Alternative: AMP Classic 25/1"
+      },
+      {
+        "href": "/product/canopy-kmi-28",
+        "text": "Canopy KMI 28",
+        "title": "Alternative: Canopy KMI 28"
+      },
+      {
+        "href": "/product/nice-311-km",
+        "text": "NICE 31/1 KM",
+        "title": "Alternative: NICE 31/1 KM"
+      },
+      {
+        "href": "/product/thc-akut-fb-25-kush-mints",
+        "text": "THC AKUT FB 25 KM",
+        "title": "Alternative: THC AKUT FB 25 KM"
+      },
+      {
+        "href": "/product/weeco-231",
+        "text": "Weeco 23/1",
+        "title": "Alternative: Weeco 23/1"
+      },
+      {
+        "href": "/product/420-evolution-271-ca-str",
+        "text": "420 Evolution 27/1 CA STR",
+        "title": "Alternative: 420 Evolution 27/1 CA STR"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has price data"
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "brand": {
+    "slug": "ilios-sant",
+    "name": "Ilios Santé",
+    "productCount": 9
+  },
+  "products": [
+    {
+      "slug": "breezy-organics-ggl-201",
+      "name": "Breezy Organics GGL 20/1",
+      "type": "flower",
+      "thcPercent": 20,
+      "priceMin": 495,
+      "inStock": true,
+      "strainName": "Green Gelato"
+    },
+    {
+      "slug": "breezy-organics-cgl-221",
+      "name": "Breezy Organics CGL 22/1",
+      "type": "flower",
+      "thcPercent": 22,
+      "priceMin": 899,
+      "inStock": true,
+      "strainName": "Lime Haze"
+    },
+    {
+      "slug": "breezy-organics-ggl-251",
+      "name": "Breezy Organics GGL 25/1",
+      "type": "flower",
+      "thcPercent": 25,
+      "priceMin": 642,
+      "inStock": true,
+      "strainName": "Green Gelato"
+    },
+    {
+      "slug": "breezy-organics-rb-221",
+      "name": "Breezy Organics RB 22/1",
+      "type": "flower",
+      "thcPercent": 21,
+      "priceMin": 565,
+      "inStock": true,
+      "strainName": "Rainbow Belts"
+    },
+    {
+      "slug": "breezy-malaga-green-251-n",
+      "name": "Breezy Malaga Green 25/1 N",
+      "type": "flower",
+      "thcPercent": 25,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Lemon Skunk"
+    },
+    {
+      "slug": "breezy-organics-cgl-251",
+      "name": "Breezy Organics CGL 25/1",
+      "type": "flower",
+      "thcPercent": 25,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Lime Haze"
+    },
+    {
+      "slug": "breezy-organics-ggl-221",
+      "name": "Breezy Organics GGL 22/1",
+      "type": "flower",
+      "thcPercent": 22,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Green Gelato"
+    },
+    {
+      "slug": "breezy-organics-ps-231",
+      "name": "Breezy Organics PS 23/1",
+      "type": "flower",
+      "thcPercent": 22,
+      "priceMin": 539,
+      "inStock": false,
+      "strainName": "Pink Sherbet"
+    },
+    {
+      "slug": "breezy-organics-bb-281",
+      "name": "Breezy Organics BB 28/1",
+      "type": "flower",
+      "thcPercent": 28,
+      "priceMin": 735,
+      "inStock": false,
+      "strainName": "Bling Blaow"
+    }
+  ],
+  "stats": {
+    "productCount": 9,
+    "inStockCount": 4,
+    "avgThc": 23.3,
+    "priceRange": {
+      "min": 495,
+      "max": 899,
+      "formatted": {
+        "min": "4,95 €",
+        "max": "8,99 €"
+      }
+    }
+  },
+  "seo": {
+    "meta": {
+      "title": "Ilios Santé Cannabis Produkte - 9 Produkte",
+      "description": "Ilios Santé: 9 Cannabis Produkte. 4 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+      "canonical": "https://weed.de/brand/ilios-sant",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Ilios Santé Cannabis Produkte - 9 Produkte",
+        "description": "Ilios Santé: 9 Cannabis Produkte. 4 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+        "url": "https://weed.de/brand/ilios-sant",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Hersteller",
+        "href": "https://weed.de/brands"
+      },
+      {
+        "name": "Ilios Santé",
+        "href": "https://weed.de/brand/ilios-sant"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Hersteller",
+            "item": "https://weed.de/brands"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Ilios Santé",
+            "item": "https://weed.de/brand/ilios-sant"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Ilios Santé Produkte",
+        "numberOfItems": 9,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/breezy-organics-ggl-201",
+            "name": "Breezy Organics GGL 20/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/breezy-organics-cgl-221",
+            "name": "Breezy Organics CGL 22/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/breezy-organics-ggl-251",
+            "name": "Breezy Organics GGL 25/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/product/breezy-organics-rb-221",
+            "name": "Breezy Organics RB 22/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "https://weed.de/product/breezy-malaga-green-251-n",
+            "name": "Breezy Malaga Green 25/1 N"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "url": "https://weed.de/product/breezy-organics-cgl-251",
+            "name": "Breezy Organics CGL 25/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "url": "https://weed.de/product/breezy-organics-ggl-221",
+            "name": "Breezy Organics GGL 22/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "url": "https://weed.de/product/breezy-organics-ps-231",
+            "name": "Breezy Organics PS 23/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "url": "https://weed.de/product/breezy-organics-bb-281",
+            "name": "Breezy Organics BB 28/1"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/breezy-organics-ggl-201",
+        "text": "Breezy Organics GGL 20/1",
+        "title": "Breezy Organics GGL 20/1"
+      },
+      {
+        "href": "/product/breezy-organics-cgl-221",
+        "text": "Breezy Organics CGL 22/1",
+        "title": "Breezy Organics CGL 22/1"
+      },
+      {
+        "href": "/product/breezy-organics-ggl-251",
+        "text": "Breezy Organics GGL 25/1",
+        "title": "Breezy Organics GGL 25/1"
+      },
+      {
+        "href": "/product/breezy-organics-rb-221",
+        "text": "Breezy Organics RB 22/1",
+        "title": "Breezy Organics RB 22/1"
+      },
+      {
+        "href": "/product/breezy-malaga-green-251-n",
+        "text": "Breezy Malaga Green 25/1 N",
+        "title": "Breezy Malaga Green 25/1 N"
+      },
+      {
+        "href": "/product/breezy-organics-cgl-251",
+        "text": "Breezy Organics CGL 25/1",
+        "title": "Breezy Organics CGL 25/1"
+      },
+      {
+        "href": "/product/breezy-organics-ggl-221",
+        "text": "Breezy Organics GGL 22/1",
+        "title": "Breezy Organics GGL 22/1"
+      },
+      {
+        "href": "/product/breezy-organics-ps-231",
+        "text": "Breezy Organics PS 23/1",
+        "title": "Breezy Organics PS 23/1"
+      },
+      {
+        "href": "/product/breezy-organics-bb-281",
+        "text": "Breezy Organics BB 28/1",
+        "title": "Breezy Organics BB 28/1"
+      }
+    ]
+  }
+}

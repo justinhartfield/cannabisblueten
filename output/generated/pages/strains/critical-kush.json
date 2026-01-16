@@ -1,0 +1,278 @@
+{
+  "strain": {
+    "slug": "critical-kush",
+    "name": "Critical Kush",
+    "geneticType": "indica",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 2
+    },
+    "effects": [
+      "Relaxed",
+      "Calming",
+      "Hungry",
+      "Sleepy",
+      "Happy",
+      "Energetic"
+    ],
+    "tastes": [
+      "Woody",
+      "Lemon",
+      "Citrus",
+      "Spicy-Herbal",
+      "Earthy"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Caryophyllene",
+      "Limonene"
+    ],
+    "description": "Critical Kush, eine indica-dominante Sorte, ist eine Vereinigung von Critical Mass und OG Kush und wurde von Barney's Farm kultiviert, einer angesehenen Samenbank mit Sitz in Amsterdam. Aromatische Noten von Erdigkeit und Würze sorgen laut Erfahrungsberichten für eine Beruhigung, die sowohl den Geist als auch den Körper entspannt. Diese Sorte kombiniert einen recht hohen THC-Gehalt, der zwischen 16% und einem 25% variiert, während der CBD-Gehalt in der Regel unter 1% beträgt. Sie eignet sich aufgrund ihres Indica-Hintergrundes hervorragend als Nachtmedikation und könnte womöglich zur Bekämpfung von Schmerzen, Stress, Schlaflosigkeit und Muskelkrämpfen eingesetzt werden. Das Geschmacksprofil von Critical Kush wird oft als holzig und würzig, mit Noten von Kiefer beschrieben und ist hauptsächlich auf die Terpene Myrcen und Limonen zurückzuführen. Das Aussehen der Blüte ist durch die orangen, lockigen Blütenstände definiert, mit denen sie überzogen ist. Diese sorgen für einen allgemein fluffigen und eher aufgehellten Look, der zuletzt durch einige Trichomköpfe mitbestimmt wird.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 4,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 595,
+      "max": 999,
+      "formatted": {
+        "min": "5,95 €",
+        "max": "9,99 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "avaay-231-ck",
+      "name": "Avaay 23/1 CK",
+      "brandName": "Vayamed",
+      "thcPercent": 23,
+      "priceMin": 595,
+      "inStock": true
+    },
+    {
+      "slug": "avaay-251-ck-can-indic-do",
+      "name": "AVAAY 25/1 CK CAN INDIC DO",
+      "brandName": "Vayamed",
+      "thcPercent": 25,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "avaay-201-ck",
+      "name": "Avaay 20/1 CK",
+      "brandName": "Avaay",
+      "thcPercent": 19.9,
+      "priceMin": 749,
+      "inStock": false
+    },
+    {
+      "slug": "avaay-281-ck",
+      "name": "avaay 28/1 CK",
+      "brandName": "Avaay",
+      "thcPercent": 28,
+      "priceMin": 639,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "abusive-og",
+      "name": "Abusive OG",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "kosher-kush",
+      "name": "Kosher Kush",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "emc-1",
+      "name": "Riga (EMC-1 C14)",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "purple-punch",
+      "name": "Purple Punch",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "larry-og",
+      "name": "Larry OG",
+      "geneticType": "indica",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Critical Kush (Indica) - Wirkung, THC & Verfügbarkeit",
+      "description": "Critical Kush: Relaxed, Calming, Hungry. 4 Produkte verfügbar. ab 5,95 €.",
+      "canonical": "https://weed.de/strain/critical-kush",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Critical Kush (Indica) - Wirkung, THC & Verfügbarkeit",
+        "description": "Critical Kush: Relaxed, Calming, Hungry. 4 Produkte verfügbar. ab 5,95 €.",
+        "url": "https://weed.de/strain/critical-kush",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Critical Kush",
+        "href": "https://weed.de/strain/critical-kush"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Critical Kush",
+            "item": "https://weed.de/strain/critical-kush"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Critical Kush Produkte",
+        "numberOfItems": 4,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/avaay-231-ck",
+            "name": "Avaay 23/1 CK"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/avaay-251-ck-can-indic-do",
+            "name": "AVAAY 25/1 CK CAN INDIC DO"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/avaay-201-ck",
+            "name": "Avaay 20/1 CK"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/product/avaay-281-ck",
+            "name": "avaay 28/1 CK"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/avaay-231-ck",
+        "text": "Avaay 23/1 CK",
+        "title": "Avaay 23/1 CK von Vayamed"
+      },
+      {
+        "href": "/product/avaay-251-ck-can-indic-do",
+        "text": "AVAAY 25/1 CK CAN INDIC DO",
+        "title": "AVAAY 25/1 CK CAN INDIC DO von Vayamed"
+      },
+      {
+        "href": "/product/avaay-201-ck",
+        "text": "Avaay 20/1 CK",
+        "title": "Avaay 20/1 CK von Avaay"
+      },
+      {
+        "href": "/product/avaay-281-ck",
+        "text": "avaay 28/1 CK",
+        "title": "avaay 28/1 CK von Avaay"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/abusive-og",
+        "text": "Abusive OG",
+        "title": "Abusive OG - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/kosher-kush",
+        "text": "Kosher Kush",
+        "title": "Kosher Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/emc-1",
+        "text": "Riga (EMC-1 C14)",
+        "title": "Riga (EMC-1 C14) - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/purple-punch",
+        "text": "Purple Punch",
+        "title": "Purple Punch - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/larry-og",
+        "text": "Larry OG",
+        "title": "Larry OG - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

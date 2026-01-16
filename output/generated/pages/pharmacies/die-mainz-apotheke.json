@@ -1,0 +1,187 @@
+{
+  "pharmacy": {
+    "slug": "die-mainz-apotheke",
+    "name": "Die Mainz Apotheke",
+    "street": "Haifa-Allee 24",
+    "zip": "55128",
+    "cityName": "Mainz",
+    "state": "Rheinland-Pfalz",
+    "lat": 49.96780589999999,
+    "lng": 8.2318582,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": false,
+    "website": null,
+    "phone": "061311407660",
+    "email": "cannabis@diemainzapotheke.de",
+    "productCount": 0,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": null
+  },
+  "city": {
+    "slug": "mainz",
+    "name": "Mainz",
+    "pharmacyCount": 3
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "pharmablute",
+      "name": "PharmaBlüte",
+      "cityName": "Mainz",
+      "productCount": 124,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-an-der-romerquelle",
+      "name": "Cannamed Quelle [Apotheke an der Romerquelle]",
+      "cityName": "Mainz",
+      "productCount": 50,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis-apotheke-rheinland",
+      "name": "Cannabis Apotheke Rheinland",
+      "cityName": "Bad Neuenahr-Ahrweiler",
+      "productCount": 161,
+      "hasDelivery": true
+    },
+    {
+      "slug": "grune-blute-ulmen-apotheke",
+      "name": "Grüne Blüte",
+      "cityName": "Frankenthal (Pfalz)",
+      "productCount": 158,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis4me",
+      "name": "cannabis4me",
+      "cityName": "Bad Neuenahr-Ahrweiler",
+      "productCount": 89,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Die Mainz Apotheke - Cannabis Apotheke in Mainz",
+      "description": "Die Mainz Apotheke in Mainz. Lieferung & Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/die-mainz-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Die Mainz Apotheke - Cannabis Apotheke in Mainz",
+        "description": "Die Mainz Apotheke in Mainz. Lieferung & Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/die-mainz-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Mainz",
+        "href": "https://weed.de/cannabis-apotheke/mainz"
+      },
+      {
+        "name": "Die Mainz Apotheke",
+        "href": "https://weed.de/apotheke/die-mainz-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Mainz",
+            "item": "https://weed.de/cannabis-apotheke/mainz"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Die Mainz Apotheke",
+            "item": "https://weed.de/apotheke/die-mainz-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Die Mainz Apotheke",
+        "url": "https://weed.de/apotheke/die-mainz-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Haifa-Allee 24",
+          "addressLocality": "Mainz",
+          "postalCode": "55128",
+          "addressRegion": "Rheinland-Pfalz",
+          "addressCountry": "DE"
+        },
+        "telephone": "061311407660",
+        "email": "cannabis@diemainzapotheke.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/mainz",
+      "text": "Cannabis Apotheken in Mainz",
+      "title": "Alle Apotheken in Mainz"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/pharmablute",
+        "text": "PharmaBlüte",
+        "title": "PharmaBlüte in Mainz"
+      },
+      {
+        "href": "/apotheke/apotheke-an-der-romerquelle",
+        "text": "Cannamed Quelle [Apotheke an der Romerquelle]",
+        "title": "Cannamed Quelle [Apotheke an der Romerquelle] in Mainz"
+      },
+      {
+        "href": "/apotheke/cannabis-apotheke-rheinland",
+        "text": "Cannabis Apotheke Rheinland",
+        "title": "Cannabis Apotheke Rheinland in Bad Neuenahr-Ahrweiler"
+      },
+      {
+        "href": "/apotheke/grune-blute-ulmen-apotheke",
+        "text": "Grüne Blüte",
+        "title": "Grüne Blüte in Frankenthal (Pfalz)"
+      },
+      {
+        "href": "/apotheke/cannabis4me",
+        "text": "cannabis4me",
+        "title": "cannabis4me in Bad Neuenahr-Ahrweiler"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has services"
+  }
+}

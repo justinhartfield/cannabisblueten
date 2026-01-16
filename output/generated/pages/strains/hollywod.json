@@ -1,0 +1,271 @@
+{
+  "strain": {
+    "slug": "hollywod",
+    "name": "Hollywod",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Euphoric",
+      "Body-High",
+      "Creative"
+    ],
+    "tastes": [
+      "Berry",
+      "Citrus",
+      "Creamy",
+      "Diesel",
+      "Earthy",
+      "Sweet"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Caryophyllene",
+      "Myrcene",
+      "Pinene",
+      "Humulene",
+      "Nerolidol"
+    ],
+    "description": "Hollywod kombiniert exotische, dessertartige Aromen mit einem starken, aber ausgewogenen High. Erhebend und gesellig, mit sanfter körperlicher Entspannung. Es ist ideal für den kreativen Gebrauch tagsüber oder zum stilvollen Entspannen.",
+    "imageUrl": "/strains/68623ef63d24c496b422006e-bh35dd.webp"
+  },
+  "stats": {
+    "productCount": 3,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 299,
+      "max": 599,
+      "formatted": {
+        "min": "2,99 €",
+        "max": "5,99 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "remexian-181-jpm-hwd-hollywood",
+      "name": "Remexian 18/1 JPM HWD Hollywood",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 18,
+      "priceMin": 299,
+      "inStock": false
+    },
+    {
+      "slug": "remexian-241-jpm-hwd",
+      "name": "Remexian 24/1 JPM HWD",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 24,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "imc-hw-thc18-token",
+      "name": "IMC HW THC18 TOKEN",
+      "brandName": "IMC",
+      "thcPercent": 18,
+      "priceMin": 299,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "mac-2.0",
+      "name": "MAC 2.0",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "mac-driver",
+      "name": "Mac Driver",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "miracle-mints",
+      "name": "Miracle Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "juggernaut-gas-breath",
+      "name": "Juggernaut Gas Breath",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "stardawg",
+      "name": "Stardawg",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Hollywod (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Hollywod: Euphoric, Body-High, Creative. 3 Produkte verfügbar. ab 2,99 €.",
+      "canonical": "https://weed.de/strain/hollywod",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Hollywod (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Hollywod: Euphoric, Body-High, Creative. 3 Produkte verfügbar. ab 2,99 €.",
+        "url": "https://weed.de/strain/hollywod",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "/strains/68623ef63d24c496b422006e-bh35dd.webp"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Hollywod",
+        "href": "https://weed.de/strain/hollywod"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Hollywod",
+            "item": "https://weed.de/strain/hollywod"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Hollywod Produkte",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/remexian-181-jpm-hwd-hollywood",
+            "name": "Remexian 18/1 JPM HWD Hollywood"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/remexian-241-jpm-hwd",
+            "name": "Remexian 24/1 JPM HWD"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/imc-hw-thc18-token",
+            "name": "IMC HW THC18 TOKEN"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/remexian-181-jpm-hwd-hollywood",
+        "text": "Remexian 18/1 JPM HWD Hollywood",
+        "title": "Remexian 18/1 JPM HWD Hollywood von Remexian Pharma"
+      },
+      {
+        "href": "/product/remexian-241-jpm-hwd",
+        "text": "Remexian 24/1 JPM HWD",
+        "title": "Remexian 24/1 JPM HWD von Remexian Pharma"
+      },
+      {
+        "href": "/product/imc-hw-thc18-token",
+        "text": "IMC HW THC18 TOKEN",
+        "title": "IMC HW THC18 TOKEN von IMC"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/mac-2.0",
+        "text": "MAC 2.0",
+        "title": "MAC 2.0 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/mac-driver",
+        "text": "Mac Driver",
+        "title": "Mac Driver - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/miracle-mints",
+        "text": "Miracle Mints",
+        "title": "Miracle Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/juggernaut-gas-breath",
+        "text": "Juggernaut Gas Breath",
+        "title": "Juggernaut Gas Breath - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/stardawg",
+        "text": "Stardawg",
+        "title": "Stardawg - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/pinene",
+        "text": "Pinene",
+        "title": "Pinene Terpen"
+      },
+      {
+        "href": "/terpene/humulene",
+        "text": "Humulene",
+        "title": "Humulene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

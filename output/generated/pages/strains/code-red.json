@@ -1,0 +1,186 @@
+{
+  "strain": {
+    "slug": "code-red",
+    "name": "Code Red",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Focused",
+      "Creative",
+      "Relaxed",
+      "Calming"
+    ],
+    "tastes": [
+      "Sweet",
+      "Earthy",
+      "Fresh",
+      "Woody",
+      "Pine",
+      "Tropical",
+      "Berry",
+      "Tangy"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Pinene",
+      "Caryophyllene"
+    ],
+    "description": "Code Red ist eine Indica-dominante Hybridsorte, entstanden aus der Kreuzung von Red Runtz und Scotty 2 Hotty. Mit einem THC-Gehalt von typischerweise über 25 % und einem CBD-Gehalt von unter 1 % liefert sie ein intensives, lang anhaltendes High.\n\nDas dominante Terpen ist Myrcen, bekannt für seine beruhigenden Eigenschaften und das süßlich-erdige Aroma. Pinene bringt eine frische, waldige Note ein, während Caryophyllen der Sorte eine würzige Tiefe verleiht. Diese Terpenkombination sorgt für ein komplexes Aroma mit Noten von süßen Beeren, tropischen Früchten und einer würzigen Basis.\n\nDie Sorte liefert ein entspannendes, gleichzeitig fokussierendes High, das sich hervorragend für kreative Köpfe und entspannte Abende eignet. Code Red ist eine ausgezeichnete Wahl für erfahrene Konsumenten, die nach einem intensiven Effekt mit entspannender Tiefe suchen.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 0,
+    "pharmacyCount": 0,
+    "priceRange": null
+  },
+  "products": [],
+  "similarStrains": [
+    {
+      "slug": "patient-zero",
+      "name": "Patient Zero",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "california-orange",
+      "name": "California Orange",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "cannatonic",
+      "name": "Cannatonic",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "grape-mac",
+      "name": "Grape MAC",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "spritzer",
+      "name": "Spritzer",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Code Red (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Code Red: Focused, Creative, Relaxed.",
+      "canonical": "https://weed.de/strain/code-red",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Code Red (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Code Red: Focused, Creative, Relaxed.",
+        "url": "https://weed.de/strain/code-red",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Code Red",
+        "href": "https://weed.de/strain/code-red"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Code Red",
+            "item": "https://weed.de/strain/code-red"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [],
+    "similarStrains": [
+      {
+        "href": "/strain/patient-zero",
+        "text": "Patient Zero",
+        "title": "Patient Zero - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/california-orange",
+        "text": "California Orange",
+        "title": "California Orange - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/cannatonic",
+        "text": "Cannatonic",
+        "title": "Cannatonic - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/grape-mac",
+        "text": "Grape MAC",
+        "title": "Grape MAC - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/spritzer",
+        "text": "Spritzer",
+        "title": "Spritzer - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/pinene",
+        "text": "Pinene",
+        "title": "Pinene Terpen"
+      },
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has data and related content"
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "cornelia-apotheke",
+    "name": "Cornelia Apotheke",
+    "street": "Konstanzer Straße 4",
+    "zip": "10707",
+    "cityName": "Berlin",
+    "state": "Berlin",
+    "lat": 52.49829099999999,
+    "lng": 13.3118097,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": false,
+    "website": "https://berlin-leaf.de/",
+    "phone": "0308834431",
+    "email": "bestellungen@berlin-leaf.de",
+    "productCount": 0,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/6842d5c36e38acf7a71f1cd7-52bige.jpg"
+  },
+  "city": {
+    "slug": "berlin",
+    "name": "Berlin",
+    "pharmacyCount": 27
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "asavita",
+      "name": "Asavita",
+      "cityName": "Berlin",
+      "productCount": 126,
+      "hasDelivery": true
+    },
+    {
+      "slug": "herbery",
+      "name": "Herbery Berlin",
+      "cityName": "Berlin",
+      "productCount": 91,
+      "hasDelivery": true
+    },
+    {
+      "slug": "preussen-apotheke-spandau",
+      "name": "Preussen Apotheke Spandau",
+      "cityName": "Berlin",
+      "productCount": 66,
+      "hasDelivery": true
+    },
+    {
+      "slug": "jiroo",
+      "name": "jiroo",
+      "cityName": "Berlin",
+      "productCount": 57,
+      "hasDelivery": true
+    },
+    {
+      "slug": "witzleben-apotheke-24-1",
+      "name": "Witzleben Apotheke 24",
+      "cityName": "Berlin",
+      "productCount": 48,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cornelia Apotheke - Cannabis Apotheke in Berlin",
+      "description": "Cornelia Apotheke in Berlin. Lieferung & Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/cornelia-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cornelia Apotheke - Cannabis Apotheke in Berlin",
+        "description": "Cornelia Apotheke in Berlin. Lieferung & Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/cornelia-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/6842d5c36e38acf7a71f1cd7-52bige.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Berlin",
+        "href": "https://weed.de/cannabis-apotheke/berlin"
+      },
+      {
+        "name": "Cornelia Apotheke",
+        "href": "https://weed.de/apotheke/cornelia-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Berlin",
+            "item": "https://weed.de/cannabis-apotheke/berlin"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Cornelia Apotheke",
+            "item": "https://weed.de/apotheke/cornelia-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Cornelia Apotheke",
+        "url": "https://weed.de/apotheke/cornelia-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Konstanzer Straße 4",
+          "addressLocality": "Berlin",
+          "postalCode": "10707",
+          "addressRegion": "Berlin",
+          "addressCountry": "DE"
+        },
+        "telephone": "0308834431",
+        "email": "bestellungen@berlin-leaf.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/berlin",
+      "text": "Cannabis Apotheken in Berlin",
+      "title": "Alle Apotheken in Berlin"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/asavita",
+        "text": "Asavita",
+        "title": "Asavita in Berlin"
+      },
+      {
+        "href": "/apotheke/herbery",
+        "text": "Herbery Berlin",
+        "title": "Herbery Berlin in Berlin"
+      },
+      {
+        "href": "/apotheke/preussen-apotheke-spandau",
+        "text": "Preussen Apotheke Spandau",
+        "title": "Preussen Apotheke Spandau in Berlin"
+      },
+      {
+        "href": "/apotheke/jiroo",
+        "text": "jiroo",
+        "title": "jiroo in Berlin"
+      },
+      {
+        "href": "/apotheke/witzleben-apotheke-24-1",
+        "text": "Witzleben Apotheke 24",
+        "title": "Witzleben Apotheke 24 in Berlin"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has services"
+  }
+}

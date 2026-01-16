@@ -1,0 +1,234 @@
+{
+  "product": {
+    "slug": "imc-pbg-thc27-token",
+    "name": "IMC PBG THC27 Token",
+    "type": "flower",
+    "genetics": "hybrid",
+    "thcPercent": 27,
+    "cbdPercent": 1,
+    "priceMin": 379,
+    "priceMax": 799,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Portugal",
+    "imageUrl": "https://weed.de/products/imc-pbg-thc27-token-a5g248.webp"
+  },
+  "brand": {
+    "slug": "imc",
+    "name": "IMC",
+    "productCount": 128
+  },
+  "strain": {
+    "slug": "sour-beach",
+    "name": "Sour Beach",
+    "geneticType": "hybrid",
+    "effects": [
+      "Euphoric",
+      "Energetic",
+      "Stress-relief",
+      "Pain-relief",
+      "Sleepy",
+      "Anxiety-reducing"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Limonene",
+      "Myrcene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Euphoric",
+      "Energetic",
+      "Stress-relief",
+      "Pain-relief",
+      "Sleepy",
+      "Anxiety-reducing"
+    ],
+    "tastes": [
+      "Citrus",
+      "Sweet",
+      "Sour",
+      "Diesel",
+      "Earthy",
+      "Tangy"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Limonene",
+      "Myrcene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "imc-pbg-thc25-token",
+      "name": "IMC PBG THC25 Token",
+      "brandName": "IMC",
+      "thcPercent": 25,
+      "priceMin": 319,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-thc-25-spotlight-porto-purps",
+      "name": "Tilray THC 25 Spotlight Porto Purps",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": 349,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc5cbd2",
+      "name": "Tilray Cannabisextrakt THC5:CBD20",
+      "brandName": "Tilray",
+      "thcPercent": 5,
+      "priceMin": 350,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc1cbd1",
+      "name": "Tilray Cannabisextrakt THC10:CBD10",
+      "brandName": "Tilray",
+      "thcPercent": 10,
+      "priceMin": 400,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-2",
+      "name": "Demecan Typ 2",
+      "brandName": "Demecan",
+      "thcPercent": 16,
+      "priceMin": 533,
+      "inStock": true
+    },
+    {
+      "slug": "khiron-191-gelato",
+      "name": "Khiron 19/1 Gelato",
+      "brandName": "Khiron",
+      "thcPercent": 17.6,
+      "priceMin": 638,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "IMC PBG THC27 Token | ab 3,79 €",
+      "description": "IMC PBG THC27 Token von IMC. THC: 27%, CBD: 1%. Sorte: Sour Beach. Preis ab 3,79 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/imc-pbg-thc27-token",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "IMC PBG THC27 Token | ab 3,79 €",
+        "description": "IMC PBG THC27 Token von IMC. THC: 27%, CBD: 1%. Sorte: Sour Beach. Preis ab 3,79 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/imc-pbg-thc27-token",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/imc-pbg-thc27-token-a5g248.webp"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "IMC",
+        "href": "https://weed.de/brand/imc"
+      },
+      {
+        "name": "IMC PBG THC27 Token",
+        "href": "https://weed.de/product/imc-pbg-thc27-token"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "IMC PBG THC27 Token",
+            "item": "https://weed.de/product/imc-pbg-thc27-token"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "IMC PBG THC27 Token",
+        "brand": {
+          "@type": "Brand",
+          "name": "IMC"
+        },
+        "description": "THC: 27%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/sour-beach",
+      "text": "Sour Beach",
+      "title": "Sour Beach Sorte"
+    },
+    "brand": {
+      "href": "/brand/imc",
+      "text": "IMC",
+      "title": "Alle IMC Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/imc-pbg-thc25-token",
+        "text": "IMC PBG THC25 Token",
+        "title": "Alternative: IMC PBG THC25 Token"
+      },
+      {
+        "href": "/product/tilray-thc-25-spotlight-porto-purps",
+        "text": "Tilray THC 25 Spotlight Porto Purps",
+        "title": "Alternative: Tilray THC 25 Spotlight Porto Purps"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc5cbd2",
+        "text": "Tilray Cannabisextrakt THC5:CBD20",
+        "title": "Alternative: Tilray Cannabisextrakt THC5:CBD20"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc1cbd1",
+        "text": "Tilray Cannabisextrakt THC10:CBD10",
+        "title": "Alternative: Tilray Cannabisextrakt THC10:CBD10"
+      },
+      {
+        "href": "/product/demecan-typ-2",
+        "text": "Demecan Typ 2",
+        "title": "Alternative: Demecan Typ 2"
+      },
+      {
+        "href": "/product/khiron-191-gelato",
+        "text": "Khiron 19/1 Gelato",
+        "title": "Alternative: Khiron 19/1 Gelato"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

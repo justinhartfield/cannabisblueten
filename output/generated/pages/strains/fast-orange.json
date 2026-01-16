@@ -1,0 +1,260 @@
+{
+  "strain": {
+    "slug": "fast-orange",
+    "name": "Fast Orange",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [
+      "Focused",
+      "Energetic",
+      "Sociable"
+    ],
+    "tastes": [
+      "Diesel",
+      "Earthy",
+      "Sweet"
+    ],
+    "terpenes": [
+      "Guaiol",
+      "Beta-Myrcene",
+      "Alpha-Terpineol",
+      "Alpha-Bisabolol"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 3,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 598,
+      "max": 598,
+      "formatted": {
+        "min": "5,98 €",
+        "max": "5,98 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "cannamedical-sativa-classic-fo",
+      "name": "Cannamedical Sativa Classic FO",
+      "brandName": "Cannamedical",
+      "thcPercent": 18.6,
+      "priceMin": 598,
+      "inStock": false
+    },
+    {
+      "slug": "cannamedical-sativa-light-fo",
+      "name": "Cannamedical Sativa Light FO",
+      "brandName": "Cannamedical",
+      "thcPercent": 14,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "buuo-21-fo-fast-orange",
+      "name": "Buuo 20/1 FO Fast Orange",
+      "brandName": "WMG Pharma",
+      "thcPercent": 20,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "auto-cbg-force",
+      "name": "Auto CBG-Force",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "passion-soda",
+      "name": "Passion Soda",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "lavender-cake",
+      "name": "Lavender Cake",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "tropicana-cookies",
+      "name": "Tropicana Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "iberian-icecream-35",
+      "name": "Iberian Icecream #35",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Fast Orange (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Fast Orange: Focused, Energetic, Sociable. 3 Produkte verfügbar. ab 5,98 €.",
+      "canonical": "https://weed.de/strain/fast-orange",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Fast Orange (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Fast Orange: Focused, Energetic, Sociable. 3 Produkte verfügbar. ab 5,98 €.",
+        "url": "https://weed.de/strain/fast-orange",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Fast Orange",
+        "href": "https://weed.de/strain/fast-orange"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Fast Orange",
+            "item": "https://weed.de/strain/fast-orange"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Fast Orange Produkte",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/cannamedical-sativa-classic-fo",
+            "name": "Cannamedical Sativa Classic FO"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/cannamedical-sativa-light-fo",
+            "name": "Cannamedical Sativa Light FO"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/buuo-21-fo-fast-orange",
+            "name": "Buuo 20/1 FO Fast Orange"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/cannamedical-sativa-classic-fo",
+        "text": "Cannamedical Sativa Classic FO",
+        "title": "Cannamedical Sativa Classic FO von Cannamedical"
+      },
+      {
+        "href": "/product/cannamedical-sativa-light-fo",
+        "text": "Cannamedical Sativa Light FO",
+        "title": "Cannamedical Sativa Light FO von Cannamedical"
+      },
+      {
+        "href": "/product/buuo-21-fo-fast-orange",
+        "text": "Buuo 20/1 FO Fast Orange",
+        "title": "Buuo 20/1 FO Fast Orange von WMG Pharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/auto-cbg-force",
+        "text": "Auto CBG-Force",
+        "title": "Auto CBG-Force - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/passion-soda",
+        "text": "Passion Soda",
+        "title": "Passion Soda - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/lavender-cake",
+        "text": "Lavender Cake",
+        "title": "Lavender Cake - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/tropicana-cookies",
+        "text": "Tropicana Cookies",
+        "title": "Tropicana Cookies - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/iberian-icecream-35",
+        "text": "Iberian Icecream #35",
+        "title": "Iberian Icecream #35 - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/guaiol",
+        "text": "Guaiol",
+        "title": "Guaiol Terpen"
+      },
+      {
+        "href": "/terpene/beta-myrcene",
+        "text": "Beta-Myrcene",
+        "title": "Beta-Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/alpha-terpineol",
+        "text": "Alpha-Terpineol",
+        "title": "Alpha-Terpineol Terpen"
+      },
+      {
+        "href": "/terpene/alpha-bisabolol",
+        "text": "Alpha-Bisabolol",
+        "title": "Alpha-Bisabolol Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

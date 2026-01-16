@@ -1,0 +1,225 @@
+{
+  "product": {
+    "slug": "tilray-craft-thc25-ccc",
+    "name": "Tilray Craft THC25 CCC",
+    "type": "flower",
+    "genetics": "hybrid_indica",
+    "thcPercent": 25,
+    "cbdPercent": 1,
+    "priceMin": 999,
+    "priceMax": 999,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Deutschland",
+    "imageUrl": "https://weed.de/products/tilray-craft-thc25-ccc-af1add.png"
+  },
+  "brand": {
+    "slug": "tilray",
+    "name": "Tilray",
+    "productCount": 160
+  },
+  "strain": {
+    "slug": "cherry-cheesecake",
+    "name": "Cherry Cheesecake",
+    "geneticType": "indica",
+    "effects": [
+      "Euphoric",
+      "Giggly",
+      "Uplifted"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Pinene",
+      "Ocimene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Euphoric",
+      "Giggly",
+      "Uplifted"
+    ],
+    "tastes": [
+      "Cheese",
+      "Berry",
+      "Lemon"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Pinene",
+      "Ocimene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "enua-251-cck-ca",
+      "name": "enua 25/1 CCK CA",
+      "brandName": "enua",
+      "thcPercent": 25.2,
+      "priceMin": 399,
+      "inStock": true
+    },
+    {
+      "slug": "ceres-no-2",
+      "name": "Ceres No. 2",
+      "brandName": "Cantourage",
+      "thcPercent": 25,
+      "priceMin": 590,
+      "inStock": true
+    },
+    {
+      "slug": "420-evolution-271-ca-icc",
+      "name": "420 EVOLUTION 27/1 CA ICC",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 27,
+      "priceMin": 684,
+      "inStock": true
+    },
+    {
+      "slug": "420-natural-221-gg4",
+      "name": "420 Natural 22/1 GG4",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 22,
+      "priceMin": 723,
+      "inStock": true
+    },
+    {
+      "slug": "avaay-241-did",
+      "name": "AVAAY 24/1 DiD",
+      "brandName": "Avaay",
+      "thcPercent": 24,
+      "priceMin": 949,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-301-oktonia",
+      "name": "Demecan 30/1 Oktonia",
+      "brandName": "Deutsche Medizinalcannabis",
+      "thcPercent": 3,
+      "priceMin": 1079,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Tilray Craft THC25 CCC | ab 9,99 €",
+      "description": "Tilray Craft THC25 CCC von Tilray. THC: 25%, CBD: 1%. Sorte: Cherry Cheesecake. Preis ab 9,99 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/tilray-craft-thc25-ccc",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Tilray Craft THC25 CCC | ab 9,99 €",
+        "description": "Tilray Craft THC25 CCC von Tilray. THC: 25%, CBD: 1%. Sorte: Cherry Cheesecake. Preis ab 9,99 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/tilray-craft-thc25-ccc",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/tilray-craft-thc25-ccc-af1add.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Tilray",
+        "href": "https://weed.de/brand/tilray"
+      },
+      {
+        "name": "Tilray Craft THC25 CCC",
+        "href": "https://weed.de/product/tilray-craft-thc25-ccc"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Tilray Craft THC25 CCC",
+            "item": "https://weed.de/product/tilray-craft-thc25-ccc"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Tilray Craft THC25 CCC",
+        "brand": {
+          "@type": "Brand",
+          "name": "Tilray"
+        },
+        "description": "THC: 25%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/cherry-cheesecake",
+      "text": "Cherry Cheesecake",
+      "title": "Cherry Cheesecake Sorte"
+    },
+    "brand": {
+      "href": "/brand/tilray",
+      "text": "Tilray",
+      "title": "Alle Tilray Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/enua-251-cck-ca",
+        "text": "enua 25/1 CCK CA",
+        "title": "Alternative: enua 25/1 CCK CA"
+      },
+      {
+        "href": "/product/ceres-no-2",
+        "text": "Ceres No. 2",
+        "title": "Alternative: Ceres No. 2"
+      },
+      {
+        "href": "/product/420-evolution-271-ca-icc",
+        "text": "420 EVOLUTION 27/1 CA ICC",
+        "title": "Alternative: 420 EVOLUTION 27/1 CA ICC"
+      },
+      {
+        "href": "/product/420-natural-221-gg4",
+        "text": "420 Natural 22/1 GG4",
+        "title": "Alternative: 420 Natural 22/1 GG4"
+      },
+      {
+        "href": "/product/avaay-241-did",
+        "text": "AVAAY 24/1 DiD",
+        "title": "Alternative: AVAAY 24/1 DiD"
+      },
+      {
+        "href": "/product/demecan-301-oktonia",
+        "text": "Demecan 30/1 Oktonia",
+        "title": "Alternative: Demecan 30/1 Oktonia"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

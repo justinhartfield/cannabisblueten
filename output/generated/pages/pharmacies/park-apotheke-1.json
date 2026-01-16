@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "park-apotheke-1",
+    "name": "Park Apotheke / Rhein-Main-Cannabis",
+    "street": "Sonnenberger Straße 68",
+    "zip": "65193",
+    "cityName": "Wiesbaden",
+    "state": "Hessen",
+    "lat": 50.0875391,
+    "lng": 8.256814799999999,
+    "hasDelivery": false,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": null,
+    "phone": "0611563333",
+    "email": "mail@rhein-main-cannabis.de",
+    "productCount": 56,
+    "rating": 5,
+    "ratingCount": 1,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/67c338c8b15c1115c1ce111a-e0i4a1.jpg"
+  },
+  "city": {
+    "slug": "wiesbaden",
+    "name": "Wiesbaden",
+    "pharmacyCount": 4
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "taunus-apotheke",
+      "name": "Herbaluh / Taunus-Apotheke",
+      "cityName": "Wiesbaden",
+      "productCount": 38,
+      "hasDelivery": true
+    },
+    {
+      "slug": "adler-apotheke-2",
+      "name": "Adler Apotheke",
+      "cityName": "Wiesbaden",
+      "productCount": 35,
+      "hasDelivery": true
+    },
+    {
+      "slug": "wilhelms-apotheke-wiesbaden",
+      "name": "Wilhelms Apotheke Wiesbaden",
+      "cityName": "Wiesbaden",
+      "productCount": 0,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis-vital-apotheke",
+      "name": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
+      "cityName": "Hattersheim am Main",
+      "productCount": 187,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis-apotheke-frankfurtkissel-apotheke",
+      "name": "Cannabis Apotheke Frankfurt/Kissel-Apotheke",
+      "cityName": "Frankfurt am Main",
+      "productCount": 183,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Park Apotheke / Rhein-Main-Cannabis - Cannabis Apotheke in Wiesbaden",
+      "description": "Park Apotheke / Rhein-Main-Cannabis in Wiesbaden. 56 Cannabis Produkte. Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/park-apotheke-1",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Park Apotheke / Rhein-Main-Cannabis - Cannabis Apotheke in Wiesbaden",
+        "description": "Park Apotheke / Rhein-Main-Cannabis in Wiesbaden. 56 Cannabis Produkte. Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/park-apotheke-1",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/67c338c8b15c1115c1ce111a-e0i4a1.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Wiesbaden",
+        "href": "https://weed.de/cannabis-apotheke/wiesbaden"
+      },
+      {
+        "name": "Park Apotheke / Rhein-Main-Cannabis",
+        "href": "https://weed.de/apotheke/park-apotheke-1"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Wiesbaden",
+            "item": "https://weed.de/cannabis-apotheke/wiesbaden"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Park Apotheke / Rhein-Main-Cannabis",
+            "item": "https://weed.de/apotheke/park-apotheke-1"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Park Apotheke / Rhein-Main-Cannabis",
+        "url": "https://weed.de/apotheke/park-apotheke-1",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Sonnenberger Straße 68",
+          "addressLocality": "Wiesbaden",
+          "postalCode": "65193",
+          "addressRegion": "Hessen",
+          "addressCountry": "DE"
+        },
+        "telephone": "0611563333",
+        "email": "mail@rhein-main-cannabis.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/wiesbaden",
+      "text": "Cannabis Apotheken in Wiesbaden",
+      "title": "Alle Apotheken in Wiesbaden"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/taunus-apotheke",
+        "text": "Herbaluh / Taunus-Apotheke",
+        "title": "Herbaluh / Taunus-Apotheke in Wiesbaden"
+      },
+      {
+        "href": "/apotheke/adler-apotheke-2",
+        "text": "Adler Apotheke",
+        "title": "Adler Apotheke in Wiesbaden"
+      },
+      {
+        "href": "/apotheke/wilhelms-apotheke-wiesbaden",
+        "text": "Wilhelms Apotheke Wiesbaden",
+        "title": "Wilhelms Apotheke Wiesbaden in Wiesbaden"
+      },
+      {
+        "href": "/apotheke/cannabis-vital-apotheke",
+        "text": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
+        "title": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim) in Hattersheim am Main"
+      },
+      {
+        "href": "/apotheke/cannabis-apotheke-frankfurtkissel-apotheke",
+        "text": "Cannabis Apotheke Frankfurt/Kissel-Apotheke",
+        "title": "Cannabis Apotheke Frankfurt/Kissel-Apotheke in Frankfurt am Main"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

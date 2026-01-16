@@ -1,0 +1,206 @@
+{
+  "brand": {
+    "slug": "farmako",
+    "name": "Farmako",
+    "productCount": 6
+  },
+  "products": [
+    {
+      "slug": "cannabis-flos-bedica-far",
+      "name": "Cannabis Flos Bedica FAR",
+      "type": "flower",
+      "thcPercent": 22,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Bedica"
+    },
+    {
+      "slug": "cannabis-flos-bediol-far",
+      "name": "Cannabis Flos Bediol FAR",
+      "type": "flower",
+      "thcPercent": 6.3,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Bediol"
+    },
+    {
+      "slug": "cannabis-flos-bedrobinol-far",
+      "name": "Cannabis Flos Bedrobinol FAR",
+      "type": "flower",
+      "thcPercent": 13.5,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Bedrobinol"
+    },
+    {
+      "slug": "cannabis-flos-bedrolite-far",
+      "name": "Cannabis Flos Bedrolite FAR",
+      "type": "flower",
+      "thcPercent": 1,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Bedrolite®"
+    },
+    {
+      "slug": "cannabisextrakt-farmako-100",
+      "name": "Cannabisextrakt Farmako 100",
+      "type": "extract",
+      "thcPercent": 10,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "White Widow"
+    },
+    {
+      "slug": "cannabisextrakt-farmako-50",
+      "name": "Cannabisextrakt Farmako 50",
+      "type": "extract",
+      "thcPercent": 5,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "White Widow"
+    }
+  ],
+  "stats": {
+    "productCount": 6,
+    "inStockCount": 0,
+    "avgThc": 9.6,
+    "priceRange": null
+  },
+  "seo": {
+    "meta": {
+      "title": "Farmako Cannabis Produkte - 6 Produkte",
+      "description": "Farmako: 6 Cannabis Produkte. 0 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+      "canonical": "https://weed.de/brand/farmako",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Farmako Cannabis Produkte - 6 Produkte",
+        "description": "Farmako: 6 Cannabis Produkte. 0 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+        "url": "https://weed.de/brand/farmako",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Hersteller",
+        "href": "https://weed.de/brands"
+      },
+      {
+        "name": "Farmako",
+        "href": "https://weed.de/brand/farmako"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Hersteller",
+            "item": "https://weed.de/brands"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Farmako",
+            "item": "https://weed.de/brand/farmako"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Farmako Produkte",
+        "numberOfItems": 6,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/cannabis-flos-bedica-far",
+            "name": "Cannabis Flos Bedica FAR"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/cannabis-flos-bediol-far",
+            "name": "Cannabis Flos Bediol FAR"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/cannabis-flos-bedrobinol-far",
+            "name": "Cannabis Flos Bedrobinol FAR"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/product/cannabis-flos-bedrolite-far",
+            "name": "Cannabis Flos Bedrolite FAR"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "https://weed.de/product/cannabisextrakt-farmako-100",
+            "name": "Cannabisextrakt Farmako 100"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "url": "https://weed.de/product/cannabisextrakt-farmako-50",
+            "name": "Cannabisextrakt Farmako 50"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/cannabis-flos-bedica-far",
+        "text": "Cannabis Flos Bedica FAR",
+        "title": "Cannabis Flos Bedica FAR"
+      },
+      {
+        "href": "/product/cannabis-flos-bediol-far",
+        "text": "Cannabis Flos Bediol FAR",
+        "title": "Cannabis Flos Bediol FAR"
+      },
+      {
+        "href": "/product/cannabis-flos-bedrobinol-far",
+        "text": "Cannabis Flos Bedrobinol FAR",
+        "title": "Cannabis Flos Bedrobinol FAR"
+      },
+      {
+        "href": "/product/cannabis-flos-bedrolite-far",
+        "text": "Cannabis Flos Bedrolite FAR",
+        "title": "Cannabis Flos Bedrolite FAR"
+      },
+      {
+        "href": "/product/cannabisextrakt-farmako-100",
+        "text": "Cannabisextrakt Farmako 100",
+        "title": "Cannabisextrakt Farmako 100"
+      },
+      {
+        "href": "/product/cannabisextrakt-farmako-50",
+        "text": "Cannabisextrakt Farmako 50",
+        "title": "Cannabisextrakt Farmako 50"
+      }
+    ]
+  }
+}

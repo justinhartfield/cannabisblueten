@@ -1,0 +1,225 @@
+{
+  "product": {
+    "slug": "oht-ckz-1",
+    "name": "OHT CKZ 1",
+    "type": "flower",
+    "genetics": "hybrid",
+    "thcPercent": 23,
+    "cbdPercent": 0.1,
+    "priceMin": 699,
+    "priceMax": 699,
+    "inStock": false,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/products/oht-ckz-1-24dd77.jpeg"
+  },
+  "brand": {
+    "slug": "cantourage",
+    "name": "Cantourage",
+    "productCount": 248
+  },
+  "strain": {
+    "slug": "runtz-og",
+    "name": "Runtz OG",
+    "geneticType": "hybrid",
+    "effects": [
+      "Energetic",
+      "Happy",
+      "Relaxed"
+    ],
+    "terpenes": [
+      "Linalool",
+      "Limonene",
+      "Beta-Myrcene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Energetic",
+      "Happy",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Sweet",
+      "Spicy-Herbal",
+      "Fruity"
+    ],
+    "terpenes": [
+      "Linalool",
+      "Limonene",
+      "Beta-Myrcene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "tilray-thc-25-spotlight-porto-purps",
+      "name": "Tilray THC 25 Spotlight Porto Purps",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": 349,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc1cbd1",
+      "name": "Tilray Cannabisextrakt THC10:CBD10",
+      "brandName": "Tilray",
+      "thcPercent": 10,
+      "priceMin": 400,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-2",
+      "name": "Demecan Typ 2",
+      "brandName": "Demecan",
+      "thcPercent": 16,
+      "priceMin": 533,
+      "inStock": true
+    },
+    {
+      "slug": "khiron-191-gelato",
+      "name": "Khiron 19/1 Gelato",
+      "brandName": "Khiron",
+      "thcPercent": 17.6,
+      "priceMin": 638,
+      "inStock": true
+    },
+    {
+      "slug": "green-karat-ro-311-pt",
+      "name": "Green Karat RO 31/1 PT",
+      "brandName": "Cantourage",
+      "thcPercent": 30.7,
+      "priceMin": 787,
+      "inStock": true
+    },
+    {
+      "slug": "green-karat-ro",
+      "name": "Green Karat RO 27/1",
+      "brandName": "Cantourage",
+      "thcPercent": 27,
+      "priceMin": 798,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "OHT CKZ 1 - Cantourage | ab 6,99 €",
+      "description": "OHT CKZ 1 von Cantourage. THC: 23%, CBD: 0.1%. Sorte: Runtz OG. Preis ab 6,99 €. Preise vergleichen.",
+      "canonical": "https://weed.de/product/oht-ckz-1",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "OHT CKZ 1 - Cantourage | ab 6,99 €",
+        "description": "OHT CKZ 1 von Cantourage. THC: 23%, CBD: 0.1%. Sorte: Runtz OG. Preis ab 6,99 €. Preise vergleichen.",
+        "url": "https://weed.de/product/oht-ckz-1",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/products/oht-ckz-1-24dd77.jpeg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Cantourage",
+        "href": "https://weed.de/brand/cantourage"
+      },
+      {
+        "name": "OHT CKZ 1",
+        "href": "https://weed.de/product/oht-ckz-1"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "OHT CKZ 1",
+            "item": "https://weed.de/product/oht-ckz-1"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "OHT CKZ 1",
+        "brand": {
+          "@type": "Brand",
+          "name": "Cantourage"
+        },
+        "description": "THC: 23%, CBD: 0.1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/runtz-og",
+      "text": "Runtz OG",
+      "title": "Runtz OG Sorte"
+    },
+    "brand": {
+      "href": "/brand/cantourage",
+      "text": "Cantourage",
+      "title": "Alle Cantourage Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/tilray-thc-25-spotlight-porto-purps",
+        "text": "Tilray THC 25 Spotlight Porto Purps",
+        "title": "Alternative: Tilray THC 25 Spotlight Porto Purps"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc1cbd1",
+        "text": "Tilray Cannabisextrakt THC10:CBD10",
+        "title": "Alternative: Tilray Cannabisextrakt THC10:CBD10"
+      },
+      {
+        "href": "/product/demecan-typ-2",
+        "text": "Demecan Typ 2",
+        "title": "Alternative: Demecan Typ 2"
+      },
+      {
+        "href": "/product/khiron-191-gelato",
+        "text": "Khiron 19/1 Gelato",
+        "title": "Alternative: Khiron 19/1 Gelato"
+      },
+      {
+        "href": "/product/green-karat-ro-311-pt",
+        "text": "Green Karat RO 31/1 PT",
+        "title": "Alternative: Green Karat RO 31/1 PT"
+      },
+      {
+        "href": "/product/green-karat-ro",
+        "text": "Green Karat RO 27/1",
+        "title": "Alternative: Green Karat RO 27/1"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has price data"
+  }
+}

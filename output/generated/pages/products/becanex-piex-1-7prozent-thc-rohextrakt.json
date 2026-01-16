@@ -1,0 +1,114 @@
+{
+  "product": {
+    "slug": "becanex-piex-1-7prozent-thc-rohextrakt",
+    "name": "Becanex PIEX 1 70% THC Rohextrakt",
+    "type": "extract",
+    "genetics": null,
+    "thcPercent": 70,
+    "cbdPercent": 1,
+    "priceMin": 6500,
+    "priceMax": 6500,
+    "inStock": false,
+    "pzn": null,
+    "originCountry": "Deutschland",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "becanex-gmbh",
+    "name": "Becanex GmbH ",
+    "productCount": 2
+  },
+  "strain": null,
+  "attributes": {
+    "effects": [],
+    "tastes": [],
+    "terpenes": []
+  },
+  "alternativeProducts": [],
+  "seo": {
+    "meta": {
+      "title": "Becanex PIEX 1 70% THC Rohextrakt - Becanex GmbH  | ab 65...",
+      "description": "Becanex PIEX 1 70% THC Rohextrakt von Becanex GmbH . THC: 70%, CBD: 1%. Preis ab 65,00 €. Preise vergleichen.",
+      "canonical": "https://weed.de/product/becanex-piex-1-7prozent-thc-rohextrakt",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Becanex PIEX 1 70% THC Rohextrakt - Becanex GmbH  | ab 65...",
+        "description": "Becanex PIEX 1 70% THC Rohextrakt von Becanex GmbH . THC: 70%, CBD: 1%. Preis ab 65,00 €. Preise vergleichen.",
+        "url": "https://weed.de/product/becanex-piex-1-7prozent-thc-rohextrakt",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Becanex GmbH ",
+        "href": "https://weed.de/brand/becanex-gmbh"
+      },
+      {
+        "name": "Becanex PIEX 1 70% THC Rohextrakt",
+        "href": "https://weed.de/product/becanex-piex-1-7prozent-thc-rohextrakt"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Becanex PIEX 1 70% THC Rohextrakt",
+            "item": "https://weed.de/product/becanex-piex-1-7prozent-thc-rohextrakt"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Becanex PIEX 1 70% THC Rohextrakt",
+        "brand": {
+          "@type": "Brand",
+          "name": "Becanex GmbH "
+        },
+        "description": "THC: 70%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": null,
+    "brand": {
+      "href": "/brand/becanex-gmbh",
+      "text": "Becanex GmbH ",
+      "title": "Alle Becanex GmbH  Produkte"
+    },
+    "alternatives": []
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has price data"
+  }
+}

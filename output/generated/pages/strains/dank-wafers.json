@@ -1,0 +1,267 @@
+{
+  "strain": {
+    "slug": "dank-wafers",
+    "name": "Dank Wafers",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [
+      "Creative",
+      "Euphoric",
+      "Sociable",
+      "Calming",
+      "Cerebral",
+      "Stress-relief",
+      "Sleepy",
+      "Pain-relief"
+    ],
+    "tastes": [
+      "Herbal",
+      "Pine",
+      "Earthy",
+      "Sweet",
+      "Musky"
+    ],
+    "terpenes": [
+      "Linalool",
+      "Limonene",
+      "Beta-Caryophyllene",
+      "Myrcene"
+    ],
+    "description": "Dank Wafers ist eine Hybrid-Sorte, entstanden aus der Kreuzung von Girl Scout Cookies (GSC), OG Kush Breath (OGKB) und Face Off OG. Mit einem THC-Gehalt, der typischerweise zwischen 20% und 24% liegt, und einem CBD-Wert von unter 0,1% liefert sie kraftvolle Effekte, die durch starke körperliche Entspannung und langanhaltende mentale Euphorie gekennzeichnet sind. \n\nIhr komplexes Geschmacksprofil ist geprägt von süßer Erde, würzigen Kräutern und einer leichten Kiefernote. Das Terpenprofil, das von Linalool, Limonen und Beta-Caryophyllen dominiert wird, enthält zusätzlich auch Myrcen, was das Aroma mit floralen, zitrusartigen, würzigen und moschusartigen Nuancen unterstreicht. \n\nDie Wirkung beginnt mit einer leichten, zerebralen Stimulation, die Euphorie und Kreativität erzeugt. Danach setzt eine tiefe körperliche Beruhigung ein, die Verspannungen und Stress abbaut. Dank Wafers ist ideal, um Stress, Schlafstörungen und chronische Schmerzen zu lindern, da sie eine perfekte Kombination aus geistiger Euphorie und körperlicher Entspannung bietet. Zusammengefasst ist Dank Wafers eine Sorte für alle, die ein komplexes, süß-würziges Aroma mit einem potenten, tief entspannenden und euphorischen High suchen.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 3,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 385,
+      "max": 746,
+      "formatted": {
+        "min": "3,85 €",
+        "max": "7,46 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "cannamedical-indica-classic-zaf",
+      "name": "Cannamedical Indica Classic ZAF DW",
+      "brandName": "Cannamedical",
+      "thcPercent": 20,
+      "priceMin": 480,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-indica-forte-zaf-dw",
+      "name": "Cannamedical Indica Forte ZAF DW",
+      "brandName": "Cannamedical",
+      "thcPercent": 24,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "cannamedical-indica-classic-21-zaf",
+      "name": "Cannamedical Indica Classic 20/1 ZAF",
+      "brandName": "Cannamedical",
+      "thcPercent": 20,
+      "priceMin": 385,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "tigerz-eye",
+      "name": "Tigerz Eye",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "alien-mints",
+      "name": "Alien Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "atlantic-glue",
+      "name": "Atlantic Glue",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "cream-cake",
+      "name": "Cream Cake",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "frosted-cookies",
+      "name": "Frosted Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Dank Wafers (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Dank Wafers: Creative, Euphoric, Sociable. 3 Produkte verfügbar. ab 3,85 €.",
+      "canonical": "https://weed.de/strain/dank-wafers",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Dank Wafers (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Dank Wafers: Creative, Euphoric, Sociable. 3 Produkte verfügbar. ab 3,85 €.",
+        "url": "https://weed.de/strain/dank-wafers",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Dank Wafers",
+        "href": "https://weed.de/strain/dank-wafers"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Dank Wafers",
+            "item": "https://weed.de/strain/dank-wafers"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Dank Wafers Produkte",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/cannamedical-indica-classic-zaf",
+            "name": "Cannamedical Indica Classic ZAF DW"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/cannamedical-indica-forte-zaf-dw",
+            "name": "Cannamedical Indica Forte ZAF DW"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/cannamedical-indica-classic-21-zaf",
+            "name": "Cannamedical Indica Classic 20/1 ZAF"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/cannamedical-indica-classic-zaf",
+        "text": "Cannamedical Indica Classic ZAF DW",
+        "title": "Cannamedical Indica Classic ZAF DW von Cannamedical"
+      },
+      {
+        "href": "/product/cannamedical-indica-forte-zaf-dw",
+        "text": "Cannamedical Indica Forte ZAF DW",
+        "title": "Cannamedical Indica Forte ZAF DW von Cannamedical"
+      },
+      {
+        "href": "/product/cannamedical-indica-classic-21-zaf",
+        "text": "Cannamedical Indica Classic 20/1 ZAF",
+        "title": "Cannamedical Indica Classic 20/1 ZAF von Cannamedical"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/tigerz-eye",
+        "text": "Tigerz Eye",
+        "title": "Tigerz Eye - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/alien-mints",
+        "text": "Alien Mints",
+        "title": "Alien Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/atlantic-glue",
+        "text": "Atlantic Glue",
+        "title": "Atlantic Glue - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/cream-cake",
+        "text": "Cream Cake",
+        "title": "Cream Cake - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/frosted-cookies",
+        "text": "Frosted Cookies",
+        "title": "Frosted Cookies - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

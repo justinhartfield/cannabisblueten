@@ -1,0 +1,216 @@
+{
+  "strain": {
+    "slug": "kosher-haze",
+    "name": "Kosher Haze",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0,
+      "max": 0
+    },
+    "effects": [
+      "Focused",
+      "Creative",
+      "Hungry"
+    ],
+    "tastes": [
+      "Herbal",
+      "Earthy",
+      "Floral"
+    ],
+    "terpenes": [
+      "Pinene",
+      "Myrcene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 499,
+      "max": 589,
+      "formatted": {
+        "min": "4,99 €",
+        "max": "5,89 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "together-pharma-khh-181",
+      "name": "Together Pharma KHH 18/1",
+      "brandName": "Cantourage",
+      "thcPercent": 18,
+      "priceMin": 499,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "mun-shine-6",
+      "name": "Mun Shine 6",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "polar-cookies",
+      "name": "Polar Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "alien-mints",
+      "name": "Alien Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "lemon-berry-og",
+      "name": "Lemon Berry OG",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "strawberry-cookies",
+      "name": "Strawberry Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Kosher Haze (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Kosher Haze: Focused, Creative, Hungry. 1 Produkte verfügbar. ab 4,99 €.",
+      "canonical": "https://weed.de/strain/kosher-haze",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Kosher Haze (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Kosher Haze: Focused, Creative, Hungry. 1 Produkte verfügbar. ab 4,99 €.",
+        "url": "https://weed.de/strain/kosher-haze",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Kosher Haze",
+        "href": "https://weed.de/strain/kosher-haze"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Kosher Haze",
+            "item": "https://weed.de/strain/kosher-haze"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Kosher Haze Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/together-pharma-khh-181",
+            "name": "Together Pharma KHH 18/1"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/together-pharma-khh-181",
+        "text": "Together Pharma KHH 18/1",
+        "title": "Together Pharma KHH 18/1 von Cantourage"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/mun-shine-6",
+        "text": "Mun Shine 6",
+        "title": "Mun Shine 6 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/polar-cookies",
+        "text": "Polar Cookies",
+        "title": "Polar Cookies - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/alien-mints",
+        "text": "Alien Mints",
+        "title": "Alien Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/lemon-berry-og",
+        "text": "Lemon Berry OG",
+        "title": "Lemon Berry OG - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/strawberry-cookies",
+        "text": "Strawberry Cookies",
+        "title": "Strawberry Cookies - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/pinene",
+        "text": "Pinene",
+        "title": "Pinene Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

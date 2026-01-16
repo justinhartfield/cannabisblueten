@@ -1,0 +1,235 @@
+{
+  "product": {
+    "slug": "tyson-20-281-hh",
+    "name": "TYSON 2.0 28/1 HH",
+    "type": "flower",
+    "genetics": "sativa",
+    "thcPercent": 28,
+    "cbdPercent": 1,
+    "priceMin": 999,
+    "priceMax": 999,
+    "inStock": false,
+    "pzn": null,
+    "originCountry": "Mazedonien",
+    "imageUrl": "https://weed.de/products/tyson-20-281-hh-2bb3eg.png"
+  },
+  "brand": {
+    "slug": "tyson-2-0",
+    "name": "TYSON 2.0",
+    "productCount": 8
+  },
+  "strain": {
+    "slug": "haymaker-haze",
+    "name": "Haymaker Haze",
+    "geneticType": "hybrid",
+    "effects": [
+      "Focused",
+      "Euphoric",
+      "Relaxed",
+      "Stress-relief",
+      "Pain-relief",
+      "Headache"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Ocimene",
+      "Terpinolene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Focused",
+      "Euphoric",
+      "Relaxed",
+      "Stress-relief",
+      "Pain-relief",
+      "Headache"
+    ],
+    "tastes": [
+      "Pine",
+      "Earthy",
+      "Sweet",
+      "Tangy",
+      "Herbal",
+      "Fresh",
+      "Woody"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Ocimene",
+      "Terpinolene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "aurora-typ-1",
+      "name": "Aurora Typ 1",
+      "brandName": "Aurora",
+      "thcPercent": 19,
+      "priceMin": 479,
+      "inStock": true
+    },
+    {
+      "slug": "pedanios-22-1",
+      "name": "Pedanios 22/1",
+      "brandName": "Aurora",
+      "thcPercent": 22,
+      "priceMin": 629,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-sativa-forte-tc",
+      "name": "Cannamedical Sativa forte TC",
+      "brandName": "Cannamedical",
+      "thcPercent": 24,
+      "priceMin": 683,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-sativa-classic-tc",
+      "name": "Cannamedical Sativa classic TC",
+      "brandName": "Cannamedical",
+      "thcPercent": 20,
+      "priceMin": 755,
+      "inStock": true
+    },
+    {
+      "slug": "tyson-20-301",
+      "name": "TYSON 2.0 30/1 HH",
+      "brandName": "TYSON 2.0",
+      "thcPercent": 30,
+      "priceMin": 796,
+      "inStock": true
+    },
+    {
+      "slug": "tyson-2-321-haymaker-haze",
+      "name": "TYSON 2.0 32/1 Haymaker Haze",
+      "brandName": "Nimbus Health",
+      "thcPercent": 31.4,
+      "priceMin": 838,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "TYSON 2.0 28/1 HH | ab 9,99 €",
+      "description": "TYSON 2.0 28/1 HH von TYSON 2.0. THC: 28%, CBD: 1%. Sorte: Haymaker Haze. Preis ab 9,99 €. Preise vergleichen.",
+      "canonical": "https://weed.de/product/tyson-20-281-hh",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "TYSON 2.0 28/1 HH | ab 9,99 €",
+        "description": "TYSON 2.0 28/1 HH von TYSON 2.0. THC: 28%, CBD: 1%. Sorte: Haymaker Haze. Preis ab 9,99 €. Preise vergleichen.",
+        "url": "https://weed.de/product/tyson-20-281-hh",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/tyson-20-281-hh-2bb3eg.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "TYSON 2.0",
+        "href": "https://weed.de/brand/tyson-2-0"
+      },
+      {
+        "name": "TYSON 2.0 28/1 HH",
+        "href": "https://weed.de/product/tyson-20-281-hh"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "TYSON 2.0 28/1 HH",
+            "item": "https://weed.de/product/tyson-20-281-hh"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "TYSON 2.0 28/1 HH",
+        "brand": {
+          "@type": "Brand",
+          "name": "TYSON 2.0"
+        },
+        "description": "THC: 28%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/haymaker-haze",
+      "text": "Haymaker Haze",
+      "title": "Haymaker Haze Sorte"
+    },
+    "brand": {
+      "href": "/brand/tyson-2-0",
+      "text": "TYSON 2.0",
+      "title": "Alle TYSON 2.0 Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/aurora-typ-1",
+        "text": "Aurora Typ 1",
+        "title": "Alternative: Aurora Typ 1"
+      },
+      {
+        "href": "/product/pedanios-22-1",
+        "text": "Pedanios 22/1",
+        "title": "Alternative: Pedanios 22/1"
+      },
+      {
+        "href": "/product/cannamedical-sativa-forte-tc",
+        "text": "Cannamedical Sativa forte TC",
+        "title": "Alternative: Cannamedical Sativa forte TC"
+      },
+      {
+        "href": "/product/cannamedical-sativa-classic-tc",
+        "text": "Cannamedical Sativa classic TC",
+        "title": "Alternative: Cannamedical Sativa classic TC"
+      },
+      {
+        "href": "/product/tyson-20-301",
+        "text": "TYSON 2.0 30/1 HH",
+        "title": "Alternative: TYSON 2.0 30/1 HH"
+      },
+      {
+        "href": "/product/tyson-2-321-haymaker-haze",
+        "text": "TYSON 2.0 32/1 Haymaker Haze",
+        "title": "Alternative: TYSON 2.0 32/1 Haymaker Haze"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has price data"
+  }
+}

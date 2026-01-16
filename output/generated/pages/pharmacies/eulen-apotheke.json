@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "eulen-apotheke",
+    "name": "Eulen Apotheke",
+    "street": "Hellbrookkamp 33",
+    "zip": "22177",
+    "cityName": "Hamburg",
+    "state": "Hamburg",
+    "lat": 53.5970005,
+    "lng": 10.0590007,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "www.eulen-cannabis.de",
+    "phone": "0406915522",
+    "email": "service@eulen-cannabis.de",
+    "productCount": 20,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/68ef5baf981a8d0e2505f070-e90e28.jpg"
+  },
+  "city": {
+    "slug": "hamburg",
+    "name": "Hamburg",
+    "pharmacyCount": 12
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "aposweet",
+      "name": "ApoSweet",
+      "cityName": "Hamburg",
+      "productCount": 73,
+      "hasDelivery": true
+    },
+    {
+      "slug": "thcundco",
+      "name": "thcundco.de (Arcaden Apotheke OHG)",
+      "cityName": "Hamburg",
+      "productCount": 53,
+      "hasDelivery": true
+    },
+    {
+      "slug": "schwanen-apotheke",
+      "name": "Schwanen-Apotheke",
+      "cityName": "Hamburg",
+      "productCount": 42,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-an-der-friedenseiche",
+      "name": "Apotheke an der Friedenseiche",
+      "cityName": "Hamburg",
+      "productCount": 30,
+      "hasDelivery": true
+    },
+    {
+      "slug": "dorfplatz-apotheke",
+      "name": "Dorfplatz Apotheke",
+      "cityName": "Hamburg",
+      "productCount": 13,
+      "hasDelivery": false
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Eulen Apotheke - Cannabis Apotheke in Hamburg",
+      "description": "Eulen Apotheke in Hamburg. 20 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/eulen-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Eulen Apotheke - Cannabis Apotheke in Hamburg",
+        "description": "Eulen Apotheke in Hamburg. 20 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/eulen-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/68ef5baf981a8d0e2505f070-e90e28.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Hamburg",
+        "href": "https://weed.de/cannabis-apotheke/hamburg"
+      },
+      {
+        "name": "Eulen Apotheke",
+        "href": "https://weed.de/apotheke/eulen-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Hamburg",
+            "item": "https://weed.de/cannabis-apotheke/hamburg"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Eulen Apotheke",
+            "item": "https://weed.de/apotheke/eulen-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Eulen Apotheke",
+        "url": "https://weed.de/apotheke/eulen-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Hellbrookkamp 33",
+          "addressLocality": "Hamburg",
+          "postalCode": "22177",
+          "addressRegion": "Hamburg",
+          "addressCountry": "DE"
+        },
+        "telephone": "0406915522",
+        "email": "service@eulen-cannabis.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/hamburg",
+      "text": "Cannabis Apotheken in Hamburg",
+      "title": "Alle Apotheken in Hamburg"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/aposweet",
+        "text": "ApoSweet",
+        "title": "ApoSweet in Hamburg"
+      },
+      {
+        "href": "/apotheke/thcundco",
+        "text": "thcundco.de (Arcaden Apotheke OHG)",
+        "title": "thcundco.de (Arcaden Apotheke OHG) in Hamburg"
+      },
+      {
+        "href": "/apotheke/schwanen-apotheke",
+        "text": "Schwanen-Apotheke",
+        "title": "Schwanen-Apotheke in Hamburg"
+      },
+      {
+        "href": "/apotheke/apotheke-an-der-friedenseiche",
+        "text": "Apotheke an der Friedenseiche",
+        "title": "Apotheke an der Friedenseiche in Hamburg"
+      },
+      {
+        "href": "/apotheke/dorfplatz-apotheke",
+        "text": "Dorfplatz Apotheke",
+        "title": "Dorfplatz Apotheke in Hamburg"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

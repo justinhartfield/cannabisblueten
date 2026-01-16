@@ -1,0 +1,153 @@
+{
+  "brand": {
+    "slug": "german-medical",
+    "name": "German Medical",
+    "productCount": 3
+  },
+  "products": [
+    {
+      "slug": "south-african-271-mungo",
+      "name": "South African 27/1 Mungo",
+      "type": "flower",
+      "thcPercent": 27,
+      "priceMin": 479,
+      "inStock": true,
+      "strainName": "Mungo"
+    },
+    {
+      "slug": "gm-color-of-space-281",
+      "name": "GM Color of Space 28/1",
+      "type": "flower",
+      "thcPercent": 28,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Purple Punch"
+    },
+    {
+      "slug": "south-african-231-mungo",
+      "name": "South African 23/1 Mungo",
+      "type": "flower",
+      "thcPercent": 23,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Mungo"
+    }
+  ],
+  "stats": {
+    "productCount": 3,
+    "inStockCount": 1,
+    "avgThc": 26,
+    "priceRange": {
+      "min": 479,
+      "max": 479,
+      "formatted": {
+        "min": "4,79 €",
+        "max": "4,79 €"
+      }
+    }
+  },
+  "seo": {
+    "meta": {
+      "title": "German Medical Cannabis Produkte - 3 Produkte",
+      "description": "German Medical: 3 Cannabis Produkte. 1 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+      "canonical": "https://weed.de/brand/german-medical",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "German Medical Cannabis Produkte - 3 Produkte",
+        "description": "German Medical: 3 Cannabis Produkte. 1 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+        "url": "https://weed.de/brand/german-medical",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Hersteller",
+        "href": "https://weed.de/brands"
+      },
+      {
+        "name": "German Medical",
+        "href": "https://weed.de/brand/german-medical"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Hersteller",
+            "item": "https://weed.de/brands"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "German Medical",
+            "item": "https://weed.de/brand/german-medical"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "German Medical Produkte",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/south-african-271-mungo",
+            "name": "South African 27/1 Mungo"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/gm-color-of-space-281",
+            "name": "GM Color of Space 28/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/south-african-231-mungo",
+            "name": "South African 23/1 Mungo"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/south-african-271-mungo",
+        "text": "South African 27/1 Mungo",
+        "title": "South African 27/1 Mungo"
+      },
+      {
+        "href": "/product/gm-color-of-space-281",
+        "text": "GM Color of Space 28/1",
+        "title": "GM Color of Space 28/1"
+      },
+      {
+        "href": "/product/south-african-231-mungo",
+        "text": "South African 23/1 Mungo",
+        "title": "South African 23/1 Mungo"
+      }
+    ]
+  }
+}

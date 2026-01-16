@@ -1,0 +1,220 @@
+{
+  "strain": {
+    "slug": "huckleberry",
+    "name": "Huckleberry",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": null,
+      "max": null
+    },
+    "effects": [
+      "Relaxed",
+      "Happy",
+      "Stress-relief",
+      "Anxiety-reducing",
+      "Pain-relief"
+    ],
+    "tastes": [
+      "Berry",
+      "Sweet",
+      "Flowery",
+      "Citrus",
+      "Kush"
+    ],
+    "terpenes": [
+      "Terpinolene",
+      "Myrcene",
+      "Pinene"
+    ],
+    "description": "Huckleberry ist eine Indica-dominante Hybridsorte, die unter anderem auf eine Kreuzung von Honey Boo und True Tangie zurückgeführt wird. Mit einem THC-Gehalt von typischerweise 21 % und einem CBD-Wert von 0 % liefert sie potente Effekte, die vor allem als entspannend und stimmungsaufhellend gelten. \n\nIhr komplexes Geschmacksprofil ist geprägt von unverkennbaren Beerenaromen und einer intensiven Süße, die durch blumige Noten sowie Nuancen von Zitrusmarmelade und Kush ergänzt wird. Das Terpenprofil, das von Myrcen, Terpinolen und Pinen dominiert wird, unterstreicht das Aroma mit erdigen, fruchtigen und waldigen Akzenten. \n\nDie Wirkung wird als eine harmonische Mischung aus tiefer Entspannung und euphorischem Glücksgefühl beschrieben, die Stress effektiv lindert, ohne den Geist zu trüben. Huckleberry ist ideal zur Linderung von Angstzuständen, Stress und Schmerzen, da sie körperliches Wohlbefinden fördert. Zusammengefasst ist Huckleberry eine Sorte für alle, die ein intensives Frucht-Kush-Aroma mit einem potenten, beruhigenden und dennoch klaren High suchen.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 428,
+      "max": 519,
+      "formatted": {
+        "min": "4,28 €",
+        "max": "5,19 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "medical-saints-241-hub",
+      "name": "Medical Saints 24/1 HUB",
+      "brandName": "Medical Saints",
+      "thcPercent": 24,
+      "priceMin": 428,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "lemon-kush",
+      "name": "Lemon Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "spritzer",
+      "name": "Spritzer",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "top-5",
+      "name": "Top 5",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "purple-amnesia",
+      "name": "Purple Amnesia",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "huckleberry-gelato",
+      "name": "Huckleberry Gelato",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Huckleberry (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Huckleberry: Relaxed, Happy, Stress-relief. 1 Produkte verfügbar. ab 4,28 €.",
+      "canonical": "https://weed.de/strain/huckleberry",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Huckleberry (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Huckleberry: Relaxed, Happy, Stress-relief. 1 Produkte verfügbar. ab 4,28 €.",
+        "url": "https://weed.de/strain/huckleberry",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Huckleberry",
+        "href": "https://weed.de/strain/huckleberry"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Huckleberry",
+            "item": "https://weed.de/strain/huckleberry"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Huckleberry Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/medical-saints-241-hub",
+            "name": "Medical Saints 24/1 HUB"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/medical-saints-241-hub",
+        "text": "Medical Saints 24/1 HUB",
+        "title": "Medical Saints 24/1 HUB von Medical Saints"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/lemon-kush",
+        "text": "Lemon Kush",
+        "title": "Lemon Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/spritzer",
+        "text": "Spritzer",
+        "title": "Spritzer - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/top-5",
+        "text": "Top 5",
+        "title": "Top 5 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/purple-amnesia",
+        "text": "Purple Amnesia",
+        "title": "Purple Amnesia - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/huckleberry-gelato",
+        "text": "Huckleberry Gelato",
+        "title": "Huckleberry Gelato - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/terpinolene",
+        "text": "Terpinolene",
+        "title": "Terpinolene Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/pinene",
+        "text": "Pinene",
+        "title": "Pinene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

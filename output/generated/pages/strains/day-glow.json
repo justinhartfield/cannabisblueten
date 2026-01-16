@@ -1,0 +1,215 @@
+{
+  "strain": {
+    "slug": "day-glow",
+    "name": "Day Glow",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [
+      "Happy",
+      "Focused"
+    ],
+    "tastes": [
+      "Diesel",
+      "Pine",
+      "Earthy"
+    ],
+    "terpenes": [
+      "D-Limonene",
+      "Beta-Caryophyllene",
+      "Beta-Myrcene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 449,
+      "max": 790,
+      "formatted": {
+        "min": "4,49 €",
+        "max": "7,90 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "mgf-261-dg",
+      "name": "MGF 26/1 DG",
+      "brandName": "MGF Via Medical",
+      "thcPercent": 26,
+      "priceMin": 449,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "sweets",
+      "name": "Sweets",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "head-with-bang",
+      "name": "Head With Bang",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "sensi-double-kush",
+      "name": "Sensi Double Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "animal-face",
+      "name": "Animal Face",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "detroit-runtz",
+      "name": "Detroit Runtz",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Day Glow (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Day Glow: Happy, Focused. 1 Produkte verfügbar. ab 4,49 €.",
+      "canonical": "https://weed.de/strain/day-glow",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Day Glow (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Day Glow: Happy, Focused. 1 Produkte verfügbar. ab 4,49 €.",
+        "url": "https://weed.de/strain/day-glow",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Day Glow",
+        "href": "https://weed.de/strain/day-glow"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Day Glow",
+            "item": "https://weed.de/strain/day-glow"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Day Glow Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/mgf-261-dg",
+            "name": "MGF 26/1 DG"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/mgf-261-dg",
+        "text": "MGF 26/1 DG",
+        "title": "MGF 26/1 DG von MGF Via Medical"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/sweets",
+        "text": "Sweets",
+        "title": "Sweets - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/head-with-bang",
+        "text": "Head With Bang",
+        "title": "Head With Bang - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/sensi-double-kush",
+        "text": "Sensi Double Kush",
+        "title": "Sensi Double Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/animal-face",
+        "text": "Animal Face",
+        "title": "Animal Face - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/detroit-runtz",
+        "text": "Detroit Runtz",
+        "title": "Detroit Runtz - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/d-limonene",
+        "text": "D-Limonene",
+        "title": "D-Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/beta-myrcene",
+        "text": "Beta-Myrcene",
+        "title": "Beta-Myrcene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

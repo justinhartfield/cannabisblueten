@@ -1,0 +1,272 @@
+{
+  "strain": {
+    "slug": "skywalker-kush",
+    "name": "Skywalker Kush",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [
+      "Euphoric",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Earthy",
+      "Spicy",
+      "Sweet"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 4,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 399,
+      "max": 600,
+      "formatted": {
+        "min": "3,99 €",
+        "max": "6,00 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "bava-med-211-skywalker-kush",
+      "name": "Bava Med 21/1 Skywalker Kush",
+      "brandName": "bava medical",
+      "thcPercent": 21,
+      "priceMin": 399,
+      "inStock": true
+    },
+    {
+      "slug": "good-supply-cannabisblueten-thc18-swk",
+      "name": "Good Supply Cannabisblüten THC18 SWK",
+      "brandName": "Tilray",
+      "thcPercent": 18,
+      "priceMin": 400,
+      "inStock": false
+    },
+    {
+      "slug": "good-supply-cannabisblueten-thc22-swk",
+      "name": "Good Supply Cannabisblüten THC22 SWK",
+      "brandName": "Tilray",
+      "thcPercent": 22,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "good-supply-cannabisblueten-thc25-swk",
+      "name": "Good Supply Cannabisblüten THC25 SWK",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "bucket-list",
+      "name": "Bucket List",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "gelato-33",
+      "name": "Gelato 33",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "grape-gasoline",
+      "name": "Grape Gasoline",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "el-jefe",
+      "name": "El Jefe",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "gorilla-glue-4",
+      "name": "GG4",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Skywalker Kush (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Skywalker Kush: Euphoric, Relaxed. 4 Produkte verfügbar. ab 3,99 €.",
+      "canonical": "https://weed.de/strain/skywalker-kush",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Skywalker Kush (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Skywalker Kush: Euphoric, Relaxed. 4 Produkte verfügbar. ab 3,99 €.",
+        "url": "https://weed.de/strain/skywalker-kush",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Skywalker Kush",
+        "href": "https://weed.de/strain/skywalker-kush"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Skywalker Kush",
+            "item": "https://weed.de/strain/skywalker-kush"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Skywalker Kush Produkte",
+        "numberOfItems": 4,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/bava-med-211-skywalker-kush",
+            "name": "Bava Med 21/1 Skywalker Kush"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/good-supply-cannabisblueten-thc18-swk",
+            "name": "Good Supply Cannabisblüten THC18 SWK"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/good-supply-cannabisblueten-thc22-swk",
+            "name": "Good Supply Cannabisblüten THC22 SWK"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/product/good-supply-cannabisblueten-thc25-swk",
+            "name": "Good Supply Cannabisblüten THC25 SWK"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/bava-med-211-skywalker-kush",
+        "text": "Bava Med 21/1 Skywalker Kush",
+        "title": "Bava Med 21/1 Skywalker Kush von bava medical"
+      },
+      {
+        "href": "/product/good-supply-cannabisblueten-thc18-swk",
+        "text": "Good Supply Cannabisblüten THC18 SWK",
+        "title": "Good Supply Cannabisblüten THC18 SWK von Tilray"
+      },
+      {
+        "href": "/product/good-supply-cannabisblueten-thc22-swk",
+        "text": "Good Supply Cannabisblüten THC22 SWK",
+        "title": "Good Supply Cannabisblüten THC22 SWK von Tilray"
+      },
+      {
+        "href": "/product/good-supply-cannabisblueten-thc25-swk",
+        "text": "Good Supply Cannabisblüten THC25 SWK",
+        "title": "Good Supply Cannabisblüten THC25 SWK von Tilray"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/bucket-list",
+        "text": "Bucket List",
+        "title": "Bucket List - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/gelato-33",
+        "text": "Gelato 33",
+        "title": "Gelato 33 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/grape-gasoline",
+        "text": "Grape Gasoline",
+        "title": "Grape Gasoline - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/el-jefe",
+        "text": "El Jefe",
+        "title": "El Jefe - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/gorilla-glue-4",
+        "text": "GG4",
+        "title": "GG4 - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "product": {
+    "slug": "enua-271-aab-ca",
+    "name": "enua 27/1 AAB CA",
+    "type": "flower",
+    "genetics": "hybrid",
+    "thcPercent": 27,
+    "cbdPercent": 1,
+    "priceMin": 667,
+    "priceMax": 795,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "enua",
+    "name": "enua",
+    "productCount": 123
+  },
+  "strain": {
+    "slug": "blue-gelatti",
+    "name": "Blue Gelatti",
+    "geneticType": "hybrid",
+    "effects": [
+      "Cerebral",
+      "Euphoric",
+      "Body-buzz",
+      "Relaxed",
+      "Energetic"
+    ],
+    "terpenes": [
+      "Beta-Caryophyllene",
+      "Beta-Myrcene",
+      "Ocimene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Cerebral",
+      "Euphoric",
+      "Body-buzz",
+      "Relaxed",
+      "Energetic"
+    ],
+    "tastes": [
+      "Apple",
+      "Spicy",
+      "Pine",
+      "Earthy",
+      "Gassy"
+    ],
+    "terpenes": [
+      "Beta-Caryophyllene",
+      "Beta-Myrcene",
+      "Ocimene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "tilray-thc-25-spotlight-porto-purps",
+      "name": "Tilray THC 25 Spotlight Porto Purps",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": 349,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc5cbd2",
+      "name": "Tilray Cannabisextrakt THC5:CBD20",
+      "brandName": "Tilray",
+      "thcPercent": 5,
+      "priceMin": 350,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc1cbd1",
+      "name": "Tilray Cannabisextrakt THC10:CBD10",
+      "brandName": "Tilray",
+      "thcPercent": 10,
+      "priceMin": 400,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-2",
+      "name": "Demecan Typ 2",
+      "brandName": "Demecan",
+      "thcPercent": 16,
+      "priceMin": 533,
+      "inStock": true
+    },
+    {
+      "slug": "420-natural-201-ca-gg4",
+      "name": "420 Natural 20/1 CA GG4",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 20,
+      "priceMin": 589,
+      "inStock": true
+    },
+    {
+      "slug": "khiron-191-gelato",
+      "name": "Khiron 19/1 Gelato",
+      "brandName": "Khiron",
+      "thcPercent": 17.6,
+      "priceMin": 638,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "enua 27/1 AAB CA | ab 6,67 €",
+      "description": "enua 27/1 AAB CA von enua. THC: 27%, CBD: 1%. Sorte: Blue Gelatti. Preis ab 6,67 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/enua-271-aab-ca",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "enua 27/1 AAB CA | ab 6,67 €",
+        "description": "enua 27/1 AAB CA von enua. THC: 27%, CBD: 1%. Sorte: Blue Gelatti. Preis ab 6,67 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/enua-271-aab-ca",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "enua",
+        "href": "https://weed.de/brand/enua"
+      },
+      {
+        "name": "enua 27/1 AAB CA",
+        "href": "https://weed.de/product/enua-271-aab-ca"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "enua 27/1 AAB CA",
+            "item": "https://weed.de/product/enua-271-aab-ca"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "enua 27/1 AAB CA",
+        "brand": {
+          "@type": "Brand",
+          "name": "enua"
+        },
+        "description": "THC: 27%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/blue-gelatti",
+      "text": "Blue Gelatti",
+      "title": "Blue Gelatti Sorte"
+    },
+    "brand": {
+      "href": "/brand/enua",
+      "text": "enua",
+      "title": "Alle enua Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/tilray-thc-25-spotlight-porto-purps",
+        "text": "Tilray THC 25 Spotlight Porto Purps",
+        "title": "Alternative: Tilray THC 25 Spotlight Porto Purps"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc5cbd2",
+        "text": "Tilray Cannabisextrakt THC5:CBD20",
+        "title": "Alternative: Tilray Cannabisextrakt THC5:CBD20"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc1cbd1",
+        "text": "Tilray Cannabisextrakt THC10:CBD10",
+        "title": "Alternative: Tilray Cannabisextrakt THC10:CBD10"
+      },
+      {
+        "href": "/product/demecan-typ-2",
+        "text": "Demecan Typ 2",
+        "title": "Alternative: Demecan Typ 2"
+      },
+      {
+        "href": "/product/420-natural-201-ca-gg4",
+        "text": "420 Natural 20/1 CA GG4",
+        "title": "Alternative: 420 Natural 20/1 CA GG4"
+      },
+      {
+        "href": "/product/khiron-191-gelato",
+        "text": "Khiron 19/1 Gelato",
+        "title": "Alternative: Khiron 19/1 Gelato"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "medicalherbs-vital-apotheke-dresden",
+    "name": "medicalherbs.de - Vital Apotheke Dresden",
+    "street": "Leipziger Straße 40",
+    "zip": "01127",
+    "cityName": "Dresden",
+    "state": "Sachsen",
+    "lat": 51.0719704,
+    "lng": 13.7269767,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://medicalherbs.de",
+    "phone": "035184389788",
+    "email": "info@mit-uns-natuerlich.de",
+    "productCount": 40,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/6755f3f0662024360b404edf-f7e83i.jpg"
+  },
+  "city": {
+    "slug": "dresden",
+    "name": "Dresden",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "gruenhorn-apotheke",
+      "name": "GRÜNHORN - Apotheke im P. C.",
+      "cityName": "Leipzig",
+      "productCount": 168,
+      "hasDelivery": true
+    },
+    {
+      "slug": "mycannea-oder-schloss-apotheke",
+      "name": "myCannea | Schloß APOTHEKE",
+      "cityName": "Zwickau",
+      "productCount": 65,
+      "hasDelivery": true
+    },
+    {
+      "slug": "gruene-bluete",
+      "name": "Grüne Blüte",
+      "cityName": "Markkleeberg",
+      "productCount": 60,
+      "hasDelivery": true
+    },
+    {
+      "slug": "merkur-apotheke-schneeberg",
+      "name": "ErzCannabis - Merkur Apotheke Schneeberg",
+      "cityName": "Schneeberg",
+      "productCount": 50,
+      "hasDelivery": true
+    },
+    {
+      "slug": "bethanien-apotheke-ek-abt-cansa",
+      "name": "Bethanien-Apotheke e.K. Abt. Cansa",
+      "cityName": "Chemnitz",
+      "productCount": 16,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "medicalherbs.de - Vital Apotheke Dresden - Cannabis Apotheke in Dresden",
+      "description": "medicalherbs.de - Vital Apotheke Dresden in Dresden. 40 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/medicalherbs-vital-apotheke-dresden",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "medicalherbs.de - Vital Apotheke Dresden - Cannabis Apotheke in Dresden",
+        "description": "medicalherbs.de - Vital Apotheke Dresden in Dresden. 40 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/medicalherbs-vital-apotheke-dresden",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/6755f3f0662024360b404edf-f7e83i.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Dresden",
+        "href": "https://weed.de/cannabis-apotheke/dresden"
+      },
+      {
+        "name": "medicalherbs.de - Vital Apotheke Dresden",
+        "href": "https://weed.de/apotheke/medicalherbs-vital-apotheke-dresden"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Dresden",
+            "item": "https://weed.de/cannabis-apotheke/dresden"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "medicalherbs.de - Vital Apotheke Dresden",
+            "item": "https://weed.de/apotheke/medicalherbs-vital-apotheke-dresden"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "medicalherbs.de - Vital Apotheke Dresden",
+        "url": "https://weed.de/apotheke/medicalherbs-vital-apotheke-dresden",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Leipziger Straße 40",
+          "addressLocality": "Dresden",
+          "postalCode": "01127",
+          "addressRegion": "Sachsen",
+          "addressCountry": "DE"
+        },
+        "telephone": "035184389788",
+        "email": "info@mit-uns-natuerlich.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/dresden",
+      "text": "Cannabis Apotheken in Dresden",
+      "title": "Alle Apotheken in Dresden"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/gruenhorn-apotheke",
+        "text": "GRÜNHORN - Apotheke im P. C.",
+        "title": "GRÜNHORN - Apotheke im P. C. in Leipzig"
+      },
+      {
+        "href": "/apotheke/mycannea-oder-schloss-apotheke",
+        "text": "myCannea | Schloß APOTHEKE",
+        "title": "myCannea | Schloß APOTHEKE in Zwickau"
+      },
+      {
+        "href": "/apotheke/gruene-bluete",
+        "text": "Grüne Blüte",
+        "title": "Grüne Blüte in Markkleeberg"
+      },
+      {
+        "href": "/apotheke/merkur-apotheke-schneeberg",
+        "text": "ErzCannabis - Merkur Apotheke Schneeberg",
+        "title": "ErzCannabis - Merkur Apotheke Schneeberg in Schneeberg"
+      },
+      {
+        "href": "/apotheke/bethanien-apotheke-ek-abt-cansa",
+        "text": "Bethanien-Apotheke e.K. Abt. Cansa",
+        "title": "Bethanien-Apotheke e.K. Abt. Cansa in Chemnitz"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "apoherbs",
+    "name": "Apoherbs c/o Spitzweg-Apotheke im Martin-Luther-Ärztehaus",
+    "street": "Voedestraße 69-71",
+    "zip": "44866",
+    "cityName": "Bochum",
+    "state": "Nordrhein-Westfalen",
+    "lat": 51.48166800000001,
+    "lng": 7.143332,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://apoherbs.de/",
+    "phone": "023279192655",
+    "email": "bestellung@apoherbs.de",
+    "productCount": 21,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/674d831ba8088f0f33f08f40-h2i814.jpg"
+  },
+  "city": {
+    "slug": "bochum",
+    "name": "Bochum",
+    "pharmacyCount": 4
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "1a-apoweed",
+      "name": "1A Apoweed",
+      "cityName": "Bochum",
+      "productCount": 64,
+      "hasDelivery": true
+    },
+    {
+      "slug": "bluetenpottde",
+      "name": "bluetenpott.de",
+      "cityName": "Bochum",
+      "productCount": 61,
+      "hasDelivery": true
+    },
+    {
+      "slug": "hoekes-apotheke-stiepel",
+      "name": "Ruhrblüte",
+      "cityName": "Bochum",
+      "productCount": 0,
+      "hasDelivery": false
+    },
+    {
+      "slug": "higreen-apotheke",
+      "name": "higreen! Online Marktplatz für Cannabis Apotheken",
+      "cityName": "Krefeld",
+      "productCount": 256,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-zur-alten-post",
+      "name": "Cannacompany (Apotheke zur Alten Post)",
+      "cityName": "Bonn",
+      "productCount": 233,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Apoherbs c/o Spitzweg-Apotheke im Martin-Luther-Ärztehaus - Cannabis Apotheke in Bochum",
+      "description": "Apoherbs c/o Spitzweg-Apotheke im Martin-Luther-Ärztehaus in Bochum. 21 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/apoherbs",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Apoherbs c/o Spitzweg-Apotheke im Martin-Luther-Ärztehaus - Cannabis Apotheke in Bochum",
+        "description": "Apoherbs c/o Spitzweg-Apotheke im Martin-Luther-Ärztehaus in Bochum. 21 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/apoherbs",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/674d831ba8088f0f33f08f40-h2i814.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Bochum",
+        "href": "https://weed.de/cannabis-apotheke/bochum"
+      },
+      {
+        "name": "Apoherbs c/o Spitzweg-Apotheke im Martin-Luther-Ärztehaus",
+        "href": "https://weed.de/apotheke/apoherbs"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Bochum",
+            "item": "https://weed.de/cannabis-apotheke/bochum"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Apoherbs c/o Spitzweg-Apotheke im Martin-Luther-Ärztehaus",
+            "item": "https://weed.de/apotheke/apoherbs"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Apoherbs c/o Spitzweg-Apotheke im Martin-Luther-Ärztehaus",
+        "url": "https://weed.de/apotheke/apoherbs",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Voedestraße 69-71",
+          "addressLocality": "Bochum",
+          "postalCode": "44866",
+          "addressRegion": "Nordrhein-Westfalen",
+          "addressCountry": "DE"
+        },
+        "telephone": "023279192655",
+        "email": "bestellung@apoherbs.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/bochum",
+      "text": "Cannabis Apotheken in Bochum",
+      "title": "Alle Apotheken in Bochum"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/1a-apoweed",
+        "text": "1A Apoweed",
+        "title": "1A Apoweed in Bochum"
+      },
+      {
+        "href": "/apotheke/bluetenpottde",
+        "text": "bluetenpott.de",
+        "title": "bluetenpott.de in Bochum"
+      },
+      {
+        "href": "/apotheke/hoekes-apotheke-stiepel",
+        "text": "Ruhrblüte",
+        "title": "Ruhrblüte in Bochum"
+      },
+      {
+        "href": "/apotheke/higreen-apotheke",
+        "text": "higreen! Online Marktplatz für Cannabis Apotheken",
+        "title": "higreen! Online Marktplatz für Cannabis Apotheken in Krefeld"
+      },
+      {
+        "href": "/apotheke/apotheke-zur-alten-post",
+        "text": "Cannacompany (Apotheke zur Alten Post)",
+        "title": "Cannacompany (Apotheke zur Alten Post) in Bonn"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

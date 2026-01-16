@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "buchen-apotheke",
+    "name": "Hanauer Cannabis Apotheke | Buchen-Apotheke",
+    "street": "Hanau, Deutschland",
+    "zip": "63",
+    "cityName": "Hanau",
+    "state": "Hessen",
+    "lat": 50.1264123,
+    "lng": 8.9283105,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://hanauer-cannabis-apotheke.de",
+    "phone": "06181740911",
+    "email": "Shop@hanauer-cannabis-apotheke.de",
+    "productCount": 32,
+    "rating": 3.5,
+    "ratingCount": 4,
+    "imageUrl": "https://weed.de/pharmacies/666090c7e9f52afc5e7fa5b4-bf3icj.jpg"
+  },
+  "city": {
+    "slug": "hanau",
+    "name": "Hanau",
+    "pharmacyCount": 3
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "engel-apotheke",
+      "name": "Sativa-Rhein-Main",
+      "cityName": "Hanau",
+      "productCount": 10,
+      "hasDelivery": false
+    },
+    {
+      "slug": "gloria-cannabis-apotheke-hanau",
+      "name": "Gloria Cannabis Apotheke Hanau",
+      "cityName": "Hanau",
+      "productCount": 0,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis-vital-apotheke",
+      "name": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
+      "cityName": "Hattersheim am Main",
+      "productCount": 187,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis-apotheke-frankfurtkissel-apotheke",
+      "name": "Cannabis Apotheke Frankfurt/Kissel-Apotheke",
+      "cityName": "Frankfurt am Main",
+      "productCount": 183,
+      "hasDelivery": true
+    },
+    {
+      "slug": "schloss-apotheke",
+      "name": "Schloss Apotheke / svapo.de",
+      "cityName": "Offenbach am Main",
+      "productCount": 148,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Hanauer Cannabis Apotheke | Buchen-Apotheke - Cannabis Apotheke in Hanau",
+      "description": "Hanauer Cannabis Apotheke | Buchen-Apotheke in Hanau. 32 Cannabis Produkte. Lieferung & Abholung. Bewertung: 3.5/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/buchen-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Hanauer Cannabis Apotheke | Buchen-Apotheke - Cannabis Apotheke in Hanau",
+        "description": "Hanauer Cannabis Apotheke | Buchen-Apotheke in Hanau. 32 Cannabis Produkte. Lieferung & Abholung. Bewertung: 3.5/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/buchen-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/pharmacies/666090c7e9f52afc5e7fa5b4-bf3icj.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Hanau",
+        "href": "https://weed.de/cannabis-apotheke/hanau"
+      },
+      {
+        "name": "Hanauer Cannabis Apotheke | Buchen-Apotheke",
+        "href": "https://weed.de/apotheke/buchen-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Hanau",
+            "item": "https://weed.de/cannabis-apotheke/hanau"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Hanauer Cannabis Apotheke | Buchen-Apotheke",
+            "item": "https://weed.de/apotheke/buchen-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Hanauer Cannabis Apotheke | Buchen-Apotheke",
+        "url": "https://weed.de/apotheke/buchen-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Hanau, Deutschland",
+          "addressLocality": "Hanau",
+          "postalCode": "63",
+          "addressRegion": "Hessen",
+          "addressCountry": "DE"
+        },
+        "telephone": "06181740911",
+        "email": "Shop@hanauer-cannabis-apotheke.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/hanau",
+      "text": "Cannabis Apotheken in Hanau",
+      "title": "Alle Apotheken in Hanau"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/engel-apotheke",
+        "text": "Sativa-Rhein-Main",
+        "title": "Sativa-Rhein-Main in Hanau"
+      },
+      {
+        "href": "/apotheke/gloria-cannabis-apotheke-hanau",
+        "text": "Gloria Cannabis Apotheke Hanau",
+        "title": "Gloria Cannabis Apotheke Hanau in Hanau"
+      },
+      {
+        "href": "/apotheke/cannabis-vital-apotheke",
+        "text": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
+        "title": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim) in Hattersheim am Main"
+      },
+      {
+        "href": "/apotheke/cannabis-apotheke-frankfurtkissel-apotheke",
+        "text": "Cannabis Apotheke Frankfurt/Kissel-Apotheke",
+        "title": "Cannabis Apotheke Frankfurt/Kissel-Apotheke in Frankfurt am Main"
+      },
+      {
+        "href": "/apotheke/schloss-apotheke",
+        "text": "Schloss Apotheke / svapo.de",
+        "title": "Schloss Apotheke / svapo.de in Offenbach am Main"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

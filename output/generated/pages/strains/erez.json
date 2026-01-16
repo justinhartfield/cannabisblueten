@@ -1,0 +1,235 @@
+{
+  "strain": {
+    "slug": "erez",
+    "name": "Erez",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Sleepy",
+      "Hungry",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Spicy-Herbal",
+      "Berry",
+      "Blueberry"
+    ],
+    "terpenes": [
+      "Pinene",
+      "Humulene",
+      "Linalool"
+    ],
+    "description": "Erez ist eine eher indica-dominante Hybrid-Sorte, mit THC-Werten, die durchschnittlich von 19% bis 24% reichen, während der CBD-Gehalt meist bei unter 1% liegt. Die vorherrschenden Terpene in Erez sind Pinen, Humulen und Linalool, die für einen würzig-herben, aber teilweise auch beerig angehauchten Geschmack dieses Strains sorgen. Die Wirkung soll laut einigen Nutzern stark von dem hohen Indica-Anteil bestimmt sein und somit eher schläfrig, stark entspannend und appetitanregend wirken. Das Aussehen dieses Strains kommt sehr hellfarbig, mit vergleichsweise weniger Blütenständen daher und hat einen merklichen Anteil an kristallinen Trichomen, welche die Blüte überziehen.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 499,
+      "max": 1195,
+      "formatted": {
+        "min": "4,99 €",
+        "max": "11,95 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "re-cannis-211",
+      "name": "Re Cannis 21/1",
+      "brandName": "Fette Pharma GmbH",
+      "thcPercent": 21,
+      "priceMin": 1195,
+      "inStock": true
+    },
+    {
+      "slug": "tikun-erez-21",
+      "name": "Tikun Erez 20/1",
+      "brandName": "Dopiopharm",
+      "thcPercent": 21.9,
+      "priceMin": 499,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "gush-mints",
+      "name": "Gush Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "gummy-bears",
+      "name": "Gummy Bears",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "purple-octane",
+      "name": "Purple Octane",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "blue-slushie",
+      "name": "Blue Slushie",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "colour-of-space-12",
+      "name": "Colour of Space 12",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Erez (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Erez: Sleepy, Hungry, Relaxed. 2 Produkte verfügbar. ab 4,99 €.",
+      "canonical": "https://weed.de/strain/erez",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Erez (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Erez: Sleepy, Hungry, Relaxed. 2 Produkte verfügbar. ab 4,99 €.",
+        "url": "https://weed.de/strain/erez",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Erez",
+        "href": "https://weed.de/strain/erez"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Erez",
+            "item": "https://weed.de/strain/erez"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Erez Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/re-cannis-211",
+            "name": "Re Cannis 21/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/tikun-erez-21",
+            "name": "Tikun Erez 20/1"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/re-cannis-211",
+        "text": "Re Cannis 21/1",
+        "title": "Re Cannis 21/1 von Fette Pharma GmbH"
+      },
+      {
+        "href": "/product/tikun-erez-21",
+        "text": "Tikun Erez 20/1",
+        "title": "Tikun Erez 20/1 von Dopiopharm"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/gush-mints",
+        "text": "Gush Mints",
+        "title": "Gush Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/gummy-bears",
+        "text": "Gummy Bears",
+        "title": "Gummy Bears - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/purple-octane",
+        "text": "Purple Octane",
+        "title": "Purple Octane - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/blue-slushie",
+        "text": "Blue Slushie",
+        "title": "Blue Slushie - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/colour-of-space-12",
+        "text": "Colour of Space 12",
+        "title": "Colour of Space 12 - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/pinene",
+        "text": "Pinene",
+        "title": "Pinene Terpen"
+      },
+      {
+        "href": "/terpene/humulene",
+        "text": "Humulene",
+        "title": "Humulene Terpen"
+      },
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

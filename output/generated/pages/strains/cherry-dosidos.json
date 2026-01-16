@@ -1,0 +1,235 @@
+{
+  "strain": {
+    "slug": "cherry-dosidos",
+    "name": "Cherry DoSiDos",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Euphoric",
+      "Focused",
+      "Creative"
+    ],
+    "tastes": [
+      "Earthy",
+      "Sweet",
+      "Fruity"
+    ],
+    "terpenes": [
+      "Linalool",
+      "Humulene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 598,
+      "max": 598,
+      "formatted": {
+        "min": "5,98 €",
+        "max": "5,98 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "imc-chd-thc22",
+      "name": "IMC CHD THC22",
+      "brandName": "IMC",
+      "thcPercent": 22,
+      "priceMin": 598,
+      "inStock": false
+    },
+    {
+      "slug": "mgf-cd-221",
+      "name": "MGF CD 22/1",
+      "brandName": "MGF Via Medical",
+      "thcPercent": 22,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "blue-z",
+      "name": "Blue Z",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "zkittlez-kushmints",
+      "name": "Zkittlez Kushmints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "oz",
+      "name": "OZ",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "frosted-cookies",
+      "name": "Frosted Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "purple-ice-water",
+      "name": "Purple Ice Water",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cherry DoSiDos (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Cherry DoSiDos: Euphoric, Focused, Creative. 2 Produkte verfügbar. ab 5,98 €.",
+      "canonical": "https://weed.de/strain/cherry-dosidos",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cherry DoSiDos (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Cherry DoSiDos: Euphoric, Focused, Creative. 2 Produkte verfügbar. ab 5,98 €.",
+        "url": "https://weed.de/strain/cherry-dosidos",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Cherry DoSiDos",
+        "href": "https://weed.de/strain/cherry-dosidos"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Cherry DoSiDos",
+            "item": "https://weed.de/strain/cherry-dosidos"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Cherry DoSiDos Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/imc-chd-thc22",
+            "name": "IMC CHD THC22"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/mgf-cd-221",
+            "name": "MGF CD 22/1"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/imc-chd-thc22",
+        "text": "IMC CHD THC22",
+        "title": "IMC CHD THC22 von IMC"
+      },
+      {
+        "href": "/product/mgf-cd-221",
+        "text": "MGF CD 22/1",
+        "title": "MGF CD 22/1 von MGF Via Medical"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/blue-z",
+        "text": "Blue Z",
+        "title": "Blue Z - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/zkittlez-kushmints",
+        "text": "Zkittlez Kushmints",
+        "title": "Zkittlez Kushmints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/oz",
+        "text": "OZ",
+        "title": "OZ - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/frosted-cookies",
+        "text": "Frosted Cookies",
+        "title": "Frosted Cookies - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/purple-ice-water",
+        "text": "Purple Ice Water",
+        "title": "Purple Ice Water - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      },
+      {
+        "href": "/terpene/humulene",
+        "text": "Humulene",
+        "title": "Humulene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

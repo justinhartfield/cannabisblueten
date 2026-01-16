@@ -1,0 +1,209 @@
+{
+  "strain": {
+    "slug": "zurple-syrup",
+    "name": "Zurple Syrup",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [
+      "Euphoric",
+      "Relaxed",
+      "Sleepy"
+    ],
+    "tastes": [
+      "Sweet",
+      "Fruity",
+      "Spicy"
+    ],
+    "terpenes": [
+      "Beta-Myrcene",
+      "Beta-Caryophyllene",
+      "D-Limonene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": null
+  },
+  "products": [
+    {
+      "slug": "enua-271-zs-ca",
+      "name": "enua 27/1 ZS CA",
+      "brandName": "enua",
+      "thcPercent": 28.1,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "lemon-og",
+      "name": "Lemon OG",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "pineapple-god",
+      "name": "Pineapple God",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "la-sage-t22",
+      "name": "LA Sage T22",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "florida-kush",
+      "name": "Florida Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "sensi-double-kush",
+      "name": "Sensi Double Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Zurple Syrup (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Zurple Syrup: Euphoric, Relaxed, Sleepy. 1 Produkte verfügbar.",
+      "canonical": "https://weed.de/strain/zurple-syrup",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Zurple Syrup (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Zurple Syrup: Euphoric, Relaxed, Sleepy. 1 Produkte verfügbar.",
+        "url": "https://weed.de/strain/zurple-syrup",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Zurple Syrup",
+        "href": "https://weed.de/strain/zurple-syrup"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Zurple Syrup",
+            "item": "https://weed.de/strain/zurple-syrup"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Zurple Syrup Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/enua-271-zs-ca",
+            "name": "enua 27/1 ZS CA"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/enua-271-zs-ca",
+        "text": "enua 27/1 ZS CA",
+        "title": "enua 27/1 ZS CA von enua"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/lemon-og",
+        "text": "Lemon OG",
+        "title": "Lemon OG - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/pineapple-god",
+        "text": "Pineapple God",
+        "title": "Pineapple God - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/la-sage-t22",
+        "text": "LA Sage T22",
+        "title": "LA Sage T22 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/florida-kush",
+        "text": "Florida Kush",
+        "title": "Florida Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/sensi-double-kush",
+        "text": "Sensi Double Kush",
+        "title": "Sensi Double Kush - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/beta-myrcene",
+        "text": "Beta-Myrcene",
+        "title": "Beta-Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/d-limonene",
+        "text": "D-Limonene",
+        "title": "D-Limonene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

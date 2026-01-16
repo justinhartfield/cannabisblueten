@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "cann24",
+    "name": "Cann24",
+    "street": "Neuenfelder Straße 31",
+    "zip": "21109",
+    "cityName": "Hamburg",
+    "state": "Hamburg",
+    "lat": 53.4968571,
+    "lng": 10.0047789,
+    "hasDelivery": false,
+    "hasPickup": true,
+    "hasPrices": false,
+    "website": null,
+    "phone": "040302386990",
+    "email": "cann24@weed.de",
+    "productCount": 0,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.de/pharmacies/cann24-hbbifi.png"
+  },
+  "city": {
+    "slug": "hamburg",
+    "name": "Hamburg",
+    "pharmacyCount": 12
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "aposweet",
+      "name": "ApoSweet",
+      "cityName": "Hamburg",
+      "productCount": 73,
+      "hasDelivery": true
+    },
+    {
+      "slug": "thcundco",
+      "name": "thcundco.de (Arcaden Apotheke OHG)",
+      "cityName": "Hamburg",
+      "productCount": 53,
+      "hasDelivery": true
+    },
+    {
+      "slug": "schwanen-apotheke",
+      "name": "Schwanen-Apotheke",
+      "cityName": "Hamburg",
+      "productCount": 42,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-an-der-friedenseiche",
+      "name": "Apotheke an der Friedenseiche",
+      "cityName": "Hamburg",
+      "productCount": 30,
+      "hasDelivery": true
+    },
+    {
+      "slug": "eulen-apotheke",
+      "name": "Eulen Apotheke",
+      "cityName": "Hamburg",
+      "productCount": 20,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cann24 - Cannabis Apotheke in Hamburg",
+      "description": "Cann24 in Hamburg. Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/cann24",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cann24 - Cannabis Apotheke in Hamburg",
+        "description": "Cann24 in Hamburg. Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/cann24",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/pharmacies/cann24-hbbifi.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Hamburg",
+        "href": "https://weed.de/cannabis-apotheke/hamburg"
+      },
+      {
+        "name": "Cann24",
+        "href": "https://weed.de/apotheke/cann24"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Hamburg",
+            "item": "https://weed.de/cannabis-apotheke/hamburg"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Cann24",
+            "item": "https://weed.de/apotheke/cann24"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Cann24",
+        "url": "https://weed.de/apotheke/cann24",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Neuenfelder Straße 31",
+          "addressLocality": "Hamburg",
+          "postalCode": "21109",
+          "addressRegion": "Hamburg",
+          "addressCountry": "DE"
+        },
+        "telephone": "040302386990",
+        "email": "cann24@weed.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/hamburg",
+      "text": "Cannabis Apotheken in Hamburg",
+      "title": "Alle Apotheken in Hamburg"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/aposweet",
+        "text": "ApoSweet",
+        "title": "ApoSweet in Hamburg"
+      },
+      {
+        "href": "/apotheke/thcundco",
+        "text": "thcundco.de (Arcaden Apotheke OHG)",
+        "title": "thcundco.de (Arcaden Apotheke OHG) in Hamburg"
+      },
+      {
+        "href": "/apotheke/schwanen-apotheke",
+        "text": "Schwanen-Apotheke",
+        "title": "Schwanen-Apotheke in Hamburg"
+      },
+      {
+        "href": "/apotheke/apotheke-an-der-friedenseiche",
+        "text": "Apotheke an der Friedenseiche",
+        "title": "Apotheke an der Friedenseiche in Hamburg"
+      },
+      {
+        "href": "/apotheke/eulen-apotheke",
+        "text": "Eulen Apotheke",
+        "title": "Eulen Apotheke in Hamburg"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has services"
+  }
+}

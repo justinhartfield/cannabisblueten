@@ -1,0 +1,253 @@
+{
+  "city": {
+    "slug": "karlsruhe",
+    "name": "Karlsruhe",
+    "state": "Baden-Württemberg"
+  },
+  "stats": {
+    "pharmacyCount": 5,
+    "totalProducts": 421,
+    "hasDelivery": true
+  },
+  "pharmacies": [
+    {
+      "slug": "karlchengras",
+      "name": "Karlchengras (Karl-Apotheke)",
+      "street": "Karlstraße 18",
+      "zip": "76133",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 188,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "rhein-apotheke-im-aerztehaus-muehlburg",
+      "name": "Rhein-Apotheke im Ärztehaus Mühlburg",
+      "street": "Rheinstraße 41",
+      "zip": "76185",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 133,
+      "rating": 5,
+      "ratingCount": 2
+    },
+    {
+      "slug": "marienhuana-apotheke",
+      "name": "Marienhuana Apotheke",
+      "street": "Marienstraße 43",
+      "zip": "76137",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 43,
+      "rating": 3,
+      "ratingCount": 2
+    },
+    {
+      "slug": "weinbrennerapotheke",
+      "name": "Weinbrennerapotheke",
+      "street": "Gabelsbergerstraße 19",
+      "zip": "76135",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 35,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "friesen-apotheke-karlsruhe",
+      "name": "Friesen-Gras",
+      "street": "Durlacher Allee 111",
+      "zip": "76137",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 22,
+      "rating": 5,
+      "ratingCount": 1
+    }
+  ],
+  "nearbyCities": [
+    {
+      "slug": "mannheim",
+      "name": "Mannheim",
+      "pharmacyCount": 6
+    },
+    {
+      "slug": "stuttgart",
+      "name": "Stuttgart",
+      "pharmacyCount": 6
+    },
+    {
+      "slug": "baden-baden",
+      "name": "Baden-Baden",
+      "pharmacyCount": 3
+    },
+    {
+      "slug": "tuebingen",
+      "name": "Tübingen",
+      "pharmacyCount": 2
+    },
+    {
+      "slug": "heidelberg",
+      "name": "Heidelberg",
+      "pharmacyCount": 2
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannabis Apotheke Karlsruhe - 5 Apotheken",
+      "description": "Cannabis Apotheken in Karlsruhe. 5 Apotheken mit 421 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+      "canonical": "https://weed.de/cannabis-apotheke/karlsruhe",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannabis Apotheke Karlsruhe - 5 Apotheken",
+        "description": "Cannabis Apotheken in Karlsruhe. 5 Apotheken mit 421 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+        "url": "https://weed.de/cannabis-apotheke/karlsruhe",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Karlsruhe",
+        "href": "https://weed.de/cannabis-apotheke/karlsruhe"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Karlsruhe",
+            "item": "https://weed.de/cannabis-apotheke/karlsruhe"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Cannabis Apotheken in Karlsruhe",
+        "numberOfItems": 5,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/apotheke/karlchengras",
+            "name": "Karlchengras (Karl-Apotheke)"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/apotheke/rhein-apotheke-im-aerztehaus-muehlburg",
+            "name": "Rhein-Apotheke im Ärztehaus Mühlburg"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/apotheke/marienhuana-apotheke",
+            "name": "Marienhuana Apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/apotheke/weinbrennerapotheke",
+            "name": "Weinbrennerapotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "https://weed.de/apotheke/friesen-apotheke-karlsruhe",
+            "name": "Friesen-Gras"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "pharmacies": [
+      {
+        "href": "/apotheke/karlchengras",
+        "text": "Karlchengras (Karl-Apotheke)",
+        "title": "Karlchengras (Karl-Apotheke) in Karlsruhe"
+      },
+      {
+        "href": "/apotheke/rhein-apotheke-im-aerztehaus-muehlburg",
+        "text": "Rhein-Apotheke im Ärztehaus Mühlburg",
+        "title": "Rhein-Apotheke im Ärztehaus Mühlburg in Karlsruhe"
+      },
+      {
+        "href": "/apotheke/marienhuana-apotheke",
+        "text": "Marienhuana Apotheke",
+        "title": "Marienhuana Apotheke in Karlsruhe"
+      },
+      {
+        "href": "/apotheke/weinbrennerapotheke",
+        "text": "Weinbrennerapotheke",
+        "title": "Weinbrennerapotheke in Karlsruhe"
+      },
+      {
+        "href": "/apotheke/friesen-apotheke-karlsruhe",
+        "text": "Friesen-Gras",
+        "title": "Friesen-Gras in Karlsruhe"
+      }
+    ],
+    "nearbyCities": [
+      {
+        "href": "/cannabis-apotheke/mannheim",
+        "text": "Cannabis Apotheke Mannheim",
+        "title": "6 Apotheken in Mannheim"
+      },
+      {
+        "href": "/cannabis-apotheke/stuttgart",
+        "text": "Cannabis Apotheke Stuttgart",
+        "title": "6 Apotheken in Stuttgart"
+      },
+      {
+        "href": "/cannabis-apotheke/baden-baden",
+        "text": "Cannabis Apotheke Baden-Baden",
+        "title": "3 Apotheken in Baden-Baden"
+      },
+      {
+        "href": "/cannabis-apotheke/tuebingen",
+        "text": "Cannabis Apotheke Tübingen",
+        "title": "2 Apotheken in Tübingen"
+      },
+      {
+        "href": "/cannabis-apotheke/heidelberg",
+        "text": "Cannabis Apotheke Heidelberg",
+        "title": "2 Apotheken in Heidelberg"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has 5 pharmacies"
+  }
+}

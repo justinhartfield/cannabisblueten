@@ -1,0 +1,224 @@
+{
+  "product": {
+    "slug": "demecan-0520-oktonia-typ2",
+    "name": "Demecan 05:20 Oktonia Typ2",
+    "type": "extract",
+    "genetics": "hybrid_sativa",
+    "thcPercent": 0.5,
+    "cbdPercent": 2,
+    "priceMin": 1059,
+    "priceMax": 1400,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "N/A",
+    "imageUrl": "https://weed.de/products/demecan-0520-oktonia-typ2-i7c2e4.png"
+  },
+  "brand": {
+    "slug": "demecan",
+    "name": "Demecan",
+    "productCount": 168
+  },
+  "strain": {
+    "slug": "orange-velvet",
+    "name": "Orange Velvet",
+    "geneticType": "indica",
+    "effects": [
+      "Energetic",
+      "Euphoric",
+      "Creative"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Ocimene",
+      "Valencene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Energetic",
+      "Euphoric",
+      "Creative"
+    ],
+    "tastes": [
+      "Vanilla",
+      "Orange"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Ocimene",
+      "Valencene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "demecan-typ-2",
+      "name": "Demecan Typ 2",
+      "brandName": "Demecan",
+      "thcPercent": 16,
+      "priceMin": 533,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-2-191-orange-velvet",
+      "name": "Demecan Typ 2 19/1 Orange Velvet",
+      "brandName": "Demecan",
+      "thcPercent": 19,
+      "priceMin": 629,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-oktonia-typ2-1010",
+      "name": "DEMECAN Oktonia Typ2 10:10",
+      "brandName": "Demecan",
+      "thcPercent": 10,
+      "priceMin": 689,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-oktonia-typ-2-31-cannabisextrakt",
+      "name": "Demecan Oktonia Typ 2 30:01 (Cannabisextrakt)",
+      "brandName": "Demecan",
+      "thcPercent": 30,
+      "priceMin": 1067,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-oktonia-typ2-2501",
+      "name": "DEMECAN Oktonia Typ2 25:01",
+      "brandName": "Demecan",
+      "thcPercent": 25,
+      "priceMin": 1095,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-oktonia-typ-1-31-cannabisextrakt",
+      "name": "Demecan Oktonia Typ 1 30:01 (Cannabisextrakt)",
+      "brandName": "Demecan",
+      "thcPercent": 30,
+      "priceMin": 1133,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Demecan 05:20 Oktonia Typ2 | ab 10,59 €",
+      "description": "Demecan 05:20 Oktonia Typ2 von Demecan. THC: 0.5%, CBD: 2%. Sorte: Orange Velvet. Preis ab 10,59 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/demecan-0520-oktonia-typ2",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Demecan 05:20 Oktonia Typ2 | ab 10,59 €",
+        "description": "Demecan 05:20 Oktonia Typ2 von Demecan. THC: 0.5%, CBD: 2%. Sorte: Orange Velvet. Preis ab 10,59 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/demecan-0520-oktonia-typ2",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/demecan-0520-oktonia-typ2-i7c2e4.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Demecan",
+        "href": "https://weed.de/brand/demecan"
+      },
+      {
+        "name": "Demecan 05:20 Oktonia Typ2",
+        "href": "https://weed.de/product/demecan-0520-oktonia-typ2"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Demecan 05:20 Oktonia Typ2",
+            "item": "https://weed.de/product/demecan-0520-oktonia-typ2"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Demecan 05:20 Oktonia Typ2",
+        "brand": {
+          "@type": "Brand",
+          "name": "Demecan"
+        },
+        "description": "THC: 0.5%, CBD: 2%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/orange-velvet",
+      "text": "Orange Velvet",
+      "title": "Orange Velvet Sorte"
+    },
+    "brand": {
+      "href": "/brand/demecan",
+      "text": "Demecan",
+      "title": "Alle Demecan Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/demecan-typ-2",
+        "text": "Demecan Typ 2",
+        "title": "Alternative: Demecan Typ 2"
+      },
+      {
+        "href": "/product/demecan-typ-2-191-orange-velvet",
+        "text": "Demecan Typ 2 19/1 Orange Velvet",
+        "title": "Alternative: Demecan Typ 2 19/1 Orange Velvet"
+      },
+      {
+        "href": "/product/demecan-oktonia-typ2-1010",
+        "text": "DEMECAN Oktonia Typ2 10:10",
+        "title": "Alternative: DEMECAN Oktonia Typ2 10:10"
+      },
+      {
+        "href": "/product/demecan-oktonia-typ-2-31-cannabisextrakt",
+        "text": "Demecan Oktonia Typ 2 30:01 (Cannabisextrakt)",
+        "title": "Alternative: Demecan Oktonia Typ 2 30:01 (Cannabisextrakt)"
+      },
+      {
+        "href": "/product/demecan-oktonia-typ2-2501",
+        "text": "DEMECAN Oktonia Typ2 25:01",
+        "title": "Alternative: DEMECAN Oktonia Typ2 25:01"
+      },
+      {
+        "href": "/product/demecan-oktonia-typ-1-31-cannabisextrakt",
+        "text": "Demecan Oktonia Typ 1 30:01 (Cannabisextrakt)",
+        "title": "Alternative: Demecan Oktonia Typ 1 30:01 (Cannabisextrakt)"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

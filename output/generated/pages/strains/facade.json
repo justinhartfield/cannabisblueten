@@ -1,0 +1,234 @@
+{
+  "strain": {
+    "slug": "facade",
+    "name": "Facade",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [
+      "Focused",
+      "Relaxed",
+      "Activating"
+    ],
+    "tastes": [
+      "Diesel",
+      "Sweet"
+    ],
+    "terpenes": [
+      "Linalool",
+      "Limonene",
+      "Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 499,
+      "max": 799,
+      "formatted": {
+        "min": "4,99 €",
+        "max": "7,99 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "be-humble-dd-251",
+      "name": "Be Humble. DD 25/1",
+      "brandName": "Cantourage",
+      "thcPercent": 25,
+      "priceMin": 499,
+      "inStock": true
+    },
+    {
+      "slug": "remexian-271-qui-fac",
+      "name": "Remexian 27/1 QUI FAC",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 27,
+      "priceMin": 739,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "red-velvet",
+      "name": "Red Velvet",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "rainmaker",
+      "name": "Rainmaker",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "lemon-tartz",
+      "name": "Lemon Tartz",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "skull-cap",
+      "name": "Skull cap",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "tropicana-cookies-purple",
+      "name": "Tropicana Cookies Purple",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Facade (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Facade: Focused, Relaxed, Activating. 2 Produkte verfügbar. ab 4,99 €.",
+      "canonical": "https://weed.de/strain/facade",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Facade (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Facade: Focused, Relaxed, Activating. 2 Produkte verfügbar. ab 4,99 €.",
+        "url": "https://weed.de/strain/facade",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Facade",
+        "href": "https://weed.de/strain/facade"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Facade",
+            "item": "https://weed.de/strain/facade"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Facade Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/be-humble-dd-251",
+            "name": "Be Humble. DD 25/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/remexian-271-qui-fac",
+            "name": "Remexian 27/1 QUI FAC"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/be-humble-dd-251",
+        "text": "Be Humble. DD 25/1",
+        "title": "Be Humble. DD 25/1 von Cantourage"
+      },
+      {
+        "href": "/product/remexian-271-qui-fac",
+        "text": "Remexian 27/1 QUI FAC",
+        "title": "Remexian 27/1 QUI FAC von Remexian Pharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/red-velvet",
+        "text": "Red Velvet",
+        "title": "Red Velvet - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/rainmaker",
+        "text": "Rainmaker",
+        "title": "Rainmaker - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/lemon-tartz",
+        "text": "Lemon Tartz",
+        "title": "Lemon Tartz - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/skull-cap",
+        "text": "Skull cap",
+        "title": "Skull cap - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/tropicana-cookies-purple",
+        "text": "Tropicana Cookies Purple",
+        "title": "Tropicana Cookies Purple - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

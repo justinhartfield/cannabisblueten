@@ -1,0 +1,247 @@
+{
+  "strain": {
+    "slug": "alien-kush-mintz",
+    "name": "Alien Kush Mintz",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [
+      "Euphoric",
+      "Happy",
+      "Creative"
+    ],
+    "tastes": [
+      "Diesel",
+      "Mint",
+      "Sweet"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Terpinolene",
+      "Ocimene",
+      "Farnesene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 398,
+      "max": 850,
+      "formatted": {
+        "min": "3,98 €",
+        "max": "8,50 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "all-nations-akm-251",
+      "name": "All Nations AKM 25/1",
+      "brandName": "Cantourage",
+      "thcPercent": 25,
+      "priceMin": 659,
+      "inStock": true
+    },
+    {
+      "slug": "all-nations-akm-181",
+      "name": "All Nations AKM 18/1",
+      "brandName": "Cantourage",
+      "thcPercent": 18,
+      "priceMin": 398,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "super-citra-g",
+      "name": "Super Citra G",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "auto-northern-light-f1",
+      "name": "Auto Northern Light F1",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "lemon-cream-cake",
+      "name": "Lemon Cream Cake",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "g-13-haze",
+      "name": "G-13 Haze",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "siggis-kirsche",
+      "name": "Siggis Kirsche",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Alien Kush Mintz (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Alien Kush Mintz: Euphoric, Happy, Creative. 2 Produkte verfügbar. ab 3,98 €.",
+      "canonical": "https://weed.de/strain/alien-kush-mintz",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Alien Kush Mintz (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Alien Kush Mintz: Euphoric, Happy, Creative. 2 Produkte verfügbar. ab 3,98 €.",
+        "url": "https://weed.de/strain/alien-kush-mintz",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Alien Kush Mintz",
+        "href": "https://weed.de/strain/alien-kush-mintz"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Alien Kush Mintz",
+            "item": "https://weed.de/strain/alien-kush-mintz"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Alien Kush Mintz Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/all-nations-akm-251",
+            "name": "All Nations AKM 25/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/all-nations-akm-181",
+            "name": "All Nations AKM 18/1"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/all-nations-akm-251",
+        "text": "All Nations AKM 25/1",
+        "title": "All Nations AKM 25/1 von Cantourage"
+      },
+      {
+        "href": "/product/all-nations-akm-181",
+        "text": "All Nations AKM 18/1",
+        "title": "All Nations AKM 18/1 von Cantourage"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/super-citra-g",
+        "text": "Super Citra G",
+        "title": "Super Citra G - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/auto-northern-light-f1",
+        "text": "Auto Northern Light F1",
+        "title": "Auto Northern Light F1 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/lemon-cream-cake",
+        "text": "Lemon Cream Cake",
+        "title": "Lemon Cream Cake - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/g-13-haze",
+        "text": "G-13 Haze",
+        "title": "G-13 Haze - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/siggis-kirsche",
+        "text": "Siggis Kirsche",
+        "title": "Siggis Kirsche - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/terpinolene",
+        "text": "Terpinolene",
+        "title": "Terpinolene Terpen"
+      },
+      {
+        "href": "/terpene/ocimene",
+        "text": "Ocimene",
+        "title": "Ocimene Terpen"
+      },
+      {
+        "href": "/terpene/farnesene",
+        "text": "Farnesene",
+        "title": "Farnesene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

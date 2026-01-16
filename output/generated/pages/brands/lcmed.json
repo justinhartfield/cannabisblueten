@@ -1,0 +1,186 @@
+{
+  "brand": {
+    "slug": "lcmed",
+    "name": "LCMED",
+    "productCount": 5
+  },
+  "products": [
+    {
+      "slug": "cannabis-flos-bedrocan-lc-med",
+      "name": "Cannabis Flos Bedrocan LC Med",
+      "type": "flower",
+      "thcPercent": 22,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Bedrocan®"
+    },
+    {
+      "slug": "cannabis-flos-bedrobinol-lc-med",
+      "name": "Cannabis Flos Bedrobinol LC Med",
+      "type": "flower",
+      "thcPercent": 13.5,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Bedrobinol"
+    },
+    {
+      "slug": "cannabis-flos-bedrolite-lc-med",
+      "name": "Cannabis Flos Bedrolite LC Med",
+      "type": "flower",
+      "thcPercent": 1,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Bedrolite®"
+    },
+    {
+      "slug": "cannabis-flos-bediol-lc-med",
+      "name": "Cannabis Flos Bediol LC Med",
+      "type": "flower",
+      "thcPercent": 6.3,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Bediol"
+    },
+    {
+      "slug": "cannabis-flos-bedica-lc-med",
+      "name": "Cannabis Flos Bedica LC Med",
+      "type": "flower",
+      "thcPercent": 14.2,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Bedica"
+    }
+  ],
+  "stats": {
+    "productCount": 5,
+    "inStockCount": 0,
+    "avgThc": 11.4,
+    "priceRange": null
+  },
+  "seo": {
+    "meta": {
+      "title": "LCMED Cannabis Produkte - 5 Produkte",
+      "description": "LCMED: 5 Cannabis Produkte. 0 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+      "canonical": "https://weed.de/brand/lcmed",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "LCMED Cannabis Produkte - 5 Produkte",
+        "description": "LCMED: 5 Cannabis Produkte. 0 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+        "url": "https://weed.de/brand/lcmed",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Hersteller",
+        "href": "https://weed.de/brands"
+      },
+      {
+        "name": "LCMED",
+        "href": "https://weed.de/brand/lcmed"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Hersteller",
+            "item": "https://weed.de/brands"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "LCMED",
+            "item": "https://weed.de/brand/lcmed"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "LCMED Produkte",
+        "numberOfItems": 5,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/cannabis-flos-bedrocan-lc-med",
+            "name": "Cannabis Flos Bedrocan LC Med"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/cannabis-flos-bedrobinol-lc-med",
+            "name": "Cannabis Flos Bedrobinol LC Med"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/cannabis-flos-bedrolite-lc-med",
+            "name": "Cannabis Flos Bedrolite LC Med"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/product/cannabis-flos-bediol-lc-med",
+            "name": "Cannabis Flos Bediol LC Med"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "https://weed.de/product/cannabis-flos-bedica-lc-med",
+            "name": "Cannabis Flos Bedica LC Med"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/cannabis-flos-bedrocan-lc-med",
+        "text": "Cannabis Flos Bedrocan LC Med",
+        "title": "Cannabis Flos Bedrocan LC Med"
+      },
+      {
+        "href": "/product/cannabis-flos-bedrobinol-lc-med",
+        "text": "Cannabis Flos Bedrobinol LC Med",
+        "title": "Cannabis Flos Bedrobinol LC Med"
+      },
+      {
+        "href": "/product/cannabis-flos-bedrolite-lc-med",
+        "text": "Cannabis Flos Bedrolite LC Med",
+        "title": "Cannabis Flos Bedrolite LC Med"
+      },
+      {
+        "href": "/product/cannabis-flos-bediol-lc-med",
+        "text": "Cannabis Flos Bediol LC Med",
+        "title": "Cannabis Flos Bediol LC Med"
+      },
+      {
+        "href": "/product/cannabis-flos-bedica-lc-med",
+        "text": "Cannabis Flos Bedica LC Med",
+        "title": "Cannabis Flos Bedica LC Med"
+      }
+    ]
+  }
+}

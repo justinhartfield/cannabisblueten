@@ -1,0 +1,273 @@
+{
+  "strain": {
+    "slug": "jack-haze",
+    "name": "Jack Haze",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Energetic",
+      "Talkative",
+      "Giggly"
+    ],
+    "tastes": [
+      "Tobacco",
+      "Rose",
+      "Spicy-Herbal"
+    ],
+    "terpenes": [
+      "Terpinolene",
+      "Caryophyllene",
+      "Pinene"
+    ],
+    "description": "Jack Haze ist eine sativa-dominante Hybrid-Sorte, die aus der Kreuzung von Jack Herer und Super Silver Haze-Genetik entstanden ist. Mit THC-Gehalten von in der Regel 17% bis 20% bietet Jack Haze ein ausgewogenes, aber dennoch starkes Erlebnis. Sie hat einen niedrigen CBD-Gehalt. Diese Sorte zeichnet sich durch ein einzigartiges Terpenprofil aus, das von Terpinolene, Caryophyllene und Pinene dominiert wird und zu ihrem komplexen Aroma beiträgt. Beim Genuss von Jack Haze erwartet Sie eine unverwechselbare Geschmackskombination mit Noten von Tabak, Rose und würzig-herben Nuancen, die ein faszinierendes Geschmackserlebnis bieten. Die Wirkungen von Jack Haze sind durch gesteigerte Energie, Geselligkeit und ein Hauch von Fröhlichkeit gekennzeichnet, wodurch sie sich ideal für soziale Interaktionen und kreative Unternehmungen eignet.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 4,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 279,
+      "max": 765,
+      "formatted": {
+        "min": "2,79 €",
+        "max": "7,65 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "avextra-1010",
+      "name": "Avextra 10/10",
+      "brandName": "Avextra",
+      "thcPercent": 1,
+      "priceMin": 279,
+      "inStock": true
+    },
+    {
+      "slug": "cannabisextrakt-avextra-25",
+      "name": "Cannabisextrakt Avextra 25",
+      "brandName": "Avextra",
+      "thcPercent": 2.5,
+      "priceMin": 357,
+      "inStock": true
+    },
+    {
+      "slug": "canopy-jh-191-1",
+      "name": "Canopy JH 19/1",
+      "brandName": "Canopy Growth",
+      "thcPercent": 19,
+      "priceMin": 699,
+      "inStock": true
+    },
+    {
+      "slug": "canopy-jh-211",
+      "name": "Canopy JH 21/1",
+      "brandName": "Canopy Growth",
+      "thcPercent": 21,
+      "priceMin": 319,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "sirius",
+      "name": "Sirius",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "jack-herer",
+      "name": "Jack Herer",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "lemon-sour-diesel",
+      "name": "Lemon Sour Diesel",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "jealousy",
+      "name": "Jealousy",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "lemon-sherbet",
+      "name": "Lemon Sherbet",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Jack Haze (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Jack Haze: Energetic, Talkative, Giggly. 4 Produkte verfügbar. ab 2,79 €.",
+      "canonical": "https://weed.de/strain/jack-haze",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Jack Haze (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Jack Haze: Energetic, Talkative, Giggly. 4 Produkte verfügbar. ab 2,79 €.",
+        "url": "https://weed.de/strain/jack-haze",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Jack Haze",
+        "href": "https://weed.de/strain/jack-haze"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Jack Haze",
+            "item": "https://weed.de/strain/jack-haze"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Jack Haze Produkte",
+        "numberOfItems": 4,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/avextra-1010",
+            "name": "Avextra 10/10"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/cannabisextrakt-avextra-25",
+            "name": "Cannabisextrakt Avextra 25"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/canopy-jh-191-1",
+            "name": "Canopy JH 19/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/product/canopy-jh-211",
+            "name": "Canopy JH 21/1"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/avextra-1010",
+        "text": "Avextra 10/10",
+        "title": "Avextra 10/10 von Avextra"
+      },
+      {
+        "href": "/product/cannabisextrakt-avextra-25",
+        "text": "Cannabisextrakt Avextra 25",
+        "title": "Cannabisextrakt Avextra 25 von Avextra"
+      },
+      {
+        "href": "/product/canopy-jh-191-1",
+        "text": "Canopy JH 19/1",
+        "title": "Canopy JH 19/1 von Canopy Growth"
+      },
+      {
+        "href": "/product/canopy-jh-211",
+        "text": "Canopy JH 21/1",
+        "title": "Canopy JH 21/1 von Canopy Growth"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/sirius",
+        "text": "Sirius",
+        "title": "Sirius - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/jack-herer",
+        "text": "Jack Herer",
+        "title": "Jack Herer - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/lemon-sour-diesel",
+        "text": "Lemon Sour Diesel",
+        "title": "Lemon Sour Diesel - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/jealousy",
+        "text": "Jealousy",
+        "title": "Jealousy - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/lemon-sherbet",
+        "text": "Lemon Sherbet",
+        "title": "Lemon Sherbet - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/terpinolene",
+        "text": "Terpinolene",
+        "title": "Terpinolene Terpen"
+      },
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/pinene",
+        "text": "Pinene",
+        "title": "Pinene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

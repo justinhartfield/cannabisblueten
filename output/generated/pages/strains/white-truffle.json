@@ -1,0 +1,237 @@
+{
+  "strain": {
+    "slug": "white-truffle",
+    "name": "White Truffle",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0,
+      "max": 0
+    },
+    "effects": [
+      "Euphoric",
+      "Relaxed",
+      "Creative"
+    ],
+    "tastes": [],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Linalool",
+      "Beta-Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 364,
+      "max": 599,
+      "formatted": {
+        "min": "3,64 €",
+        "max": "5,99 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "remexian-271-pbc-wtr",
+      "name": "Remexian 27/1 PBC WTR",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 27,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "nice-221-wtr",
+      "name": "NICE 22/1 WTR",
+      "brandName": "Cansativa",
+      "thcPercent": 22,
+      "priceMin": 364,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "tigerz-eye",
+      "name": "Tigerz Eye",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "alien-mints",
+      "name": "Alien Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "la-runtz",
+      "name": "LA Runtz",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "kandi-klouds-kush",
+      "name": "Kandi Klouds Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "peechy-keen",
+      "name": "Peechy Keen",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "White Truffle (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "White Truffle: Euphoric, Relaxed, Creative. 2 Produkte verfügbar. ab 3,64 €.",
+      "canonical": "https://weed.de/strain/white-truffle",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "White Truffle (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "White Truffle: Euphoric, Relaxed, Creative. 2 Produkte verfügbar. ab 3,64 €.",
+        "url": "https://weed.de/strain/white-truffle",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "White Truffle",
+        "href": "https://weed.de/strain/white-truffle"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "White Truffle",
+            "item": "https://weed.de/strain/white-truffle"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "White Truffle Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/remexian-271-pbc-wtr",
+            "name": "Remexian 27/1 PBC WTR"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/nice-221-wtr",
+            "name": "NICE 22/1 WTR"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/remexian-271-pbc-wtr",
+        "text": "Remexian 27/1 PBC WTR",
+        "title": "Remexian 27/1 PBC WTR von Remexian Pharma"
+      },
+      {
+        "href": "/product/nice-221-wtr",
+        "text": "NICE 22/1 WTR",
+        "title": "NICE 22/1 WTR von Cansativa"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/tigerz-eye",
+        "text": "Tigerz Eye",
+        "title": "Tigerz Eye - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/alien-mints",
+        "text": "Alien Mints",
+        "title": "Alien Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/la-runtz",
+        "text": "LA Runtz",
+        "title": "LA Runtz - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/kandi-klouds-kush",
+        "text": "Kandi Klouds Kush",
+        "title": "Kandi Klouds Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/peechy-keen",
+        "text": "Peechy Keen",
+        "title": "Peechy Keen - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

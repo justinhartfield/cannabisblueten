@@ -1,0 +1,187 @@
+{
+  "city": {
+    "slug": "tuebingen",
+    "name": "Tübingen",
+    "state": "Baden-Württemberg"
+  },
+  "stats": {
+    "pharmacyCount": 2,
+    "totalProducts": 99,
+    "hasDelivery": true
+  },
+  "pharmacies": [
+    {
+      "slug": "pharmaphant-apotheke",
+      "name": "pharmaphant Apotheke am Hechinger Eck",
+      "street": "Hechinger Straße 70",
+      "zip": "72072",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 99,
+      "rating": 5,
+      "ratingCount": 3
+    },
+    {
+      "slug": "dr-linzsche-apotheke",
+      "name": "Dr. Linz'sche Apotheke",
+      "street": "Tübingen, Deutschland",
+      "zip": "72",
+      "hasDelivery": false,
+      "hasPickup": true,
+      "productCount": 0,
+      "rating": 0,
+      "ratingCount": 0
+    }
+  ],
+  "nearbyCities": [
+    {
+      "slug": "mannheim",
+      "name": "Mannheim",
+      "pharmacyCount": 6
+    },
+    {
+      "slug": "stuttgart",
+      "name": "Stuttgart",
+      "pharmacyCount": 6
+    },
+    {
+      "slug": "karlsruhe",
+      "name": "Karlsruhe",
+      "pharmacyCount": 5
+    },
+    {
+      "slug": "baden-baden",
+      "name": "Baden-Baden",
+      "pharmacyCount": 3
+    },
+    {
+      "slug": "heidelberg",
+      "name": "Heidelberg",
+      "pharmacyCount": 2
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannabis Apotheke Tübingen - 2 Apotheken",
+      "description": "Cannabis Apotheken in Tübingen. 2 Apotheken mit 99 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+      "canonical": "https://weed.de/cannabis-apotheke/tuebingen",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannabis Apotheke Tübingen - 2 Apotheken",
+        "description": "Cannabis Apotheken in Tübingen. 2 Apotheken mit 99 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+        "url": "https://weed.de/cannabis-apotheke/tuebingen",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Tübingen",
+        "href": "https://weed.de/cannabis-apotheke/tuebingen"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Tübingen",
+            "item": "https://weed.de/cannabis-apotheke/tuebingen"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Cannabis Apotheken in Tübingen",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/apotheke/pharmaphant-apotheke",
+            "name": "pharmaphant Apotheke am Hechinger Eck"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/apotheke/dr-linzsche-apotheke",
+            "name": "Dr. Linz'sche Apotheke"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "pharmacies": [
+      {
+        "href": "/apotheke/pharmaphant-apotheke",
+        "text": "pharmaphant Apotheke am Hechinger Eck",
+        "title": "pharmaphant Apotheke am Hechinger Eck in Tübingen"
+      },
+      {
+        "href": "/apotheke/dr-linzsche-apotheke",
+        "text": "Dr. Linz'sche Apotheke",
+        "title": "Dr. Linz'sche Apotheke in Tübingen"
+      }
+    ],
+    "nearbyCities": [
+      {
+        "href": "/cannabis-apotheke/mannheim",
+        "text": "Cannabis Apotheke Mannheim",
+        "title": "6 Apotheken in Mannheim"
+      },
+      {
+        "href": "/cannabis-apotheke/stuttgart",
+        "text": "Cannabis Apotheke Stuttgart",
+        "title": "6 Apotheken in Stuttgart"
+      },
+      {
+        "href": "/cannabis-apotheke/karlsruhe",
+        "text": "Cannabis Apotheke Karlsruhe",
+        "title": "5 Apotheken in Karlsruhe"
+      },
+      {
+        "href": "/cannabis-apotheke/baden-baden",
+        "text": "Cannabis Apotheke Baden-Baden",
+        "title": "3 Apotheken in Baden-Baden"
+      },
+      {
+        "href": "/cannabis-apotheke/heidelberg",
+        "text": "Cannabis Apotheke Heidelberg",
+        "title": "2 Apotheken in Heidelberg"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has 2 pharmacies"
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "strain": {
+    "slug": "cactus-breath",
+    "name": "Cactus Breath",
+    "geneticType": "indica",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0,
+      "max": 0
+    },
+    "effects": [
+      "Euphoric",
+      "Happy",
+      "Hungry"
+    ],
+    "tastes": [
+      "Mint",
+      "Vanilla",
+      "Pine"
+    ],
+    "terpenes": [
+      "Terpineol",
+      "Ocimene",
+      "Myrcene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 3,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 349,
+      "max": 990,
+      "formatted": {
+        "min": "3,49 €",
+        "max": "9,90 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "tilray-craft-cannabisblueten-thc22-ctb",
+      "name": "Tilray Craft Cannabisblüten THC22 CTB",
+      "brandName": "Tilray",
+      "thcPercent": 29.4,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "tilray-craft-cannabisblueten-thc28-ctb",
+      "name": "Tilray Craft Cannabisblüten THC28 CTB",
+      "brandName": "Tilray",
+      "thcPercent": 29.4,
+      "priceMin": 695,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-craft-cannabisblueten-thc25-ctb",
+      "name": "Tilray Craft Cannabisblüten THC25 CTB",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": 349,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "orange-velvet",
+      "name": "Orange Velvet",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "mango",
+      "name": "Mango",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "abusive-og",
+      "name": "Abusive OG",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "larry-og",
+      "name": "Larry OG",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "peyote-cookies",
+      "name": "Peyote Cookies",
+      "geneticType": "indica",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cactus Breath (Indica) - Wirkung, THC & Verfügbarkeit",
+      "description": "Cactus Breath: Euphoric, Happy, Hungry. 3 Produkte verfügbar. ab 3,49 €.",
+      "canonical": "https://weed.de/strain/cactus-breath",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cactus Breath (Indica) - Wirkung, THC & Verfügbarkeit",
+        "description": "Cactus Breath: Euphoric, Happy, Hungry. 3 Produkte verfügbar. ab 3,49 €.",
+        "url": "https://weed.de/strain/cactus-breath",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Cactus Breath",
+        "href": "https://weed.de/strain/cactus-breath"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Cactus Breath",
+            "item": "https://weed.de/strain/cactus-breath"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Cactus Breath Produkte",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/tilray-craft-cannabisblueten-thc22-ctb",
+            "name": "Tilray Craft Cannabisblüten THC22 CTB"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/tilray-craft-cannabisblueten-thc28-ctb",
+            "name": "Tilray Craft Cannabisblüten THC28 CTB"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/tilray-craft-cannabisblueten-thc25-ctb",
+            "name": "Tilray Craft Cannabisblüten THC25 CTB"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/tilray-craft-cannabisblueten-thc22-ctb",
+        "text": "Tilray Craft Cannabisblüten THC22 CTB",
+        "title": "Tilray Craft Cannabisblüten THC22 CTB von Tilray"
+      },
+      {
+        "href": "/product/tilray-craft-cannabisblueten-thc28-ctb",
+        "text": "Tilray Craft Cannabisblüten THC28 CTB",
+        "title": "Tilray Craft Cannabisblüten THC28 CTB von Tilray"
+      },
+      {
+        "href": "/product/tilray-craft-cannabisblueten-thc25-ctb",
+        "text": "Tilray Craft Cannabisblüten THC25 CTB",
+        "title": "Tilray Craft Cannabisblüten THC25 CTB von Tilray"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/orange-velvet",
+        "text": "Orange Velvet",
+        "title": "Orange Velvet - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/mango",
+        "text": "Mango",
+        "title": "Mango - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/abusive-og",
+        "text": "Abusive OG",
+        "title": "Abusive OG - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/larry-og",
+        "text": "Larry OG",
+        "title": "Larry OG - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/peyote-cookies",
+        "text": "Peyote Cookies",
+        "title": "Peyote Cookies - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/terpineol",
+        "text": "Terpineol",
+        "title": "Terpineol Terpen"
+      },
+      {
+        "href": "/terpene/ocimene",
+        "text": "Ocimene",
+        "title": "Ocimene Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

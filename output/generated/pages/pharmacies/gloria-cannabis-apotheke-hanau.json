@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "gloria-cannabis-apotheke-hanau",
+    "name": "Gloria Cannabis Apotheke Hanau",
+    "street": "Nußallee 7e",
+    "zip": "63450",
+    "cityName": "Hanau",
+    "state": "Hessen",
+    "lat": 50.1330183,
+    "lng": 8.909557399999999,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://cannabis.gloria-apotheke-hanau.de",
+    "phone": "0618121886",
+    "email": "info@gloria-apotheke-hanau.de",
+    "productCount": 0,
+    "rating": 5,
+    "ratingCount": 2,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/66fda789668d2bfdb4b0af72-65f9e9.jpg"
+  },
+  "city": {
+    "slug": "hanau",
+    "name": "Hanau",
+    "pharmacyCount": 3
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "buchen-apotheke",
+      "name": "Hanauer Cannabis Apotheke | Buchen-Apotheke",
+      "cityName": "Hanau",
+      "productCount": 32,
+      "hasDelivery": true
+    },
+    {
+      "slug": "engel-apotheke",
+      "name": "Sativa-Rhein-Main",
+      "cityName": "Hanau",
+      "productCount": 10,
+      "hasDelivery": false
+    },
+    {
+      "slug": "cannabis-vital-apotheke",
+      "name": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
+      "cityName": "Hattersheim am Main",
+      "productCount": 187,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis-apotheke-frankfurtkissel-apotheke",
+      "name": "Cannabis Apotheke Frankfurt/Kissel-Apotheke",
+      "cityName": "Frankfurt am Main",
+      "productCount": 183,
+      "hasDelivery": true
+    },
+    {
+      "slug": "schloss-apotheke",
+      "name": "Schloss Apotheke / svapo.de",
+      "cityName": "Offenbach am Main",
+      "productCount": 148,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Gloria Cannabis Apotheke Hanau - Cannabis Apotheke in Hanau",
+      "description": "Gloria Cannabis Apotheke Hanau in Hanau. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/gloria-cannabis-apotheke-hanau",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Gloria Cannabis Apotheke Hanau - Cannabis Apotheke in Hanau",
+        "description": "Gloria Cannabis Apotheke Hanau in Hanau. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/gloria-cannabis-apotheke-hanau",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/66fda789668d2bfdb4b0af72-65f9e9.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Hanau",
+        "href": "https://weed.de/cannabis-apotheke/hanau"
+      },
+      {
+        "name": "Gloria Cannabis Apotheke Hanau",
+        "href": "https://weed.de/apotheke/gloria-cannabis-apotheke-hanau"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Hanau",
+            "item": "https://weed.de/cannabis-apotheke/hanau"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Gloria Cannabis Apotheke Hanau",
+            "item": "https://weed.de/apotheke/gloria-cannabis-apotheke-hanau"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Gloria Cannabis Apotheke Hanau",
+        "url": "https://weed.de/apotheke/gloria-cannabis-apotheke-hanau",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Nußallee 7e",
+          "addressLocality": "Hanau",
+          "postalCode": "63450",
+          "addressRegion": "Hessen",
+          "addressCountry": "DE"
+        },
+        "telephone": "0618121886",
+        "email": "info@gloria-apotheke-hanau.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/hanau",
+      "text": "Cannabis Apotheken in Hanau",
+      "title": "Alle Apotheken in Hanau"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/buchen-apotheke",
+        "text": "Hanauer Cannabis Apotheke | Buchen-Apotheke",
+        "title": "Hanauer Cannabis Apotheke | Buchen-Apotheke in Hanau"
+      },
+      {
+        "href": "/apotheke/engel-apotheke",
+        "text": "Sativa-Rhein-Main",
+        "title": "Sativa-Rhein-Main in Hanau"
+      },
+      {
+        "href": "/apotheke/cannabis-vital-apotheke",
+        "text": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
+        "title": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim) in Hattersheim am Main"
+      },
+      {
+        "href": "/apotheke/cannabis-apotheke-frankfurtkissel-apotheke",
+        "text": "Cannabis Apotheke Frankfurt/Kissel-Apotheke",
+        "title": "Cannabis Apotheke Frankfurt/Kissel-Apotheke in Frankfurt am Main"
+      },
+      {
+        "href": "/apotheke/schloss-apotheke",
+        "text": "Schloss Apotheke / svapo.de",
+        "title": "Schloss Apotheke / svapo.de in Offenbach am Main"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

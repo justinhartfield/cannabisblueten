@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "erlich-apotheke",
+    "name": "Cannovia (=by Erlich Apotheke)",
+    "street": "Fünfkirchener Weg 3",
+    "zip": "67346",
+    "cityName": "Speyer",
+    "state": "Rheinland-Pfalz",
+    "lat": 49.3272531,
+    "lng": 8.4189331,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://cannovia.de/",
+    "phone": "06232490699",
+    "email": "post@cannovia.de",
+    "productCount": 10,
+    "rating": 5,
+    "ratingCount": 2,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/66d866575d495b613670193d-736ej0.jpg"
+  },
+  "city": {
+    "slug": "speyer",
+    "name": "Speyer",
+    "pharmacyCount": 2
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "apotheke-am-bahnhof-1",
+      "name": "Apotheke am Bahnhof",
+      "cityName": "Speyer",
+      "productCount": 48,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis-apotheke-rheinland",
+      "name": "Cannabis Apotheke Rheinland",
+      "cityName": "Bad Neuenahr-Ahrweiler",
+      "productCount": 161,
+      "hasDelivery": true
+    },
+    {
+      "slug": "grune-blute-ulmen-apotheke",
+      "name": "Grüne Blüte",
+      "cityName": "Frankenthal (Pfalz)",
+      "productCount": 158,
+      "hasDelivery": true
+    },
+    {
+      "slug": "pharmablute",
+      "name": "PharmaBlüte",
+      "cityName": "Mainz",
+      "productCount": 124,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis4me",
+      "name": "cannabis4me",
+      "cityName": "Bad Neuenahr-Ahrweiler",
+      "productCount": 89,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannovia (=by Erlich Apotheke) - Cannabis Apotheke in Speyer",
+      "description": "Cannovia (=by Erlich Apotheke) in Speyer. 10 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/erlich-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannovia (=by Erlich Apotheke) - Cannabis Apotheke in Speyer",
+        "description": "Cannovia (=by Erlich Apotheke) in Speyer. 10 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/erlich-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/66d866575d495b613670193d-736ej0.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Speyer",
+        "href": "https://weed.de/cannabis-apotheke/speyer"
+      },
+      {
+        "name": "Cannovia (=by Erlich Apotheke)",
+        "href": "https://weed.de/apotheke/erlich-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Speyer",
+            "item": "https://weed.de/cannabis-apotheke/speyer"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Cannovia (=by Erlich Apotheke)",
+            "item": "https://weed.de/apotheke/erlich-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Cannovia (=by Erlich Apotheke)",
+        "url": "https://weed.de/apotheke/erlich-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Fünfkirchener Weg 3",
+          "addressLocality": "Speyer",
+          "postalCode": "67346",
+          "addressRegion": "Rheinland-Pfalz",
+          "addressCountry": "DE"
+        },
+        "telephone": "06232490699",
+        "email": "post@cannovia.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/speyer",
+      "text": "Cannabis Apotheken in Speyer",
+      "title": "Alle Apotheken in Speyer"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/apotheke-am-bahnhof-1",
+        "text": "Apotheke am Bahnhof",
+        "title": "Apotheke am Bahnhof in Speyer"
+      },
+      {
+        "href": "/apotheke/cannabis-apotheke-rheinland",
+        "text": "Cannabis Apotheke Rheinland",
+        "title": "Cannabis Apotheke Rheinland in Bad Neuenahr-Ahrweiler"
+      },
+      {
+        "href": "/apotheke/grune-blute-ulmen-apotheke",
+        "text": "Grüne Blüte",
+        "title": "Grüne Blüte in Frankenthal (Pfalz)"
+      },
+      {
+        "href": "/apotheke/pharmablute",
+        "text": "PharmaBlüte",
+        "title": "PharmaBlüte in Mainz"
+      },
+      {
+        "href": "/apotheke/cannabis4me",
+        "text": "cannabis4me",
+        "title": "cannabis4me in Bad Neuenahr-Ahrweiler"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

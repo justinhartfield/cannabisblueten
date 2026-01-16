@@ -1,0 +1,228 @@
+{
+  "strain": {
+    "slug": "legacy-1",
+    "name": "Legacy 1",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Energetic",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Woody",
+      "Earthy",
+      "Herbal"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Beta-Pinene",
+      "Beta-Caryophyllene",
+      "Alpha-Pinene",
+      "Alpha-Humulene"
+    ],
+    "description": "Der Rau Hiwa T23 Legacy Cultivar 01 ist ein sativadominanter Hybrid mit einem THC-Gehalt von 23 %, der von Rua Bioscience in Neuseeland unter streng kontrollierten Indoor-Bedingungen kultiviert wird. Dabei handelt es sich nicht nur um eine hochwertige medizinische Cannabissorte, sondern auch um ein kulturell bedeutungsvolles Projekt: Die Genetik dieses Kultivars stammt aus dem neuseeländischen Amnestieprogramm, das es traditionellen, nicht-lizenzierten Züchtern erlaubt, ihre über Jahrzehnte entwickelten Sorten in den regulierten Markt einzubringen. Dieser einzigartige Ursprung macht den Strain zu einem echten Repräsentanten der lokalen Cannabisgeschichte Aotearoas – und zu einem Symbol für einen respektvollen Übergang vom informellen zum medizinisch zertifizierten Cannabisanbau.\n",
+    "imageUrl": "/strains/686ed67fcc239b30d73c41b5-17ii63.webp"
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 534,
+      "max": 1000,
+      "formatted": {
+        "min": "5,34 €",
+        "max": "10,00 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "rua-rau-hiwa-231",
+      "name": "Rua Rau Hiwa 23/1",
+      "brandName": "Nimbus Health",
+      "thcPercent": 23,
+      "priceMin": 534,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "godfather-og-auto",
+      "name": "Godfather OG Auto",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "lavender-clouds",
+      "name": "Lavender Clouds",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "red-dragon-og",
+      "name": "Red Dragon OG",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "bedrolite",
+      "name": "Bedrolite®",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "mandarin-cookies",
+      "name": "Mandarin Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Legacy 1 (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Legacy 1: Energetic, Relaxed. 1 Produkte verfügbar. ab 5,34 €.",
+      "canonical": "https://weed.de/strain/legacy-1",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Legacy 1 (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Legacy 1: Energetic, Relaxed. 1 Produkte verfügbar. ab 5,34 €.",
+        "url": "https://weed.de/strain/legacy-1",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "/strains/686ed67fcc239b30d73c41b5-17ii63.webp"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Legacy 1",
+        "href": "https://weed.de/strain/legacy-1"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Legacy 1",
+            "item": "https://weed.de/strain/legacy-1"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Legacy 1 Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/rua-rau-hiwa-231",
+            "name": "Rua Rau Hiwa 23/1"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/rua-rau-hiwa-231",
+        "text": "Rua Rau Hiwa 23/1",
+        "title": "Rua Rau Hiwa 23/1 von Nimbus Health"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/godfather-og-auto",
+        "text": "Godfather OG Auto",
+        "title": "Godfather OG Auto - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/lavender-clouds",
+        "text": "Lavender Clouds",
+        "title": "Lavender Clouds - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/red-dragon-og",
+        "text": "Red Dragon OG",
+        "title": "Red Dragon OG - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/bedrolite",
+        "text": "Bedrolite®",
+        "title": "Bedrolite® - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/mandarin-cookies",
+        "text": "Mandarin Cookies",
+        "title": "Mandarin Cookies - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-pinene",
+        "text": "Beta-Pinene",
+        "title": "Beta-Pinene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/alpha-pinene",
+        "text": "Alpha-Pinene",
+        "title": "Alpha-Pinene Terpen"
+      },
+      {
+        "href": "/terpene/alpha-humulene",
+        "text": "Alpha-Humulene",
+        "title": "Alpha-Humulene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

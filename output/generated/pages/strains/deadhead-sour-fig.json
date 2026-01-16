@@ -1,0 +1,201 @@
+{
+  "strain": {
+    "slug": "deadhead-sour-fig",
+    "name": "Deadhead Sour Fig",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [
+      "Relaxed"
+    ],
+    "tastes": [
+      "Citrus",
+      "Sweet",
+      "Diesel"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": null
+  },
+  "products": [
+    {
+      "slug": "mediprocan-african-ruby-21-dsf",
+      "name": "Mediprocan African Ruby 20/1 DSF",
+      "brandName": "mediproCan",
+      "thcPercent": 20,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "bucket-list",
+      "name": "Bucket List",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "gelato-33",
+      "name": "Gelato 33",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "grape-gasoline",
+      "name": "Grape Gasoline",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "warlock-cbd",
+      "name": "Warlock CBD",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "el-jefe",
+      "name": "El Jefe",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Deadhead Sour Fig (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Deadhead Sour Fig: Relaxed. 1 Produkte verfügbar.",
+      "canonical": "https://weed.de/strain/deadhead-sour-fig",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Deadhead Sour Fig (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Deadhead Sour Fig: Relaxed. 1 Produkte verfügbar.",
+        "url": "https://weed.de/strain/deadhead-sour-fig",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Deadhead Sour Fig",
+        "href": "https://weed.de/strain/deadhead-sour-fig"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Deadhead Sour Fig",
+            "item": "https://weed.de/strain/deadhead-sour-fig"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Deadhead Sour Fig Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/mediprocan-african-ruby-21-dsf",
+            "name": "Mediprocan African Ruby 20/1 DSF"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/mediprocan-african-ruby-21-dsf",
+        "text": "Mediprocan African Ruby 20/1 DSF",
+        "title": "Mediprocan African Ruby 20/1 DSF von mediproCan"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/bucket-list",
+        "text": "Bucket List",
+        "title": "Bucket List - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/gelato-33",
+        "text": "Gelato 33",
+        "title": "Gelato 33 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/grape-gasoline",
+        "text": "Grape Gasoline",
+        "title": "Grape Gasoline - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/warlock-cbd",
+        "text": "Warlock CBD",
+        "title": "Warlock CBD - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/el-jefe",
+        "text": "El Jefe",
+        "title": "El Jefe - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

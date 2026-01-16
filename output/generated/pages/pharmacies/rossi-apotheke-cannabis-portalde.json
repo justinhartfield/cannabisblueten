@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "rossi-apotheke-cannabis-portalde",
+    "name": "Rossi-Apotheke (Cannabis-Portal.de)",
+    "street": "Engelstraße 41",
+    "zip": "76437",
+    "cityName": "Rastatt",
+    "state": "Baden-Württemberg",
+    "lat": 48.8619654,
+    "lng": 8.2048314,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://cannabis-portal.de/",
+    "phone": "072229689790",
+    "email": "bestellung@rossi-apotheke.de",
+    "productCount": 54,
+    "rating": 5,
+    "ratingCount": 2,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/67fce20fedf8c14458acc32b-0d1j5i.jpg"
+  },
+  "city": {
+    "slug": "rastatt",
+    "name": "Rastatt",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "florians-vital-apotheke",
+      "name": "Florians Vital Apotheke",
+      "cityName": "Esslingen am Neckar",
+      "productCount": 248,
+      "hasDelivery": true
+    },
+    {
+      "slug": "central-apotheke",
+      "name": "Cannabis-Champion",
+      "cityName": "Waiblingen",
+      "productCount": 240,
+      "hasDelivery": true
+    },
+    {
+      "slug": "karlchengras",
+      "name": "Karlchengras (Karl-Apotheke)",
+      "cityName": "Karlsruhe",
+      "productCount": 188,
+      "hasDelivery": true
+    },
+    {
+      "slug": "idris-apotheke-oder-3leafs",
+      "name": "Idris Apotheke | 3Leafs",
+      "cityName": "Weinheim",
+      "productCount": 149,
+      "hasDelivery": true
+    },
+    {
+      "slug": "schwarzwald-vital-apotheke",
+      "name": "Schwarzwald Vital Apotheke",
+      "cityName": "Gaggenau",
+      "productCount": 133,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Rossi-Apotheke (Cannabis-Portal.de) - Cannabis Apotheke in Rastatt",
+      "description": "Rossi-Apotheke (Cannabis-Portal.de) in Rastatt. 54 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/rossi-apotheke-cannabis-portalde",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Rossi-Apotheke (Cannabis-Portal.de) - Cannabis Apotheke in Rastatt",
+        "description": "Rossi-Apotheke (Cannabis-Portal.de) in Rastatt. 54 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/rossi-apotheke-cannabis-portalde",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/67fce20fedf8c14458acc32b-0d1j5i.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Rastatt",
+        "href": "https://weed.de/cannabis-apotheke/rastatt"
+      },
+      {
+        "name": "Rossi-Apotheke (Cannabis-Portal.de)",
+        "href": "https://weed.de/apotheke/rossi-apotheke-cannabis-portalde"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Rastatt",
+            "item": "https://weed.de/cannabis-apotheke/rastatt"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Rossi-Apotheke (Cannabis-Portal.de)",
+            "item": "https://weed.de/apotheke/rossi-apotheke-cannabis-portalde"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Rossi-Apotheke (Cannabis-Portal.de)",
+        "url": "https://weed.de/apotheke/rossi-apotheke-cannabis-portalde",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Engelstraße 41",
+          "addressLocality": "Rastatt",
+          "postalCode": "76437",
+          "addressRegion": "Baden-Württemberg",
+          "addressCountry": "DE"
+        },
+        "telephone": "072229689790",
+        "email": "bestellung@rossi-apotheke.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/rastatt",
+      "text": "Cannabis Apotheken in Rastatt",
+      "title": "Alle Apotheken in Rastatt"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/florians-vital-apotheke",
+        "text": "Florians Vital Apotheke",
+        "title": "Florians Vital Apotheke in Esslingen am Neckar"
+      },
+      {
+        "href": "/apotheke/central-apotheke",
+        "text": "Cannabis-Champion",
+        "title": "Cannabis-Champion in Waiblingen"
+      },
+      {
+        "href": "/apotheke/karlchengras",
+        "text": "Karlchengras (Karl-Apotheke)",
+        "title": "Karlchengras (Karl-Apotheke) in Karlsruhe"
+      },
+      {
+        "href": "/apotheke/idris-apotheke-oder-3leafs",
+        "text": "Idris Apotheke | 3Leafs",
+        "title": "Idris Apotheke | 3Leafs in Weinheim"
+      },
+      {
+        "href": "/apotheke/schwarzwald-vital-apotheke",
+        "text": "Schwarzwald Vital Apotheke",
+        "title": "Schwarzwald Vital Apotheke in Gaggenau"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

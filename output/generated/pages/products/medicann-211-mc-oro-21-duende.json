@@ -1,0 +1,224 @@
+{
+  "product": {
+    "slug": "medicann-211-mc-oro-21-duende",
+    "name": "MediCann 21/1 MC Oro 21 Duende",
+    "type": "flower",
+    "genetics": "hybrid_indica",
+    "thcPercent": 21,
+    "cbdPercent": 1,
+    "priceMin": 430,
+    "priceMax": 670,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "medicann",
+    "name": "MediCann",
+    "productCount": 4
+  },
+  "strain": {
+    "slug": "duende",
+    "name": "Duende",
+    "geneticType": "hybrid",
+    "effects": [
+      "Euphoric",
+      "Sleepy",
+      "Relaxed"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Euphoric",
+      "Sleepy",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Earthy",
+      "Herbal",
+      "Woody"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "enua-251-cck-ca",
+      "name": "enua 25/1 CCK CA",
+      "brandName": "enua",
+      "thcPercent": 25.2,
+      "priceMin": 399,
+      "inStock": true
+    },
+    {
+      "slug": "ceres-no-2",
+      "name": "Ceres No. 2",
+      "brandName": "Cantourage",
+      "thcPercent": 25,
+      "priceMin": 590,
+      "inStock": true
+    },
+    {
+      "slug": "420-evolution-271-ca-icc",
+      "name": "420 EVOLUTION 27/1 CA ICC",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 27,
+      "priceMin": 684,
+      "inStock": true
+    },
+    {
+      "slug": "420-natural-221-gg4",
+      "name": "420 Natural 22/1 GG4",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 22,
+      "priceMin": 723,
+      "inStock": true
+    },
+    {
+      "slug": "avaay-241-did",
+      "name": "AVAAY 24/1 DiD",
+      "brandName": "Avaay",
+      "thcPercent": 24,
+      "priceMin": 949,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-301-oktonia",
+      "name": "Demecan 30/1 Oktonia",
+      "brandName": "Deutsche Medizinalcannabis",
+      "thcPercent": 3,
+      "priceMin": 1079,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "MediCann 21/1 MC Oro 21 Duende | ab 4,30 €",
+      "description": "MediCann 21/1 MC Oro 21 Duende von MediCann. THC: 21%, CBD: 1%. Sorte: Duende. Preis ab 4,30 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/medicann-211-mc-oro-21-duende",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "MediCann 21/1 MC Oro 21 Duende | ab 4,30 €",
+        "description": "MediCann 21/1 MC Oro 21 Duende von MediCann. THC: 21%, CBD: 1%. Sorte: Duende. Preis ab 4,30 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/medicann-211-mc-oro-21-duende",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "MediCann",
+        "href": "https://weed.de/brand/medicann"
+      },
+      {
+        "name": "MediCann 21/1 MC Oro 21 Duende",
+        "href": "https://weed.de/product/medicann-211-mc-oro-21-duende"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "MediCann 21/1 MC Oro 21 Duende",
+            "item": "https://weed.de/product/medicann-211-mc-oro-21-duende"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "MediCann 21/1 MC Oro 21 Duende",
+        "brand": {
+          "@type": "Brand",
+          "name": "MediCann"
+        },
+        "description": "THC: 21%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/duende",
+      "text": "Duende",
+      "title": "Duende Sorte"
+    },
+    "brand": {
+      "href": "/brand/medicann",
+      "text": "MediCann",
+      "title": "Alle MediCann Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/enua-251-cck-ca",
+        "text": "enua 25/1 CCK CA",
+        "title": "Alternative: enua 25/1 CCK CA"
+      },
+      {
+        "href": "/product/ceres-no-2",
+        "text": "Ceres No. 2",
+        "title": "Alternative: Ceres No. 2"
+      },
+      {
+        "href": "/product/420-evolution-271-ca-icc",
+        "text": "420 EVOLUTION 27/1 CA ICC",
+        "title": "Alternative: 420 EVOLUTION 27/1 CA ICC"
+      },
+      {
+        "href": "/product/420-natural-221-gg4",
+        "text": "420 Natural 22/1 GG4",
+        "title": "Alternative: 420 Natural 22/1 GG4"
+      },
+      {
+        "href": "/product/avaay-241-did",
+        "text": "AVAAY 24/1 DiD",
+        "title": "Alternative: AVAAY 24/1 DiD"
+      },
+      {
+        "href": "/product/demecan-301-oktonia",
+        "text": "Demecan 30/1 Oktonia",
+        "title": "Alternative: Demecan 30/1 Oktonia"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

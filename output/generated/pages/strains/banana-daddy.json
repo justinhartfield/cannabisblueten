@@ -1,0 +1,212 @@
+{
+  "strain": {
+    "slug": "banana-daddy",
+    "name": "Banana Daddy",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [
+      "Euphoric",
+      "Happy",
+      "Energetic"
+    ],
+    "tastes": [],
+    "terpenes": [
+      "Ocimene",
+      "Myrcene",
+      "Alpha-Pinene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 799,
+      "max": 799,
+      "formatted": {
+        "min": "7,99 €",
+        "max": "7,99 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "remexian-271-civ-bdy",
+      "name": "Remexian 27/1 CIV BDY",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 27,
+      "priceMin": 799,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "dave's-kush",
+      "name": "Dave's Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "gelatti",
+      "name": "Gelatti",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "top-5",
+      "name": "Top 5",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "aandb-x-harley-tus",
+      "name": "A&B x Harley Tus",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "mango-kush",
+      "name": "Mango Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Banana Daddy (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Banana Daddy: Euphoric, Happy, Energetic. 1 Produkte verfügbar. ab 7,99 €.",
+      "canonical": "https://weed.de/strain/banana-daddy",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Banana Daddy (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Banana Daddy: Euphoric, Happy, Energetic. 1 Produkte verfügbar. ab 7,99 €.",
+        "url": "https://weed.de/strain/banana-daddy",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Banana Daddy",
+        "href": "https://weed.de/strain/banana-daddy"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Banana Daddy",
+            "item": "https://weed.de/strain/banana-daddy"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Banana Daddy Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/remexian-271-civ-bdy",
+            "name": "Remexian 27/1 CIV BDY"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/remexian-271-civ-bdy",
+        "text": "Remexian 27/1 CIV BDY",
+        "title": "Remexian 27/1 CIV BDY von Remexian Pharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/dave's-kush",
+        "text": "Dave's Kush",
+        "title": "Dave's Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/gelatti",
+        "text": "Gelatti",
+        "title": "Gelatti - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/top-5",
+        "text": "Top 5",
+        "title": "Top 5 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/aandb-x-harley-tus",
+        "text": "A&B x Harley Tus",
+        "title": "A&B x Harley Tus - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/mango-kush",
+        "text": "Mango Kush",
+        "title": "Mango Kush - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/ocimene",
+        "text": "Ocimene",
+        "title": "Ocimene Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/alpha-pinene",
+        "text": "Alpha-Pinene",
+        "title": "Alpha-Pinene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "strain": {
+    "slug": "gelato-pie",
+    "name": "Gelato Pie",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Euphoric",
+      "Relaxed",
+      "Creative"
+    ],
+    "tastes": [
+      "Sweet",
+      "Spicy",
+      "Flowery"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Caryophyllene",
+      "Humulene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 599,
+      "max": 599,
+      "formatted": {
+        "min": "5,99 €",
+        "max": "5,99 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "bava-med-211-gelato-pie",
+      "name": "Bava Med 21/1 Gelato Pie",
+      "brandName": "bava medical",
+      "thcPercent": 21,
+      "priceMin": 599,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "banana-sherbet",
+      "name": "Banana Sherbet",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "chemdawg",
+      "name": "Chemdawg",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "mac-driver",
+      "name": "Mac Driver",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "octagon-kush",
+      "name": "Octagon Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "miracle-mints",
+      "name": "Miracle Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Gelato Pie (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Gelato Pie: Euphoric, Relaxed, Creative. 1 Produkte verfügbar. ab 5,99 €.",
+      "canonical": "https://weed.de/strain/gelato-pie",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Gelato Pie (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Gelato Pie: Euphoric, Relaxed, Creative. 1 Produkte verfügbar. ab 5,99 €.",
+        "url": "https://weed.de/strain/gelato-pie",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Gelato Pie",
+        "href": "https://weed.de/strain/gelato-pie"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Gelato Pie",
+            "item": "https://weed.de/strain/gelato-pie"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Gelato Pie Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/bava-med-211-gelato-pie",
+            "name": "Bava Med 21/1 Gelato Pie"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/bava-med-211-gelato-pie",
+        "text": "Bava Med 21/1 Gelato Pie",
+        "title": "Bava Med 21/1 Gelato Pie von bava medical"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/banana-sherbet",
+        "text": "Banana Sherbet",
+        "title": "Banana Sherbet - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/chemdawg",
+        "text": "Chemdawg",
+        "title": "Chemdawg - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/mac-driver",
+        "text": "Mac Driver",
+        "title": "Mac Driver - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/octagon-kush",
+        "text": "Octagon Kush",
+        "title": "Octagon Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/miracle-mints",
+        "text": "Miracle Mints",
+        "title": "Miracle Mints - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/humulene",
+        "text": "Humulene",
+        "title": "Humulene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

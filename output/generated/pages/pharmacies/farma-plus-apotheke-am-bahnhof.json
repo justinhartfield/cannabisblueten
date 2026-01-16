@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "farma-plus-apotheke-am-bahnhof",
+    "name": "farma-plus Apotheke am Bahnhof",
+    "street": "Gustav-Stresemann-Straße 1",
+    "zip": "89257",
+    "cityName": "Illertissen",
+    "state": "Bayern",
+    "lat": 48.22243109999999,
+    "lng": 10.099309,
+    "hasDelivery": false,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": null,
+    "phone": "0730343904",
+    "email": "info@cannabis-apo-illertissen.de",
+    "productCount": 8,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/68b548b7e0dda100e2d5df2d-0j1ahg.jpg"
+  },
+  "city": {
+    "slug": "illertissen",
+    "name": "Illertissen",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "cannabisapo24",
+      "name": "Cannabisapo24",
+      "cityName": "Augsburg",
+      "productCount": 364,
+      "hasDelivery": true
+    },
+    {
+      "slug": "spital-apotheke-zum-heiligen-geist",
+      "name": "Canthera.de | Spital Apotheke zum Heiligen Geist",
+      "cityName": "Nürnberg",
+      "productCount": 317,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannaplus-apotheke",
+      "name": "Cannaplus Apotheke",
+      "cityName": "Augsburg",
+      "productCount": 186,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis-apotheke-bayern-1",
+      "name": "Cannabis Apotheke Bayern",
+      "cityName": "Schweinfurt",
+      "productCount": 184,
+      "hasDelivery": true
+    },
+    {
+      "slug": "canamedico-cannabis-mainfranken",
+      "name": "canamedico® – Cannabis Mainfranken",
+      "cityName": "Volkach",
+      "productCount": 162,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "farma-plus Apotheke am Bahnhof - Cannabis Apotheke in Illertissen",
+      "description": "farma-plus Apotheke am Bahnhof in Illertissen. 8 Cannabis Produkte. Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/farma-plus-apotheke-am-bahnhof",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "farma-plus Apotheke am Bahnhof - Cannabis Apotheke in Illertissen",
+        "description": "farma-plus Apotheke am Bahnhof in Illertissen. 8 Cannabis Produkte. Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/farma-plus-apotheke-am-bahnhof",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/68b548b7e0dda100e2d5df2d-0j1ahg.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Illertissen",
+        "href": "https://weed.de/cannabis-apotheke/illertissen"
+      },
+      {
+        "name": "farma-plus Apotheke am Bahnhof",
+        "href": "https://weed.de/apotheke/farma-plus-apotheke-am-bahnhof"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Illertissen",
+            "item": "https://weed.de/cannabis-apotheke/illertissen"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "farma-plus Apotheke am Bahnhof",
+            "item": "https://weed.de/apotheke/farma-plus-apotheke-am-bahnhof"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "farma-plus Apotheke am Bahnhof",
+        "url": "https://weed.de/apotheke/farma-plus-apotheke-am-bahnhof",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Gustav-Stresemann-Straße 1",
+          "addressLocality": "Illertissen",
+          "postalCode": "89257",
+          "addressRegion": "Bayern",
+          "addressCountry": "DE"
+        },
+        "telephone": "0730343904",
+        "email": "info@cannabis-apo-illertissen.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/illertissen",
+      "text": "Cannabis Apotheken in Illertissen",
+      "title": "Alle Apotheken in Illertissen"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/cannabisapo24",
+        "text": "Cannabisapo24",
+        "title": "Cannabisapo24 in Augsburg"
+      },
+      {
+        "href": "/apotheke/spital-apotheke-zum-heiligen-geist",
+        "text": "Canthera.de | Spital Apotheke zum Heiligen Geist",
+        "title": "Canthera.de | Spital Apotheke zum Heiligen Geist in Nürnberg"
+      },
+      {
+        "href": "/apotheke/cannaplus-apotheke",
+        "text": "Cannaplus Apotheke",
+        "title": "Cannaplus Apotheke in Augsburg"
+      },
+      {
+        "href": "/apotheke/cannabis-apotheke-bayern-1",
+        "text": "Cannabis Apotheke Bayern",
+        "title": "Cannabis Apotheke Bayern in Schweinfurt"
+      },
+      {
+        "href": "/apotheke/canamedico-cannabis-mainfranken",
+        "text": "canamedico® – Cannabis Mainfranken",
+        "title": "canamedico® – Cannabis Mainfranken in Volkach"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "strain": {
+    "slug": "appalachian-trail",
+    "name": "Appalachian Trail",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Focused",
+      "Euphoric",
+      "Creative"
+    ],
+    "tastes": [
+      "Diesel",
+      "Earthy"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "Der Appalachia Strain ist ein potenter Hybrid mit komplexem Wirkungsspektrum, gezüchtet von High & Lonesome Seeds. Entstanden durch die Kreuzung von Green Crack und Tres Dawg, vereint diese Sorte das Beste aus zwei sehr gegensätzlichen Welten: Die stimulierende Energie und der Fokus von Green Crack sowie die körperlich entspannende, leicht narkotische Wirkung von Tres Dawg, einer Kreuzung aus Afghani #1 und Chemdawg. Appalachia zeichnet sich durch eine ausgewogene Struktur aus – mit einem genetischen Verhältnis von etwa 60 % Indica zu 40 % Sativa – wobei der genaue Sativa- oder Indica-Dominanzgrad oft diskutiert wird. Was aber zweifelsfrei bleibt, ist die intensive Wirkung, die sowohl geistige Aktivität als auch körperliche Entspannung anspricht, begleitet von einem komplexen, zitronig-skunkigen Terpenprofil.\n",
+    "imageUrl": "/strains/688c7ce41b2bb3126e70d043-366fee.webp"
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 340,
+      "max": 1000,
+      "formatted": {
+        "min": "3,40 €",
+        "max": "10,00 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "nimbus-easy-261-1",
+      "name": "Nimbus Easy 26/1 AT",
+      "brandName": "Nimbus Health",
+      "thcPercent": 26,
+      "priceMin": 488,
+      "inStock": true
+    },
+    {
+      "slug": "nimbus-easy-221-1",
+      "name": "NIMBUS EASY 22/1",
+      "brandName": "Nimbus Health",
+      "thcPercent": 22,
+      "priceMin": 340,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "alien-mints",
+      "name": "Alien Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "wedding-pop-triangle",
+      "name": "Wedding Pop Triangle",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "mellowz",
+      "name": "Mellowz",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "pink-lilac",
+      "name": "Pink Lilac",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "diamond-mints",
+      "name": "Diamond Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Appalachian Trail (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Appalachian Trail: Focused, Euphoric, Creative. 2 Produkte verfügbar. ab 3,40 €.",
+      "canonical": "https://weed.de/strain/appalachian-trail",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Appalachian Trail (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Appalachian Trail: Focused, Euphoric, Creative. 2 Produkte verfügbar. ab 3,40 €.",
+        "url": "https://weed.de/strain/appalachian-trail",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "/strains/688c7ce41b2bb3126e70d043-366fee.webp"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Appalachian Trail",
+        "href": "https://weed.de/strain/appalachian-trail"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Appalachian Trail",
+            "item": "https://weed.de/strain/appalachian-trail"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Appalachian Trail Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/nimbus-easy-261-1",
+            "name": "Nimbus Easy 26/1 AT"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/nimbus-easy-221-1",
+            "name": "NIMBUS EASY 22/1"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/nimbus-easy-261-1",
+        "text": "Nimbus Easy 26/1 AT",
+        "title": "Nimbus Easy 26/1 AT von Nimbus Health"
+      },
+      {
+        "href": "/product/nimbus-easy-221-1",
+        "text": "NIMBUS EASY 22/1",
+        "title": "NIMBUS EASY 22/1 von Nimbus Health"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/alien-mints",
+        "text": "Alien Mints",
+        "title": "Alien Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/wedding-pop-triangle",
+        "text": "Wedding Pop Triangle",
+        "title": "Wedding Pop Triangle - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/mellowz",
+        "text": "Mellowz",
+        "title": "Mellowz - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/pink-lilac",
+        "text": "Pink Lilac",
+        "title": "Pink Lilac - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/diamond-mints",
+        "text": "Diamond Mints",
+        "title": "Diamond Mints - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

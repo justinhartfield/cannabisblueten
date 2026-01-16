@@ -1,0 +1,328 @@
+{
+  "strain": {
+    "slug": "papaya-bomb",
+    "name": "Papaya Bomb",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Relaxed"
+    ],
+    "tastes": [
+      "Citrus",
+      "Sweet",
+      "Fruity"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Ocimene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 7,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 430,
+      "max": 730,
+      "formatted": {
+        "min": "4,30 €",
+        "max": "7,30 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "zoiks-221-pyb",
+      "name": "ZOIKS 22/1 PYB",
+      "brandName": "Avaay",
+      "thcPercent": 22,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "zoiks-181-pyb",
+      "name": "ZOIKS 18/1 PYB",
+      "brandName": "Avaay",
+      "thcPercent": 18,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "zoiks-261-pyb",
+      "name": "ZOIKS 26/1 PYB",
+      "brandName": "Avaay",
+      "thcPercent": 26,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "sumo-pab",
+      "name": "Sumo PAB",
+      "brandName": "Cantourage",
+      "thcPercent": 23,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "luana-241-rainbow",
+      "name": "Luana 24/1 Rainbow",
+      "brandName": "Cannamedical",
+      "thcPercent": 24,
+      "priceMin": 447,
+      "inStock": true
+    },
+    {
+      "slug": "sumo-pab-251",
+      "name": "Sumo PAB 25/1",
+      "brandName": "Cantourage",
+      "thcPercent": 25,
+      "priceMin": 538,
+      "inStock": true
+    },
+    {
+      "slug": "luana-21-rainbow",
+      "name": "Luana 20/1 Rainbow",
+      "brandName": "Cannamedical",
+      "thcPercent": 20,
+      "priceMin": 430,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "tiger-cake",
+      "name": "Tiger Cake",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "og-deluxe",
+      "name": "OG Deluxe",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "crescendo",
+      "name": "Crescendo",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "frosted-cookies",
+      "name": "Frosted Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "titan-f1",
+      "name": "Titan F1",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Papaya Bomb (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Papaya Bomb: Relaxed. 7 Produkte verfügbar. ab 4,30 €.",
+      "canonical": "https://weed.de/strain/papaya-bomb",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Papaya Bomb (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Papaya Bomb: Relaxed. 7 Produkte verfügbar. ab 4,30 €.",
+        "url": "https://weed.de/strain/papaya-bomb",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Papaya Bomb",
+        "href": "https://weed.de/strain/papaya-bomb"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Papaya Bomb",
+            "item": "https://weed.de/strain/papaya-bomb"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Papaya Bomb Produkte",
+        "numberOfItems": 7,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/zoiks-221-pyb",
+            "name": "ZOIKS 22/1 PYB"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/zoiks-181-pyb",
+            "name": "ZOIKS 18/1 PYB"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/zoiks-261-pyb",
+            "name": "ZOIKS 26/1 PYB"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/product/sumo-pab",
+            "name": "Sumo PAB"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "https://weed.de/product/luana-241-rainbow",
+            "name": "Luana 24/1 Rainbow"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "url": "https://weed.de/product/sumo-pab-251",
+            "name": "Sumo PAB 25/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "url": "https://weed.de/product/luana-21-rainbow",
+            "name": "Luana 20/1 Rainbow"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/zoiks-221-pyb",
+        "text": "ZOIKS 22/1 PYB",
+        "title": "ZOIKS 22/1 PYB von Avaay"
+      },
+      {
+        "href": "/product/zoiks-181-pyb",
+        "text": "ZOIKS 18/1 PYB",
+        "title": "ZOIKS 18/1 PYB von Avaay"
+      },
+      {
+        "href": "/product/zoiks-261-pyb",
+        "text": "ZOIKS 26/1 PYB",
+        "title": "ZOIKS 26/1 PYB von Avaay"
+      },
+      {
+        "href": "/product/sumo-pab",
+        "text": "Sumo PAB",
+        "title": "Sumo PAB von Cantourage"
+      },
+      {
+        "href": "/product/luana-241-rainbow",
+        "text": "Luana 24/1 Rainbow",
+        "title": "Luana 24/1 Rainbow von Cannamedical"
+      },
+      {
+        "href": "/product/sumo-pab-251",
+        "text": "Sumo PAB 25/1",
+        "title": "Sumo PAB 25/1 von Cantourage"
+      },
+      {
+        "href": "/product/luana-21-rainbow",
+        "text": "Luana 20/1 Rainbow",
+        "title": "Luana 20/1 Rainbow von Cannamedical"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/tiger-cake",
+        "text": "Tiger Cake",
+        "title": "Tiger Cake - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/og-deluxe",
+        "text": "OG Deluxe",
+        "title": "OG Deluxe - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/crescendo",
+        "text": "Crescendo",
+        "title": "Crescendo - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/frosted-cookies",
+        "text": "Frosted Cookies",
+        "title": "Frosted Cookies - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/titan-f1",
+        "text": "Titan F1",
+        "title": "Titan F1 - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/ocimene",
+        "text": "Ocimene",
+        "title": "Ocimene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

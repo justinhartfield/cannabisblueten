@@ -1,0 +1,233 @@
+{
+  "product": {
+    "slug": "barongo-261-lak",
+    "name": "Barongo 26/1 LAK",
+    "type": "flower",
+    "genetics": "hybrid_indica",
+    "thcPercent": 26,
+    "cbdPercent": 1,
+    "priceMin": 495,
+    "priceMax": 839,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": "https://weed.de/products/barongo-261-lak-dj2ge2.png"
+  },
+  "brand": {
+    "slug": "wmg-pharma",
+    "name": "WMG Pharma",
+    "productCount": 62
+  },
+  "strain": {
+    "slug": "laker-kush",
+    "name": "Laker Kush",
+    "geneticType": "hybrid",
+    "effects": [
+      "Relaxed",
+      "Calming",
+      "Activating",
+      "Stress-relief",
+      "Sleepy"
+    ],
+    "terpenes": [
+      "Trans-Caryophyllene",
+      "Linalool",
+      "Beta-Myrcene",
+      "Limonene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Relaxed",
+      "Calming",
+      "Activating",
+      "Stress-relief",
+      "Sleepy"
+    ],
+    "tastes": [
+      "Earthy",
+      "Herbal",
+      "Fruity",
+      "Citrus",
+      "Tangy"
+    ],
+    "terpenes": [
+      "Trans-Caryophyllene",
+      "Linalool",
+      "Beta-Myrcene",
+      "Limonene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "enua-251-cck-ca",
+      "name": "enua 25/1 CCK CA",
+      "brandName": "enua",
+      "thcPercent": 25.2,
+      "priceMin": 399,
+      "inStock": true
+    },
+    {
+      "slug": "ceres-no-2",
+      "name": "Ceres No. 2",
+      "brandName": "Cantourage",
+      "thcPercent": 25,
+      "priceMin": 590,
+      "inStock": true
+    },
+    {
+      "slug": "420-evolution-271-ca-icc",
+      "name": "420 EVOLUTION 27/1 CA ICC",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 27,
+      "priceMin": 684,
+      "inStock": true
+    },
+    {
+      "slug": "420-natural-221-gg4",
+      "name": "420 Natural 22/1 GG4",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 22,
+      "priceMin": 723,
+      "inStock": true
+    },
+    {
+      "slug": "avaay-241-sk",
+      "name": "AVAAY 24/1 SK",
+      "brandName": "Vayamed",
+      "thcPercent": 24,
+      "priceMin": 899,
+      "inStock": true
+    },
+    {
+      "slug": "avaay-241-did",
+      "name": "AVAAY 24/1 DiD",
+      "brandName": "Avaay",
+      "thcPercent": 24,
+      "priceMin": 949,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Barongo 26/1 LAK - WMG Pharma | ab 4,95 €",
+      "description": "Barongo 26/1 LAK von WMG Pharma. THC: 26%, CBD: 1%. Sorte: Laker Kush. Preis ab 4,95 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/barongo-261-lak",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Barongo 26/1 LAK - WMG Pharma | ab 4,95 €",
+        "description": "Barongo 26/1 LAK von WMG Pharma. THC: 26%, CBD: 1%. Sorte: Laker Kush. Preis ab 4,95 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/barongo-261-lak",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/barongo-261-lak-dj2ge2.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "WMG Pharma",
+        "href": "https://weed.de/brand/wmg-pharma"
+      },
+      {
+        "name": "Barongo 26/1 LAK",
+        "href": "https://weed.de/product/barongo-261-lak"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Barongo 26/1 LAK",
+            "item": "https://weed.de/product/barongo-261-lak"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Barongo 26/1 LAK",
+        "brand": {
+          "@type": "Brand",
+          "name": "WMG Pharma"
+        },
+        "description": "THC: 26%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/laker-kush",
+      "text": "Laker Kush",
+      "title": "Laker Kush Sorte"
+    },
+    "brand": {
+      "href": "/brand/wmg-pharma",
+      "text": "WMG Pharma",
+      "title": "Alle WMG Pharma Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/enua-251-cck-ca",
+        "text": "enua 25/1 CCK CA",
+        "title": "Alternative: enua 25/1 CCK CA"
+      },
+      {
+        "href": "/product/ceres-no-2",
+        "text": "Ceres No. 2",
+        "title": "Alternative: Ceres No. 2"
+      },
+      {
+        "href": "/product/420-evolution-271-ca-icc",
+        "text": "420 EVOLUTION 27/1 CA ICC",
+        "title": "Alternative: 420 EVOLUTION 27/1 CA ICC"
+      },
+      {
+        "href": "/product/420-natural-221-gg4",
+        "text": "420 Natural 22/1 GG4",
+        "title": "Alternative: 420 Natural 22/1 GG4"
+      },
+      {
+        "href": "/product/avaay-241-sk",
+        "text": "AVAAY 24/1 SK",
+        "title": "Alternative: AVAAY 24/1 SK"
+      },
+      {
+        "href": "/product/avaay-241-did",
+        "text": "AVAAY 24/1 DiD",
+        "title": "Alternative: AVAAY 24/1 DiD"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

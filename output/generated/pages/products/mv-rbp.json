@@ -1,0 +1,239 @@
+{
+  "product": {
+    "slug": "mv-rbp",
+    "name": "MV RBP",
+    "type": "flower",
+    "genetics": "hybrid",
+    "thcPercent": 25,
+    "cbdPercent": 1,
+    "priceMin": 845,
+    "priceMax": 845,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/products/mv-rbp-j51cd3.jpeg"
+  },
+  "brand": {
+    "slug": "cantourage",
+    "name": "Cantourage",
+    "productCount": 248
+  },
+  "strain": {
+    "slug": "rainbow-pie",
+    "name": "Rainbow Pie",
+    "geneticType": "hybrid",
+    "effects": [
+      "Creative",
+      "Euphoric",
+      "Sociable",
+      "Mood-lifting",
+      "Pain-relief",
+      "Stress-relief",
+      "Balanced"
+    ],
+    "terpenes": [
+      "Linalool",
+      "Beta-Caryophyllene",
+      "Beta-Myrcene",
+      "D-Limonene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Creative",
+      "Euphoric",
+      "Sociable",
+      "Mood-lifting",
+      "Pain-relief",
+      "Stress-relief",
+      "Balanced"
+    ],
+    "tastes": [
+      "Earthy",
+      "Citrus",
+      "Sweet",
+      "Blueberry",
+      "Fruity",
+      "Nutty",
+      "Vanilla"
+    ],
+    "terpenes": [
+      "Linalool",
+      "Beta-Caryophyllene",
+      "Beta-Myrcene",
+      "D-Limonene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "tilray-thc-25-spotlight-porto-purps",
+      "name": "Tilray THC 25 Spotlight Porto Purps",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": 349,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc5cbd2",
+      "name": "Tilray Cannabisextrakt THC5:CBD20",
+      "brandName": "Tilray",
+      "thcPercent": 5,
+      "priceMin": 350,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc1cbd1",
+      "name": "Tilray Cannabisextrakt THC10:CBD10",
+      "brandName": "Tilray",
+      "thcPercent": 10,
+      "priceMin": 400,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-2",
+      "name": "Demecan Typ 2",
+      "brandName": "Demecan",
+      "thcPercent": 16,
+      "priceMin": 533,
+      "inStock": true
+    },
+    {
+      "slug": "khiron-191-gelato",
+      "name": "Khiron 19/1 Gelato",
+      "brandName": "Khiron",
+      "thcPercent": 17.6,
+      "priceMin": 638,
+      "inStock": true
+    },
+    {
+      "slug": "blkmkt-rbp-thc27",
+      "name": "BLKMKT RBP THC27",
+      "brandName": "IMC",
+      "thcPercent": 25,
+      "priceMin": 749,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "MV RBP - Cantourage | ab 8,45 €",
+      "description": "MV RBP von Cantourage. THC: 25%, CBD: 1%. Sorte: Rainbow Pie. Preis ab 8,45 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/mv-rbp",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "MV RBP - Cantourage | ab 8,45 €",
+        "description": "MV RBP von Cantourage. THC: 25%, CBD: 1%. Sorte: Rainbow Pie. Preis ab 8,45 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/mv-rbp",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/products/mv-rbp-j51cd3.jpeg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Cantourage",
+        "href": "https://weed.de/brand/cantourage"
+      },
+      {
+        "name": "MV RBP",
+        "href": "https://weed.de/product/mv-rbp"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "MV RBP",
+            "item": "https://weed.de/product/mv-rbp"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "MV RBP",
+        "brand": {
+          "@type": "Brand",
+          "name": "Cantourage"
+        },
+        "description": "THC: 25%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/rainbow-pie",
+      "text": "Rainbow Pie",
+      "title": "Rainbow Pie Sorte"
+    },
+    "brand": {
+      "href": "/brand/cantourage",
+      "text": "Cantourage",
+      "title": "Alle Cantourage Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/tilray-thc-25-spotlight-porto-purps",
+        "text": "Tilray THC 25 Spotlight Porto Purps",
+        "title": "Alternative: Tilray THC 25 Spotlight Porto Purps"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc5cbd2",
+        "text": "Tilray Cannabisextrakt THC5:CBD20",
+        "title": "Alternative: Tilray Cannabisextrakt THC5:CBD20"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc1cbd1",
+        "text": "Tilray Cannabisextrakt THC10:CBD10",
+        "title": "Alternative: Tilray Cannabisextrakt THC10:CBD10"
+      },
+      {
+        "href": "/product/demecan-typ-2",
+        "text": "Demecan Typ 2",
+        "title": "Alternative: Demecan Typ 2"
+      },
+      {
+        "href": "/product/khiron-191-gelato",
+        "text": "Khiron 19/1 Gelato",
+        "title": "Alternative: Khiron 19/1 Gelato"
+      },
+      {
+        "href": "/product/blkmkt-rbp-thc27",
+        "text": "BLKMKT RBP THC27",
+        "title": "Alternative: BLKMKT RBP THC27"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

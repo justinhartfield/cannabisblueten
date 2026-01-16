@@ -1,0 +1,262 @@
+{
+  "strain": {
+    "slug": "green-gelato",
+    "name": "Green Gelato",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": null,
+      "max": null
+    },
+    "effects": [
+      "Creative",
+      "Energetic",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Earthy",
+      "Citrus",
+      "Vanilla",
+      "Mint",
+      "Berry"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Caryophyllene",
+      "Limonene",
+      "Humulene"
+    ],
+    "description": "Die Dessert-Sorte Green Gelato macht einen der angesagtesten Kultivare aus der Bay Area der USA für europäische Grower zugänglich. Diese Kreuzung aus Sunset Sherbet und Thin Mint Girl Scout Cookies verführt mit erdigen, minzigen und vanilleartige Aromen, die an Eiscreme erinnern. Der intensive Geschmack zeichnet sich durch Noten von Kush, Gebäck und Waldfrüchten aus. Dank 27 % THC ruft sie eine potente, körperlich entspannende Wirkung hervor, gleichzeitig pulsiert der Geist vor Energie und Kreativität. Darüber hinaus bieten die Buds eine ansprechende Ästhetik mit violetten Farbtönen und orangen Blütenstempeln. Eine Sorte für echte Cannasseure!",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 3,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 495,
+      "max": 860,
+      "formatted": {
+        "min": "4,95 €",
+        "max": "8,60 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "breezy-organics-ggl-201",
+      "name": "Breezy Organics GGL 20/1",
+      "brandName": "Ilios Santé",
+      "thcPercent": 20,
+      "priceMin": 495,
+      "inStock": true
+    },
+    {
+      "slug": "breezy-organics-ggl-221",
+      "name": "Breezy Organics GGL 22/1",
+      "brandName": "Ilios Santé",
+      "thcPercent": 22,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "breezy-organics-ggl-251",
+      "name": "Breezy Organics GGL 25/1",
+      "brandName": "Ilios Santé",
+      "thcPercent": 25,
+      "priceMin": 642,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "sour-og-kush",
+      "name": "Sour OG Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "banana-sherbet",
+      "name": "Banana Sherbet",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "stolo-haze",
+      "name": "Stolo Haze",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "chemdawg",
+      "name": "Chemdawg",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "grease-monkey",
+      "name": "Grease Monkey",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Green Gelato (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Green Gelato: Creative, Energetic, Relaxed. 3 Produkte verfügbar. ab 4,95 €.",
+      "canonical": "https://weed.de/strain/green-gelato",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Green Gelato (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Green Gelato: Creative, Energetic, Relaxed. 3 Produkte verfügbar. ab 4,95 €.",
+        "url": "https://weed.de/strain/green-gelato",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Green Gelato",
+        "href": "https://weed.de/strain/green-gelato"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Green Gelato",
+            "item": "https://weed.de/strain/green-gelato"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Green Gelato Produkte",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/breezy-organics-ggl-201",
+            "name": "Breezy Organics GGL 20/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/breezy-organics-ggl-221",
+            "name": "Breezy Organics GGL 22/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/breezy-organics-ggl-251",
+            "name": "Breezy Organics GGL 25/1"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/breezy-organics-ggl-201",
+        "text": "Breezy Organics GGL 20/1",
+        "title": "Breezy Organics GGL 20/1 von Ilios Santé"
+      },
+      {
+        "href": "/product/breezy-organics-ggl-221",
+        "text": "Breezy Organics GGL 22/1",
+        "title": "Breezy Organics GGL 22/1 von Ilios Santé"
+      },
+      {
+        "href": "/product/breezy-organics-ggl-251",
+        "text": "Breezy Organics GGL 25/1",
+        "title": "Breezy Organics GGL 25/1 von Ilios Santé"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/sour-og-kush",
+        "text": "Sour OG Kush",
+        "title": "Sour OG Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/banana-sherbet",
+        "text": "Banana Sherbet",
+        "title": "Banana Sherbet - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/stolo-haze",
+        "text": "Stolo Haze",
+        "title": "Stolo Haze - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/chemdawg",
+        "text": "Chemdawg",
+        "title": "Chemdawg - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/grease-monkey",
+        "text": "Grease Monkey",
+        "title": "Grease Monkey - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/humulene",
+        "text": "Humulene",
+        "title": "Humulene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

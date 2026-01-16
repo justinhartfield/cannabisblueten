@@ -1,0 +1,187 @@
+{
+  "pharmacy": {
+    "slug": "apotheke-butz-heimsheim",
+    "name": "cannabis-apotheke-online.de",
+    "street": "Heimsheim, Deutschland",
+    "zip": "71296",
+    "cityName": "Heimsheim",
+    "state": "Baden-Württemberg",
+    "lat": 48.8080814,
+    "lng": 8.863622699999999,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": false,
+    "website": null,
+    "phone": "07033469530",
+    "email": "info@cannabis-apotheke-online.de",
+    "productCount": 0,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": null
+  },
+  "city": {
+    "slug": "heimsheim",
+    "name": "Heimsheim",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "florians-vital-apotheke",
+      "name": "Florians Vital Apotheke",
+      "cityName": "Esslingen am Neckar",
+      "productCount": 248,
+      "hasDelivery": true
+    },
+    {
+      "slug": "central-apotheke",
+      "name": "Cannabis-Champion",
+      "cityName": "Waiblingen",
+      "productCount": 240,
+      "hasDelivery": true
+    },
+    {
+      "slug": "karlchengras",
+      "name": "Karlchengras (Karl-Apotheke)",
+      "cityName": "Karlsruhe",
+      "productCount": 188,
+      "hasDelivery": true
+    },
+    {
+      "slug": "idris-apotheke-oder-3leafs",
+      "name": "Idris Apotheke | 3Leafs",
+      "cityName": "Weinheim",
+      "productCount": 149,
+      "hasDelivery": true
+    },
+    {
+      "slug": "schwarzwald-vital-apotheke",
+      "name": "Schwarzwald Vital Apotheke",
+      "cityName": "Gaggenau",
+      "productCount": 133,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "cannabis-apotheke-online.de - Cannabis Apotheke in Heimsheim",
+      "description": "cannabis-apotheke-online.de in Heimsheim. Lieferung & Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/apotheke-butz-heimsheim",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "cannabis-apotheke-online.de - Cannabis Apotheke in Heimsheim",
+        "description": "cannabis-apotheke-online.de in Heimsheim. Lieferung & Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/apotheke-butz-heimsheim",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Heimsheim",
+        "href": "https://weed.de/cannabis-apotheke/heimsheim"
+      },
+      {
+        "name": "cannabis-apotheke-online.de",
+        "href": "https://weed.de/apotheke/apotheke-butz-heimsheim"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Heimsheim",
+            "item": "https://weed.de/cannabis-apotheke/heimsheim"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "cannabis-apotheke-online.de",
+            "item": "https://weed.de/apotheke/apotheke-butz-heimsheim"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "cannabis-apotheke-online.de",
+        "url": "https://weed.de/apotheke/apotheke-butz-heimsheim",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Heimsheim, Deutschland",
+          "addressLocality": "Heimsheim",
+          "postalCode": "71296",
+          "addressRegion": "Baden-Württemberg",
+          "addressCountry": "DE"
+        },
+        "telephone": "07033469530",
+        "email": "info@cannabis-apotheke-online.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/heimsheim",
+      "text": "Cannabis Apotheken in Heimsheim",
+      "title": "Alle Apotheken in Heimsheim"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/florians-vital-apotheke",
+        "text": "Florians Vital Apotheke",
+        "title": "Florians Vital Apotheke in Esslingen am Neckar"
+      },
+      {
+        "href": "/apotheke/central-apotheke",
+        "text": "Cannabis-Champion",
+        "title": "Cannabis-Champion in Waiblingen"
+      },
+      {
+        "href": "/apotheke/karlchengras",
+        "text": "Karlchengras (Karl-Apotheke)",
+        "title": "Karlchengras (Karl-Apotheke) in Karlsruhe"
+      },
+      {
+        "href": "/apotheke/idris-apotheke-oder-3leafs",
+        "text": "Idris Apotheke | 3Leafs",
+        "title": "Idris Apotheke | 3Leafs in Weinheim"
+      },
+      {
+        "href": "/apotheke/schwarzwald-vital-apotheke",
+        "text": "Schwarzwald Vital Apotheke",
+        "title": "Schwarzwald Vital Apotheke in Gaggenau"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has services"
+  }
+}

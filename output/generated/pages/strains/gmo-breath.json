@@ -1,0 +1,239 @@
+{
+  "strain": {
+    "slug": "gmo-breath",
+    "name": "GMO Breath",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [
+      "Relaxed",
+      "Sleepy"
+    ],
+    "tastes": [
+      "Citrus",
+      "Spicy"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Beta-Caryophyllene",
+      "Alpha-Cedrene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 599,
+      "max": 799,
+      "formatted": {
+        "min": "5,99 €",
+        "max": "7,99 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "remexian-271-crx-gmo",
+      "name": "Remexian 27/1 CRX GMO",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 27,
+      "priceMin": 599,
+      "inStock": true
+    },
+    {
+      "slug": "remexian-31-crx-gmo",
+      "name": "Remexian 30/1 CRX GMO",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 30,
+      "priceMin": 799,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "rainbow-lava",
+      "name": "Rainbow Lava",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "cheese-quake",
+      "name": "Cheese Quake",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "tigerz-eye",
+      "name": "Tigerz Eye",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "tickle-burger",
+      "name": "Tickle Burger",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "alien-mints",
+      "name": "Alien Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "GMO Breath (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "GMO Breath: Relaxed, Sleepy. 2 Produkte verfügbar. ab 5,99 €.",
+      "canonical": "https://weed.de/strain/gmo-breath",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "GMO Breath (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "GMO Breath: Relaxed, Sleepy. 2 Produkte verfügbar. ab 5,99 €.",
+        "url": "https://weed.de/strain/gmo-breath",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "GMO Breath",
+        "href": "https://weed.de/strain/gmo-breath"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "GMO Breath",
+            "item": "https://weed.de/strain/gmo-breath"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "GMO Breath Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/remexian-271-crx-gmo",
+            "name": "Remexian 27/1 CRX GMO"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/remexian-31-crx-gmo",
+            "name": "Remexian 30/1 CRX GMO"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/remexian-271-crx-gmo",
+        "text": "Remexian 27/1 CRX GMO",
+        "title": "Remexian 27/1 CRX GMO von Remexian Pharma"
+      },
+      {
+        "href": "/product/remexian-31-crx-gmo",
+        "text": "Remexian 30/1 CRX GMO",
+        "title": "Remexian 30/1 CRX GMO von Remexian Pharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/rainbow-lava",
+        "text": "Rainbow Lava",
+        "title": "Rainbow Lava - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/cheese-quake",
+        "text": "Cheese Quake",
+        "title": "Cheese Quake - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/tigerz-eye",
+        "text": "Tigerz Eye",
+        "title": "Tigerz Eye - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/tickle-burger",
+        "text": "Tickle Burger",
+        "title": "Tickle Burger - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/alien-mints",
+        "text": "Alien Mints",
+        "title": "Alien Mints - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/alpha-cedrene",
+        "text": "Alpha-Cedrene",
+        "title": "Alpha-Cedrene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

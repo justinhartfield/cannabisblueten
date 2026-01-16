@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "farma-plus-apotheke-am-rathaus-herten",
+    "name": "farma-plus Apotheke am Rathaus Herten",
+    "street": "Kurt-Schumacher-Straße 5",
+    "zip": "45699",
+    "cityName": "Herten",
+    "state": "Nordrhein-Westfalen",
+    "lat": 51.5941394,
+    "lng": 7.1362504,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "www.cannabis-apotheke-herten.de",
+    "phone": "023669379710",
+    "email": "team@cannabis-apotheke-herten.de",
+    "productCount": 26,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/6849c27e7ccbd55713a7d2e7-be5377.jpg"
+  },
+  "city": {
+    "slug": "herten",
+    "name": "Herten",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "higreen-apotheke",
+      "name": "higreen! Online Marktplatz für Cannabis Apotheken",
+      "cityName": "Krefeld",
+      "productCount": 256,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-zur-alten-post",
+      "name": "Cannacompany (Apotheke zur Alten Post)",
+      "cityName": "Bonn",
+      "productCount": 233,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis-apotheke-essen-glocken-apotheke",
+      "name": "Cannabis Apotheke Essen (Glocken Apotheke)",
+      "cityName": "Essen",
+      "productCount": 174,
+      "hasDelivery": true
+    },
+    {
+      "slug": "grafenberger-apotheke",
+      "name": "GRAFENBERGER APOTHEKE",
+      "cityName": "Düsseldorf",
+      "productCount": 158,
+      "hasDelivery": true
+    },
+    {
+      "slug": "420brokkoli",
+      "name": "420brokkoli",
+      "cityName": "Paderborn",
+      "productCount": 156,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "farma-plus Apotheke am Rathaus Herten - Cannabis Apotheke in Herten",
+      "description": "farma-plus Apotheke am Rathaus Herten in Herten. 26 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/farma-plus-apotheke-am-rathaus-herten",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "farma-plus Apotheke am Rathaus Herten - Cannabis Apotheke in Herten",
+        "description": "farma-plus Apotheke am Rathaus Herten in Herten. 26 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/farma-plus-apotheke-am-rathaus-herten",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/6849c27e7ccbd55713a7d2e7-be5377.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Herten",
+        "href": "https://weed.de/cannabis-apotheke/herten"
+      },
+      {
+        "name": "farma-plus Apotheke am Rathaus Herten",
+        "href": "https://weed.de/apotheke/farma-plus-apotheke-am-rathaus-herten"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Herten",
+            "item": "https://weed.de/cannabis-apotheke/herten"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "farma-plus Apotheke am Rathaus Herten",
+            "item": "https://weed.de/apotheke/farma-plus-apotheke-am-rathaus-herten"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "farma-plus Apotheke am Rathaus Herten",
+        "url": "https://weed.de/apotheke/farma-plus-apotheke-am-rathaus-herten",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Kurt-Schumacher-Straße 5",
+          "addressLocality": "Herten",
+          "postalCode": "45699",
+          "addressRegion": "Nordrhein-Westfalen",
+          "addressCountry": "DE"
+        },
+        "telephone": "023669379710",
+        "email": "team@cannabis-apotheke-herten.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/herten",
+      "text": "Cannabis Apotheken in Herten",
+      "title": "Alle Apotheken in Herten"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/higreen-apotheke",
+        "text": "higreen! Online Marktplatz für Cannabis Apotheken",
+        "title": "higreen! Online Marktplatz für Cannabis Apotheken in Krefeld"
+      },
+      {
+        "href": "/apotheke/apotheke-zur-alten-post",
+        "text": "Cannacompany (Apotheke zur Alten Post)",
+        "title": "Cannacompany (Apotheke zur Alten Post) in Bonn"
+      },
+      {
+        "href": "/apotheke/cannabis-apotheke-essen-glocken-apotheke",
+        "text": "Cannabis Apotheke Essen (Glocken Apotheke)",
+        "title": "Cannabis Apotheke Essen (Glocken Apotheke) in Essen"
+      },
+      {
+        "href": "/apotheke/grafenberger-apotheke",
+        "text": "GRAFENBERGER APOTHEKE",
+        "title": "GRAFENBERGER APOTHEKE in Düsseldorf"
+      },
+      {
+        "href": "/apotheke/420brokkoli",
+        "text": "420brokkoli",
+        "title": "420brokkoli in Paderborn"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

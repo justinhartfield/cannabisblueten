@@ -1,0 +1,215 @@
+{
+  "strain": {
+    "slug": "mendo-breath",
+    "name": "Mendo Breath",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Euphoric",
+      "Happy",
+      "Sleepy"
+    ],
+    "tastes": [
+      "Herbal",
+      "Earthy"
+    ],
+    "terpenes": [
+      "D-Limonene",
+      "Alpha-Humulene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "Mendo Breath ist ein kraftvoller Hybridstrain, gezüchtet von Gage Green Genetics, der durch die Kreuzung zweier hochpotenter Elternsorten entstanden ist: OG Kush Breath (OGKB) und Mendo Montage. Die Sorte kombiniert das süßlich-vanillige Cookie-Aroma von OGKB mit der fruchtigen Tiefe und entspannenden Wirkung von Mendo Montage. Das Resultat ist eine Sorte mit intensivem Geschmack, komplexem Terpenprofil und ausgeglichener Wirkung, die sowohl für Genusskonsumenten als auch für medizinische Nutzer von Interesse ist. Visuell überzeugt Mendo Breath durch dichte, harzige Blüten, die häufig violette Akzente aufweisen.\n",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 295,
+      "max": 499,
+      "formatted": {
+        "min": "2,95 €",
+        "max": "4,99 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "medical-saints-181-meb",
+      "name": "Medical Saints 18/1 MEB",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 18,
+      "priceMin": 295,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "pineapple-god",
+      "name": "Pineapple God",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "fine-cookies",
+      "name": "Fine Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "pink-gas",
+      "name": "Pink Gas",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "gmo-cookies",
+      "name": "GMO Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "mega-breath",
+      "name": "Mega Breath",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Mendo Breath (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Mendo Breath: Euphoric, Happy, Sleepy. 1 Produkte verfügbar. ab 2,95 €.",
+      "canonical": "https://weed.de/strain/mendo-breath",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Mendo Breath (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Mendo Breath: Euphoric, Happy, Sleepy. 1 Produkte verfügbar. ab 2,95 €.",
+        "url": "https://weed.de/strain/mendo-breath",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Mendo Breath",
+        "href": "https://weed.de/strain/mendo-breath"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Mendo Breath",
+            "item": "https://weed.de/strain/mendo-breath"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Mendo Breath Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/medical-saints-181-meb",
+            "name": "Medical Saints 18/1 MEB"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/medical-saints-181-meb",
+        "text": "Medical Saints 18/1 MEB",
+        "title": "Medical Saints 18/1 MEB von Remexian Pharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/pineapple-god",
+        "text": "Pineapple God",
+        "title": "Pineapple God - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/fine-cookies",
+        "text": "Fine Cookies",
+        "title": "Fine Cookies - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/pink-gas",
+        "text": "Pink Gas",
+        "title": "Pink Gas - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/gmo-cookies",
+        "text": "GMO Cookies",
+        "title": "GMO Cookies - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/mega-breath",
+        "text": "Mega Breath",
+        "title": "Mega Breath - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/d-limonene",
+        "text": "D-Limonene",
+        "title": "D-Limonene Terpen"
+      },
+      {
+        "href": "/terpene/alpha-humulene",
+        "text": "Alpha-Humulene",
+        "title": "Alpha-Humulene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "uhlberg-apotheke",
+    "name": "Uhlberg Apotheke",
+    "street": "Bonländer Hauptstraße 77",
+    "zip": "70794",
+    "cityName": "Filderstadt",
+    "state": "Baden-Württemberg",
+    "lat": 48.6563576,
+    "lng": 9.2173257,
+    "hasDelivery": false,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://www.uhlberg-apotheke-filderstadt.de/",
+    "phone": "0711774303",
+    "email": "info@uhlberg-apotheke.de",
+    "productCount": 8,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.de/pharmacies/uhlberg-apotheke-c71jd6.png"
+  },
+  "city": {
+    "slug": "filderstadt",
+    "name": "Filderstadt",
+    "pharmacyCount": 2
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "apotheke-am-bahnhof-2",
+      "name": "Apotheke am Bahnhof",
+      "cityName": "Filderstadt",
+      "productCount": 0,
+      "hasDelivery": false
+    },
+    {
+      "slug": "florians-vital-apotheke",
+      "name": "Florians Vital Apotheke",
+      "cityName": "Esslingen am Neckar",
+      "productCount": 248,
+      "hasDelivery": true
+    },
+    {
+      "slug": "central-apotheke",
+      "name": "Cannabis-Champion",
+      "cityName": "Waiblingen",
+      "productCount": 240,
+      "hasDelivery": true
+    },
+    {
+      "slug": "karlchengras",
+      "name": "Karlchengras (Karl-Apotheke)",
+      "cityName": "Karlsruhe",
+      "productCount": 188,
+      "hasDelivery": true
+    },
+    {
+      "slug": "idris-apotheke-oder-3leafs",
+      "name": "Idris Apotheke | 3Leafs",
+      "cityName": "Weinheim",
+      "productCount": 149,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Uhlberg Apotheke - Cannabis Apotheke in Filderstadt",
+      "description": "Uhlberg Apotheke in Filderstadt. 8 Cannabis Produkte. Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/uhlberg-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Uhlberg Apotheke - Cannabis Apotheke in Filderstadt",
+        "description": "Uhlberg Apotheke in Filderstadt. 8 Cannabis Produkte. Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/uhlberg-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/pharmacies/uhlberg-apotheke-c71jd6.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Filderstadt",
+        "href": "https://weed.de/cannabis-apotheke/filderstadt"
+      },
+      {
+        "name": "Uhlberg Apotheke",
+        "href": "https://weed.de/apotheke/uhlberg-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Filderstadt",
+            "item": "https://weed.de/cannabis-apotheke/filderstadt"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Uhlberg Apotheke",
+            "item": "https://weed.de/apotheke/uhlberg-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Uhlberg Apotheke",
+        "url": "https://weed.de/apotheke/uhlberg-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Bonländer Hauptstraße 77",
+          "addressLocality": "Filderstadt",
+          "postalCode": "70794",
+          "addressRegion": "Baden-Württemberg",
+          "addressCountry": "DE"
+        },
+        "telephone": "0711774303",
+        "email": "info@uhlberg-apotheke.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/filderstadt",
+      "text": "Cannabis Apotheken in Filderstadt",
+      "title": "Alle Apotheken in Filderstadt"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/apotheke-am-bahnhof-2",
+        "text": "Apotheke am Bahnhof",
+        "title": "Apotheke am Bahnhof in Filderstadt"
+      },
+      {
+        "href": "/apotheke/florians-vital-apotheke",
+        "text": "Florians Vital Apotheke",
+        "title": "Florians Vital Apotheke in Esslingen am Neckar"
+      },
+      {
+        "href": "/apotheke/central-apotheke",
+        "text": "Cannabis-Champion",
+        "title": "Cannabis-Champion in Waiblingen"
+      },
+      {
+        "href": "/apotheke/karlchengras",
+        "text": "Karlchengras (Karl-Apotheke)",
+        "title": "Karlchengras (Karl-Apotheke) in Karlsruhe"
+      },
+      {
+        "href": "/apotheke/idris-apotheke-oder-3leafs",
+        "text": "Idris Apotheke | 3Leafs",
+        "title": "Idris Apotheke | 3Leafs in Weinheim"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

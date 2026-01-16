@@ -1,0 +1,225 @@
+{
+  "product": {
+    "slug": "pedanios-271-frg-ca",
+    "name": "Pedanios 27/1 FRG-CA",
+    "type": "flower",
+    "genetics": "hybrid",
+    "thcPercent": 27.7,
+    "cbdPercent": 0.1,
+    "priceMin": 514,
+    "priceMax": 1316,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": "https://weed.de/products/pedanios-271-frg-ca-fcg004.png"
+  },
+  "brand": {
+    "slug": "aurora",
+    "name": "Aurora",
+    "productCount": 39
+  },
+  "strain": {
+    "slug": "farm-gas",
+    "name": "Farm Gas",
+    "geneticType": "indica",
+    "effects": [
+      "Euphoric",
+      "Happy",
+      "Relaxed"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Pinene",
+      "Caryophyllene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Euphoric",
+      "Happy",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Diesel",
+      "Earthy",
+      "Sweet"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Pinene",
+      "Caryophyllene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "tilray-thc-25-spotlight-porto-purps",
+      "name": "Tilray THC 25 Spotlight Porto Purps",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": 349,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc5cbd2",
+      "name": "Tilray Cannabisextrakt THC5:CBD20",
+      "brandName": "Tilray",
+      "thcPercent": 5,
+      "priceMin": 350,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc1cbd1",
+      "name": "Tilray Cannabisextrakt THC10:CBD10",
+      "brandName": "Tilray",
+      "thcPercent": 10,
+      "priceMin": 400,
+      "inStock": true
+    },
+    {
+      "slug": "extract-aurora-125125",
+      "name": "Extract Aurora 12.5:12.5",
+      "brandName": "Aurora",
+      "thcPercent": 1.25,
+      "priceMin": 476,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-2",
+      "name": "Demecan Typ 2",
+      "brandName": "Demecan",
+      "thcPercent": 16,
+      "priceMin": 533,
+      "inStock": true
+    },
+    {
+      "slug": "aurora-extract-251",
+      "name": "Aurora Extract 25:1",
+      "brandName": "Aurora",
+      "thcPercent": 25,
+      "priceMin": 631,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Pedanios 27/1 FRG-CA - Aurora | ab 5,14 €",
+      "description": "Pedanios 27/1 FRG-CA von Aurora. THC: 27.7%, CBD: 0.1%. Sorte: Farm Gas. Preis ab 5,14 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/pedanios-271-frg-ca",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Pedanios 27/1 FRG-CA - Aurora | ab 5,14 €",
+        "description": "Pedanios 27/1 FRG-CA von Aurora. THC: 27.7%, CBD: 0.1%. Sorte: Farm Gas. Preis ab 5,14 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/pedanios-271-frg-ca",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/pedanios-271-frg-ca-fcg004.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Aurora",
+        "href": "https://weed.de/brand/aurora"
+      },
+      {
+        "name": "Pedanios 27/1 FRG-CA",
+        "href": "https://weed.de/product/pedanios-271-frg-ca"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Pedanios 27/1 FRG-CA",
+            "item": "https://weed.de/product/pedanios-271-frg-ca"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Pedanios 27/1 FRG-CA",
+        "brand": {
+          "@type": "Brand",
+          "name": "Aurora"
+        },
+        "description": "THC: 27.7%, CBD: 0.1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/farm-gas",
+      "text": "Farm Gas",
+      "title": "Farm Gas Sorte"
+    },
+    "brand": {
+      "href": "/brand/aurora",
+      "text": "Aurora",
+      "title": "Alle Aurora Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/tilray-thc-25-spotlight-porto-purps",
+        "text": "Tilray THC 25 Spotlight Porto Purps",
+        "title": "Alternative: Tilray THC 25 Spotlight Porto Purps"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc5cbd2",
+        "text": "Tilray Cannabisextrakt THC5:CBD20",
+        "title": "Alternative: Tilray Cannabisextrakt THC5:CBD20"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc1cbd1",
+        "text": "Tilray Cannabisextrakt THC10:CBD10",
+        "title": "Alternative: Tilray Cannabisextrakt THC10:CBD10"
+      },
+      {
+        "href": "/product/extract-aurora-125125",
+        "text": "Extract Aurora 12.5:12.5",
+        "title": "Alternative: Extract Aurora 12.5:12.5"
+      },
+      {
+        "href": "/product/demecan-typ-2",
+        "text": "Demecan Typ 2",
+        "title": "Alternative: Demecan Typ 2"
+      },
+      {
+        "href": "/product/aurora-extract-251",
+        "text": "Aurora Extract 25:1",
+        "title": "Alternative: Aurora Extract 25:1"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

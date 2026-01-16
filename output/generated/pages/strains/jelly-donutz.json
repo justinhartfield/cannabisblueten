@@ -1,0 +1,188 @@
+{
+  "strain": {
+    "slug": "jelly-donutz",
+    "name": "Jelly Donutz",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Hungry",
+      "Energetic",
+      "Aroused",
+      "Dry Mouth",
+      "Dry Eyes"
+    ],
+    "tastes": [
+      "Apple",
+      "Berry",
+      "Apricot"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Caryophyllene",
+      "Pinene",
+      "Myrcene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 0,
+    "pharmacyCount": 0,
+    "priceRange": null
+  },
+  "products": [],
+  "similarStrains": [
+    {
+      "slug": "herijuana",
+      "name": "Herijuana",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "gush-mints",
+      "name": "Gush Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "miracle-mints",
+      "name": "Miracle Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "gorilla-glue-4",
+      "name": "GG4",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "god-bud",
+      "name": "God Bud",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Jelly Donutz (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Jelly Donutz: Hungry, Energetic, Aroused.",
+      "canonical": "https://weed.de/strain/jelly-donutz",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Jelly Donutz (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Jelly Donutz: Hungry, Energetic, Aroused.",
+        "url": "https://weed.de/strain/jelly-donutz",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Jelly Donutz",
+        "href": "https://weed.de/strain/jelly-donutz"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Jelly Donutz",
+            "item": "https://weed.de/strain/jelly-donutz"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [],
+    "similarStrains": [
+      {
+        "href": "/strain/herijuana",
+        "text": "Herijuana",
+        "title": "Herijuana - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/gush-mints",
+        "text": "Gush Mints",
+        "title": "Gush Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/miracle-mints",
+        "text": "Miracle Mints",
+        "title": "Miracle Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/gorilla-glue-4",
+        "text": "GG4",
+        "title": "GG4 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/god-bud",
+        "text": "God Bud",
+        "title": "God Bud - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/pinene",
+        "text": "Pinene",
+        "title": "Pinene Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has data and related content"
+  }
+}

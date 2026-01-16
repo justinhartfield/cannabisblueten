@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "stadt-apotheke-teltow",
+    "name": "Stadt-Apotheke Teltow",
+    "street": "Ruhlsdorfer Straße 3",
+    "zip": "14513",
+    "cityName": "Teltow",
+    "state": "Brandenburg",
+    "lat": 52.4000639,
+    "lng": 13.2681429,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://www.apotheke-teltow.com/cannabisblueten",
+    "phone": "0332841332",
+    "email": "rezept@apotheke-teltow.de",
+    "productCount": 10,
+    "rating": 5,
+    "ratingCount": 1,
+    "imageUrl": "https://weed.de/pharmacies/64f827c6823751af93d35616-3f3gjf.jpg"
+  },
+  "city": {
+    "slug": "teltow",
+    "name": "Teltow",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "apotheke-im-brandenburger-einkaufszentrum",
+      "name": "Apotheke im Brandenburger Einkaufszentrum",
+      "cityName": "Brandenburg an der Havel",
+      "productCount": 380,
+      "hasDelivery": true
+    },
+    {
+      "slug": "rosen-apotheke-1",
+      "name": "Rosen-Apotheke",
+      "cityName": "Forst (Lausitz)",
+      "productCount": 13,
+      "hasDelivery": true
+    },
+    {
+      "slug": "rathaus-apotheke",
+      "name": "Rathaus Apotheke",
+      "cityName": "Senftenberg",
+      "productCount": 5,
+      "hasDelivery": true
+    },
+    {
+      "slug": "test-test",
+      "name": "TEST TEST",
+      "cityName": "Schönefeld",
+      "productCount": 0,
+      "hasDelivery": false
+    },
+    {
+      "slug": "adler-apotheke-5",
+      "name": "Adler Apotheke",
+      "cityName": "Blankenfelde-Mahlow",
+      "productCount": 0,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Stadt-Apotheke Teltow - Cannabis Apotheke in Teltow",
+      "description": "Stadt-Apotheke Teltow in Teltow. 10 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/stadt-apotheke-teltow",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Stadt-Apotheke Teltow - Cannabis Apotheke in Teltow",
+        "description": "Stadt-Apotheke Teltow in Teltow. 10 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/stadt-apotheke-teltow",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/pharmacies/64f827c6823751af93d35616-3f3gjf.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Teltow",
+        "href": "https://weed.de/cannabis-apotheke/teltow"
+      },
+      {
+        "name": "Stadt-Apotheke Teltow",
+        "href": "https://weed.de/apotheke/stadt-apotheke-teltow"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Teltow",
+            "item": "https://weed.de/cannabis-apotheke/teltow"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Stadt-Apotheke Teltow",
+            "item": "https://weed.de/apotheke/stadt-apotheke-teltow"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Stadt-Apotheke Teltow",
+        "url": "https://weed.de/apotheke/stadt-apotheke-teltow",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Ruhlsdorfer Straße 3",
+          "addressLocality": "Teltow",
+          "postalCode": "14513",
+          "addressRegion": "Brandenburg",
+          "addressCountry": "DE"
+        },
+        "telephone": "0332841332",
+        "email": "rezept@apotheke-teltow.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/teltow",
+      "text": "Cannabis Apotheken in Teltow",
+      "title": "Alle Apotheken in Teltow"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/apotheke-im-brandenburger-einkaufszentrum",
+        "text": "Apotheke im Brandenburger Einkaufszentrum",
+        "title": "Apotheke im Brandenburger Einkaufszentrum in Brandenburg an der Havel"
+      },
+      {
+        "href": "/apotheke/rosen-apotheke-1",
+        "text": "Rosen-Apotheke",
+        "title": "Rosen-Apotheke in Forst (Lausitz)"
+      },
+      {
+        "href": "/apotheke/rathaus-apotheke",
+        "text": "Rathaus Apotheke",
+        "title": "Rathaus Apotheke in Senftenberg"
+      },
+      {
+        "href": "/apotheke/test-test",
+        "text": "TEST TEST",
+        "title": "TEST TEST in Schönefeld"
+      },
+      {
+        "href": "/apotheke/adler-apotheke-5",
+        "text": "Adler Apotheke",
+        "title": "Adler Apotheke in Blankenfelde-Mahlow"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "pharmacy": {
+    "slug": "oberlaender-apotheke",
+    "name": "Oberländer Apotheke",
+    "street": "Daiserstraße 27",
+    "zip": "81371",
+    "cityName": "München",
+    "state": "Bayern",
+    "lat": 48.119329,
+    "lng": 11.544018,
+    "hasDelivery": false,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://www.xn--oberlnder-apotheke-ptb.de/",
+    "phone": "089763756",
+    "email": "info@oberlaender-apotheke.de",
+    "productCount": 46,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": null
+  },
+  "city": {
+    "slug": "muenchen",
+    "name": "München",
+    "pharmacyCount": 12
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "apotheke-forum-schwanthalerhoehe",
+      "name": "Apotheke Forum Schwanthalerhöhe",
+      "cityName": "München",
+      "productCount": 70,
+      "hasDelivery": true
+    },
+    {
+      "slug": "fox2",
+      "name": "Fox20",
+      "cityName": "München",
+      "productCount": 46,
+      "hasDelivery": false
+    },
+    {
+      "slug": "stachus-apotheke",
+      "name": "Stachus-Apotheke",
+      "cityName": "München",
+      "productCount": 38,
+      "hasDelivery": true
+    },
+    {
+      "slug": "medicus-apotheke",
+      "name": "Cannamedicus",
+      "cityName": "München",
+      "productCount": 30,
+      "hasDelivery": true
+    },
+    {
+      "slug": "kranich-apotheke-am-rotkreuzplatz",
+      "name": "Kranich Apotheke am Rotkreuzplatz",
+      "cityName": "München",
+      "productCount": 28,
+      "hasDelivery": false
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Oberländer Apotheke - Cannabis Apotheke in München",
+      "description": "Oberländer Apotheke in München. 46 Cannabis Produkte. Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/oberlaender-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Oberländer Apotheke - Cannabis Apotheke in München",
+        "description": "Oberländer Apotheke in München. 46 Cannabis Produkte. Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/oberlaender-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "München",
+        "href": "https://weed.de/cannabis-apotheke/muenchen"
+      },
+      {
+        "name": "Oberländer Apotheke",
+        "href": "https://weed.de/apotheke/oberlaender-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "München",
+            "item": "https://weed.de/cannabis-apotheke/muenchen"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Oberländer Apotheke",
+            "item": "https://weed.de/apotheke/oberlaender-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Oberländer Apotheke",
+        "url": "https://weed.de/apotheke/oberlaender-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Daiserstraße 27",
+          "addressLocality": "München",
+          "postalCode": "81371",
+          "addressRegion": "Bayern",
+          "addressCountry": "DE"
+        },
+        "telephone": "089763756",
+        "email": "info@oberlaender-apotheke.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/muenchen",
+      "text": "Cannabis Apotheken in München",
+      "title": "Alle Apotheken in München"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/apotheke-forum-schwanthalerhoehe",
+        "text": "Apotheke Forum Schwanthalerhöhe",
+        "title": "Apotheke Forum Schwanthalerhöhe in München"
+      },
+      {
+        "href": "/apotheke/fox2",
+        "text": "Fox20",
+        "title": "Fox20 in München"
+      },
+      {
+        "href": "/apotheke/stachus-apotheke",
+        "text": "Stachus-Apotheke",
+        "title": "Stachus-Apotheke in München"
+      },
+      {
+        "href": "/apotheke/medicus-apotheke",
+        "text": "Cannamedicus",
+        "title": "Cannamedicus in München"
+      },
+      {
+        "href": "/apotheke/kranich-apotheke-am-rotkreuzplatz",
+        "text": "Kranich Apotheke am Rotkreuzplatz",
+        "title": "Kranich Apotheke am Rotkreuzplatz in München"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

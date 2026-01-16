@@ -1,0 +1,236 @@
+{
+  "strain": {
+    "slug": "la-kush",
+    "name": "LA Kush",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Balanced",
+      "Relaxed",
+      "Stress-relief",
+      "Sleepy",
+      "Pain-relief",
+      "Sedative"
+    ],
+    "tastes": [
+      "Earthy",
+      "Pine",
+      "Sweet",
+      "Herbal",
+      "Diesel",
+      "Tangy",
+      "Musky",
+      "Floral"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Caryophyllene",
+      "Limonene",
+      "Humulene",
+      "Linalool"
+    ],
+    "description": "LA Kush ist eine Indica-dominante Hybrid-Sorte, deren Genetik eng mit der OG Kush-Linie verwandt ist. Obwohl die genaue Abstammung nicht einheitlich dokumentiert ist, wird eine lokale Selektion oder Kreuzung mit Afghani oder Pure Kush vermutet. Mit einem hohen THC-Gehalt von typischerweise 26% und einem CBD-Wert von etwa 1% liefert sie beruhigende und körperzentrierte Effekte. \nIhr komplexes Geschmacksprofil ist geprägt von klassisch-erdigen, leicht kiefernartigen und süßlich-würzigen Noten, die von Diesel und Kräutern ergänzt werden. Das Terpenprofil, das von Myrcen, Caryophyllen und Limonen dominiert wird, enthält zusätzlich auch Linalool und Humulen, was das Aroma mit moschusartigen, würzigen und floralen Nuancen unterstreicht. \nDie Wirkung ist sanft, aber wirkungsvoll, beginnt mit einer mental ausgleichenden Phase, in der Sorgen nachlassen, gefolgt von einer tiefen, körperlichen Entspannung. LA Kush ist ideal, um Stress, Schlafstörungen und chronische Schmerzen zu lindern, da sie geistige Ruhe mit körperlichem Wohlgefühl kombiniert, ohne sofort zu starker Sedierung zu führen. Zusammengefasst ist LA Kush eine Sorte für alle, die ein erdig-süßes OG-Aroma mit einem potenten, funktional bleibenden und tief entspannenden High suchen.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 595,
+      "max": 645,
+      "formatted": {
+        "min": "5,95 €",
+        "max": "6,45 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "barongo-261-lak-la-kush",
+      "name": "Barongo 26/1 LAK LA KUSH",
+      "brandName": "WMG Pharma",
+      "thcPercent": 26,
+      "priceMin": 595,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "gush-mints",
+      "name": "Gush Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "chem-cookies",
+      "name": "Chemdawg Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "juggernaut-gas-breath",
+      "name": "Juggernaut Gas Breath",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "candy-fumez",
+      "name": "Candy Fumez",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "caramel-cbd",
+      "name": "Caramel CBD",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "LA Kush (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "LA Kush: Balanced, Relaxed, Stress-relief. 1 Produkte verfügbar. ab 5,95 €.",
+      "canonical": "https://weed.de/strain/la-kush",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "LA Kush (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "LA Kush: Balanced, Relaxed, Stress-relief. 1 Produkte verfügbar. ab 5,95 €.",
+        "url": "https://weed.de/strain/la-kush",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "LA Kush",
+        "href": "https://weed.de/strain/la-kush"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "LA Kush",
+            "item": "https://weed.de/strain/la-kush"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "LA Kush Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/barongo-261-lak-la-kush",
+            "name": "Barongo 26/1 LAK LA KUSH"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/barongo-261-lak-la-kush",
+        "text": "Barongo 26/1 LAK LA KUSH",
+        "title": "Barongo 26/1 LAK LA KUSH von WMG Pharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/gush-mints",
+        "text": "Gush Mints",
+        "title": "Gush Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/chem-cookies",
+        "text": "Chemdawg Cookies",
+        "title": "Chemdawg Cookies - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/juggernaut-gas-breath",
+        "text": "Juggernaut Gas Breath",
+        "title": "Juggernaut Gas Breath - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/candy-fumez",
+        "text": "Candy Fumez",
+        "title": "Candy Fumez - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/caramel-cbd",
+        "text": "Caramel CBD",
+        "title": "Caramel CBD - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/humulene",
+        "text": "Humulene",
+        "title": "Humulene Terpen"
+      },
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

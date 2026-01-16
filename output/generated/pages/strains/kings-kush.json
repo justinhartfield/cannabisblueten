@@ -1,0 +1,216 @@
+{
+  "strain": {
+    "slug": "kings-kush",
+    "name": "Kings Kush",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Euphoric",
+      "Happy",
+      "Sleepy"
+    ],
+    "tastes": [
+      "Diesel",
+      "Herbal",
+      "Earthy"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Alpha-Pinene",
+      "Alpha-Humulene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 299,
+      "max": 595,
+      "formatted": {
+        "min": "2,99 €",
+        "max": "5,95 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "weeco-221-kiku-kings-kush",
+      "name": "Weeco 22/1 KIKU Kings Kush",
+      "brandName": "Weeco",
+      "thcPercent": 22,
+      "priceMin": 299,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "godfather-og-auto",
+      "name": "Godfather OG Auto",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "mandarin-cookies",
+      "name": "Mandarin Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "gmo-zkittlez",
+      "name": "GMO Zkittlez",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "crispy-doughnut",
+      "name": "Crispy Doughnut",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "lavender-clouds",
+      "name": "Lavender Clouds",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Kings Kush (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Kings Kush: Euphoric, Happy, Sleepy. 1 Produkte verfügbar. ab 2,99 €.",
+      "canonical": "https://weed.de/strain/kings-kush",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Kings Kush (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Kings Kush: Euphoric, Happy, Sleepy. 1 Produkte verfügbar. ab 2,99 €.",
+        "url": "https://weed.de/strain/kings-kush",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Kings Kush",
+        "href": "https://weed.de/strain/kings-kush"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Kings Kush",
+            "item": "https://weed.de/strain/kings-kush"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Kings Kush Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/weeco-221-kiku-kings-kush",
+            "name": "Weeco 22/1 KIKU Kings Kush"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/weeco-221-kiku-kings-kush",
+        "text": "Weeco 22/1 KIKU Kings Kush",
+        "title": "Weeco 22/1 KIKU Kings Kush von Weeco"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/godfather-og-auto",
+        "text": "Godfather OG Auto",
+        "title": "Godfather OG Auto - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/mandarin-cookies",
+        "text": "Mandarin Cookies",
+        "title": "Mandarin Cookies - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/gmo-zkittlez",
+        "text": "GMO Zkittlez",
+        "title": "GMO Zkittlez - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/crispy-doughnut",
+        "text": "Crispy Doughnut",
+        "title": "Crispy Doughnut - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/lavender-clouds",
+        "text": "Lavender Clouds",
+        "title": "Lavender Clouds - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/alpha-pinene",
+        "text": "Alpha-Pinene",
+        "title": "Alpha-Pinene Terpen"
+      },
+      {
+        "href": "/terpene/alpha-humulene",
+        "text": "Alpha-Humulene",
+        "title": "Alpha-Humulene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

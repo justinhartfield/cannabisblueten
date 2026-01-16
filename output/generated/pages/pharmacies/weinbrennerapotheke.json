@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "weinbrennerapotheke",
+    "name": "Weinbrennerapotheke",
+    "street": "Gabelsbergerstraße 19",
+    "zip": "76135",
+    "cityName": "Karlsruhe",
+    "state": "Baden-Württemberg",
+    "lat": 49.006585,
+    "lng": 8.37533,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://cannabis-karlsruhe.de/",
+    "phone": "072122438",
+    "email": "info@cannabis-karlsruhe.de",
+    "productCount": 35,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/67161d1068abc8df7082467e-8e2h5d.jpg"
+  },
+  "city": {
+    "slug": "karlsruhe",
+    "name": "Karlsruhe",
+    "pharmacyCount": 5
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "karlchengras",
+      "name": "Karlchengras (Karl-Apotheke)",
+      "cityName": "Karlsruhe",
+      "productCount": 188,
+      "hasDelivery": true
+    },
+    {
+      "slug": "rhein-apotheke-im-aerztehaus-muehlburg",
+      "name": "Rhein-Apotheke im Ärztehaus Mühlburg",
+      "cityName": "Karlsruhe",
+      "productCount": 133,
+      "hasDelivery": true
+    },
+    {
+      "slug": "marienhuana-apotheke",
+      "name": "Marienhuana Apotheke",
+      "cityName": "Karlsruhe",
+      "productCount": 43,
+      "hasDelivery": true
+    },
+    {
+      "slug": "friesen-apotheke-karlsruhe",
+      "name": "Friesen-Gras",
+      "cityName": "Karlsruhe",
+      "productCount": 22,
+      "hasDelivery": true
+    },
+    {
+      "slug": "florians-vital-apotheke",
+      "name": "Florians Vital Apotheke",
+      "cityName": "Esslingen am Neckar",
+      "productCount": 248,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Weinbrennerapotheke - Cannabis Apotheke in Karlsruhe",
+      "description": "Weinbrennerapotheke in Karlsruhe. 35 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/weinbrennerapotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Weinbrennerapotheke - Cannabis Apotheke in Karlsruhe",
+        "description": "Weinbrennerapotheke in Karlsruhe. 35 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/weinbrennerapotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/67161d1068abc8df7082467e-8e2h5d.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Karlsruhe",
+        "href": "https://weed.de/cannabis-apotheke/karlsruhe"
+      },
+      {
+        "name": "Weinbrennerapotheke",
+        "href": "https://weed.de/apotheke/weinbrennerapotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Karlsruhe",
+            "item": "https://weed.de/cannabis-apotheke/karlsruhe"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Weinbrennerapotheke",
+            "item": "https://weed.de/apotheke/weinbrennerapotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Weinbrennerapotheke",
+        "url": "https://weed.de/apotheke/weinbrennerapotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Gabelsbergerstraße 19",
+          "addressLocality": "Karlsruhe",
+          "postalCode": "76135",
+          "addressRegion": "Baden-Württemberg",
+          "addressCountry": "DE"
+        },
+        "telephone": "072122438",
+        "email": "info@cannabis-karlsruhe.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/karlsruhe",
+      "text": "Cannabis Apotheken in Karlsruhe",
+      "title": "Alle Apotheken in Karlsruhe"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/karlchengras",
+        "text": "Karlchengras (Karl-Apotheke)",
+        "title": "Karlchengras (Karl-Apotheke) in Karlsruhe"
+      },
+      {
+        "href": "/apotheke/rhein-apotheke-im-aerztehaus-muehlburg",
+        "text": "Rhein-Apotheke im Ärztehaus Mühlburg",
+        "title": "Rhein-Apotheke im Ärztehaus Mühlburg in Karlsruhe"
+      },
+      {
+        "href": "/apotheke/marienhuana-apotheke",
+        "text": "Marienhuana Apotheke",
+        "title": "Marienhuana Apotheke in Karlsruhe"
+      },
+      {
+        "href": "/apotheke/friesen-apotheke-karlsruhe",
+        "text": "Friesen-Gras",
+        "title": "Friesen-Gras in Karlsruhe"
+      },
+      {
+        "href": "/apotheke/florians-vital-apotheke",
+        "text": "Florians Vital Apotheke",
+        "title": "Florians Vital Apotheke in Esslingen am Neckar"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

@@ -1,0 +1,307 @@
+{
+  "strain": {
+    "slug": "tangie-chem",
+    "name": "Tangie Chem",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Uplifted",
+      "Euphoric",
+      "Motivating",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Sweet",
+      "Sour",
+      "Citrus"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Linalool"
+    ],
+    "description": "Tangie Chem, auch als \"The Tange\" bekannt, ist eine leicht sativa-dominante Hybrid-Sorte (60% Sativa / 40% Indica) aus Denver, Colorado. Ihre Genetik bleibt geheim, aber vermutlich ist sie eine Kreuzung zwischen Tangerine X Chemdawg. Mit einem THC-Gehalt von etwa 21-29% bietet Tangie Chem ein starkes Aroma von süßen Mandarinen und einen Geschmack von süßer, saurer Zitrusfrucht. Die Wirkung wird als aufheiternd, euphorisierend und motivierend beschrieben, gefolgt von einer entspannenden, sedierenden Wirkung.",
+    "imageUrl": "/strains/tangie_chem-6j10hg.png"
+  },
+  "stats": {
+    "productCount": 6,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 550,
+      "max": 1340,
+      "formatted": {
+        "min": "5,50 €",
+        "max": "13,40 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "cannamedical-sativa-classic-tc",
+      "name": "Cannamedical Sativa classic TC",
+      "brandName": "Cannamedical",
+      "thcPercent": 20,
+      "priceMin": 755,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-sativa-forte-tc",
+      "name": "Cannamedical Sativa forte TC",
+      "brandName": "Cannamedical",
+      "thcPercent": 24,
+      "priceMin": 683,
+      "inStock": true
+    },
+    {
+      "slug": "cannabisextrakt-remextrakt-261",
+      "name": "Cannabisextrakt Remextrakt 26/1",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 26,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "cannamedical-cannabisextrakt-thc20cbd5",
+      "name": "Cannamedical Cannabisextrakt THC20:CBD5",
+      "brandName": "Cannamedical",
+      "thcPercent": 20,
+      "priceMin": 633,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-cannabisextrakt-thc5cbd20",
+      "name": "Cannamedical Cannabisextrakt THC5:CBD20",
+      "brandName": "Cannamedical",
+      "thcPercent": 5,
+      "priceMin": 550,
+      "inStock": true
+    },
+    {
+      "slug": "iuvo-thc26",
+      "name": "IUVO THC26",
+      "brandName": "Iuvo",
+      "thcPercent": 26,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "legendary-larry",
+      "name": "Legendary Larry",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "crescendo-cookies",
+      "name": "Crescendo Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "mac-doughnut",
+      "name": "Mac Doughnut",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "fire-og",
+      "name": "Fire OG",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "runtz",
+      "name": "Runtz",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Tangie Chem (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Tangie Chem: Uplifted, Euphoric, Motivating. 6 Produkte verfügbar. ab 5,50 €.",
+      "canonical": "https://weed.de/strain/tangie-chem",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Tangie Chem (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Tangie Chem: Uplifted, Euphoric, Motivating. 6 Produkte verfügbar. ab 5,50 €.",
+        "url": "https://weed.de/strain/tangie-chem",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "/strains/tangie_chem-6j10hg.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Tangie Chem",
+        "href": "https://weed.de/strain/tangie-chem"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Tangie Chem",
+            "item": "https://weed.de/strain/tangie-chem"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Tangie Chem Produkte",
+        "numberOfItems": 6,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/cannamedical-sativa-classic-tc",
+            "name": "Cannamedical Sativa classic TC"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/cannamedical-sativa-forte-tc",
+            "name": "Cannamedical Sativa forte TC"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/cannabisextrakt-remextrakt-261",
+            "name": "Cannabisextrakt Remextrakt 26/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/product/cannamedical-cannabisextrakt-thc20cbd5",
+            "name": "Cannamedical Cannabisextrakt THC20:CBD5"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "https://weed.de/product/cannamedical-cannabisextrakt-thc5cbd20",
+            "name": "Cannamedical Cannabisextrakt THC5:CBD20"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "url": "https://weed.de/product/iuvo-thc26",
+            "name": "IUVO THC26"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/cannamedical-sativa-classic-tc",
+        "text": "Cannamedical Sativa classic TC",
+        "title": "Cannamedical Sativa classic TC von Cannamedical"
+      },
+      {
+        "href": "/product/cannamedical-sativa-forte-tc",
+        "text": "Cannamedical Sativa forte TC",
+        "title": "Cannamedical Sativa forte TC von Cannamedical"
+      },
+      {
+        "href": "/product/cannabisextrakt-remextrakt-261",
+        "text": "Cannabisextrakt Remextrakt 26/1",
+        "title": "Cannabisextrakt Remextrakt 26/1 von Remexian Pharma"
+      },
+      {
+        "href": "/product/cannamedical-cannabisextrakt-thc20cbd5",
+        "text": "Cannamedical Cannabisextrakt THC20:CBD5",
+        "title": "Cannamedical Cannabisextrakt THC20:CBD5 von Cannamedical"
+      },
+      {
+        "href": "/product/cannamedical-cannabisextrakt-thc5cbd20",
+        "text": "Cannamedical Cannabisextrakt THC5:CBD20",
+        "title": "Cannamedical Cannabisextrakt THC5:CBD20 von Cannamedical"
+      },
+      {
+        "href": "/product/iuvo-thc26",
+        "text": "IUVO THC26",
+        "title": "IUVO THC26 von Iuvo"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/legendary-larry",
+        "text": "Legendary Larry",
+        "title": "Legendary Larry - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/crescendo-cookies",
+        "text": "Crescendo Cookies",
+        "title": "Crescendo Cookies - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/mac-doughnut",
+        "text": "Mac Doughnut",
+        "title": "Mac Doughnut - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/fire-og",
+        "text": "Fire OG",
+        "title": "Fire OG - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/runtz",
+        "text": "Runtz",
+        "title": "Runtz - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

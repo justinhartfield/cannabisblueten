@@ -1,0 +1,293 @@
+{
+  "brand": {
+    "slug": "panaxia",
+    "name": "Panaxia",
+    "productCount": 10
+  },
+  "products": [
+    {
+      "slug": "naxiva-panaxol-thc50",
+      "name": "Naxiva-Panaxol THC50",
+      "type": "extract",
+      "thcPercent": 50,
+      "priceMin": 2269,
+      "inStock": true,
+      "strainName": null
+    },
+    {
+      "slug": "naxiva-panaxol-thc1cbd1-cannabis-extrakt",
+      "name": "NAXIVA-PANAXOL THC10/CBD10 Cannabis-Extrakt",
+      "type": "extract",
+      "thcPercent": 10,
+      "priceMin": 895,
+      "inStock": true,
+      "strainName": null
+    },
+    {
+      "slug": "naxiva-panaxol-thc-25-cannabis-extrakt",
+      "name": "NAXIVA-PANAXOL THC 250 Cannabis-Extrakt",
+      "type": "extract",
+      "thcPercent": 24.3,
+      "priceMin": 6900,
+      "inStock": true,
+      "strainName": "Black Label"
+    },
+    {
+      "slug": "naxiva-panaxol-2525",
+      "name": "Naxiva Panaxol 25/25",
+      "type": "extract",
+      "thcPercent": 2.5,
+      "priceMin": 2395,
+      "inStock": false,
+      "strainName": "Black Label"
+    },
+    {
+      "slug": "naxiva-panaxol-251",
+      "name": "Naxiva Panaxol 25/1",
+      "type": "extract",
+      "thcPercent": 2.5,
+      "priceMin": 1395,
+      "inStock": false,
+      "strainName": "Black Label"
+    },
+    {
+      "slug": "naxiva-panaxol-125",
+      "name": "Naxiva Panaxol 1/25",
+      "type": "extract",
+      "thcPercent": 0.1,
+      "priceMin": 1395,
+      "inStock": false,
+      "strainName": "Mun Shine 6"
+    },
+    {
+      "slug": "naxiva-panaxol-onko-thc-50-cbd-10",
+      "name": "NAXIVA-PANAXOL ONKO THC 50 / CBD 10",
+      "type": "extract",
+      "thcPercent": 5,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": null
+    },
+    {
+      "slug": "naxiva-panaxol-onko-thc-100cbd-20",
+      "name": "NAXIVA-PANAXOL ONKO THC 100/CBD 20",
+      "type": "extract",
+      "thcPercent": 10,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": null
+    },
+    {
+      "slug": "naxiva-panaxol-cbd-25-cannabis-extrakt",
+      "name": "NAXIVA-PANAXOL CBD 250 Cannabis-Extrakt",
+      "type": "extract",
+      "thcPercent": 15,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": null
+    },
+    {
+      "slug": "naxiva-panaxol-thc5cbd5",
+      "name": "Naxiva-Panaxol THC50/CBD50",
+      "type": "extract",
+      "thcPercent": 50,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": null
+    }
+  ],
+  "stats": {
+    "productCount": 10,
+    "inStockCount": 3,
+    "avgThc": 16.9,
+    "priceRange": {
+      "min": 895,
+      "max": 6900,
+      "formatted": {
+        "min": "8,95 €",
+        "max": "69,00 €"
+      }
+    }
+  },
+  "seo": {
+    "meta": {
+      "title": "Panaxia Cannabis Produkte - 10 Produkte",
+      "description": "Panaxia: 10 Cannabis Produkte. 3 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+      "canonical": "https://weed.de/brand/panaxia",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Panaxia Cannabis Produkte - 10 Produkte",
+        "description": "Panaxia: 10 Cannabis Produkte. 3 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+        "url": "https://weed.de/brand/panaxia",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Hersteller",
+        "href": "https://weed.de/brands"
+      },
+      {
+        "name": "Panaxia",
+        "href": "https://weed.de/brand/panaxia"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Hersteller",
+            "item": "https://weed.de/brands"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Panaxia",
+            "item": "https://weed.de/brand/panaxia"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Panaxia Produkte",
+        "numberOfItems": 10,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/naxiva-panaxol-thc50",
+            "name": "Naxiva-Panaxol THC50"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/naxiva-panaxol-thc1cbd1-cannabis-extrakt",
+            "name": "NAXIVA-PANAXOL THC10/CBD10 Cannabis-Extrakt"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/naxiva-panaxol-thc-25-cannabis-extrakt",
+            "name": "NAXIVA-PANAXOL THC 250 Cannabis-Extrakt"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/product/naxiva-panaxol-2525",
+            "name": "Naxiva Panaxol 25/25"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "https://weed.de/product/naxiva-panaxol-251",
+            "name": "Naxiva Panaxol 25/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "url": "https://weed.de/product/naxiva-panaxol-125",
+            "name": "Naxiva Panaxol 1/25"
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "url": "https://weed.de/product/naxiva-panaxol-onko-thc-50-cbd-10",
+            "name": "NAXIVA-PANAXOL ONKO THC 50 / CBD 10"
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "url": "https://weed.de/product/naxiva-panaxol-onko-thc-100cbd-20",
+            "name": "NAXIVA-PANAXOL ONKO THC 100/CBD 20"
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "url": "https://weed.de/product/naxiva-panaxol-cbd-25-cannabis-extrakt",
+            "name": "NAXIVA-PANAXOL CBD 250 Cannabis-Extrakt"
+          },
+          {
+            "@type": "ListItem",
+            "position": 10,
+            "url": "https://weed.de/product/naxiva-panaxol-thc5cbd5",
+            "name": "Naxiva-Panaxol THC50/CBD50"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/naxiva-panaxol-thc50",
+        "text": "Naxiva-Panaxol THC50",
+        "title": "Naxiva-Panaxol THC50"
+      },
+      {
+        "href": "/product/naxiva-panaxol-thc1cbd1-cannabis-extrakt",
+        "text": "NAXIVA-PANAXOL THC10/CBD10 Cannabis-Extrakt",
+        "title": "NAXIVA-PANAXOL THC10/CBD10 Cannabis-Extrakt"
+      },
+      {
+        "href": "/product/naxiva-panaxol-thc-25-cannabis-extrakt",
+        "text": "NAXIVA-PANAXOL THC 250 Cannabis-Extrakt",
+        "title": "NAXIVA-PANAXOL THC 250 Cannabis-Extrakt"
+      },
+      {
+        "href": "/product/naxiva-panaxol-2525",
+        "text": "Naxiva Panaxol 25/25",
+        "title": "Naxiva Panaxol 25/25"
+      },
+      {
+        "href": "/product/naxiva-panaxol-251",
+        "text": "Naxiva Panaxol 25/1",
+        "title": "Naxiva Panaxol 25/1"
+      },
+      {
+        "href": "/product/naxiva-panaxol-125",
+        "text": "Naxiva Panaxol 1/25",
+        "title": "Naxiva Panaxol 1/25"
+      },
+      {
+        "href": "/product/naxiva-panaxol-onko-thc-50-cbd-10",
+        "text": "NAXIVA-PANAXOL ONKO THC 50 / CBD 10",
+        "title": "NAXIVA-PANAXOL ONKO THC 50 / CBD 10"
+      },
+      {
+        "href": "/product/naxiva-panaxol-onko-thc-100cbd-20",
+        "text": "NAXIVA-PANAXOL ONKO THC 100/CBD 20",
+        "title": "NAXIVA-PANAXOL ONKO THC 100/CBD 20"
+      },
+      {
+        "href": "/product/naxiva-panaxol-cbd-25-cannabis-extrakt",
+        "text": "NAXIVA-PANAXOL CBD 250 Cannabis-Extrakt",
+        "title": "NAXIVA-PANAXOL CBD 250 Cannabis-Extrakt"
+      },
+      {
+        "href": "/product/naxiva-panaxol-thc5cbd5",
+        "text": "Naxiva-Panaxol THC50/CBD50",
+        "title": "Naxiva-Panaxol THC50/CBD50"
+      }
+    ]
+  }
+}

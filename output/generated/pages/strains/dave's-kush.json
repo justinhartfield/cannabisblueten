@@ -1,0 +1,230 @@
+{
+  "strain": {
+    "slug": "dave's-kush",
+    "name": "Dave's Kush",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Relaxed",
+      "Euphoric",
+      "Creative"
+    ],
+    "tastes": [
+      "Pine",
+      "Mint",
+      "Pepper",
+      "Citrus"
+    ],
+    "terpenes": [
+      "Alpha-Pinene",
+      "Myrcene",
+      "Ocimene"
+    ],
+    "description": "Dave's Kush ist eine indica-dominante Sorte, die für ihre einzigartige Geschmackskombination aus Kiefer, Minze, Pfeffer und Zitrusfrüchten bekannt ist. Mit Genetik, die von OG Kush, Afghani und Casey Jones stammt, bietet diese Sorte einen ausgewogenen THC-Gehalt zwischen 16% und 19% und einen CBD-Gehalt von unter 1%. Dave's Kush wird für seine entspannenden, euphorischen und kreativen Wirkungen geschätzt. Handelt es sich um eine hoch angesehene Wahl für diejenigen, die ein geschmackvolles und sanftes Cannabiserlebnis suchen.",
+    "imageUrl": "/strains/dave's_kush-6fjgha.png"
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": null
+  },
+  "products": [
+    {
+      "slug": "cannamedical-201",
+      "name": "Cannamedical 20/1 DK",
+      "brandName": "Cannamedical",
+      "thcPercent": 20,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "cannamedical-161",
+      "name": "Cannamedical 16/1",
+      "brandName": "Cannamedical",
+      "thcPercent": 16,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "gelatti",
+      "name": "Gelatti",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "tigerz-eye",
+      "name": "Tigerz Eye",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "el-chivo",
+      "name": "El Chivo",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "grapple-pie",
+      "name": "Grapple Pie",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "banana-daddy",
+      "name": "Banana Daddy",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Dave's Kush (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Dave's Kush: Relaxed, Euphoric, Creative. 2 Produkte verfügbar.",
+      "canonical": "https://weed.de/strain/dave's-kush",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Dave's Kush (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Dave's Kush: Relaxed, Euphoric, Creative. 2 Produkte verfügbar.",
+        "url": "https://weed.de/strain/dave's-kush",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "/strains/dave's_kush-6fjgha.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Dave's Kush",
+        "href": "https://weed.de/strain/dave's-kush"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Dave's Kush",
+            "item": "https://weed.de/strain/dave's-kush"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Dave's Kush Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/cannamedical-201",
+            "name": "Cannamedical 20/1 DK"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/cannamedical-161",
+            "name": "Cannamedical 16/1"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/cannamedical-201",
+        "text": "Cannamedical 20/1 DK",
+        "title": "Cannamedical 20/1 DK von Cannamedical"
+      },
+      {
+        "href": "/product/cannamedical-161",
+        "text": "Cannamedical 16/1",
+        "title": "Cannamedical 16/1 von Cannamedical"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/gelatti",
+        "text": "Gelatti",
+        "title": "Gelatti - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/tigerz-eye",
+        "text": "Tigerz Eye",
+        "title": "Tigerz Eye - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/el-chivo",
+        "text": "El Chivo",
+        "title": "El Chivo - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/grapple-pie",
+        "text": "Grapple Pie",
+        "title": "Grapple Pie - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/banana-daddy",
+        "text": "Banana Daddy",
+        "title": "Banana Daddy - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/alpha-pinene",
+        "text": "Alpha-Pinene",
+        "title": "Alpha-Pinene Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/ocimene",
+        "text": "Ocimene",
+        "title": "Ocimene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

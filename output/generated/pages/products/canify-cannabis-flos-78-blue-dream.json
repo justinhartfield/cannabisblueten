@@ -1,0 +1,228 @@
+{
+  "product": {
+    "slug": "canify-cannabis-flos-78-blue-dream",
+    "name": "Canify Cannabis Flos 7/8 Blue Dream",
+    "type": "flower",
+    "genetics": "hybrid_sativa",
+    "thcPercent": 7,
+    "cbdPercent": 8,
+    "priceMin": 599,
+    "priceMax": 599,
+    "inStock": false,
+    "pzn": null,
+    "originCountry": "Polen",
+    "imageUrl": "https://weed.de/products/canify-cannabis-flos-78-blue-dream-iiihdh.png"
+  },
+  "brand": {
+    "slug": "canify",
+    "name": "Canify",
+    "productCount": 68
+  },
+  "strain": {
+    "slug": "blue-dream",
+    "name": "Blue Dream",
+    "geneticType": "hybrid",
+    "effects": [
+      "Relaxed",
+      "Euphoric",
+      "Stimulating"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Caryophyllene",
+      "Humulene",
+      "Pinene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Relaxed",
+      "Euphoric",
+      "Stimulating"
+    ],
+    "tastes": [
+      "Berry",
+      "Sweet",
+      "Herbal",
+      "Pine"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Caryophyllene",
+      "Humulene",
+      "Pinene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "amp-classic-251",
+      "name": "AMP Classic 25/1",
+      "brandName": "AMP",
+      "thcPercent": 25,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "weeco-231",
+      "name": "Weeco 23/1",
+      "brandName": "Weeco",
+      "thcPercent": 23,
+      "priceMin": 599,
+      "inStock": true
+    },
+    {
+      "slug": "aurora-221-dhz-ca",
+      "name": "Aurora 22/1 DHZ-CA",
+      "brandName": "Aurora",
+      "thcPercent": 19.8,
+      "priceMin": 640,
+      "inStock": true
+    },
+    {
+      "slug": "420-evolution-271-ca-str",
+      "name": "420 Evolution 27/1 CA STR",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 27,
+      "priceMin": 645,
+      "inStock": true
+    },
+    {
+      "slug": "imc-balanced-78-b01",
+      "name": "IMC Balanced 7/8 B01",
+      "brandName": "IMC",
+      "thcPercent": 7,
+      "priceMin": 649,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-221-florestura",
+      "name": "DEMECAN Florestura 22:01",
+      "brandName": "Deutsche Medizinalcannabis",
+      "thcPercent": 22,
+      "priceMin": 679,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Canify Cannabis Flos 7/8 Blue Dream | ab 5,99 €",
+      "description": "Canify Cannabis Flos 7/8 Blue Dream von Canify. THC: 7%, CBD: 8%. Sorte: Blue Dream. Preis ab 5,99 €. Preise vergleichen.",
+      "canonical": "https://weed.de/product/canify-cannabis-flos-78-blue-dream",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Canify Cannabis Flos 7/8 Blue Dream | ab 5,99 €",
+        "description": "Canify Cannabis Flos 7/8 Blue Dream von Canify. THC: 7%, CBD: 8%. Sorte: Blue Dream. Preis ab 5,99 €. Preise vergleichen.",
+        "url": "https://weed.de/product/canify-cannabis-flos-78-blue-dream",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/canify-cannabis-flos-78-blue-dream-iiihdh.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Canify",
+        "href": "https://weed.de/brand/canify"
+      },
+      {
+        "name": "Canify Cannabis Flos 7/8 Blue Dream",
+        "href": "https://weed.de/product/canify-cannabis-flos-78-blue-dream"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Canify Cannabis Flos 7/8 Blue Dream",
+            "item": "https://weed.de/product/canify-cannabis-flos-78-blue-dream"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Canify Cannabis Flos 7/8 Blue Dream",
+        "brand": {
+          "@type": "Brand",
+          "name": "Canify"
+        },
+        "description": "THC: 7%, CBD: 8%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/blue-dream",
+      "text": "Blue Dream",
+      "title": "Blue Dream Sorte"
+    },
+    "brand": {
+      "href": "/brand/canify",
+      "text": "Canify",
+      "title": "Alle Canify Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/amp-classic-251",
+        "text": "AMP Classic 25/1",
+        "title": "Alternative: AMP Classic 25/1"
+      },
+      {
+        "href": "/product/weeco-231",
+        "text": "Weeco 23/1",
+        "title": "Alternative: Weeco 23/1"
+      },
+      {
+        "href": "/product/aurora-221-dhz-ca",
+        "text": "Aurora 22/1 DHZ-CA",
+        "title": "Alternative: Aurora 22/1 DHZ-CA"
+      },
+      {
+        "href": "/product/420-evolution-271-ca-str",
+        "text": "420 Evolution 27/1 CA STR",
+        "title": "Alternative: 420 Evolution 27/1 CA STR"
+      },
+      {
+        "href": "/product/imc-balanced-78-b01",
+        "text": "IMC Balanced 7/8 B01",
+        "title": "Alternative: IMC Balanced 7/8 B01"
+      },
+      {
+        "href": "/product/demecan-221-florestura",
+        "text": "DEMECAN Florestura 22:01",
+        "title": "Alternative: DEMECAN Florestura 22:01"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has price data"
+  }
+}

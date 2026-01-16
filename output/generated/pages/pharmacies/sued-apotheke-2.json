@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "sued-apotheke-2",
+    "name": "Süd Apotheke",
+    "street": "Mundenheimer Straße 169",
+    "zip": "67061",
+    "cityName": "Ludwigshafen am Rhein",
+    "state": "Rheinland-Pfalz",
+    "lat": 49.471981,
+    "lng": 8.4485593,
+    "hasDelivery": false,
+    "hasPickup": true,
+    "hasPrices": false,
+    "website": null,
+    "phone": "06215668177",
+    "email": "sudapotheke@gmail.com",
+    "productCount": 0,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/695fac0d903df845c522d78f-2616e0.jpg"
+  },
+  "city": {
+    "slug": "ludwigshafen-am-rhein",
+    "name": "Ludwigshafen am Rhein",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "cannabis-apotheke-rheinland",
+      "name": "Cannabis Apotheke Rheinland",
+      "cityName": "Bad Neuenahr-Ahrweiler",
+      "productCount": 161,
+      "hasDelivery": true
+    },
+    {
+      "slug": "grune-blute-ulmen-apotheke",
+      "name": "Grüne Blüte",
+      "cityName": "Frankenthal (Pfalz)",
+      "productCount": 158,
+      "hasDelivery": true
+    },
+    {
+      "slug": "pharmablute",
+      "name": "PharmaBlüte",
+      "cityName": "Mainz",
+      "productCount": 124,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis4me",
+      "name": "cannabis4me",
+      "cityName": "Bad Neuenahr-Ahrweiler",
+      "productCount": 89,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-am-kornmarkt",
+      "name": "Apotheke am Kornmarkt",
+      "cityName": "Trier",
+      "productCount": 64,
+      "hasDelivery": false
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Süd Apotheke - Cannabis Apotheke in Ludwigshafen am Rhein",
+      "description": "Süd Apotheke in Ludwigshafen am Rhein. Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/sued-apotheke-2",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Süd Apotheke - Cannabis Apotheke in Ludwigshafen am Rhein",
+        "description": "Süd Apotheke in Ludwigshafen am Rhein. Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/sued-apotheke-2",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/695fac0d903df845c522d78f-2616e0.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Ludwigshafen am Rhein",
+        "href": "https://weed.de/cannabis-apotheke/ludwigshafen-am-rhein"
+      },
+      {
+        "name": "Süd Apotheke",
+        "href": "https://weed.de/apotheke/sued-apotheke-2"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Ludwigshafen am Rhein",
+            "item": "https://weed.de/cannabis-apotheke/ludwigshafen-am-rhein"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Süd Apotheke",
+            "item": "https://weed.de/apotheke/sued-apotheke-2"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Süd Apotheke",
+        "url": "https://weed.de/apotheke/sued-apotheke-2",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Mundenheimer Straße 169",
+          "addressLocality": "Ludwigshafen am Rhein",
+          "postalCode": "67061",
+          "addressRegion": "Rheinland-Pfalz",
+          "addressCountry": "DE"
+        },
+        "telephone": "06215668177",
+        "email": "sudapotheke@gmail.com"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/ludwigshafen-am-rhein",
+      "text": "Cannabis Apotheken in Ludwigshafen am Rhein",
+      "title": "Alle Apotheken in Ludwigshafen am Rhein"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/cannabis-apotheke-rheinland",
+        "text": "Cannabis Apotheke Rheinland",
+        "title": "Cannabis Apotheke Rheinland in Bad Neuenahr-Ahrweiler"
+      },
+      {
+        "href": "/apotheke/grune-blute-ulmen-apotheke",
+        "text": "Grüne Blüte",
+        "title": "Grüne Blüte in Frankenthal (Pfalz)"
+      },
+      {
+        "href": "/apotheke/pharmablute",
+        "text": "PharmaBlüte",
+        "title": "PharmaBlüte in Mainz"
+      },
+      {
+        "href": "/apotheke/cannabis4me",
+        "text": "cannabis4me",
+        "title": "cannabis4me in Bad Neuenahr-Ahrweiler"
+      },
+      {
+        "href": "/apotheke/apotheke-am-kornmarkt",
+        "text": "Apotheke am Kornmarkt",
+        "title": "Apotheke am Kornmarkt in Trier"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has services"
+  }
+}

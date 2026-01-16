@@ -1,0 +1,309 @@
+{
+  "strain": {
+    "slug": "lava-cake",
+    "name": "Lava Cake",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [
+      "Relaxed"
+    ],
+    "tastes": [
+      "Sweet",
+      "Mint",
+      "Vanilla"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Humulene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 6,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 319,
+      "max": 929,
+      "formatted": {
+        "min": "3,19 €",
+        "max": "9,29 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "mediprocan-lunaris-231-lc",
+      "name": "Mediprocan Lunaris 23/1 LC",
+      "brandName": "mediproCan",
+      "thcPercent": 23,
+      "priceMin": 345,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-mc-epic-drop-31",
+      "name": "Demecan MC Epic Drop 30/1",
+      "brandName": "Demecan",
+      "thcPercent": 30,
+      "priceMin": 821,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-mc-epic-drop-291",
+      "name": "Demecan MC Epic Drop 29/1",
+      "brandName": "Demecan",
+      "thcPercent": 30,
+      "priceMin": 929,
+      "inStock": false
+    },
+    {
+      "slug": "demecan-core-horizon-271",
+      "name": "Demecan Core Horizon 27:01",
+      "brandName": "Demecan",
+      "thcPercent": 27.8,
+      "priceMin": 695,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-core-horizon-311",
+      "name": "Demecan Core Horizon 31:01",
+      "brandName": "Demecan",
+      "thcPercent": 31,
+      "priceMin": 889,
+      "inStock": true
+    },
+    {
+      "slug": "mediprocan-lunaris-251-lc",
+      "name": "MediproCan Lunaris 25/1 LC",
+      "brandName": "Cansativa",
+      "thcPercent": 25,
+      "priceMin": 319,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "frosted-lemon-cake",
+      "name": "Frosted Lemon Cake",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "cannabis-sativa-l.-elida",
+      "name": "Elida",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "batha-balanced",
+      "name": "Batha Balanced",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "frosted-cookies",
+      "name": "Frosted Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "auto-kerosene-krash",
+      "name": "Auto Kerosene Krash",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Lava Cake (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Lava Cake: Relaxed. 6 Produkte verfügbar. ab 3,19 €.",
+      "canonical": "https://weed.de/strain/lava-cake",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Lava Cake (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Lava Cake: Relaxed. 6 Produkte verfügbar. ab 3,19 €.",
+        "url": "https://weed.de/strain/lava-cake",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Lava Cake",
+        "href": "https://weed.de/strain/lava-cake"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Lava Cake",
+            "item": "https://weed.de/strain/lava-cake"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Lava Cake Produkte",
+        "numberOfItems": 6,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/mediprocan-lunaris-231-lc",
+            "name": "Mediprocan Lunaris 23/1 LC"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/demecan-mc-epic-drop-31",
+            "name": "Demecan MC Epic Drop 30/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/demecan-mc-epic-drop-291",
+            "name": "Demecan MC Epic Drop 29/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/product/demecan-core-horizon-271",
+            "name": "Demecan Core Horizon 27:01"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "https://weed.de/product/demecan-core-horizon-311",
+            "name": "Demecan Core Horizon 31:01"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "url": "https://weed.de/product/mediprocan-lunaris-251-lc",
+            "name": "MediproCan Lunaris 25/1 LC"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/mediprocan-lunaris-231-lc",
+        "text": "Mediprocan Lunaris 23/1 LC",
+        "title": "Mediprocan Lunaris 23/1 LC von mediproCan"
+      },
+      {
+        "href": "/product/demecan-mc-epic-drop-31",
+        "text": "Demecan MC Epic Drop 30/1",
+        "title": "Demecan MC Epic Drop 30/1 von Demecan"
+      },
+      {
+        "href": "/product/demecan-mc-epic-drop-291",
+        "text": "Demecan MC Epic Drop 29/1",
+        "title": "Demecan MC Epic Drop 29/1 von Demecan"
+      },
+      {
+        "href": "/product/demecan-core-horizon-271",
+        "text": "Demecan Core Horizon 27:01",
+        "title": "Demecan Core Horizon 27:01 von Demecan"
+      },
+      {
+        "href": "/product/demecan-core-horizon-311",
+        "text": "Demecan Core Horizon 31:01",
+        "title": "Demecan Core Horizon 31:01 von Demecan"
+      },
+      {
+        "href": "/product/mediprocan-lunaris-251-lc",
+        "text": "MediproCan Lunaris 25/1 LC",
+        "title": "MediproCan Lunaris 25/1 LC von Cansativa"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/frosted-lemon-cake",
+        "text": "Frosted Lemon Cake",
+        "title": "Frosted Lemon Cake - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/cannabis-sativa-l.-elida",
+        "text": "Elida",
+        "title": "Elida - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/batha-balanced",
+        "text": "Batha Balanced",
+        "title": "Batha Balanced - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/frosted-cookies",
+        "text": "Frosted Cookies",
+        "title": "Frosted Cookies - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/auto-kerosene-krash",
+        "text": "Auto Kerosene Krash",
+        "title": "Auto Kerosene Krash - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/humulene",
+        "text": "Humulene",
+        "title": "Humulene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

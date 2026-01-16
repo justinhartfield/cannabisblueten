@@ -1,0 +1,208 @@
+{
+  "strain": {
+    "slug": "ninja",
+    "name": "Ninja",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Calming",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Earthy",
+      "Spicy-Herbal",
+      "Citrus"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Myrcene",
+      "Humulene"
+    ],
+    "description": "Ninja wurde aus der Kreuzung von Old School Haze und Chem Dog Fire geboren. Diese ausgewogene Sativa-dominante Sorte bringt die Terpene Caryophyllen, Myrcen, Humulen mit die eine erdige, würzige Zitrusnote erzeugen. Durch ihren relativ hohen THC-Gehalt eignet sich diese Sorte für erfahrene Nutzer und kann mit beruhigen und stimmungsaufhellenden Eigenschaften überzeugen.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": null
+  },
+  "products": [
+    {
+      "slug": "cassiopea",
+      "name": "Cassiopea",
+      "brandName": "Cantourage",
+      "thcPercent": 20,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "punch-pie",
+      "name": "Punch Pie",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "doce-da-casa",
+      "name": "Doce da Casa",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "auto-bubble-og-gum",
+      "name": "Auto Bubble OG Gum",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "auto-strawberry-banana-purps",
+      "name": "Auto Strawberry Banana Purps",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "auto-girl-scout-cookies",
+      "name": "Auto Girl Scout Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Ninja (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Ninja: Calming, Relaxed. 1 Produkte verfügbar.",
+      "canonical": "https://weed.de/strain/ninja",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Ninja (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Ninja: Calming, Relaxed. 1 Produkte verfügbar.",
+        "url": "https://weed.de/strain/ninja",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Ninja",
+        "href": "https://weed.de/strain/ninja"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Ninja",
+            "item": "https://weed.de/strain/ninja"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Ninja Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/cassiopea",
+            "name": "Cassiopea"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/cassiopea",
+        "text": "Cassiopea",
+        "title": "Cassiopea von Cantourage"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/punch-pie",
+        "text": "Punch Pie",
+        "title": "Punch Pie - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/doce-da-casa",
+        "text": "Doce da Casa",
+        "title": "Doce da Casa - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/auto-bubble-og-gum",
+        "text": "Auto Bubble OG Gum",
+        "title": "Auto Bubble OG Gum - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/auto-strawberry-banana-purps",
+        "text": "Auto Strawberry Banana Purps",
+        "title": "Auto Strawberry Banana Purps - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/auto-girl-scout-cookies",
+        "text": "Auto Girl Scout Cookies",
+        "title": "Auto Girl Scout Cookies - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/humulene",
+        "text": "Humulene",
+        "title": "Humulene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

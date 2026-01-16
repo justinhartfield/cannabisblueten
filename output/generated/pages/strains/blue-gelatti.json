@@ -1,0 +1,220 @@
+{
+  "strain": {
+    "slug": "blue-gelatti",
+    "name": "Blue Gelatti",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Cerebral",
+      "Euphoric",
+      "Body-buzz",
+      "Relaxed",
+      "Energetic"
+    ],
+    "tastes": [
+      "Apple",
+      "Spicy",
+      "Pine",
+      "Earthy",
+      "Gassy"
+    ],
+    "terpenes": [
+      "Beta-Caryophyllene",
+      "Beta-Myrcene",
+      "Ocimene"
+    ],
+    "description": "Gerne, ich schreibe die Beta-Symbole in der Beschreibung der Sorte Blue Gelatti aus, um den Text flüssiger und konsistenter zu gestalten.\n\nHier ist die korrigierte Beschreibung:\n\nBlue Gelatti ist eine Sativa-dominante Hybrid-Sorte, entstanden aus der Kreuzung von {(Platinum Cookies x Granddaddy Purple) x Blue Power} mit Gelatti. Mit einem THC-Gehalt von 27% und einem CBD-Gehalt von 1% liefert sie potente Effekte, die vielseitig einsetzbar sind.\n\nIhr komplexes Geschmacksprofil ist geprägt von apfelartigen Noten und Gewürzen, ergänzt durch gassige Dämpfe und einen starken Kiefergeruch. Das Terpenprofil, das von Beta-Caryophyllen, Beta-Myrcen und Ocimen dominiert wird, was das Aroma mit würzigen, entspannenden und erdigen Nuancen unterstreicht.\n\nDie Wirkung ist vielseitig und erzeugt eine kraftvolle zerebrale Euphorie, gefolgt von einem betäubenden Körper-Buzz. Dieser hybride Effekt ermöglicht die Nutzung als \"Wake and Bake\" oder als \"Late Night Snack\", was die Sorte zu einer guten Wahl für Energie oder Entspannung macht. Zusammengefasst ist Blue Gelatti eine Sorte für alle, die ein einzigartiges, apfel-gashaltiges Aroma mit einem potenten, zerebralen und vielseitig nutzbaren High suchen.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 667,
+      "max": 795,
+      "formatted": {
+        "min": "6,67 €",
+        "max": "7,95 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "enua-271-aab-ca",
+      "name": "enua 27/1 AAB CA",
+      "brandName": "enua",
+      "thcPercent": 27,
+      "priceMin": 667,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "auto-duck",
+      "name": "Auto Duck",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "lemon-og",
+      "name": "Lemon OG",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "godfather-og-auto",
+      "name": "Godfather OG Auto",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "karel's-haze",
+      "name": "Karel's Haze",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "black-dolato",
+      "name": "Black Dolato",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Blue Gelatti (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Blue Gelatti: Cerebral, Euphoric, Body-buzz. 1 Produkte verfügbar. ab 6,67 €.",
+      "canonical": "https://weed.de/strain/blue-gelatti",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Blue Gelatti (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Blue Gelatti: Cerebral, Euphoric, Body-buzz. 1 Produkte verfügbar. ab 6,67 €.",
+        "url": "https://weed.de/strain/blue-gelatti",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Blue Gelatti",
+        "href": "https://weed.de/strain/blue-gelatti"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Blue Gelatti",
+            "item": "https://weed.de/strain/blue-gelatti"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Blue Gelatti Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/enua-271-aab-ca",
+            "name": "enua 27/1 AAB CA"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/enua-271-aab-ca",
+        "text": "enua 27/1 AAB CA",
+        "title": "enua 27/1 AAB CA von enua"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/auto-duck",
+        "text": "Auto Duck",
+        "title": "Auto Duck - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/lemon-og",
+        "text": "Lemon OG",
+        "title": "Lemon OG - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/godfather-og-auto",
+        "text": "Godfather OG Auto",
+        "title": "Godfather OG Auto - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/karel's-haze",
+        "text": "Karel's Haze",
+        "title": "Karel's Haze - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/black-dolato",
+        "text": "Black Dolato",
+        "title": "Black Dolato - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/beta-myrcene",
+        "text": "Beta-Myrcene",
+        "title": "Beta-Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/ocimene",
+        "text": "Ocimene",
+        "title": "Ocimene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

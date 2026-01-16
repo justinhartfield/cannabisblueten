@@ -1,0 +1,249 @@
+{
+  "strain": {
+    "slug": "rainmaker",
+    "name": "Rainmaker",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Relaxed",
+      "Happy",
+      "Focused"
+    ],
+    "tastes": [
+      "Earthy",
+      "Citrus",
+      "Cheese",
+      "Sweet"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Caryophyllene",
+      "Farnesene",
+      "Linalool",
+      "Humulene"
+    ],
+    "description": "Rainmaker ist eine eher indica-dominante Hybridsorte, mit THC-Werten, die durchschnittlich von 19% bis 28% reichen, während der CBD-Gehalt bei unter 1% liegt. Hervorgegangen ist dieser Strain aus der Kreuzung von “Citral Skunk” und “Mandarin Sunset”. Die vorherrschenden Terpene dieser Sorte sind Farnesene, Caryophyllen, Limonen, Beta-Myrcen, Linalool und Humulen, die für einen erdig-süßen und teilweise zitrusartig angehauchten Geschmack sorgen. Die Wirkung wird laut Erfahrungsberichten als entspannend und euphorisierend beschrieben. Das Aussehen dieses Strains kommt mit einem hellen Grünton daher, der durch die zahlreichen Blütenstände oft in Richtung Orange geht. Der Strain hat außerdem einen merklichen Anteil an kristallinen Trichomen, welche die Blüte überziehen und das Erscheinungsbild mit definieren.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 499,
+      "max": 880,
+      "formatted": {
+        "min": "4,99 €",
+        "max": "8,80 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "cannamedical-indica-ultra-sf",
+      "name": "Cannamedical Indica Ultra SF R",
+      "brandName": "Cannamedical",
+      "thcPercent": 27.1,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "cannamedical-indica-forte-sm-sunset-serenity",
+      "name": "Cannamedical Indica Forte SM",
+      "brandName": "Cannamedical",
+      "thcPercent": 25,
+      "priceMin": 499,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "mac-2.0",
+      "name": "MAC 2.0",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "apple-fritter",
+      "name": "Apple Fritter",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "gush-mints",
+      "name": "Gush Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "auto-northern-light-f1",
+      "name": "Auto Northern Light F1",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "pink-grapes",
+      "name": "Pink Grapes",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Rainmaker (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Rainmaker: Relaxed, Happy, Focused. 2 Produkte verfügbar. ab 4,99 €.",
+      "canonical": "https://weed.de/strain/rainmaker",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Rainmaker (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Rainmaker: Relaxed, Happy, Focused. 2 Produkte verfügbar. ab 4,99 €.",
+        "url": "https://weed.de/strain/rainmaker",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Rainmaker",
+        "href": "https://weed.de/strain/rainmaker"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Rainmaker",
+            "item": "https://weed.de/strain/rainmaker"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Rainmaker Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/cannamedical-indica-ultra-sf",
+            "name": "Cannamedical Indica Ultra SF R"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/cannamedical-indica-forte-sm-sunset-serenity",
+            "name": "Cannamedical Indica Forte SM"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/cannamedical-indica-ultra-sf",
+        "text": "Cannamedical Indica Ultra SF R",
+        "title": "Cannamedical Indica Ultra SF R von Cannamedical"
+      },
+      {
+        "href": "/product/cannamedical-indica-forte-sm-sunset-serenity",
+        "text": "Cannamedical Indica Forte SM",
+        "title": "Cannamedical Indica Forte SM von Cannamedical"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/mac-2.0",
+        "text": "MAC 2.0",
+        "title": "MAC 2.0 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/apple-fritter",
+        "text": "Apple Fritter",
+        "title": "Apple Fritter - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/gush-mints",
+        "text": "Gush Mints",
+        "title": "Gush Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/auto-northern-light-f1",
+        "text": "Auto Northern Light F1",
+        "title": "Auto Northern Light F1 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/pink-grapes",
+        "text": "Pink Grapes",
+        "title": "Pink Grapes - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/farnesene",
+        "text": "Farnesene",
+        "title": "Farnesene Terpen"
+      },
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

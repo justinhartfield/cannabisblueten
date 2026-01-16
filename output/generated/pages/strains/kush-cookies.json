@@ -1,0 +1,235 @@
+{
+  "strain": {
+    "slug": "kush-cookies",
+    "name": "Kush Cookies",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 3,
+      "max": 3
+    },
+    "effects": [],
+    "tastes": [
+      "Sweet",
+      "Cookies",
+      "Mint",
+      "Citrus",
+      "Chocolate",
+      "Woody"
+    ],
+    "terpenes": [
+      "Beta-Myrcene",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "Kush Cookies vereint die minzig-schokoladige Süße von GSC mit den erdigen Zitrusaromen von OG Kush. Die dichten, trichomreichen Blüten bieten ein geschmackvolles und kraftvolles Erlebnis. Eine zerebrale Belebung, die sich zu einer wohltuenden Entspannung des gesamten Körpers entwickelt. Diese Sorte eignet sich sowohl für gesellige Anlässe als auch für ruhige Abende und zeichnet sich durch ihre Vielseitigkeit und gleichbleibende Qualität aus.",
+    "imageUrl": "/strains/685a8adeac8c37a562d384e2-ehidb0.webp"
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 649,
+      "max": 799,
+      "formatted": {
+        "min": "6,49 €",
+        "max": "7,99 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "truu-gt-311-kush-cookies",
+      "name": "TRUU GT 31:01 Kush Cookies",
+      "brandName": "Demecan",
+      "thcPercent": 28,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "hycann-kco-271-ca",
+      "name": "Hycann KCO 27/1 CA",
+      "brandName": "Nimbus Health",
+      "thcPercent": 27,
+      "priceMin": 649,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "bubba-kush",
+      "name": "Bubba Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "red-dragon-og",
+      "name": "Red Dragon OG",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "kush-kush",
+      "name": "Kush Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "do-si-dos",
+      "name": "Do-Si-Dos",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "karel's-haze",
+      "name": "Karel's Haze",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Kush Cookies (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Kush Cookies Cannabis Sorte. 2 Produkte verfügbar. ab 6,49 €.",
+      "canonical": "https://weed.de/strain/kush-cookies",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Kush Cookies (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Kush Cookies Cannabis Sorte. 2 Produkte verfügbar. ab 6,49 €.",
+        "url": "https://weed.de/strain/kush-cookies",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "/strains/685a8adeac8c37a562d384e2-ehidb0.webp"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Kush Cookies",
+        "href": "https://weed.de/strain/kush-cookies"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Kush Cookies",
+            "item": "https://weed.de/strain/kush-cookies"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Kush Cookies Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/truu-gt-311-kush-cookies",
+            "name": "TRUU GT 31:01 Kush Cookies"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/hycann-kco-271-ca",
+            "name": "Hycann KCO 27/1 CA"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/truu-gt-311-kush-cookies",
+        "text": "TRUU GT 31:01 Kush Cookies",
+        "title": "TRUU GT 31:01 Kush Cookies von Demecan"
+      },
+      {
+        "href": "/product/hycann-kco-271-ca",
+        "text": "Hycann KCO 27/1 CA",
+        "title": "Hycann KCO 27/1 CA von Nimbus Health"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/bubba-kush",
+        "text": "Bubba Kush",
+        "title": "Bubba Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/red-dragon-og",
+        "text": "Red Dragon OG",
+        "title": "Red Dragon OG - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/kush-kush",
+        "text": "Kush Kush",
+        "title": "Kush Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/do-si-dos",
+        "text": "Do-Si-Dos",
+        "title": "Do-Si-Dos - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/karel's-haze",
+        "text": "Karel's Haze",
+        "title": "Karel's Haze - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/beta-myrcene",
+        "text": "Beta-Myrcene",
+        "title": "Beta-Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

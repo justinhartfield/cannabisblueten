@@ -1,0 +1,236 @@
+{
+  "product": {
+    "slug": "remexian-221-gg4",
+    "name": "Remexian 22/1 GG4",
+    "type": "flower",
+    "genetics": "indica",
+    "thcPercent": 22,
+    "cbdPercent": 1,
+    "priceMin": 699,
+    "priceMax": 699,
+    "inStock": false,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "remexian-pharma",
+    "name": "Remexian Pharma",
+    "productCount": 340
+  },
+  "strain": {
+    "slug": "gorilla-glue-4",
+    "name": "GG4",
+    "geneticType": "hybrid",
+    "effects": [
+      "Relaxed",
+      "Uplifted",
+      "Euphoric",
+      "Hungry",
+      "Sleepy",
+      "Paranoid",
+      "Dry Eyes",
+      "Dry Mouth"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Caryophyllene",
+      "Limonene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Relaxed",
+      "Uplifted",
+      "Euphoric",
+      "Hungry",
+      "Sleepy",
+      "Paranoid",
+      "Dry Eyes",
+      "Dry Mouth"
+    ],
+    "tastes": [
+      "Pungent",
+      "Sweet",
+      "Earthy",
+      "Pine",
+      "Woody"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Caryophyllene",
+      "Limonene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "imc-thc25-t03",
+      "name": "IMC THC25 T03",
+      "brandName": "IMC",
+      "thcPercent": 25,
+      "priceMin": 365,
+      "inStock": true
+    },
+    {
+      "slug": "sibanax-moe-zilla-31",
+      "name": "Sibanax Moe Zilla 30/1",
+      "brandName": "Heyday",
+      "thcPercent": 30,
+      "priceMin": 569,
+      "inStock": true
+    },
+    {
+      "slug": "420-natural-201-ca-gg4",
+      "name": "420 Natural 20/1 CA GG4",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 20,
+      "priceMin": 589,
+      "inStock": true
+    },
+    {
+      "slug": "420-natural-221-gg4",
+      "name": "420 Natural 22/1 GG4",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 22,
+      "priceMin": 723,
+      "inStock": true
+    },
+    {
+      "slug": "420-evolution-221-ca-gg4",
+      "name": "420 Evolution 22/1 CA GG4",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 19,
+      "priceMin": 800,
+      "inStock": true
+    },
+    {
+      "slug": "cannabistada-5025-ca",
+      "name": "CannabiStada 50/25 CA",
+      "brandName": "Stada",
+      "thcPercent": 5,
+      "priceMin": 1999,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Remexian 22/1 GG4 - Remexian Pharma | ab 6,99 €",
+      "description": "Remexian 22/1 GG4 von Remexian Pharma. THC: 22%, CBD: 1%. Sorte: GG4. Preis ab 6,99 €. Preise vergleichen.",
+      "canonical": "https://weed.de/product/remexian-221-gg4",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Remexian 22/1 GG4 - Remexian Pharma | ab 6,99 €",
+        "description": "Remexian 22/1 GG4 von Remexian Pharma. THC: 22%, CBD: 1%. Sorte: GG4. Preis ab 6,99 €. Preise vergleichen.",
+        "url": "https://weed.de/product/remexian-221-gg4",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Remexian Pharma",
+        "href": "https://weed.de/brand/remexian-pharma"
+      },
+      {
+        "name": "Remexian 22/1 GG4",
+        "href": "https://weed.de/product/remexian-221-gg4"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Remexian 22/1 GG4",
+            "item": "https://weed.de/product/remexian-221-gg4"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Remexian 22/1 GG4",
+        "brand": {
+          "@type": "Brand",
+          "name": "Remexian Pharma"
+        },
+        "description": "THC: 22%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/gorilla-glue-4",
+      "text": "GG4",
+      "title": "GG4 Sorte"
+    },
+    "brand": {
+      "href": "/brand/remexian-pharma",
+      "text": "Remexian Pharma",
+      "title": "Alle Remexian Pharma Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/imc-thc25-t03",
+        "text": "IMC THC25 T03",
+        "title": "Alternative: IMC THC25 T03"
+      },
+      {
+        "href": "/product/sibanax-moe-zilla-31",
+        "text": "Sibanax Moe Zilla 30/1",
+        "title": "Alternative: Sibanax Moe Zilla 30/1"
+      },
+      {
+        "href": "/product/420-natural-201-ca-gg4",
+        "text": "420 Natural 20/1 CA GG4",
+        "title": "Alternative: 420 Natural 20/1 CA GG4"
+      },
+      {
+        "href": "/product/420-natural-221-gg4",
+        "text": "420 Natural 22/1 GG4",
+        "title": "Alternative: 420 Natural 22/1 GG4"
+      },
+      {
+        "href": "/product/420-evolution-221-ca-gg4",
+        "text": "420 Evolution 22/1 CA GG4",
+        "title": "Alternative: 420 Evolution 22/1 CA GG4"
+      },
+      {
+        "href": "/product/cannabistada-5025-ca",
+        "text": "CannabiStada 50/25 CA",
+        "title": "Alternative: CannabiStada 50/25 CA"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has price data"
+  }
+}

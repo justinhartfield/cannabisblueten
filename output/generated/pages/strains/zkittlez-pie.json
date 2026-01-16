@@ -1,0 +1,138 @@
+{
+  "strain": {
+    "slug": "zkittlez-pie",
+    "name": "Zkittlez Pie",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Sociable"
+    ],
+    "tastes": [
+      "Sweet",
+      "Spicy",
+      "Fruity"
+    ],
+    "terpenes": [],
+    "description": "Zkittlez Pie ist ein ausgewogener Hybrid-Strain, der durch die Kreuzung von Zkittlez und Cherry Pie entstanden ist. Beide Elternteile gehören zu den beliebtesten Sorten der modernen Cannabiszucht und prägen Zkittlez Pie mit einem unverkennbar süßen, fruchtigen und zugleich cremigen Geschmacksprofil.\n",
+    "imageUrl": "/strains/zkittlez-pie-a5jhib.webp"
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 309,
+      "max": 550,
+      "formatted": {
+        "min": "3,09 €",
+        "max": "5,50 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "imc-e2-thc22",
+      "name": "IMC E2 THC22",
+      "brandName": "IMC",
+      "thcPercent": 22,
+      "priceMin": 309,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [],
+  "seo": {
+    "meta": {
+      "title": "Zkittlez Pie (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Zkittlez Pie: Sociable. 1 Produkte verfügbar. ab 3,09 €.",
+      "canonical": "https://weed.de/strain/zkittlez-pie",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Zkittlez Pie (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Zkittlez Pie: Sociable. 1 Produkte verfügbar. ab 3,09 €.",
+        "url": "https://weed.de/strain/zkittlez-pie",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "/strains/zkittlez-pie-a5jhib.webp"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Zkittlez Pie",
+        "href": "https://weed.de/strain/zkittlez-pie"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Zkittlez Pie",
+            "item": "https://weed.de/strain/zkittlez-pie"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Zkittlez Pie Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/imc-e2-thc22",
+            "name": "IMC E2 THC22"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/imc-e2-thc22",
+        "text": "IMC E2 THC22",
+        "title": "IMC E2 THC22 von IMC"
+      }
+    ],
+    "similarStrains": [],
+    "terpenes": []
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

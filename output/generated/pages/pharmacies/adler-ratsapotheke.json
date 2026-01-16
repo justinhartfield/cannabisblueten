@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "adler-ratsapotheke",
+    "name": "Adler-Ratsapotheke",
+    "street": "Kornmarkt 8",
+    "zip": "06484",
+    "cityName": "Quedlinburg",
+    "state": "Sachsen-Anhalt",
+    "lat": 51.79088059999999,
+    "lng": 11.1429531,
+    "hasDelivery": false,
+    "hasPickup": true,
+    "hasPrices": false,
+    "website": "https://adler-ratsapotheke.de",
+    "phone": "039462615",
+    "email": "info@adler-ratsapotheke.de",
+    "productCount": 0,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/690c93633ae5a95884f67337-40ib68.jpg"
+  },
+  "city": {
+    "slug": "quedlinburg",
+    "name": "Quedlinburg",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "cannaroko-oder-robert-koch-apotheke-wolfen",
+      "name": "CannaRoKo | Robert-Koch-Apotheke Wolfen",
+      "cityName": "Bitterfeld-Wolfen",
+      "productCount": 80,
+      "hasDelivery": true
+    },
+    {
+      "slug": "hirsch-apotheke-1",
+      "name": "Cannasana",
+      "cityName": "Hohe Börde",
+      "productCount": 66,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-am-collegienhof",
+      "name": "Elbgrün",
+      "cityName": "Lutherstadt Wittenberg",
+      "productCount": 43,
+      "hasDelivery": true
+    },
+    {
+      "slug": "easyapotheke-magdeburg",
+      "name": "easyApotheke Magdeburg",
+      "cityName": "Magdeburg",
+      "productCount": 32,
+      "hasDelivery": true
+    },
+    {
+      "slug": "rosen-apotheke-eisleben",
+      "name": "Rosen Apotheke Eisleben",
+      "cityName": "Lutherstadt Eisleben",
+      "productCount": 25,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Adler-Ratsapotheke - Cannabis Apotheke in Quedlinburg",
+      "description": "Adler-Ratsapotheke in Quedlinburg. Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/adler-ratsapotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Adler-Ratsapotheke - Cannabis Apotheke in Quedlinburg",
+        "description": "Adler-Ratsapotheke in Quedlinburg. Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/adler-ratsapotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/690c93633ae5a95884f67337-40ib68.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Quedlinburg",
+        "href": "https://weed.de/cannabis-apotheke/quedlinburg"
+      },
+      {
+        "name": "Adler-Ratsapotheke",
+        "href": "https://weed.de/apotheke/adler-ratsapotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Quedlinburg",
+            "item": "https://weed.de/cannabis-apotheke/quedlinburg"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Adler-Ratsapotheke",
+            "item": "https://weed.de/apotheke/adler-ratsapotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Adler-Ratsapotheke",
+        "url": "https://weed.de/apotheke/adler-ratsapotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Kornmarkt 8",
+          "addressLocality": "Quedlinburg",
+          "postalCode": "06484",
+          "addressRegion": "Sachsen-Anhalt",
+          "addressCountry": "DE"
+        },
+        "telephone": "039462615",
+        "email": "info@adler-ratsapotheke.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/quedlinburg",
+      "text": "Cannabis Apotheken in Quedlinburg",
+      "title": "Alle Apotheken in Quedlinburg"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/cannaroko-oder-robert-koch-apotheke-wolfen",
+        "text": "CannaRoKo | Robert-Koch-Apotheke Wolfen",
+        "title": "CannaRoKo | Robert-Koch-Apotheke Wolfen in Bitterfeld-Wolfen"
+      },
+      {
+        "href": "/apotheke/hirsch-apotheke-1",
+        "text": "Cannasana",
+        "title": "Cannasana in Hohe Börde"
+      },
+      {
+        "href": "/apotheke/apotheke-am-collegienhof",
+        "text": "Elbgrün",
+        "title": "Elbgrün in Lutherstadt Wittenberg"
+      },
+      {
+        "href": "/apotheke/easyapotheke-magdeburg",
+        "text": "easyApotheke Magdeburg",
+        "title": "easyApotheke Magdeburg in Magdeburg"
+      },
+      {
+        "href": "/apotheke/rosen-apotheke-eisleben",
+        "text": "Rosen Apotheke Eisleben",
+        "title": "Rosen Apotheke Eisleben in Lutherstadt Eisleben"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has services"
+  }
+}

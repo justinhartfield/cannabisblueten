@@ -1,0 +1,227 @@
+{
+  "product": {
+    "slug": "cannamedical-sativa-classic-fo",
+    "name": "Cannamedical Sativa Classic FO",
+    "type": "flower",
+    "genetics": "sativa",
+    "thcPercent": 18.6,
+    "cbdPercent": 1,
+    "priceMin": 598,
+    "priceMax": 598,
+    "inStock": false,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": "https://weed.de/products/cannamedical-sativa-classic-fo-1cibc4.png"
+  },
+  "brand": {
+    "slug": "cannamedical",
+    "name": "Cannamedical",
+    "productCount": 238
+  },
+  "strain": {
+    "slug": "fast-orange",
+    "name": "Fast Orange",
+    "geneticType": "hybrid",
+    "effects": [
+      "Focused",
+      "Energetic",
+      "Sociable"
+    ],
+    "terpenes": [
+      "Guaiol",
+      "Beta-Myrcene",
+      "Alpha-Terpineol",
+      "Alpha-Bisabolol"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Focused",
+      "Energetic",
+      "Sociable"
+    ],
+    "tastes": [
+      "Diesel",
+      "Earthy",
+      "Sweet"
+    ],
+    "terpenes": [
+      "Guaiol",
+      "Beta-Myrcene",
+      "Alpha-Terpineol",
+      "Alpha-Bisabolol"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "aurora-typ-1",
+      "name": "Aurora Typ 1",
+      "brandName": "Aurora",
+      "thcPercent": 19,
+      "priceMin": 479,
+      "inStock": true
+    },
+    {
+      "slug": "pedanios-22-1",
+      "name": "Pedanios 22/1",
+      "brandName": "Aurora",
+      "thcPercent": 22,
+      "priceMin": 629,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-sativa-forte-tc",
+      "name": "Cannamedical Sativa forte TC",
+      "brandName": "Cannamedical",
+      "thcPercent": 24,
+      "priceMin": 683,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-sativa-classic-tc",
+      "name": "Cannamedical Sativa classic TC",
+      "brandName": "Cannamedical",
+      "thcPercent": 20,
+      "priceMin": 755,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-sativa-classic-si",
+      "name": "Cannamedical Sativa classic SI",
+      "brandName": "Cannamedical",
+      "thcPercent": 20,
+      "priceMin": 915,
+      "inStock": true
+    },
+    {
+      "slug": "cannabis-flos-bedrocan-f20",
+      "name": "Cannabis Flos Bedrocan F20",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 22,
+      "priceMin": null,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannamedical Sativa Classic FO | ab 5,98 €",
+      "description": "Cannamedical Sativa Classic FO von Cannamedical. THC: 18.6%, CBD: 1%. Sorte: Fast Orange. Preis ab 5,98 €. Preise vergleichen.",
+      "canonical": "https://weed.de/product/cannamedical-sativa-classic-fo",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannamedical Sativa Classic FO | ab 5,98 €",
+        "description": "Cannamedical Sativa Classic FO von Cannamedical. THC: 18.6%, CBD: 1%. Sorte: Fast Orange. Preis ab 5,98 €. Preise vergleichen.",
+        "url": "https://weed.de/product/cannamedical-sativa-classic-fo",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/cannamedical-sativa-classic-fo-1cibc4.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Cannamedical",
+        "href": "https://weed.de/brand/cannamedical"
+      },
+      {
+        "name": "Cannamedical Sativa Classic FO",
+        "href": "https://weed.de/product/cannamedical-sativa-classic-fo"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Cannamedical Sativa Classic FO",
+            "item": "https://weed.de/product/cannamedical-sativa-classic-fo"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Cannamedical Sativa Classic FO",
+        "brand": {
+          "@type": "Brand",
+          "name": "Cannamedical"
+        },
+        "description": "THC: 18.6%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/fast-orange",
+      "text": "Fast Orange",
+      "title": "Fast Orange Sorte"
+    },
+    "brand": {
+      "href": "/brand/cannamedical",
+      "text": "Cannamedical",
+      "title": "Alle Cannamedical Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/aurora-typ-1",
+        "text": "Aurora Typ 1",
+        "title": "Alternative: Aurora Typ 1"
+      },
+      {
+        "href": "/product/pedanios-22-1",
+        "text": "Pedanios 22/1",
+        "title": "Alternative: Pedanios 22/1"
+      },
+      {
+        "href": "/product/cannamedical-sativa-forte-tc",
+        "text": "Cannamedical Sativa forte TC",
+        "title": "Alternative: Cannamedical Sativa forte TC"
+      },
+      {
+        "href": "/product/cannamedical-sativa-classic-tc",
+        "text": "Cannamedical Sativa classic TC",
+        "title": "Alternative: Cannamedical Sativa classic TC"
+      },
+      {
+        "href": "/product/cannamedical-sativa-classic-si",
+        "text": "Cannamedical Sativa classic SI",
+        "title": "Alternative: Cannamedical Sativa classic SI"
+      },
+      {
+        "href": "/product/cannabis-flos-bedrocan-f20",
+        "text": "Cannabis Flos Bedrocan F20",
+        "title": "Alternative: Cannabis Flos Bedrocan F20"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has price data"
+  }
+}

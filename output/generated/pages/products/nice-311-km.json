@@ -1,0 +1,229 @@
+{
+  "product": {
+    "slug": "nice-311-km",
+    "name": "NICE 31/1 KM",
+    "type": "flower",
+    "genetics": "hybrid_indica",
+    "thcPercent": 31,
+    "cbdPercent": 1,
+    "priceMin": 489,
+    "priceMax": 700,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": "https://weed.de/products/nice-311-km-h0b8df.png"
+  },
+  "brand": {
+    "slug": "cansativa",
+    "name": "Cansativa",
+    "productCount": 141
+  },
+  "strain": {
+    "slug": "kush-mint",
+    "name": "Kush Mints",
+    "geneticType": "hybrid",
+    "effects": [
+      "Relaxed",
+      "Euphoric",
+      "Aroused"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Myrcene",
+      "Humulene",
+      "Limonene",
+      "Fenchol"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Relaxed",
+      "Euphoric",
+      "Aroused"
+    ],
+    "tastes": [
+      "Mint",
+      "Pine",
+      "Spicy-Herbal"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Myrcene",
+      "Humulene",
+      "Limonene",
+      "Fenchol"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "enua-251-cck-ca",
+      "name": "enua 25/1 CCK CA",
+      "brandName": "enua",
+      "thcPercent": 25.2,
+      "priceMin": 399,
+      "inStock": true
+    },
+    {
+      "slug": "canopy-kmi-28",
+      "name": "Canopy KMI 28",
+      "brandName": "Canopy Growth",
+      "thcPercent": 26.2,
+      "priceMin": 429,
+      "inStock": true
+    },
+    {
+      "slug": "thc-akut-fb-25-kush-mints",
+      "name": "THC AKUT FB 25 KM",
+      "brandName": "Bathera",
+      "thcPercent": 25,
+      "priceMin": 497,
+      "inStock": true
+    },
+    {
+      "slug": "ceres-no-2",
+      "name": "Ceres No. 2",
+      "brandName": "Cantourage",
+      "thcPercent": 25,
+      "priceMin": 590,
+      "inStock": true
+    },
+    {
+      "slug": "420-natural-221-gg4",
+      "name": "420 Natural 22/1 GG4",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 22,
+      "priceMin": 723,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-301-oktonia",
+      "name": "Demecan 30/1 Oktonia",
+      "brandName": "Deutsche Medizinalcannabis",
+      "thcPercent": 3,
+      "priceMin": 1079,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "NICE 31/1 KM - Cansativa | ab 4,89 €",
+      "description": "NICE 31/1 KM von Cansativa. THC: 31%, CBD: 1%. Sorte: Kush Mints. Preis ab 4,89 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/nice-311-km",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "NICE 31/1 KM - Cansativa | ab 4,89 €",
+        "description": "NICE 31/1 KM von Cansativa. THC: 31%, CBD: 1%. Sorte: Kush Mints. Preis ab 4,89 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/nice-311-km",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/nice-311-km-h0b8df.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Cansativa",
+        "href": "https://weed.de/brand/cansativa"
+      },
+      {
+        "name": "NICE 31/1 KM",
+        "href": "https://weed.de/product/nice-311-km"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "NICE 31/1 KM",
+            "item": "https://weed.de/product/nice-311-km"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "NICE 31/1 KM",
+        "brand": {
+          "@type": "Brand",
+          "name": "Cansativa"
+        },
+        "description": "THC: 31%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/kush-mint",
+      "text": "Kush Mints",
+      "title": "Kush Mints Sorte"
+    },
+    "brand": {
+      "href": "/brand/cansativa",
+      "text": "Cansativa",
+      "title": "Alle Cansativa Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/enua-251-cck-ca",
+        "text": "enua 25/1 CCK CA",
+        "title": "Alternative: enua 25/1 CCK CA"
+      },
+      {
+        "href": "/product/canopy-kmi-28",
+        "text": "Canopy KMI 28",
+        "title": "Alternative: Canopy KMI 28"
+      },
+      {
+        "href": "/product/thc-akut-fb-25-kush-mints",
+        "text": "THC AKUT FB 25 KM",
+        "title": "Alternative: THC AKUT FB 25 KM"
+      },
+      {
+        "href": "/product/ceres-no-2",
+        "text": "Ceres No. 2",
+        "title": "Alternative: Ceres No. 2"
+      },
+      {
+        "href": "/product/420-natural-221-gg4",
+        "text": "420 Natural 22/1 GG4",
+        "title": "Alternative: 420 Natural 22/1 GG4"
+      },
+      {
+        "href": "/product/demecan-301-oktonia",
+        "text": "Demecan 30/1 Oktonia",
+        "title": "Alternative: Demecan 30/1 Oktonia"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

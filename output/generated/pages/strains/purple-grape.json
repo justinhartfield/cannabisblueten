@@ -1,0 +1,235 @@
+{
+  "strain": {
+    "slug": "purple-grape",
+    "name": "Purple Grape",
+    "geneticType": "indica",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Happy",
+      "Sleepy",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Earthy",
+      "Sweet",
+      "Fruity"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Limonene",
+      "Farnesene"
+    ],
+    "description": "Purple Grape, eine indica-dominante Hybrid-Cannabis-Sorte, entstammt der Kreuzung von “OG Kush Breath”,  “Platinum Kush” und “Lost Sailor”. Sie besitzt THC-Werte, die im Durchschnitt zwischen 20% und 22% liegen und CBD-Werte von unter 1%. Der Strain bildet verschiedene Terpene aus, die für einen von Nutzern als Erdig und Süß beschriebenen Geschmack sorgen. Darunter Limonen, Caryophyllen, Farnesene. Die Wirkung soll ausgeglichen und entspannend sein, was den Einsatz im medizinischen Bereich begünstigen könnte. Purple Grape verdankt seinen Namen dem Aussehen der Blüte, die einen Mix aus dunklem Grün mit teilweisen Anteilen von Lila ausbildet. Dazu kommen zahlreiche kristalline Trichome, die das Aussehen dieses Strains charakterisieren.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 359,
+      "max": 700,
+      "formatted": {
+        "min": "3,59 €",
+        "max": "7,00 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "imc-gga-thc22",
+      "name": "IMC GGA THC22",
+      "brandName": "IMC",
+      "thcPercent": 21.8,
+      "priceMin": 695,
+      "inStock": true
+    },
+    {
+      "slug": "imc-thc2-gga",
+      "name": "IMC THC20 GGA",
+      "brandName": "IMC",
+      "thcPercent": 20,
+      "priceMin": 359,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "siggi's-minze",
+      "name": "Siggi's Minze",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "hindu-kush",
+      "name": "Hindu Kush",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "critical-kush",
+      "name": "Critical Kush",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "abusive-og",
+      "name": "Abusive OG",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "ice-cream-cake",
+      "name": "Ice Cream Cake",
+      "geneticType": "indica",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Purple Grape (Indica) - Wirkung, THC & Verfügbarkeit",
+      "description": "Purple Grape: Happy, Sleepy, Relaxed. 2 Produkte verfügbar. ab 3,59 €.",
+      "canonical": "https://weed.de/strain/purple-grape",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Purple Grape (Indica) - Wirkung, THC & Verfügbarkeit",
+        "description": "Purple Grape: Happy, Sleepy, Relaxed. 2 Produkte verfügbar. ab 3,59 €.",
+        "url": "https://weed.de/strain/purple-grape",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Purple Grape",
+        "href": "https://weed.de/strain/purple-grape"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Purple Grape",
+            "item": "https://weed.de/strain/purple-grape"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Purple Grape Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/imc-gga-thc22",
+            "name": "IMC GGA THC22"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/imc-thc2-gga",
+            "name": "IMC THC20 GGA"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/imc-gga-thc22",
+        "text": "IMC GGA THC22",
+        "title": "IMC GGA THC22 von IMC"
+      },
+      {
+        "href": "/product/imc-thc2-gga",
+        "text": "IMC THC20 GGA",
+        "title": "IMC THC20 GGA von IMC"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/siggi's-minze",
+        "text": "Siggi's Minze",
+        "title": "Siggi's Minze - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/hindu-kush",
+        "text": "Hindu Kush",
+        "title": "Hindu Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/critical-kush",
+        "text": "Critical Kush",
+        "title": "Critical Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/abusive-og",
+        "text": "Abusive OG",
+        "title": "Abusive OG - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/ice-cream-cake",
+        "text": "Ice Cream Cake",
+        "title": "Ice Cream Cake - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/farnesene",
+        "text": "Farnesene",
+        "title": "Farnesene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

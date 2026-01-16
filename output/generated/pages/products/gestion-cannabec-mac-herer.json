@@ -1,0 +1,242 @@
+{
+  "product": {
+    "slug": "gestion-cannabec-mac-herer",
+    "name": "Gestion Cannabec Mac Herer",
+    "type": "flower",
+    "genetics": "sativa",
+    "thcPercent": 20,
+    "cbdPercent": 1,
+    "priceMin": 420,
+    "priceMax": 695,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": "https://weed.de/products/gestion-cannabec-mac-herer-f069a9.png"
+  },
+  "brand": {
+    "slug": "cantourage",
+    "name": "Cantourage",
+    "productCount": 248
+  },
+  "strain": {
+    "slug": "mac-herer",
+    "name": "Mac Herer",
+    "geneticType": "hybrid",
+    "effects": [
+      "Activating",
+      "Clear",
+      "Relaxed",
+      "Euphoric",
+      "Creative",
+      "Stress-relief",
+      "Headache",
+      "Calming"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Limonene",
+      "Myrcene",
+      "Terpinolene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Activating",
+      "Clear",
+      "Relaxed",
+      "Euphoric",
+      "Creative",
+      "Stress-relief",
+      "Headache",
+      "Calming"
+    ],
+    "tastes": [
+      "Fresh",
+      "Sweet",
+      "Tangy",
+      "Vanilla",
+      "Pine",
+      "Citrus",
+      "Diesel",
+      "Fruity"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Limonene",
+      "Myrcene",
+      "Terpinolene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "aurora-typ-1",
+      "name": "Aurora Typ 1",
+      "brandName": "Aurora",
+      "thcPercent": 19,
+      "priceMin": 479,
+      "inStock": true
+    },
+    {
+      "slug": "pedanios-22-1",
+      "name": "Pedanios 22/1",
+      "brandName": "Aurora",
+      "thcPercent": 22,
+      "priceMin": 629,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-sativa-forte-tc",
+      "name": "Cannamedical Sativa forte TC",
+      "brandName": "Cannamedical",
+      "thcPercent": 24,
+      "priceMin": 683,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-sativa-classic-tc",
+      "name": "Cannamedical Sativa classic TC",
+      "brandName": "Cannamedical",
+      "thcPercent": 20,
+      "priceMin": 755,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-sativa-classic-si",
+      "name": "Cannamedical Sativa classic SI",
+      "brandName": "Cannamedical",
+      "thcPercent": 20,
+      "priceMin": 915,
+      "inStock": true
+    },
+    {
+      "slug": "cannabis-flos-bedrocan-f20",
+      "name": "Cannabis Flos Bedrocan F20",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 22,
+      "priceMin": null,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Gestion Cannabec Mac Herer - Cantourage | ab 4,20 €",
+      "description": "Gestion Cannabec Mac Herer von Cantourage. THC: 20%, CBD: 1%. Sorte: Mac Herer. Preis ab 4,20 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/gestion-cannabec-mac-herer",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Gestion Cannabec Mac Herer - Cantourage | ab 4,20 €",
+        "description": "Gestion Cannabec Mac Herer von Cantourage. THC: 20%, CBD: 1%. Sorte: Mac Herer. Preis ab 4,20 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/gestion-cannabec-mac-herer",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/gestion-cannabec-mac-herer-f069a9.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Cantourage",
+        "href": "https://weed.de/brand/cantourage"
+      },
+      {
+        "name": "Gestion Cannabec Mac Herer",
+        "href": "https://weed.de/product/gestion-cannabec-mac-herer"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Gestion Cannabec Mac Herer",
+            "item": "https://weed.de/product/gestion-cannabec-mac-herer"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Gestion Cannabec Mac Herer",
+        "brand": {
+          "@type": "Brand",
+          "name": "Cantourage"
+        },
+        "description": "THC: 20%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/mac-herer",
+      "text": "Mac Herer",
+      "title": "Mac Herer Sorte"
+    },
+    "brand": {
+      "href": "/brand/cantourage",
+      "text": "Cantourage",
+      "title": "Alle Cantourage Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/aurora-typ-1",
+        "text": "Aurora Typ 1",
+        "title": "Alternative: Aurora Typ 1"
+      },
+      {
+        "href": "/product/pedanios-22-1",
+        "text": "Pedanios 22/1",
+        "title": "Alternative: Pedanios 22/1"
+      },
+      {
+        "href": "/product/cannamedical-sativa-forte-tc",
+        "text": "Cannamedical Sativa forte TC",
+        "title": "Alternative: Cannamedical Sativa forte TC"
+      },
+      {
+        "href": "/product/cannamedical-sativa-classic-tc",
+        "text": "Cannamedical Sativa classic TC",
+        "title": "Alternative: Cannamedical Sativa classic TC"
+      },
+      {
+        "href": "/product/cannamedical-sativa-classic-si",
+        "text": "Cannamedical Sativa classic SI",
+        "title": "Alternative: Cannamedical Sativa classic SI"
+      },
+      {
+        "href": "/product/cannabis-flos-bedrocan-f20",
+        "text": "Cannabis Flos Bedrocan F20",
+        "title": "Alternative: Cannabis Flos Bedrocan F20"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

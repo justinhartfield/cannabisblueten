@@ -1,0 +1,240 @@
+{
+  "strain": {
+    "slug": "gorilla-mints",
+    "name": "Gorilla Mints",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 10,
+      "max": 12
+    },
+    "effects": [
+      "Creative"
+    ],
+    "tastes": [
+      "Mint",
+      "Fruity",
+      "Earthy",
+      "Nutty"
+    ],
+    "terpenes": [
+      "Ocimene",
+      "Myrcene",
+      "Caryophyllene",
+      "Nerolidol"
+    ],
+    "description": "Gorilla Mints, eine vielseitige Hybrid-Sorte, verführt die Sinne mit einer faszinierenden Mischung aus Minz-, fruchtigen, erdigen und nussigen Aromen. Ihre ausgewogenen THC- und CBD-Werte, die in der Regel zwischen 10% und 12% liegen, bieten eine sanfte, aber kreativ inspirierende Erfahrung. Abgeleitet von der beeindruckenden Abstammung von Gorilla Glue #4 und Strudel Breath, zeigt diese Sorte eine moderate Wuchshöhe und ist in etwa 8 bis 9 Wochen erntereif. ",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 940,
+      "max": 940,
+      "formatted": {
+        "min": "9,40 €",
+        "max": "9,40 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "cannamedical-hybrid-forte-gm",
+      "name": "Cannamedical Hybrid Forte GM",
+      "brandName": "Cannamedical",
+      "thcPercent": 22.8,
+      "priceMin": 940,
+      "inStock": false
+    },
+    {
+      "slug": "cannamedical-hybrid-classic-1",
+      "name": "Cannamedical Hybrid Classic GM",
+      "brandName": "Cannamedical",
+      "thcPercent": 22,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "boost",
+      "name": "Boost",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "gelatti",
+      "name": "Gelatti",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "mac-driver",
+      "name": "Mac Driver",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "lemon-berry-candy",
+      "name": "Lemon Berry Candy",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "medusa-f1",
+      "name": "Medusa F1",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Gorilla Mints (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Gorilla Mints: Creative. 2 Produkte verfügbar. ab 9,40 €.",
+      "canonical": "https://weed.de/strain/gorilla-mints",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Gorilla Mints (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Gorilla Mints: Creative. 2 Produkte verfügbar. ab 9,40 €.",
+        "url": "https://weed.de/strain/gorilla-mints",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Gorilla Mints",
+        "href": "https://weed.de/strain/gorilla-mints"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Gorilla Mints",
+            "item": "https://weed.de/strain/gorilla-mints"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Gorilla Mints Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/cannamedical-hybrid-forte-gm",
+            "name": "Cannamedical Hybrid Forte GM"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/cannamedical-hybrid-classic-1",
+            "name": "Cannamedical Hybrid Classic GM"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/cannamedical-hybrid-forte-gm",
+        "text": "Cannamedical Hybrid Forte GM",
+        "title": "Cannamedical Hybrid Forte GM von Cannamedical"
+      },
+      {
+        "href": "/product/cannamedical-hybrid-classic-1",
+        "text": "Cannamedical Hybrid Classic GM",
+        "title": "Cannamedical Hybrid Classic GM von Cannamedical"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/boost",
+        "text": "Boost",
+        "title": "Boost - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/gelatti",
+        "text": "Gelatti",
+        "title": "Gelatti - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/mac-driver",
+        "text": "Mac Driver",
+        "title": "Mac Driver - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/lemon-berry-candy",
+        "text": "Lemon Berry Candy",
+        "title": "Lemon Berry Candy - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/medusa-f1",
+        "text": "Medusa F1",
+        "title": "Medusa F1 - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/ocimene",
+        "text": "Ocimene",
+        "title": "Ocimene Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/nerolidol",
+        "text": "Nerolidol",
+        "title": "Nerolidol Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "strain": {
+    "slug": "black-gas",
+    "name": "Black Gas",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Happy",
+      "Sleepy",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Earthy",
+      "Fruity"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 599,
+      "max": 599,
+      "formatted": {
+        "min": "5,99 €",
+        "max": "5,99 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "bava-med-271-bla-ga",
+      "name": "Bava Med 27/1 BLA - GA",
+      "brandName": "bava medical",
+      "thcPercent": 27,
+      "priceMin": 599,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "cheese-quake",
+      "name": "Cheese Quake",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "alien-mints",
+      "name": "Alien Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "dirty-taxi",
+      "name": "Dirty Taxi",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "koko-cookies",
+      "name": "Koko Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "space-dust",
+      "name": "Space Dust",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Black Gas (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Black Gas: Happy, Sleepy, Relaxed. 1 Produkte verfügbar. ab 5,99 €.",
+      "canonical": "https://weed.de/strain/black-gas",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Black Gas (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Black Gas: Happy, Sleepy, Relaxed. 1 Produkte verfügbar. ab 5,99 €.",
+        "url": "https://weed.de/strain/black-gas",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Black Gas",
+        "href": "https://weed.de/strain/black-gas"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Black Gas",
+            "item": "https://weed.de/strain/black-gas"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Black Gas Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/bava-med-271-bla-ga",
+            "name": "Bava Med 27/1 BLA - GA"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/bava-med-271-bla-ga",
+        "text": "Bava Med 27/1 BLA - GA",
+        "title": "Bava Med 27/1 BLA - GA von bava medical"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/cheese-quake",
+        "text": "Cheese Quake",
+        "title": "Cheese Quake - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/alien-mints",
+        "text": "Alien Mints",
+        "title": "Alien Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/dirty-taxi",
+        "text": "Dirty Taxi",
+        "title": "Dirty Taxi - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/koko-cookies",
+        "text": "Koko Cookies",
+        "title": "Koko Cookies - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/space-dust",
+        "text": "Space Dust",
+        "title": "Space Dust - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

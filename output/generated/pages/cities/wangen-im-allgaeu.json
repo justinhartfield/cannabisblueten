@@ -1,0 +1,165 @@
+{
+  "city": {
+    "slug": "wangen-im-allgaeu",
+    "name": "Wangen im Allgäu",
+    "state": "Baden-Württemberg"
+  },
+  "stats": {
+    "pharmacyCount": 1,
+    "totalProducts": 43,
+    "hasDelivery": true
+  },
+  "pharmacies": [
+    {
+      "slug": "rochus-apotheke-oder-delta9medical",
+      "name": "Rochus Apotheke | Delta9Medical",
+      "street": "Herrenstraße 22-24",
+      "zip": "88239",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 43,
+      "rating": 5,
+      "ratingCount": 1
+    }
+  ],
+  "nearbyCities": [
+    {
+      "slug": "mannheim",
+      "name": "Mannheim",
+      "pharmacyCount": 6
+    },
+    {
+      "slug": "stuttgart",
+      "name": "Stuttgart",
+      "pharmacyCount": 6
+    },
+    {
+      "slug": "karlsruhe",
+      "name": "Karlsruhe",
+      "pharmacyCount": 5
+    },
+    {
+      "slug": "baden-baden",
+      "name": "Baden-Baden",
+      "pharmacyCount": 3
+    },
+    {
+      "slug": "tuebingen",
+      "name": "Tübingen",
+      "pharmacyCount": 2
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannabis Apotheke Wangen im Allgäu - 1 Apotheken",
+      "description": "Cannabis Apotheken in Wangen im Allgäu. 1 Apotheken mit 43 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+      "canonical": "https://weed.de/cannabis-apotheke/wangen-im-allgaeu",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannabis Apotheke Wangen im Allgäu - 1 Apotheken",
+        "description": "Cannabis Apotheken in Wangen im Allgäu. 1 Apotheken mit 43 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+        "url": "https://weed.de/cannabis-apotheke/wangen-im-allgaeu",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Wangen im Allgäu",
+        "href": "https://weed.de/cannabis-apotheke/wangen-im-allgaeu"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Wangen im Allgäu",
+            "item": "https://weed.de/cannabis-apotheke/wangen-im-allgaeu"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Cannabis Apotheken in Wangen im Allgäu",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/apotheke/rochus-apotheke-oder-delta9medical",
+            "name": "Rochus Apotheke | Delta9Medical"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "pharmacies": [
+      {
+        "href": "/apotheke/rochus-apotheke-oder-delta9medical",
+        "text": "Rochus Apotheke | Delta9Medical",
+        "title": "Rochus Apotheke | Delta9Medical in Wangen im Allgäu"
+      }
+    ],
+    "nearbyCities": [
+      {
+        "href": "/cannabis-apotheke/mannheim",
+        "text": "Cannabis Apotheke Mannheim",
+        "title": "6 Apotheken in Mannheim"
+      },
+      {
+        "href": "/cannabis-apotheke/stuttgart",
+        "text": "Cannabis Apotheke Stuttgart",
+        "title": "6 Apotheken in Stuttgart"
+      },
+      {
+        "href": "/cannabis-apotheke/karlsruhe",
+        "text": "Cannabis Apotheke Karlsruhe",
+        "title": "5 Apotheken in Karlsruhe"
+      },
+      {
+        "href": "/cannabis-apotheke/baden-baden",
+        "text": "Cannabis Apotheke Baden-Baden",
+        "title": "3 Apotheken in Baden-Baden"
+      },
+      {
+        "href": "/cannabis-apotheke/tuebingen",
+        "text": "Cannabis Apotheke Tübingen",
+        "title": "2 Apotheken in Tübingen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Single pharmacy with good product coverage"
+  }
+}

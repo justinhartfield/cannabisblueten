@@ -1,0 +1,230 @@
+{
+  "strain": {
+    "slug": "amnesia-kush",
+    "name": "Amnesia Kush",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Giggly",
+      "Hungry",
+      "Uplifted",
+      "Euphoric"
+    ],
+    "tastes": [
+      "Sweet",
+      "Citrus",
+      "Menthol",
+      "Pepper"
+    ],
+    "terpenes": [
+      "Phellandrene",
+      "Ocimene",
+      "Geraniol"
+    ],
+    "description": "Amnesia Kush ist eine Hybrid-Sorte mit Genetik von den bekannten Sorten \"Amnesia Haze\" und \"OG Kush\". Sie hat in der Regel einen THC-Gehalt von 18% bis 20%, was sie in die Kategorie der mäßig potenten Sorten einordnet. Amnesia Kush bietet ein einzigartiges und geschmacksintensives Profil mit Noten von Süße, Zitrusfrüchten, Menthol und einem Hauch von Pfeffer, was ein komplexes und angenehmes Geschmackserlebnis bietet. Beim Konsum von Amnesia Kush sind fröhliche Euphorie, gesteigerter Appetit und eine gehobene Stimmung zu erwarten, was es für Entspannung und gesellschaftliche Aktivitäten geeignet macht.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": null
+  },
+  "products": [
+    {
+      "slug": "hapa-pharm-201",
+      "name": "HAPA pharm 20/1",
+      "brandName": "HAPA pharm",
+      "thcPercent": 20,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "hapa-pharma-cannabis-extrakt-thc10cbd10",
+      "name": "HAPA pharma Cannabis Extrakt THC10:CBD10",
+      "brandName": "HAPA pharm",
+      "thcPercent": 10,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "diesel",
+      "name": "Diesel",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "hawaiian",
+      "name": "Hawaiian",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "high-octane",
+      "name": "High Octane",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "jilly-bean",
+      "name": "Jilly Bean",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "straweberry-cake",
+      "name": "Strawberry Cake",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Amnesia Kush (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Amnesia Kush: Giggly, Hungry, Uplifted. 2 Produkte verfügbar.",
+      "canonical": "https://weed.de/strain/amnesia-kush",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Amnesia Kush (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Amnesia Kush: Giggly, Hungry, Uplifted. 2 Produkte verfügbar.",
+        "url": "https://weed.de/strain/amnesia-kush",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Amnesia Kush",
+        "href": "https://weed.de/strain/amnesia-kush"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Amnesia Kush",
+            "item": "https://weed.de/strain/amnesia-kush"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Amnesia Kush Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/hapa-pharm-201",
+            "name": "HAPA pharm 20/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/hapa-pharma-cannabis-extrakt-thc10cbd10",
+            "name": "HAPA pharma Cannabis Extrakt THC10:CBD10"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/hapa-pharm-201",
+        "text": "HAPA pharm 20/1",
+        "title": "HAPA pharm 20/1 von HAPA pharm"
+      },
+      {
+        "href": "/product/hapa-pharma-cannabis-extrakt-thc10cbd10",
+        "text": "HAPA pharma Cannabis Extrakt THC10:CBD10",
+        "title": "HAPA pharma Cannabis Extrakt THC10:CBD10 von HAPA pharm"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/diesel",
+        "text": "Diesel",
+        "title": "Diesel - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/hawaiian",
+        "text": "Hawaiian",
+        "title": "Hawaiian - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/high-octane",
+        "text": "High Octane",
+        "title": "High Octane - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/jilly-bean",
+        "text": "Jilly Bean",
+        "title": "Jilly Bean - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/straweberry-cake",
+        "text": "Strawberry Cake",
+        "title": "Strawberry Cake - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/phellandrene",
+        "text": "Phellandrene",
+        "title": "Phellandrene Terpen"
+      },
+      {
+        "href": "/terpene/ocimene",
+        "text": "Ocimene",
+        "title": "Ocimene Terpen"
+      },
+      {
+        "href": "/terpene/geraniol",
+        "text": "Geraniol",
+        "title": "Geraniol Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

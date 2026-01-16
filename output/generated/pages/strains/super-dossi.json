@@ -1,0 +1,222 @@
+{
+  "strain": {
+    "slug": "super-dossi",
+    "name": "Super Dossi",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Euphoric",
+      "Mood-lifting",
+      "Relaxed",
+      "Pain-relief",
+      "Sleepy",
+      "Stress-relief"
+    ],
+    "tastes": [
+      "Sweet",
+      "Pine",
+      "Earthy",
+      "Citrus",
+      "Tangy",
+      "Mint"
+    ],
+    "terpenes": [
+      "Beta-Caryophyllene",
+      "Limonene",
+      "Myrcene"
+    ],
+    "description": "Super Dossi ist ein Indica-dominanter Hybrid, entstanden aus der Kreuzung von Girl Scout Cookies und Face Off OG. Mit einem hohen THC-Gehalt von typischerweise 27% und einem CBD-Wert von 1% liefert sie potente Effekte, die sowohl körperliche Erleichterung als auch ein geistiges Hochgefühl bieten.\n\nIhr komplexes Geschmacksprofil ist geprägt von süßen, teigigen Noten und Minze, begleitet von einer erdigen Basis und frischen Kiefernakzenten. Das Terpenprofil, das von Myrcen, Limonen und Beta-Caryophyllen dominiert wird, unterstreicht das Aroma mit entspannenden, zitrusartigen und würzigen Nuancen.\n\nDie Wirkung beginnt mit einer euphorischen Kopfwirkung, die schnell für gute Laune sorgt, bevor eine tiefe körperliche Entspannung einsetzt. Super Dossi ist ideal zur Linderung von chronischen Schmerzen, Muskelverspannungen und Schlafstörungen, da sie Stress abbaut und Ruhe fördert. Zusammengefasst ist Super Dossi eine Sorte für alle, die ein teigig-minziges Aroma mit einem potenten, tief beruhigenden und stimmungsaufhellenden High für den Abend suchen.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 499,
+      "max": 699,
+      "formatted": {
+        "min": "4,99 €",
+        "max": "6,99 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "medicus-271-yar-sud",
+      "name": "Medicus 27/1 YAR SUD",
+      "brandName": "Cantourage",
+      "thcPercent": 27,
+      "priceMin": 499,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "tigerz-eye",
+      "name": "Tigerz Eye",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "critical-bilbo",
+      "name": "Critical Bilbo",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "frosted-cookies",
+      "name": "Frosted Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "atlantic-glue",
+      "name": "Atlantic Glue",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "tickle-burger",
+      "name": "Tickle Burger",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Super Dossi (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Super Dossi: Euphoric, Mood-lifting, Relaxed. 1 Produkte verfügbar. ab 4,99 €.",
+      "canonical": "https://weed.de/strain/super-dossi",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Super Dossi (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Super Dossi: Euphoric, Mood-lifting, Relaxed. 1 Produkte verfügbar. ab 4,99 €.",
+        "url": "https://weed.de/strain/super-dossi",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Super Dossi",
+        "href": "https://weed.de/strain/super-dossi"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Super Dossi",
+            "item": "https://weed.de/strain/super-dossi"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Super Dossi Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/medicus-271-yar-sud",
+            "name": "Medicus 27/1 YAR SUD"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/medicus-271-yar-sud",
+        "text": "Medicus 27/1 YAR SUD",
+        "title": "Medicus 27/1 YAR SUD von Cantourage"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/tigerz-eye",
+        "text": "Tigerz Eye",
+        "title": "Tigerz Eye - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/critical-bilbo",
+        "text": "Critical Bilbo",
+        "title": "Critical Bilbo - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/frosted-cookies",
+        "text": "Frosted Cookies",
+        "title": "Frosted Cookies - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/atlantic-glue",
+        "text": "Atlantic Glue",
+        "title": "Atlantic Glue - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/tickle-burger",
+        "text": "Tickle Burger",
+        "title": "Tickle Burger - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

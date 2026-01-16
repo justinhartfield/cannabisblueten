@@ -1,0 +1,224 @@
+{
+  "product": {
+    "slug": "yuvigo-11-cannabisextrakt",
+    "name": "Yuvigo 10/10 Cannabisextrakt",
+    "type": "extract",
+    "genetics": "indica",
+    "thcPercent": 10,
+    "cbdPercent": 10,
+    "priceMin": 355,
+    "priceMax": 355,
+    "inStock": false,
+    "pzn": null,
+    "originCountry": "Spanien",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "adven",
+    "name": "Adven",
+    "productCount": 13
+  },
+  "strain": {
+    "slug": "white-widow",
+    "name": "White Widow",
+    "geneticType": "hybrid",
+    "effects": [
+      "Lively",
+      "Chatty",
+      "Imaginative"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Pinene",
+      "Caryophyllene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Lively",
+      "Chatty",
+      "Imaginative"
+    ],
+    "tastes": [
+      "Woody",
+      "Herbal",
+      "Earthy"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Pinene",
+      "Caryophyllene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "cannabis-1a-161",
+      "name": "Cannabis 1A 16/1",
+      "brandName": "Vayamed",
+      "thcPercent": 16,
+      "priceMin": 420,
+      "inStock": true
+    },
+    {
+      "slug": "cannabis-1a-181-flos-ww",
+      "name": "Cannabis 1A 18/1 Flos WW",
+      "brandName": "Vayamed",
+      "thcPercent": 18,
+      "priceMin": 559,
+      "inStock": true
+    },
+    {
+      "slug": "weeco-201",
+      "name": "Weeco 20/1",
+      "brandName": "Weeco",
+      "thcPercent": 20.4,
+      "priceMin": 579,
+      "inStock": true
+    },
+    {
+      "slug": "weeco-181-ww",
+      "name": "Weeco 18/1 WW",
+      "brandName": "Weeco",
+      "thcPercent": 18,
+      "priceMin": 620,
+      "inStock": true
+    },
+    {
+      "slug": "khiriox-251-extrakt",
+      "name": "Khiriox 25/1 Extrakt",
+      "brandName": "Khiron",
+      "thcPercent": 25,
+      "priceMin": 704,
+      "inStock": true
+    },
+    {
+      "slug": "cannabisblueten-supreme-181-wmg-pharma",
+      "name": "Supreme 18/1 WMG Pharma",
+      "brandName": "WMG Pharma",
+      "thcPercent": 18,
+      "priceMin": 810,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Yuvigo 10/10 Cannabisextrakt - Adven | ab 3,55 €",
+      "description": "Yuvigo 10/10 Cannabisextrakt von Adven. THC: 10%, CBD: 10%. Sorte: White Widow. Preis ab 3,55 €. Preise vergleichen.",
+      "canonical": "https://weed.de/product/yuvigo-11-cannabisextrakt",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Yuvigo 10/10 Cannabisextrakt - Adven | ab 3,55 €",
+        "description": "Yuvigo 10/10 Cannabisextrakt von Adven. THC: 10%, CBD: 10%. Sorte: White Widow. Preis ab 3,55 €. Preise vergleichen.",
+        "url": "https://weed.de/product/yuvigo-11-cannabisextrakt",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Adven",
+        "href": "https://weed.de/brand/adven"
+      },
+      {
+        "name": "Yuvigo 10/10 Cannabisextrakt",
+        "href": "https://weed.de/product/yuvigo-11-cannabisextrakt"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Yuvigo 10/10 Cannabisextrakt",
+            "item": "https://weed.de/product/yuvigo-11-cannabisextrakt"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Yuvigo 10/10 Cannabisextrakt",
+        "brand": {
+          "@type": "Brand",
+          "name": "Adven"
+        },
+        "description": "THC: 10%, CBD: 10%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/white-widow",
+      "text": "White Widow",
+      "title": "White Widow Sorte"
+    },
+    "brand": {
+      "href": "/brand/adven",
+      "text": "Adven",
+      "title": "Alle Adven Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/cannabis-1a-161",
+        "text": "Cannabis 1A 16/1",
+        "title": "Alternative: Cannabis 1A 16/1"
+      },
+      {
+        "href": "/product/cannabis-1a-181-flos-ww",
+        "text": "Cannabis 1A 18/1 Flos WW",
+        "title": "Alternative: Cannabis 1A 18/1 Flos WW"
+      },
+      {
+        "href": "/product/weeco-201",
+        "text": "Weeco 20/1",
+        "title": "Alternative: Weeco 20/1"
+      },
+      {
+        "href": "/product/weeco-181-ww",
+        "text": "Weeco 18/1 WW",
+        "title": "Alternative: Weeco 18/1 WW"
+      },
+      {
+        "href": "/product/khiriox-251-extrakt",
+        "text": "Khiriox 25/1 Extrakt",
+        "title": "Alternative: Khiriox 25/1 Extrakt"
+      },
+      {
+        "href": "/product/cannabisblueten-supreme-181-wmg-pharma",
+        "text": "Supreme 18/1 WMG Pharma",
+        "title": "Alternative: Supreme 18/1 WMG Pharma"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has price data"
+  }
+}

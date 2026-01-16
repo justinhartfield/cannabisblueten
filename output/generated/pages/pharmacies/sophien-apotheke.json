@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "sophien-apotheke",
+    "name": "Sophien Apotheke",
+    "street": "Sophienstraße 4",
+    "zip": "76530",
+    "cityName": "Baden-Baden",
+    "state": "Baden-Württemberg",
+    "lat": 48.7604153,
+    "lng": 8.2394202,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": null,
+    "phone": "017648744111",
+    "email": "service@cannapharma-apo.de",
+    "productCount": 44,
+    "rating": 1,
+    "ratingCount": 1,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/672cd519619b158b2da6fded-baf851.jpg"
+  },
+  "city": {
+    "slug": "baden-baden",
+    "name": "Baden-Baden",
+    "pharmacyCount": 3
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "bernhardus-apotheke",
+      "name": "Bernhardus Apotheke",
+      "cityName": "Baden-Baden",
+      "productCount": 2,
+      "hasDelivery": true
+    },
+    {
+      "slug": "healthworld-pharmacy",
+      "name": "HealthWorld Pharmacy",
+      "cityName": "Baden-Baden",
+      "productCount": 0,
+      "hasDelivery": true
+    },
+    {
+      "slug": "florians-vital-apotheke",
+      "name": "Florians Vital Apotheke",
+      "cityName": "Esslingen am Neckar",
+      "productCount": 248,
+      "hasDelivery": true
+    },
+    {
+      "slug": "central-apotheke",
+      "name": "Cannabis-Champion",
+      "cityName": "Waiblingen",
+      "productCount": 240,
+      "hasDelivery": true
+    },
+    {
+      "slug": "karlchengras",
+      "name": "Karlchengras (Karl-Apotheke)",
+      "cityName": "Karlsruhe",
+      "productCount": 188,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Sophien Apotheke - Cannabis Apotheke in Baden-Baden",
+      "description": "Sophien Apotheke in Baden-Baden. 44 Cannabis Produkte. Lieferung & Abholung. Bewertung: 1.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/sophien-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Sophien Apotheke - Cannabis Apotheke in Baden-Baden",
+        "description": "Sophien Apotheke in Baden-Baden. 44 Cannabis Produkte. Lieferung & Abholung. Bewertung: 1.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/sophien-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/672cd519619b158b2da6fded-baf851.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Baden-Baden",
+        "href": "https://weed.de/cannabis-apotheke/baden-baden"
+      },
+      {
+        "name": "Sophien Apotheke",
+        "href": "https://weed.de/apotheke/sophien-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Baden-Baden",
+            "item": "https://weed.de/cannabis-apotheke/baden-baden"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Sophien Apotheke",
+            "item": "https://weed.de/apotheke/sophien-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Sophien Apotheke",
+        "url": "https://weed.de/apotheke/sophien-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Sophienstraße 4",
+          "addressLocality": "Baden-Baden",
+          "postalCode": "76530",
+          "addressRegion": "Baden-Württemberg",
+          "addressCountry": "DE"
+        },
+        "telephone": "017648744111",
+        "email": "service@cannapharma-apo.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/baden-baden",
+      "text": "Cannabis Apotheken in Baden-Baden",
+      "title": "Alle Apotheken in Baden-Baden"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/bernhardus-apotheke",
+        "text": "Bernhardus Apotheke",
+        "title": "Bernhardus Apotheke in Baden-Baden"
+      },
+      {
+        "href": "/apotheke/healthworld-pharmacy",
+        "text": "HealthWorld Pharmacy",
+        "title": "HealthWorld Pharmacy in Baden-Baden"
+      },
+      {
+        "href": "/apotheke/florians-vital-apotheke",
+        "text": "Florians Vital Apotheke",
+        "title": "Florians Vital Apotheke in Esslingen am Neckar"
+      },
+      {
+        "href": "/apotheke/central-apotheke",
+        "text": "Cannabis-Champion",
+        "title": "Cannabis-Champion in Waiblingen"
+      },
+      {
+        "href": "/apotheke/karlchengras",
+        "text": "Karlchengras (Karl-Apotheke)",
+        "title": "Karlchengras (Karl-Apotheke) in Karlsruhe"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

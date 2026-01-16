@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "aeskulap-apotheke",
+    "name": "Aeskulap-Apotheke",
+    "street": "Breisacher Straße 52",
+    "zip": "79106",
+    "cityName": "Freiburg im Breisgau",
+    "state": "Baden-Württemberg",
+    "lat": 48.0033508,
+    "lng": 7.838567899999998,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://aeskulap.shop.leaftec.de/",
+    "phone": "0761273410",
+    "email": "info@aeskulap-apo.de",
+    "productCount": 9,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/68c00ebf7486a232a29082a5-02e6j6.jpg"
+  },
+  "city": {
+    "slug": "freiburg-im-breisgau",
+    "name": "Freiburg im Breisgau",
+    "pharmacyCount": 2
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "apotheke-am-berliner-tor",
+      "name": "Apotheke am Berliner Tor (Cannabis-Freiburg)",
+      "cityName": "Freiburg im Breisgau",
+      "productCount": 68,
+      "hasDelivery": true
+    },
+    {
+      "slug": "florians-vital-apotheke",
+      "name": "Florians Vital Apotheke",
+      "cityName": "Esslingen am Neckar",
+      "productCount": 248,
+      "hasDelivery": true
+    },
+    {
+      "slug": "central-apotheke",
+      "name": "Cannabis-Champion",
+      "cityName": "Waiblingen",
+      "productCount": 240,
+      "hasDelivery": true
+    },
+    {
+      "slug": "karlchengras",
+      "name": "Karlchengras (Karl-Apotheke)",
+      "cityName": "Karlsruhe",
+      "productCount": 188,
+      "hasDelivery": true
+    },
+    {
+      "slug": "idris-apotheke-oder-3leafs",
+      "name": "Idris Apotheke | 3Leafs",
+      "cityName": "Weinheim",
+      "productCount": 149,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Aeskulap-Apotheke - Cannabis Apotheke in Freiburg im Breisgau",
+      "description": "Aeskulap-Apotheke in Freiburg im Breisgau. 9 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/aeskulap-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Aeskulap-Apotheke - Cannabis Apotheke in Freiburg im Breisgau",
+        "description": "Aeskulap-Apotheke in Freiburg im Breisgau. 9 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/aeskulap-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/68c00ebf7486a232a29082a5-02e6j6.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Freiburg im Breisgau",
+        "href": "https://weed.de/cannabis-apotheke/freiburg-im-breisgau"
+      },
+      {
+        "name": "Aeskulap-Apotheke",
+        "href": "https://weed.de/apotheke/aeskulap-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Freiburg im Breisgau",
+            "item": "https://weed.de/cannabis-apotheke/freiburg-im-breisgau"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Aeskulap-Apotheke",
+            "item": "https://weed.de/apotheke/aeskulap-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Aeskulap-Apotheke",
+        "url": "https://weed.de/apotheke/aeskulap-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Breisacher Straße 52",
+          "addressLocality": "Freiburg im Breisgau",
+          "postalCode": "79106",
+          "addressRegion": "Baden-Württemberg",
+          "addressCountry": "DE"
+        },
+        "telephone": "0761273410",
+        "email": "info@aeskulap-apo.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/freiburg-im-breisgau",
+      "text": "Cannabis Apotheken in Freiburg im Breisgau",
+      "title": "Alle Apotheken in Freiburg im Breisgau"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/apotheke-am-berliner-tor",
+        "text": "Apotheke am Berliner Tor (Cannabis-Freiburg)",
+        "title": "Apotheke am Berliner Tor (Cannabis-Freiburg) in Freiburg im Breisgau"
+      },
+      {
+        "href": "/apotheke/florians-vital-apotheke",
+        "text": "Florians Vital Apotheke",
+        "title": "Florians Vital Apotheke in Esslingen am Neckar"
+      },
+      {
+        "href": "/apotheke/central-apotheke",
+        "text": "Cannabis-Champion",
+        "title": "Cannabis-Champion in Waiblingen"
+      },
+      {
+        "href": "/apotheke/karlchengras",
+        "text": "Karlchengras (Karl-Apotheke)",
+        "title": "Karlchengras (Karl-Apotheke) in Karlsruhe"
+      },
+      {
+        "href": "/apotheke/idris-apotheke-oder-3leafs",
+        "text": "Idris Apotheke | 3Leafs",
+        "title": "Idris Apotheke | 3Leafs in Weinheim"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

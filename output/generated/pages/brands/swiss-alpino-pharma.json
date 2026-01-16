@@ -1,0 +1,166 @@
+{
+  "brand": {
+    "slug": "swiss-alpino-pharma",
+    "name": "Swiss Alpino Pharma",
+    "productCount": 4
+  },
+  "products": [
+    {
+      "slug": "alpinolin-221",
+      "name": "Alpinolin 22/1",
+      "type": "flower",
+      "thcPercent": 21.3,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Strawberry Glue"
+    },
+    {
+      "slug": "alpinolin-201",
+      "name": "Alpinolin 20/1",
+      "type": "flower",
+      "thcPercent": 21,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "French Cookies"
+    },
+    {
+      "slug": "alpinolin-x-1010",
+      "name": "Alpinolin X 10/10",
+      "type": "extract",
+      "thcPercent": 1,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": null
+    },
+    {
+      "slug": "alpinolin-x-251",
+      "name": "ALPINOLIN X 25/1",
+      "type": "extract",
+      "thcPercent": 2.5,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": null
+    }
+  ],
+  "stats": {
+    "productCount": 4,
+    "inStockCount": 0,
+    "avgThc": 11.5,
+    "priceRange": null
+  },
+  "seo": {
+    "meta": {
+      "title": "Swiss Alpino Pharma Cannabis Produkte - 4 Produkte",
+      "description": "Swiss Alpino Pharma: 4 Cannabis Produkte. 0 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+      "canonical": "https://weed.de/brand/swiss-alpino-pharma",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Swiss Alpino Pharma Cannabis Produkte - 4 Produkte",
+        "description": "Swiss Alpino Pharma: 4 Cannabis Produkte. 0 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+        "url": "https://weed.de/brand/swiss-alpino-pharma",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Hersteller",
+        "href": "https://weed.de/brands"
+      },
+      {
+        "name": "Swiss Alpino Pharma",
+        "href": "https://weed.de/brand/swiss-alpino-pharma"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Hersteller",
+            "item": "https://weed.de/brands"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Swiss Alpino Pharma",
+            "item": "https://weed.de/brand/swiss-alpino-pharma"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Swiss Alpino Pharma Produkte",
+        "numberOfItems": 4,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/alpinolin-221",
+            "name": "Alpinolin 22/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/alpinolin-201",
+            "name": "Alpinolin 20/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/alpinolin-x-1010",
+            "name": "Alpinolin X 10/10"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/product/alpinolin-x-251",
+            "name": "ALPINOLIN X 25/1"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/alpinolin-221",
+        "text": "Alpinolin 22/1",
+        "title": "Alpinolin 22/1"
+      },
+      {
+        "href": "/product/alpinolin-201",
+        "text": "Alpinolin 20/1",
+        "title": "Alpinolin 20/1"
+      },
+      {
+        "href": "/product/alpinolin-x-1010",
+        "text": "Alpinolin X 10/10",
+        "title": "Alpinolin X 10/10"
+      },
+      {
+        "href": "/product/alpinolin-x-251",
+        "text": "ALPINOLIN X 25/1",
+        "title": "ALPINOLIN X 25/1"
+      }
+    ]
+  }
+}

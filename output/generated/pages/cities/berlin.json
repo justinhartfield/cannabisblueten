@@ -1,0 +1,558 @@
+{
+  "city": {
+    "slug": "berlin",
+    "name": "Berlin",
+    "state": "Berlin"
+  },
+  "stats": {
+    "pharmacyCount": 27,
+    "totalProducts": 636,
+    "hasDelivery": true
+  },
+  "pharmacies": [
+    {
+      "slug": "asavita",
+      "name": "Asavita",
+      "street": "Frankfurter Allee 241",
+      "zip": "10365",
+      "hasDelivery": true,
+      "hasPickup": false,
+      "productCount": 126,
+      "rating": 4.6,
+      "ratingCount": 14
+    },
+    {
+      "slug": "herbery",
+      "name": "Herbery Berlin",
+      "street": "Breite Straße 13",
+      "zip": "14199",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 91,
+      "rating": 3.7,
+      "ratingCount": 12
+    },
+    {
+      "slug": "preussen-apotheke-spandau",
+      "name": "Preussen Apotheke Spandau",
+      "street": "Carl-Schurz-Straße 29",
+      "zip": "13597",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 66,
+      "rating": 3.3,
+      "ratingCount": 4
+    },
+    {
+      "slug": "jiroo",
+      "name": "jiroo",
+      "street": "Mariendorfer Damm 165",
+      "zip": "12107",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 57,
+      "rating": 2.6,
+      "ratingCount": 5
+    },
+    {
+      "slug": "witzleben-apotheke-24-1",
+      "name": "Witzleben Apotheke 24",
+      "street": "Kaiserdamm 24",
+      "zip": "14057",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 48,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "canpi-cannabis-pilot",
+      "name": "Canpi - Cannabis Pilot",
+      "street": "Tempelhofer Damm 139",
+      "zip": "12099",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 44,
+      "rating": 4.3,
+      "ratingCount": 12
+    },
+    {
+      "slug": "hermanns-green",
+      "name": "Hermanns Green",
+      "street": "Hermannplatz 9",
+      "zip": "10967",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 34,
+      "rating": 5,
+      "ratingCount": 2
+    },
+    {
+      "slug": "sky-cannabis-wedding",
+      "name": "Sky Cannabis Wedding",
+      "street": "Müllerstraße 142",
+      "zip": "13353",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 32,
+      "rating": 5,
+      "ratingCount": 6
+    },
+    {
+      "slug": "sky-cannabis-kudamm",
+      "name": "Sky Cannabis Kudamm",
+      "street": "Kurfürstendamm 139",
+      "zip": "10711",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 26,
+      "rating": 3,
+      "ratingCount": 2
+    },
+    {
+      "slug": "sky-cannabis-kreuzberg",
+      "name": "Sky Cannabis Kreuzberg",
+      "street": "Bergmannstraße 5",
+      "zip": "10961",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 26,
+      "rating": 5,
+      "ratingCount": 3
+    },
+    {
+      "slug": "ranke-apotheke",
+      "name": "Kudamm-Botanics",
+      "street": "Joachimsthaler Straße 24",
+      "zip": "10719",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 19,
+      "rating": 4.3,
+      "ratingCount": 4
+    },
+    {
+      "slug": "curtius-apotheke",
+      "name": "Curtius-Apotheke",
+      "street": "Curtiusstraße 4",
+      "zip": "12205",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 19,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "cannabisapo-berlin",
+      "name": "Berlin Cannabis",
+      "street": "Reinickendorfer Straße 11-12",
+      "zip": "13347",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 16,
+      "rating": 4.6,
+      "ratingCount": 9
+    },
+    {
+      "slug": "brandenburg-apotheke-1",
+      "name": "Brandenburg Apotheke",
+      "street": "Brandenburgische Straße 37",
+      "zip": "10707",
+      "hasDelivery": false,
+      "hasPickup": true,
+      "productCount": 7,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "humboldt-apotheke",
+      "name": "Humboldt Apotheke",
+      "street": "Chausseestraße 7",
+      "zip": "10115",
+      "hasDelivery": false,
+      "hasPickup": true,
+      "productCount": 7,
+      "rating": 5,
+      "ratingCount": 1
+    },
+    {
+      "slug": "arminius-apotheke",
+      "name": "Arminius Apotheke",
+      "street": "Hermannstraße 221",
+      "zip": "12049",
+      "hasDelivery": false,
+      "hasPickup": true,
+      "productCount": 7,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "apotheke-zum-goldenen-anker",
+      "name": "Apotheke zum goldenen Anker",
+      "street": "Lenaustraße 19",
+      "zip": "12047",
+      "hasDelivery": false,
+      "hasPickup": true,
+      "productCount": 7,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "apotheke-am-rathaus-lichtenberg",
+      "name": "Apotheke am Rathaus Lichtenberg",
+      "street": "Möllendorffstraße 111",
+      "zip": "10367",
+      "hasDelivery": false,
+      "hasPickup": true,
+      "productCount": 4,
+      "rating": 5,
+      "ratingCount": 2
+    },
+    {
+      "slug": "test-apotheke-nora",
+      "name": "Test Apotheke Nora",
+      "street": "Charlottenstraße 21",
+      "zip": "10315",
+      "hasDelivery": false,
+      "hasPickup": false,
+      "productCount": 0,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "jhdgjg",
+      "name": "jhdgjg",
+      "street": "Berlin, Deutschland",
+      "zip": "",
+      "hasDelivery": false,
+      "hasPickup": false,
+      "productCount": 0,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "jasmin-apotheke",
+      "name": "Jasmin Apotheke",
+      "street": "Lortzingstraße 42",
+      "zip": "13355",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 0,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "my-medi-weed",
+      "name": "MyMediWeed | Burger Apotheke",
+      "street": "Bundesallee 92",
+      "zip": "12161",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 0,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "test-pharmacy-1",
+      "name": "test Pharmacy",
+      "street": "Stahlheimer Straße 29",
+      "zip": "10439",
+      "hasDelivery": true,
+      "hasPickup": false,
+      "productCount": 0,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "test-nora",
+      "name": "Test Nora",
+      "street": "Charlottenstraße 21",
+      "zip": "10315",
+      "hasDelivery": false,
+      "hasPickup": false,
+      "productCount": 0,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "finalized-apotheke",
+      "name": "Finalized Apotheke",
+      "street": "Pariser Straße 43",
+      "zip": "10707",
+      "hasDelivery": false,
+      "hasPickup": false,
+      "productCount": 0,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "cornelia-apotheke",
+      "name": "Cornelia Apotheke",
+      "street": "Konstanzer Straße 4",
+      "zip": "10707",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 0,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "hauptstadt-apotheke",
+      "name": "Hauptstadt Apotheke Jana Schreiber e.Kfr.",
+      "street": "Klosterstraße 34",
+      "zip": "13581",
+      "hasDelivery": false,
+      "hasPickup": false,
+      "productCount": 0,
+      "rating": 0,
+      "ratingCount": 0
+    }
+  ],
+  "nearbyCities": [],
+  "seo": {
+    "meta": {
+      "title": "Cannabis Apotheke Berlin - 27 Apotheken",
+      "description": "Cannabis Apotheken in Berlin. 27 Apotheken mit 636 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+      "canonical": "https://weed.de/cannabis-apotheke/berlin",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannabis Apotheke Berlin - 27 Apotheken",
+        "description": "Cannabis Apotheken in Berlin. 27 Apotheken mit 636 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+        "url": "https://weed.de/cannabis-apotheke/berlin",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Berlin",
+        "href": "https://weed.de/cannabis-apotheke/berlin"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Berlin",
+            "item": "https://weed.de/cannabis-apotheke/berlin"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Cannabis Apotheken in Berlin",
+        "numberOfItems": 27,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/apotheke/asavita",
+            "name": "Asavita"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/apotheke/herbery",
+            "name": "Herbery Berlin"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/apotheke/preussen-apotheke-spandau",
+            "name": "Preussen Apotheke Spandau"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/apotheke/jiroo",
+            "name": "jiroo"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "https://weed.de/apotheke/witzleben-apotheke-24-1",
+            "name": "Witzleben Apotheke 24"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "url": "https://weed.de/apotheke/canpi-cannabis-pilot",
+            "name": "Canpi - Cannabis Pilot"
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "url": "https://weed.de/apotheke/hermanns-green",
+            "name": "Hermanns Green"
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "url": "https://weed.de/apotheke/sky-cannabis-wedding",
+            "name": "Sky Cannabis Wedding"
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "url": "https://weed.de/apotheke/sky-cannabis-kudamm",
+            "name": "Sky Cannabis Kudamm"
+          },
+          {
+            "@type": "ListItem",
+            "position": 10,
+            "url": "https://weed.de/apotheke/sky-cannabis-kreuzberg",
+            "name": "Sky Cannabis Kreuzberg"
+          },
+          {
+            "@type": "ListItem",
+            "position": 11,
+            "url": "https://weed.de/apotheke/ranke-apotheke",
+            "name": "Kudamm-Botanics"
+          },
+          {
+            "@type": "ListItem",
+            "position": 12,
+            "url": "https://weed.de/apotheke/curtius-apotheke",
+            "name": "Curtius-Apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 13,
+            "url": "https://weed.de/apotheke/cannabisapo-berlin",
+            "name": "Berlin Cannabis"
+          },
+          {
+            "@type": "ListItem",
+            "position": 14,
+            "url": "https://weed.de/apotheke/brandenburg-apotheke-1",
+            "name": "Brandenburg Apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 15,
+            "url": "https://weed.de/apotheke/humboldt-apotheke",
+            "name": "Humboldt Apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 16,
+            "url": "https://weed.de/apotheke/arminius-apotheke",
+            "name": "Arminius Apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 17,
+            "url": "https://weed.de/apotheke/apotheke-zum-goldenen-anker",
+            "name": "Apotheke zum goldenen Anker"
+          },
+          {
+            "@type": "ListItem",
+            "position": 18,
+            "url": "https://weed.de/apotheke/apotheke-am-rathaus-lichtenberg",
+            "name": "Apotheke am Rathaus Lichtenberg"
+          },
+          {
+            "@type": "ListItem",
+            "position": 19,
+            "url": "https://weed.de/apotheke/test-apotheke-nora",
+            "name": "Test Apotheke Nora"
+          },
+          {
+            "@type": "ListItem",
+            "position": 20,
+            "url": "https://weed.de/apotheke/jhdgjg",
+            "name": "jhdgjg"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "pharmacies": [
+      {
+        "href": "/apotheke/asavita",
+        "text": "Asavita",
+        "title": "Asavita in Berlin"
+      },
+      {
+        "href": "/apotheke/herbery",
+        "text": "Herbery Berlin",
+        "title": "Herbery Berlin in Berlin"
+      },
+      {
+        "href": "/apotheke/preussen-apotheke-spandau",
+        "text": "Preussen Apotheke Spandau",
+        "title": "Preussen Apotheke Spandau in Berlin"
+      },
+      {
+        "href": "/apotheke/jiroo",
+        "text": "jiroo",
+        "title": "jiroo in Berlin"
+      },
+      {
+        "href": "/apotheke/witzleben-apotheke-24-1",
+        "text": "Witzleben Apotheke 24",
+        "title": "Witzleben Apotheke 24 in Berlin"
+      },
+      {
+        "href": "/apotheke/canpi-cannabis-pilot",
+        "text": "Canpi - Cannabis Pilot",
+        "title": "Canpi - Cannabis Pilot in Berlin"
+      },
+      {
+        "href": "/apotheke/hermanns-green",
+        "text": "Hermanns Green",
+        "title": "Hermanns Green in Berlin"
+      },
+      {
+        "href": "/apotheke/sky-cannabis-wedding",
+        "text": "Sky Cannabis Wedding",
+        "title": "Sky Cannabis Wedding in Berlin"
+      },
+      {
+        "href": "/apotheke/sky-cannabis-kudamm",
+        "text": "Sky Cannabis Kudamm",
+        "title": "Sky Cannabis Kudamm in Berlin"
+      },
+      {
+        "href": "/apotheke/sky-cannabis-kreuzberg",
+        "text": "Sky Cannabis Kreuzberg",
+        "title": "Sky Cannabis Kreuzberg in Berlin"
+      }
+    ],
+    "nearbyCities": []
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has 27 pharmacies"
+  }
+}

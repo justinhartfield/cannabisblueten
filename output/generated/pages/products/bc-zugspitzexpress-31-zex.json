@@ -1,0 +1,225 @@
+{
+  "product": {
+    "slug": "bc-zugspitzexpress-31-zex",
+    "name": "BC Zugspitzexpress 30/1 ZEX",
+    "type": "flower",
+    "genetics": "hybrid",
+    "thcPercent": 30,
+    "cbdPercent": 1,
+    "priceMin": 749,
+    "priceMax": 749,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": "https://weed.de/products/bc-zugspitzexpress-31-zex-34ea45.png"
+  },
+  "brand": {
+    "slug": "four-20-pharma",
+    "name": "Four 20 Pharma",
+    "productCount": 267
+  },
+  "strain": {
+    "slug": "frosted-gumbo",
+    "name": "Frosted Gumbo",
+    "geneticType": "hybrid",
+    "effects": [
+      "Creative",
+      "Hungry",
+      "Sleepy"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Creative",
+      "Hungry",
+      "Sleepy"
+    ],
+    "tastes": [
+      "Sweet",
+      "Vanilla",
+      "Fruity"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "tilray-thc-25-spotlight-porto-purps",
+      "name": "Tilray THC 25 Spotlight Porto Purps",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": 349,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc5cbd2",
+      "name": "Tilray Cannabisextrakt THC5:CBD20",
+      "brandName": "Tilray",
+      "thcPercent": 5,
+      "priceMin": 350,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc1cbd1",
+      "name": "Tilray Cannabisextrakt THC10:CBD10",
+      "brandName": "Tilray",
+      "thcPercent": 10,
+      "priceMin": 400,
+      "inStock": true
+    },
+    {
+      "slug": "42-evolution-31-ca-frg",
+      "name": "420 EVOLUTION 30/1 CA FRG",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 30,
+      "priceMin": 483,
+      "inStock": true
+    },
+    {
+      "slug": "42-evolution-271-ca-frg",
+      "name": "420 EVOLUTION 27/1 CA FRG",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 27,
+      "priceMin": 487,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-2",
+      "name": "Demecan Typ 2",
+      "brandName": "Demecan",
+      "thcPercent": 16,
+      "priceMin": 533,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "BC Zugspitzexpress 30/1 ZEX - Four 20 Pharma | ab 7,49 €",
+      "description": "BC Zugspitzexpress 30/1 ZEX von Four 20 Pharma. THC: 30%, CBD: 1%. Sorte: Frosted Gumbo. Preis ab 7,49 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/bc-zugspitzexpress-31-zex",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "BC Zugspitzexpress 30/1 ZEX - Four 20 Pharma | ab 7,49 €",
+        "description": "BC Zugspitzexpress 30/1 ZEX von Four 20 Pharma. THC: 30%, CBD: 1%. Sorte: Frosted Gumbo. Preis ab 7,49 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/bc-zugspitzexpress-31-zex",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/bc-zugspitzexpress-31-zex-34ea45.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Four 20 Pharma",
+        "href": "https://weed.de/brand/four-20-pharma"
+      },
+      {
+        "name": "BC Zugspitzexpress 30/1 ZEX",
+        "href": "https://weed.de/product/bc-zugspitzexpress-31-zex"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "BC Zugspitzexpress 30/1 ZEX",
+            "item": "https://weed.de/product/bc-zugspitzexpress-31-zex"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BC Zugspitzexpress 30/1 ZEX",
+        "brand": {
+          "@type": "Brand",
+          "name": "Four 20 Pharma"
+        },
+        "description": "THC: 30%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/frosted-gumbo",
+      "text": "Frosted Gumbo",
+      "title": "Frosted Gumbo Sorte"
+    },
+    "brand": {
+      "href": "/brand/four-20-pharma",
+      "text": "Four 20 Pharma",
+      "title": "Alle Four 20 Pharma Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/tilray-thc-25-spotlight-porto-purps",
+        "text": "Tilray THC 25 Spotlight Porto Purps",
+        "title": "Alternative: Tilray THC 25 Spotlight Porto Purps"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc5cbd2",
+        "text": "Tilray Cannabisextrakt THC5:CBD20",
+        "title": "Alternative: Tilray Cannabisextrakt THC5:CBD20"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc1cbd1",
+        "text": "Tilray Cannabisextrakt THC10:CBD10",
+        "title": "Alternative: Tilray Cannabisextrakt THC10:CBD10"
+      },
+      {
+        "href": "/product/42-evolution-31-ca-frg",
+        "text": "420 EVOLUTION 30/1 CA FRG",
+        "title": "Alternative: 420 EVOLUTION 30/1 CA FRG"
+      },
+      {
+        "href": "/product/42-evolution-271-ca-frg",
+        "text": "420 EVOLUTION 27/1 CA FRG",
+        "title": "Alternative: 420 EVOLUTION 27/1 CA FRG"
+      },
+      {
+        "href": "/product/demecan-typ-2",
+        "text": "Demecan Typ 2",
+        "title": "Alternative: Demecan Typ 2"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

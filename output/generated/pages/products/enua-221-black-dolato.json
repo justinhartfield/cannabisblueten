@@ -1,0 +1,235 @@
+{
+  "product": {
+    "slug": "enua-221-black-dolato",
+    "name": "Enua 22/1 Black Dolato",
+    "type": "flower",
+    "genetics": "hybrid_indica",
+    "thcPercent": 22,
+    "cbdPercent": 1,
+    "priceMin": 547,
+    "priceMax": 547,
+    "inStock": false,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "enua",
+    "name": "enua",
+    "productCount": 123
+  },
+  "strain": {
+    "slug": "black-dolato",
+    "name": "Black Dolato",
+    "geneticType": "hybrid",
+    "effects": [
+      "Euphoric",
+      "Energetic",
+      "Relaxed",
+      "Anxiety-reducing",
+      "Stress-relief",
+      "Pain-relief"
+    ],
+    "terpenes": [
+      "Nerolidol",
+      "D-Limonene",
+      "Beta-Caryophyllene",
+      "Beta-Myrcene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Euphoric",
+      "Energetic",
+      "Relaxed",
+      "Anxiety-reducing",
+      "Stress-relief",
+      "Pain-relief"
+    ],
+    "tastes": [
+      "Woody",
+      "Sweet",
+      "Pine",
+      "Berry",
+      "Tangy",
+      "Flowery"
+    ],
+    "terpenes": [
+      "Nerolidol",
+      "D-Limonene",
+      "Beta-Caryophyllene",
+      "Beta-Myrcene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "enua-251-cck-ca",
+      "name": "enua 25/1 CCK CA",
+      "brandName": "enua",
+      "thcPercent": 25.2,
+      "priceMin": 399,
+      "inStock": true
+    },
+    {
+      "slug": "enua-251-bdo-black-dolato",
+      "name": "enua 25/1 BDO (Black Dolato)",
+      "brandName": "enua",
+      "thcPercent": 25,
+      "priceMin": 427,
+      "inStock": true
+    },
+    {
+      "slug": "ceres-no-2",
+      "name": "Ceres No. 2",
+      "brandName": "Cantourage",
+      "thcPercent": 25,
+      "priceMin": 590,
+      "inStock": true
+    },
+    {
+      "slug": "420-evolution-271-ca-icc",
+      "name": "420 EVOLUTION 27/1 CA ICC",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 27,
+      "priceMin": 684,
+      "inStock": true
+    },
+    {
+      "slug": "420-natural-221-gg4",
+      "name": "420 Natural 22/1 GG4",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 22,
+      "priceMin": 723,
+      "inStock": true
+    },
+    {
+      "slug": "avaay-241-did",
+      "name": "AVAAY 24/1 DiD",
+      "brandName": "Avaay",
+      "thcPercent": 24,
+      "priceMin": 949,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Enua 22/1 Black Dolato - enua | ab 5,47 €",
+      "description": "Enua 22/1 Black Dolato von enua. THC: 22%, CBD: 1%. Sorte: Black Dolato. Preis ab 5,47 €. Preise vergleichen.",
+      "canonical": "https://weed.de/product/enua-221-black-dolato",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Enua 22/1 Black Dolato - enua | ab 5,47 €",
+        "description": "Enua 22/1 Black Dolato von enua. THC: 22%, CBD: 1%. Sorte: Black Dolato. Preis ab 5,47 €. Preise vergleichen.",
+        "url": "https://weed.de/product/enua-221-black-dolato",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "enua",
+        "href": "https://weed.de/brand/enua"
+      },
+      {
+        "name": "Enua 22/1 Black Dolato",
+        "href": "https://weed.de/product/enua-221-black-dolato"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Enua 22/1 Black Dolato",
+            "item": "https://weed.de/product/enua-221-black-dolato"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Enua 22/1 Black Dolato",
+        "brand": {
+          "@type": "Brand",
+          "name": "enua"
+        },
+        "description": "THC: 22%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/black-dolato",
+      "text": "Black Dolato",
+      "title": "Black Dolato Sorte"
+    },
+    "brand": {
+      "href": "/brand/enua",
+      "text": "enua",
+      "title": "Alle enua Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/enua-251-cck-ca",
+        "text": "enua 25/1 CCK CA",
+        "title": "Alternative: enua 25/1 CCK CA"
+      },
+      {
+        "href": "/product/enua-251-bdo-black-dolato",
+        "text": "enua 25/1 BDO (Black Dolato)",
+        "title": "Alternative: enua 25/1 BDO (Black Dolato)"
+      },
+      {
+        "href": "/product/ceres-no-2",
+        "text": "Ceres No. 2",
+        "title": "Alternative: Ceres No. 2"
+      },
+      {
+        "href": "/product/420-evolution-271-ca-icc",
+        "text": "420 EVOLUTION 27/1 CA ICC",
+        "title": "Alternative: 420 EVOLUTION 27/1 CA ICC"
+      },
+      {
+        "href": "/product/420-natural-221-gg4",
+        "text": "420 Natural 22/1 GG4",
+        "title": "Alternative: 420 Natural 22/1 GG4"
+      },
+      {
+        "href": "/product/avaay-241-did",
+        "text": "AVAAY 24/1 DiD",
+        "title": "Alternative: AVAAY 24/1 DiD"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has price data"
+  }
+}

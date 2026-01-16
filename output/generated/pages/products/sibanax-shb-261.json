@@ -1,0 +1,225 @@
+{
+  "product": {
+    "slug": "sibanax-shb-261",
+    "name": "Sibanax SHB 26/1",
+    "type": "flower",
+    "genetics": "hybrid_indica",
+    "thcPercent": 26,
+    "cbdPercent": 1,
+    "priceMin": 469,
+    "priceMax": 699,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Portugal",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "heyday",
+    "name": "Heyday",
+    "productCount": 33
+  },
+  "strain": {
+    "slug": "shiskaberry",
+    "name": "Shiskaberry",
+    "geneticType": "hybrid",
+    "effects": [
+      "Happy",
+      "Body-buzz",
+      "Relaxed",
+      "Calming"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Caryophyllene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Happy",
+      "Body-buzz",
+      "Relaxed",
+      "Calming"
+    ],
+    "tastes": [
+      "Earthy",
+      "Pungent",
+      "Berry",
+      "Spicy-Herbal"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Caryophyllene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "enua-251-cck-ca",
+      "name": "enua 25/1 CCK CA",
+      "brandName": "enua",
+      "thcPercent": 25.2,
+      "priceMin": 399,
+      "inStock": true
+    },
+    {
+      "slug": "grow-251-can",
+      "name": "GROW 25:1 CAN",
+      "brandName": "Grow group",
+      "thcPercent": 2.5,
+      "priceMin": 475,
+      "inStock": true
+    },
+    {
+      "slug": "grow-125-can",
+      "name": "GROW 1:25 CAN",
+      "brandName": "Grow group",
+      "thcPercent": 0.1,
+      "priceMin": 485,
+      "inStock": true
+    },
+    {
+      "slug": "grow-1015",
+      "name": "Grow 10:15",
+      "brandName": "Grow group",
+      "thcPercent": 1,
+      "priceMin": 485,
+      "inStock": true
+    },
+    {
+      "slug": "ceres-no-2",
+      "name": "Ceres No. 2",
+      "brandName": "Cantourage",
+      "thcPercent": 25,
+      "priceMin": 590,
+      "inStock": true
+    },
+    {
+      "slug": "sibanax-shb-281",
+      "name": "Sibanax SHB 28/1",
+      "brandName": "Heyday",
+      "thcPercent": 28,
+      "priceMin": 619,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Sibanax SHB 26/1 - Heyday | ab 4,69 €",
+      "description": "Sibanax SHB 26/1 von Heyday. THC: 26%, CBD: 1%. Sorte: Shiskaberry. Preis ab 4,69 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/sibanax-shb-261",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Sibanax SHB 26/1 - Heyday | ab 4,69 €",
+        "description": "Sibanax SHB 26/1 von Heyday. THC: 26%, CBD: 1%. Sorte: Shiskaberry. Preis ab 4,69 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/sibanax-shb-261",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Heyday",
+        "href": "https://weed.de/brand/heyday"
+      },
+      {
+        "name": "Sibanax SHB 26/1",
+        "href": "https://weed.de/product/sibanax-shb-261"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Sibanax SHB 26/1",
+            "item": "https://weed.de/product/sibanax-shb-261"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Sibanax SHB 26/1",
+        "brand": {
+          "@type": "Brand",
+          "name": "Heyday"
+        },
+        "description": "THC: 26%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/shiskaberry",
+      "text": "Shiskaberry",
+      "title": "Shiskaberry Sorte"
+    },
+    "brand": {
+      "href": "/brand/heyday",
+      "text": "Heyday",
+      "title": "Alle Heyday Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/enua-251-cck-ca",
+        "text": "enua 25/1 CCK CA",
+        "title": "Alternative: enua 25/1 CCK CA"
+      },
+      {
+        "href": "/product/grow-251-can",
+        "text": "GROW 25:1 CAN",
+        "title": "Alternative: GROW 25:1 CAN"
+      },
+      {
+        "href": "/product/grow-125-can",
+        "text": "GROW 1:25 CAN",
+        "title": "Alternative: GROW 1:25 CAN"
+      },
+      {
+        "href": "/product/grow-1015",
+        "text": "Grow 10:15",
+        "title": "Alternative: Grow 10:15"
+      },
+      {
+        "href": "/product/ceres-no-2",
+        "text": "Ceres No. 2",
+        "title": "Alternative: Ceres No. 2"
+      },
+      {
+        "href": "/product/sibanax-shb-281",
+        "text": "Sibanax SHB 28/1",
+        "title": "Alternative: Sibanax SHB 28/1"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

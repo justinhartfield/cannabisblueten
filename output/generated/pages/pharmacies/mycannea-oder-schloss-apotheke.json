@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "mycannea-oder-schloss-apotheke",
+    "name": "myCannea | Schloß APOTHEKE",
+    "street": "Pestalozzistraße 27",
+    "zip": "08062",
+    "cityName": "Zwickau",
+    "state": "Sachsen",
+    "lat": 50.6917438,
+    "lng": 12.4655673,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://mycannae.de",
+    "phone": "037578819840",
+    "email": "info@mycannea.de",
+    "productCount": 65,
+    "rating": 5,
+    "ratingCount": 2,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/681b193a54b872f07fb65bab-he8690.jpg"
+  },
+  "city": {
+    "slug": "zwickau",
+    "name": "Zwickau",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "gruenhorn-apotheke",
+      "name": "GRÜNHORN - Apotheke im P. C.",
+      "cityName": "Leipzig",
+      "productCount": 168,
+      "hasDelivery": true
+    },
+    {
+      "slug": "gruene-bluete",
+      "name": "Grüne Blüte",
+      "cityName": "Markkleeberg",
+      "productCount": 60,
+      "hasDelivery": true
+    },
+    {
+      "slug": "merkur-apotheke-schneeberg",
+      "name": "ErzCannabis - Merkur Apotheke Schneeberg",
+      "cityName": "Schneeberg",
+      "productCount": 50,
+      "hasDelivery": true
+    },
+    {
+      "slug": "medicalherbs-vital-apotheke-dresden",
+      "name": "medicalherbs.de - Vital Apotheke Dresden",
+      "cityName": "Dresden",
+      "productCount": 40,
+      "hasDelivery": true
+    },
+    {
+      "slug": "bethanien-apotheke-ek-abt-cansa",
+      "name": "Bethanien-Apotheke e.K. Abt. Cansa",
+      "cityName": "Chemnitz",
+      "productCount": 16,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "myCannea | Schloß APOTHEKE - Cannabis Apotheke in Zwickau",
+      "description": "myCannea | Schloß APOTHEKE in Zwickau. 65 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/mycannea-oder-schloss-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "myCannea | Schloß APOTHEKE - Cannabis Apotheke in Zwickau",
+        "description": "myCannea | Schloß APOTHEKE in Zwickau. 65 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/mycannea-oder-schloss-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/681b193a54b872f07fb65bab-he8690.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Zwickau",
+        "href": "https://weed.de/cannabis-apotheke/zwickau"
+      },
+      {
+        "name": "myCannea | Schloß APOTHEKE",
+        "href": "https://weed.de/apotheke/mycannea-oder-schloss-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Zwickau",
+            "item": "https://weed.de/cannabis-apotheke/zwickau"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "myCannea | Schloß APOTHEKE",
+            "item": "https://weed.de/apotheke/mycannea-oder-schloss-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "myCannea | Schloß APOTHEKE",
+        "url": "https://weed.de/apotheke/mycannea-oder-schloss-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Pestalozzistraße 27",
+          "addressLocality": "Zwickau",
+          "postalCode": "08062",
+          "addressRegion": "Sachsen",
+          "addressCountry": "DE"
+        },
+        "telephone": "037578819840",
+        "email": "info@mycannea.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/zwickau",
+      "text": "Cannabis Apotheken in Zwickau",
+      "title": "Alle Apotheken in Zwickau"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/gruenhorn-apotheke",
+        "text": "GRÜNHORN - Apotheke im P. C.",
+        "title": "GRÜNHORN - Apotheke im P. C. in Leipzig"
+      },
+      {
+        "href": "/apotheke/gruene-bluete",
+        "text": "Grüne Blüte",
+        "title": "Grüne Blüte in Markkleeberg"
+      },
+      {
+        "href": "/apotheke/merkur-apotheke-schneeberg",
+        "text": "ErzCannabis - Merkur Apotheke Schneeberg",
+        "title": "ErzCannabis - Merkur Apotheke Schneeberg in Schneeberg"
+      },
+      {
+        "href": "/apotheke/medicalherbs-vital-apotheke-dresden",
+        "text": "medicalherbs.de - Vital Apotheke Dresden",
+        "title": "medicalherbs.de - Vital Apotheke Dresden in Dresden"
+      },
+      {
+        "href": "/apotheke/bethanien-apotheke-ek-abt-cansa",
+        "text": "Bethanien-Apotheke e.K. Abt. Cansa",
+        "title": "Bethanien-Apotheke e.K. Abt. Cansa in Chemnitz"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

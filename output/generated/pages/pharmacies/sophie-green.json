@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "sophie-green",
+    "name": "Sophie Green",
+    "street": "Sophienplatz 25",
+    "zip": "49716",
+    "cityName": "Meppen",
+    "state": "Niedersachsen",
+    "lat": 52.6801651,
+    "lng": 7.2891467,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": null,
+    "phone": "+4959314987832",
+    "email": "info@sophie-green.de",
+    "productCount": 31,
+    "rating": 5,
+    "ratingCount": 1,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/676706fb43bf6ff4bd75891c-8f0hj0.jpg"
+  },
+  "city": {
+    "slug": "meppen",
+    "name": "Meppen",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "alle-farben-apotheke",
+      "name": "Alle Farben Apotheke",
+      "cityName": "Melle",
+      "productCount": 132,
+      "hasDelivery": true
+    },
+    {
+      "slug": "happy-cannamed",
+      "name": "Marien Apotheke",
+      "cityName": "Cloppenburg",
+      "productCount": 61,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannanord",
+      "name": "CannaNord",
+      "cityName": "Oldenburg",
+      "productCount": 55,
+      "hasDelivery": true
+    },
+    {
+      "slug": "easycannabis-easyapotheke-citylebenstedt",
+      "name": "EasyCannabis easyApotheke CityLebenstedt",
+      "cityName": "Salzgitter",
+      "productCount": 40,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-brome",
+      "name": "Apotheke Brome",
+      "cityName": "Brome",
+      "productCount": 31,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Sophie Green - Cannabis Apotheke in Meppen",
+      "description": "Sophie Green in Meppen. 31 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/sophie-green",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Sophie Green - Cannabis Apotheke in Meppen",
+        "description": "Sophie Green in Meppen. 31 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/sophie-green",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/676706fb43bf6ff4bd75891c-8f0hj0.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Meppen",
+        "href": "https://weed.de/cannabis-apotheke/meppen"
+      },
+      {
+        "name": "Sophie Green",
+        "href": "https://weed.de/apotheke/sophie-green"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Meppen",
+            "item": "https://weed.de/cannabis-apotheke/meppen"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Sophie Green",
+            "item": "https://weed.de/apotheke/sophie-green"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Sophie Green",
+        "url": "https://weed.de/apotheke/sophie-green",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Sophienplatz 25",
+          "addressLocality": "Meppen",
+          "postalCode": "49716",
+          "addressRegion": "Niedersachsen",
+          "addressCountry": "DE"
+        },
+        "telephone": "+4959314987832",
+        "email": "info@sophie-green.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/meppen",
+      "text": "Cannabis Apotheken in Meppen",
+      "title": "Alle Apotheken in Meppen"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/alle-farben-apotheke",
+        "text": "Alle Farben Apotheke",
+        "title": "Alle Farben Apotheke in Melle"
+      },
+      {
+        "href": "/apotheke/happy-cannamed",
+        "text": "Marien Apotheke",
+        "title": "Marien Apotheke in Cloppenburg"
+      },
+      {
+        "href": "/apotheke/cannanord",
+        "text": "CannaNord",
+        "title": "CannaNord in Oldenburg"
+      },
+      {
+        "href": "/apotheke/easycannabis-easyapotheke-citylebenstedt",
+        "text": "EasyCannabis easyApotheke CityLebenstedt",
+        "title": "EasyCannabis easyApotheke CityLebenstedt in Salzgitter"
+      },
+      {
+        "href": "/apotheke/apotheke-brome",
+        "text": "Apotheke Brome",
+        "title": "Apotheke Brome in Brome"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

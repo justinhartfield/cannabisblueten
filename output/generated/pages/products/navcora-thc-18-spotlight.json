@@ -1,0 +1,226 @@
+{
+  "product": {
+    "slug": "navcora-thc-18-spotlight",
+    "name": "Navcora THC 18 Spotlight",
+    "type": "flower",
+    "genetics": "indica",
+    "thcPercent": 18,
+    "cbdPercent": 1,
+    "priceMin": 399,
+    "priceMax": 399,
+    "inStock": false,
+    "pzn": [],
+    "originCountry": "Portugal",
+    "imageUrl": "https://weed.de/products/navcora-thc-18-spotlight-4f3ij6.png"
+  },
+  "brand": {
+    "slug": "tilray",
+    "name": "Tilray",
+    "productCount": 160
+  },
+  "strain": {
+    "slug": "sirius",
+    "name": "Sirius",
+    "geneticType": "hybrid",
+    "effects": [
+      "Giggly",
+      "Talkative",
+      "Energetic"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Caryophyllene",
+      "Pinene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Giggly",
+      "Talkative",
+      "Energetic"
+    ],
+    "tastes": [
+      "Earthy",
+      "Sour",
+      "Herbal"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Caryophyllene",
+      "Pinene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "aurora-thc-25-cannabis-extract",
+      "name": "Aurora THC 25 Cannabis Extract",
+      "brandName": "Cansativa",
+      "thcPercent": 2.5,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-thc-15-spotlight-porto-sirius",
+      "name": "Tilray THC 15 Spotlight Porto Sirius",
+      "brandName": "Tilray",
+      "thcPercent": 15,
+      "priceMin": 549,
+      "inStock": true
+    },
+    {
+      "slug": "adven-cannabisextrakt-thc-10-cbd-10",
+      "name": "Adven Cannabisextrakt THC 10 CBD 10",
+      "brandName": "Adven",
+      "thcPercent": 10,
+      "priceMin": 560,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-1",
+      "name": "Demecan Typ 1",
+      "brandName": "Demecan",
+      "thcPercent": 21,
+      "priceMin": 694,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-indica-forte-ej",
+      "name": "Cannamedical Indica forte EJ",
+      "brandName": "Cannamedical",
+      "thcPercent": 24,
+      "priceMin": 700,
+      "inStock": true
+    },
+    {
+      "slug": "251vayamed-cannabisextrakt",
+      "name": "25/1Vayamed Cannabisextrakt",
+      "brandName": "Vayamed",
+      "thcPercent": 2.5,
+      "priceMin": 824,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Navcora THC 18 Spotlight - Tilray | ab 3,99 €",
+      "description": "Navcora THC 18 Spotlight von Tilray. THC: 18%, CBD: 1%. Sorte: Sirius. Preis ab 3,99 €. Preise vergleichen.",
+      "canonical": "https://weed.de/product/navcora-thc-18-spotlight",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Navcora THC 18 Spotlight - Tilray | ab 3,99 €",
+        "description": "Navcora THC 18 Spotlight von Tilray. THC: 18%, CBD: 1%. Sorte: Sirius. Preis ab 3,99 €. Preise vergleichen.",
+        "url": "https://weed.de/product/navcora-thc-18-spotlight",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/navcora-thc-18-spotlight-4f3ij6.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Tilray",
+        "href": "https://weed.de/brand/tilray"
+      },
+      {
+        "name": "Navcora THC 18 Spotlight",
+        "href": "https://weed.de/product/navcora-thc-18-spotlight"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Navcora THC 18 Spotlight",
+            "item": "https://weed.de/product/navcora-thc-18-spotlight"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Navcora THC 18 Spotlight",
+        "brand": {
+          "@type": "Brand",
+          "name": "Tilray"
+        },
+        "gtin13": [],
+        "description": "THC: 18%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/sirius",
+      "text": "Sirius",
+      "title": "Sirius Sorte"
+    },
+    "brand": {
+      "href": "/brand/tilray",
+      "text": "Tilray",
+      "title": "Alle Tilray Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/aurora-thc-25-cannabis-extract",
+        "text": "Aurora THC 25 Cannabis Extract",
+        "title": "Alternative: Aurora THC 25 Cannabis Extract"
+      },
+      {
+        "href": "/product/tilray-thc-15-spotlight-porto-sirius",
+        "text": "Tilray THC 15 Spotlight Porto Sirius",
+        "title": "Alternative: Tilray THC 15 Spotlight Porto Sirius"
+      },
+      {
+        "href": "/product/adven-cannabisextrakt-thc-10-cbd-10",
+        "text": "Adven Cannabisextrakt THC 10 CBD 10",
+        "title": "Alternative: Adven Cannabisextrakt THC 10 CBD 10"
+      },
+      {
+        "href": "/product/demecan-typ-1",
+        "text": "Demecan Typ 1",
+        "title": "Alternative: Demecan Typ 1"
+      },
+      {
+        "href": "/product/cannamedical-indica-forte-ej",
+        "text": "Cannamedical Indica forte EJ",
+        "title": "Alternative: Cannamedical Indica forte EJ"
+      },
+      {
+        "href": "/product/251vayamed-cannabisextrakt",
+        "text": "25/1Vayamed Cannabisextrakt",
+        "title": "Alternative: 25/1Vayamed Cannabisextrakt"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has price data"
+  }
+}

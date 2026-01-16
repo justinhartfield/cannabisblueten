@@ -1,0 +1,254 @@
+{
+  "strain": {
+    "slug": "mandarin-kush",
+    "name": "Mandarin Kush",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [
+      "Euphoric",
+      "Creative",
+      "Sleepy"
+    ],
+    "tastes": [
+      "Citrus",
+      "Sweet",
+      "Fruity"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 3,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 375,
+      "max": 1400,
+      "formatted": {
+        "min": "3,75 €",
+        "max": "14,00 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "flighh-241-mk",
+      "name": "flighh 24/1 MK",
+      "brandName": "Heyday",
+      "thcPercent": 24,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "barrocas-pmk-261-premium",
+      "name": "Barrocas PMK 26/1 Premium",
+      "brandName": "Cansativa",
+      "thcPercent": 26,
+      "priceMin": 1400,
+      "inStock": true
+    },
+    {
+      "slug": "barrocas-pmk-241",
+      "name": "Barrocas PMK 24/1",
+      "brandName": "Cansativa",
+      "thcPercent": 24,
+      "priceMin": 375,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "atlantic-glue",
+      "name": "Atlantic Glue",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "tigerz-eye",
+      "name": "Tigerz Eye",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "dank-wafers",
+      "name": "Dank Wafers",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "alien-mints",
+      "name": "Alien Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "mellowz",
+      "name": "Mellowz",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Mandarin Kush (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Mandarin Kush: Euphoric, Creative, Sleepy. 3 Produkte verfügbar. ab 3,75 €.",
+      "canonical": "https://weed.de/strain/mandarin-kush",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Mandarin Kush (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Mandarin Kush: Euphoric, Creative, Sleepy. 3 Produkte verfügbar. ab 3,75 €.",
+        "url": "https://weed.de/strain/mandarin-kush",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Mandarin Kush",
+        "href": "https://weed.de/strain/mandarin-kush"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Mandarin Kush",
+            "item": "https://weed.de/strain/mandarin-kush"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Mandarin Kush Produkte",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/flighh-241-mk",
+            "name": "flighh 24/1 MK"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/barrocas-pmk-261-premium",
+            "name": "Barrocas PMK 26/1 Premium"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/barrocas-pmk-241",
+            "name": "Barrocas PMK 24/1"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/flighh-241-mk",
+        "text": "flighh 24/1 MK",
+        "title": "flighh 24/1 MK von Heyday"
+      },
+      {
+        "href": "/product/barrocas-pmk-261-premium",
+        "text": "Barrocas PMK 26/1 Premium",
+        "title": "Barrocas PMK 26/1 Premium von Cansativa"
+      },
+      {
+        "href": "/product/barrocas-pmk-241",
+        "text": "Barrocas PMK 24/1",
+        "title": "Barrocas PMK 24/1 von Cansativa"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/atlantic-glue",
+        "text": "Atlantic Glue",
+        "title": "Atlantic Glue - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/tigerz-eye",
+        "text": "Tigerz Eye",
+        "title": "Tigerz Eye - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/dank-wafers",
+        "text": "Dank Wafers",
+        "title": "Dank Wafers - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/alien-mints",
+        "text": "Alien Mints",
+        "title": "Alien Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/mellowz",
+        "text": "Mellowz",
+        "title": "Mellowz - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

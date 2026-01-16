@@ -1,0 +1,232 @@
+{
+  "strain": {
+    "slug": "mac-herer",
+    "name": "Mac Herer",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Activating",
+      "Clear",
+      "Relaxed",
+      "Euphoric",
+      "Creative",
+      "Stress-relief",
+      "Headache",
+      "Calming"
+    ],
+    "tastes": [
+      "Fresh",
+      "Sweet",
+      "Tangy",
+      "Vanilla",
+      "Pine",
+      "Citrus",
+      "Diesel",
+      "Fruity"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Limonene",
+      "Myrcene",
+      "Terpinolene"
+    ],
+    "description": "Mac Herer ist eine ausgewogene Hybridsorte, die aus der Kreuzung zweier Cannabis-Legenden entstanden ist: MAC 1 (Miracle Alien Cookies) und Jack Herer. Mit einem THC-Gehalt von typischerweise 20 % und einem CBD-Wert von 1 % liefert sie kraftvolle Effekte, die kreative Energie mit körperlicher Ausgeglichenheit verbinden. \nIhr komplexes Geschmacksprofil ist frisch und süßlich-würzig, geprägt von einer Kombination aus Zitrus, Kiefer und cremiger Vanille, untermalt von leichten Dieselnoten und einem kuchigen Abgang. Das Terpenprofil, das von Terpinolen, Limonen, Caryophyllen und Myrcen dominiert wird, unterstreicht das Aroma mit energetisierender Frische, fruchtiger Süße und entspannender Tiefe. \n\nDie Wirkung beginnt mit einem klaren, geistig aktivierenden Effekt, der Fokus, Kreativität und Euphorie fördert. Im weiteren Verlauf entwickelt sich eine angenehme körperliche Entspannung, die jedoch funktional bleibt und nicht sofort ermüdet, was die Sorte ideal für den Tagesgebrauch macht. Mac Herer ist ideal zur Linderung von Stress, ADHS, Depressionen und Migräne. Zusammengefasst ist Mac Herer eine Sorte für alle, die ein komplexes Zitrus-Kiefer-Aroma mit einem potenten, fokussierenden und ausgeglichenen High suchen.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 420,
+      "max": 695,
+      "formatted": {
+        "min": "4,20 €",
+        "max": "6,95 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "gestion-cannabec-mac-herer",
+      "name": "Gestion Cannabec Mac Herer",
+      "brandName": "Cantourage",
+      "thcPercent": 20,
+      "priceMin": 420,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "gmo-tropical-gelato",
+      "name": "GMO Tropical Gelato",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "lemon-fizz",
+      "name": "Lemon Fizz",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "lemon-kush",
+      "name": "Lemon Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "starhaze-og",
+      "name": "StarHaze OG",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "ak-2.0",
+      "name": "AK 2.0",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Mac Herer (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Mac Herer: Activating, Clear, Relaxed. 1 Produkte verfügbar. ab 4,20 €.",
+      "canonical": "https://weed.de/strain/mac-herer",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Mac Herer (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Mac Herer: Activating, Clear, Relaxed. 1 Produkte verfügbar. ab 4,20 €.",
+        "url": "https://weed.de/strain/mac-herer",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Mac Herer",
+        "href": "https://weed.de/strain/mac-herer"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Mac Herer",
+            "item": "https://weed.de/strain/mac-herer"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Mac Herer Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/gestion-cannabec-mac-herer",
+            "name": "Gestion Cannabec Mac Herer"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/gestion-cannabec-mac-herer",
+        "text": "Gestion Cannabec Mac Herer",
+        "title": "Gestion Cannabec Mac Herer von Cantourage"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/gmo-tropical-gelato",
+        "text": "GMO Tropical Gelato",
+        "title": "GMO Tropical Gelato - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/lemon-fizz",
+        "text": "Lemon Fizz",
+        "title": "Lemon Fizz - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/lemon-kush",
+        "text": "Lemon Kush",
+        "title": "Lemon Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/starhaze-og",
+        "text": "StarHaze OG",
+        "title": "StarHaze OG - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/ak-2.0",
+        "text": "AK 2.0",
+        "title": "AK 2.0 - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/terpinolene",
+        "text": "Terpinolene",
+        "title": "Terpinolene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

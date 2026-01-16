@@ -1,0 +1,253 @@
+{
+  "city": {
+    "slug": "dortmund",
+    "name": "Dortmund",
+    "state": "Nordrhein-Westfalen"
+  },
+  "stats": {
+    "pharmacyCount": 5,
+    "totalProducts": 118,
+    "hasDelivery": true
+  },
+  "pharmacies": [
+    {
+      "slug": "linden-apotheke",
+      "name": "KrautKurier (Linden Apotheke)",
+      "street": "Kirchlinde, Dortmund, Deutschland",
+      "zip": "44379",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 56,
+      "rating": 3.4,
+      "ratingCount": 5
+    },
+    {
+      "slug": "higreen-stern-apotheke",
+      "name": "Stern Apotheke - higreen!",
+      "street": "Heimbrügge 3",
+      "zip": "44359",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 38,
+      "rating": 3,
+      "ratingCount": 2
+    },
+    {
+      "slug": "koernebach-apotheke",
+      "name": "Körnebach Apotheke",
+      "street": "Berliner Straße 31",
+      "zip": "44143",
+      "hasDelivery": false,
+      "hasPickup": true,
+      "productCount": 13,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "baeren-apotheke-2",
+      "name": "Bären Apotheke",
+      "street": "Saarlandstraße 84-86",
+      "zip": "44139",
+      "hasDelivery": false,
+      "hasPickup": true,
+      "productCount": 10,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "higreen-apotheke-am-phoenixsee",
+      "name": "higreen! - Apotheke am Phoenixsee",
+      "street": "Dortmund, Deutschland",
+      "zip": "44",
+      "hasDelivery": false,
+      "hasPickup": true,
+      "productCount": 1,
+      "rating": 0,
+      "ratingCount": 0
+    }
+  ],
+  "nearbyCities": [
+    {
+      "slug": "duesseldorf",
+      "name": "Düsseldorf",
+      "pharmacyCount": 9
+    },
+    {
+      "slug": "koeln",
+      "name": "Köln",
+      "pharmacyCount": 7
+    },
+    {
+      "slug": "bonn",
+      "name": "Bonn",
+      "pharmacyCount": 6
+    },
+    {
+      "slug": "muenster",
+      "name": "Münster",
+      "pharmacyCount": 6
+    },
+    {
+      "slug": "paderborn",
+      "name": "Paderborn",
+      "pharmacyCount": 4
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannabis Apotheke Dortmund - 5 Apotheken",
+      "description": "Cannabis Apotheken in Dortmund. 5 Apotheken mit 118 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+      "canonical": "https://weed.de/cannabis-apotheke/dortmund",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannabis Apotheke Dortmund - 5 Apotheken",
+        "description": "Cannabis Apotheken in Dortmund. 5 Apotheken mit 118 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+        "url": "https://weed.de/cannabis-apotheke/dortmund",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Dortmund",
+        "href": "https://weed.de/cannabis-apotheke/dortmund"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Dortmund",
+            "item": "https://weed.de/cannabis-apotheke/dortmund"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Cannabis Apotheken in Dortmund",
+        "numberOfItems": 5,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/apotheke/linden-apotheke",
+            "name": "KrautKurier (Linden Apotheke)"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/apotheke/higreen-stern-apotheke",
+            "name": "Stern Apotheke - higreen!"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/apotheke/koernebach-apotheke",
+            "name": "Körnebach Apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/apotheke/baeren-apotheke-2",
+            "name": "Bären Apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "https://weed.de/apotheke/higreen-apotheke-am-phoenixsee",
+            "name": "higreen! - Apotheke am Phoenixsee"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "pharmacies": [
+      {
+        "href": "/apotheke/linden-apotheke",
+        "text": "KrautKurier (Linden Apotheke)",
+        "title": "KrautKurier (Linden Apotheke) in Dortmund"
+      },
+      {
+        "href": "/apotheke/higreen-stern-apotheke",
+        "text": "Stern Apotheke - higreen!",
+        "title": "Stern Apotheke - higreen! in Dortmund"
+      },
+      {
+        "href": "/apotheke/koernebach-apotheke",
+        "text": "Körnebach Apotheke",
+        "title": "Körnebach Apotheke in Dortmund"
+      },
+      {
+        "href": "/apotheke/baeren-apotheke-2",
+        "text": "Bären Apotheke",
+        "title": "Bären Apotheke in Dortmund"
+      },
+      {
+        "href": "/apotheke/higreen-apotheke-am-phoenixsee",
+        "text": "higreen! - Apotheke am Phoenixsee",
+        "title": "higreen! - Apotheke am Phoenixsee in Dortmund"
+      }
+    ],
+    "nearbyCities": [
+      {
+        "href": "/cannabis-apotheke/duesseldorf",
+        "text": "Cannabis Apotheke Düsseldorf",
+        "title": "9 Apotheken in Düsseldorf"
+      },
+      {
+        "href": "/cannabis-apotheke/koeln",
+        "text": "Cannabis Apotheke Köln",
+        "title": "7 Apotheken in Köln"
+      },
+      {
+        "href": "/cannabis-apotheke/bonn",
+        "text": "Cannabis Apotheke Bonn",
+        "title": "6 Apotheken in Bonn"
+      },
+      {
+        "href": "/cannabis-apotheke/muenster",
+        "text": "Cannabis Apotheke Münster",
+        "title": "6 Apotheken in Münster"
+      },
+      {
+        "href": "/cannabis-apotheke/paderborn",
+        "text": "Cannabis Apotheke Paderborn",
+        "title": "4 Apotheken in Paderborn"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has 5 pharmacies"
+  }
+}

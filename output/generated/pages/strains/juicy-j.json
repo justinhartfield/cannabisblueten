@@ -1,0 +1,233 @@
+{
+  "strain": {
+    "slug": "juicy-j",
+    "name": "Juicy J",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Euphoric",
+      "Mood-lifting",
+      "Creative",
+      "Happy",
+      "Relaxed",
+      "Sleepy",
+      "Stress-relief",
+      "Headache",
+      "Calming"
+    ],
+    "tastes": [
+      "Citrus",
+      "Sweet",
+      "Creamy",
+      "Earthy",
+      "Gassy",
+      "Fruity",
+      "Pepper",
+      "Vanilla"
+    ],
+    "terpenes": [
+      "Beta-Caryophyllene",
+      "Limonene",
+      "Farnesene",
+      "Linalool"
+    ],
+    "description": "Juicy J (auch bekannt als Juicee J) ist eine Indica-dominante Hybridsorte, die von Seed Junky Genetics aus der hochkarätigen Kreuzung von Cap Junky (Alien Cookies x Kush Mints) und Jealousy (Gelato 41 x Sherb Bx) entwickelt wurde. Mit einem THC-Gehalt von typischerweise 25 % und einem CBD-Wert von 1 % liefert sie potente Effekte, die mentale Euphorie mit tiefer körperlicher Entspannung verbinden. \n\nIhr reichhaltiges Geschmacksprofil ist geprägt von süßen Zitrusfrüchten und cremigen Akzenten, die durch erdige, würzige und leicht gassige Noten untermalt werden. Das Terpenprofil, das von Beta-Caryophyllen, Limonen, Farnesen und Linalool dominiert wird, unterstreicht das fruchtige Aroma mit pfeffriger Schärfe und einer beruhigenden Vanille-Nuance. \n\nDie Wirkung beginnt euphorisch und stimmungsaufhellend, fördert Kreativität und Glück, bevor sie in eine tiefe körperliche Entspannung übergeht, die bei höheren Dosen auch schläfrig machen kann. Juicy J ist ideal zur Linderung von Stress, Migräne, Übelkeit und Schlafstörungen, da sie den Geist beruhigt und den Körper entlastet. Zusammengefasst ist Juicy J eine Sorte für alle, die ein komplexes, süß-cremiges Fruchtaroma mit einem potenten, ausgewogenen und vielseitigen High suchen.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 579,
+      "max": 799,
+      "formatted": {
+        "min": "5,79 €",
+        "max": "7,99 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "organic-sweetgrass-jj-251",
+      "name": "Organic Sweetgrass JJ 25/1",
+      "brandName": "Cantourage",
+      "thcPercent": 25,
+      "priceMin": 579,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "platinum-gushers",
+      "name": "Platinum Gushers",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "warp-drive",
+      "name": "Warp Drive",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "tigerz-eye",
+      "name": "Tigerz Eye",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "do-si-dos",
+      "name": "Do-Si-Dos",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "frosted-cookies",
+      "name": "Frosted Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Juicy J (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Juicy J: Euphoric, Mood-lifting, Creative. 1 Produkte verfügbar. ab 5,79 €.",
+      "canonical": "https://weed.de/strain/juicy-j",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Juicy J (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Juicy J: Euphoric, Mood-lifting, Creative. 1 Produkte verfügbar. ab 5,79 €.",
+        "url": "https://weed.de/strain/juicy-j",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Juicy J",
+        "href": "https://weed.de/strain/juicy-j"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Juicy J",
+            "item": "https://weed.de/strain/juicy-j"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Juicy J Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/organic-sweetgrass-jj-251",
+            "name": "Organic Sweetgrass JJ 25/1"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/organic-sweetgrass-jj-251",
+        "text": "Organic Sweetgrass JJ 25/1",
+        "title": "Organic Sweetgrass JJ 25/1 von Cantourage"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/platinum-gushers",
+        "text": "Platinum Gushers",
+        "title": "Platinum Gushers - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/warp-drive",
+        "text": "Warp Drive",
+        "title": "Warp Drive - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/tigerz-eye",
+        "text": "Tigerz Eye",
+        "title": "Tigerz Eye - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/do-si-dos",
+        "text": "Do-Si-Dos",
+        "title": "Do-Si-Dos - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/frosted-cookies",
+        "text": "Frosted Cookies",
+        "title": "Frosted Cookies - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/farnesene",
+        "text": "Farnesene",
+        "title": "Farnesene Terpen"
+      },
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

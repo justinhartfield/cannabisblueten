@@ -1,0 +1,221 @@
+{
+  "strain": {
+    "slug": "moonjo",
+    "name": "Moonjo",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Body-buzz",
+      "Relaxed",
+      "Stress-relief",
+      "Pain-relief",
+      "Hungry"
+    ],
+    "tastes": [
+      "Sweet",
+      "Grape",
+      "Spicy",
+      "Tangy",
+      "Earthy",
+      "Citrus"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Limonene",
+      "Myrcene"
+    ],
+    "description": "Moonjo ist ein Indica-dominanter Hybrid, entstanden aus der gezielten Kreuzung von Troubled Grape und BlkMrrr mit Ruderalis-Genetik. Mit einem THC-Gehalt von 24 % und einem CBD-Gehalt von 1 % liefert sie eine ausgewogene, aber deutlich körperbetonte Wirkung.\n\nDas Terpenprofil ist geprägt von einer harmonischen Mischung aus süßen Traubenaromen und erdigen, leicht scharfen Noten. Die Präsenz von Myrcen, Caryophyllen und Limonen ist typisch und untermalt den Geschmack mit erdigen, würzigen und zitrusartigen Nuancen.\n\nDie Wirkung zeichnet sich aus durch eine sanfte Euphorie und eine muskelentspannende Körperwirkung, die zu einem klaren, fokussierten Kopfhigh führt. Moonjo ist somit eine besonders interessante Wahl zur Linderung von chronischen Schmerzen, Stress und zur Appetitanregung.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 328,
+      "max": 328,
+      "formatted": {
+        "min": "3,28 €",
+        "max": "3,28 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "remexian-241-ssf-mnj",
+      "name": "Remexian 24/1 SSF MNJ",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 24,
+      "priceMin": 328,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "gush-mints",
+      "name": "Gush Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "monster-bruce-banner",
+      "name": "Monster Bruce Banner",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "platinum-pave",
+      "name": "Platinum Pave",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "auto-grape-ape-f1",
+      "name": "Auto Grape Ape F1",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "mango-mints",
+      "name": "Mango Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Moonjo (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Moonjo: Body-buzz, Relaxed, Stress-relief. 1 Produkte verfügbar. ab 3,28 €.",
+      "canonical": "https://weed.de/strain/moonjo",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Moonjo (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Moonjo: Body-buzz, Relaxed, Stress-relief. 1 Produkte verfügbar. ab 3,28 €.",
+        "url": "https://weed.de/strain/moonjo",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Moonjo",
+        "href": "https://weed.de/strain/moonjo"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Moonjo",
+            "item": "https://weed.de/strain/moonjo"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Moonjo Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/remexian-241-ssf-mnj",
+            "name": "Remexian 24/1 SSF MNJ"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/remexian-241-ssf-mnj",
+        "text": "Remexian 24/1 SSF MNJ",
+        "title": "Remexian 24/1 SSF MNJ von Remexian Pharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/gush-mints",
+        "text": "Gush Mints",
+        "title": "Gush Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/monster-bruce-banner",
+        "text": "Monster Bruce Banner",
+        "title": "Monster Bruce Banner - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/platinum-pave",
+        "text": "Platinum Pave",
+        "title": "Platinum Pave - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/auto-grape-ape-f1",
+        "text": "Auto Grape Ape F1",
+        "title": "Auto Grape Ape F1 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/mango-mints",
+        "text": "Mango Mints",
+        "title": "Mango Mints - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

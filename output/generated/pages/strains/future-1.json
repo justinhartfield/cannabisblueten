@@ -1,0 +1,183 @@
+{
+  "strain": {
+    "slug": "future-1",
+    "name": "Future #1",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Euphoric",
+      "Uplifted",
+      "Creative",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Sweet",
+      "Fruity",
+      "Pineapple",
+      "Mango",
+      "Citrus"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Nerolidol"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 0,
+    "pharmacyCount": 0,
+    "priceRange": null
+  },
+  "products": [],
+  "similarStrains": [
+    {
+      "slug": "mac-driver",
+      "name": "Mac Driver",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "black-kush",
+      "name": "Black Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "chemdawg",
+      "name": "Chemdawg",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "critical-orange-punch",
+      "name": "Critical Orange Punch",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "auto-mac-1",
+      "name": "Auto Mac #1",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Future #1 (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Future #1: Euphoric, Uplifted, Creative.",
+      "canonical": "https://weed.de/strain/future-1",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Future #1 (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Future #1: Euphoric, Uplifted, Creative.",
+        "url": "https://weed.de/strain/future-1",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Future #1",
+        "href": "https://weed.de/strain/future-1"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Future #1",
+            "item": "https://weed.de/strain/future-1"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [],
+    "similarStrains": [
+      {
+        "href": "/strain/mac-driver",
+        "text": "Mac Driver",
+        "title": "Mac Driver - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/black-kush",
+        "text": "Black Kush",
+        "title": "Black Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/chemdawg",
+        "text": "Chemdawg",
+        "title": "Chemdawg - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/critical-orange-punch",
+        "text": "Critical Orange Punch",
+        "title": "Critical Orange Punch - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/auto-mac-1",
+        "text": "Auto Mac #1",
+        "title": "Auto Mac #1 - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/nerolidol",
+        "text": "Nerolidol",
+        "title": "Nerolidol Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has data and related content"
+  }
+}

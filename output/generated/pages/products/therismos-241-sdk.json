@@ -1,0 +1,238 @@
+{
+  "product": {
+    "slug": "therismos-241-sdk",
+    "name": "Therismos 24/1 SDK",
+    "type": "flower",
+    "genetics": "indica",
+    "thcPercent": 24,
+    "cbdPercent": 1,
+    "priceMin": 955,
+    "priceMax": 955,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "therismos",
+    "name": "Therismos",
+    "productCount": 64
+  },
+  "strain": {
+    "slug": "sensi-double-kush",
+    "name": "Sensi Double Kush",
+    "geneticType": "hybrid",
+    "effects": [
+      "Calming",
+      "Relaxed",
+      "Sleepy",
+      "Pain-relief",
+      "Happy",
+      "Stress-relief"
+    ],
+    "terpenes": [
+      "Trans-Nerolidol",
+      "D-Limonene",
+      "Beta-Caryophyllene",
+      "Beta-Myrcene",
+      "Linalool"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Calming",
+      "Relaxed",
+      "Sleepy",
+      "Pain-relief",
+      "Happy",
+      "Stress-relief"
+    ],
+    "tastes": [
+      "Earthy",
+      "Flowery",
+      "Tangy",
+      "Pine",
+      "Mint",
+      "Woody",
+      "Citrus"
+    ],
+    "terpenes": [
+      "Trans-Nerolidol",
+      "D-Limonene",
+      "Beta-Caryophyllene",
+      "Beta-Myrcene",
+      "Linalool"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "aurora-thc-25-cannabis-extract",
+      "name": "Aurora THC 25 Cannabis Extract",
+      "brandName": "Cansativa",
+      "thcPercent": 2.5,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "adven-cannabisextrakt-thc-20",
+      "name": "Adven Cannabisextrakt THC 20",
+      "brandName": "Adven",
+      "thcPercent": 2,
+      "priceMin": 476,
+      "inStock": true
+    },
+    {
+      "slug": "wellford-aquaponic-241-sdk",
+      "name": "Wellford Aquaponic 24/1 SDK",
+      "brandName": "Therismos",
+      "thcPercent": 24,
+      "priceMin": 495,
+      "inStock": true
+    },
+    {
+      "slug": "adven-cannabisextrakt-thc-10-cbd-10",
+      "name": "Adven Cannabisextrakt THC 10 CBD 10",
+      "brandName": "Adven",
+      "thcPercent": 10,
+      "priceMin": 560,
+      "inStock": true
+    },
+    {
+      "slug": "wellford-aquaponic-211-sdk",
+      "name": "Wellford Aquaponic 21/1 SDK",
+      "brandName": "Therismos",
+      "thcPercent": 21,
+      "priceMin": 649,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-1",
+      "name": "Demecan Typ 1",
+      "brandName": "Demecan",
+      "thcPercent": 21,
+      "priceMin": 694,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Therismos 24/1 SDK | ab 9,55 €",
+      "description": "Therismos 24/1 SDK von Therismos. THC: 24%, CBD: 1%. Sorte: Sensi Double Kush. Preis ab 9,55 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/therismos-241-sdk",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Therismos 24/1 SDK | ab 9,55 €",
+        "description": "Therismos 24/1 SDK von Therismos. THC: 24%, CBD: 1%. Sorte: Sensi Double Kush. Preis ab 9,55 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/therismos-241-sdk",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Therismos",
+        "href": "https://weed.de/brand/therismos"
+      },
+      {
+        "name": "Therismos 24/1 SDK",
+        "href": "https://weed.de/product/therismos-241-sdk"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Therismos 24/1 SDK",
+            "item": "https://weed.de/product/therismos-241-sdk"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Therismos 24/1 SDK",
+        "brand": {
+          "@type": "Brand",
+          "name": "Therismos"
+        },
+        "description": "THC: 24%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/sensi-double-kush",
+      "text": "Sensi Double Kush",
+      "title": "Sensi Double Kush Sorte"
+    },
+    "brand": {
+      "href": "/brand/therismos",
+      "text": "Therismos",
+      "title": "Alle Therismos Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/aurora-thc-25-cannabis-extract",
+        "text": "Aurora THC 25 Cannabis Extract",
+        "title": "Alternative: Aurora THC 25 Cannabis Extract"
+      },
+      {
+        "href": "/product/adven-cannabisextrakt-thc-20",
+        "text": "Adven Cannabisextrakt THC 20",
+        "title": "Alternative: Adven Cannabisextrakt THC 20"
+      },
+      {
+        "href": "/product/wellford-aquaponic-241-sdk",
+        "text": "Wellford Aquaponic 24/1 SDK",
+        "title": "Alternative: Wellford Aquaponic 24/1 SDK"
+      },
+      {
+        "href": "/product/adven-cannabisextrakt-thc-10-cbd-10",
+        "text": "Adven Cannabisextrakt THC 10 CBD 10",
+        "title": "Alternative: Adven Cannabisextrakt THC 10 CBD 10"
+      },
+      {
+        "href": "/product/wellford-aquaponic-211-sdk",
+        "text": "Wellford Aquaponic 21/1 SDK",
+        "title": "Alternative: Wellford Aquaponic 21/1 SDK"
+      },
+      {
+        "href": "/product/demecan-typ-1",
+        "text": "Demecan Typ 1",
+        "title": "Alternative: Demecan Typ 1"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

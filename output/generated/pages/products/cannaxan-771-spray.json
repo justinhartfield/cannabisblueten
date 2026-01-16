@@ -1,0 +1,224 @@
+{
+  "product": {
+    "slug": "cannaxan-771-spray",
+    "name": "Cannaxan 771 Spray",
+    "type": "extract",
+    "genetics": "sativa",
+    "thcPercent": 6.7,
+    "cbdPercent": 0.1,
+    "priceMin": 1443,
+    "priceMax": 1500,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": null,
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "cannaxan",
+    "name": "CannaXan",
+    "productCount": 1
+  },
+  "strain": {
+    "slug": "jack-herer",
+    "name": "Jack Herer",
+    "geneticType": "hybrid",
+    "effects": [
+      "Energetic",
+      "Creative",
+      "Uplifted"
+    ],
+    "terpenes": [
+      "Terpinolene",
+      "Caryophyllene",
+      "Pinene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Energetic",
+      "Creative",
+      "Uplifted"
+    ],
+    "tastes": [
+      "Pine",
+      "Spicy-Herbal",
+      "Woody"
+    ],
+    "terpenes": [
+      "Terpinolene",
+      "Caryophyllene",
+      "Pinene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "aurora-typ-1",
+      "name": "Aurora Typ 1",
+      "brandName": "Aurora",
+      "thcPercent": 19,
+      "priceMin": 479,
+      "inStock": true
+    },
+    {
+      "slug": "tweed-jhr-27",
+      "name": "Tweed JHR 27",
+      "brandName": "Canopy Growth",
+      "thcPercent": 27,
+      "priceMin": 590,
+      "inStock": true
+    },
+    {
+      "slug": "pedanios-22-1",
+      "name": "Pedanios 22/1",
+      "brandName": "Aurora",
+      "thcPercent": 22,
+      "priceMin": 629,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-sativa-forte-tc",
+      "name": "Cannamedical Sativa forte TC",
+      "brandName": "Cannamedical",
+      "thcPercent": 24,
+      "priceMin": 683,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-sativa-classic-tc",
+      "name": "Cannamedical Sativa classic TC",
+      "brandName": "Cannamedical",
+      "thcPercent": 20,
+      "priceMin": 755,
+      "inStock": true
+    },
+    {
+      "slug": "nedcann-jh-211",
+      "name": "Nedcann JH 21/01",
+      "brandName": "California's Medical",
+      "thcPercent": 21,
+      "priceMin": 773,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannaxan 771 Spray - CannaXan | ab 14,43 €",
+      "description": "Cannaxan 771 Spray von CannaXan. THC: 6.7%, CBD: 0.1%. Sorte: Jack Herer. Preis ab 14,43 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/cannaxan-771-spray",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannaxan 771 Spray - CannaXan | ab 14,43 €",
+        "description": "Cannaxan 771 Spray von CannaXan. THC: 6.7%, CBD: 0.1%. Sorte: Jack Herer. Preis ab 14,43 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/cannaxan-771-spray",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "CannaXan",
+        "href": "https://weed.de/brand/cannaxan"
+      },
+      {
+        "name": "Cannaxan 771 Spray",
+        "href": "https://weed.de/product/cannaxan-771-spray"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Cannaxan 771 Spray",
+            "item": "https://weed.de/product/cannaxan-771-spray"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Cannaxan 771 Spray",
+        "brand": {
+          "@type": "Brand",
+          "name": "CannaXan"
+        },
+        "description": "THC: 6.7%, CBD: 0.1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/jack-herer",
+      "text": "Jack Herer",
+      "title": "Jack Herer Sorte"
+    },
+    "brand": {
+      "href": "/brand/cannaxan",
+      "text": "CannaXan",
+      "title": "Alle CannaXan Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/aurora-typ-1",
+        "text": "Aurora Typ 1",
+        "title": "Alternative: Aurora Typ 1"
+      },
+      {
+        "href": "/product/tweed-jhr-27",
+        "text": "Tweed JHR 27",
+        "title": "Alternative: Tweed JHR 27"
+      },
+      {
+        "href": "/product/pedanios-22-1",
+        "text": "Pedanios 22/1",
+        "title": "Alternative: Pedanios 22/1"
+      },
+      {
+        "href": "/product/cannamedical-sativa-forte-tc",
+        "text": "Cannamedical Sativa forte TC",
+        "title": "Alternative: Cannamedical Sativa forte TC"
+      },
+      {
+        "href": "/product/cannamedical-sativa-classic-tc",
+        "text": "Cannamedical Sativa classic TC",
+        "title": "Alternative: Cannamedical Sativa classic TC"
+      },
+      {
+        "href": "/product/nedcann-jh-211",
+        "text": "Nedcann JH 21/01",
+        "title": "Alternative: Nedcann JH 21/01"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

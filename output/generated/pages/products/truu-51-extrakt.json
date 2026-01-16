@@ -1,0 +1,225 @@
+{
+  "product": {
+    "slug": "truu-51-extrakt",
+    "name": "Truu 50:01 Extrakt",
+    "type": "extract",
+    "genetics": "hybrid_sativa",
+    "thcPercent": 50,
+    "cbdPercent": 1,
+    "priceMin": 432,
+    "priceMax": 699,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Deutschland",
+    "imageUrl": "https://weed.de/products/truu-51-extrakt-1bi390.jpeg"
+  },
+  "brand": {
+    "slug": "demecan",
+    "name": "Demecan",
+    "productCount": 168
+  },
+  "strain": {
+    "slug": "gorilla-zkittlez",
+    "name": "Gorilla ZKittlez",
+    "geneticType": "hybrid",
+    "effects": [
+      "Hungry",
+      "Giggly",
+      "Sleepy"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Myrcene",
+      "Limonene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Hungry",
+      "Giggly",
+      "Sleepy"
+    ],
+    "tastes": [
+      "Candy",
+      "Fresh",
+      "Fruity"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Myrcene",
+      "Limonene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "amp-classic-251",
+      "name": "AMP Classic 25/1",
+      "brandName": "AMP",
+      "thcPercent": 25,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "truu-55-extrakt",
+      "name": "TRUU 50:50 Extrakt",
+      "brandName": "Demecan",
+      "thcPercent": 50,
+      "priceMin": 545,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-hybrid-forte-241-nm-gz",
+      "name": "Cannamedical Hybrid Forte 24/1 NM GZ",
+      "brandName": "Cannamedical",
+      "thcPercent": 24,
+      "priceMin": 567,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-hybrid-forte-nm",
+      "name": "Cannamedical Hybrid Forte 22/1 NM",
+      "brandName": "Cannamedical",
+      "thcPercent": 22,
+      "priceMin": 589,
+      "inStock": true
+    },
+    {
+      "slug": "420-evolution-271-ca-str",
+      "name": "420 Evolution 27/1 CA STR",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 27,
+      "priceMin": 645,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-221-florestura",
+      "name": "DEMECAN Florestura 22:01",
+      "brandName": "Deutsche Medizinalcannabis",
+      "thcPercent": 22,
+      "priceMin": 679,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Truu 50:01 Extrakt - Demecan | ab 4,32 €",
+      "description": "Truu 50:01 Extrakt von Demecan. THC: 50%, CBD: 1%. Sorte: Gorilla ZKittlez. Preis ab 4,32 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/truu-51-extrakt",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Truu 50:01 Extrakt - Demecan | ab 4,32 €",
+        "description": "Truu 50:01 Extrakt von Demecan. THC: 50%, CBD: 1%. Sorte: Gorilla ZKittlez. Preis ab 4,32 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/truu-51-extrakt",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/truu-51-extrakt-1bi390.jpeg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Demecan",
+        "href": "https://weed.de/brand/demecan"
+      },
+      {
+        "name": "Truu 50:01 Extrakt",
+        "href": "https://weed.de/product/truu-51-extrakt"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Truu 50:01 Extrakt",
+            "item": "https://weed.de/product/truu-51-extrakt"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Truu 50:01 Extrakt",
+        "brand": {
+          "@type": "Brand",
+          "name": "Demecan"
+        },
+        "description": "THC: 50%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/gorilla-zkittlez",
+      "text": "Gorilla ZKittlez",
+      "title": "Gorilla ZKittlez Sorte"
+    },
+    "brand": {
+      "href": "/brand/demecan",
+      "text": "Demecan",
+      "title": "Alle Demecan Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/amp-classic-251",
+        "text": "AMP Classic 25/1",
+        "title": "Alternative: AMP Classic 25/1"
+      },
+      {
+        "href": "/product/truu-55-extrakt",
+        "text": "TRUU 50:50 Extrakt",
+        "title": "Alternative: TRUU 50:50 Extrakt"
+      },
+      {
+        "href": "/product/cannamedical-hybrid-forte-241-nm-gz",
+        "text": "Cannamedical Hybrid Forte 24/1 NM GZ",
+        "title": "Alternative: Cannamedical Hybrid Forte 24/1 NM GZ"
+      },
+      {
+        "href": "/product/cannamedical-hybrid-forte-nm",
+        "text": "Cannamedical Hybrid Forte 22/1 NM",
+        "title": "Alternative: Cannamedical Hybrid Forte 22/1 NM"
+      },
+      {
+        "href": "/product/420-evolution-271-ca-str",
+        "text": "420 Evolution 27/1 CA STR",
+        "title": "Alternative: 420 Evolution 27/1 CA STR"
+      },
+      {
+        "href": "/product/demecan-221-florestura",
+        "text": "DEMECAN Florestura 22:01",
+        "title": "Alternative: DEMECAN Florestura 22:01"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

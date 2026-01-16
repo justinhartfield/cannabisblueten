@@ -1,0 +1,193 @@
+{
+  "brand": {
+    "slug": "ethypharm",
+    "name": "Ethypharm",
+    "productCount": 5
+  },
+  "products": [
+    {
+      "slug": "ethypharm-cbd-100",
+      "name": "Ethypharm CBD 100",
+      "type": "extract",
+      "thcPercent": 0.28,
+      "priceMin": 2635,
+      "inStock": true,
+      "strainName": null
+    },
+    {
+      "slug": "ethypharm-cbd-100-ap",
+      "name": "Ethypharm CBD 100 AP",
+      "type": "extract",
+      "thcPercent": 0.28,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": null
+    },
+    {
+      "slug": "ethypharm-cbd-200",
+      "name": "Ethypharm CBD 200",
+      "type": "extract",
+      "thcPercent": 0.5,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": null
+    },
+    {
+      "slug": "ethypharm-thc-50",
+      "name": "Ethypharm THC 50",
+      "type": "extract",
+      "thcPercent": 5,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": null
+    },
+    {
+      "slug": "ethypharm-thc10cbd10",
+      "name": "Ethypharm THC10:CBD10",
+      "type": "extract",
+      "thcPercent": 1,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": null
+    }
+  ],
+  "stats": {
+    "productCount": 5,
+    "inStockCount": 1,
+    "avgThc": 1.4,
+    "priceRange": {
+      "min": 2635,
+      "max": 2635,
+      "formatted": {
+        "min": "26,35 €",
+        "max": "26,35 €"
+      }
+    }
+  },
+  "seo": {
+    "meta": {
+      "title": "Ethypharm Cannabis Produkte - 5 Produkte",
+      "description": "Ethypharm: 5 Cannabis Produkte. 1 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+      "canonical": "https://weed.de/brand/ethypharm",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Ethypharm Cannabis Produkte - 5 Produkte",
+        "description": "Ethypharm: 5 Cannabis Produkte. 1 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+        "url": "https://weed.de/brand/ethypharm",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Hersteller",
+        "href": "https://weed.de/brands"
+      },
+      {
+        "name": "Ethypharm",
+        "href": "https://weed.de/brand/ethypharm"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Hersteller",
+            "item": "https://weed.de/brands"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Ethypharm",
+            "item": "https://weed.de/brand/ethypharm"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Ethypharm Produkte",
+        "numberOfItems": 5,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/ethypharm-cbd-100",
+            "name": "Ethypharm CBD 100"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/ethypharm-cbd-100-ap",
+            "name": "Ethypharm CBD 100 AP"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/ethypharm-cbd-200",
+            "name": "Ethypharm CBD 200"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/product/ethypharm-thc-50",
+            "name": "Ethypharm THC 50"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "https://weed.de/product/ethypharm-thc10cbd10",
+            "name": "Ethypharm THC10:CBD10"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/ethypharm-cbd-100",
+        "text": "Ethypharm CBD 100",
+        "title": "Ethypharm CBD 100"
+      },
+      {
+        "href": "/product/ethypharm-cbd-100-ap",
+        "text": "Ethypharm CBD 100 AP",
+        "title": "Ethypharm CBD 100 AP"
+      },
+      {
+        "href": "/product/ethypharm-cbd-200",
+        "text": "Ethypharm CBD 200",
+        "title": "Ethypharm CBD 200"
+      },
+      {
+        "href": "/product/ethypharm-thc-50",
+        "text": "Ethypharm THC 50",
+        "title": "Ethypharm THC 50"
+      },
+      {
+        "href": "/product/ethypharm-thc10cbd10",
+        "text": "Ethypharm THC10:CBD10",
+        "title": "Ethypharm THC10:CBD10"
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "strain": {
+    "slug": "blue-skittlz",
+    "name": "Blue Skittlz",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [
+      "Euphoric",
+      "Creative",
+      "Energetic"
+    ],
+    "tastes": [
+      "Tropical",
+      "Mint",
+      "Citrus"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Linalool",
+      "Humulene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 399,
+      "max": 399,
+      "formatted": {
+        "min": "3,99 €",
+        "max": "3,99 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "bava-med-211-blue-skittlz",
+      "name": "Bava Med 21/1 Blue Skittlz",
+      "brandName": "bava medical",
+      "thcPercent": 21,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "bava-med-241-blu-sk",
+      "name": "Bava-Med 24/1 BLU-SK",
+      "brandName": "bava medical",
+      "thcPercent": 24,
+      "priceMin": 399,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "amnesia-haze-f1-auto",
+      "name": "Amnesia Haze F1 Auto",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "legendary-larry",
+      "name": "Legendary Larry",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "purple-ice-water",
+      "name": "Purple Ice Water",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "miracle-mints",
+      "name": "Miracle Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "garlic-sherbert",
+      "name": "Garlic Sherbert",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Blue Skittlz (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Blue Skittlz: Euphoric, Creative, Energetic. 2 Produkte verfügbar. ab 3,99 €.",
+      "canonical": "https://weed.de/strain/blue-skittlz",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Blue Skittlz (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Blue Skittlz: Euphoric, Creative, Energetic. 2 Produkte verfügbar. ab 3,99 €.",
+        "url": "https://weed.de/strain/blue-skittlz",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Blue Skittlz",
+        "href": "https://weed.de/strain/blue-skittlz"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Blue Skittlz",
+            "item": "https://weed.de/strain/blue-skittlz"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Blue Skittlz Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/bava-med-211-blue-skittlz",
+            "name": "Bava Med 21/1 Blue Skittlz"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/bava-med-241-blu-sk",
+            "name": "Bava-Med 24/1 BLU-SK"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/bava-med-211-blue-skittlz",
+        "text": "Bava Med 21/1 Blue Skittlz",
+        "title": "Bava Med 21/1 Blue Skittlz von bava medical"
+      },
+      {
+        "href": "/product/bava-med-241-blu-sk",
+        "text": "Bava-Med 24/1 BLU-SK",
+        "title": "Bava-Med 24/1 BLU-SK von bava medical"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/amnesia-haze-f1-auto",
+        "text": "Amnesia Haze F1 Auto",
+        "title": "Amnesia Haze F1 Auto - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/legendary-larry",
+        "text": "Legendary Larry",
+        "title": "Legendary Larry - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/purple-ice-water",
+        "text": "Purple Ice Water",
+        "title": "Purple Ice Water - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/miracle-mints",
+        "text": "Miracle Mints",
+        "title": "Miracle Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/garlic-sherbert",
+        "text": "Garlic Sherbert",
+        "title": "Garlic Sherbert - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      },
+      {
+        "href": "/terpene/humulene",
+        "text": "Humulene",
+        "title": "Humulene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

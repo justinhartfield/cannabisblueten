@@ -1,0 +1,209 @@
+{
+  "city": {
+    "slug": "bruehl",
+    "name": "Brühl",
+    "state": "Nordrhein-Westfalen"
+  },
+  "stats": {
+    "pharmacyCount": 3,
+    "totalProducts": 97,
+    "hasDelivery": true
+  },
+  "pharmacies": [
+    {
+      "slug": "cannabis-apotheken-engelmann",
+      "name": "Cannabis Apotheken Dr. Engelmann",
+      "street": "Markt 7",
+      "zip": "50321",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 47,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "kurfuersten-apotheke",
+      "name": "Kurfürsten Apotheke",
+      "street": "Markt 7",
+      "zip": "50321",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 47,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "weednerz",
+      "name": "Weednerz",
+      "street": "Mannheimer Straße 47",
+      "zip": "68782",
+      "hasDelivery": false,
+      "hasPickup": true,
+      "productCount": 3,
+      "rating": 0,
+      "ratingCount": 0
+    }
+  ],
+  "nearbyCities": [
+    {
+      "slug": "duesseldorf",
+      "name": "Düsseldorf",
+      "pharmacyCount": 9
+    },
+    {
+      "slug": "koeln",
+      "name": "Köln",
+      "pharmacyCount": 7
+    },
+    {
+      "slug": "bonn",
+      "name": "Bonn",
+      "pharmacyCount": 6
+    },
+    {
+      "slug": "muenster",
+      "name": "Münster",
+      "pharmacyCount": 6
+    },
+    {
+      "slug": "dortmund",
+      "name": "Dortmund",
+      "pharmacyCount": 5
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannabis Apotheke Brühl - 3 Apotheken",
+      "description": "Cannabis Apotheken in Brühl. 3 Apotheken mit 97 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+      "canonical": "https://weed.de/cannabis-apotheke/bruehl",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannabis Apotheke Brühl - 3 Apotheken",
+        "description": "Cannabis Apotheken in Brühl. 3 Apotheken mit 97 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+        "url": "https://weed.de/cannabis-apotheke/bruehl",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Brühl",
+        "href": "https://weed.de/cannabis-apotheke/bruehl"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Brühl",
+            "item": "https://weed.de/cannabis-apotheke/bruehl"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Cannabis Apotheken in Brühl",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/apotheke/cannabis-apotheken-engelmann",
+            "name": "Cannabis Apotheken Dr. Engelmann"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/apotheke/kurfuersten-apotheke",
+            "name": "Kurfürsten Apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/apotheke/weednerz",
+            "name": "Weednerz"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "pharmacies": [
+      {
+        "href": "/apotheke/cannabis-apotheken-engelmann",
+        "text": "Cannabis Apotheken Dr. Engelmann",
+        "title": "Cannabis Apotheken Dr. Engelmann in Brühl"
+      },
+      {
+        "href": "/apotheke/kurfuersten-apotheke",
+        "text": "Kurfürsten Apotheke",
+        "title": "Kurfürsten Apotheke in Brühl"
+      },
+      {
+        "href": "/apotheke/weednerz",
+        "text": "Weednerz",
+        "title": "Weednerz in Brühl"
+      }
+    ],
+    "nearbyCities": [
+      {
+        "href": "/cannabis-apotheke/duesseldorf",
+        "text": "Cannabis Apotheke Düsseldorf",
+        "title": "9 Apotheken in Düsseldorf"
+      },
+      {
+        "href": "/cannabis-apotheke/koeln",
+        "text": "Cannabis Apotheke Köln",
+        "title": "7 Apotheken in Köln"
+      },
+      {
+        "href": "/cannabis-apotheke/bonn",
+        "text": "Cannabis Apotheke Bonn",
+        "title": "6 Apotheken in Bonn"
+      },
+      {
+        "href": "/cannabis-apotheke/muenster",
+        "text": "Cannabis Apotheke Münster",
+        "title": "6 Apotheken in Münster"
+      },
+      {
+        "href": "/cannabis-apotheke/dortmund",
+        "text": "Cannabis Apotheke Dortmund",
+        "title": "5 Apotheken in Dortmund"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has 3 pharmacies"
+  }
+}

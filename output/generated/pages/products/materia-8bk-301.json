@@ -1,0 +1,228 @@
+{
+  "product": {
+    "slug": "materia-8bk-301",
+    "name": "Materia 8BK 30/1",
+    "type": "flower",
+    "genetics": "hybrid_indica",
+    "thcPercent": 30,
+    "cbdPercent": 1,
+    "priceMin": 679,
+    "priceMax": 922,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "materia",
+    "name": "Materia",
+    "productCount": 8
+  },
+  "strain": {
+    "slug": "8-ball-kush",
+    "name": "8 Ball Kush",
+    "geneticType": "indica",
+    "effects": [
+      "Relaxed",
+      "Happy",
+      "Hungry",
+      "Calming"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Pinene",
+      "Caryophyllene",
+      "Geraniol"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Relaxed",
+      "Happy",
+      "Hungry",
+      "Calming"
+    ],
+    "tastes": [
+      "Spicy-Herbal",
+      "Pine",
+      "Menthol"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Pinene",
+      "Caryophyllene",
+      "Geraniol"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "enua-251-cck-ca",
+      "name": "enua 25/1 CCK CA",
+      "brandName": "enua",
+      "thcPercent": 25.2,
+      "priceMin": 399,
+      "inStock": true
+    },
+    {
+      "slug": "rua-aio-271",
+      "name": "Rua Aio 27/1",
+      "brandName": "Rua Bioscience",
+      "thcPercent": 27,
+      "priceMin": 539,
+      "inStock": true
+    },
+    {
+      "slug": "rua-aio-301",
+      "name": "RUA AIO 30/1",
+      "brandName": "Nimbus Health",
+      "thcPercent": 30,
+      "priceMin": 578,
+      "inStock": true
+    },
+    {
+      "slug": "ceres-no-2",
+      "name": "Ceres No. 2",
+      "brandName": "Cantourage",
+      "thcPercent": 25,
+      "priceMin": 590,
+      "inStock": true
+    },
+    {
+      "slug": "420-natural-221-gg4",
+      "name": "420 Natural 22/1 GG4",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 22,
+      "priceMin": 723,
+      "inStock": true
+    },
+    {
+      "slug": "avaay-241-did",
+      "name": "AVAAY 24/1 DiD",
+      "brandName": "Avaay",
+      "thcPercent": 24,
+      "priceMin": 949,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Materia 8BK 30/1 | ab 6,79 €",
+      "description": "Materia 8BK 30/1 von Materia. THC: 30%, CBD: 1%. Sorte: 8 Ball Kush. Preis ab 6,79 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/materia-8bk-301",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Materia 8BK 30/1 | ab 6,79 €",
+        "description": "Materia 8BK 30/1 von Materia. THC: 30%, CBD: 1%. Sorte: 8 Ball Kush. Preis ab 6,79 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/materia-8bk-301",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Materia",
+        "href": "https://weed.de/brand/materia"
+      },
+      {
+        "name": "Materia 8BK 30/1",
+        "href": "https://weed.de/product/materia-8bk-301"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Materia 8BK 30/1",
+            "item": "https://weed.de/product/materia-8bk-301"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Materia 8BK 30/1",
+        "brand": {
+          "@type": "Brand",
+          "name": "Materia"
+        },
+        "description": "THC: 30%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/8-ball-kush",
+      "text": "8 Ball Kush",
+      "title": "8 Ball Kush Sorte"
+    },
+    "brand": {
+      "href": "/brand/materia",
+      "text": "Materia",
+      "title": "Alle Materia Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/enua-251-cck-ca",
+        "text": "enua 25/1 CCK CA",
+        "title": "Alternative: enua 25/1 CCK CA"
+      },
+      {
+        "href": "/product/rua-aio-271",
+        "text": "Rua Aio 27/1",
+        "title": "Alternative: Rua Aio 27/1"
+      },
+      {
+        "href": "/product/rua-aio-301",
+        "text": "RUA AIO 30/1",
+        "title": "Alternative: RUA AIO 30/1"
+      },
+      {
+        "href": "/product/ceres-no-2",
+        "text": "Ceres No. 2",
+        "title": "Alternative: Ceres No. 2"
+      },
+      {
+        "href": "/product/420-natural-221-gg4",
+        "text": "420 Natural 22/1 GG4",
+        "title": "Alternative: 420 Natural 22/1 GG4"
+      },
+      {
+        "href": "/product/avaay-241-did",
+        "text": "AVAAY 24/1 DiD",
+        "title": "Alternative: AVAAY 24/1 DiD"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

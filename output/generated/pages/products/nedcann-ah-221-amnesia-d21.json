@@ -1,0 +1,229 @@
+{
+  "product": {
+    "slug": "nedcann-ah-221-amnesia-d21",
+    "name": "Nedcann AH 22/01 Amnesia #D21",
+    "type": "flower",
+    "genetics": "sativa",
+    "thcPercent": 22,
+    "cbdPercent": 1,
+    "priceMin": 397,
+    "priceMax": 397,
+    "inStock": false,
+    "pzn": [],
+    "originCountry": "Kanada",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "natural-pharma",
+    "name": "Natural Pharma",
+    "productCount": 4
+  },
+  "strain": {
+    "slug": "amnesia",
+    "name": "Amnesia",
+    "geneticType": "hybrid",
+    "effects": [
+      "Uplifted",
+      "Euphoric",
+      "Cerebral",
+      "Happy",
+      "Energetic"
+    ],
+    "terpenes": [
+      "Terpinolene",
+      "Caryophyllene",
+      "Ocimene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Uplifted",
+      "Euphoric",
+      "Cerebral",
+      "Happy",
+      "Energetic"
+    ],
+    "tastes": [
+      "Sweet",
+      "Fresh",
+      "Fruity"
+    ],
+    "terpenes": [
+      "Terpinolene",
+      "Caryophyllene",
+      "Ocimene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "aurora-typ-1",
+      "name": "Aurora Typ 1",
+      "brandName": "Aurora",
+      "thcPercent": 19,
+      "priceMin": 479,
+      "inStock": true
+    },
+    {
+      "slug": "pedanios-22-1",
+      "name": "Pedanios 22/1",
+      "brandName": "Aurora",
+      "thcPercent": 22,
+      "priceMin": 629,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-sativa-forte-tc",
+      "name": "Cannamedical Sativa forte TC",
+      "brandName": "Cannamedical",
+      "thcPercent": 24,
+      "priceMin": 683,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-sativa-classic-tc",
+      "name": "Cannamedical Sativa classic TC",
+      "brandName": "Cannamedical",
+      "thcPercent": 20,
+      "priceMin": 755,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-sativa-classic-si",
+      "name": "Cannamedical Sativa classic SI",
+      "brandName": "Cannamedical",
+      "thcPercent": 20,
+      "priceMin": 915,
+      "inStock": true
+    },
+    {
+      "slug": "cannabis-flos-bedrocan-f20",
+      "name": "Cannabis Flos Bedrocan F20",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 22,
+      "priceMin": null,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Nedcann AH 22/01 Amnesia #D21 - Natural Pharma | ab 3,97 €",
+      "description": "Nedcann AH 22/01 Amnesia #D21 von Natural Pharma. THC: 22%, CBD: 1%. Sorte: Amnesia. Preis ab 3,97 €. Preise vergleichen.",
+      "canonical": "https://weed.de/product/nedcann-ah-221-amnesia-d21",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Nedcann AH 22/01 Amnesia #D21 - Natural Pharma | ab 3,97 €",
+        "description": "Nedcann AH 22/01 Amnesia #D21 von Natural Pharma. THC: 22%, CBD: 1%. Sorte: Amnesia. Preis ab 3,97 €. Preise vergleichen.",
+        "url": "https://weed.de/product/nedcann-ah-221-amnesia-d21",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Natural Pharma",
+        "href": "https://weed.de/brand/natural-pharma"
+      },
+      {
+        "name": "Nedcann AH 22/01 Amnesia #D21",
+        "href": "https://weed.de/product/nedcann-ah-221-amnesia-d21"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Nedcann AH 22/01 Amnesia #D21",
+            "item": "https://weed.de/product/nedcann-ah-221-amnesia-d21"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Nedcann AH 22/01 Amnesia #D21",
+        "brand": {
+          "@type": "Brand",
+          "name": "Natural Pharma"
+        },
+        "gtin13": [],
+        "description": "THC: 22%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/amnesia",
+      "text": "Amnesia",
+      "title": "Amnesia Sorte"
+    },
+    "brand": {
+      "href": "/brand/natural-pharma",
+      "text": "Natural Pharma",
+      "title": "Alle Natural Pharma Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/aurora-typ-1",
+        "text": "Aurora Typ 1",
+        "title": "Alternative: Aurora Typ 1"
+      },
+      {
+        "href": "/product/pedanios-22-1",
+        "text": "Pedanios 22/1",
+        "title": "Alternative: Pedanios 22/1"
+      },
+      {
+        "href": "/product/cannamedical-sativa-forte-tc",
+        "text": "Cannamedical Sativa forte TC",
+        "title": "Alternative: Cannamedical Sativa forte TC"
+      },
+      {
+        "href": "/product/cannamedical-sativa-classic-tc",
+        "text": "Cannamedical Sativa classic TC",
+        "title": "Alternative: Cannamedical Sativa classic TC"
+      },
+      {
+        "href": "/product/cannamedical-sativa-classic-si",
+        "text": "Cannamedical Sativa classic SI",
+        "title": "Alternative: Cannamedical Sativa classic SI"
+      },
+      {
+        "href": "/product/cannabis-flos-bedrocan-f20",
+        "text": "Cannabis Flos Bedrocan F20",
+        "title": "Alternative: Cannabis Flos Bedrocan F20"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has price data"
+  }
+}

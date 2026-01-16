@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "dr-beckers-central-apotheke-1",
+    "name": "Dr. Beckers Central Apotheke",
+    "street": "Karlsplatz 11",
+    "zip": "80335",
+    "cityName": "München",
+    "state": "Bayern",
+    "lat": 48.13967239999999,
+    "lng": 11.5653354,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://www.central-cannabis.de",
+    "phone": "08954900024",
+    "email": "cannabis@dbca-muc.de",
+    "productCount": 7,
+    "rating": 5,
+    "ratingCount": 1,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/67f4f8059f626f3e3f1af1a5-a79h5a.jpg"
+  },
+  "city": {
+    "slug": "muenchen",
+    "name": "München",
+    "pharmacyCount": 12
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "apotheke-forum-schwanthalerhoehe",
+      "name": "Apotheke Forum Schwanthalerhöhe",
+      "cityName": "München",
+      "productCount": 70,
+      "hasDelivery": true
+    },
+    {
+      "slug": "oberlaender-apotheke",
+      "name": "Oberländer Apotheke",
+      "cityName": "München",
+      "productCount": 46,
+      "hasDelivery": false
+    },
+    {
+      "slug": "fox2",
+      "name": "Fox20",
+      "cityName": "München",
+      "productCount": 46,
+      "hasDelivery": false
+    },
+    {
+      "slug": "stachus-apotheke",
+      "name": "Stachus-Apotheke",
+      "cityName": "München",
+      "productCount": 38,
+      "hasDelivery": true
+    },
+    {
+      "slug": "medicus-apotheke",
+      "name": "Cannamedicus",
+      "cityName": "München",
+      "productCount": 30,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Dr. Beckers Central Apotheke - Cannabis Apotheke in München",
+      "description": "Dr. Beckers Central Apotheke in München. 7 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/dr-beckers-central-apotheke-1",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Dr. Beckers Central Apotheke - Cannabis Apotheke in München",
+        "description": "Dr. Beckers Central Apotheke in München. 7 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/dr-beckers-central-apotheke-1",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/67f4f8059f626f3e3f1af1a5-a79h5a.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "München",
+        "href": "https://weed.de/cannabis-apotheke/muenchen"
+      },
+      {
+        "name": "Dr. Beckers Central Apotheke",
+        "href": "https://weed.de/apotheke/dr-beckers-central-apotheke-1"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "München",
+            "item": "https://weed.de/cannabis-apotheke/muenchen"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Dr. Beckers Central Apotheke",
+            "item": "https://weed.de/apotheke/dr-beckers-central-apotheke-1"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Dr. Beckers Central Apotheke",
+        "url": "https://weed.de/apotheke/dr-beckers-central-apotheke-1",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Karlsplatz 11",
+          "addressLocality": "München",
+          "postalCode": "80335",
+          "addressRegion": "Bayern",
+          "addressCountry": "DE"
+        },
+        "telephone": "08954900024",
+        "email": "cannabis@dbca-muc.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/muenchen",
+      "text": "Cannabis Apotheken in München",
+      "title": "Alle Apotheken in München"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/apotheke-forum-schwanthalerhoehe",
+        "text": "Apotheke Forum Schwanthalerhöhe",
+        "title": "Apotheke Forum Schwanthalerhöhe in München"
+      },
+      {
+        "href": "/apotheke/oberlaender-apotheke",
+        "text": "Oberländer Apotheke",
+        "title": "Oberländer Apotheke in München"
+      },
+      {
+        "href": "/apotheke/fox2",
+        "text": "Fox20",
+        "title": "Fox20 in München"
+      },
+      {
+        "href": "/apotheke/stachus-apotheke",
+        "text": "Stachus-Apotheke",
+        "title": "Stachus-Apotheke in München"
+      },
+      {
+        "href": "/apotheke/medicus-apotheke",
+        "text": "Cannamedicus",
+        "title": "Cannamedicus in München"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

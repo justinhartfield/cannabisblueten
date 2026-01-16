@@ -1,0 +1,215 @@
+{
+  "strain": {
+    "slug": "purple-moon",
+    "name": "Purple Moon",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Relaxed",
+      "Sleepy"
+    ],
+    "tastes": [
+      "Flowery",
+      "Tropical",
+      "Earthy"
+    ],
+    "terpenes": [
+      "Fenchol",
+      "D-Limonene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 599,
+      "max": 803,
+      "formatted": {
+        "min": "5,99 €",
+        "max": "8,03 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "wellford-peak-281-ca-ppm",
+      "name": "Wellford Peak 28/1 CA PPM",
+      "brandName": "Therismos",
+      "thcPercent": 28,
+      "priceMin": 599,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "velvet-glove",
+      "name": "Velvet Glove",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "florida-kush",
+      "name": "Florida Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "mac-f",
+      "name": "Mac Flurry",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "fine-cookies",
+      "name": "Fine Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "lemon-og",
+      "name": "Lemon OG",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Purple Moon (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Purple Moon: Relaxed, Sleepy. 1 Produkte verfügbar. ab 5,99 €.",
+      "canonical": "https://weed.de/strain/purple-moon",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Purple Moon (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Purple Moon: Relaxed, Sleepy. 1 Produkte verfügbar. ab 5,99 €.",
+        "url": "https://weed.de/strain/purple-moon",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Purple Moon",
+        "href": "https://weed.de/strain/purple-moon"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Purple Moon",
+            "item": "https://weed.de/strain/purple-moon"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Purple Moon Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/wellford-peak-281-ca-ppm",
+            "name": "Wellford Peak 28/1 CA PPM"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/wellford-peak-281-ca-ppm",
+        "text": "Wellford Peak 28/1 CA PPM",
+        "title": "Wellford Peak 28/1 CA PPM von Therismos"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/velvet-glove",
+        "text": "Velvet Glove",
+        "title": "Velvet Glove - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/florida-kush",
+        "text": "Florida Kush",
+        "title": "Florida Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/mac-f",
+        "text": "Mac Flurry",
+        "title": "Mac Flurry - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/fine-cookies",
+        "text": "Fine Cookies",
+        "title": "Fine Cookies - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/lemon-og",
+        "text": "Lemon OG",
+        "title": "Lemon OG - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/fenchol",
+        "text": "Fenchol",
+        "title": "Fenchol Terpen"
+      },
+      {
+        "href": "/terpene/d-limonene",
+        "text": "D-Limonene",
+        "title": "D-Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

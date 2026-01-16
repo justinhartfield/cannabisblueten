@@ -1,0 +1,221 @@
+{
+  "product": {
+    "slug": "huala-21-ca-wot",
+    "name": "Huala 20/1 CA WOT",
+    "type": "flower",
+    "genetics": "hybrid_sativa",
+    "thcPercent": 20,
+    "cbdPercent": 1,
+    "priceMin": 495,
+    "priceMax": 495,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Deutschland",
+    "imageUrl": "https://weed.de/products/huala-21-ca-wot-ge737a.png"
+  },
+  "brand": {
+    "slug": "four-20-pharma",
+    "name": "Four 20 Pharma",
+    "productCount": 267
+  },
+  "strain": {
+    "slug": "whiteout",
+    "name": "Whiteout",
+    "geneticType": "hybrid",
+    "effects": [
+      "Sleepy"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Humulene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Sleepy"
+    ],
+    "tastes": [
+      "Mint",
+      "Vanilla",
+      "Citrus"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Humulene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "amp-classic-251",
+      "name": "AMP Classic 25/1",
+      "brandName": "AMP",
+      "thcPercent": 25,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "huala-221-ca-wot",
+      "name": "Huala 22/1 CA WOT",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 22,
+      "priceMin": 424,
+      "inStock": true
+    },
+    {
+      "slug": "weeco-231",
+      "name": "Weeco 23/1",
+      "brandName": "Weeco",
+      "thcPercent": 23,
+      "priceMin": 599,
+      "inStock": true
+    },
+    {
+      "slug": "aurora-221-dhz-ca",
+      "name": "Aurora 22/1 DHZ-CA",
+      "brandName": "Aurora",
+      "thcPercent": 19.8,
+      "priceMin": 640,
+      "inStock": true
+    },
+    {
+      "slug": "420-evolution-271-ca-str",
+      "name": "420 Evolution 27/1 CA STR",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 27,
+      "priceMin": 645,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-221-florestura",
+      "name": "DEMECAN Florestura 22:01",
+      "brandName": "Deutsche Medizinalcannabis",
+      "thcPercent": 22,
+      "priceMin": 679,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Huala 20/1 CA WOT - Four 20 Pharma | ab 4,95 €",
+      "description": "Huala 20/1 CA WOT von Four 20 Pharma. THC: 20%, CBD: 1%. Sorte: Whiteout. Preis ab 4,95 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/huala-21-ca-wot",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Huala 20/1 CA WOT - Four 20 Pharma | ab 4,95 €",
+        "description": "Huala 20/1 CA WOT von Four 20 Pharma. THC: 20%, CBD: 1%. Sorte: Whiteout. Preis ab 4,95 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/huala-21-ca-wot",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/huala-21-ca-wot-ge737a.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Four 20 Pharma",
+        "href": "https://weed.de/brand/four-20-pharma"
+      },
+      {
+        "name": "Huala 20/1 CA WOT",
+        "href": "https://weed.de/product/huala-21-ca-wot"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Huala 20/1 CA WOT",
+            "item": "https://weed.de/product/huala-21-ca-wot"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Huala 20/1 CA WOT",
+        "brand": {
+          "@type": "Brand",
+          "name": "Four 20 Pharma"
+        },
+        "description": "THC: 20%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/whiteout",
+      "text": "Whiteout",
+      "title": "Whiteout Sorte"
+    },
+    "brand": {
+      "href": "/brand/four-20-pharma",
+      "text": "Four 20 Pharma",
+      "title": "Alle Four 20 Pharma Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/amp-classic-251",
+        "text": "AMP Classic 25/1",
+        "title": "Alternative: AMP Classic 25/1"
+      },
+      {
+        "href": "/product/huala-221-ca-wot",
+        "text": "Huala 22/1 CA WOT",
+        "title": "Alternative: Huala 22/1 CA WOT"
+      },
+      {
+        "href": "/product/weeco-231",
+        "text": "Weeco 23/1",
+        "title": "Alternative: Weeco 23/1"
+      },
+      {
+        "href": "/product/aurora-221-dhz-ca",
+        "text": "Aurora 22/1 DHZ-CA",
+        "title": "Alternative: Aurora 22/1 DHZ-CA"
+      },
+      {
+        "href": "/product/420-evolution-271-ca-str",
+        "text": "420 Evolution 27/1 CA STR",
+        "title": "Alternative: 420 Evolution 27/1 CA STR"
+      },
+      {
+        "href": "/product/demecan-221-florestura",
+        "text": "DEMECAN Florestura 22:01",
+        "title": "Alternative: DEMECAN Florestura 22:01"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "baeren-apotheke-halle",
+    "name": "Bären-Apotheke Halle",
+    "street": "Cloppenburger Straße 34",
+    "zip": "06126",
+    "cityName": "Halle (Saale)",
+    "state": "Sachsen-Anhalt",
+    "lat": 51.480691,
+    "lng": 11.8995573,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": false,
+    "website": "https://apotheke-baeren.de/",
+    "phone": "03456879976",
+    "email": "Halle@Apotheken-Baeren.de",
+    "productCount": 0,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/6914792a2d6cf3904e551c87-0dhchg.jpg"
+  },
+  "city": {
+    "slug": "halle-saale",
+    "name": "Halle (Saale)",
+    "pharmacyCount": 2
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "adler-apotheke-1",
+      "name": "HalleCann - Adler Apotheke",
+      "cityName": "Halle (Saale)",
+      "productCount": 11,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannaroko-oder-robert-koch-apotheke-wolfen",
+      "name": "CannaRoKo | Robert-Koch-Apotheke Wolfen",
+      "cityName": "Bitterfeld-Wolfen",
+      "productCount": 80,
+      "hasDelivery": true
+    },
+    {
+      "slug": "hirsch-apotheke-1",
+      "name": "Cannasana",
+      "cityName": "Hohe Börde",
+      "productCount": 66,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-am-collegienhof",
+      "name": "Elbgrün",
+      "cityName": "Lutherstadt Wittenberg",
+      "productCount": 43,
+      "hasDelivery": true
+    },
+    {
+      "slug": "easyapotheke-magdeburg",
+      "name": "easyApotheke Magdeburg",
+      "cityName": "Magdeburg",
+      "productCount": 32,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Bären-Apotheke Halle - Cannabis Apotheke in Halle (Saale)",
+      "description": "Bären-Apotheke Halle in Halle (Saale). Lieferung & Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/baeren-apotheke-halle",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Bären-Apotheke Halle - Cannabis Apotheke in Halle (Saale)",
+        "description": "Bären-Apotheke Halle in Halle (Saale). Lieferung & Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/baeren-apotheke-halle",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/6914792a2d6cf3904e551c87-0dhchg.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Halle (Saale)",
+        "href": "https://weed.de/cannabis-apotheke/halle-saale"
+      },
+      {
+        "name": "Bären-Apotheke Halle",
+        "href": "https://weed.de/apotheke/baeren-apotheke-halle"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Halle (Saale)",
+            "item": "https://weed.de/cannabis-apotheke/halle-saale"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Bären-Apotheke Halle",
+            "item": "https://weed.de/apotheke/baeren-apotheke-halle"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Bären-Apotheke Halle",
+        "url": "https://weed.de/apotheke/baeren-apotheke-halle",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Cloppenburger Straße 34",
+          "addressLocality": "Halle (Saale)",
+          "postalCode": "06126",
+          "addressRegion": "Sachsen-Anhalt",
+          "addressCountry": "DE"
+        },
+        "telephone": "03456879976",
+        "email": "Halle@Apotheken-Baeren.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/halle-saale",
+      "text": "Cannabis Apotheken in Halle (Saale)",
+      "title": "Alle Apotheken in Halle (Saale)"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/adler-apotheke-1",
+        "text": "HalleCann - Adler Apotheke",
+        "title": "HalleCann - Adler Apotheke in Halle (Saale)"
+      },
+      {
+        "href": "/apotheke/cannaroko-oder-robert-koch-apotheke-wolfen",
+        "text": "CannaRoKo | Robert-Koch-Apotheke Wolfen",
+        "title": "CannaRoKo | Robert-Koch-Apotheke Wolfen in Bitterfeld-Wolfen"
+      },
+      {
+        "href": "/apotheke/hirsch-apotheke-1",
+        "text": "Cannasana",
+        "title": "Cannasana in Hohe Börde"
+      },
+      {
+        "href": "/apotheke/apotheke-am-collegienhof",
+        "text": "Elbgrün",
+        "title": "Elbgrün in Lutherstadt Wittenberg"
+      },
+      {
+        "href": "/apotheke/easyapotheke-magdeburg",
+        "text": "easyApotheke Magdeburg",
+        "title": "easyApotheke Magdeburg in Magdeburg"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has services"
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "cannflos-apo",
+    "name": "Medflower Collini-Apotheke",
+    "street": "Collinistraße 11",
+    "zip": "68161",
+    "cityName": "Mannheim",
+    "state": "Baden-Württemberg",
+    "lat": 49.4899342,
+    "lng": 8.4795085,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://cannflos-apo.de",
+    "phone": "032222001106",
+    "email": "info@collini-medflower.de",
+    "productCount": 67,
+    "rating": 2,
+    "ratingCount": 4,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/644a5760e0a14de5cb4d9e0d-1b7098.jpg"
+  },
+  "city": {
+    "slug": "mannheim",
+    "name": "Mannheim",
+    "pharmacyCount": 6
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "kurpfalz-apotheke",
+      "name": "Kurpfalz-Apotheke",
+      "cityName": "Mannheim",
+      "productCount": 90,
+      "hasDelivery": true
+    },
+    {
+      "slug": "neckar-apotheke",
+      "name": "cannama² - Neckar Apotheke Mannheim",
+      "cityName": "Mannheim",
+      "productCount": 24,
+      "hasDelivery": true
+    },
+    {
+      "slug": "falken-apotheke",
+      "name": "Falken Apotheke",
+      "cityName": "Mannheim",
+      "productCount": 0,
+      "hasDelivery": false
+    },
+    {
+      "slug": "gruenebriese",
+      "name": "Grünebriese",
+      "cityName": "Mannheim",
+      "productCount": 0,
+      "hasDelivery": false
+    },
+    {
+      "slug": "apotheke-in-der-alten-seilerei",
+      "name": "Cannem - Dein Cannabis aus Mannheim",
+      "cityName": "Mannheim",
+      "productCount": 0,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Medflower Collini-Apotheke - Cannabis Apotheke in Mannheim",
+      "description": "Medflower Collini-Apotheke in Mannheim. 67 Cannabis Produkte. Lieferung & Abholung. Bewertung: 2.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/cannflos-apo",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Medflower Collini-Apotheke - Cannabis Apotheke in Mannheim",
+        "description": "Medflower Collini-Apotheke in Mannheim. 67 Cannabis Produkte. Lieferung & Abholung. Bewertung: 2.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/cannflos-apo",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/644a5760e0a14de5cb4d9e0d-1b7098.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Mannheim",
+        "href": "https://weed.de/cannabis-apotheke/mannheim"
+      },
+      {
+        "name": "Medflower Collini-Apotheke",
+        "href": "https://weed.de/apotheke/cannflos-apo"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Mannheim",
+            "item": "https://weed.de/cannabis-apotheke/mannheim"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Medflower Collini-Apotheke",
+            "item": "https://weed.de/apotheke/cannflos-apo"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Medflower Collini-Apotheke",
+        "url": "https://weed.de/apotheke/cannflos-apo",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Collinistraße 11",
+          "addressLocality": "Mannheim",
+          "postalCode": "68161",
+          "addressRegion": "Baden-Württemberg",
+          "addressCountry": "DE"
+        },
+        "telephone": "032222001106",
+        "email": "info@collini-medflower.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/mannheim",
+      "text": "Cannabis Apotheken in Mannheim",
+      "title": "Alle Apotheken in Mannheim"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/kurpfalz-apotheke",
+        "text": "Kurpfalz-Apotheke",
+        "title": "Kurpfalz-Apotheke in Mannheim"
+      },
+      {
+        "href": "/apotheke/neckar-apotheke",
+        "text": "cannama² - Neckar Apotheke Mannheim",
+        "title": "cannama² - Neckar Apotheke Mannheim in Mannheim"
+      },
+      {
+        "href": "/apotheke/falken-apotheke",
+        "text": "Falken Apotheke",
+        "title": "Falken Apotheke in Mannheim"
+      },
+      {
+        "href": "/apotheke/gruenebriese",
+        "text": "Grünebriese",
+        "title": "Grünebriese in Mannheim"
+      },
+      {
+        "href": "/apotheke/apotheke-in-der-alten-seilerei",
+        "text": "Cannem - Dein Cannabis aus Mannheim",
+        "title": "Cannem - Dein Cannabis aus Mannheim in Mannheim"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

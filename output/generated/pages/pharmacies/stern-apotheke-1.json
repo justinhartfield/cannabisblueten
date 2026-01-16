@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "stern-apotheke-1",
+    "name": "Stern-Apotheke",
+    "street": "Mehringweg 2",
+    "zip": "21073",
+    "cityName": "Hamburg",
+    "state": "Hamburg",
+    "lat": 53.4570342,
+    "lng": 9.9602556,
+    "hasDelivery": false,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": null,
+    "phone": "0407906189",
+    "email": "info@stern-apotheke-harburg.de",
+    "productCount": 8,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.de/pharmacies/stern-apotheke-1-3129d6.png"
+  },
+  "city": {
+    "slug": "hamburg",
+    "name": "Hamburg",
+    "pharmacyCount": 12
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "aposweet",
+      "name": "ApoSweet",
+      "cityName": "Hamburg",
+      "productCount": 73,
+      "hasDelivery": true
+    },
+    {
+      "slug": "thcundco",
+      "name": "thcundco.de (Arcaden Apotheke OHG)",
+      "cityName": "Hamburg",
+      "productCount": 53,
+      "hasDelivery": true
+    },
+    {
+      "slug": "schwanen-apotheke",
+      "name": "Schwanen-Apotheke",
+      "cityName": "Hamburg",
+      "productCount": 42,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-an-der-friedenseiche",
+      "name": "Apotheke an der Friedenseiche",
+      "cityName": "Hamburg",
+      "productCount": 30,
+      "hasDelivery": true
+    },
+    {
+      "slug": "eulen-apotheke",
+      "name": "Eulen Apotheke",
+      "cityName": "Hamburg",
+      "productCount": 20,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Stern-Apotheke - Cannabis Apotheke in Hamburg",
+      "description": "Stern-Apotheke in Hamburg. 8 Cannabis Produkte. Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/stern-apotheke-1",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Stern-Apotheke - Cannabis Apotheke in Hamburg",
+        "description": "Stern-Apotheke in Hamburg. 8 Cannabis Produkte. Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/stern-apotheke-1",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/pharmacies/stern-apotheke-1-3129d6.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Hamburg",
+        "href": "https://weed.de/cannabis-apotheke/hamburg"
+      },
+      {
+        "name": "Stern-Apotheke",
+        "href": "https://weed.de/apotheke/stern-apotheke-1"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Hamburg",
+            "item": "https://weed.de/cannabis-apotheke/hamburg"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Stern-Apotheke",
+            "item": "https://weed.de/apotheke/stern-apotheke-1"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Stern-Apotheke",
+        "url": "https://weed.de/apotheke/stern-apotheke-1",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Mehringweg 2",
+          "addressLocality": "Hamburg",
+          "postalCode": "21073",
+          "addressRegion": "Hamburg",
+          "addressCountry": "DE"
+        },
+        "telephone": "0407906189",
+        "email": "info@stern-apotheke-harburg.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/hamburg",
+      "text": "Cannabis Apotheken in Hamburg",
+      "title": "Alle Apotheken in Hamburg"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/aposweet",
+        "text": "ApoSweet",
+        "title": "ApoSweet in Hamburg"
+      },
+      {
+        "href": "/apotheke/thcundco",
+        "text": "thcundco.de (Arcaden Apotheke OHG)",
+        "title": "thcundco.de (Arcaden Apotheke OHG) in Hamburg"
+      },
+      {
+        "href": "/apotheke/schwanen-apotheke",
+        "text": "Schwanen-Apotheke",
+        "title": "Schwanen-Apotheke in Hamburg"
+      },
+      {
+        "href": "/apotheke/apotheke-an-der-friedenseiche",
+        "text": "Apotheke an der Friedenseiche",
+        "title": "Apotheke an der Friedenseiche in Hamburg"
+      },
+      {
+        "href": "/apotheke/eulen-apotheke",
+        "text": "Eulen Apotheke",
+        "title": "Eulen Apotheke in Hamburg"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

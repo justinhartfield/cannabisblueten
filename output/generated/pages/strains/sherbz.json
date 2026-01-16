@@ -1,0 +1,236 @@
+{
+  "strain": {
+    "slug": "sherbz",
+    "name": "Sherbz",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0,
+      "max": 0
+    },
+    "effects": [
+      "Creative",
+      "Euphoric",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Vanilla",
+      "Diesel",
+      "Herbal"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "Sherbz ist ein vielversprechender moderner Hybride, der aus der Kreuzung zweier sehr markanter Strains hervorgegangen ist: Zereal Milk und RS11 (auch als Rainbow Sherbert #11 bekannt). Beide Elternstrains sind für ihre außergewöhnlich süßen, cremig-fruchtigen Terpenprofile und ihre ausgewogene Wirkung bekannt, wodurch Sherbz ein intensives Geschmackserlebnis mit einer vielseitigen Wirkung zwischen zerebraler Euphorie und körperlicher Entspannung bietet. Die Blüten dieses Kultivars sind oft dicht und bunt, mit violetten Einschlägen und einer dicken Schicht Trichome – ein Hinweis auf ihren hohen THC-Gehalt, der in der Regel zwischen 22 % und 27 % liegt. Besonders auffällig ist das komplexe Terpenprofil mit süßen, milchig-fruchtigen Noten, ergänzt durch subtile Kräuter- und Gaskomponenten. Sherbz ist ein Paradebeispiel für die neue Generation von Designer-Strains, die Genuss und Potenz auf hohem Niveau vereinen.\n",
+    "imageUrl": "/strains/687279e6e24c566ba7fb60ef-j1hj57.webp"
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 599,
+      "max": 838,
+      "formatted": {
+        "min": "5,99 €",
+        "max": "8,38 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "botanics-orient-bazaar-221",
+      "name": "Botanics Orient Bazaar 22/1",
+      "brandName": "Nimbus Health",
+      "thcPercent": 22,
+      "priceMin": 838,
+      "inStock": true
+    },
+    {
+      "slug": "botanics-orient-bazaar-21",
+      "name": "Botanics Orient Bazaar 20/1",
+      "brandName": "Nimbus Health",
+      "thcPercent": 20,
+      "priceMin": 599,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "tigerz-eye",
+      "name": "Tigerz Eye",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "alien-mints",
+      "name": "Alien Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "wedding-pop-triangle",
+      "name": "Wedding Pop Triangle",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "sour-chocolate-diesel",
+      "name": "Sour Chocolate Diesel",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "mellowz",
+      "name": "Mellowz",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Sherbz (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Sherbz: Creative, Euphoric, Relaxed. 2 Produkte verfügbar. ab 5,99 €.",
+      "canonical": "https://weed.de/strain/sherbz",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Sherbz (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Sherbz: Creative, Euphoric, Relaxed. 2 Produkte verfügbar. ab 5,99 €.",
+        "url": "https://weed.de/strain/sherbz",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "/strains/687279e6e24c566ba7fb60ef-j1hj57.webp"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Sherbz",
+        "href": "https://weed.de/strain/sherbz"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Sherbz",
+            "item": "https://weed.de/strain/sherbz"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Sherbz Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/botanics-orient-bazaar-221",
+            "name": "Botanics Orient Bazaar 22/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/botanics-orient-bazaar-21",
+            "name": "Botanics Orient Bazaar 20/1"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/botanics-orient-bazaar-221",
+        "text": "Botanics Orient Bazaar 22/1",
+        "title": "Botanics Orient Bazaar 22/1 von Nimbus Health"
+      },
+      {
+        "href": "/product/botanics-orient-bazaar-21",
+        "text": "Botanics Orient Bazaar 20/1",
+        "title": "Botanics Orient Bazaar 20/1 von Nimbus Health"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/tigerz-eye",
+        "text": "Tigerz Eye",
+        "title": "Tigerz Eye - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/alien-mints",
+        "text": "Alien Mints",
+        "title": "Alien Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/wedding-pop-triangle",
+        "text": "Wedding Pop Triangle",
+        "title": "Wedding Pop Triangle - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/sour-chocolate-diesel",
+        "text": "Sour Chocolate Diesel",
+        "title": "Sour Chocolate Diesel - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/mellowz",
+        "text": "Mellowz",
+        "title": "Mellowz - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "strain": {
+    "slug": "blue-nerdz",
+    "name": "Blue Nerdz",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [
+      "Relaxed",
+      "Creative"
+    ],
+    "tastes": [
+      "Sweet",
+      "Spicy",
+      "Flowery"
+    ],
+    "terpenes": [
+      "Linalool",
+      "Limonene",
+      "Beta-Caryophyllene",
+      "Beta-Myrcene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 849,
+      "max": 849,
+      "formatted": {
+        "min": "8,49 €",
+        "max": "8,49 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "enua-21-bnr-ca",
+      "name": "enua 20/1 BNR CA",
+      "brandName": "enua",
+      "thcPercent": 20,
+      "priceMin": 849,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "purple-ice-water",
+      "name": "Purple Ice Water",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "orange-panties",
+      "name": "Orange Panties",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "bling-blaow",
+      "name": "Bling Blaow",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "red-dragon-og",
+      "name": "Red Dragon OG",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "do-si-dos",
+      "name": "Do-Si-Dos",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Blue Nerdz (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Blue Nerdz: Relaxed, Creative. 1 Produkte verfügbar. ab 8,49 €.",
+      "canonical": "https://weed.de/strain/blue-nerdz",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Blue Nerdz (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Blue Nerdz: Relaxed, Creative. 1 Produkte verfügbar. ab 8,49 €.",
+        "url": "https://weed.de/strain/blue-nerdz",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Blue Nerdz",
+        "href": "https://weed.de/strain/blue-nerdz"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Blue Nerdz",
+            "item": "https://weed.de/strain/blue-nerdz"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Blue Nerdz Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/enua-21-bnr-ca",
+            "name": "enua 20/1 BNR CA"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/enua-21-bnr-ca",
+        "text": "enua 20/1 BNR CA",
+        "title": "enua 20/1 BNR CA von enua"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/purple-ice-water",
+        "text": "Purple Ice Water",
+        "title": "Purple Ice Water - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/orange-panties",
+        "text": "Orange Panties",
+        "title": "Orange Panties - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/bling-blaow",
+        "text": "Bling Blaow",
+        "title": "Bling Blaow - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/red-dragon-og",
+        "text": "Red Dragon OG",
+        "title": "Red Dragon OG - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/do-si-dos",
+        "text": "Do-Si-Dos",
+        "title": "Do-Si-Dos - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/beta-myrcene",
+        "text": "Beta-Myrcene",
+        "title": "Beta-Myrcene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

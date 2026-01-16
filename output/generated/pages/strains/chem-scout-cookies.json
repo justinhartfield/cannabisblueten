@@ -1,0 +1,228 @@
+{
+  "strain": {
+    "slug": "chem-scout-cookies",
+    "name": "Chem Scout Cookies",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0,
+      "max": 0
+    },
+    "effects": [
+      "Creative",
+      "Euphoric",
+      "Sleepy"
+    ],
+    "tastes": [
+      "Diesel",
+      "Earthy",
+      "Citrus"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Linalool",
+      "Humulene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 499,
+      "max": 499,
+      "formatted": {
+        "min": "4,99 €",
+        "max": "4,99 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "adrex-241-csc-can",
+      "name": "Adrex 24/1 CSC CAN",
+      "brandName": "Adrexpharma",
+      "thcPercent": 24,
+      "priceMin": 499,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "super-citra-g",
+      "name": "Super Citra G",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "bonez-mc-unclez-rs11-187-sweedz",
+      "name": "Bonez MC - Unclez RS11 - 187 SWEEDZ",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "frosted-cookies",
+      "name": "Frosted Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "atlantic-glue",
+      "name": "Atlantic Glue",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "auto-kerosene-krash",
+      "name": "Auto Kerosene Krash",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Chem Scout Cookies (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Chem Scout Cookies: Creative, Euphoric, Sleepy. 1 Produkte verfügbar. ab 4,99 €.",
+      "canonical": "https://weed.de/strain/chem-scout-cookies",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Chem Scout Cookies (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Chem Scout Cookies: Creative, Euphoric, Sleepy. 1 Produkte verfügbar. ab 4,99 €.",
+        "url": "https://weed.de/strain/chem-scout-cookies",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Chem Scout Cookies",
+        "href": "https://weed.de/strain/chem-scout-cookies"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Chem Scout Cookies",
+            "item": "https://weed.de/strain/chem-scout-cookies"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Chem Scout Cookies Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/adrex-241-csc-can",
+            "name": "Adrex 24/1 CSC CAN"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/adrex-241-csc-can",
+        "text": "Adrex 24/1 CSC CAN",
+        "title": "Adrex 24/1 CSC CAN von Adrexpharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/super-citra-g",
+        "text": "Super Citra G",
+        "title": "Super Citra G - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/bonez-mc-unclez-rs11-187-sweedz",
+        "text": "Bonez MC - Unclez RS11 - 187 SWEEDZ",
+        "title": "Bonez MC - Unclez RS11 - 187 SWEEDZ - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/frosted-cookies",
+        "text": "Frosted Cookies",
+        "title": "Frosted Cookies - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/atlantic-glue",
+        "text": "Atlantic Glue",
+        "title": "Atlantic Glue - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/auto-kerosene-krash",
+        "text": "Auto Kerosene Krash",
+        "title": "Auto Kerosene Krash - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      },
+      {
+        "href": "/terpene/humulene",
+        "text": "Humulene",
+        "title": "Humulene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "apotheke-friesentor-cannacolonia",
+    "name": "Apotheke Friesentor - CannaColonia",
+    "street": "Hohenzollernring 52",
+    "zip": "50672",
+    "cityName": "Köln",
+    "state": "Nordrhein-Westfalen",
+    "lat": 50.9395837,
+    "lng": 6.9401765,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": null,
+    "phone": "022127099971",
+    "email": "info@cannacolonia.de",
+    "productCount": 25,
+    "rating": 2,
+    "ratingCount": 10,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/67c178a4a673edc8d987b9f5-3g607j.jpg"
+  },
+  "city": {
+    "slug": "koeln",
+    "name": "Köln",
+    "pharmacyCount": 7
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "paracelsus-apotheke-cannabis-caesar",
+      "name": "Paracelsus Apotheke (Cannabis Caesar)",
+      "cityName": "Köln",
+      "productCount": 147,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-im-haubrichforum",
+      "name": "Apotheke im Haubrichforum",
+      "cityName": "Köln",
+      "productCount": 47,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannamundus-stadt-apotheke-koeln",
+      "name": "CANNAMUNDUS (Stadt-Apotheke Köln)",
+      "cityName": "Köln",
+      "productCount": 24,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apobuds-kapuziner-apotheke,-koeln",
+      "name": "Kapuziner Apotheke, Köln",
+      "cityName": "Köln",
+      "productCount": 23,
+      "hasDelivery": false
+    },
+    {
+      "slug": "docverde-apotheke-koeln-muelheim-ohg",
+      "name": "DocVerde Apotheke Köln-Mülheim OHG",
+      "cityName": "Köln",
+      "productCount": 7,
+      "hasDelivery": false
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Apotheke Friesentor - CannaColonia - Cannabis Apotheke in Köln",
+      "description": "Apotheke Friesentor - CannaColonia in Köln. 25 Cannabis Produkte. Lieferung & Abholung. Bewertung: 2.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/apotheke-friesentor-cannacolonia",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Apotheke Friesentor - CannaColonia - Cannabis Apotheke in Köln",
+        "description": "Apotheke Friesentor - CannaColonia in Köln. 25 Cannabis Produkte. Lieferung & Abholung. Bewertung: 2.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/apotheke-friesentor-cannacolonia",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/67c178a4a673edc8d987b9f5-3g607j.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Köln",
+        "href": "https://weed.de/cannabis-apotheke/koeln"
+      },
+      {
+        "name": "Apotheke Friesentor - CannaColonia",
+        "href": "https://weed.de/apotheke/apotheke-friesentor-cannacolonia"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Köln",
+            "item": "https://weed.de/cannabis-apotheke/koeln"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Apotheke Friesentor - CannaColonia",
+            "item": "https://weed.de/apotheke/apotheke-friesentor-cannacolonia"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Apotheke Friesentor - CannaColonia",
+        "url": "https://weed.de/apotheke/apotheke-friesentor-cannacolonia",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Hohenzollernring 52",
+          "addressLocality": "Köln",
+          "postalCode": "50672",
+          "addressRegion": "Nordrhein-Westfalen",
+          "addressCountry": "DE"
+        },
+        "telephone": "022127099971",
+        "email": "info@cannacolonia.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/koeln",
+      "text": "Cannabis Apotheken in Köln",
+      "title": "Alle Apotheken in Köln"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/paracelsus-apotheke-cannabis-caesar",
+        "text": "Paracelsus Apotheke (Cannabis Caesar)",
+        "title": "Paracelsus Apotheke (Cannabis Caesar) in Köln"
+      },
+      {
+        "href": "/apotheke/apotheke-im-haubrichforum",
+        "text": "Apotheke im Haubrichforum",
+        "title": "Apotheke im Haubrichforum in Köln"
+      },
+      {
+        "href": "/apotheke/cannamundus-stadt-apotheke-koeln",
+        "text": "CANNAMUNDUS (Stadt-Apotheke Köln)",
+        "title": "CANNAMUNDUS (Stadt-Apotheke Köln) in Köln"
+      },
+      {
+        "href": "/apotheke/apobuds-kapuziner-apotheke,-koeln",
+        "text": "Kapuziner Apotheke, Köln",
+        "title": "Kapuziner Apotheke, Köln in Köln"
+      },
+      {
+        "href": "/apotheke/docverde-apotheke-koeln-muelheim-ohg",
+        "text": "DocVerde Apotheke Köln-Mülheim OHG",
+        "title": "DocVerde Apotheke Köln-Mülheim OHG in Köln"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

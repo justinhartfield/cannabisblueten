@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "karlchengras",
+    "name": "Karlchengras (Karl-Apotheke)",
+    "street": "Karlstraße 18",
+    "zip": "76133",
+    "cityName": "Karlsruhe",
+    "state": "Baden-Württemberg",
+    "lat": 49.0081621,
+    "lng": 8.3946124,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": null,
+    "phone": "072126740",
+    "email": "shop@karlchengras.de",
+    "productCount": 188,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/67501d83f7111ec494a07a46-ji2402.jpg"
+  },
+  "city": {
+    "slug": "karlsruhe",
+    "name": "Karlsruhe",
+    "pharmacyCount": 5
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "rhein-apotheke-im-aerztehaus-muehlburg",
+      "name": "Rhein-Apotheke im Ärztehaus Mühlburg",
+      "cityName": "Karlsruhe",
+      "productCount": 133,
+      "hasDelivery": true
+    },
+    {
+      "slug": "marienhuana-apotheke",
+      "name": "Marienhuana Apotheke",
+      "cityName": "Karlsruhe",
+      "productCount": 43,
+      "hasDelivery": true
+    },
+    {
+      "slug": "weinbrennerapotheke",
+      "name": "Weinbrennerapotheke",
+      "cityName": "Karlsruhe",
+      "productCount": 35,
+      "hasDelivery": true
+    },
+    {
+      "slug": "friesen-apotheke-karlsruhe",
+      "name": "Friesen-Gras",
+      "cityName": "Karlsruhe",
+      "productCount": 22,
+      "hasDelivery": true
+    },
+    {
+      "slug": "florians-vital-apotheke",
+      "name": "Florians Vital Apotheke",
+      "cityName": "Esslingen am Neckar",
+      "productCount": 248,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Karlchengras (Karl-Apotheke) - Cannabis Apotheke in Karlsruhe",
+      "description": "Karlchengras (Karl-Apotheke) in Karlsruhe. 188 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/karlchengras",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Karlchengras (Karl-Apotheke) - Cannabis Apotheke in Karlsruhe",
+        "description": "Karlchengras (Karl-Apotheke) in Karlsruhe. 188 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/karlchengras",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/67501d83f7111ec494a07a46-ji2402.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Karlsruhe",
+        "href": "https://weed.de/cannabis-apotheke/karlsruhe"
+      },
+      {
+        "name": "Karlchengras (Karl-Apotheke)",
+        "href": "https://weed.de/apotheke/karlchengras"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Karlsruhe",
+            "item": "https://weed.de/cannabis-apotheke/karlsruhe"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Karlchengras (Karl-Apotheke)",
+            "item": "https://weed.de/apotheke/karlchengras"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Karlchengras (Karl-Apotheke)",
+        "url": "https://weed.de/apotheke/karlchengras",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Karlstraße 18",
+          "addressLocality": "Karlsruhe",
+          "postalCode": "76133",
+          "addressRegion": "Baden-Württemberg",
+          "addressCountry": "DE"
+        },
+        "telephone": "072126740",
+        "email": "shop@karlchengras.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/karlsruhe",
+      "text": "Cannabis Apotheken in Karlsruhe",
+      "title": "Alle Apotheken in Karlsruhe"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/rhein-apotheke-im-aerztehaus-muehlburg",
+        "text": "Rhein-Apotheke im Ärztehaus Mühlburg",
+        "title": "Rhein-Apotheke im Ärztehaus Mühlburg in Karlsruhe"
+      },
+      {
+        "href": "/apotheke/marienhuana-apotheke",
+        "text": "Marienhuana Apotheke",
+        "title": "Marienhuana Apotheke in Karlsruhe"
+      },
+      {
+        "href": "/apotheke/weinbrennerapotheke",
+        "text": "Weinbrennerapotheke",
+        "title": "Weinbrennerapotheke in Karlsruhe"
+      },
+      {
+        "href": "/apotheke/friesen-apotheke-karlsruhe",
+        "text": "Friesen-Gras",
+        "title": "Friesen-Gras in Karlsruhe"
+      },
+      {
+        "href": "/apotheke/florians-vital-apotheke",
+        "text": "Florians Vital Apotheke",
+        "title": "Florians Vital Apotheke in Esslingen am Neckar"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

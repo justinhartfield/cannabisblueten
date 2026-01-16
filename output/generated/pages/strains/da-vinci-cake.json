@@ -1,0 +1,203 @@
+{
+  "strain": {
+    "slug": "da-vinci-cake",
+    "name": "Da Vinci Cake",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [
+      "Euphoric",
+      "Creative",
+      "Focused"
+    ],
+    "tastes": [
+      "Citrus",
+      "Sweet",
+      "Spicy"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": null
+  },
+  "products": [
+    {
+      "slug": "mgf-dvc-26",
+      "name": "MGF DVC 26",
+      "brandName": "MGF Via Medical",
+      "thcPercent": 26,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "platinum-grapes",
+      "name": "Platinum Grapes",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "gelat-skyfloater",
+      "name": "Gelat Skyfloater",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "think-fast",
+      "name": "Think Fast",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "alien-mints",
+      "name": "Alien Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "wedding-pop-triangle",
+      "name": "Wedding Pop Triangle",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Da Vinci Cake (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Da Vinci Cake: Euphoric, Creative, Focused. 1 Produkte verfügbar.",
+      "canonical": "https://weed.de/strain/da-vinci-cake",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Da Vinci Cake (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Da Vinci Cake: Euphoric, Creative, Focused. 1 Produkte verfügbar.",
+        "url": "https://weed.de/strain/da-vinci-cake",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Da Vinci Cake",
+        "href": "https://weed.de/strain/da-vinci-cake"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Da Vinci Cake",
+            "item": "https://weed.de/strain/da-vinci-cake"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Da Vinci Cake Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/mgf-dvc-26",
+            "name": "MGF DVC 26"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/mgf-dvc-26",
+        "text": "MGF DVC 26",
+        "title": "MGF DVC 26 von MGF Via Medical"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/platinum-grapes",
+        "text": "Platinum Grapes",
+        "title": "Platinum Grapes - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/gelat-skyfloater",
+        "text": "Gelat Skyfloater",
+        "title": "Gelat Skyfloater - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/think-fast",
+        "text": "Think Fast",
+        "title": "Think Fast - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/alien-mints",
+        "text": "Alien Mints",
+        "title": "Alien Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/wedding-pop-triangle",
+        "text": "Wedding Pop Triangle",
+        "title": "Wedding Pop Triangle - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "pharmacy": {
+    "slug": "marien-apotheke-1",
+    "name": "Marien Apotheke",
+    "street": "Waagestraße 1",
+    "zip": "17033",
+    "cityName": "Neubrandenburg",
+    "state": "Mecklenburg-Vorpommern",
+    "lat": 53.55692759999999,
+    "lng": 13.2591702,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": false,
+    "website": null,
+    "phone": "03955826661",
+    "email": "marien@apo-nb.de",
+    "productCount": 0,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.de/pharmacies/65c0ef9360126117f43df894-6gbcb0.jpg"
+  },
+  "city": {
+    "slug": "neubrandenburg",
+    "name": "Neubrandenburg",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "rats-apotheke",
+      "name": "Rats Apotheke | Cannabis Stralsund",
+      "cityName": "Stralsund",
+      "productCount": 20,
+      "hasDelivery": true
+    },
+    {
+      "slug": "rosen-apotheke-greifswald",
+      "name": "Rosen-Apotheke Greifswald",
+      "cityName": "Greifswald",
+      "productCount": 12,
+      "hasDelivery": true
+    },
+    {
+      "slug": "granitz-apotheke",
+      "name": "Granitz-Apotheke",
+      "cityName": "Sellin",
+      "productCount": 0,
+      "hasDelivery": false
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Marien Apotheke - Cannabis Apotheke in Neubrandenburg",
+      "description": "Marien Apotheke in Neubrandenburg. Lieferung & Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/marien-apotheke-1",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Marien Apotheke - Cannabis Apotheke in Neubrandenburg",
+        "description": "Marien Apotheke in Neubrandenburg. Lieferung & Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/marien-apotheke-1",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/pharmacies/65c0ef9360126117f43df894-6gbcb0.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Neubrandenburg",
+        "href": "https://weed.de/cannabis-apotheke/neubrandenburg"
+      },
+      {
+        "name": "Marien Apotheke",
+        "href": "https://weed.de/apotheke/marien-apotheke-1"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Neubrandenburg",
+            "item": "https://weed.de/cannabis-apotheke/neubrandenburg"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Marien Apotheke",
+            "item": "https://weed.de/apotheke/marien-apotheke-1"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Marien Apotheke",
+        "url": "https://weed.de/apotheke/marien-apotheke-1",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Waagestraße 1",
+          "addressLocality": "Neubrandenburg",
+          "postalCode": "17033",
+          "addressRegion": "Mecklenburg-Vorpommern",
+          "addressCountry": "DE"
+        },
+        "telephone": "03955826661",
+        "email": "marien@apo-nb.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/neubrandenburg",
+      "text": "Cannabis Apotheken in Neubrandenburg",
+      "title": "Alle Apotheken in Neubrandenburg"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/rats-apotheke",
+        "text": "Rats Apotheke | Cannabis Stralsund",
+        "title": "Rats Apotheke | Cannabis Stralsund in Stralsund"
+      },
+      {
+        "href": "/apotheke/rosen-apotheke-greifswald",
+        "text": "Rosen-Apotheke Greifswald",
+        "title": "Rosen-Apotheke Greifswald in Greifswald"
+      },
+      {
+        "href": "/apotheke/granitz-apotheke",
+        "text": "Granitz-Apotheke",
+        "title": "Granitz-Apotheke in Sellin"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has services"
+  }
+}

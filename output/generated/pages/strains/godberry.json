@@ -1,0 +1,254 @@
+{
+  "strain": {
+    "slug": "godberry",
+    "name": "Godberry",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Euphoric",
+      "Relaxed",
+      "Sleepy"
+    ],
+    "tastes": [
+      "Sweet",
+      "Earthy",
+      "Flowery"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 3,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 475,
+      "max": 899,
+      "formatted": {
+        "min": "4,75 €",
+        "max": "8,99 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "241-amici-gb",
+      "name": "24/1 Amici GB",
+      "brandName": "Cansativa",
+      "thcPercent": 24,
+      "priceMin": 889,
+      "inStock": true
+    },
+    {
+      "slug": "281-amici-gb-godberry",
+      "name": "28/1 Amici GB Godberry",
+      "brandName": "Cansativa",
+      "thcPercent": 28,
+      "priceMin": 475,
+      "inStock": true
+    },
+    {
+      "slug": "261-amici-gb",
+      "name": "26/1 Amici GB",
+      "brandName": "Cansativa",
+      "thcPercent": 26,
+      "priceMin": 499,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "cheese-quake",
+      "name": "Cheese Quake",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "tigerz-eye",
+      "name": "Tigerz Eye",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "tickle-burger",
+      "name": "Tickle Burger",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "alien-mints",
+      "name": "Alien Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "mellowz",
+      "name": "Mellowz",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Godberry (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Godberry: Euphoric, Relaxed, Sleepy. 3 Produkte verfügbar. ab 4,75 €.",
+      "canonical": "https://weed.de/strain/godberry",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Godberry (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Godberry: Euphoric, Relaxed, Sleepy. 3 Produkte verfügbar. ab 4,75 €.",
+        "url": "https://weed.de/strain/godberry",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Godberry",
+        "href": "https://weed.de/strain/godberry"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Godberry",
+            "item": "https://weed.de/strain/godberry"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Godberry Produkte",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/241-amici-gb",
+            "name": "24/1 Amici GB"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/281-amici-gb-godberry",
+            "name": "28/1 Amici GB Godberry"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/261-amici-gb",
+            "name": "26/1 Amici GB"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/241-amici-gb",
+        "text": "24/1 Amici GB",
+        "title": "24/1 Amici GB von Cansativa"
+      },
+      {
+        "href": "/product/281-amici-gb-godberry",
+        "text": "28/1 Amici GB Godberry",
+        "title": "28/1 Amici GB Godberry von Cansativa"
+      },
+      {
+        "href": "/product/261-amici-gb",
+        "text": "26/1 Amici GB",
+        "title": "26/1 Amici GB von Cansativa"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/cheese-quake",
+        "text": "Cheese Quake",
+        "title": "Cheese Quake - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/tigerz-eye",
+        "text": "Tigerz Eye",
+        "title": "Tigerz Eye - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/tickle-burger",
+        "text": "Tickle Burger",
+        "title": "Tickle Burger - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/alien-mints",
+        "text": "Alien Mints",
+        "title": "Alien Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/mellowz",
+        "text": "Mellowz",
+        "title": "Mellowz - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

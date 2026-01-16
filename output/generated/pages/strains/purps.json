@@ -1,0 +1,252 @@
+{
+  "strain": {
+    "slug": "purps",
+    "name": "Purps",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Relaxed"
+    ],
+    "tastes": [
+      "Spicy",
+      "Citrus",
+      "Sweet"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Limonene",
+      "Linalool"
+    ],
+    "description": "Purps zählt zu den medizinischen Kultivaren. Sie überzeugt mit einem ausgeglichen Hybrid-Profil und einem THC Gehalt um die 25 %. Die Hauptterpene von Purps sind Caryophyllene, Limonene, Linalool. Nutzer berichten von einer entspannenden und Schmerzlindernden Wirkung. Die Abstammung von Purps ist nicht bekannt.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 3,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 349,
+      "max": 1290,
+      "formatted": {
+        "min": "3,49 €",
+        "max": "12,90 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "tilray-thc-25-spotlight-porto-purps",
+      "name": "Tilray THC 25 Spotlight Porto Purps",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": 349,
+      "inStock": true
+    },
+    {
+      "slug": "navcora-thc-18-porto-purps",
+      "name": "Navcora THC 18 Spotlight Porto Purps",
+      "brandName": "Tilray",
+      "thcPercent": 18,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "tilray-thc-22-spotlight-porto-purps",
+      "name": "Tilray THC 22 Spotlight Porto Purps",
+      "brandName": "Tilray",
+      "thcPercent": 22,
+      "priceMin": 549,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "ice-cream-cake-kush-mints",
+      "name": "Ice Cream Cake Kush Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "black-kush",
+      "name": "Black Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "pave-s1",
+      "name": "Pavé S1",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "scottie's-cake",
+      "name": "Scotti's Cake",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "colour-of-space-12",
+      "name": "Colour of Space 12",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Purps (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Purps: Relaxed. 3 Produkte verfügbar. ab 3,49 €.",
+      "canonical": "https://weed.de/strain/purps",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Purps (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Purps: Relaxed. 3 Produkte verfügbar. ab 3,49 €.",
+        "url": "https://weed.de/strain/purps",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Purps",
+        "href": "https://weed.de/strain/purps"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Purps",
+            "item": "https://weed.de/strain/purps"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Purps Produkte",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/tilray-thc-25-spotlight-porto-purps",
+            "name": "Tilray THC 25 Spotlight Porto Purps"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/navcora-thc-18-porto-purps",
+            "name": "Navcora THC 18 Spotlight Porto Purps"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/tilray-thc-22-spotlight-porto-purps",
+            "name": "Tilray THC 22 Spotlight Porto Purps"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/tilray-thc-25-spotlight-porto-purps",
+        "text": "Tilray THC 25 Spotlight Porto Purps",
+        "title": "Tilray THC 25 Spotlight Porto Purps von Tilray"
+      },
+      {
+        "href": "/product/navcora-thc-18-porto-purps",
+        "text": "Navcora THC 18 Spotlight Porto Purps",
+        "title": "Navcora THC 18 Spotlight Porto Purps von Tilray"
+      },
+      {
+        "href": "/product/tilray-thc-22-spotlight-porto-purps",
+        "text": "Tilray THC 22 Spotlight Porto Purps",
+        "title": "Tilray THC 22 Spotlight Porto Purps von Tilray"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/ice-cream-cake-kush-mints",
+        "text": "Ice Cream Cake Kush Mints",
+        "title": "Ice Cream Cake Kush Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/black-kush",
+        "text": "Black Kush",
+        "title": "Black Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/pave-s1",
+        "text": "Pavé S1",
+        "title": "Pavé S1 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/scottie's-cake",
+        "text": "Scotti's Cake",
+        "title": "Scotti's Cake - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/colour-of-space-12",
+        "text": "Colour of Space 12",
+        "title": "Colour of Space 12 - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

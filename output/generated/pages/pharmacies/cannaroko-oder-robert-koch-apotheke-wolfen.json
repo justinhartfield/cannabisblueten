@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "cannaroko-oder-robert-koch-apotheke-wolfen",
+    "name": "CannaRoKo | Robert-Koch-Apotheke Wolfen",
+    "street": "Robert-Koch-Straße 3",
+    "zip": "06766",
+    "cityName": "Bitterfeld-Wolfen",
+    "state": "Sachsen-Anhalt",
+    "lat": 51.6624282,
+    "lng": 12.2739896,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://cannaroko.shop",
+    "phone": "0349444128",
+    "email": "shop@cannaroko.shop",
+    "productCount": 80,
+    "rating": 5,
+    "ratingCount": 2,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/6825d08f3b53e391ab2380f1-8d4921.jpg"
+  },
+  "city": {
+    "slug": "bitterfeld-wolfen",
+    "name": "Bitterfeld-Wolfen",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "hirsch-apotheke-1",
+      "name": "Cannasana",
+      "cityName": "Hohe Börde",
+      "productCount": 66,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-am-collegienhof",
+      "name": "Elbgrün",
+      "cityName": "Lutherstadt Wittenberg",
+      "productCount": 43,
+      "hasDelivery": true
+    },
+    {
+      "slug": "easyapotheke-magdeburg",
+      "name": "easyApotheke Magdeburg",
+      "cityName": "Magdeburg",
+      "productCount": 32,
+      "hasDelivery": true
+    },
+    {
+      "slug": "rosen-apotheke-eisleben",
+      "name": "Rosen Apotheke Eisleben",
+      "cityName": "Lutherstadt Eisleben",
+      "productCount": 25,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannalles",
+      "name": "Cannalles im Salzlandkreis",
+      "cityName": "Hecklingen",
+      "productCount": 22,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "CannaRoKo | Robert-Koch-Apotheke Wolfen - Cannabis Apotheke in Bitterfeld-Wolfen",
+      "description": "CannaRoKo | Robert-Koch-Apotheke Wolfen in Bitterfeld-Wolfen. 80 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/cannaroko-oder-robert-koch-apotheke-wolfen",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "CannaRoKo | Robert-Koch-Apotheke Wolfen - Cannabis Apotheke in Bitterfeld-Wolfen",
+        "description": "CannaRoKo | Robert-Koch-Apotheke Wolfen in Bitterfeld-Wolfen. 80 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/cannaroko-oder-robert-koch-apotheke-wolfen",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/6825d08f3b53e391ab2380f1-8d4921.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Bitterfeld-Wolfen",
+        "href": "https://weed.de/cannabis-apotheke/bitterfeld-wolfen"
+      },
+      {
+        "name": "CannaRoKo | Robert-Koch-Apotheke Wolfen",
+        "href": "https://weed.de/apotheke/cannaroko-oder-robert-koch-apotheke-wolfen"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Bitterfeld-Wolfen",
+            "item": "https://weed.de/cannabis-apotheke/bitterfeld-wolfen"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "CannaRoKo | Robert-Koch-Apotheke Wolfen",
+            "item": "https://weed.de/apotheke/cannaroko-oder-robert-koch-apotheke-wolfen"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "CannaRoKo | Robert-Koch-Apotheke Wolfen",
+        "url": "https://weed.de/apotheke/cannaroko-oder-robert-koch-apotheke-wolfen",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Robert-Koch-Straße 3",
+          "addressLocality": "Bitterfeld-Wolfen",
+          "postalCode": "06766",
+          "addressRegion": "Sachsen-Anhalt",
+          "addressCountry": "DE"
+        },
+        "telephone": "0349444128",
+        "email": "shop@cannaroko.shop"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/bitterfeld-wolfen",
+      "text": "Cannabis Apotheken in Bitterfeld-Wolfen",
+      "title": "Alle Apotheken in Bitterfeld-Wolfen"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/hirsch-apotheke-1",
+        "text": "Cannasana",
+        "title": "Cannasana in Hohe Börde"
+      },
+      {
+        "href": "/apotheke/apotheke-am-collegienhof",
+        "text": "Elbgrün",
+        "title": "Elbgrün in Lutherstadt Wittenberg"
+      },
+      {
+        "href": "/apotheke/easyapotheke-magdeburg",
+        "text": "easyApotheke Magdeburg",
+        "title": "easyApotheke Magdeburg in Magdeburg"
+      },
+      {
+        "href": "/apotheke/rosen-apotheke-eisleben",
+        "text": "Rosen Apotheke Eisleben",
+        "title": "Rosen Apotheke Eisleben in Lutherstadt Eisleben"
+      },
+      {
+        "href": "/apotheke/cannalles",
+        "text": "Cannalles im Salzlandkreis",
+        "title": "Cannalles im Salzlandkreis in Hecklingen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

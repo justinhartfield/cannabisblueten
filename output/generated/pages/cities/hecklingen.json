@@ -1,0 +1,165 @@
+{
+  "city": {
+    "slug": "hecklingen",
+    "name": "Hecklingen",
+    "state": "Sachsen-Anhalt"
+  },
+  "stats": {
+    "pharmacyCount": 1,
+    "totalProducts": 22,
+    "hasDelivery": true
+  },
+  "pharmacies": [
+    {
+      "slug": "cannalles",
+      "name": "Cannalles im Salzlandkreis",
+      "street": "Hermann-Danz-Straße 76",
+      "zip": "39444",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 22,
+      "rating": 5,
+      "ratingCount": 1
+    }
+  ],
+  "nearbyCities": [
+    {
+      "slug": "magdeburg",
+      "name": "Magdeburg",
+      "pharmacyCount": 2
+    },
+    {
+      "slug": "halle-saale",
+      "name": "Halle (Saale)",
+      "pharmacyCount": 2
+    },
+    {
+      "slug": "hohe-boerde",
+      "name": "Hohe Börde",
+      "pharmacyCount": 1
+    },
+    {
+      "slug": "bitterfeld-wolfen",
+      "name": "Bitterfeld-Wolfen",
+      "pharmacyCount": 1
+    },
+    {
+      "slug": "lutherstadt-eisleben",
+      "name": "Lutherstadt Eisleben",
+      "pharmacyCount": 1
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannabis Apotheke Hecklingen - 1 Apotheken",
+      "description": "Cannabis Apotheken in Hecklingen. 1 Apotheken mit 22 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+      "canonical": "https://weed.de/cannabis-apotheke/hecklingen",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannabis Apotheke Hecklingen - 1 Apotheken",
+        "description": "Cannabis Apotheken in Hecklingen. 1 Apotheken mit 22 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+        "url": "https://weed.de/cannabis-apotheke/hecklingen",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Hecklingen",
+        "href": "https://weed.de/cannabis-apotheke/hecklingen"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Hecklingen",
+            "item": "https://weed.de/cannabis-apotheke/hecklingen"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Cannabis Apotheken in Hecklingen",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/apotheke/cannalles",
+            "name": "Cannalles im Salzlandkreis"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "pharmacies": [
+      {
+        "href": "/apotheke/cannalles",
+        "text": "Cannalles im Salzlandkreis",
+        "title": "Cannalles im Salzlandkreis in Hecklingen"
+      }
+    ],
+    "nearbyCities": [
+      {
+        "href": "/cannabis-apotheke/magdeburg",
+        "text": "Cannabis Apotheke Magdeburg",
+        "title": "2 Apotheken in Magdeburg"
+      },
+      {
+        "href": "/cannabis-apotheke/halle-saale",
+        "text": "Cannabis Apotheke Halle (Saale)",
+        "title": "2 Apotheken in Halle (Saale)"
+      },
+      {
+        "href": "/cannabis-apotheke/hohe-boerde",
+        "text": "Cannabis Apotheke Hohe Börde",
+        "title": "1 Apotheken in Hohe Börde"
+      },
+      {
+        "href": "/cannabis-apotheke/bitterfeld-wolfen",
+        "text": "Cannabis Apotheke Bitterfeld-Wolfen",
+        "title": "1 Apotheken in Bitterfeld-Wolfen"
+      },
+      {
+        "href": "/cannabis-apotheke/lutherstadt-eisleben",
+        "text": "Cannabis Apotheke Lutherstadt Eisleben",
+        "title": "1 Apotheken in Lutherstadt Eisleben"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Single pharmacy with good product coverage"
+  }
+}

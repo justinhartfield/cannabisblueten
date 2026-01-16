@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "grune-blute-ulmen-apotheke",
+    "name": "Grüne Blüte",
+    "street": "Adam-Opel-Straße 22",
+    "zip": "67227",
+    "cityName": "Frankenthal (Pfalz)",
+    "state": "Rheinland-Pfalz",
+    "lat": 49.9751238,
+    "lng": 8.1911307,
+    "hasDelivery": true,
+    "hasPickup": false,
+    "hasPrices": true,
+    "website": "https://gruenebluete.de",
+    "phone": "00496211226782",
+    "email": "info@gruenebluete.de",
+    "productCount": 158,
+    "rating": 5,
+    "ratingCount": 1,
+    "imageUrl": "https://weed.de/pharmacies/6440e5b8204648008ed569f6-e4f1if.jpg"
+  },
+  "city": {
+    "slug": "frankenthal-pfalz",
+    "name": "Frankenthal (Pfalz)",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "cannabis-apotheke-rheinland",
+      "name": "Cannabis Apotheke Rheinland",
+      "cityName": "Bad Neuenahr-Ahrweiler",
+      "productCount": 161,
+      "hasDelivery": true
+    },
+    {
+      "slug": "pharmablute",
+      "name": "PharmaBlüte",
+      "cityName": "Mainz",
+      "productCount": 124,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis4me",
+      "name": "cannabis4me",
+      "cityName": "Bad Neuenahr-Ahrweiler",
+      "productCount": 89,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-am-kornmarkt",
+      "name": "Apotheke am Kornmarkt",
+      "cityName": "Trier",
+      "productCount": 64,
+      "hasDelivery": false
+    },
+    {
+      "slug": "green-city-cannabis",
+      "name": "Green City Cannabis",
+      "cityName": "Grünstadt",
+      "productCount": 62,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Grüne Blüte - Cannabis Apotheke in Frankenthal (Pfalz)",
+      "description": "Grüne Blüte in Frankenthal (Pfalz). 158 Cannabis Produkte. Lieferung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/grune-blute-ulmen-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Grüne Blüte - Cannabis Apotheke in Frankenthal (Pfalz)",
+        "description": "Grüne Blüte in Frankenthal (Pfalz). 158 Cannabis Produkte. Lieferung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/grune-blute-ulmen-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/pharmacies/6440e5b8204648008ed569f6-e4f1if.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Frankenthal (Pfalz)",
+        "href": "https://weed.de/cannabis-apotheke/frankenthal-pfalz"
+      },
+      {
+        "name": "Grüne Blüte",
+        "href": "https://weed.de/apotheke/grune-blute-ulmen-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Frankenthal (Pfalz)",
+            "item": "https://weed.de/cannabis-apotheke/frankenthal-pfalz"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Grüne Blüte",
+            "item": "https://weed.de/apotheke/grune-blute-ulmen-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Grüne Blüte",
+        "url": "https://weed.de/apotheke/grune-blute-ulmen-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Adam-Opel-Straße 22",
+          "addressLocality": "Frankenthal (Pfalz)",
+          "postalCode": "67227",
+          "addressRegion": "Rheinland-Pfalz",
+          "addressCountry": "DE"
+        },
+        "telephone": "00496211226782",
+        "email": "info@gruenebluete.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/frankenthal-pfalz",
+      "text": "Cannabis Apotheken in Frankenthal (Pfalz)",
+      "title": "Alle Apotheken in Frankenthal (Pfalz)"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/cannabis-apotheke-rheinland",
+        "text": "Cannabis Apotheke Rheinland",
+        "title": "Cannabis Apotheke Rheinland in Bad Neuenahr-Ahrweiler"
+      },
+      {
+        "href": "/apotheke/pharmablute",
+        "text": "PharmaBlüte",
+        "title": "PharmaBlüte in Mainz"
+      },
+      {
+        "href": "/apotheke/cannabis4me",
+        "text": "cannabis4me",
+        "title": "cannabis4me in Bad Neuenahr-Ahrweiler"
+      },
+      {
+        "href": "/apotheke/apotheke-am-kornmarkt",
+        "text": "Apotheke am Kornmarkt",
+        "title": "Apotheke am Kornmarkt in Trier"
+      },
+      {
+        "href": "/apotheke/green-city-cannabis",
+        "text": "Green City Cannabis",
+        "title": "Green City Cannabis in Grünstadt"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

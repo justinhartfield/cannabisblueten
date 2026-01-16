@@ -1,0 +1,114 @@
+{
+  "product": {
+    "slug": "lgp-25-classic-cannabisextrakt",
+    "name": "LGP 20:5 Classic Cannabisextrakt",
+    "type": "extract",
+    "genetics": null,
+    "thcPercent": 20,
+    "cbdPercent": 5,
+    "priceMin": 900,
+    "priceMax": 900,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Australien",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "little-green-pharma",
+    "name": "Little Green Pharma",
+    "productCount": 1
+  },
+  "strain": null,
+  "attributes": {
+    "effects": [],
+    "tastes": [],
+    "terpenes": []
+  },
+  "alternativeProducts": [],
+  "seo": {
+    "meta": {
+      "title": "LGP 20:5 Classic Cannabisextrakt - Little Green Pharma | ...",
+      "description": "LGP 20:5 Classic Cannabisextrakt von Little Green Pharma. THC: 20%, CBD: 5%. Preis ab 9,00 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/lgp-25-classic-cannabisextrakt",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "LGP 20:5 Classic Cannabisextrakt - Little Green Pharma | ...",
+        "description": "LGP 20:5 Classic Cannabisextrakt von Little Green Pharma. THC: 20%, CBD: 5%. Preis ab 9,00 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/lgp-25-classic-cannabisextrakt",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Little Green Pharma",
+        "href": "https://weed.de/brand/little-green-pharma"
+      },
+      {
+        "name": "LGP 20:5 Classic Cannabisextrakt",
+        "href": "https://weed.de/product/lgp-25-classic-cannabisextrakt"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "LGP 20:5 Classic Cannabisextrakt",
+            "item": "https://weed.de/product/lgp-25-classic-cannabisextrakt"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "LGP 20:5 Classic Cannabisextrakt",
+        "brand": {
+          "@type": "Brand",
+          "name": "Little Green Pharma"
+        },
+        "description": "THC: 20%, CBD: 5%"
+      }
+    ]
+  },
+  "links": {
+    "strain": null,
+    "brand": {
+      "href": "/brand/little-green-pharma",
+      "text": "Little Green Pharma",
+      "title": "Alle Little Green Pharma Produkte"
+    },
+    "alternatives": []
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

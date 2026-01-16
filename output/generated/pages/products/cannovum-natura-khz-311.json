@@ -1,0 +1,227 @@
+{
+  "product": {
+    "slug": "cannovum-natura-khz-311",
+    "name": "Cannovum Natura KHZ 31/1",
+    "type": "flower",
+    "genetics": "hybrid_sativa",
+    "thcPercent": 31,
+    "cbdPercent": 1,
+    "priceMin": 749,
+    "priceMax": 999,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Portugal",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "cannovum-health",
+    "name": "Cannovum Health",
+    "productCount": 19
+  },
+  "strain": {
+    "slug": "karel's-haze",
+    "name": "Karel's Haze",
+    "geneticType": "hybrid",
+    "effects": [
+      "Happy",
+      "Relaxed",
+      "Euphoric",
+      "Energetic"
+    ],
+    "terpenes": [
+      "Beta-Myrcene",
+      "Beta-Caryophyllene",
+      "Limonene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Happy",
+      "Relaxed",
+      "Euphoric",
+      "Energetic"
+    ],
+    "tastes": [
+      "Citrus",
+      "Lime",
+      "Tropical",
+      "Earthy"
+    ],
+    "terpenes": [
+      "Beta-Myrcene",
+      "Beta-Caryophyllene",
+      "Limonene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "amp-classic-251",
+      "name": "AMP Classic 25/1",
+      "brandName": "AMP",
+      "thcPercent": 25,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "weeco-231",
+      "name": "Weeco 23/1",
+      "brandName": "Weeco",
+      "thcPercent": 23,
+      "priceMin": 599,
+      "inStock": true
+    },
+    {
+      "slug": "aurora-221-dhz-ca",
+      "name": "Aurora 22/1 DHZ-CA",
+      "brandName": "Aurora",
+      "thcPercent": 19.8,
+      "priceMin": 640,
+      "inStock": true
+    },
+    {
+      "slug": "420-evolution-271-ca-str",
+      "name": "420 Evolution 27/1 CA STR",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 27,
+      "priceMin": 645,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-221-florestura",
+      "name": "DEMECAN Florestura 22:01",
+      "brandName": "Deutsche Medizinalcannabis",
+      "thcPercent": 22,
+      "priceMin": 679,
+      "inStock": true
+    },
+    {
+      "slug": "avaay-231-rg",
+      "name": "AVAAY 23/1 RG",
+      "brandName": "Avaay",
+      "thcPercent": 23.7,
+      "priceMin": 689,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannovum Natura KHZ 31/1 - Cannovum Health | ab 7,49 €",
+      "description": "Cannovum Natura KHZ 31/1 von Cannovum Health. THC: 31%, CBD: 1%. Sorte: Karel's Haze. Preis ab 7,49 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/cannovum-natura-khz-311",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannovum Natura KHZ 31/1 - Cannovum Health | ab 7,49 €",
+        "description": "Cannovum Natura KHZ 31/1 von Cannovum Health. THC: 31%, CBD: 1%. Sorte: Karel's Haze. Preis ab 7,49 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/cannovum-natura-khz-311",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Cannovum Health",
+        "href": "https://weed.de/brand/cannovum-health"
+      },
+      {
+        "name": "Cannovum Natura KHZ 31/1",
+        "href": "https://weed.de/product/cannovum-natura-khz-311"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Cannovum Natura KHZ 31/1",
+            "item": "https://weed.de/product/cannovum-natura-khz-311"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Cannovum Natura KHZ 31/1",
+        "brand": {
+          "@type": "Brand",
+          "name": "Cannovum Health"
+        },
+        "description": "THC: 31%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/karel's-haze",
+      "text": "Karel's Haze",
+      "title": "Karel's Haze Sorte"
+    },
+    "brand": {
+      "href": "/brand/cannovum-health",
+      "text": "Cannovum Health",
+      "title": "Alle Cannovum Health Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/amp-classic-251",
+        "text": "AMP Classic 25/1",
+        "title": "Alternative: AMP Classic 25/1"
+      },
+      {
+        "href": "/product/weeco-231",
+        "text": "Weeco 23/1",
+        "title": "Alternative: Weeco 23/1"
+      },
+      {
+        "href": "/product/aurora-221-dhz-ca",
+        "text": "Aurora 22/1 DHZ-CA",
+        "title": "Alternative: Aurora 22/1 DHZ-CA"
+      },
+      {
+        "href": "/product/420-evolution-271-ca-str",
+        "text": "420 Evolution 27/1 CA STR",
+        "title": "Alternative: 420 Evolution 27/1 CA STR"
+      },
+      {
+        "href": "/product/demecan-221-florestura",
+        "text": "DEMECAN Florestura 22:01",
+        "title": "Alternative: DEMECAN Florestura 22:01"
+      },
+      {
+        "href": "/product/avaay-231-rg",
+        "text": "AVAAY 23/1 RG",
+        "title": "Alternative: AVAAY 23/1 RG"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

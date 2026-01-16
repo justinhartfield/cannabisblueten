@@ -1,0 +1,254 @@
+{
+  "strain": {
+    "slug": "cannabis-sativa-l.-elida",
+    "name": "Elida",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 9,
+      "max": 9
+    },
+    "effects": [
+      "Calming",
+      "Relaxed",
+      "Pain-relief",
+      "Stress-relief",
+      "Headache",
+      "Mood-lifting",
+      "Focused"
+    ],
+    "tastes": [
+      "Tangy",
+      "Earthy",
+      "Tropical",
+      "Citrus",
+      "Pine"
+    ],
+    "terpenes": [
+      "Beta-Caryophyllene",
+      "Myrcene",
+      "Terpinolene",
+      "Beta-Pinene",
+      "Ocimene",
+      "Humulene"
+    ],
+    "description": "Elida ist eine Sativa-Sorte, deren Kultivar-Genetik proprietär vom Züchter Bedrocan entwickelt wurde. Diese Sorte bildet die Grundlage für das CBD-reiche medizinische Cannabisprodukt Bediol®, wobei ihre Abstammung aufgrund ihrer Effekte und ihres Profils oft mit der Landrasse Nepali und den Zuchtlinien Eldorado und Ida in Verbindung gebracht wird. Mit einem niedrigen THC-Gehalt von typischerweise 6% bis 6,3% und einem dominanten CBD-Wert von etwa 8% bis 9% liefert sie milde und nicht-psychoaktive Effekte. \nIhr komplexes Geschmacksprofil ist geprägt von erdigen und würzigen Noten, ergänzt durch tropische Akzente und Zitrusfrüchte. Das Terpenprofil, das von Myrcen, Beta-Caryophyllen und Terpinolen dominiert wird, enthält zusätzlich auch Humulen, Ocimen und Beta-Pinen, was das Aroma mit entspannenden, würzigen, kiefernartigen und leicht süßen Nuancen unterstreicht. \nDie Wirkung ist primär beruhigend und entspannend und führt zu einem Zustand der tiefen Ruhe, der ideal ist, um innere Anspannung und Stress effektiv abzubauen. Elida eignet sich hervorragend, um chronische Schmerzen, Migräne und Depressionen zu lindern, wobei sie dank des hohen CBD-Gehalts auch eine milde psychoaktive, fokussierende und stimmungsaufhellende Wirkung bietet. Zusammengefasst ist Elida eine hoch standardisierte Sorte für alle, die ein CBD-reiches, tropisch-erdiges Aroma mit einer zuverlässig ausgleichenden und entspannenden Wirkung suchen.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 995,
+      "max": 1580,
+      "formatted": {
+        "min": "9,95 €",
+        "max": "15,80 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "bediol-granuliert",
+      "name": "Bediol (granuliert)",
+      "brandName": "Bedrocan",
+      "thcPercent": 6,
+      "priceMin": 1249,
+      "inStock": true
+    },
+    {
+      "slug": "bediol",
+      "name": "Bediol",
+      "brandName": "Bedrocan",
+      "thcPercent": 6.3,
+      "priceMin": 995,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "frosted-cookies",
+      "name": "Frosted Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "super-citra-g",
+      "name": "Super Citra G",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "frosted-lemon-cake",
+      "name": "Frosted Lemon Cake",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "bedrolite",
+      "name": "Bedrolite®",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "haymaker-haze",
+      "name": "Haymaker Haze",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Elida (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Elida: Calming, Relaxed, Pain-relief. 2 Produkte verfügbar. ab 9,95 €.",
+      "canonical": "https://weed.de/strain/cannabis-sativa-l.-elida",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Elida (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Elida: Calming, Relaxed, Pain-relief. 2 Produkte verfügbar. ab 9,95 €.",
+        "url": "https://weed.de/strain/cannabis-sativa-l.-elida",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Elida",
+        "href": "https://weed.de/strain/cannabis-sativa-l.-elida"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Elida",
+            "item": "https://weed.de/strain/cannabis-sativa-l.-elida"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Elida Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/bediol-granuliert",
+            "name": "Bediol (granuliert)"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/bediol",
+            "name": "Bediol"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/bediol-granuliert",
+        "text": "Bediol (granuliert)",
+        "title": "Bediol (granuliert) von Bedrocan"
+      },
+      {
+        "href": "/product/bediol",
+        "text": "Bediol",
+        "title": "Bediol von Bedrocan"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/frosted-cookies",
+        "text": "Frosted Cookies",
+        "title": "Frosted Cookies - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/super-citra-g",
+        "text": "Super Citra G",
+        "title": "Super Citra G - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/frosted-lemon-cake",
+        "text": "Frosted Lemon Cake",
+        "title": "Frosted Lemon Cake - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/bedrolite",
+        "text": "Bedrolite®",
+        "title": "Bedrolite® - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/haymaker-haze",
+        "text": "Haymaker Haze",
+        "title": "Haymaker Haze - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/terpinolene",
+        "text": "Terpinolene",
+        "title": "Terpinolene Terpen"
+      },
+      {
+        "href": "/terpene/beta-pinene",
+        "text": "Beta-Pinene",
+        "title": "Beta-Pinene Terpen"
+      },
+      {
+        "href": "/terpene/ocimene",
+        "text": "Ocimene",
+        "title": "Ocimene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

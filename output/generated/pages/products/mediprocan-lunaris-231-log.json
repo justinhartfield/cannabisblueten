@@ -1,0 +1,230 @@
+{
+  "product": {
+    "slug": "mediprocan-lunaris-231-log",
+    "name": "mediproCan Lunaris 23/1 LOG",
+    "type": "flower",
+    "genetics": "indica",
+    "thcPercent": 23,
+    "cbdPercent": 0,
+    "priceMin": 369,
+    "priceMax": 690,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Portugal",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "mediprocan",
+    "name": "mediproCan",
+    "productCount": 23
+  },
+  "strain": {
+    "slug": "legend-og",
+    "name": "Legend OG",
+    "geneticType": "indica",
+    "effects": [
+      "Sleepy",
+      "Relaxed",
+      "Hungry",
+      "Dry Mouth",
+      "Dizzy",
+      "Dry Eyes"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Caryophyllene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Sleepy",
+      "Relaxed",
+      "Hungry",
+      "Dry Mouth",
+      "Dizzy",
+      "Dry Eyes"
+    ],
+    "tastes": [
+      "Chemical",
+      "Pungent",
+      "Woody"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Caryophyllene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "aurora-thc-25-cannabis-extract",
+      "name": "Aurora THC 25 Cannabis Extract",
+      "brandName": "Cansativa",
+      "thcPercent": 2.5,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "adven-cannabisextrakt-thc-20",
+      "name": "Adven Cannabisextrakt THC 20",
+      "brandName": "Adven",
+      "thcPercent": 2,
+      "priceMin": 476,
+      "inStock": true
+    },
+    {
+      "slug": "adven-cannabisextrakt-thc-10-cbd-10",
+      "name": "Adven Cannabisextrakt THC 10 CBD 10",
+      "brandName": "Adven",
+      "thcPercent": 10,
+      "priceMin": 560,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-1",
+      "name": "Demecan Typ 1",
+      "brandName": "Demecan",
+      "thcPercent": 21,
+      "priceMin": 694,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-indica-forte-ej",
+      "name": "Cannamedical Indica forte EJ",
+      "brandName": "Cannamedical",
+      "thcPercent": 24,
+      "priceMin": 700,
+      "inStock": true
+    },
+    {
+      "slug": "251vayamed-cannabisextrakt",
+      "name": "25/1Vayamed Cannabisextrakt",
+      "brandName": "Vayamed",
+      "thcPercent": 2.5,
+      "priceMin": 824,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "mediproCan Lunaris 23/1 LOG | ab 3,69 €",
+      "description": "mediproCan Lunaris 23/1 LOG von mediproCan. THC: 23%, CBD: 0%. Sorte: Legend OG. Preis ab 3,69 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/mediprocan-lunaris-231-log",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "mediproCan Lunaris 23/1 LOG | ab 3,69 €",
+        "description": "mediproCan Lunaris 23/1 LOG von mediproCan. THC: 23%, CBD: 0%. Sorte: Legend OG. Preis ab 3,69 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/mediprocan-lunaris-231-log",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "mediproCan",
+        "href": "https://weed.de/brand/mediprocan"
+      },
+      {
+        "name": "mediproCan Lunaris 23/1 LOG",
+        "href": "https://weed.de/product/mediprocan-lunaris-231-log"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "mediproCan Lunaris 23/1 LOG",
+            "item": "https://weed.de/product/mediprocan-lunaris-231-log"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "mediproCan Lunaris 23/1 LOG",
+        "brand": {
+          "@type": "Brand",
+          "name": "mediproCan"
+        },
+        "description": "THC: 23%, CBD: 0%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/legend-og",
+      "text": "Legend OG",
+      "title": "Legend OG Sorte"
+    },
+    "brand": {
+      "href": "/brand/mediprocan",
+      "text": "mediproCan",
+      "title": "Alle mediproCan Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/aurora-thc-25-cannabis-extract",
+        "text": "Aurora THC 25 Cannabis Extract",
+        "title": "Alternative: Aurora THC 25 Cannabis Extract"
+      },
+      {
+        "href": "/product/adven-cannabisextrakt-thc-20",
+        "text": "Adven Cannabisextrakt THC 20",
+        "title": "Alternative: Adven Cannabisextrakt THC 20"
+      },
+      {
+        "href": "/product/adven-cannabisextrakt-thc-10-cbd-10",
+        "text": "Adven Cannabisextrakt THC 10 CBD 10",
+        "title": "Alternative: Adven Cannabisextrakt THC 10 CBD 10"
+      },
+      {
+        "href": "/product/demecan-typ-1",
+        "text": "Demecan Typ 1",
+        "title": "Alternative: Demecan Typ 1"
+      },
+      {
+        "href": "/product/cannamedical-indica-forte-ej",
+        "text": "Cannamedical Indica forte EJ",
+        "title": "Alternative: Cannamedical Indica forte EJ"
+      },
+      {
+        "href": "/product/251vayamed-cannabisextrakt",
+        "text": "25/1Vayamed Cannabisextrakt",
+        "title": "Alternative: 25/1Vayamed Cannabisextrakt"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

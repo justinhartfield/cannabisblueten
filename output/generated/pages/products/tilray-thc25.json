@@ -1,0 +1,223 @@
+{
+  "product": {
+    "slug": "tilray-thc25",
+    "name": "Tilray THC25",
+    "type": "flower",
+    "genetics": "indica",
+    "thcPercent": 25,
+    "cbdPercent": 1,
+    "priceMin": 1250,
+    "priceMax": 1250,
+    "inStock": true,
+    "pzn": [],
+    "originCountry": "Portugal",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "tilray",
+    "name": "Tilray",
+    "productCount": 160
+  },
+  "strain": {
+    "slug": "galaxy-walker-og",
+    "name": "Galaxy Walker OG",
+    "geneticType": "hybrid",
+    "effects": [
+      "Relaxed",
+      "Hungry"
+    ],
+    "terpenes": [
+      "Nerolidol",
+      "Caryophyllene",
+      "Bisabolol"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Relaxed",
+      "Hungry"
+    ],
+    "tastes": [
+      "Flowery",
+      "Pepper",
+      "Woody"
+    ],
+    "terpenes": [
+      "Nerolidol",
+      "Caryophyllene",
+      "Bisabolol"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "aurora-thc-25-cannabis-extract",
+      "name": "Aurora THC 25 Cannabis Extract",
+      "brandName": "Cansativa",
+      "thcPercent": 2.5,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-thc-18-spotlight-porto-gw-og",
+      "name": "Tilray THC 18 Spotlight Porto GW OG",
+      "brandName": "Tilray",
+      "thcPercent": 18,
+      "priceMin": 399,
+      "inStock": true
+    },
+    {
+      "slug": "adven-cannabisextrakt-thc-20",
+      "name": "Adven Cannabisextrakt THC 20",
+      "brandName": "Adven",
+      "thcPercent": 2,
+      "priceMin": 476,
+      "inStock": true
+    },
+    {
+      "slug": "adven-cannabisextrakt-thc-10-cbd-10",
+      "name": "Adven Cannabisextrakt THC 10 CBD 10",
+      "brandName": "Adven",
+      "thcPercent": 10,
+      "priceMin": 560,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-1",
+      "name": "Demecan Typ 1",
+      "brandName": "Demecan",
+      "thcPercent": 21,
+      "priceMin": 694,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-indica-forte-ej",
+      "name": "Cannamedical Indica forte EJ",
+      "brandName": "Cannamedical",
+      "thcPercent": 24,
+      "priceMin": 700,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Tilray THC25 | ab 12,50 €",
+      "description": "Tilray THC25 von Tilray. THC: 25%, CBD: 1%. Sorte: Galaxy Walker OG. Preis ab 12,50 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/tilray-thc25",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Tilray THC25 | ab 12,50 €",
+        "description": "Tilray THC25 von Tilray. THC: 25%, CBD: 1%. Sorte: Galaxy Walker OG. Preis ab 12,50 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/tilray-thc25",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Tilray",
+        "href": "https://weed.de/brand/tilray"
+      },
+      {
+        "name": "Tilray THC25",
+        "href": "https://weed.de/product/tilray-thc25"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Tilray THC25",
+            "item": "https://weed.de/product/tilray-thc25"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Tilray THC25",
+        "brand": {
+          "@type": "Brand",
+          "name": "Tilray"
+        },
+        "gtin13": [],
+        "description": "THC: 25%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/galaxy-walker-og",
+      "text": "Galaxy Walker OG",
+      "title": "Galaxy Walker OG Sorte"
+    },
+    "brand": {
+      "href": "/brand/tilray",
+      "text": "Tilray",
+      "title": "Alle Tilray Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/aurora-thc-25-cannabis-extract",
+        "text": "Aurora THC 25 Cannabis Extract",
+        "title": "Alternative: Aurora THC 25 Cannabis Extract"
+      },
+      {
+        "href": "/product/tilray-thc-18-spotlight-porto-gw-og",
+        "text": "Tilray THC 18 Spotlight Porto GW OG",
+        "title": "Alternative: Tilray THC 18 Spotlight Porto GW OG"
+      },
+      {
+        "href": "/product/adven-cannabisextrakt-thc-20",
+        "text": "Adven Cannabisextrakt THC 20",
+        "title": "Alternative: Adven Cannabisextrakt THC 20"
+      },
+      {
+        "href": "/product/adven-cannabisextrakt-thc-10-cbd-10",
+        "text": "Adven Cannabisextrakt THC 10 CBD 10",
+        "title": "Alternative: Adven Cannabisextrakt THC 10 CBD 10"
+      },
+      {
+        "href": "/product/demecan-typ-1",
+        "text": "Demecan Typ 1",
+        "title": "Alternative: Demecan Typ 1"
+      },
+      {
+        "href": "/product/cannamedical-indica-forte-ej",
+        "text": "Cannamedical Indica forte EJ",
+        "title": "Alternative: Cannamedical Indica forte EJ"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

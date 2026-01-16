@@ -1,0 +1,216 @@
+{
+  "strain": {
+    "slug": "lemon-mac",
+    "name": "Lemon Mac",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Focused",
+      "Euphoric",
+      "Happy"
+    ],
+    "tastes": [
+      "Herbal",
+      "Citrus",
+      "Sweet"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 548,
+      "max": 715,
+      "formatted": {
+        "min": "5,48 €",
+        "max": "7,15 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "jr-strain-l-mac-211",
+      "name": "J.R. STRAIN L MAC 21/1",
+      "brandName": "Cantourage",
+      "thcPercent": 21,
+      "priceMin": 548,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "frosted-cookies",
+      "name": "Frosted Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "alien-mints",
+      "name": "Alien Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "dirty-taxi",
+      "name": "Dirty Taxi",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "lava-fuel",
+      "name": "Lava Fuel",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "space-age-cake",
+      "name": "Space Age Cake",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Lemon Mac (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Lemon Mac: Focused, Euphoric, Happy. 1 Produkte verfügbar. ab 5,48 €.",
+      "canonical": "https://weed.de/strain/lemon-mac",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Lemon Mac (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Lemon Mac: Focused, Euphoric, Happy. 1 Produkte verfügbar. ab 5,48 €.",
+        "url": "https://weed.de/strain/lemon-mac",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Lemon Mac",
+        "href": "https://weed.de/strain/lemon-mac"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Lemon Mac",
+            "item": "https://weed.de/strain/lemon-mac"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Lemon Mac Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/jr-strain-l-mac-211",
+            "name": "J.R. STRAIN L MAC 21/1"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/jr-strain-l-mac-211",
+        "text": "J.R. STRAIN L MAC 21/1",
+        "title": "J.R. STRAIN L MAC 21/1 von Cantourage"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/frosted-cookies",
+        "text": "Frosted Cookies",
+        "title": "Frosted Cookies - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/alien-mints",
+        "text": "Alien Mints",
+        "title": "Alien Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/dirty-taxi",
+        "text": "Dirty Taxi",
+        "title": "Dirty Taxi - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/lava-fuel",
+        "text": "Lava Fuel",
+        "title": "Lava Fuel - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/space-age-cake",
+        "text": "Space Age Cake",
+        "title": "Space Age Cake - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

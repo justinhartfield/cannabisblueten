@@ -1,0 +1,235 @@
+{
+  "product": {
+    "slug": "bathera-281-fc",
+    "name": "Bathera 28/1 FC",
+    "type": "flower",
+    "genetics": "hybrid",
+    "thcPercent": 28,
+    "cbdPercent": 1,
+    "priceMin": 499,
+    "priceMax": 790,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Portugal",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "bathera",
+    "name": "Bathera",
+    "productCount": 44
+  },
+  "strain": {
+    "slug": "fine-cookies",
+    "name": "Fine Cookies",
+    "geneticType": "hybrid",
+    "effects": [
+      "Happy",
+      "Relaxed",
+      "Stress-relief",
+      "Sleepy",
+      "Pain-relief"
+    ],
+    "terpenes": [
+      "Alpha-Humulene",
+      "Beta-Caryophyllene",
+      "D-Limonene",
+      "Myrcene",
+      "Beta-Pinene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Happy",
+      "Relaxed",
+      "Stress-relief",
+      "Sleepy",
+      "Pain-relief"
+    ],
+    "tastes": [
+      "Woody",
+      "Citrus",
+      "Incense",
+      "Sweet",
+      "Creamy",
+      "Pine"
+    ],
+    "terpenes": [
+      "Alpha-Humulene",
+      "Beta-Caryophyllene",
+      "D-Limonene",
+      "Myrcene",
+      "Beta-Pinene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "tilray-thc-25-spotlight-porto-purps",
+      "name": "Tilray THC 25 Spotlight Porto Purps",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": 349,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc5cbd2",
+      "name": "Tilray Cannabisextrakt THC5:CBD20",
+      "brandName": "Tilray",
+      "thcPercent": 5,
+      "priceMin": 350,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc1cbd1",
+      "name": "Tilray Cannabisextrakt THC10:CBD10",
+      "brandName": "Tilray",
+      "thcPercent": 10,
+      "priceMin": 400,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-2",
+      "name": "Demecan Typ 2",
+      "brandName": "Demecan",
+      "thcPercent": 16,
+      "priceMin": 533,
+      "inStock": true
+    },
+    {
+      "slug": "khiron-191-gelato",
+      "name": "Khiron 19/1 Gelato",
+      "brandName": "Khiron",
+      "thcPercent": 17.6,
+      "priceMin": 638,
+      "inStock": true
+    },
+    {
+      "slug": "bathera-251",
+      "name": "Bathera 25/1 FC",
+      "brandName": "Bathera",
+      "thcPercent": 25.2,
+      "priceMin": 750,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Bathera 28/1 FC | ab 4,99 €",
+      "description": "Bathera 28/1 FC von Bathera. THC: 28%, CBD: 1%. Sorte: Fine Cookies. Preis ab 4,99 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/bathera-281-fc",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Bathera 28/1 FC | ab 4,99 €",
+        "description": "Bathera 28/1 FC von Bathera. THC: 28%, CBD: 1%. Sorte: Fine Cookies. Preis ab 4,99 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/bathera-281-fc",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Bathera",
+        "href": "https://weed.de/brand/bathera"
+      },
+      {
+        "name": "Bathera 28/1 FC",
+        "href": "https://weed.de/product/bathera-281-fc"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Bathera 28/1 FC",
+            "item": "https://weed.de/product/bathera-281-fc"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Bathera 28/1 FC",
+        "brand": {
+          "@type": "Brand",
+          "name": "Bathera"
+        },
+        "description": "THC: 28%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/fine-cookies",
+      "text": "Fine Cookies",
+      "title": "Fine Cookies Sorte"
+    },
+    "brand": {
+      "href": "/brand/bathera",
+      "text": "Bathera",
+      "title": "Alle Bathera Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/tilray-thc-25-spotlight-porto-purps",
+        "text": "Tilray THC 25 Spotlight Porto Purps",
+        "title": "Alternative: Tilray THC 25 Spotlight Porto Purps"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc5cbd2",
+        "text": "Tilray Cannabisextrakt THC5:CBD20",
+        "title": "Alternative: Tilray Cannabisextrakt THC5:CBD20"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc1cbd1",
+        "text": "Tilray Cannabisextrakt THC10:CBD10",
+        "title": "Alternative: Tilray Cannabisextrakt THC10:CBD10"
+      },
+      {
+        "href": "/product/demecan-typ-2",
+        "text": "Demecan Typ 2",
+        "title": "Alternative: Demecan Typ 2"
+      },
+      {
+        "href": "/product/khiron-191-gelato",
+        "text": "Khiron 19/1 Gelato",
+        "title": "Alternative: Khiron 19/1 Gelato"
+      },
+      {
+        "href": "/product/bathera-251",
+        "text": "Bathera 25/1 FC",
+        "title": "Alternative: Bathera 25/1 FC"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

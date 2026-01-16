@@ -1,0 +1,208 @@
+{
+  "strain": {
+    "slug": "g-wagon",
+    "name": "G Wagon",
+    "geneticType": "indica",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0,
+      "max": 0
+    },
+    "effects": [
+      "Relaxed",
+      "Focused"
+    ],
+    "tastes": [
+      "Citrus",
+      "Sweet",
+      "Spicy"
+    ],
+    "terpenes": [
+      "Germacrene",
+      "Farnesene",
+      "Limonene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": null
+  },
+  "products": [
+    {
+      "slug": "remexian-331-vcc-gwa",
+      "name": "Remexian 33/1 VCC GWA",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 31.5,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "siggi's-minze",
+      "name": "Siggi's Minze",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "purple-grape",
+      "name": "Purple Grape",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "slurricane-pancakes-runtz",
+      "name": "Slurricane Pancakes Runtz",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "strawberry-froyo",
+      "name": "Strawberry Froyo",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "master-kush",
+      "name": "Master Kush",
+      "geneticType": "indica",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "G Wagon (Indica) - Wirkung, THC & Verfügbarkeit",
+      "description": "G Wagon: Relaxed, Focused. 1 Produkte verfügbar.",
+      "canonical": "https://weed.de/strain/g-wagon",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "G Wagon (Indica) - Wirkung, THC & Verfügbarkeit",
+        "description": "G Wagon: Relaxed, Focused. 1 Produkte verfügbar.",
+        "url": "https://weed.de/strain/g-wagon",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "G Wagon",
+        "href": "https://weed.de/strain/g-wagon"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "G Wagon",
+            "item": "https://weed.de/strain/g-wagon"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "G Wagon Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/remexian-331-vcc-gwa",
+            "name": "Remexian 33/1 VCC GWA"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/remexian-331-vcc-gwa",
+        "text": "Remexian 33/1 VCC GWA",
+        "title": "Remexian 33/1 VCC GWA von Remexian Pharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/siggi's-minze",
+        "text": "Siggi's Minze",
+        "title": "Siggi's Minze - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/purple-grape",
+        "text": "Purple Grape",
+        "title": "Purple Grape - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/slurricane-pancakes-runtz",
+        "text": "Slurricane Pancakes Runtz",
+        "title": "Slurricane Pancakes Runtz - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/strawberry-froyo",
+        "text": "Strawberry Froyo",
+        "title": "Strawberry Froyo - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/master-kush",
+        "text": "Master Kush",
+        "title": "Master Kush - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/germacrene",
+        "text": "Germacrene",
+        "title": "Germacrene Terpen"
+      },
+      {
+        "href": "/terpene/farnesene",
+        "text": "Farnesene",
+        "title": "Farnesene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

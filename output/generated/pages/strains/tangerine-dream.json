@@ -1,0 +1,253 @@
+{
+  "strain": {
+    "slug": "tangerine-dream",
+    "name": "Tangerine Dream",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Energetic",
+      "Uplifted",
+      "Happy"
+    ],
+    "tastes": [
+      "Citrus",
+      "Sweet",
+      "Orange"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Linalool",
+      "Sabinene",
+      "Caryophyllene"
+    ],
+    "description": "Tangerine Dream ist eine Hybrid-Sorte, die aus der Kombination von G13- und Afghani-Genetik hervorgegangen ist. Sie enthält in der Regel einen THC-Gehalt von 21% bis 23% und CBD-Werte unter 1%. Die Sorte bietet ein herrliches Aroma mit Zitrus-, süßen und orangigen Noten. Tangerine Dream wird für ihre Fähigkeit geschätzt, eine energetisierende, stimmungsaufhellende und euphorische Erfahrung zu bieten. ",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 3,
+    "pharmacyCount": 0,
+    "priceRange": null
+  },
+  "products": [
+    {
+      "slug": "pedanios-161-tng-dk",
+      "name": "Pedanios 16/1 TNG-DK",
+      "brandName": "Aurora",
+      "thcPercent": 16,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "pedanios-181-tng-ca",
+      "name": "Pedanios 18/1 TNG-CA",
+      "brandName": "Aurora",
+      "thcPercent": 16.5,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "pedanios-141-tng-ca",
+      "name": "Pedanios 14/1 TNG-CA",
+      "brandName": "Aurora",
+      "thcPercent": 14,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "cold-creek-kush",
+      "name": "Cold Creek Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "banana-sorbet",
+      "name": "Banana Sorbet",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "green-crack",
+      "name": "Green Crack",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "jet-fuel-gelato",
+      "name": "Jet Fuel Gelato",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "lemon-pepper-punch",
+      "name": "Lemon Pepper Punch",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Tangerine Dream (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Tangerine Dream: Energetic, Uplifted, Happy. 3 Produkte verfügbar.",
+      "canonical": "https://weed.de/strain/tangerine-dream",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Tangerine Dream (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Tangerine Dream: Energetic, Uplifted, Happy. 3 Produkte verfügbar.",
+        "url": "https://weed.de/strain/tangerine-dream",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Tangerine Dream",
+        "href": "https://weed.de/strain/tangerine-dream"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Tangerine Dream",
+            "item": "https://weed.de/strain/tangerine-dream"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Tangerine Dream Produkte",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/pedanios-161-tng-dk",
+            "name": "Pedanios 16/1 TNG-DK"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/pedanios-181-tng-ca",
+            "name": "Pedanios 18/1 TNG-CA"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/pedanios-141-tng-ca",
+            "name": "Pedanios 14/1 TNG-CA"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/pedanios-161-tng-dk",
+        "text": "Pedanios 16/1 TNG-DK",
+        "title": "Pedanios 16/1 TNG-DK von Aurora"
+      },
+      {
+        "href": "/product/pedanios-181-tng-ca",
+        "text": "Pedanios 18/1 TNG-CA",
+        "title": "Pedanios 18/1 TNG-CA von Aurora"
+      },
+      {
+        "href": "/product/pedanios-141-tng-ca",
+        "text": "Pedanios 14/1 TNG-CA",
+        "title": "Pedanios 14/1 TNG-CA von Aurora"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/cold-creek-kush",
+        "text": "Cold Creek Kush",
+        "title": "Cold Creek Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/banana-sorbet",
+        "text": "Banana Sorbet",
+        "title": "Banana Sorbet - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/green-crack",
+        "text": "Green Crack",
+        "title": "Green Crack - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/jet-fuel-gelato",
+        "text": "Jet Fuel Gelato",
+        "title": "Jet Fuel Gelato - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/lemon-pepper-punch",
+        "text": "Lemon Pepper Punch",
+        "title": "Lemon Pepper Punch - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      },
+      {
+        "href": "/terpene/sabinene",
+        "text": "Sabinene",
+        "title": "Sabinene Terpen"
+      },
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

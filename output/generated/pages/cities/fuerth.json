@@ -1,0 +1,165 @@
+{
+  "city": {
+    "slug": "fuerth",
+    "name": "Fürth",
+    "state": "Bayern"
+  },
+  "stats": {
+    "pharmacyCount": 1,
+    "totalProducts": 57,
+    "hasDelivery": true
+  },
+  "pharmacies": [
+    {
+      "slug": "apotheke-im-forum",
+      "name": "Apotheke im Forum",
+      "street": "Bahnhofplatz 6",
+      "zip": "90762",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 57,
+      "rating": 5,
+      "ratingCount": 1
+    }
+  ],
+  "nearbyCities": [
+    {
+      "slug": "muenchen",
+      "name": "München",
+      "pharmacyCount": 12
+    },
+    {
+      "slug": "nuernberg",
+      "name": "Nürnberg",
+      "pharmacyCount": 7
+    },
+    {
+      "slug": "augsburg",
+      "name": "Augsburg",
+      "pharmacyCount": 6
+    },
+    {
+      "slug": "landshut",
+      "name": "Landshut",
+      "pharmacyCount": 3
+    },
+    {
+      "slug": "erlangen",
+      "name": "Erlangen",
+      "pharmacyCount": 2
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannabis Apotheke Fürth - 1 Apotheken",
+      "description": "Cannabis Apotheken in Fürth. 1 Apotheken mit 57 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+      "canonical": "https://weed.de/cannabis-apotheke/fuerth",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannabis Apotheke Fürth - 1 Apotheken",
+        "description": "Cannabis Apotheken in Fürth. 1 Apotheken mit 57 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+        "url": "https://weed.de/cannabis-apotheke/fuerth",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Fürth",
+        "href": "https://weed.de/cannabis-apotheke/fuerth"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Fürth",
+            "item": "https://weed.de/cannabis-apotheke/fuerth"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Cannabis Apotheken in Fürth",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/apotheke/apotheke-im-forum",
+            "name": "Apotheke im Forum"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "pharmacies": [
+      {
+        "href": "/apotheke/apotheke-im-forum",
+        "text": "Apotheke im Forum",
+        "title": "Apotheke im Forum in Fürth"
+      }
+    ],
+    "nearbyCities": [
+      {
+        "href": "/cannabis-apotheke/muenchen",
+        "text": "Cannabis Apotheke München",
+        "title": "12 Apotheken in München"
+      },
+      {
+        "href": "/cannabis-apotheke/nuernberg",
+        "text": "Cannabis Apotheke Nürnberg",
+        "title": "7 Apotheken in Nürnberg"
+      },
+      {
+        "href": "/cannabis-apotheke/augsburg",
+        "text": "Cannabis Apotheke Augsburg",
+        "title": "6 Apotheken in Augsburg"
+      },
+      {
+        "href": "/cannabis-apotheke/landshut",
+        "text": "Cannabis Apotheke Landshut",
+        "title": "3 Apotheken in Landshut"
+      },
+      {
+        "href": "/cannabis-apotheke/erlangen",
+        "text": "Cannabis Apotheke Erlangen",
+        "title": "2 Apotheken in Erlangen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Single pharmacy with good product coverage"
+  }
+}

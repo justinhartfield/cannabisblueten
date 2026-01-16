@@ -1,0 +1,183 @@
+{
+  "strain": {
+    "slug": "hash-plant",
+    "name": "Hash-Plant",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Relaxed"
+    ],
+    "tastes": [
+      "Spicy-Herbal",
+      "Woody"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Linalool",
+      "Carene",
+      "Phellandrene"
+    ],
+    "description": "Hash-Plant ist eine Hybrid-Cannabissorte, die ihre Genetik von \"Northern Lights\" und Afghani ableitet. Sie enthält in der Regel moderate THC-Gehalte von 14% bis 17%. Das Geschmacksprofil von Hash-Plant zeichnet sich durch würzig-herbe und holzige Noten aus und bietet ein reiches und erdiges Geschmackserlebnis. Die Terpenzusammensetzung von Hash-Plant, zu der Myrcene, Linalool, Carene und Phellandrene gehören, trägt zu seinem einzigartigen Aroma und potenziellen therapeutischen Wirkungen bei. Diese Sorte ist für ihre entspannenden Eigenschaften bekannt und kann oft eine beruhigende Sensation hervorrufen, die für Stressabbau und Entspannung hilfreich sein kann.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 0,
+    "pharmacyCount": 0,
+    "priceRange": null
+  },
+  "products": [],
+  "similarStrains": [
+    {
+      "slug": "henik",
+      "name": "Henik",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "fire-og",
+      "name": "Fire OG",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "kc-33",
+      "name": "KC 33",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "tangie",
+      "name": "Tangie",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "g-13-haze",
+      "name": "G-13 Haze",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Hash-Plant (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Hash-Plant: Relaxed.",
+      "canonical": "https://weed.de/strain/hash-plant",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Hash-Plant (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Hash-Plant: Relaxed.",
+        "url": "https://weed.de/strain/hash-plant",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Hash-Plant",
+        "href": "https://weed.de/strain/hash-plant"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Hash-Plant",
+            "item": "https://weed.de/strain/hash-plant"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [],
+    "similarStrains": [
+      {
+        "href": "/strain/henik",
+        "text": "Henik",
+        "title": "Henik - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/fire-og",
+        "text": "Fire OG",
+        "title": "Fire OG - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/kc-33",
+        "text": "KC 33",
+        "title": "KC 33 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/tangie",
+        "text": "Tangie",
+        "title": "Tangie - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/g-13-haze",
+        "text": "G-13 Haze",
+        "title": "G-13 Haze - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      },
+      {
+        "href": "/terpene/carene",
+        "text": "Carene",
+        "title": "Carene Terpen"
+      },
+      {
+        "href": "/terpene/phellandrene",
+        "text": "Phellandrene",
+        "title": "Phellandrene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has data and related content"
+  }
+}

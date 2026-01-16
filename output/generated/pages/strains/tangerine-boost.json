@@ -1,0 +1,215 @@
+{
+  "strain": {
+    "slug": "tangerine-boost",
+    "name": "Tangerine Boost",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Focused",
+      "Energetic",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Herbal",
+      "Citrus"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 499,
+      "max": 945,
+      "formatted": {
+        "min": "4,99 €",
+        "max": "9,45 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "cannamedical-indica-forte-bc-tangerine-boost",
+      "name": "Cannamedical Indica Forte BC TB",
+      "brandName": "Cannamedical",
+      "thcPercent": 23.8,
+      "priceMin": 499,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "lemon-berry-og",
+      "name": "Lemon Berry OG",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "peppermint",
+      "name": "Peppermint",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "tropical-sour",
+      "name": "Tropical Sour",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "grape-fuel",
+      "name": "Grape Fuel",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "batha-balanced",
+      "name": "Batha Balanced",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Tangerine Boost (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Tangerine Boost: Focused, Energetic, Relaxed. 1 Produkte verfügbar. ab 4,99 €.",
+      "canonical": "https://weed.de/strain/tangerine-boost",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Tangerine Boost (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Tangerine Boost: Focused, Energetic, Relaxed. 1 Produkte verfügbar. ab 4,99 €.",
+        "url": "https://weed.de/strain/tangerine-boost",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Tangerine Boost",
+        "href": "https://weed.de/strain/tangerine-boost"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Tangerine Boost",
+            "item": "https://weed.de/strain/tangerine-boost"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Tangerine Boost Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/cannamedical-indica-forte-bc-tangerine-boost",
+            "name": "Cannamedical Indica Forte BC TB"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/cannamedical-indica-forte-bc-tangerine-boost",
+        "text": "Cannamedical Indica Forte BC TB",
+        "title": "Cannamedical Indica Forte BC TB von Cannamedical"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/lemon-berry-og",
+        "text": "Lemon Berry OG",
+        "title": "Lemon Berry OG - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/peppermint",
+        "text": "Peppermint",
+        "title": "Peppermint - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/tropical-sour",
+        "text": "Tropical Sour",
+        "title": "Tropical Sour - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/grape-fuel",
+        "text": "Grape Fuel",
+        "title": "Grape Fuel - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/batha-balanced",
+        "text": "Batha Balanced",
+        "title": "Batha Balanced - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

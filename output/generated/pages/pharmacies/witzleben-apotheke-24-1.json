@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "witzleben-apotheke-24-1",
+    "name": "Witzleben Apotheke 24",
+    "street": "Kaiserdamm 24",
+    "zip": "14057",
+    "cityName": "Berlin",
+    "state": "Berlin",
+    "lat": 52.5103313,
+    "lng": 13.2826864,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": false,
+    "website": null,
+    "phone": "030939520325",
+    "email": "cannabis@witzleben-apotheke.de",
+    "productCount": 48,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/6785289203d18a5ef3b0883f-8ej161.jpg"
+  },
+  "city": {
+    "slug": "berlin",
+    "name": "Berlin",
+    "pharmacyCount": 27
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "asavita",
+      "name": "Asavita",
+      "cityName": "Berlin",
+      "productCount": 126,
+      "hasDelivery": true
+    },
+    {
+      "slug": "herbery",
+      "name": "Herbery Berlin",
+      "cityName": "Berlin",
+      "productCount": 91,
+      "hasDelivery": true
+    },
+    {
+      "slug": "preussen-apotheke-spandau",
+      "name": "Preussen Apotheke Spandau",
+      "cityName": "Berlin",
+      "productCount": 66,
+      "hasDelivery": true
+    },
+    {
+      "slug": "jiroo",
+      "name": "jiroo",
+      "cityName": "Berlin",
+      "productCount": 57,
+      "hasDelivery": true
+    },
+    {
+      "slug": "canpi-cannabis-pilot",
+      "name": "Canpi - Cannabis Pilot",
+      "cityName": "Berlin",
+      "productCount": 44,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Witzleben Apotheke 24 - Cannabis Apotheke in Berlin",
+      "description": "Witzleben Apotheke 24 in Berlin. 48 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/witzleben-apotheke-24-1",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Witzleben Apotheke 24 - Cannabis Apotheke in Berlin",
+        "description": "Witzleben Apotheke 24 in Berlin. 48 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/witzleben-apotheke-24-1",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/6785289203d18a5ef3b0883f-8ej161.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Berlin",
+        "href": "https://weed.de/cannabis-apotheke/berlin"
+      },
+      {
+        "name": "Witzleben Apotheke 24",
+        "href": "https://weed.de/apotheke/witzleben-apotheke-24-1"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Berlin",
+            "item": "https://weed.de/cannabis-apotheke/berlin"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Witzleben Apotheke 24",
+            "item": "https://weed.de/apotheke/witzleben-apotheke-24-1"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Witzleben Apotheke 24",
+        "url": "https://weed.de/apotheke/witzleben-apotheke-24-1",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Kaiserdamm 24",
+          "addressLocality": "Berlin",
+          "postalCode": "14057",
+          "addressRegion": "Berlin",
+          "addressCountry": "DE"
+        },
+        "telephone": "030939520325",
+        "email": "cannabis@witzleben-apotheke.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/berlin",
+      "text": "Cannabis Apotheken in Berlin",
+      "title": "Alle Apotheken in Berlin"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/asavita",
+        "text": "Asavita",
+        "title": "Asavita in Berlin"
+      },
+      {
+        "href": "/apotheke/herbery",
+        "text": "Herbery Berlin",
+        "title": "Herbery Berlin in Berlin"
+      },
+      {
+        "href": "/apotheke/preussen-apotheke-spandau",
+        "text": "Preussen Apotheke Spandau",
+        "title": "Preussen Apotheke Spandau in Berlin"
+      },
+      {
+        "href": "/apotheke/jiroo",
+        "text": "jiroo",
+        "title": "jiroo in Berlin"
+      },
+      {
+        "href": "/apotheke/canpi-cannabis-pilot",
+        "text": "Canpi - Cannabis Pilot",
+        "title": "Canpi - Cannabis Pilot in Berlin"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

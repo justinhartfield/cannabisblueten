@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "apondium",
+    "name": "Apondium",
+    "street": "Himmelgeister Straße 106",
+    "zip": "40225",
+    "cityName": "Düsseldorf",
+    "state": "Nordrhein-Westfalen",
+    "lat": 51.1990033,
+    "lng": 6.7825542,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://apondium-cannabis.de/",
+    "phone": "02119341955",
+    "email": "kontakt@apondium-cannabis.de",
+    "productCount": 52,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/691f1b415a5ed7470eb60d26-056314.jpg"
+  },
+  "city": {
+    "slug": "duesseldorf",
+    "name": "Düsseldorf",
+    "pharmacyCount": 9
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "grafenberger-apotheke",
+      "name": "GRAFENBERGER APOTHEKE",
+      "cityName": "Düsseldorf",
+      "productCount": 158,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannatreede-rats-apotheke-duesseldorf",
+      "name": "Cannatree.de - Rats-Apotheke Düsseldorf",
+      "cityName": "Düsseldorf",
+      "productCount": 113,
+      "hasDelivery": true
+    },
+    {
+      "slug": "greencalm-by-malteser-apotheke",
+      "name": "GreenCalm by Malteser Apotheke",
+      "cityName": "Düsseldorf",
+      "productCount": 69,
+      "hasDelivery": true
+    },
+    {
+      "slug": "mycannabis",
+      "name": "MYCANNABIS 360Grad-Apotheke",
+      "cityName": "Düsseldorf",
+      "productCount": 42,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannaquell-ein-service-der-apotheke-am-quellenbusch",
+      "name": "CannaQuell",
+      "cityName": "Düsseldorf",
+      "productCount": 41,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Apondium - Cannabis Apotheke in Düsseldorf",
+      "description": "Apondium in Düsseldorf. 52 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/apondium",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Apondium - Cannabis Apotheke in Düsseldorf",
+        "description": "Apondium in Düsseldorf. 52 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/apondium",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/691f1b415a5ed7470eb60d26-056314.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Düsseldorf",
+        "href": "https://weed.de/cannabis-apotheke/duesseldorf"
+      },
+      {
+        "name": "Apondium",
+        "href": "https://weed.de/apotheke/apondium"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Düsseldorf",
+            "item": "https://weed.de/cannabis-apotheke/duesseldorf"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Apondium",
+            "item": "https://weed.de/apotheke/apondium"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Apondium",
+        "url": "https://weed.de/apotheke/apondium",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Himmelgeister Straße 106",
+          "addressLocality": "Düsseldorf",
+          "postalCode": "40225",
+          "addressRegion": "Nordrhein-Westfalen",
+          "addressCountry": "DE"
+        },
+        "telephone": "02119341955",
+        "email": "kontakt@apondium-cannabis.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/duesseldorf",
+      "text": "Cannabis Apotheken in Düsseldorf",
+      "title": "Alle Apotheken in Düsseldorf"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/grafenberger-apotheke",
+        "text": "GRAFENBERGER APOTHEKE",
+        "title": "GRAFENBERGER APOTHEKE in Düsseldorf"
+      },
+      {
+        "href": "/apotheke/cannatreede-rats-apotheke-duesseldorf",
+        "text": "Cannatree.de - Rats-Apotheke Düsseldorf",
+        "title": "Cannatree.de - Rats-Apotheke Düsseldorf in Düsseldorf"
+      },
+      {
+        "href": "/apotheke/greencalm-by-malteser-apotheke",
+        "text": "GreenCalm by Malteser Apotheke",
+        "title": "GreenCalm by Malteser Apotheke in Düsseldorf"
+      },
+      {
+        "href": "/apotheke/mycannabis",
+        "text": "MYCANNABIS 360Grad-Apotheke",
+        "title": "MYCANNABIS 360Grad-Apotheke in Düsseldorf"
+      },
+      {
+        "href": "/apotheke/cannaquell-ein-service-der-apotheke-am-quellenbusch",
+        "text": "CannaQuell",
+        "title": "CannaQuell in Düsseldorf"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

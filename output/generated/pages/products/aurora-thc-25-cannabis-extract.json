@@ -1,0 +1,234 @@
+{
+  "product": {
+    "slug": "aurora-thc-25-cannabis-extract",
+    "name": "Aurora THC 25 Cannabis Extract",
+    "type": "extract",
+    "genetics": "indica",
+    "thcPercent": 2.5,
+    "cbdPercent": 0.1,
+    "priceMin": 397,
+    "priceMax": 1150,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": null,
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "cansativa",
+    "name": "Cansativa",
+    "productCount": 141
+  },
+  "strain": {
+    "slug": "la-confidential",
+    "name": "LA Confidential",
+    "geneticType": "hybrid",
+    "effects": [
+      "Hungry",
+      "Relaxed",
+      "Euphoric",
+      "Sleepy",
+      "Uplifted",
+      "Sedative"
+    ],
+    "terpenes": [
+      "Beta-Myrcene",
+      "Alpha-Pinene",
+      "Beta-Caryophyllene",
+      "Trans-Nerolidol"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Hungry",
+      "Relaxed",
+      "Euphoric",
+      "Sleepy",
+      "Uplifted",
+      "Sedative"
+    ],
+    "tastes": [
+      "Skunk",
+      "Woody",
+      "Earthy",
+      "Pine",
+      "Spicy-Herbal"
+    ],
+    "terpenes": [
+      "Beta-Myrcene",
+      "Alpha-Pinene",
+      "Beta-Caryophyllene",
+      "Trans-Nerolidol"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "adven-cannabisextrakt-thc-20",
+      "name": "Adven Cannabisextrakt THC 20",
+      "brandName": "Adven",
+      "thcPercent": 2,
+      "priceMin": 476,
+      "inStock": true
+    },
+    {
+      "slug": "adven-cannabisextrakt-thc-10-cbd-10",
+      "name": "Adven Cannabisextrakt THC 10 CBD 10",
+      "brandName": "Adven",
+      "thcPercent": 10,
+      "priceMin": 560,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-1",
+      "name": "Demecan Typ 1",
+      "brandName": "Demecan",
+      "thcPercent": 21,
+      "priceMin": 694,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-indica-forte-ej",
+      "name": "Cannamedical Indica forte EJ",
+      "brandName": "Cannamedical",
+      "thcPercent": 24,
+      "priceMin": 700,
+      "inStock": true
+    },
+    {
+      "slug": "251vayamed-cannabisextrakt",
+      "name": "25/1Vayamed Cannabisextrakt",
+      "brandName": "Vayamed",
+      "thcPercent": 2.5,
+      "priceMin": 824,
+      "inStock": true
+    },
+    {
+      "slug": "cannabisextrakt-aurora-thc-25",
+      "name": "Cannabisextrakt Aurora THC 25",
+      "brandName": "Cannovum Health",
+      "thcPercent": 25,
+      "priceMin": 1150,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Aurora THC 25 Cannabis Extract - Cansativa | ab 3,97 €",
+      "description": "Aurora THC 25 Cannabis Extract von Cansativa. THC: 2.5%, CBD: 0.1%. Sorte: LA Confidential. Preis ab 3,97 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/aurora-thc-25-cannabis-extract",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Aurora THC 25 Cannabis Extract - Cansativa | ab 3,97 €",
+        "description": "Aurora THC 25 Cannabis Extract von Cansativa. THC: 2.5%, CBD: 0.1%. Sorte: LA Confidential. Preis ab 3,97 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/aurora-thc-25-cannabis-extract",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Cansativa",
+        "href": "https://weed.de/brand/cansativa"
+      },
+      {
+        "name": "Aurora THC 25 Cannabis Extract",
+        "href": "https://weed.de/product/aurora-thc-25-cannabis-extract"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Aurora THC 25 Cannabis Extract",
+            "item": "https://weed.de/product/aurora-thc-25-cannabis-extract"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Aurora THC 25 Cannabis Extract",
+        "brand": {
+          "@type": "Brand",
+          "name": "Cansativa"
+        },
+        "description": "THC: 2.5%, CBD: 0.1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/la-confidential",
+      "text": "LA Confidential",
+      "title": "LA Confidential Sorte"
+    },
+    "brand": {
+      "href": "/brand/cansativa",
+      "text": "Cansativa",
+      "title": "Alle Cansativa Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/adven-cannabisextrakt-thc-20",
+        "text": "Adven Cannabisextrakt THC 20",
+        "title": "Alternative: Adven Cannabisextrakt THC 20"
+      },
+      {
+        "href": "/product/adven-cannabisextrakt-thc-10-cbd-10",
+        "text": "Adven Cannabisextrakt THC 10 CBD 10",
+        "title": "Alternative: Adven Cannabisextrakt THC 10 CBD 10"
+      },
+      {
+        "href": "/product/demecan-typ-1",
+        "text": "Demecan Typ 1",
+        "title": "Alternative: Demecan Typ 1"
+      },
+      {
+        "href": "/product/cannamedical-indica-forte-ej",
+        "text": "Cannamedical Indica forte EJ",
+        "title": "Alternative: Cannamedical Indica forte EJ"
+      },
+      {
+        "href": "/product/251vayamed-cannabisextrakt",
+        "text": "25/1Vayamed Cannabisextrakt",
+        "title": "Alternative: 25/1Vayamed Cannabisextrakt"
+      },
+      {
+        "href": "/product/cannabisextrakt-aurora-thc-25",
+        "text": "Cannabisextrakt Aurora THC 25",
+        "title": "Alternative: Cannabisextrakt Aurora THC 25"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

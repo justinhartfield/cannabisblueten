@@ -1,0 +1,223 @@
+{
+  "product": {
+    "slug": "weeco-231",
+    "name": "Weeco 23/1",
+    "type": "flower",
+    "genetics": "hybrid_sativa",
+    "thcPercent": 23,
+    "cbdPercent": 1,
+    "priceMin": 599,
+    "priceMax": 840,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "N/A",
+    "imageUrl": "https://weed.de/products/weeco-231-a3abdf.png"
+  },
+  "brand": {
+    "slug": "weeco",
+    "name": "Weeco",
+    "productCount": 21
+  },
+  "strain": {
+    "slug": "frosted-lemon-angel",
+    "name": "Frosted Lemon Angel",
+    "geneticType": "hybrid",
+    "effects": [
+      "Euphoric",
+      "Energetic"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Myrcene",
+      "Limonene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Euphoric",
+      "Energetic"
+    ],
+    "tastes": [
+      "Citrus",
+      "Earthy",
+      "Spicy"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Myrcene",
+      "Limonene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "amp-classic-251",
+      "name": "AMP Classic 25/1",
+      "brandName": "AMP",
+      "thcPercent": 25,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "weeco-21-fla",
+      "name": "Weeco 20/1 FLA",
+      "brandName": "Weeco",
+      "thcPercent": 20,
+      "priceMin": 479,
+      "inStock": true
+    },
+    {
+      "slug": "supreme-241",
+      "name": "Supreme 24/1",
+      "brandName": "WMG Pharma",
+      "thcPercent": 24,
+      "priceMin": 499,
+      "inStock": true
+    },
+    {
+      "slug": "aca-221-c-fla",
+      "name": "ACA 22/1 C FLA",
+      "brandName": "ACA Müller ADAG Pharma",
+      "thcPercent": 22,
+      "priceMin": 599,
+      "inStock": true
+    },
+    {
+      "slug": "aca-241-c",
+      "name": "ACA 24/1 C",
+      "brandName": "ACA Müller ADAG Pharma",
+      "thcPercent": 24,
+      "priceMin": 399,
+      "inStock": false
+    },
+    {
+      "slug": "weeco-251",
+      "name": "Weeco 25/1",
+      "brandName": "Weeco",
+      "thcPercent": 24.7,
+      "priceMin": 884,
+      "inStock": false
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Weeco 23/1 | ab 5,99 €",
+      "description": "Weeco 23/1 von Weeco. THC: 23%, CBD: 1%. Sorte: Frosted Lemon Angel. Preis ab 5,99 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/weeco-231",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Weeco 23/1 | ab 5,99 €",
+        "description": "Weeco 23/1 von Weeco. THC: 23%, CBD: 1%. Sorte: Frosted Lemon Angel. Preis ab 5,99 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/weeco-231",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/weeco-231-a3abdf.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Weeco",
+        "href": "https://weed.de/brand/weeco"
+      },
+      {
+        "name": "Weeco 23/1",
+        "href": "https://weed.de/product/weeco-231"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Weeco 23/1",
+            "item": "https://weed.de/product/weeco-231"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Weeco 23/1",
+        "brand": {
+          "@type": "Brand",
+          "name": "Weeco"
+        },
+        "description": "THC: 23%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/frosted-lemon-angel",
+      "text": "Frosted Lemon Angel",
+      "title": "Frosted Lemon Angel Sorte"
+    },
+    "brand": {
+      "href": "/brand/weeco",
+      "text": "Weeco",
+      "title": "Alle Weeco Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/amp-classic-251",
+        "text": "AMP Classic 25/1",
+        "title": "Alternative: AMP Classic 25/1"
+      },
+      {
+        "href": "/product/weeco-21-fla",
+        "text": "Weeco 20/1 FLA",
+        "title": "Alternative: Weeco 20/1 FLA"
+      },
+      {
+        "href": "/product/supreme-241",
+        "text": "Supreme 24/1",
+        "title": "Alternative: Supreme 24/1"
+      },
+      {
+        "href": "/product/aca-221-c-fla",
+        "text": "ACA 22/1 C FLA",
+        "title": "Alternative: ACA 22/1 C FLA"
+      },
+      {
+        "href": "/product/aca-241-c",
+        "text": "ACA 24/1 C",
+        "title": "Alternative: ACA 24/1 C"
+      },
+      {
+        "href": "/product/weeco-251",
+        "text": "Weeco 25/1",
+        "title": "Alternative: Weeco 25/1"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

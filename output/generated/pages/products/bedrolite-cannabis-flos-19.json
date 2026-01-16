@@ -1,0 +1,230 @@
+{
+  "product": {
+    "slug": "bedrolite-cannabis-flos-19",
+    "name": "Bedrolite Cannabis Flos 1/9",
+    "type": "flower",
+    "genetics": "sativa",
+    "thcPercent": 1,
+    "cbdPercent": 9,
+    "priceMin": 1249,
+    "priceMax": 1249,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Niederlande",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "bedrocan",
+    "name": "Bedrocan",
+    "productCount": 15
+  },
+  "strain": {
+    "slug": "rensina",
+    "name": "Rensina",
+    "geneticType": "sativa",
+    "effects": [
+      "Relaxed",
+      "Focused"
+    ],
+    "terpenes": [
+      "Terpinolene",
+      "Myrcene",
+      "Humulene",
+      "Camphene",
+      "Beta-Caryophyllene",
+      "Beta-Pinene",
+      "Alpha-Pinene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Relaxed",
+      "Focused"
+    ],
+    "tastes": [
+      "Earthy",
+      "Fruity",
+      "Spicy"
+    ],
+    "terpenes": [
+      "Terpinolene",
+      "Myrcene",
+      "Humulene",
+      "Camphene",
+      "Beta-Caryophyllene",
+      "Beta-Pinene",
+      "Alpha-Pinene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "aurora-typ-1",
+      "name": "Aurora Typ 1",
+      "brandName": "Aurora",
+      "thcPercent": 19,
+      "priceMin": 479,
+      "inStock": true
+    },
+    {
+      "slug": "pedanios-22-1",
+      "name": "Pedanios 22/1",
+      "brandName": "Aurora",
+      "thcPercent": 22,
+      "priceMin": 629,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-sativa-forte-tc",
+      "name": "Cannamedical Sativa forte TC",
+      "brandName": "Cannamedical",
+      "thcPercent": 24,
+      "priceMin": 683,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-sativa-classic-tc",
+      "name": "Cannamedical Sativa classic TC",
+      "brandName": "Cannamedical",
+      "thcPercent": 20,
+      "priceMin": 755,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-sativa-classic-si",
+      "name": "Cannamedical Sativa classic SI",
+      "brandName": "Cannamedical",
+      "thcPercent": 20,
+      "priceMin": 915,
+      "inStock": true
+    },
+    {
+      "slug": "cannabis-flos-bedrocan-f20",
+      "name": "Cannabis Flos Bedrocan F20",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 22,
+      "priceMin": null,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Bedrolite Cannabis Flos 1/9 - Bedrocan | ab 12,49 €",
+      "description": "Bedrolite Cannabis Flos 1/9 von Bedrocan. THC: 1%, CBD: 9%. Sorte: Rensina. Preis ab 12,49 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/bedrolite-cannabis-flos-19",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Bedrolite Cannabis Flos 1/9 - Bedrocan | ab 12,49 €",
+        "description": "Bedrolite Cannabis Flos 1/9 von Bedrocan. THC: 1%, CBD: 9%. Sorte: Rensina. Preis ab 12,49 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/bedrolite-cannabis-flos-19",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Bedrocan",
+        "href": "https://weed.de/brand/bedrocan"
+      },
+      {
+        "name": "Bedrolite Cannabis Flos 1/9",
+        "href": "https://weed.de/product/bedrolite-cannabis-flos-19"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Bedrolite Cannabis Flos 1/9",
+            "item": "https://weed.de/product/bedrolite-cannabis-flos-19"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Bedrolite Cannabis Flos 1/9",
+        "brand": {
+          "@type": "Brand",
+          "name": "Bedrocan"
+        },
+        "description": "THC: 1%, CBD: 9%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/rensina",
+      "text": "Rensina",
+      "title": "Rensina Sorte"
+    },
+    "brand": {
+      "href": "/brand/bedrocan",
+      "text": "Bedrocan",
+      "title": "Alle Bedrocan Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/aurora-typ-1",
+        "text": "Aurora Typ 1",
+        "title": "Alternative: Aurora Typ 1"
+      },
+      {
+        "href": "/product/pedanios-22-1",
+        "text": "Pedanios 22/1",
+        "title": "Alternative: Pedanios 22/1"
+      },
+      {
+        "href": "/product/cannamedical-sativa-forte-tc",
+        "text": "Cannamedical Sativa forte TC",
+        "title": "Alternative: Cannamedical Sativa forte TC"
+      },
+      {
+        "href": "/product/cannamedical-sativa-classic-tc",
+        "text": "Cannamedical Sativa classic TC",
+        "title": "Alternative: Cannamedical Sativa classic TC"
+      },
+      {
+        "href": "/product/cannamedical-sativa-classic-si",
+        "text": "Cannamedical Sativa classic SI",
+        "title": "Alternative: Cannamedical Sativa classic SI"
+      },
+      {
+        "href": "/product/cannabis-flos-bedrocan-f20",
+        "text": "Cannabis Flos Bedrocan F20",
+        "title": "Alternative: Cannabis Flos Bedrocan F20"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

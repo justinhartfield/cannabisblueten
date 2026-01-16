@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "rosen-apotheke-eisleben",
+    "name": "Rosen Apotheke Eisleben",
+    "street": "Hohetorstraße 25A",
+    "zip": "06295",
+    "cityName": "Lutherstadt Eisleben",
+    "state": "Sachsen-Anhalt",
+    "lat": 51.5326263,
+    "lng": 11.5401039,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "rosativa.de",
+    "phone": "03475604185",
+    "email": "kontakt@rosativa.de",
+    "productCount": 25,
+    "rating": 5,
+    "ratingCount": 2,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/684bfc201102597affee738c-213ddh.jpg"
+  },
+  "city": {
+    "slug": "lutherstadt-eisleben",
+    "name": "Lutherstadt Eisleben",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "cannaroko-oder-robert-koch-apotheke-wolfen",
+      "name": "CannaRoKo | Robert-Koch-Apotheke Wolfen",
+      "cityName": "Bitterfeld-Wolfen",
+      "productCount": 80,
+      "hasDelivery": true
+    },
+    {
+      "slug": "hirsch-apotheke-1",
+      "name": "Cannasana",
+      "cityName": "Hohe Börde",
+      "productCount": 66,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-am-collegienhof",
+      "name": "Elbgrün",
+      "cityName": "Lutherstadt Wittenberg",
+      "productCount": 43,
+      "hasDelivery": true
+    },
+    {
+      "slug": "easyapotheke-magdeburg",
+      "name": "easyApotheke Magdeburg",
+      "cityName": "Magdeburg",
+      "productCount": 32,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannalles",
+      "name": "Cannalles im Salzlandkreis",
+      "cityName": "Hecklingen",
+      "productCount": 22,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Rosen Apotheke Eisleben - Cannabis Apotheke in Lutherstadt Eisleben",
+      "description": "Rosen Apotheke Eisleben in Lutherstadt Eisleben. 25 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/rosen-apotheke-eisleben",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Rosen Apotheke Eisleben - Cannabis Apotheke in Lutherstadt Eisleben",
+        "description": "Rosen Apotheke Eisleben in Lutherstadt Eisleben. 25 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/rosen-apotheke-eisleben",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/684bfc201102597affee738c-213ddh.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Lutherstadt Eisleben",
+        "href": "https://weed.de/cannabis-apotheke/lutherstadt-eisleben"
+      },
+      {
+        "name": "Rosen Apotheke Eisleben",
+        "href": "https://weed.de/apotheke/rosen-apotheke-eisleben"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Lutherstadt Eisleben",
+            "item": "https://weed.de/cannabis-apotheke/lutherstadt-eisleben"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Rosen Apotheke Eisleben",
+            "item": "https://weed.de/apotheke/rosen-apotheke-eisleben"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Rosen Apotheke Eisleben",
+        "url": "https://weed.de/apotheke/rosen-apotheke-eisleben",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Hohetorstraße 25A",
+          "addressLocality": "Lutherstadt Eisleben",
+          "postalCode": "06295",
+          "addressRegion": "Sachsen-Anhalt",
+          "addressCountry": "DE"
+        },
+        "telephone": "03475604185",
+        "email": "kontakt@rosativa.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/lutherstadt-eisleben",
+      "text": "Cannabis Apotheken in Lutherstadt Eisleben",
+      "title": "Alle Apotheken in Lutherstadt Eisleben"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/cannaroko-oder-robert-koch-apotheke-wolfen",
+        "text": "CannaRoKo | Robert-Koch-Apotheke Wolfen",
+        "title": "CannaRoKo | Robert-Koch-Apotheke Wolfen in Bitterfeld-Wolfen"
+      },
+      {
+        "href": "/apotheke/hirsch-apotheke-1",
+        "text": "Cannasana",
+        "title": "Cannasana in Hohe Börde"
+      },
+      {
+        "href": "/apotheke/apotheke-am-collegienhof",
+        "text": "Elbgrün",
+        "title": "Elbgrün in Lutherstadt Wittenberg"
+      },
+      {
+        "href": "/apotheke/easyapotheke-magdeburg",
+        "text": "easyApotheke Magdeburg",
+        "title": "easyApotheke Magdeburg in Magdeburg"
+      },
+      {
+        "href": "/apotheke/cannalles",
+        "text": "Cannalles im Salzlandkreis",
+        "title": "Cannalles im Salzlandkreis in Hecklingen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

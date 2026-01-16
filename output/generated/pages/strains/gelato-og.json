@@ -1,0 +1,272 @@
+{
+  "strain": {
+    "slug": "gelato-og",
+    "name": "Gelato OG",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Relaxed"
+    ],
+    "tastes": [
+      "Sweet",
+      "Pepper",
+      "Citrus",
+      "Earthy"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Caryophyllene"
+    ],
+    "description": "Gelato OG wurde aus der Kreuzung von Gelato mit True OG (OG Kush) geboren. Der THC-Gehalt dieser Indica-dominierten Sorte liegt zwischen 20 - 25 %. Nutzer berichten von einer entspannenden Wirkung, welche beim Schlafen hilfreich sein kann. Zu den Hauptterpenen gehören Myrcene, Limonene und Caryophyllene.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 4,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 469,
+      "max": 899,
+      "formatted": {
+        "min": "4,69 €",
+        "max": "8,99 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "demecan-251-gog-k",
+      "name": "Demecan 25/1 GOG-K",
+      "brandName": "Demecan",
+      "thcPercent": 25,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "demecan-231-gog-k",
+      "name": "DEMECAN 23/1 GOG-K",
+      "brandName": "Deutsche Medizinalcannabis",
+      "thcPercent": 23,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "demecan-rf-epic-drop",
+      "name": "Demecan RF Epic Drop",
+      "brandName": "Demecan",
+      "thcPercent": 31,
+      "priceMin": 699,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-cherryco-231-gog-k",
+      "name": "Demecan CherryCo 23/01 GOG-K",
+      "brandName": "Demecan",
+      "thcPercent": 23,
+      "priceMin": 469,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "bucket-list",
+      "name": "Bucket List",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "gelato-33",
+      "name": "Gelato 33",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "grape-gasoline",
+      "name": "Grape Gasoline",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "el-jefe",
+      "name": "El Jefe",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "herijuana",
+      "name": "Herijuana",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Gelato OG (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Gelato OG: Relaxed. 4 Produkte verfügbar. ab 4,69 €.",
+      "canonical": "https://weed.de/strain/gelato-og",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Gelato OG (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Gelato OG: Relaxed. 4 Produkte verfügbar. ab 4,69 €.",
+        "url": "https://weed.de/strain/gelato-og",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Gelato OG",
+        "href": "https://weed.de/strain/gelato-og"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Gelato OG",
+            "item": "https://weed.de/strain/gelato-og"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Gelato OG Produkte",
+        "numberOfItems": 4,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/demecan-251-gog-k",
+            "name": "Demecan 25/1 GOG-K"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/demecan-231-gog-k",
+            "name": "DEMECAN 23/1 GOG-K"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/demecan-rf-epic-drop",
+            "name": "Demecan RF Epic Drop"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/product/demecan-cherryco-231-gog-k",
+            "name": "Demecan CherryCo 23/01 GOG-K"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/demecan-251-gog-k",
+        "text": "Demecan 25/1 GOG-K",
+        "title": "Demecan 25/1 GOG-K von Demecan"
+      },
+      {
+        "href": "/product/demecan-231-gog-k",
+        "text": "DEMECAN 23/1 GOG-K",
+        "title": "DEMECAN 23/1 GOG-K von Deutsche Medizinalcannabis"
+      },
+      {
+        "href": "/product/demecan-rf-epic-drop",
+        "text": "Demecan RF Epic Drop",
+        "title": "Demecan RF Epic Drop von Demecan"
+      },
+      {
+        "href": "/product/demecan-cherryco-231-gog-k",
+        "text": "Demecan CherryCo 23/01 GOG-K",
+        "title": "Demecan CherryCo 23/01 GOG-K von Demecan"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/bucket-list",
+        "text": "Bucket List",
+        "title": "Bucket List - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/gelato-33",
+        "text": "Gelato 33",
+        "title": "Gelato 33 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/grape-gasoline",
+        "text": "Grape Gasoline",
+        "title": "Grape Gasoline - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/el-jefe",
+        "text": "El Jefe",
+        "title": "El Jefe - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/herijuana",
+        "text": "Herijuana",
+        "title": "Herijuana - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

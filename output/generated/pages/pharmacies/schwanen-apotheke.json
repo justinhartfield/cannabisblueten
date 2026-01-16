@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "schwanen-apotheke",
+    "name": "Schwanen-Apotheke",
+    "street": "Rugenbarg 9",
+    "zip": "22549",
+    "cityName": "Hamburg",
+    "state": "Hamburg",
+    "lat": 53.57420759999999,
+    "lng": 9.8463766,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://schwanen-apotheke-hamburg.de/",
+    "phone": "04080783780",
+    "email": "schwanen-apo@t-online.de",
+    "productCount": 42,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/68f0e4663bc8cdef86f16246-7ae9aa.jpg"
+  },
+  "city": {
+    "slug": "hamburg",
+    "name": "Hamburg",
+    "pharmacyCount": 12
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "aposweet",
+      "name": "ApoSweet",
+      "cityName": "Hamburg",
+      "productCount": 73,
+      "hasDelivery": true
+    },
+    {
+      "slug": "thcundco",
+      "name": "thcundco.de (Arcaden Apotheke OHG)",
+      "cityName": "Hamburg",
+      "productCount": 53,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-an-der-friedenseiche",
+      "name": "Apotheke an der Friedenseiche",
+      "cityName": "Hamburg",
+      "productCount": 30,
+      "hasDelivery": true
+    },
+    {
+      "slug": "eulen-apotheke",
+      "name": "Eulen Apotheke",
+      "cityName": "Hamburg",
+      "productCount": 20,
+      "hasDelivery": true
+    },
+    {
+      "slug": "dorfplatz-apotheke",
+      "name": "Dorfplatz Apotheke",
+      "cityName": "Hamburg",
+      "productCount": 13,
+      "hasDelivery": false
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Schwanen-Apotheke - Cannabis Apotheke in Hamburg",
+      "description": "Schwanen-Apotheke in Hamburg. 42 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/schwanen-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Schwanen-Apotheke - Cannabis Apotheke in Hamburg",
+        "description": "Schwanen-Apotheke in Hamburg. 42 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/schwanen-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/68f0e4663bc8cdef86f16246-7ae9aa.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Hamburg",
+        "href": "https://weed.de/cannabis-apotheke/hamburg"
+      },
+      {
+        "name": "Schwanen-Apotheke",
+        "href": "https://weed.de/apotheke/schwanen-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Hamburg",
+            "item": "https://weed.de/cannabis-apotheke/hamburg"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Schwanen-Apotheke",
+            "item": "https://weed.de/apotheke/schwanen-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Schwanen-Apotheke",
+        "url": "https://weed.de/apotheke/schwanen-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Rugenbarg 9",
+          "addressLocality": "Hamburg",
+          "postalCode": "22549",
+          "addressRegion": "Hamburg",
+          "addressCountry": "DE"
+        },
+        "telephone": "04080783780",
+        "email": "schwanen-apo@t-online.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/hamburg",
+      "text": "Cannabis Apotheken in Hamburg",
+      "title": "Alle Apotheken in Hamburg"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/aposweet",
+        "text": "ApoSweet",
+        "title": "ApoSweet in Hamburg"
+      },
+      {
+        "href": "/apotheke/thcundco",
+        "text": "thcundco.de (Arcaden Apotheke OHG)",
+        "title": "thcundco.de (Arcaden Apotheke OHG) in Hamburg"
+      },
+      {
+        "href": "/apotheke/apotheke-an-der-friedenseiche",
+        "text": "Apotheke an der Friedenseiche",
+        "title": "Apotheke an der Friedenseiche in Hamburg"
+      },
+      {
+        "href": "/apotheke/eulen-apotheke",
+        "text": "Eulen Apotheke",
+        "title": "Eulen Apotheke in Hamburg"
+      },
+      {
+        "href": "/apotheke/dorfplatz-apotheke",
+        "text": "Dorfplatz Apotheke",
+        "title": "Dorfplatz Apotheke in Hamburg"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

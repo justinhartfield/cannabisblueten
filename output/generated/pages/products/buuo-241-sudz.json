@@ -1,0 +1,220 @@
+{
+  "product": {
+    "slug": "buuo-241-sudz",
+    "name": "Buuo 24/1 Sudz",
+    "type": "flower",
+    "genetics": "hybrid",
+    "thcPercent": 24,
+    "cbdPercent": 1,
+    "priceMin": 575,
+    "priceMax": 575,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": "https://weed.de/products/buuo-241-sudz-a0dgfj.png"
+  },
+  "brand": {
+    "slug": "wmg-pharma",
+    "name": "WMG Pharma",
+    "productCount": 62
+  },
+  "strain": {
+    "slug": "sudz",
+    "name": "Sudz",
+    "geneticType": "hybrid",
+    "effects": [
+      "Relaxed",
+      "Activating"
+    ],
+    "terpenes": [
+      "Linalool",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Relaxed",
+      "Activating"
+    ],
+    "tastes": [
+      "Fruity",
+      "Sweet"
+    ],
+    "terpenes": [
+      "Linalool",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "tilray-thc-25-spotlight-porto-purps",
+      "name": "Tilray THC 25 Spotlight Porto Purps",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": 349,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc5cbd2",
+      "name": "Tilray Cannabisextrakt THC5:CBD20",
+      "brandName": "Tilray",
+      "thcPercent": 5,
+      "priceMin": 350,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc1cbd1",
+      "name": "Tilray Cannabisextrakt THC10:CBD10",
+      "brandName": "Tilray",
+      "thcPercent": 10,
+      "priceMin": 400,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-2",
+      "name": "Demecan Typ 2",
+      "brandName": "Demecan",
+      "thcPercent": 16,
+      "priceMin": 533,
+      "inStock": true
+    },
+    {
+      "slug": "khiron-191-gelato",
+      "name": "Khiron 19/1 Gelato",
+      "brandName": "Khiron",
+      "thcPercent": 17.6,
+      "priceMin": 638,
+      "inStock": true
+    },
+    {
+      "slug": "jr-strain-221",
+      "name": "J.R. Strain 22/1",
+      "brandName": "Cantourage",
+      "thcPercent": 22,
+      "priceMin": 680,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Buuo 24/1 Sudz - WMG Pharma | ab 5,75 €",
+      "description": "Buuo 24/1 Sudz von WMG Pharma. THC: 24%, CBD: 1%. Sorte: Sudz. Preis ab 5,75 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/buuo-241-sudz",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Buuo 24/1 Sudz - WMG Pharma | ab 5,75 €",
+        "description": "Buuo 24/1 Sudz von WMG Pharma. THC: 24%, CBD: 1%. Sorte: Sudz. Preis ab 5,75 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/buuo-241-sudz",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/buuo-241-sudz-a0dgfj.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "WMG Pharma",
+        "href": "https://weed.de/brand/wmg-pharma"
+      },
+      {
+        "name": "Buuo 24/1 Sudz",
+        "href": "https://weed.de/product/buuo-241-sudz"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Buuo 24/1 Sudz",
+            "item": "https://weed.de/product/buuo-241-sudz"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Buuo 24/1 Sudz",
+        "brand": {
+          "@type": "Brand",
+          "name": "WMG Pharma"
+        },
+        "description": "THC: 24%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/sudz",
+      "text": "Sudz",
+      "title": "Sudz Sorte"
+    },
+    "brand": {
+      "href": "/brand/wmg-pharma",
+      "text": "WMG Pharma",
+      "title": "Alle WMG Pharma Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/tilray-thc-25-spotlight-porto-purps",
+        "text": "Tilray THC 25 Spotlight Porto Purps",
+        "title": "Alternative: Tilray THC 25 Spotlight Porto Purps"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc5cbd2",
+        "text": "Tilray Cannabisextrakt THC5:CBD20",
+        "title": "Alternative: Tilray Cannabisextrakt THC5:CBD20"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc1cbd1",
+        "text": "Tilray Cannabisextrakt THC10:CBD10",
+        "title": "Alternative: Tilray Cannabisextrakt THC10:CBD10"
+      },
+      {
+        "href": "/product/demecan-typ-2",
+        "text": "Demecan Typ 2",
+        "title": "Alternative: Demecan Typ 2"
+      },
+      {
+        "href": "/product/khiron-191-gelato",
+        "text": "Khiron 19/1 Gelato",
+        "title": "Alternative: Khiron 19/1 Gelato"
+      },
+      {
+        "href": "/product/jr-strain-221",
+        "text": "J.R. Strain 22/1",
+        "title": "Alternative: J.R. Strain 22/1"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

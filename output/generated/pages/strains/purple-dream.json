@@ -1,0 +1,216 @@
+{
+  "strain": {
+    "slug": "purple-dream",
+    "name": "Purple Dream",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Creative",
+      "Focused",
+      "Euphoric"
+    ],
+    "tastes": [
+      "Pine",
+      "Earthy",
+      "Spicy"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Caryophyllene",
+      "Pinene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 715,
+      "max": 715,
+      "formatted": {
+        "min": "7,15 €",
+        "max": "7,15 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "balancial-211-pt-pd",
+      "name": "Balancial 21/1 PT PD",
+      "brandName": "Balancial GmbH",
+      "thcPercent": 21,
+      "priceMin": 715,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "california-orange",
+      "name": "California Orange",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "cannatonic",
+      "name": "Cannatonic",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "grapefruit",
+      "name": "Grapefruit",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "stardawg",
+      "name": "Stardawg",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "sweet-skunk",
+      "name": "Sweet Skunk",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Purple Dream (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Purple Dream: Creative, Focused, Euphoric. 1 Produkte verfügbar. ab 7,15 €.",
+      "canonical": "https://weed.de/strain/purple-dream",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Purple Dream (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Purple Dream: Creative, Focused, Euphoric. 1 Produkte verfügbar. ab 7,15 €.",
+        "url": "https://weed.de/strain/purple-dream",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Purple Dream",
+        "href": "https://weed.de/strain/purple-dream"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Purple Dream",
+            "item": "https://weed.de/strain/purple-dream"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Purple Dream Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/balancial-211-pt-pd",
+            "name": "Balancial 21/1 PT PD"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/balancial-211-pt-pd",
+        "text": "Balancial 21/1 PT PD",
+        "title": "Balancial 21/1 PT PD von Balancial GmbH"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/california-orange",
+        "text": "California Orange",
+        "title": "California Orange - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/cannatonic",
+        "text": "Cannatonic",
+        "title": "Cannatonic - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/grapefruit",
+        "text": "Grapefruit",
+        "title": "Grapefruit - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/stardawg",
+        "text": "Stardawg",
+        "title": "Stardawg - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/sweet-skunk",
+        "text": "Sweet Skunk",
+        "title": "Sweet Skunk - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/pinene",
+        "text": "Pinene",
+        "title": "Pinene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

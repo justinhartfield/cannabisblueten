@@ -1,0 +1,238 @@
+{
+  "strain": {
+    "slug": "future-island",
+    "name": "Future Island",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Euphoric",
+      "Energetic",
+      "Mood-lifting",
+      "Uplifted",
+      "Body-High"
+    ],
+    "tastes": [
+      "Fruity",
+      "Mint",
+      "Mango",
+      "Earthy"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 395,
+      "max": 669,
+      "formatted": {
+        "min": "3,95 €",
+        "max": "6,69 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "remexian-241-cbm-fui",
+      "name": "Remexian 24/1 CBM FUI",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 27,
+      "priceMin": 669,
+      "inStock": false
+    },
+    {
+      "slug": "remexian-181-cbm-fui",
+      "name": "Remexian 18/1 CBM FUI",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 18,
+      "priceMin": 395,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "life-hack",
+      "name": "Life Hack",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "critical-orange-punch",
+      "name": "Critical Orange Punch",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "very-cherry-berry",
+      "name": "Very Cherry Berry",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "skull-cap",
+      "name": "Skull cap",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "auto-white-widow",
+      "name": "Auto White Widow",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Future Island (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Future Island: Euphoric, Energetic, Mood-lifting. 2 Produkte verfügbar. ab 3,95 €.",
+      "canonical": "https://weed.de/strain/future-island",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Future Island (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Future Island: Euphoric, Energetic, Mood-lifting. 2 Produkte verfügbar. ab 3,95 €.",
+        "url": "https://weed.de/strain/future-island",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Future Island",
+        "href": "https://weed.de/strain/future-island"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Future Island",
+            "item": "https://weed.de/strain/future-island"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Future Island Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/remexian-241-cbm-fui",
+            "name": "Remexian 24/1 CBM FUI"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/remexian-181-cbm-fui",
+            "name": "Remexian 18/1 CBM FUI"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/remexian-241-cbm-fui",
+        "text": "Remexian 24/1 CBM FUI",
+        "title": "Remexian 24/1 CBM FUI von Remexian Pharma"
+      },
+      {
+        "href": "/product/remexian-181-cbm-fui",
+        "text": "Remexian 18/1 CBM FUI",
+        "title": "Remexian 18/1 CBM FUI von Remexian Pharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/life-hack",
+        "text": "Life Hack",
+        "title": "Life Hack - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/critical-orange-punch",
+        "text": "Critical Orange Punch",
+        "title": "Critical Orange Punch - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/very-cherry-berry",
+        "text": "Very Cherry Berry",
+        "title": "Very Cherry Berry - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/skull-cap",
+        "text": "Skull cap",
+        "title": "Skull cap - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/auto-white-widow",
+        "text": "Auto White Widow",
+        "title": "Auto White Widow - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

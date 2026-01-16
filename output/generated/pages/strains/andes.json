@@ -1,0 +1,228 @@
+{
+  "strain": {
+    "slug": "andes",
+    "name": "Andes",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Mental ease",
+      "Relaxed",
+      "Stress-relief",
+      "Mood-lifting",
+      "Headache",
+      "Motivating",
+      "Focused",
+      "Balanced"
+    ],
+    "tastes": [
+      "Mint",
+      "Eucalyptus",
+      "Pine",
+      "Chocolate",
+      "Menthol",
+      "Fresh",
+      "Citrus",
+      "Creamy",
+      "Sweet",
+      "Vanilla"
+    ],
+    "terpenes": [
+      "Beta-Caryophyllene",
+      "Limonene",
+      "Pinene"
+    ],
+    "description": "Andes ist eine seltene ausgewogene Hybrid-Sorte, deren genaue Abstammung oft mit einer Kreuzung aus Kush Mints und einer Zkittlez-Linie in Verbindung gebracht wird. Mit einem moderaten THC-Gehalt von 16% und einem CBD-Wert von 1% liefert sie klare Effekte, die für Reinheit und natürliche Tiefe stehen. \n\nIhr komplexes Geschmacksprofil ist geprägt von Pfefferminze, Eukalyptus und Pinie, begleitet von einer cremig-süßen Basis, die an weiße Schokolade erinnert. Das Terpenprofil, das von Limonen, Pinene und Beta-Caryophyllen dominiert wird, unterstreicht das Aroma mit zitrusartiger Frische, kühlenden Menthol-Noten und einer würzigen Tiefe. \n\nDie Wirkung beginnt mit einem spürbaren mentalen Lift, der Motivation und gute Laune fördert, bevor sich eine weiche körperliche Entspannung entfaltet. Andes ist ideal zur Linderung von Stress, Erschöpfung und Migräne, da sie belebt, ohne zu überfordern. Zusammengefasst ist Andes eine Sorte für alle, die ein frisches, minzig-cremiges Aroma mit einem potenten, fokussierenden und ausgleichenden High suchen.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 550,
+      "max": 550,
+      "formatted": {
+        "min": "5,50 €",
+        "max": "5,50 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "materia-and-161",
+      "name": "Materia AND 16/1",
+      "brandName": "Materia",
+      "thcPercent": 16,
+      "priceMin": 550,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "lemon-berry-og",
+      "name": "Lemon Berry OG",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "lemonatti",
+      "name": "Lemonatti",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "lemorange",
+      "name": "Lemorange",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "lemon-cookies",
+      "name": "Lemon Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "karen-kush",
+      "name": "Karen Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Andes (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Andes: Mental ease, Relaxed, Stress-relief. 1 Produkte verfügbar. ab 5,50 €.",
+      "canonical": "https://weed.de/strain/andes",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Andes (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Andes: Mental ease, Relaxed, Stress-relief. 1 Produkte verfügbar. ab 5,50 €.",
+        "url": "https://weed.de/strain/andes",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Andes",
+        "href": "https://weed.de/strain/andes"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Andes",
+            "item": "https://weed.de/strain/andes"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Andes Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/materia-and-161",
+            "name": "Materia AND 16/1"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/materia-and-161",
+        "text": "Materia AND 16/1",
+        "title": "Materia AND 16/1 von Materia"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/lemon-berry-og",
+        "text": "Lemon Berry OG",
+        "title": "Lemon Berry OG - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/lemonatti",
+        "text": "Lemonatti",
+        "title": "Lemonatti - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/lemorange",
+        "text": "Lemorange",
+        "title": "Lemorange - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/lemon-cookies",
+        "text": "Lemon Cookies",
+        "title": "Lemon Cookies - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/karen-kush",
+        "text": "Karen Kush",
+        "title": "Karen Kush - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/pinene",
+        "text": "Pinene",
+        "title": "Pinene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

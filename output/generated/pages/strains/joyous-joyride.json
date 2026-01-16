@@ -1,0 +1,221 @@
+{
+  "strain": {
+    "slug": "joyous-joyride",
+    "name": "Joyous Joyride",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Focused",
+      "Energetic"
+    ],
+    "tastes": [
+      "Diesel",
+      "Herbal",
+      "Pine"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Beta-Caryophyllene",
+      "Alpha-Humulene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 278,
+      "max": 549,
+      "formatted": {
+        "min": "2,78 €",
+        "max": "5,49 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "remexian-181-mhi-let",
+      "name": "Remexian 18/1 MHI LET",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 18,
+      "priceMin": 278,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "diamond-mints",
+      "name": "Diamond Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "amnesia-skittles",
+      "name": "Amnesia Skittles",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "lemon-berry-og",
+      "name": "Lemon Berry OG",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "peppermint",
+      "name": "Peppermint",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "driftwood-diesel",
+      "name": "Driftwood Diesel",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Joyous Joyride (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Joyous Joyride: Focused, Energetic. 1 Produkte verfügbar. ab 2,78 €.",
+      "canonical": "https://weed.de/strain/joyous-joyride",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Joyous Joyride (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Joyous Joyride: Focused, Energetic. 1 Produkte verfügbar. ab 2,78 €.",
+        "url": "https://weed.de/strain/joyous-joyride",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Joyous Joyride",
+        "href": "https://weed.de/strain/joyous-joyride"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Joyous Joyride",
+            "item": "https://weed.de/strain/joyous-joyride"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Joyous Joyride Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/remexian-181-mhi-let",
+            "name": "Remexian 18/1 MHI LET"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/remexian-181-mhi-let",
+        "text": "Remexian 18/1 MHI LET",
+        "title": "Remexian 18/1 MHI LET von Remexian Pharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/diamond-mints",
+        "text": "Diamond Mints",
+        "title": "Diamond Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/amnesia-skittles",
+        "text": "Amnesia Skittles",
+        "title": "Amnesia Skittles - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/lemon-berry-og",
+        "text": "Lemon Berry OG",
+        "title": "Lemon Berry OG - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/peppermint",
+        "text": "Peppermint",
+        "title": "Peppermint - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/driftwood-diesel",
+        "text": "Driftwood Diesel",
+        "title": "Driftwood Diesel - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/alpha-humulene",
+        "text": "Alpha-Humulene",
+        "title": "Alpha-Humulene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

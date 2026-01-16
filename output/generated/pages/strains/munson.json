@@ -1,0 +1,244 @@
+{
+  "strain": {
+    "slug": "munson",
+    "name": "Munson",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Creative",
+      "Energetic",
+      "Euphoric",
+      "Calming",
+      "Balanced",
+      "Stress-relief",
+      "Pain-relief",
+      "Sleepy"
+    ],
+    "tastes": [
+      "Chemical",
+      "Pine",
+      "Woody",
+      "Tar",
+      "Gassy",
+      "Skunk",
+      "Spicy"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Myrcene",
+      "Pinene"
+    ],
+    "description": "Munson ist eine Indica-dominante Hybridsorte, die von der Dominion Seed Company als Hommage an klassische Cannabis-Traditionen gezüchtet wurde. Sie entstammt der Kreuzung der legendären Northern Lights #5 und der Dominion Skunk. Mit einem THC-Gehalt von etwa 23 % und einem CBG-Anteil von 1 % bietet sie ein potentes Erlebnis, das sich vor allem an Liebhaber kräftiger Old-School-Genetiken richtet.\n\nDas Aromaprofil ist markant, herzhaft und durchdringend. Es dominieren Noten von Kiefer, chemischen Akzenten und Hölzern, die oft an den Geruch eines verölten Lappens oder Treibstoff erinnern. Diese scharfe, skunkige Basis wird durch waldige Untertöne abgerundet. Das Terpenprofil, geprägt von Myrcen, Pinen und Caryophyllen, unterstreicht diesen derben Charakter, der bewusst einen Kontrast zu modernen fruchtigen Dessert-Sorten bildet.\n\nDie Wirkung wird als sehr potent und langanhaltend beschrieben. Sie beginnt häufig mit einem energetischen und kreativen Schub, der die Stimmung hebt und Euphorie auslöst. Im weiteren Verlauf entfaltet sich eine ausgeglichene Balance zwischen geistiger Stimulation und körperlicher Gelassenheit, die entspannt, ohne sofort träge zu machen. Medizinisch wird Munson häufig zur Linderung von Stress, chronischen Schmerzen und Schlaflosigkeit genutzt, da sie hilft, sowohl mentale als auch physische Anspannung zu lösen.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 459,
+      "max": 595,
+      "formatted": {
+        "min": "4,59 €",
+        "max": "5,95 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "nice-31-ms",
+      "name": "NICE 30/1 MS",
+      "brandName": "Cansativa",
+      "thcPercent": 30,
+      "priceMin": 459,
+      "inStock": true
+    },
+    {
+      "slug": "nice-281-ms",
+      "name": "NICE 28/1 MS",
+      "brandName": "Cansativa",
+      "thcPercent": 28,
+      "priceMin": 522,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "white-gorilla",
+      "name": "White Gorilla",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "lemon-kush",
+      "name": "Lemon Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "grapefruit",
+      "name": "Grapefruit",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "juggernaut-gas-breath",
+      "name": "Juggernaut Gas Breath",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "patient-zero",
+      "name": "Patient Zero",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Munson (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Munson: Creative, Energetic, Euphoric. 2 Produkte verfügbar. ab 4,59 €.",
+      "canonical": "https://weed.de/strain/munson",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Munson (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Munson: Creative, Energetic, Euphoric. 2 Produkte verfügbar. ab 4,59 €.",
+        "url": "https://weed.de/strain/munson",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Munson",
+        "href": "https://weed.de/strain/munson"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Munson",
+            "item": "https://weed.de/strain/munson"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Munson Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/nice-31-ms",
+            "name": "NICE 30/1 MS"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/nice-281-ms",
+            "name": "NICE 28/1 MS"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/nice-31-ms",
+        "text": "NICE 30/1 MS",
+        "title": "NICE 30/1 MS von Cansativa"
+      },
+      {
+        "href": "/product/nice-281-ms",
+        "text": "NICE 28/1 MS",
+        "title": "NICE 28/1 MS von Cansativa"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/white-gorilla",
+        "text": "White Gorilla",
+        "title": "White Gorilla - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/lemon-kush",
+        "text": "Lemon Kush",
+        "title": "Lemon Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/grapefruit",
+        "text": "Grapefruit",
+        "title": "Grapefruit - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/juggernaut-gas-breath",
+        "text": "Juggernaut Gas Breath",
+        "title": "Juggernaut Gas Breath - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/patient-zero",
+        "text": "Patient Zero",
+        "title": "Patient Zero - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/pinene",
+        "text": "Pinene",
+        "title": "Pinene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

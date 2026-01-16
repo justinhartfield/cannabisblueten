@@ -1,0 +1,231 @@
+{
+  "product": {
+    "slug": "all-nations-gm-301-md",
+    "name": "All Nations GM 30/1 MD",
+    "type": "flower",
+    "genetics": "hybrid",
+    "thcPercent": 30,
+    "cbdPercent": 1,
+    "priceMin": 548,
+    "priceMax": 548,
+    "inStock": false,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": "https://weed.de/products/all-nations-gm-301-md-e694d2.png"
+  },
+  "brand": {
+    "slug": "cantourage",
+    "name": "Cantourage",
+    "productCount": 248
+  },
+  "strain": {
+    "slug": "mac-doughnut",
+    "name": "Mac Doughnut",
+    "geneticType": "hybrid",
+    "effects": [
+      "Relaxed",
+      "Euphoric",
+      "Happy",
+      "Uplifted",
+      "Sleepy"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Myrcene",
+      "Limonene",
+      "Linalool"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Relaxed",
+      "Euphoric",
+      "Happy",
+      "Uplifted",
+      "Sleepy"
+    ],
+    "tastes": [
+      "Sweet",
+      "Fruity",
+      "Vanilla"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Myrcene",
+      "Limonene",
+      "Linalool"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "tilray-thc-25-spotlight-porto-purps",
+      "name": "Tilray THC 25 Spotlight Porto Purps",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": 349,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc5cbd2",
+      "name": "Tilray Cannabisextrakt THC5:CBD20",
+      "brandName": "Tilray",
+      "thcPercent": 5,
+      "priceMin": 350,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc1cbd1",
+      "name": "Tilray Cannabisextrakt THC10:CBD10",
+      "brandName": "Tilray",
+      "thcPercent": 10,
+      "priceMin": 400,
+      "inStock": true
+    },
+    {
+      "slug": "all-nations-gm-251",
+      "name": "All Nations GM 25/1 MD",
+      "brandName": "Cantourage",
+      "thcPercent": 25,
+      "priceMin": 455,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-2",
+      "name": "Demecan Typ 2",
+      "brandName": "Demecan",
+      "thcPercent": 16,
+      "priceMin": 533,
+      "inStock": true
+    },
+    {
+      "slug": "all-nations-gm-104",
+      "name": "ALL NATIONS GM-104",
+      "brandName": "Cantourage",
+      "thcPercent": 25,
+      "priceMin": 594,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "All Nations GM 30/1 MD - Cantourage | ab 5,48 €",
+      "description": "All Nations GM 30/1 MD von Cantourage. THC: 30%, CBD: 1%. Sorte: Mac Doughnut. Preis ab 5,48 €. Preise vergleichen.",
+      "canonical": "https://weed.de/product/all-nations-gm-301-md",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "All Nations GM 30/1 MD - Cantourage | ab 5,48 €",
+        "description": "All Nations GM 30/1 MD von Cantourage. THC: 30%, CBD: 1%. Sorte: Mac Doughnut. Preis ab 5,48 €. Preise vergleichen.",
+        "url": "https://weed.de/product/all-nations-gm-301-md",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/all-nations-gm-301-md-e694d2.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Cantourage",
+        "href": "https://weed.de/brand/cantourage"
+      },
+      {
+        "name": "All Nations GM 30/1 MD",
+        "href": "https://weed.de/product/all-nations-gm-301-md"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "All Nations GM 30/1 MD",
+            "item": "https://weed.de/product/all-nations-gm-301-md"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "All Nations GM 30/1 MD",
+        "brand": {
+          "@type": "Brand",
+          "name": "Cantourage"
+        },
+        "description": "THC: 30%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/mac-doughnut",
+      "text": "Mac Doughnut",
+      "title": "Mac Doughnut Sorte"
+    },
+    "brand": {
+      "href": "/brand/cantourage",
+      "text": "Cantourage",
+      "title": "Alle Cantourage Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/tilray-thc-25-spotlight-porto-purps",
+        "text": "Tilray THC 25 Spotlight Porto Purps",
+        "title": "Alternative: Tilray THC 25 Spotlight Porto Purps"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc5cbd2",
+        "text": "Tilray Cannabisextrakt THC5:CBD20",
+        "title": "Alternative: Tilray Cannabisextrakt THC5:CBD20"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc1cbd1",
+        "text": "Tilray Cannabisextrakt THC10:CBD10",
+        "title": "Alternative: Tilray Cannabisextrakt THC10:CBD10"
+      },
+      {
+        "href": "/product/all-nations-gm-251",
+        "text": "All Nations GM 25/1 MD",
+        "title": "Alternative: All Nations GM 25/1 MD"
+      },
+      {
+        "href": "/product/demecan-typ-2",
+        "text": "Demecan Typ 2",
+        "title": "Alternative: Demecan Typ 2"
+      },
+      {
+        "href": "/product/all-nations-gm-104",
+        "text": "ALL NATIONS GM-104",
+        "title": "Alternative: ALL NATIONS GM-104"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has price data"
+  }
+}

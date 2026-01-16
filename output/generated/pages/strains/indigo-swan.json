@@ -1,0 +1,235 @@
+{
+  "strain": {
+    "slug": "indigo-swan",
+    "name": "Indigo Swan",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [
+      "Relaxed",
+      "Focused",
+      "Creative"
+    ],
+    "tastes": [
+      "Citrus",
+      "Earthy",
+      "Flowery"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Humulene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 499,
+      "max": 499,
+      "formatted": {
+        "min": "4,99 €",
+        "max": "4,99 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "241-amici-isw",
+      "name": "24/1 Amici ISW",
+      "brandName": "Cansativa",
+      "thcPercent": 24,
+      "priceMin": 499,
+      "inStock": false
+    },
+    {
+      "slug": "281-amici-isw",
+      "name": "28/1 Amici ISW",
+      "brandName": "Cansativa",
+      "thcPercent": 28,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "jean-guy-bienville",
+      "name": "Jean Guy Bienville",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "batha-balanced",
+      "name": "Batha Balanced",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "frosted-cookies",
+      "name": "Frosted Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "purple-ice-water",
+      "name": "Purple Ice Water",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "think-fast",
+      "name": "Think Fast",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Indigo Swan (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Indigo Swan: Relaxed, Focused, Creative. 2 Produkte verfügbar. ab 4,99 €.",
+      "canonical": "https://weed.de/strain/indigo-swan",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Indigo Swan (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Indigo Swan: Relaxed, Focused, Creative. 2 Produkte verfügbar. ab 4,99 €.",
+        "url": "https://weed.de/strain/indigo-swan",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Indigo Swan",
+        "href": "https://weed.de/strain/indigo-swan"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Indigo Swan",
+            "item": "https://weed.de/strain/indigo-swan"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Indigo Swan Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/241-amici-isw",
+            "name": "24/1 Amici ISW"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/281-amici-isw",
+            "name": "28/1 Amici ISW"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/241-amici-isw",
+        "text": "24/1 Amici ISW",
+        "title": "24/1 Amici ISW von Cansativa"
+      },
+      {
+        "href": "/product/281-amici-isw",
+        "text": "28/1 Amici ISW",
+        "title": "28/1 Amici ISW von Cansativa"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/jean-guy-bienville",
+        "text": "Jean Guy Bienville",
+        "title": "Jean Guy Bienville - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/batha-balanced",
+        "text": "Batha Balanced",
+        "title": "Batha Balanced - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/frosted-cookies",
+        "text": "Frosted Cookies",
+        "title": "Frosted Cookies - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/purple-ice-water",
+        "text": "Purple Ice Water",
+        "title": "Purple Ice Water - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/think-fast",
+        "text": "Think Fast",
+        "title": "Think Fast - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/humulene",
+        "text": "Humulene",
+        "title": "Humulene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

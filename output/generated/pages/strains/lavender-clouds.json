@@ -1,0 +1,229 @@
+{
+  "strain": {
+    "slug": "lavender-clouds",
+    "name": "Lavender Clouds",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [
+      "Relaxed",
+      "Happy",
+      "Energetic"
+    ],
+    "tastes": [
+      "Herbal",
+      "Flowery",
+      "Sweet"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Linalool",
+      "Beta-Caryophyllene",
+      "Farnesene",
+      "Alpha-Humulene",
+      "Alpha-Pinene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 535,
+      "max": 900,
+      "formatted": {
+        "min": "5,35 €",
+        "max": "9,00 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "cannamedical-sativa-vita-lc",
+      "name": "Cannamedical Sativa Vita LC",
+      "brandName": "Cannamedical",
+      "thcPercent": 14,
+      "priceMin": 535,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "mandarin-cookies",
+      "name": "Mandarin Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "auto-gorilla-blue-f1",
+      "name": "Auto Gorilla Blue F1",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "godfather-og-auto",
+      "name": "Godfather OG Auto",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "do-si-dos",
+      "name": "Do-Si-Dos",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "gelato-zkittles",
+      "name": "Gelato Zkittles",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Lavender Clouds (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Lavender Clouds: Relaxed, Happy, Energetic. 1 Produkte verfügbar. ab 5,35 €.",
+      "canonical": "https://weed.de/strain/lavender-clouds",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Lavender Clouds (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Lavender Clouds: Relaxed, Happy, Energetic. 1 Produkte verfügbar. ab 5,35 €.",
+        "url": "https://weed.de/strain/lavender-clouds",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Lavender Clouds",
+        "href": "https://weed.de/strain/lavender-clouds"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Lavender Clouds",
+            "item": "https://weed.de/strain/lavender-clouds"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Lavender Clouds Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/cannamedical-sativa-vita-lc",
+            "name": "Cannamedical Sativa Vita LC"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/cannamedical-sativa-vita-lc",
+        "text": "Cannamedical Sativa Vita LC",
+        "title": "Cannamedical Sativa Vita LC von Cannamedical"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/mandarin-cookies",
+        "text": "Mandarin Cookies",
+        "title": "Mandarin Cookies - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/auto-gorilla-blue-f1",
+        "text": "Auto Gorilla Blue F1",
+        "title": "Auto Gorilla Blue F1 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/godfather-og-auto",
+        "text": "Godfather OG Auto",
+        "title": "Godfather OG Auto - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/do-si-dos",
+        "text": "Do-Si-Dos",
+        "title": "Do-Si-Dos - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/gelato-zkittles",
+        "text": "Gelato Zkittles",
+        "title": "Gelato Zkittles - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/farnesene",
+        "text": "Farnesene",
+        "title": "Farnesene Terpen"
+      },
+      {
+        "href": "/terpene/alpha-humulene",
+        "text": "Alpha-Humulene",
+        "title": "Alpha-Humulene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

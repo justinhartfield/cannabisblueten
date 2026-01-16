@@ -1,0 +1,229 @@
+{
+  "product": {
+    "slug": "grow-2525",
+    "name": "GROW 25:25",
+    "type": "extract",
+    "genetics": "hybrid",
+    "thcPercent": 2.5,
+    "cbdPercent": 2.5,
+    "priceMin": 460,
+    "priceMax": 600,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": null,
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "grow-group",
+    "name": "Grow group",
+    "productCount": 12
+  },
+  "strain": {
+    "slug": "afghaniberry",
+    "name": "Afghaniberry",
+    "geneticType": "hybrid",
+    "effects": [
+      "Relaxed",
+      "Happy",
+      "Calming",
+      "Mood-lifting"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Beta-Caryophyllene",
+      "Limonene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Relaxed",
+      "Happy",
+      "Calming",
+      "Mood-lifting"
+    ],
+    "tastes": [
+      "Fruity",
+      "Flowery",
+      "Earthy",
+      "Pepper",
+      "Citrus",
+      "Fresh"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Beta-Caryophyllene",
+      "Limonene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "tilray-thc-25-spotlight-porto-purps",
+      "name": "Tilray THC 25 Spotlight Porto Purps",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": 349,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc5cbd2",
+      "name": "Tilray Cannabisextrakt THC5:CBD20",
+      "brandName": "Tilray",
+      "thcPercent": 5,
+      "priceMin": 350,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc1cbd1",
+      "name": "Tilray Cannabisextrakt THC10:CBD10",
+      "brandName": "Tilray",
+      "thcPercent": 10,
+      "priceMin": 400,
+      "inStock": true
+    },
+    {
+      "slug": "grow-1010",
+      "name": "GROW 10:10",
+      "brandName": "Grow group",
+      "thcPercent": 1,
+      "priceMin": 425,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-2",
+      "name": "Demecan Typ 2",
+      "brandName": "Demecan",
+      "thcPercent": 16,
+      "priceMin": 533,
+      "inStock": true
+    },
+    {
+      "slug": "khiron-191-gelato",
+      "name": "Khiron 19/1 Gelato",
+      "brandName": "Khiron",
+      "thcPercent": 17.6,
+      "priceMin": 638,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "GROW 25:25 - Grow group | ab 4,60 €",
+      "description": "GROW 25:25 von Grow group. THC: 2.5%, CBD: 2.5%. Sorte: Afghaniberry. Preis ab 4,60 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/grow-2525",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "GROW 25:25 - Grow group | ab 4,60 €",
+        "description": "GROW 25:25 von Grow group. THC: 2.5%, CBD: 2.5%. Sorte: Afghaniberry. Preis ab 4,60 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/grow-2525",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Grow group",
+        "href": "https://weed.de/brand/grow-group"
+      },
+      {
+        "name": "GROW 25:25",
+        "href": "https://weed.de/product/grow-2525"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "GROW 25:25",
+            "item": "https://weed.de/product/grow-2525"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "GROW 25:25",
+        "brand": {
+          "@type": "Brand",
+          "name": "Grow group"
+        },
+        "description": "THC: 2.5%, CBD: 2.5%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/afghaniberry",
+      "text": "Afghaniberry",
+      "title": "Afghaniberry Sorte"
+    },
+    "brand": {
+      "href": "/brand/grow-group",
+      "text": "Grow group",
+      "title": "Alle Grow group Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/tilray-thc-25-spotlight-porto-purps",
+        "text": "Tilray THC 25 Spotlight Porto Purps",
+        "title": "Alternative: Tilray THC 25 Spotlight Porto Purps"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc5cbd2",
+        "text": "Tilray Cannabisextrakt THC5:CBD20",
+        "title": "Alternative: Tilray Cannabisextrakt THC5:CBD20"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc1cbd1",
+        "text": "Tilray Cannabisextrakt THC10:CBD10",
+        "title": "Alternative: Tilray Cannabisextrakt THC10:CBD10"
+      },
+      {
+        "href": "/product/grow-1010",
+        "text": "GROW 10:10",
+        "title": "Alternative: GROW 10:10"
+      },
+      {
+        "href": "/product/demecan-typ-2",
+        "text": "Demecan Typ 2",
+        "title": "Alternative: Demecan Typ 2"
+      },
+      {
+        "href": "/product/khiron-191-gelato",
+        "text": "Khiron 19/1 Gelato",
+        "title": "Alternative: Khiron 19/1 Gelato"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

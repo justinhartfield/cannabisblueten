@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "kurpfalz-apotheke-sinsheim",
+    "name": "Kurpfalz Apotheke Sinsheim",
+    "street": "Schlesienstraße 2",
+    "zip": "74889",
+    "cityName": "Sinsheim",
+    "state": "Baden-Württemberg",
+    "lat": 49.2546484,
+    "lng": 8.89465,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://cannabis-medizin-apotheke.de/",
+    "phone": "07261656582",
+    "email": "cannabis@kurpfalzapotheke-sinsheim.de",
+    "productCount": 34,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/685d74a96d13bc4267db3791-9705c7.jpg"
+  },
+  "city": {
+    "slug": "sinsheim",
+    "name": "Sinsheim",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "florians-vital-apotheke",
+      "name": "Florians Vital Apotheke",
+      "cityName": "Esslingen am Neckar",
+      "productCount": 248,
+      "hasDelivery": true
+    },
+    {
+      "slug": "central-apotheke",
+      "name": "Cannabis-Champion",
+      "cityName": "Waiblingen",
+      "productCount": 240,
+      "hasDelivery": true
+    },
+    {
+      "slug": "karlchengras",
+      "name": "Karlchengras (Karl-Apotheke)",
+      "cityName": "Karlsruhe",
+      "productCount": 188,
+      "hasDelivery": true
+    },
+    {
+      "slug": "idris-apotheke-oder-3leafs",
+      "name": "Idris Apotheke | 3Leafs",
+      "cityName": "Weinheim",
+      "productCount": 149,
+      "hasDelivery": true
+    },
+    {
+      "slug": "schwarzwald-vital-apotheke",
+      "name": "Schwarzwald Vital Apotheke",
+      "cityName": "Gaggenau",
+      "productCount": 133,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Kurpfalz Apotheke Sinsheim - Cannabis Apotheke in Sinsheim",
+      "description": "Kurpfalz Apotheke Sinsheim in Sinsheim. 34 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/kurpfalz-apotheke-sinsheim",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Kurpfalz Apotheke Sinsheim - Cannabis Apotheke in Sinsheim",
+        "description": "Kurpfalz Apotheke Sinsheim in Sinsheim. 34 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/kurpfalz-apotheke-sinsheim",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/685d74a96d13bc4267db3791-9705c7.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Sinsheim",
+        "href": "https://weed.de/cannabis-apotheke/sinsheim"
+      },
+      {
+        "name": "Kurpfalz Apotheke Sinsheim",
+        "href": "https://weed.de/apotheke/kurpfalz-apotheke-sinsheim"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Sinsheim",
+            "item": "https://weed.de/cannabis-apotheke/sinsheim"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Kurpfalz Apotheke Sinsheim",
+            "item": "https://weed.de/apotheke/kurpfalz-apotheke-sinsheim"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Kurpfalz Apotheke Sinsheim",
+        "url": "https://weed.de/apotheke/kurpfalz-apotheke-sinsheim",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Schlesienstraße 2",
+          "addressLocality": "Sinsheim",
+          "postalCode": "74889",
+          "addressRegion": "Baden-Württemberg",
+          "addressCountry": "DE"
+        },
+        "telephone": "07261656582",
+        "email": "cannabis@kurpfalzapotheke-sinsheim.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/sinsheim",
+      "text": "Cannabis Apotheken in Sinsheim",
+      "title": "Alle Apotheken in Sinsheim"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/florians-vital-apotheke",
+        "text": "Florians Vital Apotheke",
+        "title": "Florians Vital Apotheke in Esslingen am Neckar"
+      },
+      {
+        "href": "/apotheke/central-apotheke",
+        "text": "Cannabis-Champion",
+        "title": "Cannabis-Champion in Waiblingen"
+      },
+      {
+        "href": "/apotheke/karlchengras",
+        "text": "Karlchengras (Karl-Apotheke)",
+        "title": "Karlchengras (Karl-Apotheke) in Karlsruhe"
+      },
+      {
+        "href": "/apotheke/idris-apotheke-oder-3leafs",
+        "text": "Idris Apotheke | 3Leafs",
+        "title": "Idris Apotheke | 3Leafs in Weinheim"
+      },
+      {
+        "href": "/apotheke/schwarzwald-vital-apotheke",
+        "text": "Schwarzwald Vital Apotheke",
+        "title": "Schwarzwald Vital Apotheke in Gaggenau"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

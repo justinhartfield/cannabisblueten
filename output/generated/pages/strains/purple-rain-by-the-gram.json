@@ -1,0 +1,235 @@
+{
+  "strain": {
+    "slug": "purple-rain-by-the-gram",
+    "name": "Purple Rain by the Gram",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Relaxed",
+      "Sleepy",
+      "Pain-relief"
+    ],
+    "tastes": [
+      "Citrus",
+      "Earthy",
+      "Pepper"
+    ],
+    "terpenes": [
+      "Beta-Caryophyllene",
+      "Limonene",
+      "Beta-Myrcene"
+    ],
+    "description": " Purple Rain by the Gram ist eine Sativa-dominante Sorte aus Dänemark. Sie enthält durchschnittlich 24 % THC und einen niedrigen CBD-Gehalt von unter 1 %. Die dominanten Terpene in dieser Sorte sind Beta-Caryophyllen, Limonen und Beta-Myrcen.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 449,
+      "max": 840,
+      "formatted": {
+        "min": "4,49 €",
+        "max": "8,40 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "weeco-241-duke",
+      "name": "Weeco Duke 24/1 PR",
+      "brandName": "Weeco",
+      "thcPercent": 23.8,
+      "priceMin": 449,
+      "inStock": true
+    },
+    {
+      "slug": "weeco-duke-21-pr",
+      "name": "Weeco Duke 20/1 PR",
+      "brandName": "Weeco",
+      "thcPercent": 21,
+      "priceMin": 475,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "creamy-kees-no.-5",
+      "name": "Creamy Kees No. 5",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "platinum-grapes",
+      "name": "Platinum Grapes",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "helios-gold",
+      "name": "Helios Gold",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "dawg-bud-fusion",
+      "name": "Dawg Bud Fusion",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "cement-shoes",
+      "name": "Cement Shoes",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Purple Rain by the Gram (Hybrid) - Wirkung, THC & Verfügb...",
+      "description": "Purple Rain by the Gram: Relaxed, Sleepy, Pain-relief. 2 Produkte verfügbar. ab 4,49 €.",
+      "canonical": "https://weed.de/strain/purple-rain-by-the-gram",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Purple Rain by the Gram (Hybrid) - Wirkung, THC & Verfügb...",
+        "description": "Purple Rain by the Gram: Relaxed, Sleepy, Pain-relief. 2 Produkte verfügbar. ab 4,49 €.",
+        "url": "https://weed.de/strain/purple-rain-by-the-gram",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Purple Rain by the Gram",
+        "href": "https://weed.de/strain/purple-rain-by-the-gram"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Purple Rain by the Gram",
+            "item": "https://weed.de/strain/purple-rain-by-the-gram"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Purple Rain by the Gram Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/weeco-241-duke",
+            "name": "Weeco Duke 24/1 PR"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/weeco-duke-21-pr",
+            "name": "Weeco Duke 20/1 PR"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/weeco-241-duke",
+        "text": "Weeco Duke 24/1 PR",
+        "title": "Weeco Duke 24/1 PR von Weeco"
+      },
+      {
+        "href": "/product/weeco-duke-21-pr",
+        "text": "Weeco Duke 20/1 PR",
+        "title": "Weeco Duke 20/1 PR von Weeco"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/creamy-kees-no.-5",
+        "text": "Creamy Kees No. 5",
+        "title": "Creamy Kees No. 5 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/platinum-grapes",
+        "text": "Platinum Grapes",
+        "title": "Platinum Grapes - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/helios-gold",
+        "text": "Helios Gold",
+        "title": "Helios Gold - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/dawg-bud-fusion",
+        "text": "Dawg Bud Fusion",
+        "title": "Dawg Bud Fusion - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/cement-shoes",
+        "text": "Cement Shoes",
+        "title": "Cement Shoes - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-myrcene",
+        "text": "Beta-Myrcene",
+        "title": "Beta-Myrcene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

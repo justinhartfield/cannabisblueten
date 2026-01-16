@@ -1,0 +1,222 @@
+{
+  "product": {
+    "slug": "imc-ppmk-thc23-token",
+    "name": "IMC PPMK THC23 Token",
+    "type": "flower",
+    "genetics": "hybrid",
+    "thcPercent": 23,
+    "cbdPercent": 1,
+    "priceMin": 330,
+    "priceMax": 850,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "imc",
+    "name": "IMC",
+    "productCount": 128
+  },
+  "strain": {
+    "slug": "mountain-kush",
+    "name": "Mountain Kush",
+    "geneticType": "hybrid",
+    "effects": [
+      "Sleepy",
+      "Relaxed"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Sleepy",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Diesel",
+      "Herbal",
+      "Mint"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "imc-ppmk-thc2",
+      "name": "IMC PPMK THC20",
+      "brandName": "IMC",
+      "thcPercent": 20,
+      "priceMin": 298,
+      "inStock": true
+    },
+    {
+      "slug": "imc-ppmk-thc25",
+      "name": "IMC PPMK THC25",
+      "brandName": "IMC",
+      "thcPercent": 25,
+      "priceMin": 339,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-thc-25-spotlight-porto-purps",
+      "name": "Tilray THC 25 Spotlight Porto Purps",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": 349,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc5cbd2",
+      "name": "Tilray Cannabisextrakt THC5:CBD20",
+      "brandName": "Tilray",
+      "thcPercent": 5,
+      "priceMin": 350,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc1cbd1",
+      "name": "Tilray Cannabisextrakt THC10:CBD10",
+      "brandName": "Tilray",
+      "thcPercent": 10,
+      "priceMin": 400,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-2",
+      "name": "Demecan Typ 2",
+      "brandName": "Demecan",
+      "thcPercent": 16,
+      "priceMin": 533,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "IMC PPMK THC23 Token | ab 3,30 €",
+      "description": "IMC PPMK THC23 Token von IMC. THC: 23%, CBD: 1%. Sorte: Mountain Kush. Preis ab 3,30 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/imc-ppmk-thc23-token",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "IMC PPMK THC23 Token | ab 3,30 €",
+        "description": "IMC PPMK THC23 Token von IMC. THC: 23%, CBD: 1%. Sorte: Mountain Kush. Preis ab 3,30 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/imc-ppmk-thc23-token",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "IMC",
+        "href": "https://weed.de/brand/imc"
+      },
+      {
+        "name": "IMC PPMK THC23 Token",
+        "href": "https://weed.de/product/imc-ppmk-thc23-token"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "IMC PPMK THC23 Token",
+            "item": "https://weed.de/product/imc-ppmk-thc23-token"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "IMC PPMK THC23 Token",
+        "brand": {
+          "@type": "Brand",
+          "name": "IMC"
+        },
+        "description": "THC: 23%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/mountain-kush",
+      "text": "Mountain Kush",
+      "title": "Mountain Kush Sorte"
+    },
+    "brand": {
+      "href": "/brand/imc",
+      "text": "IMC",
+      "title": "Alle IMC Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/imc-ppmk-thc2",
+        "text": "IMC PPMK THC20",
+        "title": "Alternative: IMC PPMK THC20"
+      },
+      {
+        "href": "/product/imc-ppmk-thc25",
+        "text": "IMC PPMK THC25",
+        "title": "Alternative: IMC PPMK THC25"
+      },
+      {
+        "href": "/product/tilray-thc-25-spotlight-porto-purps",
+        "text": "Tilray THC 25 Spotlight Porto Purps",
+        "title": "Alternative: Tilray THC 25 Spotlight Porto Purps"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc5cbd2",
+        "text": "Tilray Cannabisextrakt THC5:CBD20",
+        "title": "Alternative: Tilray Cannabisextrakt THC5:CBD20"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc1cbd1",
+        "text": "Tilray Cannabisextrakt THC10:CBD10",
+        "title": "Alternative: Tilray Cannabisextrakt THC10:CBD10"
+      },
+      {
+        "href": "/product/demecan-typ-2",
+        "text": "Demecan Typ 2",
+        "title": "Alternative: Demecan Typ 2"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

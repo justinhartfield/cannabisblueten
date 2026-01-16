@@ -1,0 +1,221 @@
+{
+  "product": {
+    "slug": "tyson-2-241-exodus",
+    "name": "TYSON 2.0 24/1 Exodus",
+    "type": "flower",
+    "genetics": "hybrid",
+    "thcPercent": 24.1,
+    "cbdPercent": 0.1,
+    "priceMin": 699,
+    "priceMax": 999,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Mazedonien",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "nimbus-health",
+    "name": "Nimbus Health",
+    "productCount": 78
+  },
+  "strain": {
+    "slug": "exodus",
+    "name": "Exodus",
+    "geneticType": "hybrid",
+    "effects": [
+      "Euphoric",
+      "Hungry"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Myrcene",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Euphoric",
+      "Hungry"
+    ],
+    "tastes": [
+      "Cheese",
+      "Herbal"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Myrcene",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "tilray-thc-25-spotlight-porto-purps",
+      "name": "Tilray THC 25 Spotlight Porto Purps",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": 349,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc5cbd2",
+      "name": "Tilray Cannabisextrakt THC5:CBD20",
+      "brandName": "Tilray",
+      "thcPercent": 5,
+      "priceMin": 350,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc1cbd1",
+      "name": "Tilray Cannabisextrakt THC10:CBD10",
+      "brandName": "Tilray",
+      "thcPercent": 10,
+      "priceMin": 400,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-2",
+      "name": "Demecan Typ 2",
+      "brandName": "Demecan",
+      "thcPercent": 16,
+      "priceMin": 533,
+      "inStock": true
+    },
+    {
+      "slug": "420-natural-201-ca-gg4",
+      "name": "420 Natural 20/1 CA GG4",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 20,
+      "priceMin": 589,
+      "inStock": true
+    },
+    {
+      "slug": "khiron-191-gelato",
+      "name": "Khiron 19/1 Gelato",
+      "brandName": "Khiron",
+      "thcPercent": 17.6,
+      "priceMin": 638,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "TYSON 2.0 24/1 Exodus - Nimbus Health | ab 6,99 €",
+      "description": "TYSON 2.0 24/1 Exodus von Nimbus Health. THC: 24.1%, CBD: 0.1%. Sorte: Exodus. Preis ab 6,99 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/tyson-2-241-exodus",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "TYSON 2.0 24/1 Exodus - Nimbus Health | ab 6,99 €",
+        "description": "TYSON 2.0 24/1 Exodus von Nimbus Health. THC: 24.1%, CBD: 0.1%. Sorte: Exodus. Preis ab 6,99 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/tyson-2-241-exodus",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Nimbus Health",
+        "href": "https://weed.de/brand/nimbus-health"
+      },
+      {
+        "name": "TYSON 2.0 24/1 Exodus",
+        "href": "https://weed.de/product/tyson-2-241-exodus"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "TYSON 2.0 24/1 Exodus",
+            "item": "https://weed.de/product/tyson-2-241-exodus"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "TYSON 2.0 24/1 Exodus",
+        "brand": {
+          "@type": "Brand",
+          "name": "Nimbus Health"
+        },
+        "description": "THC: 24.1%, CBD: 0.1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/exodus",
+      "text": "Exodus",
+      "title": "Exodus Sorte"
+    },
+    "brand": {
+      "href": "/brand/nimbus-health",
+      "text": "Nimbus Health",
+      "title": "Alle Nimbus Health Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/tilray-thc-25-spotlight-porto-purps",
+        "text": "Tilray THC 25 Spotlight Porto Purps",
+        "title": "Alternative: Tilray THC 25 Spotlight Porto Purps"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc5cbd2",
+        "text": "Tilray Cannabisextrakt THC5:CBD20",
+        "title": "Alternative: Tilray Cannabisextrakt THC5:CBD20"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc1cbd1",
+        "text": "Tilray Cannabisextrakt THC10:CBD10",
+        "title": "Alternative: Tilray Cannabisextrakt THC10:CBD10"
+      },
+      {
+        "href": "/product/demecan-typ-2",
+        "text": "Demecan Typ 2",
+        "title": "Alternative: Demecan Typ 2"
+      },
+      {
+        "href": "/product/420-natural-201-ca-gg4",
+        "text": "420 Natural 20/1 CA GG4",
+        "title": "Alternative: 420 Natural 20/1 CA GG4"
+      },
+      {
+        "href": "/product/khiron-191-gelato",
+        "text": "Khiron 19/1 Gelato",
+        "title": "Alternative: Khiron 19/1 Gelato"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

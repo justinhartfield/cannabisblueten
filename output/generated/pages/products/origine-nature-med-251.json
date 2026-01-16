@@ -1,0 +1,238 @@
+{
+  "product": {
+    "slug": "origine-nature-med-251",
+    "name": "Origine Nature MED 25/1",
+    "type": "flower",
+    "genetics": "hybrid",
+    "thcPercent": 25,
+    "cbdPercent": 1,
+    "priceMin": 479,
+    "priceMax": 725,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Portugal",
+    "imageUrl": "https://weed.de/products/origine-nature-med-251-9f1g2h.png"
+  },
+  "brand": {
+    "slug": "cantourage",
+    "name": "Cantourage",
+    "productCount": 248
+  },
+  "strain": {
+    "slug": "medellin",
+    "name": "Medellin",
+    "geneticType": "hybrid",
+    "effects": [
+      "Creative",
+      "Focused",
+      "Euphoric",
+      "Energetic",
+      "Tingly",
+      "Mood-lifting",
+      "Anxiety-reducing",
+      "Pain-relief"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Humulene",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Creative",
+      "Focused",
+      "Euphoric",
+      "Energetic",
+      "Tingly",
+      "Mood-lifting",
+      "Anxiety-reducing",
+      "Pain-relief"
+    ],
+    "tastes": [
+      "Diesel",
+      "Vanilla",
+      "Herbal",
+      "Ammonia",
+      "Earthy",
+      "Pepper"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Humulene",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "tilray-thc-25-spotlight-porto-purps",
+      "name": "Tilray THC 25 Spotlight Porto Purps",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": 349,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc1cbd1",
+      "name": "Tilray Cannabisextrakt THC10:CBD10",
+      "brandName": "Tilray",
+      "thcPercent": 10,
+      "priceMin": 400,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-2",
+      "name": "Demecan Typ 2",
+      "brandName": "Demecan",
+      "thcPercent": 16,
+      "priceMin": 533,
+      "inStock": true
+    },
+    {
+      "slug": "khiron-191-gelato",
+      "name": "Khiron 19/1 Gelato",
+      "brandName": "Khiron",
+      "thcPercent": 17.6,
+      "priceMin": 638,
+      "inStock": true
+    },
+    {
+      "slug": "origine-nature-med-301",
+      "name": "Origine Nature MED 30/1",
+      "brandName": "Cantourage",
+      "thcPercent": 30,
+      "priceMin": 718,
+      "inStock": true
+    },
+    {
+      "slug": "cookies-261-medellin",
+      "name": "Cookies 26/1 Medellin",
+      "brandName": "Cansativa",
+      "thcPercent": 26,
+      "priceMin": 829,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Origine Nature MED 25/1 - Cantourage | ab 4,79 €",
+      "description": "Origine Nature MED 25/1 von Cantourage. THC: 25%, CBD: 1%. Sorte: Medellin. Preis ab 4,79 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/origine-nature-med-251",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Origine Nature MED 25/1 - Cantourage | ab 4,79 €",
+        "description": "Origine Nature MED 25/1 von Cantourage. THC: 25%, CBD: 1%. Sorte: Medellin. Preis ab 4,79 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/origine-nature-med-251",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/origine-nature-med-251-9f1g2h.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Cantourage",
+        "href": "https://weed.de/brand/cantourage"
+      },
+      {
+        "name": "Origine Nature MED 25/1",
+        "href": "https://weed.de/product/origine-nature-med-251"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Origine Nature MED 25/1",
+            "item": "https://weed.de/product/origine-nature-med-251"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Origine Nature MED 25/1",
+        "brand": {
+          "@type": "Brand",
+          "name": "Cantourage"
+        },
+        "description": "THC: 25%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/medellin",
+      "text": "Medellin",
+      "title": "Medellin Sorte"
+    },
+    "brand": {
+      "href": "/brand/cantourage",
+      "text": "Cantourage",
+      "title": "Alle Cantourage Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/tilray-thc-25-spotlight-porto-purps",
+        "text": "Tilray THC 25 Spotlight Porto Purps",
+        "title": "Alternative: Tilray THC 25 Spotlight Porto Purps"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc1cbd1",
+        "text": "Tilray Cannabisextrakt THC10:CBD10",
+        "title": "Alternative: Tilray Cannabisextrakt THC10:CBD10"
+      },
+      {
+        "href": "/product/demecan-typ-2",
+        "text": "Demecan Typ 2",
+        "title": "Alternative: Demecan Typ 2"
+      },
+      {
+        "href": "/product/khiron-191-gelato",
+        "text": "Khiron 19/1 Gelato",
+        "title": "Alternative: Khiron 19/1 Gelato"
+      },
+      {
+        "href": "/product/origine-nature-med-301",
+        "text": "Origine Nature MED 30/1",
+        "title": "Alternative: Origine Nature MED 30/1"
+      },
+      {
+        "href": "/product/cookies-261-medellin",
+        "text": "Cookies 26/1 Medellin",
+        "title": "Alternative: Cookies 26/1 Medellin"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

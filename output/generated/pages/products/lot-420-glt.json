@@ -1,0 +1,238 @@
+{
+  "product": {
+    "slug": "lot-420-glt",
+    "name": "LOT 420 GLT",
+    "type": "flower",
+    "genetics": "hybrid",
+    "thcPercent": 25,
+    "cbdPercent": 1,
+    "priceMin": 845,
+    "priceMax": 1099,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": "https://weed.de/products/lot-420-glt-ee1a7b.png"
+  },
+  "brand": {
+    "slug": "cantourage",
+    "name": "Cantourage",
+    "productCount": 248
+  },
+  "strain": {
+    "slug": "gelato-33",
+    "name": "Gelato 33",
+    "geneticType": "hybrid",
+    "effects": [
+      "Uplifted",
+      "Happy",
+      "Relaxed",
+      "Euphoric",
+      "Dizzy",
+      "Headache"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Myrcene",
+      "Limonene",
+      "Phellandrene",
+      "Bisabolol"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Uplifted",
+      "Happy",
+      "Relaxed",
+      "Euphoric",
+      "Dizzy",
+      "Headache"
+    ],
+    "tastes": [
+      "Fruity",
+      "Sweet",
+      "Vanilla",
+      "Pepper",
+      "Diesel",
+      "Citrus"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Myrcene",
+      "Limonene",
+      "Phellandrene",
+      "Bisabolol"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "tilray-thc-25-spotlight-porto-purps",
+      "name": "Tilray THC 25 Spotlight Porto Purps",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": 349,
+      "inStock": true
+    },
+    {
+      "slug": "tweed-191",
+      "name": "Tweed 19/1",
+      "brandName": "Canopy Medical",
+      "thcPercent": 19,
+      "priceMin": 395,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc1cbd1",
+      "name": "Tilray Cannabisextrakt THC10:CBD10",
+      "brandName": "Tilray",
+      "thcPercent": 10,
+      "priceMin": 400,
+      "inStock": true
+    },
+    {
+      "slug": "tweed-171-gelato-33",
+      "name": "Tweed 17/1 Gelato 33",
+      "brandName": "Canopy Growth",
+      "thcPercent": 17,
+      "priceMin": 419,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-2",
+      "name": "Demecan Typ 2",
+      "brandName": "Demecan",
+      "thcPercent": 16,
+      "priceMin": 533,
+      "inStock": true
+    },
+    {
+      "slug": "khiron-191-gelato",
+      "name": "Khiron 19/1 Gelato",
+      "brandName": "Khiron",
+      "thcPercent": 17.6,
+      "priceMin": 638,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "LOT 420 GLT - Cantourage | ab 8,45 €",
+      "description": "LOT 420 GLT von Cantourage. THC: 25%, CBD: 1%. Sorte: Gelato 33. Preis ab 8,45 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/lot-420-glt",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "LOT 420 GLT - Cantourage | ab 8,45 €",
+        "description": "LOT 420 GLT von Cantourage. THC: 25%, CBD: 1%. Sorte: Gelato 33. Preis ab 8,45 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/lot-420-glt",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/lot-420-glt-ee1a7b.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Cantourage",
+        "href": "https://weed.de/brand/cantourage"
+      },
+      {
+        "name": "LOT 420 GLT",
+        "href": "https://weed.de/product/lot-420-glt"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "LOT 420 GLT",
+            "item": "https://weed.de/product/lot-420-glt"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "LOT 420 GLT",
+        "brand": {
+          "@type": "Brand",
+          "name": "Cantourage"
+        },
+        "description": "THC: 25%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/gelato-33",
+      "text": "Gelato 33",
+      "title": "Gelato 33 Sorte"
+    },
+    "brand": {
+      "href": "/brand/cantourage",
+      "text": "Cantourage",
+      "title": "Alle Cantourage Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/tilray-thc-25-spotlight-porto-purps",
+        "text": "Tilray THC 25 Spotlight Porto Purps",
+        "title": "Alternative: Tilray THC 25 Spotlight Porto Purps"
+      },
+      {
+        "href": "/product/tweed-191",
+        "text": "Tweed 19/1",
+        "title": "Alternative: Tweed 19/1"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc1cbd1",
+        "text": "Tilray Cannabisextrakt THC10:CBD10",
+        "title": "Alternative: Tilray Cannabisextrakt THC10:CBD10"
+      },
+      {
+        "href": "/product/tweed-171-gelato-33",
+        "text": "Tweed 17/1 Gelato 33",
+        "title": "Alternative: Tweed 17/1 Gelato 33"
+      },
+      {
+        "href": "/product/demecan-typ-2",
+        "text": "Demecan Typ 2",
+        "title": "Alternative: Demecan Typ 2"
+      },
+      {
+        "href": "/product/khiron-191-gelato",
+        "text": "Khiron 19/1 Gelato",
+        "title": "Alternative: Khiron 19/1 Gelato"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

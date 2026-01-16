@@ -1,0 +1,165 @@
+{
+  "city": {
+    "slug": "ahlen",
+    "name": "Ahlen",
+    "state": "Nordrhein-Westfalen"
+  },
+  "stats": {
+    "pharmacyCount": 1,
+    "totalProducts": 67,
+    "hasDelivery": true
+  },
+  "pharmacies": [
+    {
+      "slug": "bussmanns-barbara-apotheke",
+      "name": "Bussicann - die starken Apotheken",
+      "street": "Gebrüder-Kerkmann-Platz 4",
+      "zip": "59229",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 67,
+      "rating": 5,
+      "ratingCount": 12
+    }
+  ],
+  "nearbyCities": [
+    {
+      "slug": "duesseldorf",
+      "name": "Düsseldorf",
+      "pharmacyCount": 9
+    },
+    {
+      "slug": "koeln",
+      "name": "Köln",
+      "pharmacyCount": 7
+    },
+    {
+      "slug": "bonn",
+      "name": "Bonn",
+      "pharmacyCount": 6
+    },
+    {
+      "slug": "muenster",
+      "name": "Münster",
+      "pharmacyCount": 6
+    },
+    {
+      "slug": "dortmund",
+      "name": "Dortmund",
+      "pharmacyCount": 5
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannabis Apotheke Ahlen - 1 Apotheken",
+      "description": "Cannabis Apotheken in Ahlen. 1 Apotheken mit 67 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+      "canonical": "https://weed.de/cannabis-apotheke/ahlen",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannabis Apotheke Ahlen - 1 Apotheken",
+        "description": "Cannabis Apotheken in Ahlen. 1 Apotheken mit 67 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+        "url": "https://weed.de/cannabis-apotheke/ahlen",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Ahlen",
+        "href": "https://weed.de/cannabis-apotheke/ahlen"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Ahlen",
+            "item": "https://weed.de/cannabis-apotheke/ahlen"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Cannabis Apotheken in Ahlen",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/apotheke/bussmanns-barbara-apotheke",
+            "name": "Bussicann - die starken Apotheken"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "pharmacies": [
+      {
+        "href": "/apotheke/bussmanns-barbara-apotheke",
+        "text": "Bussicann - die starken Apotheken",
+        "title": "Bussicann - die starken Apotheken in Ahlen"
+      }
+    ],
+    "nearbyCities": [
+      {
+        "href": "/cannabis-apotheke/duesseldorf",
+        "text": "Cannabis Apotheke Düsseldorf",
+        "title": "9 Apotheken in Düsseldorf"
+      },
+      {
+        "href": "/cannabis-apotheke/koeln",
+        "text": "Cannabis Apotheke Köln",
+        "title": "7 Apotheken in Köln"
+      },
+      {
+        "href": "/cannabis-apotheke/bonn",
+        "text": "Cannabis Apotheke Bonn",
+        "title": "6 Apotheken in Bonn"
+      },
+      {
+        "href": "/cannabis-apotheke/muenster",
+        "text": "Cannabis Apotheke Münster",
+        "title": "6 Apotheken in Münster"
+      },
+      {
+        "href": "/cannabis-apotheke/dortmund",
+        "text": "Cannabis Apotheke Dortmund",
+        "title": "5 Apotheken in Dortmund"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Single pharmacy with good product coverage"
+  }
+}

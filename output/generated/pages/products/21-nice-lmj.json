@@ -1,0 +1,225 @@
+{
+  "product": {
+    "slug": "21-nice-lmj",
+    "name": "20/1 Nice LMJ",
+    "type": "flower",
+    "genetics": "hybrid",
+    "thcPercent": 20,
+    "cbdPercent": 1,
+    "priceMin": 385,
+    "priceMax": 650,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Portugal",
+    "imageUrl": "https://weed.de/products/21-nice-lmj-hh06jg.png"
+  },
+  "brand": {
+    "slug": "cansativa",
+    "name": "Cansativa",
+    "productCount": 141
+  },
+  "strain": {
+    "slug": "lemon-jane",
+    "name": "Lemon Jane",
+    "geneticType": "hybrid",
+    "effects": [
+      "Creative",
+      "Euphoric",
+      "Focused"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Creative",
+      "Euphoric",
+      "Focused"
+    ],
+    "tastes": [
+      "Earthy",
+      "Citrus",
+      "Sweet"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "tilray-thc-25-spotlight-porto-purps",
+      "name": "Tilray THC 25 Spotlight Porto Purps",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": 349,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc5cbd2",
+      "name": "Tilray Cannabisextrakt THC5:CBD20",
+      "brandName": "Tilray",
+      "thcPercent": 5,
+      "priceMin": 350,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc1cbd1",
+      "name": "Tilray Cannabisextrakt THC10:CBD10",
+      "brandName": "Tilray",
+      "thcPercent": 10,
+      "priceMin": 400,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-2",
+      "name": "Demecan Typ 2",
+      "brandName": "Demecan",
+      "thcPercent": 16,
+      "priceMin": 533,
+      "inStock": true
+    },
+    {
+      "slug": "420-natural-201-ca-gg4",
+      "name": "420 Natural 20/1 CA GG4",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 20,
+      "priceMin": 589,
+      "inStock": true
+    },
+    {
+      "slug": "khiron-191-gelato",
+      "name": "Khiron 19/1 Gelato",
+      "brandName": "Khiron",
+      "thcPercent": 17.6,
+      "priceMin": 638,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "20/1 Nice LMJ - Cansativa | ab 3,85 €",
+      "description": "20/1 Nice LMJ von Cansativa. THC: 20%, CBD: 1%. Sorte: Lemon Jane. Preis ab 3,85 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/21-nice-lmj",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "20/1 Nice LMJ - Cansativa | ab 3,85 €",
+        "description": "20/1 Nice LMJ von Cansativa. THC: 20%, CBD: 1%. Sorte: Lemon Jane. Preis ab 3,85 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/21-nice-lmj",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/21-nice-lmj-hh06jg.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Cansativa",
+        "href": "https://weed.de/brand/cansativa"
+      },
+      {
+        "name": "20/1 Nice LMJ",
+        "href": "https://weed.de/product/21-nice-lmj"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "20/1 Nice LMJ",
+            "item": "https://weed.de/product/21-nice-lmj"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "20/1 Nice LMJ",
+        "brand": {
+          "@type": "Brand",
+          "name": "Cansativa"
+        },
+        "description": "THC: 20%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/lemon-jane",
+      "text": "Lemon Jane",
+      "title": "Lemon Jane Sorte"
+    },
+    "brand": {
+      "href": "/brand/cansativa",
+      "text": "Cansativa",
+      "title": "Alle Cansativa Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/tilray-thc-25-spotlight-porto-purps",
+        "text": "Tilray THC 25 Spotlight Porto Purps",
+        "title": "Alternative: Tilray THC 25 Spotlight Porto Purps"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc5cbd2",
+        "text": "Tilray Cannabisextrakt THC5:CBD20",
+        "title": "Alternative: Tilray Cannabisextrakt THC5:CBD20"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc1cbd1",
+        "text": "Tilray Cannabisextrakt THC10:CBD10",
+        "title": "Alternative: Tilray Cannabisextrakt THC10:CBD10"
+      },
+      {
+        "href": "/product/demecan-typ-2",
+        "text": "Demecan Typ 2",
+        "title": "Alternative: Demecan Typ 2"
+      },
+      {
+        "href": "/product/420-natural-201-ca-gg4",
+        "text": "420 Natural 20/1 CA GG4",
+        "title": "Alternative: 420 Natural 20/1 CA GG4"
+      },
+      {
+        "href": "/product/khiron-191-gelato",
+        "text": "Khiron 19/1 Gelato",
+        "title": "Alternative: Khiron 19/1 Gelato"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

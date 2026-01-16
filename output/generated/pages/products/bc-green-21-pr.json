@@ -1,0 +1,234 @@
+{
+  "product": {
+    "slug": "bc-green-21-pr",
+    "name": "BC Green 20/1 PR",
+    "type": "flower",
+    "genetics": "hybrid",
+    "thcPercent": 20,
+    "cbdPercent": 1,
+    "priceMin": 489,
+    "priceMax": 489,
+    "inStock": false,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "bc-green",
+    "name": "BC Green",
+    "productCount": 16
+  },
+  "strain": {
+    "slug": "pink-runtz",
+    "name": "Pink Runtz",
+    "geneticType": "hybrid",
+    "effects": [
+      "Stress-relief",
+      "Relaxed",
+      "Talkative",
+      "Mood-lifting",
+      "Giggly",
+      "Aroused"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Caryophyllene",
+      "Linalool"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Stress-relief",
+      "Relaxed",
+      "Talkative",
+      "Mood-lifting",
+      "Giggly",
+      "Aroused"
+    ],
+    "tastes": [
+      "Fruity",
+      "Candy",
+      "Sweet",
+      "Rose",
+      "Flowery",
+      "Citrus",
+      "Tangy"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Caryophyllene",
+      "Linalool"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "tilray-thc-25-spotlight-porto-purps",
+      "name": "Tilray THC 25 Spotlight Porto Purps",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": 349,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc5cbd2",
+      "name": "Tilray Cannabisextrakt THC5:CBD20",
+      "brandName": "Tilray",
+      "thcPercent": 5,
+      "priceMin": 350,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc1cbd1",
+      "name": "Tilray Cannabisextrakt THC10:CBD10",
+      "brandName": "Tilray",
+      "thcPercent": 10,
+      "priceMin": 400,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-2",
+      "name": "Demecan Typ 2",
+      "brandName": "Demecan",
+      "thcPercent": 16,
+      "priceMin": 533,
+      "inStock": true
+    },
+    {
+      "slug": "420-natural-201-ca-gg4",
+      "name": "420 Natural 20/1 CA GG4",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 20,
+      "priceMin": 589,
+      "inStock": true
+    },
+    {
+      "slug": "khiron-191-gelato",
+      "name": "Khiron 19/1 Gelato",
+      "brandName": "Khiron",
+      "thcPercent": 17.6,
+      "priceMin": 638,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "BC Green 20/1 PR | ab 4,89 €",
+      "description": "BC Green 20/1 PR von BC Green. THC: 20%, CBD: 1%. Sorte: Pink Runtz. Preis ab 4,89 €. Preise vergleichen.",
+      "canonical": "https://weed.de/product/bc-green-21-pr",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "BC Green 20/1 PR | ab 4,89 €",
+        "description": "BC Green 20/1 PR von BC Green. THC: 20%, CBD: 1%. Sorte: Pink Runtz. Preis ab 4,89 €. Preise vergleichen.",
+        "url": "https://weed.de/product/bc-green-21-pr",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "BC Green",
+        "href": "https://weed.de/brand/bc-green"
+      },
+      {
+        "name": "BC Green 20/1 PR",
+        "href": "https://weed.de/product/bc-green-21-pr"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "BC Green 20/1 PR",
+            "item": "https://weed.de/product/bc-green-21-pr"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BC Green 20/1 PR",
+        "brand": {
+          "@type": "Brand",
+          "name": "BC Green"
+        },
+        "description": "THC: 20%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/pink-runtz",
+      "text": "Pink Runtz",
+      "title": "Pink Runtz Sorte"
+    },
+    "brand": {
+      "href": "/brand/bc-green",
+      "text": "BC Green",
+      "title": "Alle BC Green Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/tilray-thc-25-spotlight-porto-purps",
+        "text": "Tilray THC 25 Spotlight Porto Purps",
+        "title": "Alternative: Tilray THC 25 Spotlight Porto Purps"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc5cbd2",
+        "text": "Tilray Cannabisextrakt THC5:CBD20",
+        "title": "Alternative: Tilray Cannabisextrakt THC5:CBD20"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc1cbd1",
+        "text": "Tilray Cannabisextrakt THC10:CBD10",
+        "title": "Alternative: Tilray Cannabisextrakt THC10:CBD10"
+      },
+      {
+        "href": "/product/demecan-typ-2",
+        "text": "Demecan Typ 2",
+        "title": "Alternative: Demecan Typ 2"
+      },
+      {
+        "href": "/product/420-natural-201-ca-gg4",
+        "text": "420 Natural 20/1 CA GG4",
+        "title": "Alternative: 420 Natural 20/1 CA GG4"
+      },
+      {
+        "href": "/product/khiron-191-gelato",
+        "text": "Khiron 19/1 Gelato",
+        "title": "Alternative: Khiron 19/1 Gelato"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has price data"
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "pharmacy": {
+    "slug": "hasenleiser-apotheke",
+    "name": "Hasenleiser Apotheke",
+    "street": "Freiburger Straße 21-23",
+    "zip": "69126",
+    "cityName": "Heidelberg",
+    "state": "Baden-Württemberg",
+    "lat": 49.37343809999999,
+    "lng": 8.6802346,
+    "hasDelivery": false,
+    "hasPickup": true,
+    "hasPrices": false,
+    "website": "",
+    "phone": "06221303210",
+    "email": "info@hasenleiser-apotheke.com",
+    "productCount": 0,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": null
+  },
+  "city": {
+    "slug": "heidelberg",
+    "name": "Heidelberg",
+    "pharmacyCount": 2
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "stern-apotheke-heidelberg",
+      "name": "Stern Apotheke Heidelberg",
+      "cityName": "Heidelberg",
+      "productCount": 56,
+      "hasDelivery": false
+    },
+    {
+      "slug": "florians-vital-apotheke",
+      "name": "Florians Vital Apotheke",
+      "cityName": "Esslingen am Neckar",
+      "productCount": 248,
+      "hasDelivery": true
+    },
+    {
+      "slug": "central-apotheke",
+      "name": "Cannabis-Champion",
+      "cityName": "Waiblingen",
+      "productCount": 240,
+      "hasDelivery": true
+    },
+    {
+      "slug": "karlchengras",
+      "name": "Karlchengras (Karl-Apotheke)",
+      "cityName": "Karlsruhe",
+      "productCount": 188,
+      "hasDelivery": true
+    },
+    {
+      "slug": "idris-apotheke-oder-3leafs",
+      "name": "Idris Apotheke | 3Leafs",
+      "cityName": "Weinheim",
+      "productCount": 149,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Hasenleiser Apotheke - Cannabis Apotheke in Heidelberg",
+      "description": "Hasenleiser Apotheke in Heidelberg. Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/hasenleiser-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Hasenleiser Apotheke - Cannabis Apotheke in Heidelberg",
+        "description": "Hasenleiser Apotheke in Heidelberg. Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/hasenleiser-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Heidelberg",
+        "href": "https://weed.de/cannabis-apotheke/heidelberg"
+      },
+      {
+        "name": "Hasenleiser Apotheke",
+        "href": "https://weed.de/apotheke/hasenleiser-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Heidelberg",
+            "item": "https://weed.de/cannabis-apotheke/heidelberg"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Hasenleiser Apotheke",
+            "item": "https://weed.de/apotheke/hasenleiser-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Hasenleiser Apotheke",
+        "url": "https://weed.de/apotheke/hasenleiser-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Freiburger Straße 21-23",
+          "addressLocality": "Heidelberg",
+          "postalCode": "69126",
+          "addressRegion": "Baden-Württemberg",
+          "addressCountry": "DE"
+        },
+        "telephone": "06221303210",
+        "email": "info@hasenleiser-apotheke.com"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/heidelberg",
+      "text": "Cannabis Apotheken in Heidelberg",
+      "title": "Alle Apotheken in Heidelberg"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/stern-apotheke-heidelberg",
+        "text": "Stern Apotheke Heidelberg",
+        "title": "Stern Apotheke Heidelberg in Heidelberg"
+      },
+      {
+        "href": "/apotheke/florians-vital-apotheke",
+        "text": "Florians Vital Apotheke",
+        "title": "Florians Vital Apotheke in Esslingen am Neckar"
+      },
+      {
+        "href": "/apotheke/central-apotheke",
+        "text": "Cannabis-Champion",
+        "title": "Cannabis-Champion in Waiblingen"
+      },
+      {
+        "href": "/apotheke/karlchengras",
+        "text": "Karlchengras (Karl-Apotheke)",
+        "title": "Karlchengras (Karl-Apotheke) in Karlsruhe"
+      },
+      {
+        "href": "/apotheke/idris-apotheke-oder-3leafs",
+        "text": "Idris Apotheke | 3Leafs",
+        "title": "Idris Apotheke | 3Leafs in Weinheim"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has services"
+  }
+}

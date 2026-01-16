@@ -1,0 +1,223 @@
+{
+  "product": {
+    "slug": "luana-241-pine",
+    "name": "Luana 24/1 Pine",
+    "type": "flower",
+    "genetics": "indica",
+    "thcPercent": 24,
+    "cbdPercent": 1,
+    "priceMin": 418,
+    "priceMax": 595,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": "https://weed.de/products/luana-241-pine-fedd6i.png"
+  },
+  "brand": {
+    "slug": "cannamedical",
+    "name": "Cannamedical",
+    "productCount": 238
+  },
+  "strain": {
+    "slug": "solpina-magic",
+    "name": "Solpina Magic",
+    "geneticType": "indica",
+    "effects": [
+      "Euphoric",
+      "Hungry"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Euphoric",
+      "Hungry"
+    ],
+    "tastes": [
+      "Woody",
+      "Citrus",
+      "Fruity"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "aurora-thc-25-cannabis-extract",
+      "name": "Aurora THC 25 Cannabis Extract",
+      "brandName": "Cansativa",
+      "thcPercent": 2.5,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "canify-cannabis-flos-231-csf-ku-sm",
+      "name": "Canify Cannabis flos 23/1 CSF Ku. SM",
+      "brandName": "Canify",
+      "thcPercent": 23,
+      "priceMin": 432,
+      "inStock": true
+    },
+    {
+      "slug": "luana-281-pine",
+      "name": "Luana 28/1 Pine",
+      "brandName": "Cannamedical",
+      "thcPercent": 28,
+      "priceMin": 449,
+      "inStock": true
+    },
+    {
+      "slug": "adven-cannabisextrakt-thc-20",
+      "name": "Adven Cannabisextrakt THC 20",
+      "brandName": "Adven",
+      "thcPercent": 2,
+      "priceMin": 476,
+      "inStock": true
+    },
+    {
+      "slug": "adven-cannabisextrakt-thc-10-cbd-10",
+      "name": "Adven Cannabisextrakt THC 10 CBD 10",
+      "brandName": "Adven",
+      "thcPercent": 10,
+      "priceMin": 560,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-1",
+      "name": "Demecan Typ 1",
+      "brandName": "Demecan",
+      "thcPercent": 21,
+      "priceMin": 694,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Luana 24/1 Pine - Cannamedical | ab 4,18 €",
+      "description": "Luana 24/1 Pine von Cannamedical. THC: 24%, CBD: 1%. Sorte: Solpina Magic. Preis ab 4,18 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/luana-241-pine",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Luana 24/1 Pine - Cannamedical | ab 4,18 €",
+        "description": "Luana 24/1 Pine von Cannamedical. THC: 24%, CBD: 1%. Sorte: Solpina Magic. Preis ab 4,18 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/luana-241-pine",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/luana-241-pine-fedd6i.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Cannamedical",
+        "href": "https://weed.de/brand/cannamedical"
+      },
+      {
+        "name": "Luana 24/1 Pine",
+        "href": "https://weed.de/product/luana-241-pine"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Luana 24/1 Pine",
+            "item": "https://weed.de/product/luana-241-pine"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Luana 24/1 Pine",
+        "brand": {
+          "@type": "Brand",
+          "name": "Cannamedical"
+        },
+        "description": "THC: 24%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/solpina-magic",
+      "text": "Solpina Magic",
+      "title": "Solpina Magic Sorte"
+    },
+    "brand": {
+      "href": "/brand/cannamedical",
+      "text": "Cannamedical",
+      "title": "Alle Cannamedical Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/aurora-thc-25-cannabis-extract",
+        "text": "Aurora THC 25 Cannabis Extract",
+        "title": "Alternative: Aurora THC 25 Cannabis Extract"
+      },
+      {
+        "href": "/product/canify-cannabis-flos-231-csf-ku-sm",
+        "text": "Canify Cannabis flos 23/1 CSF Ku. SM",
+        "title": "Alternative: Canify Cannabis flos 23/1 CSF Ku. SM"
+      },
+      {
+        "href": "/product/luana-281-pine",
+        "text": "Luana 28/1 Pine",
+        "title": "Alternative: Luana 28/1 Pine"
+      },
+      {
+        "href": "/product/adven-cannabisextrakt-thc-20",
+        "text": "Adven Cannabisextrakt THC 20",
+        "title": "Alternative: Adven Cannabisextrakt THC 20"
+      },
+      {
+        "href": "/product/adven-cannabisextrakt-thc-10-cbd-10",
+        "text": "Adven Cannabisextrakt THC 10 CBD 10",
+        "title": "Alternative: Adven Cannabisextrakt THC 10 CBD 10"
+      },
+      {
+        "href": "/product/demecan-typ-1",
+        "text": "Demecan Typ 1",
+        "title": "Alternative: Demecan Typ 1"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

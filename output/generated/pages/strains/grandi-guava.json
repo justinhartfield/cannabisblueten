@@ -1,0 +1,230 @@
+{
+  "strain": {
+    "slug": "grandi-guava",
+    "name": "Grandi Guava",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Focused",
+      "Euphoric",
+      "Happy",
+      "Chatty",
+      "Relaxed",
+      "Mood-lifting",
+      "Anxiety-reducing",
+      "Headache",
+      "Hungry",
+      "Calming"
+    ],
+    "tastes": [
+      "Cheese",
+      "Herbal",
+      "Earthy",
+      "Fruity",
+      "Tropical",
+      "Sweet",
+      "Creamy",
+      "Ammonia",
+      "Pepper",
+      "Chemical"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Limonene",
+      "Selinadien"
+    ],
+    "description": "Grandi Guava ist eine moderne Sativa-dominante Hybridsorte, die von Grandiflora Genetics entwickelt wurde. Sie entstand aus der Kreuzung der fruchtigen Guava und der beliebten Gelato. Mit einem THC-Gehalt von ca. 19 % bis 22 % und einem CBD-Wert von etwa 1 % bietet sie ein vielseitiges Erlebnis, das energetische und entspannende Elemente vereint.\n\nDas Aromaprofil ist für seine kontrastreiche Komplexität bekannt. Es dominieren exotische, tropische Fruchtnoten von Guave, die auf eine cremige Süße treffen. Dieser fruchtige Charakter wird jedoch durch herzhafte, fast käsige Akzente und Nuancen von Ammoniak oder Chemie gebrochen, was für eine spezielle Tiefe sorgt. Eine feine Pfeffernote und erdige Töne runden das Bild ab. Das Terpenprofil, das neben Limonen und Caryophyllen auch das seltenere Selinadien enthält, ist verantwortlich für diesen Mix aus Zitrusfrische, würziger Schärfe und exotischer Frucht.\n\nDie Wirkung wird oft als überwiegend energetisch und fokussiert beschrieben. Sie beginnt meist mit einer euphorischen Stimmung, die Gesprächigkeit und Kreativität anregen kann. Trotz der geistigen Aktivität stellt sich eine begleitende körperliche Entspannung ein, die Stress abbaut, ohne sofort müde zu machen. Aufgrund dieses Profils wird Grandi Guava therapeutisch häufig bei ADHS, Depressionen, Angstzuständen, Kopfschmerzen und Appetitlosigkeit eingesetzt.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 379,
+      "max": 650,
+      "formatted": {
+        "min": "3,79 €",
+        "max": "6,50 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "nice-221-gua",
+      "name": "NICE 22/1 GUA",
+      "brandName": "Cansativa",
+      "thcPercent": 22,
+      "priceMin": 379,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "mantis",
+      "name": "Mantis",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "mochellow",
+      "name": "Mochellow",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "starhaze-og",
+      "name": "StarHaze OG",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "black-kush",
+      "name": "Black Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "fiestaz",
+      "name": "Fiestaz",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Grandi Guava (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Grandi Guava: Focused, Euphoric, Happy. 1 Produkte verfügbar. ab 3,79 €.",
+      "canonical": "https://weed.de/strain/grandi-guava",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Grandi Guava (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Grandi Guava: Focused, Euphoric, Happy. 1 Produkte verfügbar. ab 3,79 €.",
+        "url": "https://weed.de/strain/grandi-guava",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Grandi Guava",
+        "href": "https://weed.de/strain/grandi-guava"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Grandi Guava",
+            "item": "https://weed.de/strain/grandi-guava"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Grandi Guava Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/nice-221-gua",
+            "name": "NICE 22/1 GUA"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/nice-221-gua",
+        "text": "NICE 22/1 GUA",
+        "title": "NICE 22/1 GUA von Cansativa"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/mantis",
+        "text": "Mantis",
+        "title": "Mantis - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/mochellow",
+        "text": "Mochellow",
+        "title": "Mochellow - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/starhaze-og",
+        "text": "StarHaze OG",
+        "title": "StarHaze OG - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/black-kush",
+        "text": "Black Kush",
+        "title": "Black Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/fiestaz",
+        "text": "Fiestaz",
+        "title": "Fiestaz - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/selinadien",
+        "text": "Selinadien",
+        "title": "Selinadien Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

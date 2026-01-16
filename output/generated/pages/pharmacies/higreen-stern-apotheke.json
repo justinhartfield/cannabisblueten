@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "higreen-stern-apotheke",
+    "name": "Stern Apotheke - higreen!",
+    "street": "Heimbrügge 3",
+    "zip": "44359",
+    "cityName": "Dortmund",
+    "state": "Nordrhein-Westfalen",
+    "lat": 51.5699937,
+    "lng": 7.381808599999999,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": null,
+    "phone": "021154247777",
+    "email": "sternapotheke_do@higreen.de",
+    "productCount": 38,
+    "rating": 3,
+    "ratingCount": 2,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/6759aa8b76ce36f4a6c2d89f-fg0ffb.jpg"
+  },
+  "city": {
+    "slug": "dortmund",
+    "name": "Dortmund",
+    "pharmacyCount": 5
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "linden-apotheke",
+      "name": "KrautKurier (Linden Apotheke)",
+      "cityName": "Dortmund",
+      "productCount": 56,
+      "hasDelivery": true
+    },
+    {
+      "slug": "koernebach-apotheke",
+      "name": "Körnebach Apotheke",
+      "cityName": "Dortmund",
+      "productCount": 13,
+      "hasDelivery": false
+    },
+    {
+      "slug": "baeren-apotheke-2",
+      "name": "Bären Apotheke",
+      "cityName": "Dortmund",
+      "productCount": 10,
+      "hasDelivery": false
+    },
+    {
+      "slug": "higreen-apotheke-am-phoenixsee",
+      "name": "higreen! - Apotheke am Phoenixsee",
+      "cityName": "Dortmund",
+      "productCount": 1,
+      "hasDelivery": false
+    },
+    {
+      "slug": "higreen-apotheke",
+      "name": "higreen! Online Marktplatz für Cannabis Apotheken",
+      "cityName": "Krefeld",
+      "productCount": 256,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Stern Apotheke - higreen! - Cannabis Apotheke in Dortmund",
+      "description": "Stern Apotheke - higreen! in Dortmund. 38 Cannabis Produkte. Lieferung & Abholung. Bewertung: 3.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/higreen-stern-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Stern Apotheke - higreen! - Cannabis Apotheke in Dortmund",
+        "description": "Stern Apotheke - higreen! in Dortmund. 38 Cannabis Produkte. Lieferung & Abholung. Bewertung: 3.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/higreen-stern-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/6759aa8b76ce36f4a6c2d89f-fg0ffb.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Dortmund",
+        "href": "https://weed.de/cannabis-apotheke/dortmund"
+      },
+      {
+        "name": "Stern Apotheke - higreen!",
+        "href": "https://weed.de/apotheke/higreen-stern-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Dortmund",
+            "item": "https://weed.de/cannabis-apotheke/dortmund"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Stern Apotheke - higreen!",
+            "item": "https://weed.de/apotheke/higreen-stern-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Stern Apotheke - higreen!",
+        "url": "https://weed.de/apotheke/higreen-stern-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Heimbrügge 3",
+          "addressLocality": "Dortmund",
+          "postalCode": "44359",
+          "addressRegion": "Nordrhein-Westfalen",
+          "addressCountry": "DE"
+        },
+        "telephone": "021154247777",
+        "email": "sternapotheke_do@higreen.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/dortmund",
+      "text": "Cannabis Apotheken in Dortmund",
+      "title": "Alle Apotheken in Dortmund"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/linden-apotheke",
+        "text": "KrautKurier (Linden Apotheke)",
+        "title": "KrautKurier (Linden Apotheke) in Dortmund"
+      },
+      {
+        "href": "/apotheke/koernebach-apotheke",
+        "text": "Körnebach Apotheke",
+        "title": "Körnebach Apotheke in Dortmund"
+      },
+      {
+        "href": "/apotheke/baeren-apotheke-2",
+        "text": "Bären Apotheke",
+        "title": "Bären Apotheke in Dortmund"
+      },
+      {
+        "href": "/apotheke/higreen-apotheke-am-phoenixsee",
+        "text": "higreen! - Apotheke am Phoenixsee",
+        "title": "higreen! - Apotheke am Phoenixsee in Dortmund"
+      },
+      {
+        "href": "/apotheke/higreen-apotheke",
+        "text": "higreen! Online Marktplatz für Cannabis Apotheken",
+        "title": "higreen! Online Marktplatz für Cannabis Apotheken in Krefeld"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

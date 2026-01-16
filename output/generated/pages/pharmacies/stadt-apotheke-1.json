@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "stadt-apotheke-1",
+    "name": "Stadt-Apotheke Neubulach",
+    "street": "Calwer Straße 22",
+    "zip": "75387",
+    "cityName": "Neubulach",
+    "state": "Baden-Württemberg",
+    "lat": 48.6629009,
+    "lng": 8.6922304,
+    "hasDelivery": false,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "www.stadt-apotheke-neubulach.de",
+    "phone": "070536000",
+    "email": "info@apotheke-neubulach.de",
+    "productCount": 2,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/68c7e565038da28bd1f8acd5-ebf0e7.jpg"
+  },
+  "city": {
+    "slug": "neubulach",
+    "name": "Neubulach",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "florians-vital-apotheke",
+      "name": "Florians Vital Apotheke",
+      "cityName": "Esslingen am Neckar",
+      "productCount": 248,
+      "hasDelivery": true
+    },
+    {
+      "slug": "central-apotheke",
+      "name": "Cannabis-Champion",
+      "cityName": "Waiblingen",
+      "productCount": 240,
+      "hasDelivery": true
+    },
+    {
+      "slug": "karlchengras",
+      "name": "Karlchengras (Karl-Apotheke)",
+      "cityName": "Karlsruhe",
+      "productCount": 188,
+      "hasDelivery": true
+    },
+    {
+      "slug": "idris-apotheke-oder-3leafs",
+      "name": "Idris Apotheke | 3Leafs",
+      "cityName": "Weinheim",
+      "productCount": 149,
+      "hasDelivery": true
+    },
+    {
+      "slug": "schwarzwald-vital-apotheke",
+      "name": "Schwarzwald Vital Apotheke",
+      "cityName": "Gaggenau",
+      "productCount": 133,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Stadt-Apotheke Neubulach - Cannabis Apotheke in Neubulach",
+      "description": "Stadt-Apotheke Neubulach in Neubulach. 2 Cannabis Produkte. Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/stadt-apotheke-1",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Stadt-Apotheke Neubulach - Cannabis Apotheke in Neubulach",
+        "description": "Stadt-Apotheke Neubulach in Neubulach. 2 Cannabis Produkte. Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/stadt-apotheke-1",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/68c7e565038da28bd1f8acd5-ebf0e7.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Neubulach",
+        "href": "https://weed.de/cannabis-apotheke/neubulach"
+      },
+      {
+        "name": "Stadt-Apotheke Neubulach",
+        "href": "https://weed.de/apotheke/stadt-apotheke-1"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Neubulach",
+            "item": "https://weed.de/cannabis-apotheke/neubulach"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Stadt-Apotheke Neubulach",
+            "item": "https://weed.de/apotheke/stadt-apotheke-1"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Stadt-Apotheke Neubulach",
+        "url": "https://weed.de/apotheke/stadt-apotheke-1",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Calwer Straße 22",
+          "addressLocality": "Neubulach",
+          "postalCode": "75387",
+          "addressRegion": "Baden-Württemberg",
+          "addressCountry": "DE"
+        },
+        "telephone": "070536000",
+        "email": "info@apotheke-neubulach.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/neubulach",
+      "text": "Cannabis Apotheken in Neubulach",
+      "title": "Alle Apotheken in Neubulach"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/florians-vital-apotheke",
+        "text": "Florians Vital Apotheke",
+        "title": "Florians Vital Apotheke in Esslingen am Neckar"
+      },
+      {
+        "href": "/apotheke/central-apotheke",
+        "text": "Cannabis-Champion",
+        "title": "Cannabis-Champion in Waiblingen"
+      },
+      {
+        "href": "/apotheke/karlchengras",
+        "text": "Karlchengras (Karl-Apotheke)",
+        "title": "Karlchengras (Karl-Apotheke) in Karlsruhe"
+      },
+      {
+        "href": "/apotheke/idris-apotheke-oder-3leafs",
+        "text": "Idris Apotheke | 3Leafs",
+        "title": "Idris Apotheke | 3Leafs in Weinheim"
+      },
+      {
+        "href": "/apotheke/schwarzwald-vital-apotheke",
+        "text": "Schwarzwald Vital Apotheke",
+        "title": "Schwarzwald Vital Apotheke in Gaggenau"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

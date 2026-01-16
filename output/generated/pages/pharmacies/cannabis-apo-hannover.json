@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "cannabis-apo-hannover",
+    "name": "Cannabis-Apo-Hannover",
+    "street": "Hauptstraße 10",
+    "zip": "30855",
+    "cityName": "Langenhagen",
+    "state": "Niedersachsen",
+    "lat": 52.43772449999999,
+    "lng": 9.706065599999999,
+    "hasDelivery": false,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "www.cannabis-apo-hannover.de",
+    "phone": "05114595456",
+    "email": "info@cannabis-apo-hannover.de",
+    "productCount": 22,
+    "rating": 4.8,
+    "ratingCount": 8,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/68876848f1eff6c2cad8cd48-beda94.jpg"
+  },
+  "city": {
+    "slug": "langenhagen",
+    "name": "Langenhagen",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "alle-farben-apotheke",
+      "name": "Alle Farben Apotheke",
+      "cityName": "Melle",
+      "productCount": 132,
+      "hasDelivery": true
+    },
+    {
+      "slug": "happy-cannamed",
+      "name": "Marien Apotheke",
+      "cityName": "Cloppenburg",
+      "productCount": 61,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannanord",
+      "name": "CannaNord",
+      "cityName": "Oldenburg",
+      "productCount": 55,
+      "hasDelivery": true
+    },
+    {
+      "slug": "easycannabis-easyapotheke-citylebenstedt",
+      "name": "EasyCannabis easyApotheke CityLebenstedt",
+      "cityName": "Salzgitter",
+      "productCount": 40,
+      "hasDelivery": true
+    },
+    {
+      "slug": "sophie-green",
+      "name": "Sophie Green",
+      "cityName": "Meppen",
+      "productCount": 31,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannabis-Apo-Hannover - Cannabis Apotheke in Langenhagen",
+      "description": "Cannabis-Apo-Hannover in Langenhagen. 22 Cannabis Produkte. Abholung. Bewertung: 4.8/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/cannabis-apo-hannover",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannabis-Apo-Hannover - Cannabis Apotheke in Langenhagen",
+        "description": "Cannabis-Apo-Hannover in Langenhagen. 22 Cannabis Produkte. Abholung. Bewertung: 4.8/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/cannabis-apo-hannover",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/68876848f1eff6c2cad8cd48-beda94.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Langenhagen",
+        "href": "https://weed.de/cannabis-apotheke/langenhagen"
+      },
+      {
+        "name": "Cannabis-Apo-Hannover",
+        "href": "https://weed.de/apotheke/cannabis-apo-hannover"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Langenhagen",
+            "item": "https://weed.de/cannabis-apotheke/langenhagen"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Cannabis-Apo-Hannover",
+            "item": "https://weed.de/apotheke/cannabis-apo-hannover"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Cannabis-Apo-Hannover",
+        "url": "https://weed.de/apotheke/cannabis-apo-hannover",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Hauptstraße 10",
+          "addressLocality": "Langenhagen",
+          "postalCode": "30855",
+          "addressRegion": "Niedersachsen",
+          "addressCountry": "DE"
+        },
+        "telephone": "05114595456",
+        "email": "info@cannabis-apo-hannover.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/langenhagen",
+      "text": "Cannabis Apotheken in Langenhagen",
+      "title": "Alle Apotheken in Langenhagen"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/alle-farben-apotheke",
+        "text": "Alle Farben Apotheke",
+        "title": "Alle Farben Apotheke in Melle"
+      },
+      {
+        "href": "/apotheke/happy-cannamed",
+        "text": "Marien Apotheke",
+        "title": "Marien Apotheke in Cloppenburg"
+      },
+      {
+        "href": "/apotheke/cannanord",
+        "text": "CannaNord",
+        "title": "CannaNord in Oldenburg"
+      },
+      {
+        "href": "/apotheke/easycannabis-easyapotheke-citylebenstedt",
+        "text": "EasyCannabis easyApotheke CityLebenstedt",
+        "title": "EasyCannabis easyApotheke CityLebenstedt in Salzgitter"
+      },
+      {
+        "href": "/apotheke/sophie-green",
+        "text": "Sophie Green",
+        "title": "Sophie Green in Meppen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

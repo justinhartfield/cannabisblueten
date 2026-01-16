@@ -1,0 +1,206 @@
+{
+  "strain": {
+    "slug": "zandas-dream",
+    "name": "Zanda´s Dream",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [],
+    "tastes": [
+      "Earthy",
+      "Fruity",
+      "Spicy"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 495,
+      "max": 495,
+      "formatted": {
+        "min": "4,95 €",
+        "max": "4,95 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "remexian-271-ota-zad",
+      "name": "Remexian 27/1 OTA ZAD",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 27,
+      "priceMin": 495,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "bubba-kush",
+      "name": "Bubba Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "red-dragon-og",
+      "name": "Red Dragon OG",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "kush-kush",
+      "name": "Kush Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "royal-gorilla",
+      "name": "Royal Gorilla",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "frosted-lemon-cake",
+      "name": "Frosted Lemon Cake",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Zanda´s Dream (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Zanda´s Dream Cannabis Sorte. 1 Produkte verfügbar. ab 4,95 €.",
+      "canonical": "https://weed.de/strain/zandas-dream",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Zanda´s Dream (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Zanda´s Dream Cannabis Sorte. 1 Produkte verfügbar. ab 4,95 €.",
+        "url": "https://weed.de/strain/zandas-dream",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Zanda´s Dream",
+        "href": "https://weed.de/strain/zandas-dream"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Zanda´s Dream",
+            "item": "https://weed.de/strain/zandas-dream"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Zanda´s Dream Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/remexian-271-ota-zad",
+            "name": "Remexian 27/1 OTA ZAD"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/remexian-271-ota-zad",
+        "text": "Remexian 27/1 OTA ZAD",
+        "title": "Remexian 27/1 OTA ZAD von Remexian Pharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/bubba-kush",
+        "text": "Bubba Kush",
+        "title": "Bubba Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/red-dragon-og",
+        "text": "Red Dragon OG",
+        "title": "Red Dragon OG - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/kush-kush",
+        "text": "Kush Kush",
+        "title": "Kush Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/royal-gorilla",
+        "text": "Royal Gorilla",
+        "title": "Royal Gorilla - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/frosted-lemon-cake",
+        "text": "Frosted Lemon Cake",
+        "title": "Frosted Lemon Cake - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

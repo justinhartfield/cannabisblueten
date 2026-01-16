@@ -1,0 +1,231 @@
+{
+  "city": {
+    "slug": "bochum",
+    "name": "Bochum",
+    "state": "Nordrhein-Westfalen"
+  },
+  "stats": {
+    "pharmacyCount": 4,
+    "totalProducts": 146,
+    "hasDelivery": true
+  },
+  "pharmacies": [
+    {
+      "slug": "1a-apoweed",
+      "name": "1A Apoweed",
+      "street": "Herner Straße 349",
+      "zip": "44807",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 64,
+      "rating": 5,
+      "ratingCount": 1
+    },
+    {
+      "slug": "bluetenpottde",
+      "name": "bluetenpott.de",
+      "street": "Weststraße 1",
+      "zip": "44866",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 61,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "apoherbs",
+      "name": "Apoherbs c/o Spitzweg-Apotheke im Martin-Luther-Ärztehaus",
+      "street": "Voedestraße 69-71",
+      "zip": "44866",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 21,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "hoekes-apotheke-stiepel",
+      "name": "Ruhrblüte",
+      "street": "Kemnader Straße 316",
+      "zip": "44797",
+      "hasDelivery": false,
+      "hasPickup": true,
+      "productCount": 0,
+      "rating": 0,
+      "ratingCount": 0
+    }
+  ],
+  "nearbyCities": [
+    {
+      "slug": "duesseldorf",
+      "name": "Düsseldorf",
+      "pharmacyCount": 9
+    },
+    {
+      "slug": "koeln",
+      "name": "Köln",
+      "pharmacyCount": 7
+    },
+    {
+      "slug": "bonn",
+      "name": "Bonn",
+      "pharmacyCount": 6
+    },
+    {
+      "slug": "muenster",
+      "name": "Münster",
+      "pharmacyCount": 6
+    },
+    {
+      "slug": "dortmund",
+      "name": "Dortmund",
+      "pharmacyCount": 5
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannabis Apotheke Bochum - 4 Apotheken",
+      "description": "Cannabis Apotheken in Bochum. 4 Apotheken mit 146 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+      "canonical": "https://weed.de/cannabis-apotheke/bochum",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannabis Apotheke Bochum - 4 Apotheken",
+        "description": "Cannabis Apotheken in Bochum. 4 Apotheken mit 146 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+        "url": "https://weed.de/cannabis-apotheke/bochum",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Bochum",
+        "href": "https://weed.de/cannabis-apotheke/bochum"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Bochum",
+            "item": "https://weed.de/cannabis-apotheke/bochum"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Cannabis Apotheken in Bochum",
+        "numberOfItems": 4,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/apotheke/1a-apoweed",
+            "name": "1A Apoweed"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/apotheke/bluetenpottde",
+            "name": "bluetenpott.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/apotheke/apoherbs",
+            "name": "Apoherbs c/o Spitzweg-Apotheke im Martin-Luther-Ärztehaus"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/apotheke/hoekes-apotheke-stiepel",
+            "name": "Ruhrblüte"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "pharmacies": [
+      {
+        "href": "/apotheke/1a-apoweed",
+        "text": "1A Apoweed",
+        "title": "1A Apoweed in Bochum"
+      },
+      {
+        "href": "/apotheke/bluetenpottde",
+        "text": "bluetenpott.de",
+        "title": "bluetenpott.de in Bochum"
+      },
+      {
+        "href": "/apotheke/apoherbs",
+        "text": "Apoherbs c/o Spitzweg-Apotheke im Martin-Luther-Ärztehaus",
+        "title": "Apoherbs c/o Spitzweg-Apotheke im Martin-Luther-Ärztehaus in Bochum"
+      },
+      {
+        "href": "/apotheke/hoekes-apotheke-stiepel",
+        "text": "Ruhrblüte",
+        "title": "Ruhrblüte in Bochum"
+      }
+    ],
+    "nearbyCities": [
+      {
+        "href": "/cannabis-apotheke/duesseldorf",
+        "text": "Cannabis Apotheke Düsseldorf",
+        "title": "9 Apotheken in Düsseldorf"
+      },
+      {
+        "href": "/cannabis-apotheke/koeln",
+        "text": "Cannabis Apotheke Köln",
+        "title": "7 Apotheken in Köln"
+      },
+      {
+        "href": "/cannabis-apotheke/bonn",
+        "text": "Cannabis Apotheke Bonn",
+        "title": "6 Apotheken in Bonn"
+      },
+      {
+        "href": "/cannabis-apotheke/muenster",
+        "text": "Cannabis Apotheke Münster",
+        "title": "6 Apotheken in Münster"
+      },
+      {
+        "href": "/cannabis-apotheke/dortmund",
+        "text": "Cannabis Apotheke Dortmund",
+        "title": "5 Apotheken in Dortmund"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has 4 pharmacies"
+  }
+}

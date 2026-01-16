@@ -1,0 +1,224 @@
+{
+  "product": {
+    "slug": "bedrocan",
+    "name": "Bedrocan Cannabis Flos 22/1 Afina",
+    "type": "flower",
+    "genetics": "hybrid_sativa",
+    "thcPercent": 22,
+    "cbdPercent": 1,
+    "priceMin": 429,
+    "priceMax": 1811,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Niederlande",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "bedrocan",
+    "name": "Bedrocan",
+    "productCount": 15
+  },
+  "strain": {
+    "slug": "afina",
+    "name": "Afina",
+    "geneticType": "sativa",
+    "effects": [
+      "Focused",
+      "Relaxed",
+      "Uplifted"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Myrcene",
+      "Pinene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Focused",
+      "Relaxed",
+      "Uplifted"
+    ],
+    "tastes": [
+      "Citrus",
+      "Earthy",
+      "Pine"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Myrcene",
+      "Pinene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "amp-classic-251",
+      "name": "AMP Classic 25/1",
+      "brandName": "AMP",
+      "thcPercent": 25,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "weeco-231",
+      "name": "Weeco 23/1",
+      "brandName": "Weeco",
+      "thcPercent": 23,
+      "priceMin": 599,
+      "inStock": true
+    },
+    {
+      "slug": "aurora-221-dhz-ca",
+      "name": "Aurora 22/1 DHZ-CA",
+      "brandName": "Aurora",
+      "thcPercent": 19.8,
+      "priceMin": 640,
+      "inStock": true
+    },
+    {
+      "slug": "420-evolution-271-ca-str",
+      "name": "420 Evolution 27/1 CA STR",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 27,
+      "priceMin": 645,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-221-florestura",
+      "name": "DEMECAN Florestura 22:01",
+      "brandName": "Deutsche Medizinalcannabis",
+      "thcPercent": 22,
+      "priceMin": 679,
+      "inStock": true
+    },
+    {
+      "slug": "avaay-231-rg",
+      "name": "AVAAY 23/1 RG",
+      "brandName": "Avaay",
+      "thcPercent": 23.7,
+      "priceMin": 689,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Bedrocan Cannabis Flos 22/1 Afina | ab 4,29 €",
+      "description": "Bedrocan Cannabis Flos 22/1 Afina von Bedrocan. THC: 22%, CBD: 1%. Sorte: Afina. Preis ab 4,29 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/bedrocan",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Bedrocan Cannabis Flos 22/1 Afina | ab 4,29 €",
+        "description": "Bedrocan Cannabis Flos 22/1 Afina von Bedrocan. THC: 22%, CBD: 1%. Sorte: Afina. Preis ab 4,29 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/bedrocan",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Bedrocan",
+        "href": "https://weed.de/brand/bedrocan"
+      },
+      {
+        "name": "Bedrocan Cannabis Flos 22/1 Afina",
+        "href": "https://weed.de/product/bedrocan"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Bedrocan Cannabis Flos 22/1 Afina",
+            "item": "https://weed.de/product/bedrocan"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Bedrocan Cannabis Flos 22/1 Afina",
+        "brand": {
+          "@type": "Brand",
+          "name": "Bedrocan"
+        },
+        "description": "THC: 22%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/afina",
+      "text": "Afina",
+      "title": "Afina Sorte"
+    },
+    "brand": {
+      "href": "/brand/bedrocan",
+      "text": "Bedrocan",
+      "title": "Alle Bedrocan Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/amp-classic-251",
+        "text": "AMP Classic 25/1",
+        "title": "Alternative: AMP Classic 25/1"
+      },
+      {
+        "href": "/product/weeco-231",
+        "text": "Weeco 23/1",
+        "title": "Alternative: Weeco 23/1"
+      },
+      {
+        "href": "/product/aurora-221-dhz-ca",
+        "text": "Aurora 22/1 DHZ-CA",
+        "title": "Alternative: Aurora 22/1 DHZ-CA"
+      },
+      {
+        "href": "/product/420-evolution-271-ca-str",
+        "text": "420 Evolution 27/1 CA STR",
+        "title": "Alternative: 420 Evolution 27/1 CA STR"
+      },
+      {
+        "href": "/product/demecan-221-florestura",
+        "text": "DEMECAN Florestura 22:01",
+        "title": "Alternative: DEMECAN Florestura 22:01"
+      },
+      {
+        "href": "/product/avaay-231-rg",
+        "text": "AVAAY 23/1 RG",
+        "title": "Alternative: AVAAY 23/1 RG"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

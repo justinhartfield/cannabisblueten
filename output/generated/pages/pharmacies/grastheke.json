@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "grastheke",
+    "name": "Grastheke",
+    "street": "Alexianerplatz 1a",
+    "zip": "41464",
+    "cityName": "Neuss",
+    "state": "Nordrhein-Westfalen",
+    "lat": 51.189782,
+    "lng": 6.703566899999999,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "www.grastheke.de",
+    "phone": "0213293968",
+    "email": "info@grastheke.de",
+    "productCount": 91,
+    "rating": 5,
+    "ratingCount": 1,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/6899c58dd22fc2e63cde5c06-aa5e36.jpg"
+  },
+  "city": {
+    "slug": "neuss",
+    "name": "Neuss",
+    "pharmacyCount": 2
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "behring-apotheke",
+      "name": "Behring Apotheke",
+      "cityName": "Neuss",
+      "productCount": 0,
+      "hasDelivery": true
+    },
+    {
+      "slug": "higreen-apotheke",
+      "name": "higreen! Online Marktplatz für Cannabis Apotheken",
+      "cityName": "Krefeld",
+      "productCount": 256,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-zur-alten-post",
+      "name": "Cannacompany (Apotheke zur Alten Post)",
+      "cityName": "Bonn",
+      "productCount": 233,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis-apotheke-essen-glocken-apotheke",
+      "name": "Cannabis Apotheke Essen (Glocken Apotheke)",
+      "cityName": "Essen",
+      "productCount": 174,
+      "hasDelivery": true
+    },
+    {
+      "slug": "grafenberger-apotheke",
+      "name": "GRAFENBERGER APOTHEKE",
+      "cityName": "Düsseldorf",
+      "productCount": 158,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Grastheke - Cannabis Apotheke in Neuss",
+      "description": "Grastheke in Neuss. 91 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/grastheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Grastheke - Cannabis Apotheke in Neuss",
+        "description": "Grastheke in Neuss. 91 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/grastheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/6899c58dd22fc2e63cde5c06-aa5e36.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Neuss",
+        "href": "https://weed.de/cannabis-apotheke/neuss"
+      },
+      {
+        "name": "Grastheke",
+        "href": "https://weed.de/apotheke/grastheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Neuss",
+            "item": "https://weed.de/cannabis-apotheke/neuss"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Grastheke",
+            "item": "https://weed.de/apotheke/grastheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Grastheke",
+        "url": "https://weed.de/apotheke/grastheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Alexianerplatz 1a",
+          "addressLocality": "Neuss",
+          "postalCode": "41464",
+          "addressRegion": "Nordrhein-Westfalen",
+          "addressCountry": "DE"
+        },
+        "telephone": "0213293968",
+        "email": "info@grastheke.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/neuss",
+      "text": "Cannabis Apotheken in Neuss",
+      "title": "Alle Apotheken in Neuss"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/behring-apotheke",
+        "text": "Behring Apotheke",
+        "title": "Behring Apotheke in Neuss"
+      },
+      {
+        "href": "/apotheke/higreen-apotheke",
+        "text": "higreen! Online Marktplatz für Cannabis Apotheken",
+        "title": "higreen! Online Marktplatz für Cannabis Apotheken in Krefeld"
+      },
+      {
+        "href": "/apotheke/apotheke-zur-alten-post",
+        "text": "Cannacompany (Apotheke zur Alten Post)",
+        "title": "Cannacompany (Apotheke zur Alten Post) in Bonn"
+      },
+      {
+        "href": "/apotheke/cannabis-apotheke-essen-glocken-apotheke",
+        "text": "Cannabis Apotheke Essen (Glocken Apotheke)",
+        "title": "Cannabis Apotheke Essen (Glocken Apotheke) in Essen"
+      },
+      {
+        "href": "/apotheke/grafenberger-apotheke",
+        "text": "GRAFENBERGER APOTHEKE",
+        "title": "GRAFENBERGER APOTHEKE in Düsseldorf"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

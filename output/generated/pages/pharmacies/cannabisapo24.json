@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "cannabisapo24",
+    "name": "Cannabisapo24",
+    "street": "Maximilianstraße 27",
+    "zip": "86150",
+    "cityName": "Augsburg",
+    "state": "Bayern",
+    "lat": 48.3673588,
+    "lng": 10.8986188,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "www.cannabisapo24.de",
+    "phone": "0821516496",
+    "email": "info@cannabisapo24.de",
+    "productCount": 364,
+    "rating": 3.7,
+    "ratingCount": 6,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/6888bc0766d6c31b2bad2a2b-a927fh.jpg"
+  },
+  "city": {
+    "slug": "augsburg",
+    "name": "Augsburg",
+    "pharmacyCount": 6
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "cannaplus-apotheke",
+      "name": "Cannaplus Apotheke",
+      "cityName": "Augsburg",
+      "productCount": 186,
+      "hasDelivery": true
+    },
+    {
+      "slug": "augusta-apotheke",
+      "name": "Augusta Apotheke",
+      "cityName": "Augsburg",
+      "productCount": 100,
+      "hasDelivery": true
+    },
+    {
+      "slug": "bessergesund-ohg-ipunkt-apotheke",
+      "name": "bessergesund OHG ipunkt Apotheke",
+      "cityName": "Augsburg",
+      "productCount": 22,
+      "hasDelivery": true
+    },
+    {
+      "slug": "hochfeld-apotheke-1",
+      "name": "HIGH FIELD by Hochfeld-Apotheke",
+      "cityName": "Augsburg",
+      "productCount": 16,
+      "hasDelivery": false
+    },
+    {
+      "slug": "hochfeld-apotheke",
+      "name": "HighField (by Hochfeld-Apotheke)",
+      "cityName": "Augsburg",
+      "productCount": 0,
+      "hasDelivery": false
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannabisapo24 - Cannabis Apotheke in Augsburg",
+      "description": "Cannabisapo24 in Augsburg. 364 Cannabis Produkte. Lieferung & Abholung. Bewertung: 3.7/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/cannabisapo24",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannabisapo24 - Cannabis Apotheke in Augsburg",
+        "description": "Cannabisapo24 in Augsburg. 364 Cannabis Produkte. Lieferung & Abholung. Bewertung: 3.7/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/cannabisapo24",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/6888bc0766d6c31b2bad2a2b-a927fh.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Augsburg",
+        "href": "https://weed.de/cannabis-apotheke/augsburg"
+      },
+      {
+        "name": "Cannabisapo24",
+        "href": "https://weed.de/apotheke/cannabisapo24"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Augsburg",
+            "item": "https://weed.de/cannabis-apotheke/augsburg"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Cannabisapo24",
+            "item": "https://weed.de/apotheke/cannabisapo24"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Cannabisapo24",
+        "url": "https://weed.de/apotheke/cannabisapo24",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Maximilianstraße 27",
+          "addressLocality": "Augsburg",
+          "postalCode": "86150",
+          "addressRegion": "Bayern",
+          "addressCountry": "DE"
+        },
+        "telephone": "0821516496",
+        "email": "info@cannabisapo24.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/augsburg",
+      "text": "Cannabis Apotheken in Augsburg",
+      "title": "Alle Apotheken in Augsburg"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/cannaplus-apotheke",
+        "text": "Cannaplus Apotheke",
+        "title": "Cannaplus Apotheke in Augsburg"
+      },
+      {
+        "href": "/apotheke/augusta-apotheke",
+        "text": "Augusta Apotheke",
+        "title": "Augusta Apotheke in Augsburg"
+      },
+      {
+        "href": "/apotheke/bessergesund-ohg-ipunkt-apotheke",
+        "text": "bessergesund OHG ipunkt Apotheke",
+        "title": "bessergesund OHG ipunkt Apotheke in Augsburg"
+      },
+      {
+        "href": "/apotheke/hochfeld-apotheke-1",
+        "text": "HIGH FIELD by Hochfeld-Apotheke",
+        "title": "HIGH FIELD by Hochfeld-Apotheke in Augsburg"
+      },
+      {
+        "href": "/apotheke/hochfeld-apotheke",
+        "text": "HighField (by Hochfeld-Apotheke)",
+        "title": "HighField (by Hochfeld-Apotheke) in Augsburg"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

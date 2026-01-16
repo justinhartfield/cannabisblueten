@@ -1,0 +1,180 @@
+{
+  "strain": {
+    "slug": "gd-purple",
+    "name": "GD Purple",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Euphoric",
+      "Relaxed",
+      "Sleepy"
+    ],
+    "tastes": [
+      "Berry",
+      "Floral",
+      "Grape"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Pinene",
+      "Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 0,
+    "pharmacyCount": 0,
+    "priceRange": null
+  },
+  "products": [],
+  "similarStrains": [
+    {
+      "slug": "god-bud",
+      "name": "God Bud",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "critical-mass",
+      "name": "Critical Mass",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "grape-mac",
+      "name": "Grape MAC",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "granddaddy-purple",
+      "name": "Granddaddy Purple",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "gummy-bears",
+      "name": "Gummy Bears",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "GD Purple (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "GD Purple: Euphoric, Relaxed, Sleepy.",
+      "canonical": "https://weed.de/strain/gd-purple",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "GD Purple (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "GD Purple: Euphoric, Relaxed, Sleepy.",
+        "url": "https://weed.de/strain/gd-purple",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "GD Purple",
+        "href": "https://weed.de/strain/gd-purple"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "GD Purple",
+            "item": "https://weed.de/strain/gd-purple"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [],
+    "similarStrains": [
+      {
+        "href": "/strain/god-bud",
+        "text": "God Bud",
+        "title": "God Bud - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/critical-mass",
+        "text": "Critical Mass",
+        "title": "Critical Mass - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/grape-mac",
+        "text": "Grape MAC",
+        "title": "Grape MAC - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/granddaddy-purple",
+        "text": "Granddaddy Purple",
+        "title": "Granddaddy Purple - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/gummy-bears",
+        "text": "Gummy Bears",
+        "title": "Gummy Bears - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/pinene",
+        "text": "Pinene",
+        "title": "Pinene Terpen"
+      },
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has data and related content"
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "strain": {
+    "slug": "x",
+    "name": "X",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Euphoric",
+      "Calming",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Earthy",
+      "Sweet",
+      "Woody",
+      "Pine",
+      "Tangy"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Ocimene",
+      "Myrcene",
+      "Pinene"
+    ],
+    "description": "X ist eine Sativa-dominante Sorte, die aus der Kreuzung zweier geheimer Sorten namens Secret Kush und Classified Strain entstanden ist. Mit einem THC-Gehalt von rund 23 % und einem minimalen CBD-Anteil liefert sie eine ausgewogene und potente Wirkung, die eine anfängliche Euphorie mit einem beruhigenden, entspannten Gefühl kombiniert.\n\nIhr komplexes Geschmacksprofil ist geprägt von süßen und erdigen Noten, die von einer zusätzlichen holzigen Komponente untermalt werden. Das Terpenprofil, das von Ocimen und Myrcen dominiert wird, enthält zusätzlich auch Caryophyllen und Pinen, was das Aroma mit würzigen und kiefernartigen Nuancen anreichert.\n\nX ist eine Sorte, die sich ideal für entspannte Solo-Sessions oder gesellige Runden mit Freunden eignet und eine vielschichtige Erfahrung mit angenehmer Wirkung bietet.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 0,
+    "pharmacyCount": 0,
+    "priceRange": null
+  },
+  "products": [],
+  "similarStrains": [
+    {
+      "slug": "critical-mass",
+      "name": "Critical Mass",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "gummy-bears",
+      "name": "Gummy Bears",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "black-diamond",
+      "name": "Black Diamond",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "grape-mac",
+      "name": "Grape MAC",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "white-gorilla",
+      "name": "White Gorilla",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "X (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "X: Euphoric, Calming, Relaxed.",
+      "canonical": "https://weed.de/strain/x",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "X (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "X: Euphoric, Calming, Relaxed.",
+        "url": "https://weed.de/strain/x",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "X",
+        "href": "https://weed.de/strain/x"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "X",
+            "item": "https://weed.de/strain/x"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [],
+    "similarStrains": [
+      {
+        "href": "/strain/critical-mass",
+        "text": "Critical Mass",
+        "title": "Critical Mass - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/gummy-bears",
+        "text": "Gummy Bears",
+        "title": "Gummy Bears - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/black-diamond",
+        "text": "Black Diamond",
+        "title": "Black Diamond - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/grape-mac",
+        "text": "Grape MAC",
+        "title": "Grape MAC - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/white-gorilla",
+        "text": "White Gorilla",
+        "title": "White Gorilla - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/ocimene",
+        "text": "Ocimene",
+        "title": "Ocimene Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/pinene",
+        "text": "Pinene",
+        "title": "Pinene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has data and related content"
+  }
+}

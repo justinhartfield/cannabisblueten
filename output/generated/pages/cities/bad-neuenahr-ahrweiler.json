@@ -1,0 +1,209 @@
+{
+  "city": {
+    "slug": "bad-neuenahr-ahrweiler",
+    "name": "Bad Neuenahr-Ahrweiler",
+    "state": "Rheinland-Pfalz"
+  },
+  "stats": {
+    "pharmacyCount": 3,
+    "totalProducts": 304,
+    "hasDelivery": true
+  },
+  "pharmacies": [
+    {
+      "slug": "cannabis-apotheke-rheinland",
+      "name": "Cannabis Apotheke Rheinland",
+      "street": "Bergstraße 2",
+      "zip": "53474",
+      "hasDelivery": true,
+      "hasPickup": false,
+      "productCount": 161,
+      "rating": 3.4,
+      "ratingCount": 5
+    },
+    {
+      "slug": "cannabis4me",
+      "name": "cannabis4me",
+      "street": "Hauptstraße 107",
+      "zip": "53474",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 89,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "cannabis-apotheke-ahrtal",
+      "name": "Cannabis-Apotheke-Ahrtal",
+      "street": "Hauptstraße 83",
+      "zip": "53474",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 54,
+      "rating": 0,
+      "ratingCount": 0
+    }
+  ],
+  "nearbyCities": [
+    {
+      "slug": "mainz",
+      "name": "Mainz",
+      "pharmacyCount": 3
+    },
+    {
+      "slug": "speyer",
+      "name": "Speyer",
+      "pharmacyCount": 2
+    },
+    {
+      "slug": "frankenthal-pfalz",
+      "name": "Frankenthal (Pfalz)",
+      "pharmacyCount": 1
+    },
+    {
+      "slug": "koblenz",
+      "name": "Koblenz",
+      "pharmacyCount": 1
+    },
+    {
+      "slug": "germersheim",
+      "name": "Germersheim",
+      "pharmacyCount": 1
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannabis Apotheke Bad Neuenahr-Ahrweiler - 3 Apotheken",
+      "description": "Cannabis Apotheken in Bad Neuenahr-Ahrweiler. 3 Apotheken mit 304 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+      "canonical": "https://weed.de/cannabis-apotheke/bad-neuenahr-ahrweiler",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannabis Apotheke Bad Neuenahr-Ahrweiler - 3 Apotheken",
+        "description": "Cannabis Apotheken in Bad Neuenahr-Ahrweiler. 3 Apotheken mit 304 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+        "url": "https://weed.de/cannabis-apotheke/bad-neuenahr-ahrweiler",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Bad Neuenahr-Ahrweiler",
+        "href": "https://weed.de/cannabis-apotheke/bad-neuenahr-ahrweiler"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Bad Neuenahr-Ahrweiler",
+            "item": "https://weed.de/cannabis-apotheke/bad-neuenahr-ahrweiler"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Cannabis Apotheken in Bad Neuenahr-Ahrweiler",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/apotheke/cannabis-apotheke-rheinland",
+            "name": "Cannabis Apotheke Rheinland"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/apotheke/cannabis4me",
+            "name": "cannabis4me"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/apotheke/cannabis-apotheke-ahrtal",
+            "name": "Cannabis-Apotheke-Ahrtal"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "pharmacies": [
+      {
+        "href": "/apotheke/cannabis-apotheke-rheinland",
+        "text": "Cannabis Apotheke Rheinland",
+        "title": "Cannabis Apotheke Rheinland in Bad Neuenahr-Ahrweiler"
+      },
+      {
+        "href": "/apotheke/cannabis4me",
+        "text": "cannabis4me",
+        "title": "cannabis4me in Bad Neuenahr-Ahrweiler"
+      },
+      {
+        "href": "/apotheke/cannabis-apotheke-ahrtal",
+        "text": "Cannabis-Apotheke-Ahrtal",
+        "title": "Cannabis-Apotheke-Ahrtal in Bad Neuenahr-Ahrweiler"
+      }
+    ],
+    "nearbyCities": [
+      {
+        "href": "/cannabis-apotheke/mainz",
+        "text": "Cannabis Apotheke Mainz",
+        "title": "3 Apotheken in Mainz"
+      },
+      {
+        "href": "/cannabis-apotheke/speyer",
+        "text": "Cannabis Apotheke Speyer",
+        "title": "2 Apotheken in Speyer"
+      },
+      {
+        "href": "/cannabis-apotheke/frankenthal-pfalz",
+        "text": "Cannabis Apotheke Frankenthal (Pfalz)",
+        "title": "1 Apotheken in Frankenthal (Pfalz)"
+      },
+      {
+        "href": "/cannabis-apotheke/koblenz",
+        "text": "Cannabis Apotheke Koblenz",
+        "title": "1 Apotheken in Koblenz"
+      },
+      {
+        "href": "/cannabis-apotheke/germersheim",
+        "text": "Cannabis Apotheke Germersheim",
+        "title": "1 Apotheken in Germersheim"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has 3 pharmacies"
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "product": {
+    "slug": "aleph-air-161-sour-tangie",
+    "name": "aleph air 16/1 Sour Tangie",
+    "type": "flower",
+    "genetics": "hybrid_sativa",
+    "thcPercent": 16,
+    "cbdPercent": 1,
+    "priceMin": 359,
+    "priceMax": 445,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Portugal",
+    "imageUrl": "https://weed.de/products/aleph-air-161-sour-tangie-h1fabe.webp"
+  },
+  "brand": {
+    "slug": "alephsana",
+    "name": "alephSana",
+    "productCount": 37
+  },
+  "strain": {
+    "slug": "sour-tangie",
+    "name": "Sour Tangie",
+    "geneticType": "hybrid",
+    "effects": [
+      "Clear",
+      "Stimulating",
+      "Euphoric"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Caryophyllene",
+      "Limonene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Clear",
+      "Stimulating",
+      "Euphoric"
+    ],
+    "tastes": [
+      "Sour",
+      "Citrus",
+      "Diesel"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Caryophyllene",
+      "Limonene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "amp-classic-251",
+      "name": "AMP Classic 25/1",
+      "brandName": "AMP",
+      "thcPercent": 25,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "aleph-air-131-st",
+      "name": "Aleph air 13/1 ST",
+      "brandName": "alephSana",
+      "thcPercent": 13,
+      "priceMin": 498,
+      "inStock": true
+    },
+    {
+      "slug": "weeco-231",
+      "name": "Weeco 23/1",
+      "brandName": "Weeco",
+      "thcPercent": 23,
+      "priceMin": 599,
+      "inStock": true
+    },
+    {
+      "slug": "alephsana-air-181",
+      "name": "Alephsana air 18/1",
+      "brandName": "alephSana",
+      "thcPercent": 18,
+      "priceMin": 640,
+      "inStock": true
+    },
+    {
+      "slug": "aurora-221-dhz-ca",
+      "name": "Aurora 22/1 DHZ-CA",
+      "brandName": "Aurora",
+      "thcPercent": 19.8,
+      "priceMin": 640,
+      "inStock": true
+    },
+    {
+      "slug": "420-evolution-271-ca-str",
+      "name": "420 Evolution 27/1 CA STR",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 27,
+      "priceMin": 645,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "aleph air 16/1 Sour Tangie - alephSana | ab 3,59 €",
+      "description": "aleph air 16/1 Sour Tangie von alephSana. THC: 16%, CBD: 1%. Sorte: Sour Tangie. Preis ab 3,59 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/aleph-air-161-sour-tangie",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "aleph air 16/1 Sour Tangie - alephSana | ab 3,59 €",
+        "description": "aleph air 16/1 Sour Tangie von alephSana. THC: 16%, CBD: 1%. Sorte: Sour Tangie. Preis ab 3,59 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/aleph-air-161-sour-tangie",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/aleph-air-161-sour-tangie-h1fabe.webp"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "alephSana",
+        "href": "https://weed.de/brand/alephsana"
+      },
+      {
+        "name": "aleph air 16/1 Sour Tangie",
+        "href": "https://weed.de/product/aleph-air-161-sour-tangie"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "aleph air 16/1 Sour Tangie",
+            "item": "https://weed.de/product/aleph-air-161-sour-tangie"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "aleph air 16/1 Sour Tangie",
+        "brand": {
+          "@type": "Brand",
+          "name": "alephSana"
+        },
+        "description": "THC: 16%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/sour-tangie",
+      "text": "Sour Tangie",
+      "title": "Sour Tangie Sorte"
+    },
+    "brand": {
+      "href": "/brand/alephsana",
+      "text": "alephSana",
+      "title": "Alle alephSana Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/amp-classic-251",
+        "text": "AMP Classic 25/1",
+        "title": "Alternative: AMP Classic 25/1"
+      },
+      {
+        "href": "/product/aleph-air-131-st",
+        "text": "Aleph air 13/1 ST",
+        "title": "Alternative: Aleph air 13/1 ST"
+      },
+      {
+        "href": "/product/weeco-231",
+        "text": "Weeco 23/1",
+        "title": "Alternative: Weeco 23/1"
+      },
+      {
+        "href": "/product/alephsana-air-181",
+        "text": "Alephsana air 18/1",
+        "title": "Alternative: Alephsana air 18/1"
+      },
+      {
+        "href": "/product/aurora-221-dhz-ca",
+        "text": "Aurora 22/1 DHZ-CA",
+        "title": "Alternative: Aurora 22/1 DHZ-CA"
+      },
+      {
+        "href": "/product/420-evolution-271-ca-str",
+        "text": "420 Evolution 27/1 CA STR",
+        "title": "Alternative: 420 Evolution 27/1 CA STR"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

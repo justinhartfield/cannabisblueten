@@ -1,0 +1,220 @@
+{
+  "strain": {
+    "slug": "legend-og",
+    "name": "Legend OG",
+    "geneticType": "indica",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Sleepy",
+      "Relaxed",
+      "Hungry",
+      "Dry Mouth",
+      "Dizzy",
+      "Dry Eyes"
+    ],
+    "tastes": [
+      "Chemical",
+      "Pungent",
+      "Woody"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Caryophyllene"
+    ],
+    "description": "Legend OG is an indica marijuana strain made by crossing OG Kush with an unknown strain. This strain produces relaxing effects that elevate the mind while soothing aches and pains throughout the body. Legend OG's sleepy qualities make it an ideal strain to enjoy before bedtime. Medical marijuana patients choose this strain for treating symptoms related to insomnia and stress. Legend OG has a tart, floral aroma and a pungent flavor.",
+    "imageUrl": "/strains/legend-og-3aef86.png"
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 369,
+      "max": 690,
+      "formatted": {
+        "min": "3,69 €",
+        "max": "6,90 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "mediprocan-lunaris-231-log",
+      "name": "mediproCan Lunaris 23/1 LOG",
+      "brandName": "mediproCan",
+      "thcPercent": 23,
+      "priceMin": 369,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "kosher-kush",
+      "name": "Kosher Kush",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "blueberry",
+      "name": "Blueberry",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "black-domina",
+      "name": "Black Domina",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "larry-og",
+      "name": "Larry OG",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "grape-ape",
+      "name": "Grape Ape",
+      "geneticType": "indica",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Legend OG (Indica) - Wirkung, THC & Verfügbarkeit",
+      "description": "Legend OG: Sleepy, Relaxed, Hungry. 1 Produkte verfügbar. ab 3,69 €.",
+      "canonical": "https://weed.de/strain/legend-og",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Legend OG (Indica) - Wirkung, THC & Verfügbarkeit",
+        "description": "Legend OG: Sleepy, Relaxed, Hungry. 1 Produkte verfügbar. ab 3,69 €.",
+        "url": "https://weed.de/strain/legend-og",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "/strains/legend-og-3aef86.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Legend OG",
+        "href": "https://weed.de/strain/legend-og"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Legend OG",
+            "item": "https://weed.de/strain/legend-og"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Legend OG Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/mediprocan-lunaris-231-log",
+            "name": "mediproCan Lunaris 23/1 LOG"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/mediprocan-lunaris-231-log",
+        "text": "mediproCan Lunaris 23/1 LOG",
+        "title": "mediproCan Lunaris 23/1 LOG von mediproCan"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/kosher-kush",
+        "text": "Kosher Kush",
+        "title": "Kosher Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/blueberry",
+        "text": "Blueberry",
+        "title": "Blueberry - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/black-domina",
+        "text": "Black Domina",
+        "title": "Black Domina - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/larry-og",
+        "text": "Larry OG",
+        "title": "Larry OG - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/grape-ape",
+        "text": "Grape Ape",
+        "title": "Grape Ape - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

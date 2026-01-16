@@ -1,0 +1,237 @@
+{
+  "product": {
+    "slug": "nimbus-vita-pura-501",
+    "name": "Nimbus Vita Pura 50:1",
+    "type": "extract",
+    "genetics": "indica",
+    "thcPercent": 5,
+    "cbdPercent": 0.1,
+    "priceMin": 434,
+    "priceMax": 1000,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": null,
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "nimbus-health",
+    "name": "Nimbus Health",
+    "productCount": 78
+  },
+  "strain": {
+    "slug": "herijuana",
+    "name": "Herijuana",
+    "geneticType": "hybrid",
+    "effects": [
+      "Relaxed",
+      "Happy",
+      "Sleepy",
+      "Tingly",
+      "Dry Mouth",
+      "Dry Eyes",
+      "Paranoid"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Pinene",
+      "Limonene",
+      "Caryophyllene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Relaxed",
+      "Happy",
+      "Sleepy",
+      "Tingly",
+      "Dry Mouth",
+      "Dry Eyes",
+      "Paranoid"
+    ],
+    "tastes": [
+      "Spicy-Herbal",
+      "Woody",
+      "Earthy",
+      "Flowery",
+      "Cheese",
+      "Tar"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Pinene",
+      "Limonene",
+      "Caryophyllene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "aurora-thc-25-cannabis-extract",
+      "name": "Aurora THC 25 Cannabis Extract",
+      "brandName": "Cansativa",
+      "thcPercent": 2.5,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "nimbus-vita-pura-11-herijuana",
+      "name": "Nimbus Vita Pura 10:1 - Herijuana",
+      "brandName": "Nimbus Health",
+      "thcPercent": 10,
+      "priceMin": 437,
+      "inStock": true
+    },
+    {
+      "slug": "adven-cannabisextrakt-thc-20",
+      "name": "Adven Cannabisextrakt THC 20",
+      "brandName": "Adven",
+      "thcPercent": 2,
+      "priceMin": 476,
+      "inStock": true
+    },
+    {
+      "slug": "adven-cannabisextrakt-thc-10-cbd-10",
+      "name": "Adven Cannabisextrakt THC 10 CBD 10",
+      "brandName": "Adven",
+      "thcPercent": 10,
+      "priceMin": 560,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-1",
+      "name": "Demecan Typ 1",
+      "brandName": "Demecan",
+      "thcPercent": 21,
+      "priceMin": 694,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-indica-forte-ej",
+      "name": "Cannamedical Indica forte EJ",
+      "brandName": "Cannamedical",
+      "thcPercent": 24,
+      "priceMin": 700,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Nimbus Vita Pura 50:1 - Nimbus Health | ab 4,34 €",
+      "description": "Nimbus Vita Pura 50:1 von Nimbus Health. THC: 5%, CBD: 0.1%. Sorte: Herijuana. Preis ab 4,34 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/nimbus-vita-pura-501",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Nimbus Vita Pura 50:1 - Nimbus Health | ab 4,34 €",
+        "description": "Nimbus Vita Pura 50:1 von Nimbus Health. THC: 5%, CBD: 0.1%. Sorte: Herijuana. Preis ab 4,34 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/nimbus-vita-pura-501",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Nimbus Health",
+        "href": "https://weed.de/brand/nimbus-health"
+      },
+      {
+        "name": "Nimbus Vita Pura 50:1",
+        "href": "https://weed.de/product/nimbus-vita-pura-501"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Nimbus Vita Pura 50:1",
+            "item": "https://weed.de/product/nimbus-vita-pura-501"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Nimbus Vita Pura 50:1",
+        "brand": {
+          "@type": "Brand",
+          "name": "Nimbus Health"
+        },
+        "description": "THC: 5%, CBD: 0.1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/herijuana",
+      "text": "Herijuana",
+      "title": "Herijuana Sorte"
+    },
+    "brand": {
+      "href": "/brand/nimbus-health",
+      "text": "Nimbus Health",
+      "title": "Alle Nimbus Health Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/aurora-thc-25-cannabis-extract",
+        "text": "Aurora THC 25 Cannabis Extract",
+        "title": "Alternative: Aurora THC 25 Cannabis Extract"
+      },
+      {
+        "href": "/product/nimbus-vita-pura-11-herijuana",
+        "text": "Nimbus Vita Pura 10:1 - Herijuana",
+        "title": "Alternative: Nimbus Vita Pura 10:1 - Herijuana"
+      },
+      {
+        "href": "/product/adven-cannabisextrakt-thc-20",
+        "text": "Adven Cannabisextrakt THC 20",
+        "title": "Alternative: Adven Cannabisextrakt THC 20"
+      },
+      {
+        "href": "/product/adven-cannabisextrakt-thc-10-cbd-10",
+        "text": "Adven Cannabisextrakt THC 10 CBD 10",
+        "title": "Alternative: Adven Cannabisextrakt THC 10 CBD 10"
+      },
+      {
+        "href": "/product/demecan-typ-1",
+        "text": "Demecan Typ 1",
+        "title": "Alternative: Demecan Typ 1"
+      },
+      {
+        "href": "/product/cannamedical-indica-forte-ej",
+        "text": "Cannamedical Indica forte EJ",
+        "title": "Alternative: Cannamedical Indica forte EJ"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

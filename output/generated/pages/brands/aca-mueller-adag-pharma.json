@@ -1,0 +1,293 @@
+{
+  "brand": {
+    "slug": "aca-mueller-adag-pharma",
+    "name": "ACA Müller ADAG Pharma",
+    "productCount": 10
+  },
+  "products": [
+    {
+      "slug": "aca-181-c",
+      "name": "ACA 18/1 C",
+      "type": "flower",
+      "thcPercent": 18,
+      "priceMin": 700,
+      "inStock": true,
+      "strainName": "White Widow"
+    },
+    {
+      "slug": "aca-221-c-fla",
+      "name": "ACA 22/1 C FLA",
+      "type": "flower",
+      "thcPercent": 22,
+      "priceMin": 599,
+      "inStock": true,
+      "strainName": "Frosted Lemon Angel"
+    },
+    {
+      "slug": "cannabisextrakt-aca-251-c",
+      "name": "Cannabisextrakt ACA 25/1 C",
+      "type": "extract",
+      "thcPercent": 25,
+      "priceMin": 536,
+      "inStock": true,
+      "strainName": null
+    },
+    {
+      "slug": "map-bedica",
+      "name": "MAP Bedica",
+      "type": "flower",
+      "thcPercent": 14.2,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Bedica"
+    },
+    {
+      "slug": "map-bedrolite",
+      "name": "MAP Bedrolite",
+      "type": "flower",
+      "thcPercent": 1,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Bedrolite®"
+    },
+    {
+      "slug": "map-bediol",
+      "name": "MAP Bediol",
+      "type": "flower",
+      "thcPercent": 6.3,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Bediol"
+    },
+    {
+      "slug": "map-bedrobinol",
+      "name": "MAP Bedrobinol",
+      "type": "flower",
+      "thcPercent": 13.5,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Bedrobinol"
+    },
+    {
+      "slug": "map-bedrocan",
+      "name": "MAP Bedrocan",
+      "type": "flower",
+      "thcPercent": 22,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Bedrocan®"
+    },
+    {
+      "slug": "aca-241-c",
+      "name": "ACA 24/1 C",
+      "type": "flower",
+      "thcPercent": 24,
+      "priceMin": 399,
+      "inStock": false,
+      "strainName": "Frosted Lemon Angel"
+    },
+    {
+      "slug": "aca-11",
+      "name": "ACA 10/10",
+      "type": "extract",
+      "thcPercent": 10,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": null
+    }
+  ],
+  "stats": {
+    "productCount": 10,
+    "inStockCount": 3,
+    "avgThc": 15.6,
+    "priceRange": {
+      "min": 399,
+      "max": 700,
+      "formatted": {
+        "min": "3,99 €",
+        "max": "7,00 €"
+      }
+    }
+  },
+  "seo": {
+    "meta": {
+      "title": "ACA Müller ADAG Pharma Cannabis Produkte - 10 Produkte",
+      "description": "ACA Müller ADAG Pharma: 10 Cannabis Produkte. 3 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+      "canonical": "https://weed.de/brand/aca-mueller-adag-pharma",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "ACA Müller ADAG Pharma Cannabis Produkte - 10 Produkte",
+        "description": "ACA Müller ADAG Pharma: 10 Cannabis Produkte. 3 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+        "url": "https://weed.de/brand/aca-mueller-adag-pharma",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Hersteller",
+        "href": "https://weed.de/brands"
+      },
+      {
+        "name": "ACA Müller ADAG Pharma",
+        "href": "https://weed.de/brand/aca-mueller-adag-pharma"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Hersteller",
+            "item": "https://weed.de/brands"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "ACA Müller ADAG Pharma",
+            "item": "https://weed.de/brand/aca-mueller-adag-pharma"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "ACA Müller ADAG Pharma Produkte",
+        "numberOfItems": 10,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/aca-181-c",
+            "name": "ACA 18/1 C"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/aca-221-c-fla",
+            "name": "ACA 22/1 C FLA"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/cannabisextrakt-aca-251-c",
+            "name": "Cannabisextrakt ACA 25/1 C"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/product/map-bedica",
+            "name": "MAP Bedica"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "https://weed.de/product/map-bedrolite",
+            "name": "MAP Bedrolite"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "url": "https://weed.de/product/map-bediol",
+            "name": "MAP Bediol"
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "url": "https://weed.de/product/map-bedrobinol",
+            "name": "MAP Bedrobinol"
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "url": "https://weed.de/product/map-bedrocan",
+            "name": "MAP Bedrocan"
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "url": "https://weed.de/product/aca-241-c",
+            "name": "ACA 24/1 C"
+          },
+          {
+            "@type": "ListItem",
+            "position": 10,
+            "url": "https://weed.de/product/aca-11",
+            "name": "ACA 10/10"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/aca-181-c",
+        "text": "ACA 18/1 C",
+        "title": "ACA 18/1 C"
+      },
+      {
+        "href": "/product/aca-221-c-fla",
+        "text": "ACA 22/1 C FLA",
+        "title": "ACA 22/1 C FLA"
+      },
+      {
+        "href": "/product/cannabisextrakt-aca-251-c",
+        "text": "Cannabisextrakt ACA 25/1 C",
+        "title": "Cannabisextrakt ACA 25/1 C"
+      },
+      {
+        "href": "/product/map-bedica",
+        "text": "MAP Bedica",
+        "title": "MAP Bedica"
+      },
+      {
+        "href": "/product/map-bedrolite",
+        "text": "MAP Bedrolite",
+        "title": "MAP Bedrolite"
+      },
+      {
+        "href": "/product/map-bediol",
+        "text": "MAP Bediol",
+        "title": "MAP Bediol"
+      },
+      {
+        "href": "/product/map-bedrobinol",
+        "text": "MAP Bedrobinol",
+        "title": "MAP Bedrobinol"
+      },
+      {
+        "href": "/product/map-bedrocan",
+        "text": "MAP Bedrocan",
+        "title": "MAP Bedrocan"
+      },
+      {
+        "href": "/product/aca-241-c",
+        "text": "ACA 24/1 C",
+        "title": "ACA 24/1 C"
+      },
+      {
+        "href": "/product/aca-11",
+        "text": "ACA 10/10",
+        "title": "ACA 10/10"
+      }
+    ]
+  }
+}

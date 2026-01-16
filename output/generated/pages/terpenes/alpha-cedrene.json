@@ -1,0 +1,192 @@
+{
+  "terpene": {
+    "slug": "alpha-cedrene",
+    "name": "Alpha-Cedrene",
+    "strainCount": 3
+  },
+  "strains": [
+    {
+      "slug": "gmo-breath",
+      "name": "GMO Breath",
+      "geneticType": "hybrid",
+      "productCount": 2,
+      "thcMax": null
+    },
+    {
+      "slug": "rainbow-lava",
+      "name": "Rainbow Lava",
+      "geneticType": "hybrid",
+      "productCount": 1,
+      "thcMax": null
+    },
+    {
+      "slug": "purple-punch-auto",
+      "name": "Purple Punch Auto",
+      "geneticType": "indica",
+      "productCount": 0,
+      "thcMax": null
+    }
+  ],
+  "relatedTerpenes": [
+    {
+      "slug": "myrcene",
+      "name": "Myrcene",
+      "strainCount": 1252
+    },
+    {
+      "slug": "limonene",
+      "name": "Limonene",
+      "strainCount": 1382
+    },
+    {
+      "slug": "beta-caryophyllene",
+      "name": "Beta-Caryophyllene",
+      "strainCount": 616
+    },
+    {
+      "slug": "linalool",
+      "name": "Linalool",
+      "strainCount": 462
+    },
+    {
+      "slug": "geraniol",
+      "name": "Geraniol",
+      "strainCount": 13
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Alpha-Cedrene Terpen - Wirkung & Cannabis Sorten",
+      "description": "Alpha-Cedrene: Enthalten in 3 Cannabis Sorten. Erfahre mehr über die Wirkung und finde Sorten mit diesem Terpen.",
+      "canonical": "https://weed.de/terpene/alpha-cedrene",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Alpha-Cedrene Terpen - Wirkung & Cannabis Sorten",
+        "description": "Alpha-Cedrene: Enthalten in 3 Cannabis Sorten. Erfahre mehr über die Wirkung und finde Sorten mit diesem Terpen.",
+        "url": "https://weed.de/terpene/alpha-cedrene",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Terpene",
+        "href": "https://weed.de/terpenes"
+      },
+      {
+        "name": "Alpha-Cedrene",
+        "href": "https://weed.de/terpene/alpha-cedrene"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Terpene",
+            "item": "https://weed.de/terpenes"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Alpha-Cedrene",
+            "item": "https://weed.de/terpene/alpha-cedrene"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Sorten mit Alpha-Cedrene",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/strain/gmo-breath",
+            "name": "GMO Breath"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/strain/rainbow-lava",
+            "name": "Rainbow Lava"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/strain/purple-punch-auto",
+            "name": "Purple Punch Auto"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "strains": [
+      {
+        "href": "/strain/gmo-breath",
+        "text": "GMO Breath",
+        "title": "GMO Breath enthält Alpha-Cedrene"
+      },
+      {
+        "href": "/strain/rainbow-lava",
+        "text": "Rainbow Lava",
+        "title": "Rainbow Lava enthält Alpha-Cedrene"
+      },
+      {
+        "href": "/strain/purple-punch-auto",
+        "text": "Purple Punch Auto",
+        "title": "Purple Punch Auto enthält Alpha-Cedrene"
+      }
+    ],
+    "relatedTerpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene - 1252 Sorten"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene - 1382 Sorten"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene - 616 Sorten"
+      },
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool - 462 Sorten"
+      },
+      {
+        "href": "/terpene/geraniol",
+        "text": "Geraniol",
+        "title": "Geraniol - 13 Sorten"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has 3 strains"
+  }
+}

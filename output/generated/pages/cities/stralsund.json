@@ -1,0 +1,125 @@
+{
+  "city": {
+    "slug": "stralsund",
+    "name": "Stralsund",
+    "state": "Mecklenburg-Vorpommern"
+  },
+  "stats": {
+    "pharmacyCount": 1,
+    "totalProducts": 20,
+    "hasDelivery": true
+  },
+  "pharmacies": [
+    {
+      "slug": "rats-apotheke",
+      "name": "Rats Apotheke | Cannabis Stralsund",
+      "street": "Alter Markt 6",
+      "zip": "18439",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 20,
+      "rating": 5,
+      "ratingCount": 1
+    }
+  ],
+  "nearbyCities": [
+    {
+      "slug": "greifswald",
+      "name": "Greifswald",
+      "pharmacyCount": 1
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannabis Apotheke Stralsund - 1 Apotheken",
+      "description": "Cannabis Apotheken in Stralsund. 1 Apotheken mit 20 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+      "canonical": "https://weed.de/cannabis-apotheke/stralsund",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannabis Apotheke Stralsund - 1 Apotheken",
+        "description": "Cannabis Apotheken in Stralsund. 1 Apotheken mit 20 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+        "url": "https://weed.de/cannabis-apotheke/stralsund",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Stralsund",
+        "href": "https://weed.de/cannabis-apotheke/stralsund"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Stralsund",
+            "item": "https://weed.de/cannabis-apotheke/stralsund"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Cannabis Apotheken in Stralsund",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/apotheke/rats-apotheke",
+            "name": "Rats Apotheke | Cannabis Stralsund"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "pharmacies": [
+      {
+        "href": "/apotheke/rats-apotheke",
+        "text": "Rats Apotheke | Cannabis Stralsund",
+        "title": "Rats Apotheke | Cannabis Stralsund in Stralsund"
+      }
+    ],
+    "nearbyCities": [
+      {
+        "href": "/cannabis-apotheke/greifswald",
+        "text": "Cannabis Apotheke Greifswald",
+        "title": "1 Apotheken in Greifswald"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Single pharmacy with good product coverage"
+  }
+}

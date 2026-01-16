@@ -1,0 +1,238 @@
+{
+  "strain": {
+    "slug": "krypton",
+    "name": "Krypton",
+    "geneticType": "indica",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Euphoric",
+      "Hungry",
+      "Relaxed",
+      "Creative"
+    ],
+    "tastes": [
+      "Fruity",
+      "Spicy-Herbal",
+      "Earthy",
+      "Sour",
+      "Pine"
+    ],
+    "terpenes": [
+      "Linalool",
+      "Humulene",
+      "Terpinolene"
+    ],
+    "description": "Krypton, eine Indica-Sorte, präsentiert ein vielfältiges Aroma-Profil mit fruchtigen, würzig-herben, erdigen, sauren und harzigen Noten. Mit ihrem THC-Werten von 9% bis 14% und einem niedrigen CBD-Gehalt kann Krypton Euphorie, Hunger, Entspannung und Kreativität auslösen. Ihr Terpenprofil umfasst Linalool, Humulene und Terpinolen, die zu ihrem einzigartigen Aroma und ihren Wirkungen beitragen.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 695,
+      "max": 749,
+      "formatted": {
+        "min": "6,95 €",
+        "max": "7,49 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "canopy-krypton-25",
+      "name": "Canopy Krypton 25",
+      "brandName": "Canopy Growth",
+      "thcPercent": 25,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "canopy-krypton-231",
+      "name": "Canopy Krypton 23/1",
+      "brandName": "Canopy Growth",
+      "thcPercent": 21.3,
+      "priceMin": 695,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "gr4",
+      "name": "GR4",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "atomic-sour-grapefruit",
+      "name": "Atomic Sour Grapefruit",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "northern-light-auto",
+      "name": "Northern Light Auto",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "northern-light",
+      "name": "Northern Light",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "auto-night-queen",
+      "name": "Auto Night Queen",
+      "geneticType": "indica",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Krypton (Indica) - Wirkung, THC & Verfügbarkeit",
+      "description": "Krypton: Euphoric, Hungry, Relaxed. 2 Produkte verfügbar. ab 6,95 €.",
+      "canonical": "https://weed.de/strain/krypton",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Krypton (Indica) - Wirkung, THC & Verfügbarkeit",
+        "description": "Krypton: Euphoric, Hungry, Relaxed. 2 Produkte verfügbar. ab 6,95 €.",
+        "url": "https://weed.de/strain/krypton",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Krypton",
+        "href": "https://weed.de/strain/krypton"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Krypton",
+            "item": "https://weed.de/strain/krypton"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Krypton Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/canopy-krypton-25",
+            "name": "Canopy Krypton 25"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/canopy-krypton-231",
+            "name": "Canopy Krypton 23/1"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/canopy-krypton-25",
+        "text": "Canopy Krypton 25",
+        "title": "Canopy Krypton 25 von Canopy Growth"
+      },
+      {
+        "href": "/product/canopy-krypton-231",
+        "text": "Canopy Krypton 23/1",
+        "title": "Canopy Krypton 23/1 von Canopy Growth"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/gr4",
+        "text": "GR4",
+        "title": "GR4 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/atomic-sour-grapefruit",
+        "text": "Atomic Sour Grapefruit",
+        "title": "Atomic Sour Grapefruit - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/northern-light-auto",
+        "text": "Northern Light Auto",
+        "title": "Northern Light Auto - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/northern-light",
+        "text": "Northern Light",
+        "title": "Northern Light - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/auto-night-queen",
+        "text": "Auto Night Queen",
+        "title": "Auto Night Queen - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      },
+      {
+        "href": "/terpene/humulene",
+        "text": "Humulene",
+        "title": "Humulene Terpen"
+      },
+      {
+        "href": "/terpene/terpinolene",
+        "text": "Terpinolene",
+        "title": "Terpinolene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

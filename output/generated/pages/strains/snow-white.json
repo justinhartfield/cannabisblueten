@@ -1,0 +1,216 @@
+{
+  "strain": {
+    "slug": "snow-white",
+    "name": "Snow White",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0,
+      "max": 0
+    },
+    "effects": [
+      "Creative",
+      "Euphoric",
+      "Hungry"
+    ],
+    "tastes": [
+      "Mint",
+      "Earthy",
+      "Fruity"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 944,
+      "max": 999,
+      "formatted": {
+        "min": "9,44 €",
+        "max": "9,99 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "canymed-bc-281",
+      "name": "canymed BC 28/1",
+      "brandName": "canymed",
+      "thcPercent": 28,
+      "priceMin": 944,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "cookies-kerosene-punch",
+      "name": "Cookies Kerosene Punch",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "wedding-crasher",
+      "name": "Wedding Crasher",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "orange-octane",
+      "name": "Orange Octane",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "peechy-keen",
+      "name": "Peechy Keen",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "tropic-smash",
+      "name": "Tropic Smash",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Snow White (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Snow White: Creative, Euphoric, Hungry. 1 Produkte verfügbar. ab 9,44 €.",
+      "canonical": "https://weed.de/strain/snow-white",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Snow White (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Snow White: Creative, Euphoric, Hungry. 1 Produkte verfügbar. ab 9,44 €.",
+        "url": "https://weed.de/strain/snow-white",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Snow White",
+        "href": "https://weed.de/strain/snow-white"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Snow White",
+            "item": "https://weed.de/strain/snow-white"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Snow White Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/canymed-bc-281",
+            "name": "canymed BC 28/1"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/canymed-bc-281",
+        "text": "canymed BC 28/1",
+        "title": "canymed BC 28/1 von canymed"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/cookies-kerosene-punch",
+        "text": "Cookies Kerosene Punch",
+        "title": "Cookies Kerosene Punch - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/wedding-crasher",
+        "text": "Wedding Crasher",
+        "title": "Wedding Crasher - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/orange-octane",
+        "text": "Orange Octane",
+        "title": "Orange Octane - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/peechy-keen",
+        "text": "Peechy Keen",
+        "title": "Peechy Keen - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/tropic-smash",
+        "text": "Tropic Smash",
+        "title": "Tropic Smash - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

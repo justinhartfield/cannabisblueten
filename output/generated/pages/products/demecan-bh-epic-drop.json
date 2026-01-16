@@ -1,0 +1,225 @@
+{
+  "product": {
+    "slug": "demecan-bh-epic-drop",
+    "name": "Demecan BH Epic Drop",
+    "type": "flower",
+    "genetics": "hybrid",
+    "thcPercent": 26,
+    "cbdPercent": 1,
+    "priceMin": 699,
+    "priceMax": 699,
+    "inStock": false,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": "https://weed.de/products/demecan-bh-epic-drop-3ihfbd.png"
+  },
+  "brand": {
+    "slug": "demecan",
+    "name": "Demecan",
+    "productCount": 168
+  },
+  "strain": {
+    "slug": "wedding-cake",
+    "name": "Wedding Cake",
+    "geneticType": "hybrid",
+    "effects": [
+      "Relaxed",
+      "Aroused",
+      "Hungry"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Myrcene",
+      "Limonene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Relaxed",
+      "Aroused",
+      "Hungry"
+    ],
+    "tastes": [
+      "Sweet",
+      "Spicy-Herbal",
+      "Vanilla"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Myrcene",
+      "Limonene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "khiron-wed-221",
+      "name": "Khiron WED 22/1",
+      "brandName": "Khiron",
+      "thcPercent": 22,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "291-amici-wc",
+      "name": "29/1 Amici WC",
+      "brandName": "Cansativa",
+      "thcPercent": 29,
+      "priceMin": 443,
+      "inStock": true
+    },
+    {
+      "slug": "khiron-wed-171",
+      "name": "KHIRON WED 17/1",
+      "brandName": "Khiron",
+      "thcPercent": 17,
+      "priceMin": 499,
+      "inStock": true
+    },
+    {
+      "slug": "khiron-wed-21",
+      "name": "Khiron WED 20/1",
+      "brandName": "Khiron",
+      "thcPercent": 20,
+      "priceMin": 550,
+      "inStock": true
+    },
+    {
+      "slug": "remexian-31-prt-wec",
+      "name": "Remexian 30/1 PRT WEC",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 30,
+      "priceMin": 558,
+      "inStock": true
+    },
+    {
+      "slug": "remexian-271-prt-wec",
+      "name": "Remexian 27/1 PRT WEC",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 27,
+      "priceMin": 399,
+      "inStock": false
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Demecan BH Epic Drop | ab 6,99 €",
+      "description": "Demecan BH Epic Drop von Demecan. THC: 26%, CBD: 1%. Sorte: Wedding Cake. Preis ab 6,99 €. Preise vergleichen.",
+      "canonical": "https://weed.de/product/demecan-bh-epic-drop",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Demecan BH Epic Drop | ab 6,99 €",
+        "description": "Demecan BH Epic Drop von Demecan. THC: 26%, CBD: 1%. Sorte: Wedding Cake. Preis ab 6,99 €. Preise vergleichen.",
+        "url": "https://weed.de/product/demecan-bh-epic-drop",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/demecan-bh-epic-drop-3ihfbd.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Demecan",
+        "href": "https://weed.de/brand/demecan"
+      },
+      {
+        "name": "Demecan BH Epic Drop",
+        "href": "https://weed.de/product/demecan-bh-epic-drop"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Demecan BH Epic Drop",
+            "item": "https://weed.de/product/demecan-bh-epic-drop"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Demecan BH Epic Drop",
+        "brand": {
+          "@type": "Brand",
+          "name": "Demecan"
+        },
+        "description": "THC: 26%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/wedding-cake",
+      "text": "Wedding Cake",
+      "title": "Wedding Cake Sorte"
+    },
+    "brand": {
+      "href": "/brand/demecan",
+      "text": "Demecan",
+      "title": "Alle Demecan Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/khiron-wed-221",
+        "text": "Khiron WED 22/1",
+        "title": "Alternative: Khiron WED 22/1"
+      },
+      {
+        "href": "/product/291-amici-wc",
+        "text": "29/1 Amici WC",
+        "title": "Alternative: 29/1 Amici WC"
+      },
+      {
+        "href": "/product/khiron-wed-171",
+        "text": "KHIRON WED 17/1",
+        "title": "Alternative: KHIRON WED 17/1"
+      },
+      {
+        "href": "/product/khiron-wed-21",
+        "text": "Khiron WED 20/1",
+        "title": "Alternative: Khiron WED 20/1"
+      },
+      {
+        "href": "/product/remexian-31-prt-wec",
+        "text": "Remexian 30/1 PRT WEC",
+        "title": "Alternative: Remexian 30/1 PRT WEC"
+      },
+      {
+        "href": "/product/remexian-271-prt-wec",
+        "text": "Remexian 27/1 PRT WEC",
+        "title": "Alternative: Remexian 27/1 PRT WEC"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has price data"
+  }
+}

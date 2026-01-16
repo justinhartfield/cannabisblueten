@@ -1,0 +1,224 @@
+{
+  "product": {
+    "slug": "madrecan-241-dgv-minis",
+    "name": "madrecan 24/1 DGV Minis",
+    "type": "flower",
+    "genetics": "sativa",
+    "thcPercent": 24,
+    "cbdPercent": 1,
+    "priceMin": 499,
+    "priceMax": 499,
+    "inStock": false,
+    "pzn": null,
+    "originCountry": "Portugal",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "remexian-pharma",
+    "name": "Remexian Pharma",
+    "productCount": 340
+  },
+  "strain": {
+    "slug": "dougs-varin",
+    "name": "Dougs Varin",
+    "geneticType": "sativa",
+    "effects": [
+      "Euphoric",
+      "Focused",
+      "Energetic"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Alpha-Pinene",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Euphoric",
+      "Focused",
+      "Energetic"
+    ],
+    "tastes": [
+      "Pine",
+      "Earthy",
+      "Citrus"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Alpha-Pinene",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "madrecan-241-dgv",
+      "name": "madrecan 24/1 DGV",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 24,
+      "priceMin": 369,
+      "inStock": true
+    },
+    {
+      "slug": "madrecan-211-dgv",
+      "name": "madrecan 21/1 DGV",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 21,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "luana-181-dgv",
+      "name": "Luana 18/1 DGV",
+      "brandName": "Cannamedical",
+      "thcPercent": 18,
+      "priceMin": 399,
+      "inStock": true
+    },
+    {
+      "slug": "cannabis-flos-161-cl-ku",
+      "name": "Canify Cannabis flos 16/1 CL Ku.",
+      "brandName": "Canify",
+      "thcPercent": 16,
+      "priceMin": 449,
+      "inStock": true
+    },
+    {
+      "slug": "aurora-typ-1",
+      "name": "Aurora Typ 1",
+      "brandName": "Aurora",
+      "thcPercent": 19,
+      "priceMin": 479,
+      "inStock": true
+    },
+    {
+      "slug": "pedanios-22-1",
+      "name": "Pedanios 22/1",
+      "brandName": "Aurora",
+      "thcPercent": 22,
+      "priceMin": 629,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "madrecan 24/1 DGV Minis - Remexian Pharma | ab 4,99 €",
+      "description": "madrecan 24/1 DGV Minis von Remexian Pharma. THC: 24%, CBD: 1%. Sorte: Dougs Varin. Preis ab 4,99 €. Preise vergleichen.",
+      "canonical": "https://weed.de/product/madrecan-241-dgv-minis",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "madrecan 24/1 DGV Minis - Remexian Pharma | ab 4,99 €",
+        "description": "madrecan 24/1 DGV Minis von Remexian Pharma. THC: 24%, CBD: 1%. Sorte: Dougs Varin. Preis ab 4,99 €. Preise vergleichen.",
+        "url": "https://weed.de/product/madrecan-241-dgv-minis",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Remexian Pharma",
+        "href": "https://weed.de/brand/remexian-pharma"
+      },
+      {
+        "name": "madrecan 24/1 DGV Minis",
+        "href": "https://weed.de/product/madrecan-241-dgv-minis"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "madrecan 24/1 DGV Minis",
+            "item": "https://weed.de/product/madrecan-241-dgv-minis"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "madrecan 24/1 DGV Minis",
+        "brand": {
+          "@type": "Brand",
+          "name": "Remexian Pharma"
+        },
+        "description": "THC: 24%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/dougs-varin",
+      "text": "Dougs Varin",
+      "title": "Dougs Varin Sorte"
+    },
+    "brand": {
+      "href": "/brand/remexian-pharma",
+      "text": "Remexian Pharma",
+      "title": "Alle Remexian Pharma Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/madrecan-241-dgv",
+        "text": "madrecan 24/1 DGV",
+        "title": "Alternative: madrecan 24/1 DGV"
+      },
+      {
+        "href": "/product/madrecan-211-dgv",
+        "text": "madrecan 21/1 DGV",
+        "title": "Alternative: madrecan 21/1 DGV"
+      },
+      {
+        "href": "/product/luana-181-dgv",
+        "text": "Luana 18/1 DGV",
+        "title": "Alternative: Luana 18/1 DGV"
+      },
+      {
+        "href": "/product/cannabis-flos-161-cl-ku",
+        "text": "Canify Cannabis flos 16/1 CL Ku.",
+        "title": "Alternative: Canify Cannabis flos 16/1 CL Ku."
+      },
+      {
+        "href": "/product/aurora-typ-1",
+        "text": "Aurora Typ 1",
+        "title": "Alternative: Aurora Typ 1"
+      },
+      {
+        "href": "/product/pedanios-22-1",
+        "text": "Pedanios 22/1",
+        "title": "Alternative: Pedanios 22/1"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has price data"
+  }
+}

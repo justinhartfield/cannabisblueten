@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "goetzsche-apotheke",
+    "name": "Oberschwaben Cannabis Goetzsche Apotheke",
+    "street": "Sigmaringer Straße 8",
+    "zip": "88356",
+    "cityName": "Ostrach",
+    "state": "Baden-Württemberg",
+    "lat": 47.9547912,
+    "lng": 9.3810057,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": null,
+    "phone": "07585615",
+    "email": "cannabis@goetzsche-apotheke.de",
+    "productCount": 24,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/678521e503d18a5ef3b0617b-5g1a1c.jpg"
+  },
+  "city": {
+    "slug": "ostrach",
+    "name": "Ostrach",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "florians-vital-apotheke",
+      "name": "Florians Vital Apotheke",
+      "cityName": "Esslingen am Neckar",
+      "productCount": 248,
+      "hasDelivery": true
+    },
+    {
+      "slug": "central-apotheke",
+      "name": "Cannabis-Champion",
+      "cityName": "Waiblingen",
+      "productCount": 240,
+      "hasDelivery": true
+    },
+    {
+      "slug": "karlchengras",
+      "name": "Karlchengras (Karl-Apotheke)",
+      "cityName": "Karlsruhe",
+      "productCount": 188,
+      "hasDelivery": true
+    },
+    {
+      "slug": "idris-apotheke-oder-3leafs",
+      "name": "Idris Apotheke | 3Leafs",
+      "cityName": "Weinheim",
+      "productCount": 149,
+      "hasDelivery": true
+    },
+    {
+      "slug": "schwarzwald-vital-apotheke",
+      "name": "Schwarzwald Vital Apotheke",
+      "cityName": "Gaggenau",
+      "productCount": 133,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Oberschwaben Cannabis Goetzsche Apotheke - Cannabis Apotheke in Ostrach",
+      "description": "Oberschwaben Cannabis Goetzsche Apotheke in Ostrach. 24 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/goetzsche-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Oberschwaben Cannabis Goetzsche Apotheke - Cannabis Apotheke in Ostrach",
+        "description": "Oberschwaben Cannabis Goetzsche Apotheke in Ostrach. 24 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/goetzsche-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/678521e503d18a5ef3b0617b-5g1a1c.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Ostrach",
+        "href": "https://weed.de/cannabis-apotheke/ostrach"
+      },
+      {
+        "name": "Oberschwaben Cannabis Goetzsche Apotheke",
+        "href": "https://weed.de/apotheke/goetzsche-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Ostrach",
+            "item": "https://weed.de/cannabis-apotheke/ostrach"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Oberschwaben Cannabis Goetzsche Apotheke",
+            "item": "https://weed.de/apotheke/goetzsche-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Oberschwaben Cannabis Goetzsche Apotheke",
+        "url": "https://weed.de/apotheke/goetzsche-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Sigmaringer Straße 8",
+          "addressLocality": "Ostrach",
+          "postalCode": "88356",
+          "addressRegion": "Baden-Württemberg",
+          "addressCountry": "DE"
+        },
+        "telephone": "07585615",
+        "email": "cannabis@goetzsche-apotheke.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/ostrach",
+      "text": "Cannabis Apotheken in Ostrach",
+      "title": "Alle Apotheken in Ostrach"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/florians-vital-apotheke",
+        "text": "Florians Vital Apotheke",
+        "title": "Florians Vital Apotheke in Esslingen am Neckar"
+      },
+      {
+        "href": "/apotheke/central-apotheke",
+        "text": "Cannabis-Champion",
+        "title": "Cannabis-Champion in Waiblingen"
+      },
+      {
+        "href": "/apotheke/karlchengras",
+        "text": "Karlchengras (Karl-Apotheke)",
+        "title": "Karlchengras (Karl-Apotheke) in Karlsruhe"
+      },
+      {
+        "href": "/apotheke/idris-apotheke-oder-3leafs",
+        "text": "Idris Apotheke | 3Leafs",
+        "title": "Idris Apotheke | 3Leafs in Weinheim"
+      },
+      {
+        "href": "/apotheke/schwarzwald-vital-apotheke",
+        "text": "Schwarzwald Vital Apotheke",
+        "title": "Schwarzwald Vital Apotheke in Gaggenau"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

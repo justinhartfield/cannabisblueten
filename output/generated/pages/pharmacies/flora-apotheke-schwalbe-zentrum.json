@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "flora-apotheke-schwalbe-zentrum",
+    "name": "Flora-Apotheke Schwalbe-Zentrum",
+    "street": "Uhlandstraße 1",
+    "zip": "08412",
+    "cityName": "Werdau",
+    "state": "Sachsen",
+    "lat": 50.7345489,
+    "lng": 12.3779127,
+    "hasDelivery": false,
+    "hasPickup": true,
+    "hasPrices": false,
+    "website": null,
+    "phone": "03761888000",
+    "email": "schwalbe@flora-apotheke.de",
+    "productCount": 0,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/67c071caa673edc8d983c224-f2f8fh.jpg"
+  },
+  "city": {
+    "slug": "werdau",
+    "name": "Werdau",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "gruenhorn-apotheke",
+      "name": "GRÜNHORN - Apotheke im P. C.",
+      "cityName": "Leipzig",
+      "productCount": 168,
+      "hasDelivery": true
+    },
+    {
+      "slug": "mycannea-oder-schloss-apotheke",
+      "name": "myCannea | Schloß APOTHEKE",
+      "cityName": "Zwickau",
+      "productCount": 65,
+      "hasDelivery": true
+    },
+    {
+      "slug": "gruene-bluete",
+      "name": "Grüne Blüte",
+      "cityName": "Markkleeberg",
+      "productCount": 60,
+      "hasDelivery": true
+    },
+    {
+      "slug": "merkur-apotheke-schneeberg",
+      "name": "ErzCannabis - Merkur Apotheke Schneeberg",
+      "cityName": "Schneeberg",
+      "productCount": 50,
+      "hasDelivery": true
+    },
+    {
+      "slug": "medicalherbs-vital-apotheke-dresden",
+      "name": "medicalherbs.de - Vital Apotheke Dresden",
+      "cityName": "Dresden",
+      "productCount": 40,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Flora-Apotheke Schwalbe-Zentrum - Cannabis Apotheke in Werdau",
+      "description": "Flora-Apotheke Schwalbe-Zentrum in Werdau. Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/flora-apotheke-schwalbe-zentrum",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Flora-Apotheke Schwalbe-Zentrum - Cannabis Apotheke in Werdau",
+        "description": "Flora-Apotheke Schwalbe-Zentrum in Werdau. Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/flora-apotheke-schwalbe-zentrum",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/67c071caa673edc8d983c224-f2f8fh.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Werdau",
+        "href": "https://weed.de/cannabis-apotheke/werdau"
+      },
+      {
+        "name": "Flora-Apotheke Schwalbe-Zentrum",
+        "href": "https://weed.de/apotheke/flora-apotheke-schwalbe-zentrum"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Werdau",
+            "item": "https://weed.de/cannabis-apotheke/werdau"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Flora-Apotheke Schwalbe-Zentrum",
+            "item": "https://weed.de/apotheke/flora-apotheke-schwalbe-zentrum"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Flora-Apotheke Schwalbe-Zentrum",
+        "url": "https://weed.de/apotheke/flora-apotheke-schwalbe-zentrum",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Uhlandstraße 1",
+          "addressLocality": "Werdau",
+          "postalCode": "08412",
+          "addressRegion": "Sachsen",
+          "addressCountry": "DE"
+        },
+        "telephone": "03761888000",
+        "email": "schwalbe@flora-apotheke.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/werdau",
+      "text": "Cannabis Apotheken in Werdau",
+      "title": "Alle Apotheken in Werdau"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/gruenhorn-apotheke",
+        "text": "GRÜNHORN - Apotheke im P. C.",
+        "title": "GRÜNHORN - Apotheke im P. C. in Leipzig"
+      },
+      {
+        "href": "/apotheke/mycannea-oder-schloss-apotheke",
+        "text": "myCannea | Schloß APOTHEKE",
+        "title": "myCannea | Schloß APOTHEKE in Zwickau"
+      },
+      {
+        "href": "/apotheke/gruene-bluete",
+        "text": "Grüne Blüte",
+        "title": "Grüne Blüte in Markkleeberg"
+      },
+      {
+        "href": "/apotheke/merkur-apotheke-schneeberg",
+        "text": "ErzCannabis - Merkur Apotheke Schneeberg",
+        "title": "ErzCannabis - Merkur Apotheke Schneeberg in Schneeberg"
+      },
+      {
+        "href": "/apotheke/medicalherbs-vital-apotheke-dresden",
+        "text": "medicalherbs.de - Vital Apotheke Dresden",
+        "title": "medicalherbs.de - Vital Apotheke Dresden in Dresden"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has services"
+  }
+}

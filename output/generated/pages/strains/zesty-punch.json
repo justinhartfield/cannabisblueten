@@ -1,0 +1,216 @@
+{
+  "strain": {
+    "slug": "zesty-punch",
+    "name": "Zesty Punch",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [
+      "Euphoric",
+      "Creative",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Sweet",
+      "Fruity",
+      "Herbal"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Pinene",
+      "Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 349,
+      "max": 349,
+      "formatted": {
+        "min": "3,49 €",
+        "max": "3,49 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "bava-med-211-zesty-punch",
+      "name": "Bava Med 21/1 Zesty Punch",
+      "brandName": "bava medical",
+      "thcPercent": 21,
+      "priceMin": 349,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "grape-mac",
+      "name": "Grape MAC",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "octagon-kush",
+      "name": "Octagon Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "gelato-44",
+      "name": "Gelato 44",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "auto-mac-1",
+      "name": "Auto Mac #1",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "miracle-mints",
+      "name": "Miracle Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Zesty Punch (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Zesty Punch: Euphoric, Creative, Relaxed. 1 Produkte verfügbar. ab 3,49 €.",
+      "canonical": "https://weed.de/strain/zesty-punch",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Zesty Punch (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Zesty Punch: Euphoric, Creative, Relaxed. 1 Produkte verfügbar. ab 3,49 €.",
+        "url": "https://weed.de/strain/zesty-punch",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Zesty Punch",
+        "href": "https://weed.de/strain/zesty-punch"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Zesty Punch",
+            "item": "https://weed.de/strain/zesty-punch"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Zesty Punch Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/bava-med-211-zesty-punch",
+            "name": "Bava Med 21/1 Zesty Punch"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/bava-med-211-zesty-punch",
+        "text": "Bava Med 21/1 Zesty Punch",
+        "title": "Bava Med 21/1 Zesty Punch von bava medical"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/grape-mac",
+        "text": "Grape MAC",
+        "title": "Grape MAC - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/octagon-kush",
+        "text": "Octagon Kush",
+        "title": "Octagon Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/gelato-44",
+        "text": "Gelato 44",
+        "title": "Gelato 44 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/auto-mac-1",
+        "text": "Auto Mac #1",
+        "title": "Auto Mac #1 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/miracle-mints",
+        "text": "Miracle Mints",
+        "title": "Miracle Mints - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/pinene",
+        "text": "Pinene",
+        "title": "Pinene Terpen"
+      },
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

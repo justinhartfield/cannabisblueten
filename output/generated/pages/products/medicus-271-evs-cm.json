@@ -1,0 +1,223 @@
+{
+  "product": {
+    "slug": "medicus-271-evs-cm",
+    "name": "Medicus 27/1 EVS CM",
+    "type": "flower",
+    "genetics": "hybrid_sativa",
+    "thcPercent": 27,
+    "cbdPercent": 1,
+    "priceMin": 759,
+    "priceMax": 759,
+    "inStock": false,
+    "pzn": [],
+    "originCountry": "Israel",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "cantourage",
+    "name": "Cantourage",
+    "productCount": 248
+  },
+  "strain": {
+    "slug": "cereal-milk",
+    "name": "Cereal Milk",
+    "geneticType": "hybrid",
+    "effects": [
+      "Euphoric",
+      "Calming"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Beta-Caryophyllene",
+      "Humulene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Euphoric",
+      "Calming"
+    ],
+    "tastes": [
+      "Vanilla",
+      "Citrus",
+      "Sweet"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Beta-Caryophyllene",
+      "Humulene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "amp-classic-251",
+      "name": "AMP Classic 25/1",
+      "brandName": "AMP",
+      "thcPercent": 25,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-core-echo-271",
+      "name": "Demecan Core Echo 27:01",
+      "brandName": "Demecan",
+      "thcPercent": 27,
+      "priceMin": 519,
+      "inStock": true
+    },
+    {
+      "slug": "weeco-231",
+      "name": "Weeco 23/1",
+      "brandName": "Weeco",
+      "thcPercent": 23,
+      "priceMin": 599,
+      "inStock": true
+    },
+    {
+      "slug": "420-evolution-271-ca-str",
+      "name": "420 Evolution 27/1 CA STR",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 27,
+      "priceMin": 645,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-221-florestura",
+      "name": "DEMECAN Florestura 22:01",
+      "brandName": "Deutsche Medizinalcannabis",
+      "thcPercent": 22,
+      "priceMin": 679,
+      "inStock": true
+    },
+    {
+      "slug": "avaay-231-rg",
+      "name": "AVAAY 23/1 RG",
+      "brandName": "Avaay",
+      "thcPercent": 23.7,
+      "priceMin": 689,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Medicus 27/1 EVS CM - Cantourage | ab 7,59 €",
+      "description": "Medicus 27/1 EVS CM von Cantourage. THC: 27%, CBD: 1%. Sorte: Cereal Milk. Preis ab 7,59 €. Preise vergleichen.",
+      "canonical": "https://weed.de/product/medicus-271-evs-cm",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Medicus 27/1 EVS CM - Cantourage | ab 7,59 €",
+        "description": "Medicus 27/1 EVS CM von Cantourage. THC: 27%, CBD: 1%. Sorte: Cereal Milk. Preis ab 7,59 €. Preise vergleichen.",
+        "url": "https://weed.de/product/medicus-271-evs-cm",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Cantourage",
+        "href": "https://weed.de/brand/cantourage"
+      },
+      {
+        "name": "Medicus 27/1 EVS CM",
+        "href": "https://weed.de/product/medicus-271-evs-cm"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Medicus 27/1 EVS CM",
+            "item": "https://weed.de/product/medicus-271-evs-cm"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Medicus 27/1 EVS CM",
+        "brand": {
+          "@type": "Brand",
+          "name": "Cantourage"
+        },
+        "gtin13": [],
+        "description": "THC: 27%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/cereal-milk",
+      "text": "Cereal Milk",
+      "title": "Cereal Milk Sorte"
+    },
+    "brand": {
+      "href": "/brand/cantourage",
+      "text": "Cantourage",
+      "title": "Alle Cantourage Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/amp-classic-251",
+        "text": "AMP Classic 25/1",
+        "title": "Alternative: AMP Classic 25/1"
+      },
+      {
+        "href": "/product/demecan-core-echo-271",
+        "text": "Demecan Core Echo 27:01",
+        "title": "Alternative: Demecan Core Echo 27:01"
+      },
+      {
+        "href": "/product/weeco-231",
+        "text": "Weeco 23/1",
+        "title": "Alternative: Weeco 23/1"
+      },
+      {
+        "href": "/product/420-evolution-271-ca-str",
+        "text": "420 Evolution 27/1 CA STR",
+        "title": "Alternative: 420 Evolution 27/1 CA STR"
+      },
+      {
+        "href": "/product/demecan-221-florestura",
+        "text": "DEMECAN Florestura 22:01",
+        "title": "Alternative: DEMECAN Florestura 22:01"
+      },
+      {
+        "href": "/product/avaay-231-rg",
+        "text": "AVAAY 23/1 RG",
+        "title": "Alternative: AVAAY 23/1 RG"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has price data"
+  }
+}

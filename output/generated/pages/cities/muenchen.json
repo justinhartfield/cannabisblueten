@@ -1,0 +1,397 @@
+{
+  "city": {
+    "slug": "muenchen",
+    "name": "München",
+    "state": "Bayern"
+  },
+  "stats": {
+    "pharmacyCount": 12,
+    "totalProducts": 315,
+    "hasDelivery": true
+  },
+  "pharmacies": [
+    {
+      "slug": "apotheke-forum-schwanthalerhoehe",
+      "name": "Apotheke Forum Schwanthalerhöhe",
+      "street": "Schwanthalerstraße 111",
+      "zip": "80339",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 70,
+      "rating": 5,
+      "ratingCount": 1
+    },
+    {
+      "slug": "oberlaender-apotheke",
+      "name": "Oberländer Apotheke",
+      "street": "Daiserstraße 27",
+      "zip": "81371",
+      "hasDelivery": false,
+      "hasPickup": true,
+      "productCount": 46,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "fox2",
+      "name": "Fox20",
+      "street": "München, Deutschland",
+      "zip": "",
+      "hasDelivery": false,
+      "hasPickup": true,
+      "productCount": 46,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "stachus-apotheke",
+      "name": "Stachus-Apotheke",
+      "street": "Karlsplatz 4",
+      "zip": "80335",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 38,
+      "rating": 5,
+      "ratingCount": 1
+    },
+    {
+      "slug": "medicus-apotheke",
+      "name": "Cannamedicus",
+      "street": "Sendlinger Straße 41",
+      "zip": "80331",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 30,
+      "rating": 5,
+      "ratingCount": 1
+    },
+    {
+      "slug": "kranich-apotheke-am-rotkreuzplatz",
+      "name": "Kranich Apotheke am Rotkreuzplatz",
+      "street": "Wendl-Dietrich-Straße 2",
+      "zip": "80634",
+      "hasDelivery": false,
+      "hasPickup": true,
+      "productCount": 28,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "helios-cannabis",
+      "name": "Helios Cannabis",
+      "street": "Brienner Str. 49",
+      "zip": "80333",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 26,
+      "rating": 4.4,
+      "ratingCount": 7
+    },
+    {
+      "slug": "internationale-hauptbahnhof-apotheke",
+      "name": "Hanfbahnhof",
+      "street": "Bayerstraße 27",
+      "zip": "80335",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 17,
+      "rating": 3,
+      "ratingCount": 2
+    },
+    {
+      "slug": "st-ursula-apotheke-1",
+      "name": "St. Ursula Apotheke",
+      "street": "Münchner Freiheit 8",
+      "zip": "80802",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 7,
+      "rating": 1,
+      "ratingCount": 1
+    },
+    {
+      "slug": "dr-beckers-central-apotheke-1",
+      "name": "Dr. Beckers Central Apotheke",
+      "street": "Karlsplatz 11",
+      "zip": "80335",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 7,
+      "rating": 5,
+      "ratingCount": 1
+    },
+    {
+      "slug": "blueten-apotheke",
+      "name": "Blüten-apotheke",
+      "street": "München, Deutschland",
+      "zip": "",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 0,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "slug": "klosterapotheke-muenchen",
+      "name": "Klosterapotheke München",
+      "street": "Max-Planck-Straße 12",
+      "zip": "81675",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 0,
+      "rating": 0,
+      "ratingCount": 0
+    }
+  ],
+  "nearbyCities": [
+    {
+      "slug": "nuernberg",
+      "name": "Nürnberg",
+      "pharmacyCount": 7
+    },
+    {
+      "slug": "augsburg",
+      "name": "Augsburg",
+      "pharmacyCount": 6
+    },
+    {
+      "slug": "landshut",
+      "name": "Landshut",
+      "pharmacyCount": 3
+    },
+    {
+      "slug": "erlangen",
+      "name": "Erlangen",
+      "pharmacyCount": 2
+    },
+    {
+      "slug": "ansbach",
+      "name": "Ansbach",
+      "pharmacyCount": 2
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannabis Apotheke München - 12 Apotheken",
+      "description": "Cannabis Apotheken in München. 12 Apotheken mit 315 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+      "canonical": "https://weed.de/cannabis-apotheke/muenchen",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannabis Apotheke München - 12 Apotheken",
+        "description": "Cannabis Apotheken in München. 12 Apotheken mit 315 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+        "url": "https://weed.de/cannabis-apotheke/muenchen",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "München",
+        "href": "https://weed.de/cannabis-apotheke/muenchen"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "München",
+            "item": "https://weed.de/cannabis-apotheke/muenchen"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Cannabis Apotheken in München",
+        "numberOfItems": 12,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/apotheke/apotheke-forum-schwanthalerhoehe",
+            "name": "Apotheke Forum Schwanthalerhöhe"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/apotheke/oberlaender-apotheke",
+            "name": "Oberländer Apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/apotheke/fox2",
+            "name": "Fox20"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/apotheke/stachus-apotheke",
+            "name": "Stachus-Apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "https://weed.de/apotheke/medicus-apotheke",
+            "name": "Cannamedicus"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "url": "https://weed.de/apotheke/kranich-apotheke-am-rotkreuzplatz",
+            "name": "Kranich Apotheke am Rotkreuzplatz"
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "url": "https://weed.de/apotheke/helios-cannabis",
+            "name": "Helios Cannabis"
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "url": "https://weed.de/apotheke/internationale-hauptbahnhof-apotheke",
+            "name": "Hanfbahnhof"
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "url": "https://weed.de/apotheke/st-ursula-apotheke-1",
+            "name": "St. Ursula Apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 10,
+            "url": "https://weed.de/apotheke/dr-beckers-central-apotheke-1",
+            "name": "Dr. Beckers Central Apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 11,
+            "url": "https://weed.de/apotheke/blueten-apotheke",
+            "name": "Blüten-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 12,
+            "url": "https://weed.de/apotheke/klosterapotheke-muenchen",
+            "name": "Klosterapotheke München"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "pharmacies": [
+      {
+        "href": "/apotheke/apotheke-forum-schwanthalerhoehe",
+        "text": "Apotheke Forum Schwanthalerhöhe",
+        "title": "Apotheke Forum Schwanthalerhöhe in München"
+      },
+      {
+        "href": "/apotheke/oberlaender-apotheke",
+        "text": "Oberländer Apotheke",
+        "title": "Oberländer Apotheke in München"
+      },
+      {
+        "href": "/apotheke/fox2",
+        "text": "Fox20",
+        "title": "Fox20 in München"
+      },
+      {
+        "href": "/apotheke/stachus-apotheke",
+        "text": "Stachus-Apotheke",
+        "title": "Stachus-Apotheke in München"
+      },
+      {
+        "href": "/apotheke/medicus-apotheke",
+        "text": "Cannamedicus",
+        "title": "Cannamedicus in München"
+      },
+      {
+        "href": "/apotheke/kranich-apotheke-am-rotkreuzplatz",
+        "text": "Kranich Apotheke am Rotkreuzplatz",
+        "title": "Kranich Apotheke am Rotkreuzplatz in München"
+      },
+      {
+        "href": "/apotheke/helios-cannabis",
+        "text": "Helios Cannabis",
+        "title": "Helios Cannabis in München"
+      },
+      {
+        "href": "/apotheke/internationale-hauptbahnhof-apotheke",
+        "text": "Hanfbahnhof",
+        "title": "Hanfbahnhof in München"
+      },
+      {
+        "href": "/apotheke/st-ursula-apotheke-1",
+        "text": "St. Ursula Apotheke",
+        "title": "St. Ursula Apotheke in München"
+      },
+      {
+        "href": "/apotheke/dr-beckers-central-apotheke-1",
+        "text": "Dr. Beckers Central Apotheke",
+        "title": "Dr. Beckers Central Apotheke in München"
+      }
+    ],
+    "nearbyCities": [
+      {
+        "href": "/cannabis-apotheke/nuernberg",
+        "text": "Cannabis Apotheke Nürnberg",
+        "title": "7 Apotheken in Nürnberg"
+      },
+      {
+        "href": "/cannabis-apotheke/augsburg",
+        "text": "Cannabis Apotheke Augsburg",
+        "title": "6 Apotheken in Augsburg"
+      },
+      {
+        "href": "/cannabis-apotheke/landshut",
+        "text": "Cannabis Apotheke Landshut",
+        "title": "3 Apotheken in Landshut"
+      },
+      {
+        "href": "/cannabis-apotheke/erlangen",
+        "text": "Cannabis Apotheke Erlangen",
+        "title": "2 Apotheken in Erlangen"
+      },
+      {
+        "href": "/cannabis-apotheke/ansbach",
+        "text": "Cannabis Apotheke Ansbach",
+        "title": "2 Apotheken in Ansbach"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has 12 pharmacies"
+  }
+}

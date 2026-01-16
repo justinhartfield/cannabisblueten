@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "abtei-apotheke",
+    "name": "Abtei Apotheke",
+    "street": "Lindenstraße 73",
+    "zip": "66787",
+    "cityName": "Wadgassen",
+    "state": "Saarland",
+    "lat": 49.2674512,
+    "lng": 6.7986048,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": false,
+    "website": "https://www.augustagreen-wadgassen.de",
+    "phone": "0683494130",
+    "email": "bestellung@augustagreen-wadgassen.de",
+    "productCount": 0,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/6968b769f3b79c5923bafd73-i3ide5.jpg"
+  },
+  "city": {
+    "slug": "wadgassen",
+    "name": "Wadgassen",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "markus-apotheke-saarbruecken",
+      "name": "Markus Apotheke Saarbrücken",
+      "cityName": "Saarbrücken",
+      "productCount": 102,
+      "hasDelivery": false
+    },
+    {
+      "slug": "cannablies-rats-apotheke",
+      "name": "Cannablies / Rats-Apotheke",
+      "cityName": "Blieskastel",
+      "productCount": 90,
+      "hasDelivery": true
+    },
+    {
+      "slug": "stadt-apotheke-saarbruecken",
+      "name": "Cannatopie.de by Stadt Apotheke Saarbrücken",
+      "cityName": "Saarbrücken",
+      "productCount": 54,
+      "hasDelivery": true
+    },
+    {
+      "slug": "landmann-apotheke-oliver-blank-saarbruecken",
+      "name": "Landmann Apotheke Oliver Blank Saarbrücken",
+      "cityName": "Saarbrücken",
+      "productCount": 19,
+      "hasDelivery": false
+    },
+    {
+      "slug": "apotheke-am-bitscher-platz",
+      "name": "Apotheke am Bitscher Platz",
+      "cityName": "Lebach",
+      "productCount": 0,
+      "hasDelivery": false
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Abtei Apotheke - Cannabis Apotheke in Wadgassen",
+      "description": "Abtei Apotheke in Wadgassen. Lieferung & Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/abtei-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Abtei Apotheke - Cannabis Apotheke in Wadgassen",
+        "description": "Abtei Apotheke in Wadgassen. Lieferung & Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/abtei-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/6968b769f3b79c5923bafd73-i3ide5.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Wadgassen",
+        "href": "https://weed.de/cannabis-apotheke/wadgassen"
+      },
+      {
+        "name": "Abtei Apotheke",
+        "href": "https://weed.de/apotheke/abtei-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Wadgassen",
+            "item": "https://weed.de/cannabis-apotheke/wadgassen"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Abtei Apotheke",
+            "item": "https://weed.de/apotheke/abtei-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Abtei Apotheke",
+        "url": "https://weed.de/apotheke/abtei-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Lindenstraße 73",
+          "addressLocality": "Wadgassen",
+          "postalCode": "66787",
+          "addressRegion": "Saarland",
+          "addressCountry": "DE"
+        },
+        "telephone": "0683494130",
+        "email": "bestellung@augustagreen-wadgassen.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/wadgassen",
+      "text": "Cannabis Apotheken in Wadgassen",
+      "title": "Alle Apotheken in Wadgassen"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/markus-apotheke-saarbruecken",
+        "text": "Markus Apotheke Saarbrücken",
+        "title": "Markus Apotheke Saarbrücken in Saarbrücken"
+      },
+      {
+        "href": "/apotheke/cannablies-rats-apotheke",
+        "text": "Cannablies / Rats-Apotheke",
+        "title": "Cannablies / Rats-Apotheke in Blieskastel"
+      },
+      {
+        "href": "/apotheke/stadt-apotheke-saarbruecken",
+        "text": "Cannatopie.de by Stadt Apotheke Saarbrücken",
+        "title": "Cannatopie.de by Stadt Apotheke Saarbrücken in Saarbrücken"
+      },
+      {
+        "href": "/apotheke/landmann-apotheke-oliver-blank-saarbruecken",
+        "text": "Landmann Apotheke Oliver Blank Saarbrücken",
+        "title": "Landmann Apotheke Oliver Blank Saarbrücken in Saarbrücken"
+      },
+      {
+        "href": "/apotheke/apotheke-am-bitscher-platz",
+        "text": "Apotheke am Bitscher Platz",
+        "title": "Apotheke am Bitscher Platz in Lebach"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has services"
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "strain": {
+    "slug": "midnight",
+    "name": "Midnight",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 8,
+      "max": 12
+    },
+    "effects": [
+      "Focused",
+      "Uplifted",
+      "Energetic"
+    ],
+    "tastes": [
+      "Lavender",
+      "Rose",
+      "Sage"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Linalool"
+    ],
+    "description": "Midnight ist ein ausgeglichener Hybrid-Strain, dessen Herkunft nicht genau geklärt ist. Besonders bei Midnight ist der CBD-Anteil von bis zu 12%, der den THC-Gehalt, der im Schnitt zwischen 7% und 10% liegt, immer ein wenig überwiegt. Die dominierenden Terpene dieses Strains sind Myrcen, Limonen und Linalool. Geschmacklich erinnert die Sorte an Lavendel, Rosen und Salbei. Laut Nutzern sorgt Midnight für eine fokussierende, energetische und aufhellende Wirkung. Aufgrund des höheren CBD-Anteils ist außerdem davon auszugehen, dass die psychotropische Wirkung bei diesem Strain geringer ausfällt als bei anderen Sorten. Die Blüten sehen bis auf die hellen Trichom Köpfe, die Midnight ausbildet, eher dunkel aus. Zum einen liegt das an dem tiefen Grün, aber auch an den braunen Härchen, mit denen die Blüte überzogen ist.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 773,
+      "max": 1400,
+      "formatted": {
+        "min": "7,73 €",
+        "max": "14,00 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "re-cannis-9,510,5",
+      "name": "Re Cannis 9,5/10,5",
+      "brandName": "Fette Pharma GmbH",
+      "thcPercent": 9,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "tikun-midnight-114",
+      "name": "Tikun Midnight 10/14",
+      "brandName": "Dopiopharm",
+      "thcPercent": 11.3,
+      "priceMin": 773,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "cold-creek-kush",
+      "name": "Cold Creek Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "skull-cap",
+      "name": "Skull cap",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "legendary-larry",
+      "name": "Legendary Larry",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "banana-sorbet",
+      "name": "Banana Sorbet",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "jet-fuel-gelato",
+      "name": "Jet Fuel Gelato",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Midnight (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Midnight: Focused, Uplifted, Energetic. 2 Produkte verfügbar. ab 7,73 €.",
+      "canonical": "https://weed.de/strain/midnight",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Midnight (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Midnight: Focused, Uplifted, Energetic. 2 Produkte verfügbar. ab 7,73 €.",
+        "url": "https://weed.de/strain/midnight",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Midnight",
+        "href": "https://weed.de/strain/midnight"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Midnight",
+            "item": "https://weed.de/strain/midnight"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Midnight Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/re-cannis-9,510,5",
+            "name": "Re Cannis 9,5/10,5"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/tikun-midnight-114",
+            "name": "Tikun Midnight 10/14"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/re-cannis-9,510,5",
+        "text": "Re Cannis 9,5/10,5",
+        "title": "Re Cannis 9,5/10,5 von Fette Pharma GmbH"
+      },
+      {
+        "href": "/product/tikun-midnight-114",
+        "text": "Tikun Midnight 10/14",
+        "title": "Tikun Midnight 10/14 von Dopiopharm"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/cold-creek-kush",
+        "text": "Cold Creek Kush",
+        "title": "Cold Creek Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/skull-cap",
+        "text": "Skull cap",
+        "title": "Skull cap - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/legendary-larry",
+        "text": "Legendary Larry",
+        "title": "Legendary Larry - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/banana-sorbet",
+        "text": "Banana Sorbet",
+        "title": "Banana Sorbet - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/jet-fuel-gelato",
+        "text": "Jet Fuel Gelato",
+        "title": "Jet Fuel Gelato - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

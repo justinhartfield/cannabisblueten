@@ -1,0 +1,225 @@
+{
+  "product": {
+    "slug": "grow-1015",
+    "name": "Grow 10:15",
+    "type": "extract",
+    "genetics": "hybrid",
+    "thcPercent": 1,
+    "cbdPercent": 1.5,
+    "priceMin": 485,
+    "priceMax": 540,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "grow-group",
+    "name": "Grow group",
+    "productCount": 12
+  },
+  "strain": {
+    "slug": "shiskaberry",
+    "name": "Shiskaberry",
+    "geneticType": "hybrid",
+    "effects": [
+      "Happy",
+      "Body-buzz",
+      "Relaxed",
+      "Calming"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Caryophyllene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Happy",
+      "Body-buzz",
+      "Relaxed",
+      "Calming"
+    ],
+    "tastes": [
+      "Earthy",
+      "Pungent",
+      "Berry",
+      "Spicy-Herbal"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Caryophyllene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "tilray-thc-25-spotlight-porto-purps",
+      "name": "Tilray THC 25 Spotlight Porto Purps",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": 349,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc1cbd1",
+      "name": "Tilray Cannabisextrakt THC10:CBD10",
+      "brandName": "Tilray",
+      "thcPercent": 10,
+      "priceMin": 400,
+      "inStock": true
+    },
+    {
+      "slug": "sibanax-shb-261",
+      "name": "Sibanax SHB 26/1",
+      "brandName": "Heyday",
+      "thcPercent": 26,
+      "priceMin": 469,
+      "inStock": true
+    },
+    {
+      "slug": "grow-251-can",
+      "name": "GROW 25:1 CAN",
+      "brandName": "Grow group",
+      "thcPercent": 2.5,
+      "priceMin": 475,
+      "inStock": true
+    },
+    {
+      "slug": "grow-125-can",
+      "name": "GROW 1:25 CAN",
+      "brandName": "Grow group",
+      "thcPercent": 0.1,
+      "priceMin": 485,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-2",
+      "name": "Demecan Typ 2",
+      "brandName": "Demecan",
+      "thcPercent": 16,
+      "priceMin": 533,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Grow 10:15 - Grow group | ab 4,85 €",
+      "description": "Grow 10:15 von Grow group. THC: 1%, CBD: 1.5%. Sorte: Shiskaberry. Preis ab 4,85 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/grow-1015",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Grow 10:15 - Grow group | ab 4,85 €",
+        "description": "Grow 10:15 von Grow group. THC: 1%, CBD: 1.5%. Sorte: Shiskaberry. Preis ab 4,85 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/grow-1015",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Grow group",
+        "href": "https://weed.de/brand/grow-group"
+      },
+      {
+        "name": "Grow 10:15",
+        "href": "https://weed.de/product/grow-1015"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Grow 10:15",
+            "item": "https://weed.de/product/grow-1015"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Grow 10:15",
+        "brand": {
+          "@type": "Brand",
+          "name": "Grow group"
+        },
+        "description": "THC: 1%, CBD: 1.5%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/shiskaberry",
+      "text": "Shiskaberry",
+      "title": "Shiskaberry Sorte"
+    },
+    "brand": {
+      "href": "/brand/grow-group",
+      "text": "Grow group",
+      "title": "Alle Grow group Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/tilray-thc-25-spotlight-porto-purps",
+        "text": "Tilray THC 25 Spotlight Porto Purps",
+        "title": "Alternative: Tilray THC 25 Spotlight Porto Purps"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc1cbd1",
+        "text": "Tilray Cannabisextrakt THC10:CBD10",
+        "title": "Alternative: Tilray Cannabisextrakt THC10:CBD10"
+      },
+      {
+        "href": "/product/sibanax-shb-261",
+        "text": "Sibanax SHB 26/1",
+        "title": "Alternative: Sibanax SHB 26/1"
+      },
+      {
+        "href": "/product/grow-251-can",
+        "text": "GROW 25:1 CAN",
+        "title": "Alternative: GROW 25:1 CAN"
+      },
+      {
+        "href": "/product/grow-125-can",
+        "text": "GROW 1:25 CAN",
+        "title": "Alternative: GROW 1:25 CAN"
+      },
+      {
+        "href": "/product/demecan-typ-2",
+        "text": "Demecan Typ 2",
+        "title": "Alternative: Demecan Typ 2"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

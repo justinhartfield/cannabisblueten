@@ -1,0 +1,165 @@
+{
+  "city": {
+    "slug": "zwickau",
+    "name": "Zwickau",
+    "state": "Sachsen"
+  },
+  "stats": {
+    "pharmacyCount": 1,
+    "totalProducts": 65,
+    "hasDelivery": true
+  },
+  "pharmacies": [
+    {
+      "slug": "mycannea-oder-schloss-apotheke",
+      "name": "myCannea | Schloß APOTHEKE",
+      "street": "Pestalozzistraße 27",
+      "zip": "08062",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 65,
+      "rating": 5,
+      "ratingCount": 2
+    }
+  ],
+  "nearbyCities": [
+    {
+      "slug": "leipzig",
+      "name": "Leipzig",
+      "pharmacyCount": 2
+    },
+    {
+      "slug": "schneeberg",
+      "name": "Schneeberg",
+      "pharmacyCount": 1
+    },
+    {
+      "slug": "dresden",
+      "name": "Dresden",
+      "pharmacyCount": 1
+    },
+    {
+      "slug": "markkleeberg",
+      "name": "Markkleeberg",
+      "pharmacyCount": 1
+    },
+    {
+      "slug": "chemnitz",
+      "name": "Chemnitz",
+      "pharmacyCount": 1
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannabis Apotheke Zwickau - 1 Apotheken",
+      "description": "Cannabis Apotheken in Zwickau. 1 Apotheken mit 65 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+      "canonical": "https://weed.de/cannabis-apotheke/zwickau",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannabis Apotheke Zwickau - 1 Apotheken",
+        "description": "Cannabis Apotheken in Zwickau. 1 Apotheken mit 65 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+        "url": "https://weed.de/cannabis-apotheke/zwickau",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Zwickau",
+        "href": "https://weed.de/cannabis-apotheke/zwickau"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Zwickau",
+            "item": "https://weed.de/cannabis-apotheke/zwickau"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Cannabis Apotheken in Zwickau",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/apotheke/mycannea-oder-schloss-apotheke",
+            "name": "myCannea | Schloß APOTHEKE"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "pharmacies": [
+      {
+        "href": "/apotheke/mycannea-oder-schloss-apotheke",
+        "text": "myCannea | Schloß APOTHEKE",
+        "title": "myCannea | Schloß APOTHEKE in Zwickau"
+      }
+    ],
+    "nearbyCities": [
+      {
+        "href": "/cannabis-apotheke/leipzig",
+        "text": "Cannabis Apotheke Leipzig",
+        "title": "2 Apotheken in Leipzig"
+      },
+      {
+        "href": "/cannabis-apotheke/schneeberg",
+        "text": "Cannabis Apotheke Schneeberg",
+        "title": "1 Apotheken in Schneeberg"
+      },
+      {
+        "href": "/cannabis-apotheke/dresden",
+        "text": "Cannabis Apotheke Dresden",
+        "title": "1 Apotheken in Dresden"
+      },
+      {
+        "href": "/cannabis-apotheke/markkleeberg",
+        "text": "Cannabis Apotheke Markkleeberg",
+        "title": "1 Apotheken in Markkleeberg"
+      },
+      {
+        "href": "/cannabis-apotheke/chemnitz",
+        "text": "Cannabis Apotheke Chemnitz",
+        "title": "1 Apotheken in Chemnitz"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Single pharmacy with good product coverage"
+  }
+}

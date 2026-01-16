@@ -1,0 +1,135 @@
+{
+  "city": {
+    "slug": "forst-lausitz",
+    "name": "Forst (Lausitz)",
+    "state": "Brandenburg"
+  },
+  "stats": {
+    "pharmacyCount": 1,
+    "totalProducts": 13,
+    "hasDelivery": true
+  },
+  "pharmacies": [
+    {
+      "slug": "rosen-apotheke-1",
+      "name": "Rosen-Apotheke",
+      "street": "Friedrichplatz",
+      "zip": "03149",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 13,
+      "rating": 0,
+      "ratingCount": 0
+    }
+  ],
+  "nearbyCities": [
+    {
+      "slug": "teltow",
+      "name": "Teltow",
+      "pharmacyCount": 1
+    },
+    {
+      "slug": "brandenburg-an-der-havel",
+      "name": "Brandenburg an der Havel",
+      "pharmacyCount": 1
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannabis Apotheke Forst (Lausitz) - 1 Apotheken",
+      "description": "Cannabis Apotheken in Forst (Lausitz). 1 Apotheken mit 13 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+      "canonical": "https://weed.de/cannabis-apotheke/forst-lausitz",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannabis Apotheke Forst (Lausitz) - 1 Apotheken",
+        "description": "Cannabis Apotheken in Forst (Lausitz). 1 Apotheken mit 13 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+        "url": "https://weed.de/cannabis-apotheke/forst-lausitz",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Forst (Lausitz)",
+        "href": "https://weed.de/cannabis-apotheke/forst-lausitz"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Forst (Lausitz)",
+            "item": "https://weed.de/cannabis-apotheke/forst-lausitz"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Cannabis Apotheken in Forst (Lausitz)",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/apotheke/rosen-apotheke-1",
+            "name": "Rosen-Apotheke"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "pharmacies": [
+      {
+        "href": "/apotheke/rosen-apotheke-1",
+        "text": "Rosen-Apotheke",
+        "title": "Rosen-Apotheke in Forst (Lausitz)"
+      }
+    ],
+    "nearbyCities": [
+      {
+        "href": "/cannabis-apotheke/teltow",
+        "text": "Cannabis Apotheke Teltow",
+        "title": "1 Apotheken in Teltow"
+      },
+      {
+        "href": "/cannabis-apotheke/brandenburg-an-der-havel",
+        "text": "Cannabis Apotheke Brandenburg an der Havel",
+        "title": "1 Apotheken in Brandenburg an der Havel"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Single pharmacy with good product coverage"
+  }
+}

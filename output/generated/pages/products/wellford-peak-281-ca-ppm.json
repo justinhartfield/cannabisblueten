@@ -1,0 +1,223 @@
+{
+  "product": {
+    "slug": "wellford-peak-281-ca-ppm",
+    "name": "Wellford Peak 28/1 CA PPM",
+    "type": "flower",
+    "genetics": "hybrid_indica",
+    "thcPercent": 28,
+    "cbdPercent": 1,
+    "priceMin": 599,
+    "priceMax": 803,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": "https://weed.de/products/wellford-peak-28-1-ca-ppm-15f58e.jpeg"
+  },
+  "brand": {
+    "slug": "therismos",
+    "name": "Therismos",
+    "productCount": 64
+  },
+  "strain": {
+    "slug": "purple-moon",
+    "name": "Purple Moon",
+    "geneticType": "hybrid",
+    "effects": [
+      "Relaxed",
+      "Sleepy"
+    ],
+    "terpenes": [
+      "Fenchol",
+      "D-Limonene",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Relaxed",
+      "Sleepy"
+    ],
+    "tastes": [
+      "Flowery",
+      "Tropical",
+      "Earthy"
+    ],
+    "terpenes": [
+      "Fenchol",
+      "D-Limonene",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "enua-251-cck-ca",
+      "name": "enua 25/1 CCK CA",
+      "brandName": "enua",
+      "thcPercent": 25.2,
+      "priceMin": 399,
+      "inStock": true
+    },
+    {
+      "slug": "ceres-no-2",
+      "name": "Ceres No. 2",
+      "brandName": "Cantourage",
+      "thcPercent": 25,
+      "priceMin": 590,
+      "inStock": true
+    },
+    {
+      "slug": "420-evolution-271-ca-icc",
+      "name": "420 EVOLUTION 27/1 CA ICC",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 27,
+      "priceMin": 684,
+      "inStock": true
+    },
+    {
+      "slug": "420-natural-221-gg4",
+      "name": "420 Natural 22/1 GG4",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 22,
+      "priceMin": 723,
+      "inStock": true
+    },
+    {
+      "slug": "avaay-241-sk",
+      "name": "AVAAY 24/1 SK",
+      "brandName": "Vayamed",
+      "thcPercent": 24,
+      "priceMin": 899,
+      "inStock": true
+    },
+    {
+      "slug": "avaay-241-did",
+      "name": "AVAAY 24/1 DiD",
+      "brandName": "Avaay",
+      "thcPercent": 24,
+      "priceMin": 949,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Wellford Peak 28/1 CA PPM - Therismos | ab 5,99 €",
+      "description": "Wellford Peak 28/1 CA PPM von Therismos. THC: 28%, CBD: 1%. Sorte: Purple Moon. Preis ab 5,99 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/wellford-peak-281-ca-ppm",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Wellford Peak 28/1 CA PPM - Therismos | ab 5,99 €",
+        "description": "Wellford Peak 28/1 CA PPM von Therismos. THC: 28%, CBD: 1%. Sorte: Purple Moon. Preis ab 5,99 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/wellford-peak-281-ca-ppm",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/wellford-peak-28-1-ca-ppm-15f58e.jpeg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Therismos",
+        "href": "https://weed.de/brand/therismos"
+      },
+      {
+        "name": "Wellford Peak 28/1 CA PPM",
+        "href": "https://weed.de/product/wellford-peak-281-ca-ppm"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Wellford Peak 28/1 CA PPM",
+            "item": "https://weed.de/product/wellford-peak-281-ca-ppm"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Wellford Peak 28/1 CA PPM",
+        "brand": {
+          "@type": "Brand",
+          "name": "Therismos"
+        },
+        "description": "THC: 28%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/purple-moon",
+      "text": "Purple Moon",
+      "title": "Purple Moon Sorte"
+    },
+    "brand": {
+      "href": "/brand/therismos",
+      "text": "Therismos",
+      "title": "Alle Therismos Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/enua-251-cck-ca",
+        "text": "enua 25/1 CCK CA",
+        "title": "Alternative: enua 25/1 CCK CA"
+      },
+      {
+        "href": "/product/ceres-no-2",
+        "text": "Ceres No. 2",
+        "title": "Alternative: Ceres No. 2"
+      },
+      {
+        "href": "/product/420-evolution-271-ca-icc",
+        "text": "420 EVOLUTION 27/1 CA ICC",
+        "title": "Alternative: 420 EVOLUTION 27/1 CA ICC"
+      },
+      {
+        "href": "/product/420-natural-221-gg4",
+        "text": "420 Natural 22/1 GG4",
+        "title": "Alternative: 420 Natural 22/1 GG4"
+      },
+      {
+        "href": "/product/avaay-241-sk",
+        "text": "AVAAY 24/1 SK",
+        "title": "Alternative: AVAAY 24/1 SK"
+      },
+      {
+        "href": "/product/avaay-241-did",
+        "text": "AVAAY 24/1 DiD",
+        "title": "Alternative: AVAAY 24/1 DiD"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "taunus-apotheke",
+    "name": "Herbaluh / Taunus-Apotheke",
+    "street": "Taunusstraße 20",
+    "zip": "65183",
+    "cityName": "Wiesbaden",
+    "state": "Hessen",
+    "lat": 50.0875389,
+    "lng": 8.2415223,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "www.herbaluh.de",
+    "phone": "061151235",
+    "email": "kontakt@herbaluh.de",
+    "productCount": 38,
+    "rating": 5,
+    "ratingCount": 1,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/68bfdb50662dea4d37e49527-2c96b9.jpg"
+  },
+  "city": {
+    "slug": "wiesbaden",
+    "name": "Wiesbaden",
+    "pharmacyCount": 4
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "park-apotheke-1",
+      "name": "Park Apotheke / Rhein-Main-Cannabis",
+      "cityName": "Wiesbaden",
+      "productCount": 56,
+      "hasDelivery": false
+    },
+    {
+      "slug": "adler-apotheke-2",
+      "name": "Adler Apotheke",
+      "cityName": "Wiesbaden",
+      "productCount": 35,
+      "hasDelivery": true
+    },
+    {
+      "slug": "wilhelms-apotheke-wiesbaden",
+      "name": "Wilhelms Apotheke Wiesbaden",
+      "cityName": "Wiesbaden",
+      "productCount": 0,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis-vital-apotheke",
+      "name": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
+      "cityName": "Hattersheim am Main",
+      "productCount": 187,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis-apotheke-frankfurtkissel-apotheke",
+      "name": "Cannabis Apotheke Frankfurt/Kissel-Apotheke",
+      "cityName": "Frankfurt am Main",
+      "productCount": 183,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Herbaluh / Taunus-Apotheke - Cannabis Apotheke in Wiesbaden",
+      "description": "Herbaluh / Taunus-Apotheke in Wiesbaden. 38 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/taunus-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Herbaluh / Taunus-Apotheke - Cannabis Apotheke in Wiesbaden",
+        "description": "Herbaluh / Taunus-Apotheke in Wiesbaden. 38 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/taunus-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/68bfdb50662dea4d37e49527-2c96b9.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Wiesbaden",
+        "href": "https://weed.de/cannabis-apotheke/wiesbaden"
+      },
+      {
+        "name": "Herbaluh / Taunus-Apotheke",
+        "href": "https://weed.de/apotheke/taunus-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Wiesbaden",
+            "item": "https://weed.de/cannabis-apotheke/wiesbaden"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Herbaluh / Taunus-Apotheke",
+            "item": "https://weed.de/apotheke/taunus-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Herbaluh / Taunus-Apotheke",
+        "url": "https://weed.de/apotheke/taunus-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Taunusstraße 20",
+          "addressLocality": "Wiesbaden",
+          "postalCode": "65183",
+          "addressRegion": "Hessen",
+          "addressCountry": "DE"
+        },
+        "telephone": "061151235",
+        "email": "kontakt@herbaluh.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/wiesbaden",
+      "text": "Cannabis Apotheken in Wiesbaden",
+      "title": "Alle Apotheken in Wiesbaden"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/park-apotheke-1",
+        "text": "Park Apotheke / Rhein-Main-Cannabis",
+        "title": "Park Apotheke / Rhein-Main-Cannabis in Wiesbaden"
+      },
+      {
+        "href": "/apotheke/adler-apotheke-2",
+        "text": "Adler Apotheke",
+        "title": "Adler Apotheke in Wiesbaden"
+      },
+      {
+        "href": "/apotheke/wilhelms-apotheke-wiesbaden",
+        "text": "Wilhelms Apotheke Wiesbaden",
+        "title": "Wilhelms Apotheke Wiesbaden in Wiesbaden"
+      },
+      {
+        "href": "/apotheke/cannabis-vital-apotheke",
+        "text": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
+        "title": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim) in Hattersheim am Main"
+      },
+      {
+        "href": "/apotheke/cannabis-apotheke-frankfurtkissel-apotheke",
+        "text": "Cannabis Apotheke Frankfurt/Kissel-Apotheke",
+        "title": "Cannabis Apotheke Frankfurt/Kissel-Apotheke in Frankfurt am Main"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

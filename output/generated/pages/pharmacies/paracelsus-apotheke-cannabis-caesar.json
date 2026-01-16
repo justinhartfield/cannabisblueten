@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "paracelsus-apotheke-cannabis-caesar",
+    "name": "Paracelsus Apotheke (Cannabis Caesar)",
+    "street": "Friedensstraße 55a",
+    "zip": "51147",
+    "cityName": "Köln",
+    "state": "Nordrhein-Westfalen",
+    "lat": 50.8760355,
+    "lng": 7.0993876,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": null,
+    "phone": "022031021912",
+    "email": "info@cannabis-caesar.de",
+    "productCount": 147,
+    "rating": 5,
+    "ratingCount": 3,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/67da8afba67b87e35b6eafb3-339925.jpg"
+  },
+  "city": {
+    "slug": "koeln",
+    "name": "Köln",
+    "pharmacyCount": 7
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "apotheke-im-haubrichforum",
+      "name": "Apotheke im Haubrichforum",
+      "cityName": "Köln",
+      "productCount": 47,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-friesentor-cannacolonia",
+      "name": "Apotheke Friesentor - CannaColonia",
+      "cityName": "Köln",
+      "productCount": 25,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannamundus-stadt-apotheke-koeln",
+      "name": "CANNAMUNDUS (Stadt-Apotheke Köln)",
+      "cityName": "Köln",
+      "productCount": 24,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apobuds-kapuziner-apotheke,-koeln",
+      "name": "Kapuziner Apotheke, Köln",
+      "cityName": "Köln",
+      "productCount": 23,
+      "hasDelivery": false
+    },
+    {
+      "slug": "docverde-apotheke-koeln-muelheim-ohg",
+      "name": "DocVerde Apotheke Köln-Mülheim OHG",
+      "cityName": "Köln",
+      "productCount": 7,
+      "hasDelivery": false
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Paracelsus Apotheke (Cannabis Caesar) - Cannabis Apotheke in Köln",
+      "description": "Paracelsus Apotheke (Cannabis Caesar) in Köln. 147 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/paracelsus-apotheke-cannabis-caesar",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Paracelsus Apotheke (Cannabis Caesar) - Cannabis Apotheke in Köln",
+        "description": "Paracelsus Apotheke (Cannabis Caesar) in Köln. 147 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/paracelsus-apotheke-cannabis-caesar",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/67da8afba67b87e35b6eafb3-339925.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Köln",
+        "href": "https://weed.de/cannabis-apotheke/koeln"
+      },
+      {
+        "name": "Paracelsus Apotheke (Cannabis Caesar)",
+        "href": "https://weed.de/apotheke/paracelsus-apotheke-cannabis-caesar"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Köln",
+            "item": "https://weed.de/cannabis-apotheke/koeln"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Paracelsus Apotheke (Cannabis Caesar)",
+            "item": "https://weed.de/apotheke/paracelsus-apotheke-cannabis-caesar"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Paracelsus Apotheke (Cannabis Caesar)",
+        "url": "https://weed.de/apotheke/paracelsus-apotheke-cannabis-caesar",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Friedensstraße 55a",
+          "addressLocality": "Köln",
+          "postalCode": "51147",
+          "addressRegion": "Nordrhein-Westfalen",
+          "addressCountry": "DE"
+        },
+        "telephone": "022031021912",
+        "email": "info@cannabis-caesar.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/koeln",
+      "text": "Cannabis Apotheken in Köln",
+      "title": "Alle Apotheken in Köln"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/apotheke-im-haubrichforum",
+        "text": "Apotheke im Haubrichforum",
+        "title": "Apotheke im Haubrichforum in Köln"
+      },
+      {
+        "href": "/apotheke/apotheke-friesentor-cannacolonia",
+        "text": "Apotheke Friesentor - CannaColonia",
+        "title": "Apotheke Friesentor - CannaColonia in Köln"
+      },
+      {
+        "href": "/apotheke/cannamundus-stadt-apotheke-koeln",
+        "text": "CANNAMUNDUS (Stadt-Apotheke Köln)",
+        "title": "CANNAMUNDUS (Stadt-Apotheke Köln) in Köln"
+      },
+      {
+        "href": "/apotheke/apobuds-kapuziner-apotheke,-koeln",
+        "text": "Kapuziner Apotheke, Köln",
+        "title": "Kapuziner Apotheke, Köln in Köln"
+      },
+      {
+        "href": "/apotheke/docverde-apotheke-koeln-muelheim-ohg",
+        "text": "DocVerde Apotheke Köln-Mülheim OHG",
+        "title": "DocVerde Apotheke Köln-Mülheim OHG in Köln"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

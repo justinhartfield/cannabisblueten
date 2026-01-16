@@ -1,0 +1,215 @@
+{
+  "strain": {
+    "slug": "tangelo-boost",
+    "name": "Tangelo Boost",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": null,
+      "max": null
+    },
+    "effects": [
+      "Relaxed",
+      "Euphoric"
+    ],
+    "tastes": [
+      "Cheese",
+      "Sweet",
+      "Pine"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Farnesene",
+      "Beta-Myrcene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 675,
+      "max": 675,
+      "formatted": {
+        "min": "6,75 €",
+        "max": "6,75 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "demecan-core-pulse-271-zativa",
+      "name": "Demecan Core PULSE 27:01 Zativa",
+      "brandName": "Demecan",
+      "thcPercent": 27,
+      "priceMin": 675,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "do-si-dos",
+      "name": "Do-Si-Dos",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "crescendo-cookies",
+      "name": "Crescendo Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "platinum-grapes",
+      "name": "Platinum Grapes",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "triangle-octane",
+      "name": "Triangle Octane",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "kandy-klouds-kush-popstars",
+      "name": "Kandy Klouds Kush Popstars",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Tangelo Boost (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Tangelo Boost: Relaxed, Euphoric. 1 Produkte verfügbar. ab 6,75 €.",
+      "canonical": "https://weed.de/strain/tangelo-boost",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Tangelo Boost (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Tangelo Boost: Relaxed, Euphoric. 1 Produkte verfügbar. ab 6,75 €.",
+        "url": "https://weed.de/strain/tangelo-boost",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Tangelo Boost",
+        "href": "https://weed.de/strain/tangelo-boost"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Tangelo Boost",
+            "item": "https://weed.de/strain/tangelo-boost"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Tangelo Boost Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/demecan-core-pulse-271-zativa",
+            "name": "Demecan Core PULSE 27:01 Zativa"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/demecan-core-pulse-271-zativa",
+        "text": "Demecan Core PULSE 27:01 Zativa",
+        "title": "Demecan Core PULSE 27:01 Zativa von Demecan"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/do-si-dos",
+        "text": "Do-Si-Dos",
+        "title": "Do-Si-Dos - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/crescendo-cookies",
+        "text": "Crescendo Cookies",
+        "title": "Crescendo Cookies - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/platinum-grapes",
+        "text": "Platinum Grapes",
+        "title": "Platinum Grapes - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/triangle-octane",
+        "text": "Triangle Octane",
+        "title": "Triangle Octane - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/kandy-klouds-kush-popstars",
+        "text": "Kandy Klouds Kush Popstars",
+        "title": "Kandy Klouds Kush Popstars - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/farnesene",
+        "text": "Farnesene",
+        "title": "Farnesene Terpen"
+      },
+      {
+        "href": "/terpene/beta-myrcene",
+        "text": "Beta-Myrcene",
+        "title": "Beta-Myrcene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

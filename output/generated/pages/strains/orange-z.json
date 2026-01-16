@@ -1,0 +1,266 @@
+{
+  "strain": {
+    "slug": "orange-z",
+    "name": "Orange Z",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Creative",
+      "Focused",
+      "Happy"
+    ],
+    "tastes": [
+      "Citrus",
+      "Sweet",
+      "Fruity"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Beta-Caryophyllene",
+      "Beta-Pinene",
+      "Alpha-Pinene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 3,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 583,
+      "max": 1190,
+      "formatted": {
+        "min": "5,83 €",
+        "max": "11,90 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "21-iuvo-oc-oz",
+      "name": "20/1 IUVO OC Orange Z",
+      "brandName": "Iuvo",
+      "thcPercent": 19.2,
+      "priceMin": 799,
+      "inStock": true
+    },
+    {
+      "slug": "241-iuvo-oc-orange-z",
+      "name": "24/1 IUVO OC Orange Z",
+      "brandName": "Iuvo",
+      "thcPercent": 24,
+      "priceMin": 583,
+      "inStock": true
+    },
+    {
+      "slug": "281-iuvo-oc-orange-z",
+      "name": "28/1 IUVO OC Orange Z",
+      "brandName": "Iuvo",
+      "thcPercent": 26.8,
+      "priceMin": 699,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "zashimi",
+      "name": "Zashimi",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "pink-lilac",
+      "name": "Pink Lilac",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "hifi-4g",
+      "name": "HiFi 4G",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "mungo",
+      "name": "Mungo",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "oz",
+      "name": "OZ",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Orange Z (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Orange Z: Creative, Focused, Happy. 3 Produkte verfügbar. ab 5,83 €.",
+      "canonical": "https://weed.de/strain/orange-z",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Orange Z (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Orange Z: Creative, Focused, Happy. 3 Produkte verfügbar. ab 5,83 €.",
+        "url": "https://weed.de/strain/orange-z",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Orange Z",
+        "href": "https://weed.de/strain/orange-z"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Orange Z",
+            "item": "https://weed.de/strain/orange-z"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Orange Z Produkte",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/21-iuvo-oc-oz",
+            "name": "20/1 IUVO OC Orange Z"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/241-iuvo-oc-orange-z",
+            "name": "24/1 IUVO OC Orange Z"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/281-iuvo-oc-orange-z",
+            "name": "28/1 IUVO OC Orange Z"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/21-iuvo-oc-oz",
+        "text": "20/1 IUVO OC Orange Z",
+        "title": "20/1 IUVO OC Orange Z von Iuvo"
+      },
+      {
+        "href": "/product/241-iuvo-oc-orange-z",
+        "text": "24/1 IUVO OC Orange Z",
+        "title": "24/1 IUVO OC Orange Z von Iuvo"
+      },
+      {
+        "href": "/product/281-iuvo-oc-orange-z",
+        "text": "28/1 IUVO OC Orange Z",
+        "title": "28/1 IUVO OC Orange Z von Iuvo"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/zashimi",
+        "text": "Zashimi",
+        "title": "Zashimi - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/pink-lilac",
+        "text": "Pink Lilac",
+        "title": "Pink Lilac - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/hifi-4g",
+        "text": "HiFi 4G",
+        "title": "HiFi 4G - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/mungo",
+        "text": "Mungo",
+        "title": "Mungo - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/oz",
+        "text": "OZ",
+        "title": "OZ - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/beta-pinene",
+        "text": "Beta-Pinene",
+        "title": "Beta-Pinene Terpen"
+      },
+      {
+        "href": "/terpene/alpha-pinene",
+        "text": "Alpha-Pinene",
+        "title": "Alpha-Pinene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

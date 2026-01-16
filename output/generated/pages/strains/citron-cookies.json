@@ -1,0 +1,215 @@
+{
+  "strain": {
+    "slug": "citron-cookies",
+    "name": "Citron Cookies",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Euphoric",
+      "Sociable"
+    ],
+    "tastes": [
+      "Citrus",
+      "Sweet",
+      "Fruity"
+    ],
+    "terpenes": [
+      "Linalool",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 444,
+      "max": 850,
+      "formatted": {
+        "min": "4,44 €",
+        "max": "8,50 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "truu-hs-261",
+      "name": "TRUU HS 26/01",
+      "brandName": "Demecan",
+      "thcPercent": 26,
+      "priceMin": 444,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "dank-wafers",
+      "name": "Dank Wafers",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "alien-mints",
+      "name": "Alien Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "animal-face-sherb-crasher",
+      "name": "Animal Face Sherb Crasher",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "ocean-grown-cookies",
+      "name": "Ocean Grown Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "flap-jacks",
+      "name": "Flap Jacks",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Citron Cookies (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Citron Cookies: Euphoric, Sociable. 1 Produkte verfügbar. ab 4,44 €.",
+      "canonical": "https://weed.de/strain/citron-cookies",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Citron Cookies (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Citron Cookies: Euphoric, Sociable. 1 Produkte verfügbar. ab 4,44 €.",
+        "url": "https://weed.de/strain/citron-cookies",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Citron Cookies",
+        "href": "https://weed.de/strain/citron-cookies"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Citron Cookies",
+            "item": "https://weed.de/strain/citron-cookies"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Citron Cookies Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/truu-hs-261",
+            "name": "TRUU HS 26/01"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/truu-hs-261",
+        "text": "TRUU HS 26/01",
+        "title": "TRUU HS 26/01 von Demecan"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/dank-wafers",
+        "text": "Dank Wafers",
+        "title": "Dank Wafers - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/alien-mints",
+        "text": "Alien Mints",
+        "title": "Alien Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/animal-face-sherb-crasher",
+        "text": "Animal Face Sherb Crasher",
+        "title": "Animal Face Sherb Crasher - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/ocean-grown-cookies",
+        "text": "Ocean Grown Cookies",
+        "title": "Ocean Grown Cookies - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/flap-jacks",
+        "text": "Flap Jacks",
+        "title": "Flap Jacks - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

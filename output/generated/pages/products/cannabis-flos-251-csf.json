@@ -1,0 +1,225 @@
+{
+  "product": {
+    "slug": "cannabis-flos-251-csf",
+    "name": "Canify Cannabis Flos 25/1 CSF",
+    "type": "flower",
+    "genetics": "hybrid_sativa",
+    "thcPercent": 25,
+    "cbdPercent": 1,
+    "priceMin": 499,
+    "priceMax": 499,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": "https://weed.de/products/cannabis-flos-251-csf-4gab13.webp"
+  },
+  "brand": {
+    "slug": "canify",
+    "name": "Canify",
+    "productCount": 68
+  },
+  "strain": {
+    "slug": "carnez-citric",
+    "name": "Carnez Citric",
+    "geneticType": "sativa",
+    "effects": [
+      "Euphoric",
+      "Creative",
+      "Focused"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Beta-Caryophyllene",
+      "Limonene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Euphoric",
+      "Creative",
+      "Focused"
+    ],
+    "tastes": [
+      "Herbal",
+      "Citrus",
+      "Sweet"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Beta-Caryophyllene",
+      "Limonene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "luana-21-delight",
+      "name": "Luana 20/1 Delight",
+      "brandName": "Cannamedical",
+      "thcPercent": 22,
+      "priceMin": 389,
+      "inStock": true
+    },
+    {
+      "slug": "amp-classic-251",
+      "name": "AMP Classic 25/1",
+      "brandName": "AMP",
+      "thcPercent": 25,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "canify-cannabis-flos-231-csf-ku",
+      "name": "Canify Cannabis Flos 23/1 CSF Ku.",
+      "brandName": "Canify",
+      "thcPercent": 23,
+      "priceMin": 419,
+      "inStock": true
+    },
+    {
+      "slug": "weeco-231",
+      "name": "Weeco 23/1",
+      "brandName": "Weeco",
+      "thcPercent": 23,
+      "priceMin": 599,
+      "inStock": true
+    },
+    {
+      "slug": "420-evolution-271-ca-str",
+      "name": "420 Evolution 27/1 CA STR",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 27,
+      "priceMin": 645,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-221-florestura",
+      "name": "DEMECAN Florestura 22:01",
+      "brandName": "Deutsche Medizinalcannabis",
+      "thcPercent": 22,
+      "priceMin": 679,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Canify Cannabis Flos 25/1 CSF | ab 4,99 €",
+      "description": "Canify Cannabis Flos 25/1 CSF von Canify. THC: 25%, CBD: 1%. Sorte: Carnez Citric. Preis ab 4,99 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/cannabis-flos-251-csf",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Canify Cannabis Flos 25/1 CSF | ab 4,99 €",
+        "description": "Canify Cannabis Flos 25/1 CSF von Canify. THC: 25%, CBD: 1%. Sorte: Carnez Citric. Preis ab 4,99 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/cannabis-flos-251-csf",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/cannabis-flos-251-csf-4gab13.webp"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Canify",
+        "href": "https://weed.de/brand/canify"
+      },
+      {
+        "name": "Canify Cannabis Flos 25/1 CSF",
+        "href": "https://weed.de/product/cannabis-flos-251-csf"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Canify Cannabis Flos 25/1 CSF",
+            "item": "https://weed.de/product/cannabis-flos-251-csf"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Canify Cannabis Flos 25/1 CSF",
+        "brand": {
+          "@type": "Brand",
+          "name": "Canify"
+        },
+        "description": "THC: 25%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/carnez-citric",
+      "text": "Carnez Citric",
+      "title": "Carnez Citric Sorte"
+    },
+    "brand": {
+      "href": "/brand/canify",
+      "text": "Canify",
+      "title": "Alle Canify Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/luana-21-delight",
+        "text": "Luana 20/1 Delight",
+        "title": "Alternative: Luana 20/1 Delight"
+      },
+      {
+        "href": "/product/amp-classic-251",
+        "text": "AMP Classic 25/1",
+        "title": "Alternative: AMP Classic 25/1"
+      },
+      {
+        "href": "/product/canify-cannabis-flos-231-csf-ku",
+        "text": "Canify Cannabis Flos 23/1 CSF Ku.",
+        "title": "Alternative: Canify Cannabis Flos 23/1 CSF Ku."
+      },
+      {
+        "href": "/product/weeco-231",
+        "text": "Weeco 23/1",
+        "title": "Alternative: Weeco 23/1"
+      },
+      {
+        "href": "/product/420-evolution-271-ca-str",
+        "text": "420 Evolution 27/1 CA STR",
+        "title": "Alternative: 420 Evolution 27/1 CA STR"
+      },
+      {
+        "href": "/product/demecan-221-florestura",
+        "text": "DEMECAN Florestura 22:01",
+        "title": "Alternative: DEMECAN Florestura 22:01"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

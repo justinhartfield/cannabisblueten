@@ -1,0 +1,235 @@
+{
+  "strain": {
+    "slug": "strawberry-glue",
+    "name": "Strawberry Glue",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Happy",
+      "Relaxed",
+      "Talkative"
+    ],
+    "tastes": [
+      "Strawberry",
+      "Diesel",
+      "Chemical"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Caryophyllene",
+      "Limonene"
+    ],
+    "description": "Strawberry Glue, eine Hybrid-Sorte, die aus der Kreuzung von \"Strawberry Diesel\" und \"Gorilla Glue #4\" hervorgegangen ist, ist für ihre außergewöhnliche Potenz bekannt. Sie verfügt über einen stolzen THC-Gehalt von 26% bis 30% und minimalem CBD-Gehalt (weniger als 1%).  Das Terpenprofil wird von Myrcene, Caryophyllene und Limonene dominiert, die sich beim erhitzen in in eine  Fusion aus Erdbeeren und Diesel, mit einer süßen chemischen Noten ergeben. Benutzer berichten, von einer euphorisierenden und entspannenden, aber sozial aktiven Wirkung. ",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 655,
+      "max": 695,
+      "formatted": {
+        "min": "6,55 €",
+        "max": "6,95 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "alpinolin-221",
+      "name": "Alpinolin 22/1",
+      "brandName": "Swiss Alpino Pharma",
+      "thcPercent": 21.3,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "nimbus-easy-221",
+      "name": "Nimbus easy 22/1",
+      "brandName": "Nimbus Health",
+      "thcPercent": 22,
+      "priceMin": 655,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "alien-cookies",
+      "name": "Alien Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "banana-kush",
+      "name": "Banana Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "spritzer",
+      "name": "Spritzer",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "gelato-33",
+      "name": "Gelato 33",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "el-jefe",
+      "name": "El Jefe",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Strawberry Glue (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Strawberry Glue: Happy, Relaxed, Talkative. 2 Produkte verfügbar. ab 6,55 €.",
+      "canonical": "https://weed.de/strain/strawberry-glue",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Strawberry Glue (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Strawberry Glue: Happy, Relaxed, Talkative. 2 Produkte verfügbar. ab 6,55 €.",
+        "url": "https://weed.de/strain/strawberry-glue",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Strawberry Glue",
+        "href": "https://weed.de/strain/strawberry-glue"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Strawberry Glue",
+            "item": "https://weed.de/strain/strawberry-glue"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Strawberry Glue Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/alpinolin-221",
+            "name": "Alpinolin 22/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/nimbus-easy-221",
+            "name": "Nimbus easy 22/1"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/alpinolin-221",
+        "text": "Alpinolin 22/1",
+        "title": "Alpinolin 22/1 von Swiss Alpino Pharma"
+      },
+      {
+        "href": "/product/nimbus-easy-221",
+        "text": "Nimbus easy 22/1",
+        "title": "Nimbus easy 22/1 von Nimbus Health"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/alien-cookies",
+        "text": "Alien Cookies",
+        "title": "Alien Cookies - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/banana-kush",
+        "text": "Banana Kush",
+        "title": "Banana Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/spritzer",
+        "text": "Spritzer",
+        "title": "Spritzer - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/gelato-33",
+        "text": "Gelato 33",
+        "title": "Gelato 33 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/el-jefe",
+        "text": "El Jefe",
+        "title": "El Jefe - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

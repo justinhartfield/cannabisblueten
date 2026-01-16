@@ -1,0 +1,317 @@
+{
+  "strain": {
+    "slug": "oreoz",
+    "name": "Oreoz",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Happy",
+      "Relaxed",
+      "Hungry"
+    ],
+    "tastes": [
+      "Diesel",
+      "Vanilla",
+      "Tobacco"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Myrcene",
+      "Limonene",
+      "Nerolidol"
+    ],
+    "description": "Oreoz ist eine Indica-Sorte, entstanden aus der Kreuzung von Cookies & Cream mit Secret Weapon und hat einen moderaten bis hohen THC-Gehalt, der zwischen 19-23% liegt. Ihre einzigartige Terpenmischung, dominiert durch Caryophyllene, Myrcene und Nerolidol bietet ein komplexes Geschmacksprofil von Diesel, Vanille und Tabak. Oreoz wird eine entspannende Wirkung zugeschrieben, welche sie besonders für den Nachmittag und Abend eignet.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 6,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 418,
+      "max": 838,
+      "formatted": {
+        "min": "4,18 €",
+        "max": "8,38 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "demecan-craft-zoero-2201",
+      "name": "Demecan CRAFT zoerO 22:01",
+      "brandName": "Demecan",
+      "thcPercent": 22.8,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "craft-zoero-2501",
+      "name": "Demecan CRAFT zoerO 25:01",
+      "brandName": "Demecan",
+      "thcPercent": 25,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "medicann-oz-261",
+      "name": "MediCann OZ 26/1",
+      "brandName": "MediCann",
+      "thcPercent": 23.2,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "drapalin-261-oreoz",
+      "name": "Drapalin 26/1 Oreoz",
+      "brandName": "Drapalin",
+      "thcPercent": 26,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "mecann-241-oreoz",
+      "name": "MeCann 24/1 Oreoz",
+      "brandName": "MeCann",
+      "thcPercent": 24,
+      "priceMin": 418,
+      "inStock": true
+    },
+    {
+      "slug": "mc-regular-drop-secret-weapon-x-cookies-n-cream",
+      "name": "MC Regular Drop Secret Weapon X Cookies n Cream",
+      "brandName": "Demecan",
+      "thcPercent": 25,
+      "priceMin": 590,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "black-kush",
+      "name": "Black Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "strawberry-banana",
+      "name": "Strawberry Banana",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "mac-2.0",
+      "name": "MAC 2.0",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "animal-cookies",
+      "name": "Animal Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "animal-mints",
+      "name": "Animal Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Oreoz (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Oreoz: Happy, Relaxed, Hungry. 6 Produkte verfügbar. ab 4,18 €.",
+      "canonical": "https://weed.de/strain/oreoz",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Oreoz (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Oreoz: Happy, Relaxed, Hungry. 6 Produkte verfügbar. ab 4,18 €.",
+        "url": "https://weed.de/strain/oreoz",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Oreoz",
+        "href": "https://weed.de/strain/oreoz"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Oreoz",
+            "item": "https://weed.de/strain/oreoz"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Oreoz Produkte",
+        "numberOfItems": 6,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/demecan-craft-zoero-2201",
+            "name": "Demecan CRAFT zoerO 22:01"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/craft-zoero-2501",
+            "name": "Demecan CRAFT zoerO 25:01"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/medicann-oz-261",
+            "name": "MediCann OZ 26/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/product/drapalin-261-oreoz",
+            "name": "Drapalin 26/1 Oreoz"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "https://weed.de/product/mecann-241-oreoz",
+            "name": "MeCann 24/1 Oreoz"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "url": "https://weed.de/product/mc-regular-drop-secret-weapon-x-cookies-n-cream",
+            "name": "MC Regular Drop Secret Weapon X Cookies n Cream"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/demecan-craft-zoero-2201",
+        "text": "Demecan CRAFT zoerO 22:01",
+        "title": "Demecan CRAFT zoerO 22:01 von Demecan"
+      },
+      {
+        "href": "/product/craft-zoero-2501",
+        "text": "Demecan CRAFT zoerO 25:01",
+        "title": "Demecan CRAFT zoerO 25:01 von Demecan"
+      },
+      {
+        "href": "/product/medicann-oz-261",
+        "text": "MediCann OZ 26/1",
+        "title": "MediCann OZ 26/1 von MediCann"
+      },
+      {
+        "href": "/product/drapalin-261-oreoz",
+        "text": "Drapalin 26/1 Oreoz",
+        "title": "Drapalin 26/1 Oreoz von Drapalin"
+      },
+      {
+        "href": "/product/mecann-241-oreoz",
+        "text": "MeCann 24/1 Oreoz",
+        "title": "MeCann 24/1 Oreoz von MeCann"
+      },
+      {
+        "href": "/product/mc-regular-drop-secret-weapon-x-cookies-n-cream",
+        "text": "MC Regular Drop Secret Weapon X Cookies n Cream",
+        "title": "MC Regular Drop Secret Weapon X Cookies n Cream von Demecan"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/black-kush",
+        "text": "Black Kush",
+        "title": "Black Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/strawberry-banana",
+        "text": "Strawberry Banana",
+        "title": "Strawberry Banana - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/mac-2.0",
+        "text": "MAC 2.0",
+        "title": "MAC 2.0 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/animal-cookies",
+        "text": "Animal Cookies",
+        "title": "Animal Cookies - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/animal-mints",
+        "text": "Animal Mints",
+        "title": "Animal Mints - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/nerolidol",
+        "text": "Nerolidol",
+        "title": "Nerolidol Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "apotheke-hake",
+    "name": "420 Flowers",
+    "street": "59320 Ennigerloh, Deutschland",
+    "zip": "59320",
+    "cityName": "Ennigerloh",
+    "state": "Nordrhein-Westfalen",
+    "lat": 51.8538375,
+    "lng": 8.0270417,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://www.apotheke-hake.de/cannabis",
+    "phone": "025243737",
+    "email": "info@apotheke-hake.de",
+    "productCount": 22,
+    "rating": 5,
+    "ratingCount": 1,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/670a5d96ba9806bb83c166fe-bgh3h9.jpg"
+  },
+  "city": {
+    "slug": "ennigerloh",
+    "name": "Ennigerloh",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "higreen-apotheke",
+      "name": "higreen! Online Marktplatz für Cannabis Apotheken",
+      "cityName": "Krefeld",
+      "productCount": 256,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-zur-alten-post",
+      "name": "Cannacompany (Apotheke zur Alten Post)",
+      "cityName": "Bonn",
+      "productCount": 233,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis-apotheke-essen-glocken-apotheke",
+      "name": "Cannabis Apotheke Essen (Glocken Apotheke)",
+      "cityName": "Essen",
+      "productCount": 174,
+      "hasDelivery": true
+    },
+    {
+      "slug": "grafenberger-apotheke",
+      "name": "GRAFENBERGER APOTHEKE",
+      "cityName": "Düsseldorf",
+      "productCount": 158,
+      "hasDelivery": true
+    },
+    {
+      "slug": "420brokkoli",
+      "name": "420brokkoli",
+      "cityName": "Paderborn",
+      "productCount": 156,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "420 Flowers - Cannabis Apotheke in Ennigerloh",
+      "description": "420 Flowers in Ennigerloh. 22 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/apotheke-hake",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "420 Flowers - Cannabis Apotheke in Ennigerloh",
+        "description": "420 Flowers in Ennigerloh. 22 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/apotheke-hake",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/670a5d96ba9806bb83c166fe-bgh3h9.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Ennigerloh",
+        "href": "https://weed.de/cannabis-apotheke/ennigerloh"
+      },
+      {
+        "name": "420 Flowers",
+        "href": "https://weed.de/apotheke/apotheke-hake"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Ennigerloh",
+            "item": "https://weed.de/cannabis-apotheke/ennigerloh"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "420 Flowers",
+            "item": "https://weed.de/apotheke/apotheke-hake"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "420 Flowers",
+        "url": "https://weed.de/apotheke/apotheke-hake",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "59320 Ennigerloh, Deutschland",
+          "addressLocality": "Ennigerloh",
+          "postalCode": "59320",
+          "addressRegion": "Nordrhein-Westfalen",
+          "addressCountry": "DE"
+        },
+        "telephone": "025243737",
+        "email": "info@apotheke-hake.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/ennigerloh",
+      "text": "Cannabis Apotheken in Ennigerloh",
+      "title": "Alle Apotheken in Ennigerloh"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/higreen-apotheke",
+        "text": "higreen! Online Marktplatz für Cannabis Apotheken",
+        "title": "higreen! Online Marktplatz für Cannabis Apotheken in Krefeld"
+      },
+      {
+        "href": "/apotheke/apotheke-zur-alten-post",
+        "text": "Cannacompany (Apotheke zur Alten Post)",
+        "title": "Cannacompany (Apotheke zur Alten Post) in Bonn"
+      },
+      {
+        "href": "/apotheke/cannabis-apotheke-essen-glocken-apotheke",
+        "text": "Cannabis Apotheke Essen (Glocken Apotheke)",
+        "title": "Cannabis Apotheke Essen (Glocken Apotheke) in Essen"
+      },
+      {
+        "href": "/apotheke/grafenberger-apotheke",
+        "text": "GRAFENBERGER APOTHEKE",
+        "title": "GRAFENBERGER APOTHEKE in Düsseldorf"
+      },
+      {
+        "href": "/apotheke/420brokkoli",
+        "text": "420brokkoli",
+        "title": "420brokkoli in Paderborn"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

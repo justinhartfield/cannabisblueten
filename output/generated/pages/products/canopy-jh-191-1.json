@@ -1,0 +1,224 @@
+{
+  "product": {
+    "slug": "canopy-jh-191-1",
+    "name": "Canopy JH 19/1",
+    "type": "flower",
+    "genetics": "hybrid",
+    "thcPercent": 19,
+    "cbdPercent": 1,
+    "priceMin": 699,
+    "priceMax": 699,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "canopy-growth",
+    "name": "Canopy Growth",
+    "productCount": 35
+  },
+  "strain": {
+    "slug": "jack-haze",
+    "name": "Jack Haze",
+    "geneticType": "hybrid",
+    "effects": [
+      "Energetic",
+      "Talkative",
+      "Giggly"
+    ],
+    "terpenes": [
+      "Terpinolene",
+      "Caryophyllene",
+      "Pinene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Energetic",
+      "Talkative",
+      "Giggly"
+    ],
+    "tastes": [
+      "Tobacco",
+      "Rose",
+      "Spicy-Herbal"
+    ],
+    "terpenes": [
+      "Terpinolene",
+      "Caryophyllene",
+      "Pinene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "avextra-1010",
+      "name": "Avextra 10/10",
+      "brandName": "Avextra",
+      "thcPercent": 1,
+      "priceMin": 279,
+      "inStock": true
+    },
+    {
+      "slug": "canopy-jh-211",
+      "name": "Canopy JH 21/1",
+      "brandName": "Canopy Growth",
+      "thcPercent": 21,
+      "priceMin": 319,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-thc-25-spotlight-porto-purps",
+      "name": "Tilray THC 25 Spotlight Porto Purps",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": 349,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc5cbd2",
+      "name": "Tilray Cannabisextrakt THC5:CBD20",
+      "brandName": "Tilray",
+      "thcPercent": 5,
+      "priceMin": 350,
+      "inStock": true
+    },
+    {
+      "slug": "cannabisextrakt-avextra-25",
+      "name": "Cannabisextrakt Avextra 25",
+      "brandName": "Avextra",
+      "thcPercent": 2.5,
+      "priceMin": 357,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc1cbd1",
+      "name": "Tilray Cannabisextrakt THC10:CBD10",
+      "brandName": "Tilray",
+      "thcPercent": 10,
+      "priceMin": 400,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Canopy JH 19/1 - Canopy Growth | ab 6,99 €",
+      "description": "Canopy JH 19/1 von Canopy Growth. THC: 19%, CBD: 1%. Sorte: Jack Haze. Preis ab 6,99 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/canopy-jh-191-1",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Canopy JH 19/1 - Canopy Growth | ab 6,99 €",
+        "description": "Canopy JH 19/1 von Canopy Growth. THC: 19%, CBD: 1%. Sorte: Jack Haze. Preis ab 6,99 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/canopy-jh-191-1",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Canopy Growth",
+        "href": "https://weed.de/brand/canopy-growth"
+      },
+      {
+        "name": "Canopy JH 19/1",
+        "href": "https://weed.de/product/canopy-jh-191-1"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Canopy JH 19/1",
+            "item": "https://weed.de/product/canopy-jh-191-1"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Canopy JH 19/1",
+        "brand": {
+          "@type": "Brand",
+          "name": "Canopy Growth"
+        },
+        "description": "THC: 19%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/jack-haze",
+      "text": "Jack Haze",
+      "title": "Jack Haze Sorte"
+    },
+    "brand": {
+      "href": "/brand/canopy-growth",
+      "text": "Canopy Growth",
+      "title": "Alle Canopy Growth Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/avextra-1010",
+        "text": "Avextra 10/10",
+        "title": "Alternative: Avextra 10/10"
+      },
+      {
+        "href": "/product/canopy-jh-211",
+        "text": "Canopy JH 21/1",
+        "title": "Alternative: Canopy JH 21/1"
+      },
+      {
+        "href": "/product/tilray-thc-25-spotlight-porto-purps",
+        "text": "Tilray THC 25 Spotlight Porto Purps",
+        "title": "Alternative: Tilray THC 25 Spotlight Porto Purps"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc5cbd2",
+        "text": "Tilray Cannabisextrakt THC5:CBD20",
+        "title": "Alternative: Tilray Cannabisextrakt THC5:CBD20"
+      },
+      {
+        "href": "/product/cannabisextrakt-avextra-25",
+        "text": "Cannabisextrakt Avextra 25",
+        "title": "Alternative: Cannabisextrakt Avextra 25"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc1cbd1",
+        "text": "Tilray Cannabisextrakt THC10:CBD10",
+        "title": "Alternative: Tilray Cannabisextrakt THC10:CBD10"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

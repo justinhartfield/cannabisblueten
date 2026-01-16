@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "rosen-apotheke-2",
+    "name": "Rosen-Apotheke (SativaMedics)",
+    "street": "Neuwied, 56564 Neuwied, Deutschland",
+    "zip": "56564",
+    "cityName": "Neuwied",
+    "state": "Rheinland-Pfalz",
+    "lat": 50.4312613,
+    "lng": 7.473253799999998,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": null,
+    "phone": "026319593517",
+    "email": "shop@sativamedics.de",
+    "productCount": 47,
+    "rating": 4,
+    "ratingCount": 5,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/67e2e3fd518927b0e38758e9-f3hcjj.jpg"
+  },
+  "city": {
+    "slug": "neuwied",
+    "name": "Neuwied",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "cannabis-apotheke-rheinland",
+      "name": "Cannabis Apotheke Rheinland",
+      "cityName": "Bad Neuenahr-Ahrweiler",
+      "productCount": 161,
+      "hasDelivery": true
+    },
+    {
+      "slug": "grune-blute-ulmen-apotheke",
+      "name": "Grüne Blüte",
+      "cityName": "Frankenthal (Pfalz)",
+      "productCount": 158,
+      "hasDelivery": true
+    },
+    {
+      "slug": "pharmablute",
+      "name": "PharmaBlüte",
+      "cityName": "Mainz",
+      "productCount": 124,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis4me",
+      "name": "cannabis4me",
+      "cityName": "Bad Neuenahr-Ahrweiler",
+      "productCount": 89,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-am-kornmarkt",
+      "name": "Apotheke am Kornmarkt",
+      "cityName": "Trier",
+      "productCount": 64,
+      "hasDelivery": false
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Rosen-Apotheke (SativaMedics) - Cannabis Apotheke in Neuwied",
+      "description": "Rosen-Apotheke (SativaMedics) in Neuwied. 47 Cannabis Produkte. Lieferung & Abholung. Bewertung: 4.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/rosen-apotheke-2",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Rosen-Apotheke (SativaMedics) - Cannabis Apotheke in Neuwied",
+        "description": "Rosen-Apotheke (SativaMedics) in Neuwied. 47 Cannabis Produkte. Lieferung & Abholung. Bewertung: 4.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/rosen-apotheke-2",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/67e2e3fd518927b0e38758e9-f3hcjj.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Neuwied",
+        "href": "https://weed.de/cannabis-apotheke/neuwied"
+      },
+      {
+        "name": "Rosen-Apotheke (SativaMedics)",
+        "href": "https://weed.de/apotheke/rosen-apotheke-2"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Neuwied",
+            "item": "https://weed.de/cannabis-apotheke/neuwied"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Rosen-Apotheke (SativaMedics)",
+            "item": "https://weed.de/apotheke/rosen-apotheke-2"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Rosen-Apotheke (SativaMedics)",
+        "url": "https://weed.de/apotheke/rosen-apotheke-2",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Neuwied, 56564 Neuwied, Deutschland",
+          "addressLocality": "Neuwied",
+          "postalCode": "56564",
+          "addressRegion": "Rheinland-Pfalz",
+          "addressCountry": "DE"
+        },
+        "telephone": "026319593517",
+        "email": "shop@sativamedics.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/neuwied",
+      "text": "Cannabis Apotheken in Neuwied",
+      "title": "Alle Apotheken in Neuwied"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/cannabis-apotheke-rheinland",
+        "text": "Cannabis Apotheke Rheinland",
+        "title": "Cannabis Apotheke Rheinland in Bad Neuenahr-Ahrweiler"
+      },
+      {
+        "href": "/apotheke/grune-blute-ulmen-apotheke",
+        "text": "Grüne Blüte",
+        "title": "Grüne Blüte in Frankenthal (Pfalz)"
+      },
+      {
+        "href": "/apotheke/pharmablute",
+        "text": "PharmaBlüte",
+        "title": "PharmaBlüte in Mainz"
+      },
+      {
+        "href": "/apotheke/cannabis4me",
+        "text": "cannabis4me",
+        "title": "cannabis4me in Bad Neuenahr-Ahrweiler"
+      },
+      {
+        "href": "/apotheke/apotheke-am-kornmarkt",
+        "text": "Apotheke am Kornmarkt",
+        "title": "Apotheke am Kornmarkt in Trier"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

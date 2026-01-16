@@ -1,0 +1,187 @@
+{
+  "city": {
+    "slug": "ansbach",
+    "name": "Ansbach",
+    "state": "Bayern"
+  },
+  "stats": {
+    "pharmacyCount": 2,
+    "totalProducts": 76,
+    "hasDelivery": true
+  },
+  "pharmacies": [
+    {
+      "slug": "cannabisapotheke-sueddeutschland",
+      "name": "Cannabisapotheke Süddeutschland",
+      "street": "Platenstraße 28",
+      "zip": "91522",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 75,
+      "rating": 5,
+      "ratingCount": 1
+    },
+    {
+      "slug": "markgrafen-apotheke",
+      "name": "Markgrafen Apotheke Ansbach",
+      "street": "Nürnberger Str. 34",
+      "zip": "91522",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 1,
+      "rating": 0,
+      "ratingCount": 0
+    }
+  ],
+  "nearbyCities": [
+    {
+      "slug": "muenchen",
+      "name": "München",
+      "pharmacyCount": 12
+    },
+    {
+      "slug": "nuernberg",
+      "name": "Nürnberg",
+      "pharmacyCount": 7
+    },
+    {
+      "slug": "augsburg",
+      "name": "Augsburg",
+      "pharmacyCount": 6
+    },
+    {
+      "slug": "landshut",
+      "name": "Landshut",
+      "pharmacyCount": 3
+    },
+    {
+      "slug": "erlangen",
+      "name": "Erlangen",
+      "pharmacyCount": 2
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannabis Apotheke Ansbach - 2 Apotheken",
+      "description": "Cannabis Apotheken in Ansbach. 2 Apotheken mit 76 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+      "canonical": "https://weed.de/cannabis-apotheke/ansbach",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannabis Apotheke Ansbach - 2 Apotheken",
+        "description": "Cannabis Apotheken in Ansbach. 2 Apotheken mit 76 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+        "url": "https://weed.de/cannabis-apotheke/ansbach",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Ansbach",
+        "href": "https://weed.de/cannabis-apotheke/ansbach"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Ansbach",
+            "item": "https://weed.de/cannabis-apotheke/ansbach"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Cannabis Apotheken in Ansbach",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/apotheke/cannabisapotheke-sueddeutschland",
+            "name": "Cannabisapotheke Süddeutschland"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/apotheke/markgrafen-apotheke",
+            "name": "Markgrafen Apotheke Ansbach"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "pharmacies": [
+      {
+        "href": "/apotheke/cannabisapotheke-sueddeutschland",
+        "text": "Cannabisapotheke Süddeutschland",
+        "title": "Cannabisapotheke Süddeutschland in Ansbach"
+      },
+      {
+        "href": "/apotheke/markgrafen-apotheke",
+        "text": "Markgrafen Apotheke Ansbach",
+        "title": "Markgrafen Apotheke Ansbach in Ansbach"
+      }
+    ],
+    "nearbyCities": [
+      {
+        "href": "/cannabis-apotheke/muenchen",
+        "text": "Cannabis Apotheke München",
+        "title": "12 Apotheken in München"
+      },
+      {
+        "href": "/cannabis-apotheke/nuernberg",
+        "text": "Cannabis Apotheke Nürnberg",
+        "title": "7 Apotheken in Nürnberg"
+      },
+      {
+        "href": "/cannabis-apotheke/augsburg",
+        "text": "Cannabis Apotheke Augsburg",
+        "title": "6 Apotheken in Augsburg"
+      },
+      {
+        "href": "/cannabis-apotheke/landshut",
+        "text": "Cannabis Apotheke Landshut",
+        "title": "3 Apotheken in Landshut"
+      },
+      {
+        "href": "/cannabis-apotheke/erlangen",
+        "text": "Cannabis Apotheke Erlangen",
+        "title": "2 Apotheken in Erlangen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has 2 pharmacies"
+  }
+}

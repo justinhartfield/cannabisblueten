@@ -1,0 +1,187 @@
+{
+  "pharmacy": {
+    "slug": "staggenborg-die-apotheke",
+    "name": "Staggenborg die Apotheke",
+    "street": "Am Ahlmannkai 2",
+    "zip": "24782",
+    "cityName": "Büdelsdorf",
+    "state": "Schleswig-Holstein",
+    "lat": 54.3111227,
+    "lng": 9.662692,
+    "hasDelivery": false,
+    "hasPickup": true,
+    "hasPrices": false,
+    "website": null,
+    "phone": "04331697890",
+    "email": "Info@apo-buedelsdorf.de",
+    "productCount": 0,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": null
+  },
+  "city": {
+    "slug": "buedelsdorf",
+    "name": "Büdelsdorf",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "cannabisapothekenord",
+      "name": "Cannabis Apotheke Nord",
+      "cityName": "Neumünster",
+      "productCount": 24,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-ratekau",
+      "name": "Apotheke Ratekau",
+      "cityName": "Ratekau",
+      "productCount": 0,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-am-bebelplatz",
+      "name": "Apotheke am Bebelplatz",
+      "cityName": "Kiel",
+      "productCount": 0,
+      "hasDelivery": false
+    },
+    {
+      "slug": "apotheke-am-amtsgericht-1",
+      "name": "Apotheke am Amtsgericht",
+      "cityName": "Oldenburg in Holstein",
+      "productCount": 0,
+      "hasDelivery": false
+    },
+    {
+      "slug": "adler-apotheke",
+      "name": "Adler Apotheke",
+      "cityName": "Tornesch",
+      "productCount": 0,
+      "hasDelivery": false
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Staggenborg die Apotheke - Cannabis Apotheke in Büdelsdorf",
+      "description": "Staggenborg die Apotheke in Büdelsdorf. Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/staggenborg-die-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Staggenborg die Apotheke - Cannabis Apotheke in Büdelsdorf",
+        "description": "Staggenborg die Apotheke in Büdelsdorf. Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/staggenborg-die-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Büdelsdorf",
+        "href": "https://weed.de/cannabis-apotheke/buedelsdorf"
+      },
+      {
+        "name": "Staggenborg die Apotheke",
+        "href": "https://weed.de/apotheke/staggenborg-die-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Büdelsdorf",
+            "item": "https://weed.de/cannabis-apotheke/buedelsdorf"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Staggenborg die Apotheke",
+            "item": "https://weed.de/apotheke/staggenborg-die-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Staggenborg die Apotheke",
+        "url": "https://weed.de/apotheke/staggenborg-die-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Am Ahlmannkai 2",
+          "addressLocality": "Büdelsdorf",
+          "postalCode": "24782",
+          "addressRegion": "Schleswig-Holstein",
+          "addressCountry": "DE"
+        },
+        "telephone": "04331697890",
+        "email": "Info@apo-buedelsdorf.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/buedelsdorf",
+      "text": "Cannabis Apotheken in Büdelsdorf",
+      "title": "Alle Apotheken in Büdelsdorf"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/cannabisapothekenord",
+        "text": "Cannabis Apotheke Nord",
+        "title": "Cannabis Apotheke Nord in Neumünster"
+      },
+      {
+        "href": "/apotheke/apotheke-ratekau",
+        "text": "Apotheke Ratekau",
+        "title": "Apotheke Ratekau in Ratekau"
+      },
+      {
+        "href": "/apotheke/apotheke-am-bebelplatz",
+        "text": "Apotheke am Bebelplatz",
+        "title": "Apotheke am Bebelplatz in Kiel"
+      },
+      {
+        "href": "/apotheke/apotheke-am-amtsgericht-1",
+        "text": "Apotheke am Amtsgericht",
+        "title": "Apotheke am Amtsgericht in Oldenburg in Holstein"
+      },
+      {
+        "href": "/apotheke/adler-apotheke",
+        "text": "Adler Apotheke",
+        "title": "Adler Apotheke in Tornesch"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has services"
+  }
+}

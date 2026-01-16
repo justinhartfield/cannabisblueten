@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "baeren-apotheke-1",
+    "name": "Bären Apotheke",
+    "street": "Straubing, Deutschland",
+    "zip": "94315",
+    "cityName": "Straubing",
+    "state": "Bayern",
+    "lat": 48.8777333,
+    "lng": 12.5801538,
+    "hasDelivery": false,
+    "hasPickup": true,
+    "hasPrices": false,
+    "website": null,
+    "phone": "0942161340",
+    "email": "info@baerenapotheke-straubing.de",
+    "productCount": 0,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/674746c91f9e24b2e903429c-h187hg.jpg"
+  },
+  "city": {
+    "slug": "straubing",
+    "name": "Straubing",
+    "pharmacyCount": 2
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "draexlmaier-apotheken-in-niederbayern-und-der-oberpfalz",
+      "name": "Dräxlmaier Apotheken in Niederbayern und der Oberpfalz",
+      "cityName": "Straubing",
+      "productCount": 27,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabisapo24",
+      "name": "Cannabisapo24",
+      "cityName": "Augsburg",
+      "productCount": 364,
+      "hasDelivery": true
+    },
+    {
+      "slug": "spital-apotheke-zum-heiligen-geist",
+      "name": "Canthera.de | Spital Apotheke zum Heiligen Geist",
+      "cityName": "Nürnberg",
+      "productCount": 317,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannaplus-apotheke",
+      "name": "Cannaplus Apotheke",
+      "cityName": "Augsburg",
+      "productCount": 186,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis-apotheke-bayern-1",
+      "name": "Cannabis Apotheke Bayern",
+      "cityName": "Schweinfurt",
+      "productCount": 184,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Bären Apotheke - Cannabis Apotheke in Straubing",
+      "description": "Bären Apotheke in Straubing. Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/baeren-apotheke-1",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Bären Apotheke - Cannabis Apotheke in Straubing",
+        "description": "Bären Apotheke in Straubing. Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/baeren-apotheke-1",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/674746c91f9e24b2e903429c-h187hg.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Straubing",
+        "href": "https://weed.de/cannabis-apotheke/straubing"
+      },
+      {
+        "name": "Bären Apotheke",
+        "href": "https://weed.de/apotheke/baeren-apotheke-1"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Straubing",
+            "item": "https://weed.de/cannabis-apotheke/straubing"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Bären Apotheke",
+            "item": "https://weed.de/apotheke/baeren-apotheke-1"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Bären Apotheke",
+        "url": "https://weed.de/apotheke/baeren-apotheke-1",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Straubing, Deutschland",
+          "addressLocality": "Straubing",
+          "postalCode": "94315",
+          "addressRegion": "Bayern",
+          "addressCountry": "DE"
+        },
+        "telephone": "0942161340",
+        "email": "info@baerenapotheke-straubing.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/straubing",
+      "text": "Cannabis Apotheken in Straubing",
+      "title": "Alle Apotheken in Straubing"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/draexlmaier-apotheken-in-niederbayern-und-der-oberpfalz",
+        "text": "Dräxlmaier Apotheken in Niederbayern und der Oberpfalz",
+        "title": "Dräxlmaier Apotheken in Niederbayern und der Oberpfalz in Straubing"
+      },
+      {
+        "href": "/apotheke/cannabisapo24",
+        "text": "Cannabisapo24",
+        "title": "Cannabisapo24 in Augsburg"
+      },
+      {
+        "href": "/apotheke/spital-apotheke-zum-heiligen-geist",
+        "text": "Canthera.de | Spital Apotheke zum Heiligen Geist",
+        "title": "Canthera.de | Spital Apotheke zum Heiligen Geist in Nürnberg"
+      },
+      {
+        "href": "/apotheke/cannaplus-apotheke",
+        "text": "Cannaplus Apotheke",
+        "title": "Cannaplus Apotheke in Augsburg"
+      },
+      {
+        "href": "/apotheke/cannabis-apotheke-bayern-1",
+        "text": "Cannabis Apotheke Bayern",
+        "title": "Cannabis Apotheke Bayern in Schweinfurt"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has services"
+  }
+}

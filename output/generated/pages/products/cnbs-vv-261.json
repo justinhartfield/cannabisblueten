@@ -1,0 +1,228 @@
+{
+  "product": {
+    "slug": "cnbs-vv-261",
+    "name": "CNBS VV 26/1",
+    "type": "flower",
+    "genetics": "hybrid",
+    "thcPercent": 26,
+    "cbdPercent": 1,
+    "priceMin": 930,
+    "priceMax": 930,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "N/A",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "medical-cnbs",
+    "name": "Medical CNBS",
+    "productCount": 30
+  },
+  "strain": {
+    "slug": "varnish-vapor",
+    "name": "Varnish Vapor",
+    "geneticType": "hybrid",
+    "effects": [
+      "Relaxed",
+      "Focused",
+      "Headache",
+      "Pain-relief"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Relaxed",
+      "Focused",
+      "Headache",
+      "Pain-relief"
+    ],
+    "tastes": [
+      "Sweet",
+      "Fruity",
+      "Spicy",
+      "Citrus",
+      "Diesel"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "tilray-thc-25-spotlight-porto-purps",
+      "name": "Tilray THC 25 Spotlight Porto Purps",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": 349,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc5cbd2",
+      "name": "Tilray Cannabisextrakt THC5:CBD20",
+      "brandName": "Tilray",
+      "thcPercent": 5,
+      "priceMin": 350,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc1cbd1",
+      "name": "Tilray Cannabisextrakt THC10:CBD10",
+      "brandName": "Tilray",
+      "thcPercent": 10,
+      "priceMin": 400,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-2",
+      "name": "Demecan Typ 2",
+      "brandName": "Demecan",
+      "thcPercent": 16,
+      "priceMin": 533,
+      "inStock": true
+    },
+    {
+      "slug": "420-natural-201-ca-gg4",
+      "name": "420 Natural 20/1 CA GG4",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 20,
+      "priceMin": 589,
+      "inStock": true
+    },
+    {
+      "slug": "khiron-191-gelato",
+      "name": "Khiron 19/1 Gelato",
+      "brandName": "Khiron",
+      "thcPercent": 17.6,
+      "priceMin": 638,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "CNBS VV 26/1 - Medical CNBS | ab 9,30 €",
+      "description": "CNBS VV 26/1 von Medical CNBS. THC: 26%, CBD: 1%. Sorte: Varnish Vapor. Preis ab 9,30 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/cnbs-vv-261",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "CNBS VV 26/1 - Medical CNBS | ab 9,30 €",
+        "description": "CNBS VV 26/1 von Medical CNBS. THC: 26%, CBD: 1%. Sorte: Varnish Vapor. Preis ab 9,30 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/cnbs-vv-261",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Medical CNBS",
+        "href": "https://weed.de/brand/medical-cnbs"
+      },
+      {
+        "name": "CNBS VV 26/1",
+        "href": "https://weed.de/product/cnbs-vv-261"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "CNBS VV 26/1",
+            "item": "https://weed.de/product/cnbs-vv-261"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "CNBS VV 26/1",
+        "brand": {
+          "@type": "Brand",
+          "name": "Medical CNBS"
+        },
+        "description": "THC: 26%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/varnish-vapor",
+      "text": "Varnish Vapor",
+      "title": "Varnish Vapor Sorte"
+    },
+    "brand": {
+      "href": "/brand/medical-cnbs",
+      "text": "Medical CNBS",
+      "title": "Alle Medical CNBS Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/tilray-thc-25-spotlight-porto-purps",
+        "text": "Tilray THC 25 Spotlight Porto Purps",
+        "title": "Alternative: Tilray THC 25 Spotlight Porto Purps"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc5cbd2",
+        "text": "Tilray Cannabisextrakt THC5:CBD20",
+        "title": "Alternative: Tilray Cannabisextrakt THC5:CBD20"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc1cbd1",
+        "text": "Tilray Cannabisextrakt THC10:CBD10",
+        "title": "Alternative: Tilray Cannabisextrakt THC10:CBD10"
+      },
+      {
+        "href": "/product/demecan-typ-2",
+        "text": "Demecan Typ 2",
+        "title": "Alternative: Demecan Typ 2"
+      },
+      {
+        "href": "/product/420-natural-201-ca-gg4",
+        "text": "420 Natural 20/1 CA GG4",
+        "title": "Alternative: 420 Natural 20/1 CA GG4"
+      },
+      {
+        "href": "/product/khiron-191-gelato",
+        "text": "Khiron 19/1 Gelato",
+        "title": "Alternative: Khiron 19/1 Gelato"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

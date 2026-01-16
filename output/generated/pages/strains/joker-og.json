@@ -1,0 +1,247 @@
+{
+  "strain": {
+    "slug": "joker-og",
+    "name": "Joker OG",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0,
+      "max": 0
+    },
+    "effects": [
+      "Euphoric",
+      "Happy",
+      "Sleepy"
+    ],
+    "tastes": [
+      "Diesel",
+      "Sweet",
+      "Citrus"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Linalool",
+      "Beta-Caryophyllene",
+      "Alpha-Pinene",
+      "Alpha-Humulene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 345,
+      "max": 345,
+      "formatted": {
+        "min": "3,45 €",
+        "max": "3,45 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "nedcann-jog-251-joker-og-3",
+      "name": "Nedcann JOG 25/01 Joker OG #3",
+      "brandName": "Natural Pharma",
+      "thcPercent": 25,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "nedcann-jog-231-joker-og-3",
+      "name": "Nedcann JOG 23/01 Joker OG #3",
+      "brandName": "Natural Pharma",
+      "thcPercent": 23,
+      "priceMin": 345,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "tigerz-eye",
+      "name": "Tigerz Eye",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "pink-gas",
+      "name": "Pink Gas",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "dosi-cookies",
+      "name": "Dosi Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "godfather-og-auto",
+      "name": "Godfather OG Auto",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "mandarin-cookies",
+      "name": "Mandarin Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Joker OG (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Joker OG: Euphoric, Happy, Sleepy. 2 Produkte verfügbar. ab 3,45 €.",
+      "canonical": "https://weed.de/strain/joker-og",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Joker OG (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Joker OG: Euphoric, Happy, Sleepy. 2 Produkte verfügbar. ab 3,45 €.",
+        "url": "https://weed.de/strain/joker-og",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Joker OG",
+        "href": "https://weed.de/strain/joker-og"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Joker OG",
+            "item": "https://weed.de/strain/joker-og"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Joker OG Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/nedcann-jog-251-joker-og-3",
+            "name": "Nedcann JOG 25/01 Joker OG #3"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/nedcann-jog-231-joker-og-3",
+            "name": "Nedcann JOG 23/01 Joker OG #3"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/nedcann-jog-251-joker-og-3",
+        "text": "Nedcann JOG 25/01 Joker OG #3",
+        "title": "Nedcann JOG 25/01 Joker OG #3 von Natural Pharma"
+      },
+      {
+        "href": "/product/nedcann-jog-231-joker-og-3",
+        "text": "Nedcann JOG 23/01 Joker OG #3",
+        "title": "Nedcann JOG 23/01 Joker OG #3 von Natural Pharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/tigerz-eye",
+        "text": "Tigerz Eye",
+        "title": "Tigerz Eye - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/pink-gas",
+        "text": "Pink Gas",
+        "title": "Pink Gas - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/dosi-cookies",
+        "text": "Dosi Cookies",
+        "title": "Dosi Cookies - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/godfather-og-auto",
+        "text": "Godfather OG Auto",
+        "title": "Godfather OG Auto - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/mandarin-cookies",
+        "text": "Mandarin Cookies",
+        "title": "Mandarin Cookies - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/alpha-pinene",
+        "text": "Alpha-Pinene",
+        "title": "Alpha-Pinene Terpen"
+      },
+      {
+        "href": "/terpene/alpha-humulene",
+        "text": "Alpha-Humulene",
+        "title": "Alpha-Humulene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

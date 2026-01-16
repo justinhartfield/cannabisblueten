@@ -1,0 +1,223 @@
+{
+  "product": {
+    "slug": "tilray-thc10cbd10-no-2",
+    "name": "Tilray THC10/CBD10 No. 2",
+    "type": "flower",
+    "genetics": "hybrid",
+    "thcPercent": 10,
+    "cbdPercent": 10,
+    "priceMin": 1299,
+    "priceMax": 1890,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Portugal",
+    "imageUrl": "https://weed.de/products/tilray-thc10cbd10-no-2-gd120d.png"
+  },
+  "brand": {
+    "slug": "tilray",
+    "name": "Tilray",
+    "productCount": 160
+  },
+  "strain": {
+    "slug": "warlock-cbd",
+    "name": "Warlock CBD",
+    "geneticType": "hybrid",
+    "effects": [
+      "Relaxed",
+      "Energetic"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Linalool",
+      "Myrcene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Relaxed",
+      "Energetic"
+    ],
+    "tastes": [
+      "Earthy",
+      "Flowery",
+      "Citrus"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Linalool",
+      "Myrcene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "tilray-thc-25-spotlight-porto-purps",
+      "name": "Tilray THC 25 Spotlight Porto Purps",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": 349,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc5cbd2",
+      "name": "Tilray Cannabisextrakt THC5:CBD20",
+      "brandName": "Tilray",
+      "thcPercent": 5,
+      "priceMin": 350,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc1cbd1",
+      "name": "Tilray Cannabisextrakt THC10:CBD10",
+      "brandName": "Tilray",
+      "thcPercent": 10,
+      "priceMin": 400,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-2",
+      "name": "Demecan Typ 2",
+      "brandName": "Demecan",
+      "thcPercent": 16,
+      "priceMin": 533,
+      "inStock": true
+    },
+    {
+      "slug": "khiron-191-gelato",
+      "name": "Khiron 19/1 Gelato",
+      "brandName": "Khiron",
+      "thcPercent": 17.6,
+      "priceMin": 638,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc25",
+      "name": "Tilray Cannabisextrakt THC25",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": 895,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Tilray THC10/CBD10 No. 2 | ab 12,99 €",
+      "description": "Tilray THC10/CBD10 No. 2 von Tilray. THC: 10%, CBD: 10%. Sorte: Warlock CBD. Preis ab 12,99 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/tilray-thc10cbd10-no-2",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Tilray THC10/CBD10 No. 2 | ab 12,99 €",
+        "description": "Tilray THC10/CBD10 No. 2 von Tilray. THC: 10%, CBD: 10%. Sorte: Warlock CBD. Preis ab 12,99 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/tilray-thc10cbd10-no-2",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/tilray-thc10cbd10-no-2-gd120d.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Tilray",
+        "href": "https://weed.de/brand/tilray"
+      },
+      {
+        "name": "Tilray THC10/CBD10 No. 2",
+        "href": "https://weed.de/product/tilray-thc10cbd10-no-2"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Tilray THC10/CBD10 No. 2",
+            "item": "https://weed.de/product/tilray-thc10cbd10-no-2"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Tilray THC10/CBD10 No. 2",
+        "brand": {
+          "@type": "Brand",
+          "name": "Tilray"
+        },
+        "description": "THC: 10%, CBD: 10%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/warlock-cbd",
+      "text": "Warlock CBD",
+      "title": "Warlock CBD Sorte"
+    },
+    "brand": {
+      "href": "/brand/tilray",
+      "text": "Tilray",
+      "title": "Alle Tilray Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/tilray-thc-25-spotlight-porto-purps",
+        "text": "Tilray THC 25 Spotlight Porto Purps",
+        "title": "Alternative: Tilray THC 25 Spotlight Porto Purps"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc5cbd2",
+        "text": "Tilray Cannabisextrakt THC5:CBD20",
+        "title": "Alternative: Tilray Cannabisextrakt THC5:CBD20"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc1cbd1",
+        "text": "Tilray Cannabisextrakt THC10:CBD10",
+        "title": "Alternative: Tilray Cannabisextrakt THC10:CBD10"
+      },
+      {
+        "href": "/product/demecan-typ-2",
+        "text": "Demecan Typ 2",
+        "title": "Alternative: Demecan Typ 2"
+      },
+      {
+        "href": "/product/khiron-191-gelato",
+        "text": "Khiron 19/1 Gelato",
+        "title": "Alternative: Khiron 19/1 Gelato"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc25",
+        "text": "Tilray Cannabisextrakt THC25",
+        "title": "Alternative: Tilray Cannabisextrakt THC25"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

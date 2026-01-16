@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "apotheke-am-bebelplatz",
+    "name": "Apotheke am Bebelplatz",
+    "street": "Bebelplatz",
+    "zip": "24146",
+    "cityName": "Kiel",
+    "state": "Schleswig-Holstein",
+    "lat": 54.2945244,
+    "lng": 10.1847536,
+    "hasDelivery": false,
+    "hasPickup": true,
+    "hasPrices": false,
+    "website": "https://www.bebelplatz-apotheke.de/",
+    "phone": "+49431781718",
+    "email": "cannabis@bebelplatz-apotheke.de",
+    "productCount": 0,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.de/pharmacies/bebe-logo.png"
+  },
+  "city": {
+    "slug": "kiel",
+    "name": "Kiel",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "cannabisapothekenord",
+      "name": "Cannabis Apotheke Nord",
+      "cityName": "Neumünster",
+      "productCount": 24,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-ratekau",
+      "name": "Apotheke Ratekau",
+      "cityName": "Ratekau",
+      "productCount": 0,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-am-amtsgericht-1",
+      "name": "Apotheke am Amtsgericht",
+      "cityName": "Oldenburg in Holstein",
+      "productCount": 0,
+      "hasDelivery": false
+    },
+    {
+      "slug": "adler-apotheke",
+      "name": "Adler Apotheke",
+      "cityName": "Tornesch",
+      "productCount": 0,
+      "hasDelivery": false
+    },
+    {
+      "slug": "klindwort-apotheke-am-strand",
+      "name": "Klindwort Apotheke am Strand",
+      "cityName": "Timmendorfer Strand",
+      "productCount": 0,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Apotheke am Bebelplatz - Cannabis Apotheke in Kiel",
+      "description": "Apotheke am Bebelplatz in Kiel. Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/apotheke-am-bebelplatz",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Apotheke am Bebelplatz - Cannabis Apotheke in Kiel",
+        "description": "Apotheke am Bebelplatz in Kiel. Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/apotheke-am-bebelplatz",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/pharmacies/bebe-logo.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Kiel",
+        "href": "https://weed.de/cannabis-apotheke/kiel"
+      },
+      {
+        "name": "Apotheke am Bebelplatz",
+        "href": "https://weed.de/apotheke/apotheke-am-bebelplatz"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Kiel",
+            "item": "https://weed.de/cannabis-apotheke/kiel"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Apotheke am Bebelplatz",
+            "item": "https://weed.de/apotheke/apotheke-am-bebelplatz"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Apotheke am Bebelplatz",
+        "url": "https://weed.de/apotheke/apotheke-am-bebelplatz",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Bebelplatz",
+          "addressLocality": "Kiel",
+          "postalCode": "24146",
+          "addressRegion": "Schleswig-Holstein",
+          "addressCountry": "DE"
+        },
+        "telephone": "+49431781718",
+        "email": "cannabis@bebelplatz-apotheke.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/kiel",
+      "text": "Cannabis Apotheken in Kiel",
+      "title": "Alle Apotheken in Kiel"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/cannabisapothekenord",
+        "text": "Cannabis Apotheke Nord",
+        "title": "Cannabis Apotheke Nord in Neumünster"
+      },
+      {
+        "href": "/apotheke/apotheke-ratekau",
+        "text": "Apotheke Ratekau",
+        "title": "Apotheke Ratekau in Ratekau"
+      },
+      {
+        "href": "/apotheke/apotheke-am-amtsgericht-1",
+        "text": "Apotheke am Amtsgericht",
+        "title": "Apotheke am Amtsgericht in Oldenburg in Holstein"
+      },
+      {
+        "href": "/apotheke/adler-apotheke",
+        "text": "Adler Apotheke",
+        "title": "Adler Apotheke in Tornesch"
+      },
+      {
+        "href": "/apotheke/klindwort-apotheke-am-strand",
+        "text": "Klindwort Apotheke am Strand",
+        "title": "Klindwort Apotheke am Strand in Timmendorfer Strand"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has services"
+  }
+}

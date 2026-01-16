@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "ring-apotheke",
+    "name": "Ring Apotheke",
+    "street": "Ring 26",
+    "zip": "27777",
+    "cityName": "Ganderkesee",
+    "state": "Niedersachsen",
+    "lat": 53.03217470000001,
+    "lng": 8.5473569,
+    "hasDelivery": false,
+    "hasPickup": true,
+    "hasPrices": false,
+    "website": null,
+    "phone": "042222888",
+    "email": "service@dieringapotheke.de",
+    "productCount": 1,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.de/pharmacies/ring-apotheke-ibb17g.png"
+  },
+  "city": {
+    "slug": "ganderkesee",
+    "name": "Ganderkesee",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "alle-farben-apotheke",
+      "name": "Alle Farben Apotheke",
+      "cityName": "Melle",
+      "productCount": 132,
+      "hasDelivery": true
+    },
+    {
+      "slug": "happy-cannamed",
+      "name": "Marien Apotheke",
+      "cityName": "Cloppenburg",
+      "productCount": 61,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannanord",
+      "name": "CannaNord",
+      "cityName": "Oldenburg",
+      "productCount": 55,
+      "hasDelivery": true
+    },
+    {
+      "slug": "easycannabis-easyapotheke-citylebenstedt",
+      "name": "EasyCannabis easyApotheke CityLebenstedt",
+      "cityName": "Salzgitter",
+      "productCount": 40,
+      "hasDelivery": true
+    },
+    {
+      "slug": "sophie-green",
+      "name": "Sophie Green",
+      "cityName": "Meppen",
+      "productCount": 31,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Ring Apotheke - Cannabis Apotheke in Ganderkesee",
+      "description": "Ring Apotheke in Ganderkesee. 1 Cannabis Produkte. Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/ring-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Ring Apotheke - Cannabis Apotheke in Ganderkesee",
+        "description": "Ring Apotheke in Ganderkesee. 1 Cannabis Produkte. Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/ring-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/pharmacies/ring-apotheke-ibb17g.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Ganderkesee",
+        "href": "https://weed.de/cannabis-apotheke/ganderkesee"
+      },
+      {
+        "name": "Ring Apotheke",
+        "href": "https://weed.de/apotheke/ring-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Ganderkesee",
+            "item": "https://weed.de/cannabis-apotheke/ganderkesee"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Ring Apotheke",
+            "item": "https://weed.de/apotheke/ring-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Ring Apotheke",
+        "url": "https://weed.de/apotheke/ring-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Ring 26",
+          "addressLocality": "Ganderkesee",
+          "postalCode": "27777",
+          "addressRegion": "Niedersachsen",
+          "addressCountry": "DE"
+        },
+        "telephone": "042222888",
+        "email": "service@dieringapotheke.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/ganderkesee",
+      "text": "Cannabis Apotheken in Ganderkesee",
+      "title": "Alle Apotheken in Ganderkesee"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/alle-farben-apotheke",
+        "text": "Alle Farben Apotheke",
+        "title": "Alle Farben Apotheke in Melle"
+      },
+      {
+        "href": "/apotheke/happy-cannamed",
+        "text": "Marien Apotheke",
+        "title": "Marien Apotheke in Cloppenburg"
+      },
+      {
+        "href": "/apotheke/cannanord",
+        "text": "CannaNord",
+        "title": "CannaNord in Oldenburg"
+      },
+      {
+        "href": "/apotheke/easycannabis-easyapotheke-citylebenstedt",
+        "text": "EasyCannabis easyApotheke CityLebenstedt",
+        "title": "EasyCannabis easyApotheke CityLebenstedt in Salzgitter"
+      },
+      {
+        "href": "/apotheke/sophie-green",
+        "text": "Sophie Green",
+        "title": "Sophie Green in Meppen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "strain": {
+    "slug": "hifi-4g",
+    "name": "HiFi 4G",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [
+      "Creative",
+      "Happy",
+      "Relaxed",
+      "Anxiety-reducing",
+      "Stress-relief",
+      "Pain-relief",
+      "Mood-lifting"
+    ],
+    "tastes": [
+      "Earthy",
+      "Citrus",
+      "Spicy",
+      "Kush",
+      "Pine",
+      "Woody"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Beta-Pinene",
+      "Alpha-Pinene"
+    ],
+    "description": "HiFi 4G ist eine ausgewogene Hybridsorte, die aus der Kreuzung von WiFi OG Haze und Glueberry OG hervorgegangen ist. Der Name ist dabei eine Anspielung auf das besondere sensorische Erlebnis, das dieser Strain bieten soll. Mit einem hohen THC-Gehalt von 21 % bis 24 % und einem CBD-Wert von unter 0,1 % verfügt sie über eine intensive Potenz.\n\nDas Aromaprofil zeichnet sich durch einen unverkennbar intensiven Kush-Charakter aus. Es dominieren würzige und erdige Noten, die von markanten Akzenten aus Zitrusfrüchten und Nadelhölzern begleitet werden. Das Terpenprofil, angeführt von Myrcen, Limonen sowie Alpha- und Beta-Pinen, ist verantwortlich für dieses kräftige Bouquet, das klassische Würze mit einer belebenden waldigen Frische verbindet.\n\nDie Wirkung ist besonders für ihre akustische Komponente bekannt, da sie die Wahrnehmung von Musik intensivieren und Klänge voller, tiefer und klarer erscheinen lassen kann. Das Gefühl wird allgemein als kreativ, glücklich und tief entspannt beschrieben. Dieser langanhaltende Zustand der geistigen und körperlichen Ruhe macht die Sorte auch therapeutisch interessant. Sie wird häufig zur Linderung von Stress, Depressionen, Angstzuständen und chronischen Schmerzen eingesetzt.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 319,
+      "max": 649,
+      "formatted": {
+        "min": "3,19 €",
+        "max": "6,49 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "madrecan-241",
+      "name": "madrecan 24/1",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 24,
+      "priceMin": 319,
+      "inStock": true
+    },
+    {
+      "slug": "madrecan-211",
+      "name": "madrecan 21/1",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 21,
+      "priceMin": 349,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "zashimi",
+      "name": "Zashimi",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "tigerz-eye",
+      "name": "Tigerz Eye",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "wedding-crasher",
+      "name": "Wedding Crasher",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "moonlight",
+      "name": "Moonlight",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "sour-flare",
+      "name": "Sour Flare",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "HiFi 4G (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "HiFi 4G: Creative, Happy, Relaxed. 2 Produkte verfügbar. ab 3,19 €.",
+      "canonical": "https://weed.de/strain/hifi-4g",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "HiFi 4G (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "HiFi 4G: Creative, Happy, Relaxed. 2 Produkte verfügbar. ab 3,19 €.",
+        "url": "https://weed.de/strain/hifi-4g",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "HiFi 4G",
+        "href": "https://weed.de/strain/hifi-4g"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "HiFi 4G",
+            "item": "https://weed.de/strain/hifi-4g"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "HiFi 4G Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/madrecan-241",
+            "name": "madrecan 24/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/madrecan-211",
+            "name": "madrecan 21/1"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/madrecan-241",
+        "text": "madrecan 24/1",
+        "title": "madrecan 24/1 von Remexian Pharma"
+      },
+      {
+        "href": "/product/madrecan-211",
+        "text": "madrecan 21/1",
+        "title": "madrecan 21/1 von Remexian Pharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/zashimi",
+        "text": "Zashimi",
+        "title": "Zashimi - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/tigerz-eye",
+        "text": "Tigerz Eye",
+        "title": "Tigerz Eye - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/wedding-crasher",
+        "text": "Wedding Crasher",
+        "title": "Wedding Crasher - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/moonlight",
+        "text": "Moonlight",
+        "title": "Moonlight - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/sour-flare",
+        "text": "Sour Flare",
+        "title": "Sour Flare - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-pinene",
+        "text": "Beta-Pinene",
+        "title": "Beta-Pinene Terpen"
+      },
+      {
+        "href": "/terpene/alpha-pinene",
+        "text": "Alpha-Pinene",
+        "title": "Alpha-Pinene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

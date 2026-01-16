@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "marienhuana-apotheke",
+    "name": "Marienhuana Apotheke",
+    "street": "Marienstraße 43",
+    "zip": "76137",
+    "cityName": "Karlsruhe",
+    "state": "Baden-Württemberg",
+    "lat": 49.00132439999999,
+    "lng": 8.4083611,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://marienhuana.de",
+    "phone": "0721389325",
+    "email": "Cannabis@marienhuana.de",
+    "productCount": 43,
+    "rating": 3,
+    "ratingCount": 2,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/66b87ec5b180f5750faaaaa1-fcd452.jpg"
+  },
+  "city": {
+    "slug": "karlsruhe",
+    "name": "Karlsruhe",
+    "pharmacyCount": 5
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "karlchengras",
+      "name": "Karlchengras (Karl-Apotheke)",
+      "cityName": "Karlsruhe",
+      "productCount": 188,
+      "hasDelivery": true
+    },
+    {
+      "slug": "rhein-apotheke-im-aerztehaus-muehlburg",
+      "name": "Rhein-Apotheke im Ärztehaus Mühlburg",
+      "cityName": "Karlsruhe",
+      "productCount": 133,
+      "hasDelivery": true
+    },
+    {
+      "slug": "weinbrennerapotheke",
+      "name": "Weinbrennerapotheke",
+      "cityName": "Karlsruhe",
+      "productCount": 35,
+      "hasDelivery": true
+    },
+    {
+      "slug": "friesen-apotheke-karlsruhe",
+      "name": "Friesen-Gras",
+      "cityName": "Karlsruhe",
+      "productCount": 22,
+      "hasDelivery": true
+    },
+    {
+      "slug": "florians-vital-apotheke",
+      "name": "Florians Vital Apotheke",
+      "cityName": "Esslingen am Neckar",
+      "productCount": 248,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Marienhuana Apotheke - Cannabis Apotheke in Karlsruhe",
+      "description": "Marienhuana Apotheke in Karlsruhe. 43 Cannabis Produkte. Lieferung & Abholung. Bewertung: 3.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/marienhuana-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Marienhuana Apotheke - Cannabis Apotheke in Karlsruhe",
+        "description": "Marienhuana Apotheke in Karlsruhe. 43 Cannabis Produkte. Lieferung & Abholung. Bewertung: 3.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/marienhuana-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/66b87ec5b180f5750faaaaa1-fcd452.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Karlsruhe",
+        "href": "https://weed.de/cannabis-apotheke/karlsruhe"
+      },
+      {
+        "name": "Marienhuana Apotheke",
+        "href": "https://weed.de/apotheke/marienhuana-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Karlsruhe",
+            "item": "https://weed.de/cannabis-apotheke/karlsruhe"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Marienhuana Apotheke",
+            "item": "https://weed.de/apotheke/marienhuana-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Marienhuana Apotheke",
+        "url": "https://weed.de/apotheke/marienhuana-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Marienstraße 43",
+          "addressLocality": "Karlsruhe",
+          "postalCode": "76137",
+          "addressRegion": "Baden-Württemberg",
+          "addressCountry": "DE"
+        },
+        "telephone": "0721389325",
+        "email": "Cannabis@marienhuana.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/karlsruhe",
+      "text": "Cannabis Apotheken in Karlsruhe",
+      "title": "Alle Apotheken in Karlsruhe"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/karlchengras",
+        "text": "Karlchengras (Karl-Apotheke)",
+        "title": "Karlchengras (Karl-Apotheke) in Karlsruhe"
+      },
+      {
+        "href": "/apotheke/rhein-apotheke-im-aerztehaus-muehlburg",
+        "text": "Rhein-Apotheke im Ärztehaus Mühlburg",
+        "title": "Rhein-Apotheke im Ärztehaus Mühlburg in Karlsruhe"
+      },
+      {
+        "href": "/apotheke/weinbrennerapotheke",
+        "text": "Weinbrennerapotheke",
+        "title": "Weinbrennerapotheke in Karlsruhe"
+      },
+      {
+        "href": "/apotheke/friesen-apotheke-karlsruhe",
+        "text": "Friesen-Gras",
+        "title": "Friesen-Gras in Karlsruhe"
+      },
+      {
+        "href": "/apotheke/florians-vital-apotheke",
+        "text": "Florians Vital Apotheke",
+        "title": "Florians Vital Apotheke in Esslingen am Neckar"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

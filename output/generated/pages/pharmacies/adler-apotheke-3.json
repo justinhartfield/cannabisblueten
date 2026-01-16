@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "adler-apotheke-3",
+    "name": "Adler Cannabis Frankfurt",
+    "street": "Alt-Schwanheim 10",
+    "zip": "60529",
+    "cityName": "Frankfurt am Main",
+    "state": "Hessen",
+    "lat": 50.0860631,
+    "lng": 8.5815729,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://adler-cannabis-frankfurt.de/",
+    "phone": "06935355088",
+    "email": "info@adler-cannabis-frankfurt.de",
+    "productCount": 27,
+    "rating": 5,
+    "ratingCount": 1,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/68e364bd62903bcac5435ab0-7ah4e7.jpg"
+  },
+  "city": {
+    "slug": "frankfurt-am-main",
+    "name": "Frankfurt am Main",
+    "pharmacyCount": 6
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "cannabis-apotheke-frankfurtkissel-apotheke",
+      "name": "Cannabis Apotheke Frankfurt/Kissel-Apotheke",
+      "cityName": "Frankfurt am Main",
+      "productCount": 183,
+      "hasDelivery": true
+    },
+    {
+      "slug": "prinzenapotheke",
+      "name": "Prinzenapotheke",
+      "cityName": "Frankfurt am Main",
+      "productCount": 38,
+      "hasDelivery": true
+    },
+    {
+      "slug": "5k-goethe-apotheke",
+      "name": "5K Goethe Apotheke",
+      "cityName": "Frankfurt am Main",
+      "productCount": 8,
+      "hasDelivery": true
+    },
+    {
+      "slug": "wynter-moses",
+      "name": "Wynter Moses",
+      "cityName": "Frankfurt am Main",
+      "productCount": 0,
+      "hasDelivery": false
+    },
+    {
+      "slug": "izabella-pharmacy",
+      "name": "Izabella Pharmacy",
+      "cityName": "Frankfurt am Main",
+      "productCount": 0,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Adler Cannabis Frankfurt - Cannabis Apotheke in Frankfurt am Main",
+      "description": "Adler Cannabis Frankfurt in Frankfurt am Main. 27 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/adler-apotheke-3",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Adler Cannabis Frankfurt - Cannabis Apotheke in Frankfurt am Main",
+        "description": "Adler Cannabis Frankfurt in Frankfurt am Main. 27 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/adler-apotheke-3",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/68e364bd62903bcac5435ab0-7ah4e7.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Frankfurt am Main",
+        "href": "https://weed.de/cannabis-apotheke/frankfurt-am-main"
+      },
+      {
+        "name": "Adler Cannabis Frankfurt",
+        "href": "https://weed.de/apotheke/adler-apotheke-3"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Frankfurt am Main",
+            "item": "https://weed.de/cannabis-apotheke/frankfurt-am-main"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Adler Cannabis Frankfurt",
+            "item": "https://weed.de/apotheke/adler-apotheke-3"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Adler Cannabis Frankfurt",
+        "url": "https://weed.de/apotheke/adler-apotheke-3",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Alt-Schwanheim 10",
+          "addressLocality": "Frankfurt am Main",
+          "postalCode": "60529",
+          "addressRegion": "Hessen",
+          "addressCountry": "DE"
+        },
+        "telephone": "06935355088",
+        "email": "info@adler-cannabis-frankfurt.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/frankfurt-am-main",
+      "text": "Cannabis Apotheken in Frankfurt am Main",
+      "title": "Alle Apotheken in Frankfurt am Main"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/cannabis-apotheke-frankfurtkissel-apotheke",
+        "text": "Cannabis Apotheke Frankfurt/Kissel-Apotheke",
+        "title": "Cannabis Apotheke Frankfurt/Kissel-Apotheke in Frankfurt am Main"
+      },
+      {
+        "href": "/apotheke/prinzenapotheke",
+        "text": "Prinzenapotheke",
+        "title": "Prinzenapotheke in Frankfurt am Main"
+      },
+      {
+        "href": "/apotheke/5k-goethe-apotheke",
+        "text": "5K Goethe Apotheke",
+        "title": "5K Goethe Apotheke in Frankfurt am Main"
+      },
+      {
+        "href": "/apotheke/wynter-moses",
+        "text": "Wynter Moses",
+        "title": "Wynter Moses in Frankfurt am Main"
+      },
+      {
+        "href": "/apotheke/izabella-pharmacy",
+        "text": "Izabella Pharmacy",
+        "title": "Izabella Pharmacy in Frankfurt am Main"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

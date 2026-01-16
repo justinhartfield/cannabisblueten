@@ -1,0 +1,173 @@
+{
+  "brand": {
+    "slug": "medicann",
+    "name": "MediCann",
+    "productCount": 4
+  },
+  "products": [
+    {
+      "slug": "medican-heri-h",
+      "name": "Medican Heri",
+      "type": "flower",
+      "thcPercent": 13,
+      "priceMin": 850,
+      "inStock": true,
+      "strainName": "Herijuana"
+    },
+    {
+      "slug": "medicann-211-mc-oro-21-duende",
+      "name": "MediCann 21/1 MC Oro 21 Duende",
+      "type": "flower",
+      "thcPercent": 21,
+      "priceMin": 430,
+      "inStock": true,
+      "strainName": "Duende"
+    },
+    {
+      "slug": "medicann-oz-261",
+      "name": "MediCann OZ 26/1",
+      "type": "flower",
+      "thcPercent": 23.2,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Oreoz"
+    },
+    {
+      "slug": "medicann-191-mc-oro-21",
+      "name": "MediCann 19/1 MC Oro 21",
+      "type": "flower",
+      "thcPercent": 19,
+      "priceMin": 430,
+      "inStock": false,
+      "strainName": "Duende"
+    }
+  ],
+  "stats": {
+    "productCount": 4,
+    "inStockCount": 2,
+    "avgThc": 19.1,
+    "priceRange": {
+      "min": 430,
+      "max": 850,
+      "formatted": {
+        "min": "4,30 €",
+        "max": "8,50 €"
+      }
+    }
+  },
+  "seo": {
+    "meta": {
+      "title": "MediCann Cannabis Produkte - 4 Produkte",
+      "description": "MediCann: 4 Cannabis Produkte. 2 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+      "canonical": "https://weed.de/brand/medicann",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "MediCann Cannabis Produkte - 4 Produkte",
+        "description": "MediCann: 4 Cannabis Produkte. 2 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+        "url": "https://weed.de/brand/medicann",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Hersteller",
+        "href": "https://weed.de/brands"
+      },
+      {
+        "name": "MediCann",
+        "href": "https://weed.de/brand/medicann"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Hersteller",
+            "item": "https://weed.de/brands"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "MediCann",
+            "item": "https://weed.de/brand/medicann"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "MediCann Produkte",
+        "numberOfItems": 4,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/medican-heri-h",
+            "name": "Medican Heri"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/medicann-211-mc-oro-21-duende",
+            "name": "MediCann 21/1 MC Oro 21 Duende"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/medicann-oz-261",
+            "name": "MediCann OZ 26/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/product/medicann-191-mc-oro-21",
+            "name": "MediCann 19/1 MC Oro 21"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/medican-heri-h",
+        "text": "Medican Heri",
+        "title": "Medican Heri"
+      },
+      {
+        "href": "/product/medicann-211-mc-oro-21-duende",
+        "text": "MediCann 21/1 MC Oro 21 Duende",
+        "title": "MediCann 21/1 MC Oro 21 Duende"
+      },
+      {
+        "href": "/product/medicann-oz-261",
+        "text": "MediCann OZ 26/1",
+        "title": "MediCann OZ 26/1"
+      },
+      {
+        "href": "/product/medicann-191-mc-oro-21",
+        "text": "MediCann 19/1 MC Oro 21",
+        "title": "MediCann 19/1 MC Oro 21"
+      }
+    ]
+  }
+}

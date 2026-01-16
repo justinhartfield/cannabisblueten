@@ -1,0 +1,221 @@
+{
+  "product": {
+    "slug": "green-karat-ro-311-pt",
+    "name": "Green Karat RO 31/1 PT",
+    "type": "flower",
+    "genetics": "hybrid",
+    "thcPercent": 30.7,
+    "cbdPercent": 1,
+    "priceMin": 787,
+    "priceMax": 1080,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": "https://weed.de/products/green-karat-ro-311-pt-gi06fg.webp"
+  },
+  "brand": {
+    "slug": "cantourage",
+    "name": "Cantourage",
+    "productCount": 248
+  },
+  "strain": {
+    "slug": "runtz-og",
+    "name": "Runtz OG",
+    "geneticType": "hybrid",
+    "effects": [
+      "Energetic",
+      "Happy",
+      "Relaxed"
+    ],
+    "terpenes": [
+      "Linalool",
+      "Limonene",
+      "Beta-Myrcene"
+    ]
+  },
+  "attributes": {
+    "effects": [],
+    "tastes": [
+      "Sweet",
+      "Spicy-Herbal",
+      "Fruity"
+    ],
+    "terpenes": [
+      "Linalool",
+      "Limonene",
+      "Beta-Myrcene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "tilray-thc-25-spotlight-porto-purps",
+      "name": "Tilray THC 25 Spotlight Porto Purps",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": 349,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc1cbd1",
+      "name": "Tilray Cannabisextrakt THC10:CBD10",
+      "brandName": "Tilray",
+      "thcPercent": 10,
+      "priceMin": 400,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-2",
+      "name": "Demecan Typ 2",
+      "brandName": "Demecan",
+      "thcPercent": 16,
+      "priceMin": 533,
+      "inStock": true
+    },
+    {
+      "slug": "khiron-191-gelato",
+      "name": "Khiron 19/1 Gelato",
+      "brandName": "Khiron",
+      "thcPercent": 17.6,
+      "priceMin": 638,
+      "inStock": true
+    },
+    {
+      "slug": "green-karat-ro",
+      "name": "Green Karat RO 27/1",
+      "brandName": "Cantourage",
+      "thcPercent": 27,
+      "priceMin": 798,
+      "inStock": true
+    },
+    {
+      "slug": "green-karat-ro-331",
+      "name": "Green Karat RO 33/1",
+      "brandName": "Cantourage",
+      "thcPercent": 33,
+      "priceMin": 950,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Green Karat RO 31/1 PT - Cantourage | ab 7,87 €",
+      "description": "Green Karat RO 31/1 PT von Cantourage. THC: 30.7%, CBD: 1%. Sorte: Runtz OG. Preis ab 7,87 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/green-karat-ro-311-pt",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Green Karat RO 31/1 PT - Cantourage | ab 7,87 €",
+        "description": "Green Karat RO 31/1 PT von Cantourage. THC: 30.7%, CBD: 1%. Sorte: Runtz OG. Preis ab 7,87 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/green-karat-ro-311-pt",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/green-karat-ro-311-pt-gi06fg.webp"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Cantourage",
+        "href": "https://weed.de/brand/cantourage"
+      },
+      {
+        "name": "Green Karat RO 31/1 PT",
+        "href": "https://weed.de/product/green-karat-ro-311-pt"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Green Karat RO 31/1 PT",
+            "item": "https://weed.de/product/green-karat-ro-311-pt"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Green Karat RO 31/1 PT",
+        "brand": {
+          "@type": "Brand",
+          "name": "Cantourage"
+        },
+        "description": "THC: 30.7%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/runtz-og",
+      "text": "Runtz OG",
+      "title": "Runtz OG Sorte"
+    },
+    "brand": {
+      "href": "/brand/cantourage",
+      "text": "Cantourage",
+      "title": "Alle Cantourage Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/tilray-thc-25-spotlight-porto-purps",
+        "text": "Tilray THC 25 Spotlight Porto Purps",
+        "title": "Alternative: Tilray THC 25 Spotlight Porto Purps"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc1cbd1",
+        "text": "Tilray Cannabisextrakt THC10:CBD10",
+        "title": "Alternative: Tilray Cannabisextrakt THC10:CBD10"
+      },
+      {
+        "href": "/product/demecan-typ-2",
+        "text": "Demecan Typ 2",
+        "title": "Alternative: Demecan Typ 2"
+      },
+      {
+        "href": "/product/khiron-191-gelato",
+        "text": "Khiron 19/1 Gelato",
+        "title": "Alternative: Khiron 19/1 Gelato"
+      },
+      {
+        "href": "/product/green-karat-ro",
+        "text": "Green Karat RO 27/1",
+        "title": "Alternative: Green Karat RO 27/1"
+      },
+      {
+        "href": "/product/green-karat-ro-331",
+        "text": "Green Karat RO 33/1",
+        "title": "Alternative: Green Karat RO 33/1"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

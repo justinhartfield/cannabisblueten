@@ -1,0 +1,254 @@
+{
+  "strain": {
+    "slug": "caramel",
+    "name": "Caramel",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Relaxed",
+      "Focused",
+      "Euphoric"
+    ],
+    "tastes": [
+      "Sweet",
+      "Pine",
+      "Tobacco"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Myrcene",
+      "Humulene"
+    ],
+    "description": "Caramel ist eine therapeutisch orientierte Sorte mit einem ausgewogenen THC-CBD-Verhältnis von 1:1. Die subtilen psychoaktiven Wirkungen, gepaart mit dem Potenzial der Sorte zur Schmerzlinderung und zum Abbau von Ängsten, können diese Sorte zu einer wirksamen therapeutischen Option machen. Während ihre süßen und würzigen Aromen zum Gesamterlebnis beitragen, ist es das Potenzial zur Aufrechterhaltung der Funktionalität während des Gebrauchs, das hervorsticht.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 3,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 975,
+      "max": 1600,
+      "formatted": {
+        "min": "9,75 €",
+        "max": "16,00 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "khiron-57-karamel",
+      "name": "Khiron 5/7 Karamel",
+      "brandName": "Khiron",
+      "thcPercent": 5,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "khiron-c-57",
+      "name": "Khiron C 5/7",
+      "brandName": "Khiron",
+      "thcPercent": 5,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "tweed-balanced-68-c",
+      "name": "Tweed Balanced 6/8 C",
+      "brandName": "Canopy Growth",
+      "thcPercent": 6,
+      "priceMin": 975,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "mantis",
+      "name": "Mantis",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "blue-dream",
+      "name": "Blue Dream",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "thc-bomb",
+      "name": "THC-Bomb",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "tiger-cake",
+      "name": "Tiger Cake",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "og-deluxe",
+      "name": "OG Deluxe",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Caramel (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Caramel: Relaxed, Focused, Euphoric. 3 Produkte verfügbar. ab 9,75 €.",
+      "canonical": "https://weed.de/strain/caramel",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Caramel (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Caramel: Relaxed, Focused, Euphoric. 3 Produkte verfügbar. ab 9,75 €.",
+        "url": "https://weed.de/strain/caramel",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Caramel",
+        "href": "https://weed.de/strain/caramel"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Caramel",
+            "item": "https://weed.de/strain/caramel"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Caramel Produkte",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/khiron-57-karamel",
+            "name": "Khiron 5/7 Karamel"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/khiron-c-57",
+            "name": "Khiron C 5/7"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/tweed-balanced-68-c",
+            "name": "Tweed Balanced 6/8 C"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/khiron-57-karamel",
+        "text": "Khiron 5/7 Karamel",
+        "title": "Khiron 5/7 Karamel von Khiron"
+      },
+      {
+        "href": "/product/khiron-c-57",
+        "text": "Khiron C 5/7",
+        "title": "Khiron C 5/7 von Khiron"
+      },
+      {
+        "href": "/product/tweed-balanced-68-c",
+        "text": "Tweed Balanced 6/8 C",
+        "title": "Tweed Balanced 6/8 C von Canopy Growth"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/mantis",
+        "text": "Mantis",
+        "title": "Mantis - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/blue-dream",
+        "text": "Blue Dream",
+        "title": "Blue Dream - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/thc-bomb",
+        "text": "THC-Bomb",
+        "title": "THC-Bomb - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/tiger-cake",
+        "text": "Tiger Cake",
+        "title": "Tiger Cake - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/og-deluxe",
+        "text": "OG Deluxe",
+        "title": "OG Deluxe - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/humulene",
+        "text": "Humulene",
+        "title": "Humulene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "strain": {
+    "slug": "pineapple-nuken",
+    "name": "Pineapple Nuken",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Euphoric",
+      "Creative",
+      "Energetic"
+    ],
+    "tastes": [
+      "Tropical",
+      "Herbal",
+      "Earthy"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 3,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 395,
+      "max": 798,
+      "formatted": {
+        "min": "3,95 €",
+        "max": "7,98 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "avaay-21-pnk",
+      "name": "Avaay 20/1 PNK",
+      "brandName": "Avaay",
+      "thcPercent": 20,
+      "priceMin": 395,
+      "inStock": true
+    },
+    {
+      "slug": "avaay-221-pnk",
+      "name": "Avaay 22/1 PNK",
+      "brandName": "Avaay",
+      "thcPercent": 22,
+      "priceMin": 798,
+      "inStock": true
+    },
+    {
+      "slug": "avaay-241-pnk",
+      "name": "avaay 24/1 PNK",
+      "brandName": "Avaay",
+      "thcPercent": 24,
+      "priceMin": 599,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "diamond-mints",
+      "name": "Diamond Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "driftwood-diesel",
+      "name": "Driftwood Diesel",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "forbidden-dream",
+      "name": "Forbidden Dream",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "gul-of-mexiko",
+      "name": "Gul of Mexiko",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "khalifa-mints",
+      "name": "Khalifa Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Pineapple Nuken (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Pineapple Nuken: Euphoric, Creative, Energetic. 3 Produkte verfügbar. ab 3,95 €.",
+      "canonical": "https://weed.de/strain/pineapple-nuken",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Pineapple Nuken (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Pineapple Nuken: Euphoric, Creative, Energetic. 3 Produkte verfügbar. ab 3,95 €.",
+        "url": "https://weed.de/strain/pineapple-nuken",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Pineapple Nuken",
+        "href": "https://weed.de/strain/pineapple-nuken"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Pineapple Nuken",
+            "item": "https://weed.de/strain/pineapple-nuken"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Pineapple Nuken Produkte",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/avaay-21-pnk",
+            "name": "Avaay 20/1 PNK"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/avaay-221-pnk",
+            "name": "Avaay 22/1 PNK"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/avaay-241-pnk",
+            "name": "avaay 24/1 PNK"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/avaay-21-pnk",
+        "text": "Avaay 20/1 PNK",
+        "title": "Avaay 20/1 PNK von Avaay"
+      },
+      {
+        "href": "/product/avaay-221-pnk",
+        "text": "Avaay 22/1 PNK",
+        "title": "Avaay 22/1 PNK von Avaay"
+      },
+      {
+        "href": "/product/avaay-241-pnk",
+        "text": "avaay 24/1 PNK",
+        "title": "avaay 24/1 PNK von Avaay"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/diamond-mints",
+        "text": "Diamond Mints",
+        "title": "Diamond Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/driftwood-diesel",
+        "text": "Driftwood Diesel",
+        "title": "Driftwood Diesel - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/forbidden-dream",
+        "text": "Forbidden Dream",
+        "title": "Forbidden Dream - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/gul-of-mexiko",
+        "text": "Gul of Mexiko",
+        "title": "Gul of Mexiko - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/khalifa-mints",
+        "text": "Khalifa Mints",
+        "title": "Khalifa Mints - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

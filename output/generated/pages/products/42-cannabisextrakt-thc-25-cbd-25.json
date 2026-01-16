@@ -1,0 +1,205 @@
+{
+  "product": {
+    "slug": "42-cannabisextrakt-thc-25-cbd-25",
+    "name": "420 Cannabisextrakt THC 25 / CBD 25",
+    "type": "extract",
+    "genetics": "indica",
+    "thcPercent": 25,
+    "cbdPercent": 25,
+    "priceMin": 399,
+    "priceMax": 810,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Deutschland",
+    "imageUrl": "https://weed.de/products/42-cannabisextrakt-thc-25-cbd-25-gegeca.png"
+  },
+  "brand": {
+    "slug": "four-20-pharma",
+    "name": "Four 20 Pharma",
+    "productCount": 267
+  },
+  "strain": {
+    "slug": "emt-2",
+    "name": "EMT 2",
+    "geneticType": "hybrid",
+    "effects": [],
+    "terpenes": []
+  },
+  "attributes": {
+    "effects": [],
+    "tastes": [],
+    "terpenes": []
+  },
+  "alternativeProducts": [
+    {
+      "slug": "42-cannabisextrakt-thc-2-cbd",
+      "name": "420 Cannabisextrakt THC 20 / CBD 0",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 20,
+      "priceMin": 269,
+      "inStock": true
+    },
+    {
+      "slug": "42-cannabisextrakt-thc-1-cbd-1",
+      "name": "420 Cannabisextrakt THC 10 / CBD 10",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 10,
+      "priceMin": 299,
+      "inStock": true
+    },
+    {
+      "slug": "adven-cannabisextrakt-thc-20",
+      "name": "Adven Cannabisextrakt THC 20",
+      "brandName": "Adven",
+      "thcPercent": 2,
+      "priceMin": 476,
+      "inStock": true
+    },
+    {
+      "slug": "adven-2525-cannabisextrakt",
+      "name": "Adven 25/25 Cannabisextrakt",
+      "brandName": "Adven",
+      "thcPercent": 25,
+      "priceMin": 495,
+      "inStock": true
+    },
+    {
+      "slug": "yuvigocannabisextrakt-thc-20",
+      "name": "YuvigoCannabisextrakt THC 20",
+      "brandName": "Adven",
+      "thcPercent": 2,
+      "priceMin": 800,
+      "inStock": true
+    },
+    {
+      "slug": "251vayamed-cannabisextrakt",
+      "name": "25/1Vayamed Cannabisextrakt",
+      "brandName": "Vayamed",
+      "thcPercent": 2.5,
+      "priceMin": 824,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "420 Cannabisextrakt THC 25 / CBD 25 - Four 20 Pharma | ab...",
+      "description": "420 Cannabisextrakt THC 25 / CBD 25 von Four 20 Pharma. THC: 25%, CBD: 25%. Sorte: EMT 2. Preis ab 3,99 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/42-cannabisextrakt-thc-25-cbd-25",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "420 Cannabisextrakt THC 25 / CBD 25 - Four 20 Pharma | ab...",
+        "description": "420 Cannabisextrakt THC 25 / CBD 25 von Four 20 Pharma. THC: 25%, CBD: 25%. Sorte: EMT 2. Preis ab 3,99 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/42-cannabisextrakt-thc-25-cbd-25",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/42-cannabisextrakt-thc-25-cbd-25-gegeca.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Four 20 Pharma",
+        "href": "https://weed.de/brand/four-20-pharma"
+      },
+      {
+        "name": "420 Cannabisextrakt THC 25 / CBD 25",
+        "href": "https://weed.de/product/42-cannabisextrakt-thc-25-cbd-25"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "420 Cannabisextrakt THC 25 / CBD 25",
+            "item": "https://weed.de/product/42-cannabisextrakt-thc-25-cbd-25"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "420 Cannabisextrakt THC 25 / CBD 25",
+        "brand": {
+          "@type": "Brand",
+          "name": "Four 20 Pharma"
+        },
+        "description": "THC: 25%, CBD: 25%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/emt-2",
+      "text": "EMT 2",
+      "title": "EMT 2 Sorte"
+    },
+    "brand": {
+      "href": "/brand/four-20-pharma",
+      "text": "Four 20 Pharma",
+      "title": "Alle Four 20 Pharma Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/42-cannabisextrakt-thc-2-cbd",
+        "text": "420 Cannabisextrakt THC 20 / CBD 0",
+        "title": "Alternative: 420 Cannabisextrakt THC 20 / CBD 0"
+      },
+      {
+        "href": "/product/42-cannabisextrakt-thc-1-cbd-1",
+        "text": "420 Cannabisextrakt THC 10 / CBD 10",
+        "title": "Alternative: 420 Cannabisextrakt THC 10 / CBD 10"
+      },
+      {
+        "href": "/product/adven-cannabisextrakt-thc-20",
+        "text": "Adven Cannabisextrakt THC 20",
+        "title": "Alternative: Adven Cannabisextrakt THC 20"
+      },
+      {
+        "href": "/product/adven-2525-cannabisextrakt",
+        "text": "Adven 25/25 Cannabisextrakt",
+        "title": "Alternative: Adven 25/25 Cannabisextrakt"
+      },
+      {
+        "href": "/product/yuvigocannabisextrakt-thc-20",
+        "text": "YuvigoCannabisextrakt THC 20",
+        "title": "Alternative: YuvigoCannabisextrakt THC 20"
+      },
+      {
+        "href": "/product/251vayamed-cannabisextrakt",
+        "text": "25/1Vayamed Cannabisextrakt",
+        "title": "Alternative: 25/1Vayamed Cannabisextrakt"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

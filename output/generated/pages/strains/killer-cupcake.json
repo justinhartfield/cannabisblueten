@@ -1,0 +1,241 @@
+{
+  "strain": {
+    "slug": "killer-cupcake",
+    "name": "Killer Cupcake",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Creative",
+      "Happy",
+      "Hungry"
+    ],
+    "tastes": [
+      "Vanilla",
+      "Sweet",
+      "Fruity"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Linalool",
+      "Beta-Pinene",
+      "Alpha-Humulene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 589,
+      "max": 999,
+      "formatted": {
+        "min": "5,89 €",
+        "max": "9,99 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "21-iuvo-oc-kc",
+      "name": "20/1 IUVO OC Killer Cupcake",
+      "brandName": "Iuvo",
+      "thcPercent": 20.5,
+      "priceMin": 589,
+      "inStock": true
+    },
+    {
+      "slug": "241-iuvo-killer-cupcake",
+      "name": "24/1 IUVO Killer Cupcake",
+      "brandName": "Iuvo",
+      "thcPercent": 24,
+      "priceMin": 724,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "purple-ice-water",
+      "name": "Purple Ice Water",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "amnesia-skittles",
+      "name": "Amnesia Skittles",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "dawg-bud-fusion",
+      "name": "Dawg Bud Fusion",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "godfather-og-auto",
+      "name": "Godfather OG Auto",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "red-dragon-og",
+      "name": "Red Dragon OG",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Killer Cupcake (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Killer Cupcake: Creative, Happy, Hungry. 2 Produkte verfügbar. ab 5,89 €.",
+      "canonical": "https://weed.de/strain/killer-cupcake",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Killer Cupcake (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Killer Cupcake: Creative, Happy, Hungry. 2 Produkte verfügbar. ab 5,89 €.",
+        "url": "https://weed.de/strain/killer-cupcake",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Killer Cupcake",
+        "href": "https://weed.de/strain/killer-cupcake"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Killer Cupcake",
+            "item": "https://weed.de/strain/killer-cupcake"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Killer Cupcake Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/21-iuvo-oc-kc",
+            "name": "20/1 IUVO OC Killer Cupcake"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/241-iuvo-killer-cupcake",
+            "name": "24/1 IUVO Killer Cupcake"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/21-iuvo-oc-kc",
+        "text": "20/1 IUVO OC Killer Cupcake",
+        "title": "20/1 IUVO OC Killer Cupcake von Iuvo"
+      },
+      {
+        "href": "/product/241-iuvo-killer-cupcake",
+        "text": "24/1 IUVO Killer Cupcake",
+        "title": "24/1 IUVO Killer Cupcake von Iuvo"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/purple-ice-water",
+        "text": "Purple Ice Water",
+        "title": "Purple Ice Water - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/amnesia-skittles",
+        "text": "Amnesia Skittles",
+        "title": "Amnesia Skittles - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/dawg-bud-fusion",
+        "text": "Dawg Bud Fusion",
+        "title": "Dawg Bud Fusion - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/godfather-og-auto",
+        "text": "Godfather OG Auto",
+        "title": "Godfather OG Auto - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/red-dragon-og",
+        "text": "Red Dragon OG",
+        "title": "Red Dragon OG - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      },
+      {
+        "href": "/terpene/beta-pinene",
+        "text": "Beta-Pinene",
+        "title": "Beta-Pinene Terpen"
+      },
+      {
+        "href": "/terpene/alpha-humulene",
+        "text": "Alpha-Humulene",
+        "title": "Alpha-Humulene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

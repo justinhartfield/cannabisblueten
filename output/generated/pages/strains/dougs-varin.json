@@ -1,0 +1,292 @@
+{
+  "strain": {
+    "slug": "dougs-varin",
+    "name": "Dougs Varin",
+    "geneticType": "sativa",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [
+      "Euphoric",
+      "Focused",
+      "Energetic"
+    ],
+    "tastes": [
+      "Pine",
+      "Earthy",
+      "Citrus"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Alpha-Pinene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 5,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 369,
+      "max": 550,
+      "formatted": {
+        "min": "3,69 €",
+        "max": "5,50 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "madrecan-241-dgv",
+      "name": "madrecan 24/1 DGV",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 24,
+      "priceMin": 369,
+      "inStock": true
+    },
+    {
+      "slug": "madrecan-211-dgv",
+      "name": "madrecan 21/1 DGV",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 21,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "cannabis-flos-161-cl-ku",
+      "name": "Canify Cannabis flos 16/1 CL Ku.",
+      "brandName": "Canify",
+      "thcPercent": 16,
+      "priceMin": 449,
+      "inStock": true
+    },
+    {
+      "slug": "madrecan-241-dgv-minis",
+      "name": "madrecan 24/1 DGV Minis",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 24,
+      "priceMin": 499,
+      "inStock": false
+    },
+    {
+      "slug": "luana-181-dgv",
+      "name": "Luana 18/1 DGV",
+      "brandName": "Cannamedical",
+      "thcPercent": 18,
+      "priceMin": 399,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "auto-desfran",
+      "name": "Auto Desfrán",
+      "geneticType": "sativa",
+      "thcMax": null
+    },
+    {
+      "slug": "strawberry-lemonade",
+      "name": "Strawberry Lemonade",
+      "geneticType": "sativa",
+      "thcMax": null
+    },
+    {
+      "slug": "columbian-haze",
+      "name": "Columbian Haze",
+      "geneticType": "sativa",
+      "thcMax": null
+    },
+    {
+      "slug": "carnez-citric",
+      "name": "Carnez Citric",
+      "geneticType": "sativa",
+      "thcMax": null
+    },
+    {
+      "slug": "sonic-lemon-fuel",
+      "name": "Sonic Lemon Fuel",
+      "geneticType": "sativa",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Dougs Varin (Sativa) - Wirkung, THC & Verfügbarkeit",
+      "description": "Dougs Varin: Euphoric, Focused, Energetic. 5 Produkte verfügbar. ab 3,69 €.",
+      "canonical": "https://weed.de/strain/dougs-varin",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Dougs Varin (Sativa) - Wirkung, THC & Verfügbarkeit",
+        "description": "Dougs Varin: Euphoric, Focused, Energetic. 5 Produkte verfügbar. ab 3,69 €.",
+        "url": "https://weed.de/strain/dougs-varin",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Dougs Varin",
+        "href": "https://weed.de/strain/dougs-varin"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Dougs Varin",
+            "item": "https://weed.de/strain/dougs-varin"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Dougs Varin Produkte",
+        "numberOfItems": 5,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/madrecan-241-dgv",
+            "name": "madrecan 24/1 DGV"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/madrecan-211-dgv",
+            "name": "madrecan 21/1 DGV"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/cannabis-flos-161-cl-ku",
+            "name": "Canify Cannabis flos 16/1 CL Ku."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/product/madrecan-241-dgv-minis",
+            "name": "madrecan 24/1 DGV Minis"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "https://weed.de/product/luana-181-dgv",
+            "name": "Luana 18/1 DGV"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/madrecan-241-dgv",
+        "text": "madrecan 24/1 DGV",
+        "title": "madrecan 24/1 DGV von Remexian Pharma"
+      },
+      {
+        "href": "/product/madrecan-211-dgv",
+        "text": "madrecan 21/1 DGV",
+        "title": "madrecan 21/1 DGV von Remexian Pharma"
+      },
+      {
+        "href": "/product/cannabis-flos-161-cl-ku",
+        "text": "Canify Cannabis flos 16/1 CL Ku.",
+        "title": "Canify Cannabis flos 16/1 CL Ku. von Canify"
+      },
+      {
+        "href": "/product/madrecan-241-dgv-minis",
+        "text": "madrecan 24/1 DGV Minis",
+        "title": "madrecan 24/1 DGV Minis von Remexian Pharma"
+      },
+      {
+        "href": "/product/luana-181-dgv",
+        "text": "Luana 18/1 DGV",
+        "title": "Luana 18/1 DGV von Cannamedical"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/auto-desfran",
+        "text": "Auto Desfrán",
+        "title": "Auto Desfrán - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/strawberry-lemonade",
+        "text": "Strawberry Lemonade",
+        "title": "Strawberry Lemonade - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/columbian-haze",
+        "text": "Columbian Haze",
+        "title": "Columbian Haze - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/carnez-citric",
+        "text": "Carnez Citric",
+        "title": "Carnez Citric - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/sonic-lemon-fuel",
+        "text": "Sonic Lemon Fuel",
+        "title": "Sonic Lemon Fuel - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/alpha-pinene",
+        "text": "Alpha-Pinene",
+        "title": "Alpha-Pinene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "strain": {
+    "slug": "beach-crasher",
+    "name": "Beach Crasher",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0,
+      "max": 0
+    },
+    "effects": [
+      "Euphoric",
+      "Creative",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Sage",
+      "Earthy",
+      "Citrus"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Myrcene",
+      "Terpinolene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 479,
+      "max": 698,
+      "formatted": {
+        "min": "4,79 €",
+        "max": "6,98 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "tilray-craft-thc25-bcr",
+      "name": "Tilray Craft THC25 BCR",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": 698,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-craft-thc22-bcr-beach-crasher",
+      "name": "Tilray THC22 Spotlight Porto",
+      "brandName": "Tilray",
+      "thcPercent": 22,
+      "priceMin": 479,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "purple-amnesia",
+      "name": "Purple Amnesia",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "frosted-lemon-cake",
+      "name": "Frosted Lemon Cake",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "super-citra-g",
+      "name": "Super Citra G",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "auto-jack-herer",
+      "name": "Auto Jack Herer",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "mun-shine-6",
+      "name": "Mun Shine 6",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Beach Crasher (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Beach Crasher: Euphoric, Creative, Relaxed. 2 Produkte verfügbar. ab 4,79 €.",
+      "canonical": "https://weed.de/strain/beach-crasher",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Beach Crasher (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Beach Crasher: Euphoric, Creative, Relaxed. 2 Produkte verfügbar. ab 4,79 €.",
+        "url": "https://weed.de/strain/beach-crasher",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Beach Crasher",
+        "href": "https://weed.de/strain/beach-crasher"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Beach Crasher",
+            "item": "https://weed.de/strain/beach-crasher"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Beach Crasher Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/tilray-craft-thc25-bcr",
+            "name": "Tilray Craft THC25 BCR"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/tilray-craft-thc22-bcr-beach-crasher",
+            "name": "Tilray THC22 Spotlight Porto"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/tilray-craft-thc25-bcr",
+        "text": "Tilray Craft THC25 BCR",
+        "title": "Tilray Craft THC25 BCR von Tilray"
+      },
+      {
+        "href": "/product/tilray-craft-thc22-bcr-beach-crasher",
+        "text": "Tilray THC22 Spotlight Porto",
+        "title": "Tilray THC22 Spotlight Porto von Tilray"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/purple-amnesia",
+        "text": "Purple Amnesia",
+        "title": "Purple Amnesia - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/frosted-lemon-cake",
+        "text": "Frosted Lemon Cake",
+        "title": "Frosted Lemon Cake - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/super-citra-g",
+        "text": "Super Citra G",
+        "title": "Super Citra G - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/auto-jack-herer",
+        "text": "Auto Jack Herer",
+        "title": "Auto Jack Herer - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/mun-shine-6",
+        "text": "Mun Shine 6",
+        "title": "Mun Shine 6 - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/terpinolene",
+        "text": "Terpinolene",
+        "title": "Terpinolene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

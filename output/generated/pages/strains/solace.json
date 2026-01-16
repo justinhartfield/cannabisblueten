@@ -1,0 +1,180 @@
+{
+  "strain": {
+    "slug": "solace",
+    "name": "Solace",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Calming",
+      "Euphoric",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Flowery",
+      "Earthy",
+      "Spicy-Herbal"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Myrcene",
+      "Linalool"
+    ],
+    "description": "Solace, einer sativa-dominanten Hybrid-Sorte, die die Sinne fesselt. Hervorgegangen aus dem angesehenen Skunk #1, Haze und einer nicht näher benannten Sorte, die von den Züchtern als Geheimnis gehütet wird, präsentiert sich Solace mit einer mysteriösen und verlockenden Abstammung. Mit einem CBD-Gehalt von 1% und einem THC-Gehalt zwischen 18% und 22% bietet Solace ein ausgewogenes Erlebnis, das beruhigende, euphorische und entspannende Effekte vereint. Die Mischung von Terpenen, darunter Caryophyllene, Myrcene und Linalool, trägt zu seinem aromatischen Profil bei, das sich aus blumigen, erdigen und würzig-kräuterigen Noten zusammensetzt.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 0,
+    "pharmacyCount": 0,
+    "priceRange": null
+  },
+  "products": [],
+  "similarStrains": [
+    {
+      "slug": "black-kush",
+      "name": "Black Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "punch-pie",
+      "name": "Punch Pie",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "black-marker",
+      "name": "Black Marker",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "critical-sensistar",
+      "name": "Critical Sensistar",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "watermelon",
+      "name": "Watermelon",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Solace (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Solace: Calming, Euphoric, Relaxed.",
+      "canonical": "https://weed.de/strain/solace",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Solace (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Solace: Calming, Euphoric, Relaxed.",
+        "url": "https://weed.de/strain/solace",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Solace",
+        "href": "https://weed.de/strain/solace"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Solace",
+            "item": "https://weed.de/strain/solace"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [],
+    "similarStrains": [
+      {
+        "href": "/strain/black-kush",
+        "text": "Black Kush",
+        "title": "Black Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/punch-pie",
+        "text": "Punch Pie",
+        "title": "Punch Pie - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/black-marker",
+        "text": "Black Marker",
+        "title": "Black Marker - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/critical-sensistar",
+        "text": "Critical Sensistar",
+        "title": "Critical Sensistar - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/watermelon",
+        "text": "Watermelon",
+        "title": "Watermelon - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has data and related content"
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "kastulus-apotheke",
+    "name": "Kastulus-Apotheke",
+    "street": "Landshuter Straße 20",
+    "zip": "84186",
+    "cityName": "Vilsheim",
+    "state": "Bayern",
+    "lat": 48.447768,
+    "lng": 12.1059884,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://www.kraftvoll-gesund.de/cannabis",
+    "phone": "08706941004",
+    "email": "cannabis@kastulus-apotheke-vilsheim.de",
+    "productCount": 32,
+    "rating": 5,
+    "ratingCount": 1,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/683576f133498e3f41ab9fec-i31cfa.jpg"
+  },
+  "city": {
+    "slug": "vilsheim",
+    "name": "Vilsheim",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "cannabisapo24",
+      "name": "Cannabisapo24",
+      "cityName": "Augsburg",
+      "productCount": 364,
+      "hasDelivery": true
+    },
+    {
+      "slug": "spital-apotheke-zum-heiligen-geist",
+      "name": "Canthera.de | Spital Apotheke zum Heiligen Geist",
+      "cityName": "Nürnberg",
+      "productCount": 317,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannaplus-apotheke",
+      "name": "Cannaplus Apotheke",
+      "cityName": "Augsburg",
+      "productCount": 186,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis-apotheke-bayern-1",
+      "name": "Cannabis Apotheke Bayern",
+      "cityName": "Schweinfurt",
+      "productCount": 184,
+      "hasDelivery": true
+    },
+    {
+      "slug": "canamedico-cannabis-mainfranken",
+      "name": "canamedico® – Cannabis Mainfranken",
+      "cityName": "Volkach",
+      "productCount": 162,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Kastulus-Apotheke - Cannabis Apotheke in Vilsheim",
+      "description": "Kastulus-Apotheke in Vilsheim. 32 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/kastulus-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Kastulus-Apotheke - Cannabis Apotheke in Vilsheim",
+        "description": "Kastulus-Apotheke in Vilsheim. 32 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/kastulus-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/683576f133498e3f41ab9fec-i31cfa.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Vilsheim",
+        "href": "https://weed.de/cannabis-apotheke/vilsheim"
+      },
+      {
+        "name": "Kastulus-Apotheke",
+        "href": "https://weed.de/apotheke/kastulus-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Vilsheim",
+            "item": "https://weed.de/cannabis-apotheke/vilsheim"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Kastulus-Apotheke",
+            "item": "https://weed.de/apotheke/kastulus-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Kastulus-Apotheke",
+        "url": "https://weed.de/apotheke/kastulus-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Landshuter Straße 20",
+          "addressLocality": "Vilsheim",
+          "postalCode": "84186",
+          "addressRegion": "Bayern",
+          "addressCountry": "DE"
+        },
+        "telephone": "08706941004",
+        "email": "cannabis@kastulus-apotheke-vilsheim.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/vilsheim",
+      "text": "Cannabis Apotheken in Vilsheim",
+      "title": "Alle Apotheken in Vilsheim"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/cannabisapo24",
+        "text": "Cannabisapo24",
+        "title": "Cannabisapo24 in Augsburg"
+      },
+      {
+        "href": "/apotheke/spital-apotheke-zum-heiligen-geist",
+        "text": "Canthera.de | Spital Apotheke zum Heiligen Geist",
+        "title": "Canthera.de | Spital Apotheke zum Heiligen Geist in Nürnberg"
+      },
+      {
+        "href": "/apotheke/cannaplus-apotheke",
+        "text": "Cannaplus Apotheke",
+        "title": "Cannaplus Apotheke in Augsburg"
+      },
+      {
+        "href": "/apotheke/cannabis-apotheke-bayern-1",
+        "text": "Cannabis Apotheke Bayern",
+        "title": "Cannabis Apotheke Bayern in Schweinfurt"
+      },
+      {
+        "href": "/apotheke/canamedico-cannabis-mainfranken",
+        "text": "canamedico® – Cannabis Mainfranken",
+        "title": "canamedico® – Cannabis Mainfranken in Volkach"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

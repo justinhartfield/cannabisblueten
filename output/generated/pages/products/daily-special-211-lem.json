@@ -1,0 +1,235 @@
+{
+  "product": {
+    "slug": "daily-special-211-lem",
+    "name": "Daily Special 21/1 LEM",
+    "type": "flower",
+    "genetics": "hybrid_sativa",
+    "thcPercent": 21,
+    "cbdPercent": 1,
+    "priceMin": 477,
+    "priceMax": 699,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "aurora",
+    "name": "Aurora",
+    "productCount": 39
+  },
+  "strain": {
+    "slug": "lemonatti",
+    "name": "Lemonatti",
+    "geneticType": "hybrid",
+    "effects": [
+      "Creative",
+      "Focused",
+      "Euphoric",
+      "Mood-lifting",
+      "Stress-relief",
+      "Pain-relief",
+      "Relaxed"
+    ],
+    "terpenes": [
+      "Pinene",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Creative",
+      "Focused",
+      "Euphoric",
+      "Mood-lifting",
+      "Stress-relief",
+      "Pain-relief",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Flowery",
+      "Citrus",
+      "Earthy",
+      "Berry",
+      "Lemon",
+      "Sweet"
+    ],
+    "terpenes": [
+      "Pinene",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "medical-saints-211-lem",
+      "name": "Medical Saints 21/1 LEM",
+      "brandName": "Medical Saints",
+      "thcPercent": 21,
+      "priceMin": 375,
+      "inStock": true
+    },
+    {
+      "slug": "amp-classic-251",
+      "name": "AMP Classic 25/1",
+      "brandName": "AMP",
+      "thcPercent": 25,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "vop-231-marios-selection",
+      "name": "VOP 23/1 Marios Selection",
+      "brandName": "YouCann GmbH",
+      "thcPercent": 23,
+      "priceMin": 599,
+      "inStock": true
+    },
+    {
+      "slug": "weeco-231",
+      "name": "Weeco 23/1",
+      "brandName": "Weeco",
+      "thcPercent": 23,
+      "priceMin": 599,
+      "inStock": true
+    },
+    {
+      "slug": "420-evolution-271-ca-str",
+      "name": "420 Evolution 27/1 CA STR",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 27,
+      "priceMin": 645,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-221-florestura",
+      "name": "DEMECAN Florestura 22:01",
+      "brandName": "Deutsche Medizinalcannabis",
+      "thcPercent": 22,
+      "priceMin": 679,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Daily Special 21/1 LEM - Aurora | ab 4,77 €",
+      "description": "Daily Special 21/1 LEM von Aurora. THC: 21%, CBD: 1%. Sorte: Lemonatti. Preis ab 4,77 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/daily-special-211-lem",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Daily Special 21/1 LEM - Aurora | ab 4,77 €",
+        "description": "Daily Special 21/1 LEM von Aurora. THC: 21%, CBD: 1%. Sorte: Lemonatti. Preis ab 4,77 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/daily-special-211-lem",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Aurora",
+        "href": "https://weed.de/brand/aurora"
+      },
+      {
+        "name": "Daily Special 21/1 LEM",
+        "href": "https://weed.de/product/daily-special-211-lem"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Daily Special 21/1 LEM",
+            "item": "https://weed.de/product/daily-special-211-lem"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Daily Special 21/1 LEM",
+        "brand": {
+          "@type": "Brand",
+          "name": "Aurora"
+        },
+        "description": "THC: 21%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/lemonatti",
+      "text": "Lemonatti",
+      "title": "Lemonatti Sorte"
+    },
+    "brand": {
+      "href": "/brand/aurora",
+      "text": "Aurora",
+      "title": "Alle Aurora Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/medical-saints-211-lem",
+        "text": "Medical Saints 21/1 LEM",
+        "title": "Alternative: Medical Saints 21/1 LEM"
+      },
+      {
+        "href": "/product/amp-classic-251",
+        "text": "AMP Classic 25/1",
+        "title": "Alternative: AMP Classic 25/1"
+      },
+      {
+        "href": "/product/vop-231-marios-selection",
+        "text": "VOP 23/1 Marios Selection",
+        "title": "Alternative: VOP 23/1 Marios Selection"
+      },
+      {
+        "href": "/product/weeco-231",
+        "text": "Weeco 23/1",
+        "title": "Alternative: Weeco 23/1"
+      },
+      {
+        "href": "/product/420-evolution-271-ca-str",
+        "text": "420 Evolution 27/1 CA STR",
+        "title": "Alternative: 420 Evolution 27/1 CA STR"
+      },
+      {
+        "href": "/product/demecan-221-florestura",
+        "text": "DEMECAN Florestura 22:01",
+        "title": "Alternative: DEMECAN Florestura 22:01"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

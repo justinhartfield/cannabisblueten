@@ -1,0 +1,253 @@
+{
+  "brand": {
+    "slug": "tyson-2-0",
+    "name": "TYSON 2.0",
+    "productCount": 8
+  },
+  "products": [
+    {
+      "slug": "tyson-20-301",
+      "name": "TYSON 2.0 30/1 HH",
+      "type": "flower",
+      "thcPercent": 30,
+      "priceMin": 796,
+      "inStock": true,
+      "strainName": "Haymaker Haze"
+    },
+    {
+      "slug": "tyson-20-301-tm",
+      "name": "TYSON 2.0 30/1 TM",
+      "type": "flower",
+      "thcPercent": 30,
+      "priceMin": 975,
+      "inStock": true,
+      "strainName": "Tiger Milk"
+    },
+    {
+      "slug": "tyson-2-261-tm",
+      "name": "TYSON 2.0 26/1 TM",
+      "type": "flower",
+      "thcPercent": 25,
+      "priceMin": 699,
+      "inStock": true,
+      "strainName": "Tiger Milk"
+    },
+    {
+      "slug": "tyson-20-281",
+      "name": "TYSON 2.0 28/1 ND",
+      "type": "flower",
+      "thcPercent": 28,
+      "priceMin": 1040,
+      "inStock": false,
+      "strainName": "NYC Diesel"
+    },
+    {
+      "slug": "tyson-20-241",
+      "name": "TYSON 2.0 24/1",
+      "type": "flower",
+      "thcPercent": 23,
+      "priceMin": 894,
+      "inStock": false,
+      "strainName": "NYC Diesel"
+    },
+    {
+      "slug": "tyson-20-281-tm",
+      "name": "TYSON 2.0 28/1 TM",
+      "type": "flower",
+      "thcPercent": 28,
+      "priceMin": 664,
+      "inStock": false,
+      "strainName": "Tiger Milk"
+    },
+    {
+      "slug": "tyson-20-281-hh",
+      "name": "TYSON 2.0 28/1 HH",
+      "type": "flower",
+      "thcPercent": 28,
+      "priceMin": 999,
+      "inStock": false,
+      "strainName": "Haymaker Haze"
+    },
+    {
+      "slug": "tyson-2-261",
+      "name": "TYSON 2.0 26/1 NYC Diesel",
+      "type": "flower",
+      "thcPercent": 26,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "NYC Diesel"
+    }
+  ],
+  "stats": {
+    "productCount": 8,
+    "inStockCount": 3,
+    "avgThc": 27.3,
+    "priceRange": {
+      "min": 664,
+      "max": 1040,
+      "formatted": {
+        "min": "6,64 €",
+        "max": "10,40 €"
+      }
+    }
+  },
+  "seo": {
+    "meta": {
+      "title": "TYSON 2.0 Cannabis Produkte - 8 Produkte",
+      "description": "TYSON 2.0: 8 Cannabis Produkte. 3 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+      "canonical": "https://weed.de/brand/tyson-2-0",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "TYSON 2.0 Cannabis Produkte - 8 Produkte",
+        "description": "TYSON 2.0: 8 Cannabis Produkte. 3 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+        "url": "https://weed.de/brand/tyson-2-0",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Hersteller",
+        "href": "https://weed.de/brands"
+      },
+      {
+        "name": "TYSON 2.0",
+        "href": "https://weed.de/brand/tyson-2-0"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Hersteller",
+            "item": "https://weed.de/brands"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "TYSON 2.0",
+            "item": "https://weed.de/brand/tyson-2-0"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "TYSON 2.0 Produkte",
+        "numberOfItems": 8,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/tyson-20-301",
+            "name": "TYSON 2.0 30/1 HH"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/tyson-20-301-tm",
+            "name": "TYSON 2.0 30/1 TM"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/tyson-2-261-tm",
+            "name": "TYSON 2.0 26/1 TM"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/product/tyson-20-281",
+            "name": "TYSON 2.0 28/1 ND"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "https://weed.de/product/tyson-20-241",
+            "name": "TYSON 2.0 24/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "url": "https://weed.de/product/tyson-20-281-tm",
+            "name": "TYSON 2.0 28/1 TM"
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "url": "https://weed.de/product/tyson-20-281-hh",
+            "name": "TYSON 2.0 28/1 HH"
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "url": "https://weed.de/product/tyson-2-261",
+            "name": "TYSON 2.0 26/1 NYC Diesel"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/tyson-20-301",
+        "text": "TYSON 2.0 30/1 HH",
+        "title": "TYSON 2.0 30/1 HH"
+      },
+      {
+        "href": "/product/tyson-20-301-tm",
+        "text": "TYSON 2.0 30/1 TM",
+        "title": "TYSON 2.0 30/1 TM"
+      },
+      {
+        "href": "/product/tyson-2-261-tm",
+        "text": "TYSON 2.0 26/1 TM",
+        "title": "TYSON 2.0 26/1 TM"
+      },
+      {
+        "href": "/product/tyson-20-281",
+        "text": "TYSON 2.0 28/1 ND",
+        "title": "TYSON 2.0 28/1 ND"
+      },
+      {
+        "href": "/product/tyson-20-241",
+        "text": "TYSON 2.0 24/1",
+        "title": "TYSON 2.0 24/1"
+      },
+      {
+        "href": "/product/tyson-20-281-tm",
+        "text": "TYSON 2.0 28/1 TM",
+        "title": "TYSON 2.0 28/1 TM"
+      },
+      {
+        "href": "/product/tyson-20-281-hh",
+        "text": "TYSON 2.0 28/1 HH",
+        "title": "TYSON 2.0 28/1 HH"
+      },
+      {
+        "href": "/product/tyson-2-261",
+        "text": "TYSON 2.0 26/1 NYC Diesel",
+        "title": "TYSON 2.0 26/1 NYC Diesel"
+      }
+    ]
+  }
+}

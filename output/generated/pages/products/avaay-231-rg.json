@@ -1,0 +1,225 @@
+{
+  "product": {
+    "slug": "avaay-231-rg",
+    "name": "AVAAY 23/1 RG",
+    "type": "flower",
+    "genetics": "hybrid_sativa",
+    "thcPercent": 23.7,
+    "cbdPercent": 1,
+    "priceMin": 689,
+    "priceMax": 689,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "N/A",
+    "imageUrl": "https://weed.de/products/avaay-231-rg-fg0754.png"
+  },
+  "brand": {
+    "slug": "avaay",
+    "name": "Avaay",
+    "productCount": 101
+  },
+  "strain": {
+    "slug": "royal-gorilla",
+    "name": "Royal Gorilla",
+    "geneticType": "hybrid",
+    "effects": [
+      "Euphoric",
+      "Cerebral",
+      "Strong"
+    ],
+    "terpenes": [
+      "Beta-Caryophyllene",
+      "Limonene",
+      "Alpha-Humulene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Euphoric",
+      "Cerebral",
+      "Strong"
+    ],
+    "tastes": [
+      "Citrus",
+      "Earthy",
+      "Sweet"
+    ],
+    "terpenes": [
+      "Beta-Caryophyllene",
+      "Limonene",
+      "Alpha-Humulene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "amp-classic-251",
+      "name": "AMP Classic 25/1",
+      "brandName": "AMP",
+      "thcPercent": 25,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "weeco-231",
+      "name": "Weeco 23/1",
+      "brandName": "Weeco",
+      "thcPercent": 23,
+      "priceMin": 599,
+      "inStock": true
+    },
+    {
+      "slug": "aurora-221-dhz-ca",
+      "name": "Aurora 22/1 DHZ-CA",
+      "brandName": "Aurora",
+      "thcPercent": 19.8,
+      "priceMin": 640,
+      "inStock": true
+    },
+    {
+      "slug": "420-evolution-271-ca-str",
+      "name": "420 Evolution 27/1 CA STR",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 27,
+      "priceMin": 645,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-221-florestura",
+      "name": "DEMECAN Florestura 22:01",
+      "brandName": "Deutsche Medizinalcannabis",
+      "thcPercent": 22,
+      "priceMin": 679,
+      "inStock": true
+    },
+    {
+      "slug": "avaay-221-bcp",
+      "name": "Avaay 22/1 BCP",
+      "brandName": "Avaay",
+      "thcPercent": 22,
+      "priceMin": 775,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "AVAAY 23/1 RG - Avaay | ab 6,89 €",
+      "description": "AVAAY 23/1 RG von Avaay. THC: 23.7%, CBD: 1%. Sorte: Royal Gorilla. Preis ab 6,89 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/avaay-231-rg",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "AVAAY 23/1 RG - Avaay | ab 6,89 €",
+        "description": "AVAAY 23/1 RG von Avaay. THC: 23.7%, CBD: 1%. Sorte: Royal Gorilla. Preis ab 6,89 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/avaay-231-rg",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/avaay-231-rg-fg0754.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Avaay",
+        "href": "https://weed.de/brand/avaay"
+      },
+      {
+        "name": "AVAAY 23/1 RG",
+        "href": "https://weed.de/product/avaay-231-rg"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "AVAAY 23/1 RG",
+            "item": "https://weed.de/product/avaay-231-rg"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "AVAAY 23/1 RG",
+        "brand": {
+          "@type": "Brand",
+          "name": "Avaay"
+        },
+        "description": "THC: 23.7%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/royal-gorilla",
+      "text": "Royal Gorilla",
+      "title": "Royal Gorilla Sorte"
+    },
+    "brand": {
+      "href": "/brand/avaay",
+      "text": "Avaay",
+      "title": "Alle Avaay Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/amp-classic-251",
+        "text": "AMP Classic 25/1",
+        "title": "Alternative: AMP Classic 25/1"
+      },
+      {
+        "href": "/product/weeco-231",
+        "text": "Weeco 23/1",
+        "title": "Alternative: Weeco 23/1"
+      },
+      {
+        "href": "/product/aurora-221-dhz-ca",
+        "text": "Aurora 22/1 DHZ-CA",
+        "title": "Alternative: Aurora 22/1 DHZ-CA"
+      },
+      {
+        "href": "/product/420-evolution-271-ca-str",
+        "text": "420 Evolution 27/1 CA STR",
+        "title": "Alternative: 420 Evolution 27/1 CA STR"
+      },
+      {
+        "href": "/product/demecan-221-florestura",
+        "text": "DEMECAN Florestura 22:01",
+        "title": "Alternative: DEMECAN Florestura 22:01"
+      },
+      {
+        "href": "/product/avaay-221-bcp",
+        "text": "Avaay 22/1 BCP",
+        "title": "Alternative: Avaay 22/1 BCP"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

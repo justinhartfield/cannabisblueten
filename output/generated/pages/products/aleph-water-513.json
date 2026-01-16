@@ -1,0 +1,235 @@
+{
+  "product": {
+    "slug": "aleph-water-513",
+    "name": "Aleph Water 5/13",
+    "type": "flower",
+    "genetics": "hybrid_sativa",
+    "thcPercent": 5,
+    "cbdPercent": 13,
+    "priceMin": 769,
+    "priceMax": 769,
+    "inStock": false,
+    "pzn": null,
+    "originCountry": "Portugal",
+    "imageUrl": "https://weed.de/products/aleph-water-513-4bi472.png"
+  },
+  "brand": {
+    "slug": "alephsana",
+    "name": "alephSana",
+    "productCount": 37
+  },
+  "strain": {
+    "slug": "amnesia-balanced",
+    "name": "Amnesia Balanced",
+    "geneticType": "hybrid",
+    "effects": [
+      "Focused",
+      "Energetic",
+      "Relaxed",
+      "Mental ease",
+      "Stress-relief",
+      "Pain-relief",
+      "Mood-lifting",
+      "Anxiety-reducing"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Terpinolene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Focused",
+      "Energetic",
+      "Relaxed",
+      "Mental ease",
+      "Stress-relief",
+      "Pain-relief",
+      "Mood-lifting",
+      "Anxiety-reducing"
+    ],
+    "tastes": [
+      "Pine",
+      "Earthy",
+      "Citrus",
+      "Herbal",
+      "Fresh"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Terpinolene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "amp-classic-251",
+      "name": "AMP Classic 25/1",
+      "brandName": "AMP",
+      "thcPercent": 25,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "weeco-231",
+      "name": "Weeco 23/1",
+      "brandName": "Weeco",
+      "thcPercent": 23,
+      "priceMin": 599,
+      "inStock": true
+    },
+    {
+      "slug": "aurora-221-dhz-ca",
+      "name": "Aurora 22/1 DHZ-CA",
+      "brandName": "Aurora",
+      "thcPercent": 19.8,
+      "priceMin": 640,
+      "inStock": true
+    },
+    {
+      "slug": "420-evolution-271-ca-str",
+      "name": "420 Evolution 27/1 CA STR",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 27,
+      "priceMin": 645,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-221-florestura",
+      "name": "DEMECAN Florestura 22:01",
+      "brandName": "Deutsche Medizinalcannabis",
+      "thcPercent": 22,
+      "priceMin": 679,
+      "inStock": true
+    },
+    {
+      "slug": "avaay-231-rg",
+      "name": "AVAAY 23/1 RG",
+      "brandName": "Avaay",
+      "thcPercent": 23.7,
+      "priceMin": 689,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Aleph Water 5/13 - alephSana | ab 7,69 €",
+      "description": "Aleph Water 5/13 von alephSana. THC: 5%, CBD: 13%. Sorte: Amnesia Balanced. Preis ab 7,69 €. Preise vergleichen.",
+      "canonical": "https://weed.de/product/aleph-water-513",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Aleph Water 5/13 - alephSana | ab 7,69 €",
+        "description": "Aleph Water 5/13 von alephSana. THC: 5%, CBD: 13%. Sorte: Amnesia Balanced. Preis ab 7,69 €. Preise vergleichen.",
+        "url": "https://weed.de/product/aleph-water-513",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/aleph-water-513-4bi472.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "alephSana",
+        "href": "https://weed.de/brand/alephsana"
+      },
+      {
+        "name": "Aleph Water 5/13",
+        "href": "https://weed.de/product/aleph-water-513"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Aleph Water 5/13",
+            "item": "https://weed.de/product/aleph-water-513"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Aleph Water 5/13",
+        "brand": {
+          "@type": "Brand",
+          "name": "alephSana"
+        },
+        "description": "THC: 5%, CBD: 13%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/amnesia-balanced",
+      "text": "Amnesia Balanced",
+      "title": "Amnesia Balanced Sorte"
+    },
+    "brand": {
+      "href": "/brand/alephsana",
+      "text": "alephSana",
+      "title": "Alle alephSana Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/amp-classic-251",
+        "text": "AMP Classic 25/1",
+        "title": "Alternative: AMP Classic 25/1"
+      },
+      {
+        "href": "/product/weeco-231",
+        "text": "Weeco 23/1",
+        "title": "Alternative: Weeco 23/1"
+      },
+      {
+        "href": "/product/aurora-221-dhz-ca",
+        "text": "Aurora 22/1 DHZ-CA",
+        "title": "Alternative: Aurora 22/1 DHZ-CA"
+      },
+      {
+        "href": "/product/420-evolution-271-ca-str",
+        "text": "420 Evolution 27/1 CA STR",
+        "title": "Alternative: 420 Evolution 27/1 CA STR"
+      },
+      {
+        "href": "/product/demecan-221-florestura",
+        "text": "DEMECAN Florestura 22:01",
+        "title": "Alternative: DEMECAN Florestura 22:01"
+      },
+      {
+        "href": "/product/avaay-231-rg",
+        "text": "AVAAY 23/1 RG",
+        "title": "Alternative: AVAAY 23/1 RG"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has price data"
+  }
+}

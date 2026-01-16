@@ -1,0 +1,228 @@
+{
+  "product": {
+    "slug": "rua-aio-271",
+    "name": "Rua Aio 27/1",
+    "type": "flower",
+    "genetics": "hybrid",
+    "thcPercent": 27,
+    "cbdPercent": 1,
+    "priceMin": 539,
+    "priceMax": 790,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "rua-bioscience",
+    "name": "Rua Bioscience",
+    "productCount": 1
+  },
+  "strain": {
+    "slug": "8-ball-kush",
+    "name": "8 Ball Kush",
+    "geneticType": "indica",
+    "effects": [
+      "Relaxed",
+      "Happy",
+      "Hungry",
+      "Calming"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Pinene",
+      "Caryophyllene",
+      "Geraniol"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Relaxed",
+      "Happy",
+      "Hungry",
+      "Calming"
+    ],
+    "tastes": [
+      "Spicy-Herbal",
+      "Pine",
+      "Menthol"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Pinene",
+      "Caryophyllene",
+      "Geraniol"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "tilray-thc-25-spotlight-porto-purps",
+      "name": "Tilray THC 25 Spotlight Porto Purps",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": 349,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc5cbd2",
+      "name": "Tilray Cannabisextrakt THC5:CBD20",
+      "brandName": "Tilray",
+      "thcPercent": 5,
+      "priceMin": 350,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc1cbd1",
+      "name": "Tilray Cannabisextrakt THC10:CBD10",
+      "brandName": "Tilray",
+      "thcPercent": 10,
+      "priceMin": 400,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-2",
+      "name": "Demecan Typ 2",
+      "brandName": "Demecan",
+      "thcPercent": 16,
+      "priceMin": 533,
+      "inStock": true
+    },
+    {
+      "slug": "rua-aio-301",
+      "name": "RUA AIO 30/1",
+      "brandName": "Nimbus Health",
+      "thcPercent": 30,
+      "priceMin": 578,
+      "inStock": true
+    },
+    {
+      "slug": "khiron-191-gelato",
+      "name": "Khiron 19/1 Gelato",
+      "brandName": "Khiron",
+      "thcPercent": 17.6,
+      "priceMin": 638,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Rua Aio 27/1 - Rua Bioscience | ab 5,39 €",
+      "description": "Rua Aio 27/1 von Rua Bioscience. THC: 27%, CBD: 1%. Sorte: 8 Ball Kush. Preis ab 5,39 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/rua-aio-271",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Rua Aio 27/1 - Rua Bioscience | ab 5,39 €",
+        "description": "Rua Aio 27/1 von Rua Bioscience. THC: 27%, CBD: 1%. Sorte: 8 Ball Kush. Preis ab 5,39 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/rua-aio-271",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Rua Bioscience",
+        "href": "https://weed.de/brand/rua-bioscience"
+      },
+      {
+        "name": "Rua Aio 27/1",
+        "href": "https://weed.de/product/rua-aio-271"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Rua Aio 27/1",
+            "item": "https://weed.de/product/rua-aio-271"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Rua Aio 27/1",
+        "brand": {
+          "@type": "Brand",
+          "name": "Rua Bioscience"
+        },
+        "description": "THC: 27%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/8-ball-kush",
+      "text": "8 Ball Kush",
+      "title": "8 Ball Kush Sorte"
+    },
+    "brand": {
+      "href": "/brand/rua-bioscience",
+      "text": "Rua Bioscience",
+      "title": "Alle Rua Bioscience Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/tilray-thc-25-spotlight-porto-purps",
+        "text": "Tilray THC 25 Spotlight Porto Purps",
+        "title": "Alternative: Tilray THC 25 Spotlight Porto Purps"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc5cbd2",
+        "text": "Tilray Cannabisextrakt THC5:CBD20",
+        "title": "Alternative: Tilray Cannabisextrakt THC5:CBD20"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc1cbd1",
+        "text": "Tilray Cannabisextrakt THC10:CBD10",
+        "title": "Alternative: Tilray Cannabisextrakt THC10:CBD10"
+      },
+      {
+        "href": "/product/demecan-typ-2",
+        "text": "Demecan Typ 2",
+        "title": "Alternative: Demecan Typ 2"
+      },
+      {
+        "href": "/product/rua-aio-301",
+        "text": "RUA AIO 30/1",
+        "title": "Alternative: RUA AIO 30/1"
+      },
+      {
+        "href": "/product/khiron-191-gelato",
+        "text": "Khiron 19/1 Gelato",
+        "title": "Alternative: Khiron 19/1 Gelato"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

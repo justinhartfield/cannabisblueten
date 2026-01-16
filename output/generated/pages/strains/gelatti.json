@@ -1,0 +1,247 @@
+{
+  "strain": {
+    "slug": "gelatti",
+    "name": "Gelatti",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.9,
+      "max": 0.9
+    },
+    "effects": [
+      "Relaxed",
+      "Euphoric",
+      "Uplifted",
+      "Happy",
+      "Creative",
+      "Energetic"
+    ],
+    "tastes": [
+      "Earthy",
+      "Sweet",
+      "Apple",
+      "Pepper",
+      "Tobacco",
+      "Flowery"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Ocimene",
+      "Bisabolol",
+      "Myrcene"
+    ],
+    "description": "Gelatti ist eine ausgeglichene Hybrid-Sorte aus dem Hause Cookie Fam Genetics mit THC-Werten im Bereich von 19% bis 22% und einem minimalen CBD-Gehalt von weniger als 1%. Der Strain entstammt einer Kreuzung von “Gelato” und “OG Biscotti” und weist ein entsprechendes Terpenprofil, mit Anteilen von Caryophyllen, Limonen und Linalool auf. Das Ergebnis ist ein Gescmack der von Nutzern als blumig-süß, dabei aber auch erdig und pfeffrig beschrieben wird. Die Wirkung soll unter anderem euphorisch, aufhellend und kreativitätsanregen sein, was eine Anwendung am Tage, jedoch auch in den Abendstunden möglich machen könnte. Die Blüten des Strains sind recht dicht und gehen in eine hell bis quietsch-grüne Richtung, wobei hin und wieder auch relativ kleine Anteile dunkler Blätter autreten können. Die Blütenstände sind unauffällig und kurz und die Trichome gehen in Richtung gelb, was die knallige Farbgebung dieses Strains mit unterstreicht.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 397,
+      "max": 620,
+      "formatted": {
+        "min": "3,97 €",
+        "max": "6,20 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "nice-21-ge",
+      "name": "Nice 20/1 GE",
+      "brandName": "Cansativa",
+      "thcPercent": 20,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "nice-181-ge",
+      "name": "NICE 18/1 GE",
+      "brandName": "Cansativa",
+      "thcPercent": 18,
+      "priceMin": null,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "gelato-33",
+      "name": "Gelato 33",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "banana-sherbet",
+      "name": "Banana Sherbet",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "critical-orange-punch",
+      "name": "Critical Orange Punch",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "auto-watermelon-candy-f1",
+      "name": "Auto Watermelon Candy F1",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "mango-kush",
+      "name": "Mango Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Gelatti (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Gelatti: Relaxed, Euphoric, Uplifted. 2 Produkte verfügbar. ab 3,97 €.",
+      "canonical": "https://weed.de/strain/gelatti",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Gelatti (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Gelatti: Relaxed, Euphoric, Uplifted. 2 Produkte verfügbar. ab 3,97 €.",
+        "url": "https://weed.de/strain/gelatti",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Gelatti",
+        "href": "https://weed.de/strain/gelatti"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Gelatti",
+            "item": "https://weed.de/strain/gelatti"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Gelatti Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/nice-21-ge",
+            "name": "Nice 20/1 GE"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/nice-181-ge",
+            "name": "NICE 18/1 GE"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/nice-21-ge",
+        "text": "Nice 20/1 GE",
+        "title": "Nice 20/1 GE von Cansativa"
+      },
+      {
+        "href": "/product/nice-181-ge",
+        "text": "NICE 18/1 GE",
+        "title": "NICE 18/1 GE von Cansativa"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/gelato-33",
+        "text": "Gelato 33",
+        "title": "Gelato 33 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/banana-sherbet",
+        "text": "Banana Sherbet",
+        "title": "Banana Sherbet - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/critical-orange-punch",
+        "text": "Critical Orange Punch",
+        "title": "Critical Orange Punch - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/auto-watermelon-candy-f1",
+        "text": "Auto Watermelon Candy F1",
+        "title": "Auto Watermelon Candy F1 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/mango-kush",
+        "text": "Mango Kush",
+        "title": "Mango Kush - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/ocimene",
+        "text": "Ocimene",
+        "title": "Ocimene Terpen"
+      },
+      {
+        "href": "/terpene/bisabolol",
+        "text": "Bisabolol",
+        "title": "Bisabolol Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

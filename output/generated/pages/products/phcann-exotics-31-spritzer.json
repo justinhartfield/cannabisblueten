@@ -1,0 +1,245 @@
+{
+  "product": {
+    "slug": "phcann-exotics-31-spritzer",
+    "name": "PHCANN Exotics 30/1 Spritzer",
+    "type": "flower",
+    "genetics": "hybrid_indica",
+    "thcPercent": 28,
+    "cbdPercent": 1,
+    "priceMin": 645,
+    "priceMax": 800,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Mazedonien",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "nimbus-health",
+    "name": "Nimbus Health",
+    "productCount": 78
+  },
+  "strain": {
+    "slug": "spritzer",
+    "name": "Spritzer",
+    "geneticType": "hybrid",
+    "effects": [
+      "Tingly",
+      "Uplifted",
+      "Relaxed",
+      "Happy",
+      "Talkative",
+      "Stress-relief",
+      "Anxiety-reducing",
+      "Creative",
+      "Focused"
+    ],
+    "terpenes": [
+      "Terpinolene",
+      "Myrcene",
+      "Limonene",
+      "Caryophyllene",
+      "Pinene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Tingly",
+      "Uplifted",
+      "Relaxed",
+      "Happy",
+      "Talkative",
+      "Stress-relief",
+      "Anxiety-reducing",
+      "Creative",
+      "Focused"
+    ],
+    "tastes": [
+      "Flowery",
+      "Nutty",
+      "Pungent",
+      "Sweet",
+      "Diesel",
+      "Skunk",
+      "Tangy",
+      "Earthy"
+    ],
+    "terpenes": [
+      "Terpinolene",
+      "Myrcene",
+      "Limonene",
+      "Caryophyllene",
+      "Pinene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "soma-og-31-spritzer",
+      "name": "SOMA OG 30/1 Spritzer",
+      "brandName": "Cansativa",
+      "thcPercent": 30,
+      "priceMin": 625,
+      "inStock": true
+    },
+    {
+      "slug": "soma-og-321-pf",
+      "name": "Soma OG 32/1 PF",
+      "brandName": "Cansativa",
+      "thcPercent": 32,
+      "priceMin": 699,
+      "inStock": true
+    },
+    {
+      "slug": "cnbs-spz-311",
+      "name": "CNBS SPZ 31/1",
+      "brandName": "Medical CNBS",
+      "thcPercent": 31,
+      "priceMin": 700,
+      "inStock": true
+    },
+    {
+      "slug": "remexian-271-nxn-spz",
+      "name": "Remexian 27/1 NXN SPZ",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 27,
+      "priceMin": 490,
+      "inStock": false
+    },
+    {
+      "slug": "remexian-301-nxn-spz",
+      "name": "Remexian 30/1 NXN SPZ",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 30,
+      "priceMin": 798,
+      "inStock": false
+    },
+    {
+      "slug": "kejf-spz-251",
+      "name": "KEjF. SPZ 25/1",
+      "brandName": "Medical CNBS",
+      "thcPercent": 25,
+      "priceMin": 890,
+      "inStock": false
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "PHCANN Exotics 30/1 Spritzer - Nimbus Health | ab 6,45 €",
+      "description": "PHCANN Exotics 30/1 Spritzer von Nimbus Health. THC: 28%, CBD: 1%. Sorte: Spritzer. Preis ab 6,45 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/phcann-exotics-31-spritzer",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "PHCANN Exotics 30/1 Spritzer - Nimbus Health | ab 6,45 €",
+        "description": "PHCANN Exotics 30/1 Spritzer von Nimbus Health. THC: 28%, CBD: 1%. Sorte: Spritzer. Preis ab 6,45 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/phcann-exotics-31-spritzer",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Nimbus Health",
+        "href": "https://weed.de/brand/nimbus-health"
+      },
+      {
+        "name": "PHCANN Exotics 30/1 Spritzer",
+        "href": "https://weed.de/product/phcann-exotics-31-spritzer"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "PHCANN Exotics 30/1 Spritzer",
+            "item": "https://weed.de/product/phcann-exotics-31-spritzer"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "PHCANN Exotics 30/1 Spritzer",
+        "brand": {
+          "@type": "Brand",
+          "name": "Nimbus Health"
+        },
+        "description": "THC: 28%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/spritzer",
+      "text": "Spritzer",
+      "title": "Spritzer Sorte"
+    },
+    "brand": {
+      "href": "/brand/nimbus-health",
+      "text": "Nimbus Health",
+      "title": "Alle Nimbus Health Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/soma-og-31-spritzer",
+        "text": "SOMA OG 30/1 Spritzer",
+        "title": "Alternative: SOMA OG 30/1 Spritzer"
+      },
+      {
+        "href": "/product/soma-og-321-pf",
+        "text": "Soma OG 32/1 PF",
+        "title": "Alternative: Soma OG 32/1 PF"
+      },
+      {
+        "href": "/product/cnbs-spz-311",
+        "text": "CNBS SPZ 31/1",
+        "title": "Alternative: CNBS SPZ 31/1"
+      },
+      {
+        "href": "/product/remexian-271-nxn-spz",
+        "text": "Remexian 27/1 NXN SPZ",
+        "title": "Alternative: Remexian 27/1 NXN SPZ"
+      },
+      {
+        "href": "/product/remexian-301-nxn-spz",
+        "text": "Remexian 30/1 NXN SPZ",
+        "title": "Alternative: Remexian 30/1 NXN SPZ"
+      },
+      {
+        "href": "/product/kejf-spz-251",
+        "text": "KEjF. SPZ 25/1",
+        "title": "Alternative: KEjF. SPZ 25/1"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "city": {
+    "slug": "leipzig",
+    "name": "Leipzig",
+    "state": "Sachsen"
+  },
+  "stats": {
+    "pharmacyCount": 2,
+    "totalProducts": 168,
+    "hasDelivery": true
+  },
+  "pharmacies": [
+    {
+      "slug": "gruenhorn-apotheke",
+      "name": "GRÜNHORN - Apotheke im P. C.",
+      "street": "Permoserstraße 19",
+      "zip": "04318",
+      "hasDelivery": true,
+      "hasPickup": false,
+      "productCount": 168,
+      "rating": 3.8,
+      "ratingCount": 5
+    },
+    {
+      "slug": "apotheke-mockauer-post",
+      "name": "Apotheke Mockauer Post",
+      "street": "Mockauer Straße 121",
+      "zip": "04357",
+      "hasDelivery": false,
+      "hasPickup": false,
+      "productCount": 0,
+      "rating": 0,
+      "ratingCount": 0
+    }
+  ],
+  "nearbyCities": [
+    {
+      "slug": "schneeberg",
+      "name": "Schneeberg",
+      "pharmacyCount": 1
+    },
+    {
+      "slug": "dresden",
+      "name": "Dresden",
+      "pharmacyCount": 1
+    },
+    {
+      "slug": "zwickau",
+      "name": "Zwickau",
+      "pharmacyCount": 1
+    },
+    {
+      "slug": "markkleeberg",
+      "name": "Markkleeberg",
+      "pharmacyCount": 1
+    },
+    {
+      "slug": "chemnitz",
+      "name": "Chemnitz",
+      "pharmacyCount": 1
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannabis Apotheke Leipzig - 2 Apotheken",
+      "description": "Cannabis Apotheken in Leipzig. 2 Apotheken mit 168 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+      "canonical": "https://weed.de/cannabis-apotheke/leipzig",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannabis Apotheke Leipzig - 2 Apotheken",
+        "description": "Cannabis Apotheken in Leipzig. 2 Apotheken mit 168 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+        "url": "https://weed.de/cannabis-apotheke/leipzig",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Leipzig",
+        "href": "https://weed.de/cannabis-apotheke/leipzig"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Leipzig",
+            "item": "https://weed.de/cannabis-apotheke/leipzig"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Cannabis Apotheken in Leipzig",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/apotheke/gruenhorn-apotheke",
+            "name": "GRÜNHORN - Apotheke im P. C."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/apotheke/apotheke-mockauer-post",
+            "name": "Apotheke Mockauer Post"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "pharmacies": [
+      {
+        "href": "/apotheke/gruenhorn-apotheke",
+        "text": "GRÜNHORN - Apotheke im P. C.",
+        "title": "GRÜNHORN - Apotheke im P. C. in Leipzig"
+      },
+      {
+        "href": "/apotheke/apotheke-mockauer-post",
+        "text": "Apotheke Mockauer Post",
+        "title": "Apotheke Mockauer Post in Leipzig"
+      }
+    ],
+    "nearbyCities": [
+      {
+        "href": "/cannabis-apotheke/schneeberg",
+        "text": "Cannabis Apotheke Schneeberg",
+        "title": "1 Apotheken in Schneeberg"
+      },
+      {
+        "href": "/cannabis-apotheke/dresden",
+        "text": "Cannabis Apotheke Dresden",
+        "title": "1 Apotheken in Dresden"
+      },
+      {
+        "href": "/cannabis-apotheke/zwickau",
+        "text": "Cannabis Apotheke Zwickau",
+        "title": "1 Apotheken in Zwickau"
+      },
+      {
+        "href": "/cannabis-apotheke/markkleeberg",
+        "text": "Cannabis Apotheke Markkleeberg",
+        "title": "1 Apotheken in Markkleeberg"
+      },
+      {
+        "href": "/cannabis-apotheke/chemnitz",
+        "text": "Cannabis Apotheke Chemnitz",
+        "title": "1 Apotheken in Chemnitz"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has 2 pharmacies"
+  }
+}

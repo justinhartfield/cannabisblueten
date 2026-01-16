@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "apotheke-friedeburg",
+    "name": "Apotheke Friedeburg",
+    "street": "Friedeburger Hauptstraße 80",
+    "zip": "26446",
+    "cityName": "Friedeburg",
+    "state": "Niedersachsen",
+    "lat": 53.4536136,
+    "lng": 7.8380717,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": false,
+    "website": "https://apotheke-friedeburg.de",
+    "phone": "06645265",
+    "email": "info@apotheke-friedeburg.de",
+    "productCount": 0,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/682ee4e46009a494e44ddee3-8bc974.jpg"
+  },
+  "city": {
+    "slug": "friedeburg",
+    "name": "Friedeburg",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "alle-farben-apotheke",
+      "name": "Alle Farben Apotheke",
+      "cityName": "Melle",
+      "productCount": 132,
+      "hasDelivery": true
+    },
+    {
+      "slug": "happy-cannamed",
+      "name": "Marien Apotheke",
+      "cityName": "Cloppenburg",
+      "productCount": 61,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannanord",
+      "name": "CannaNord",
+      "cityName": "Oldenburg",
+      "productCount": 55,
+      "hasDelivery": true
+    },
+    {
+      "slug": "easycannabis-easyapotheke-citylebenstedt",
+      "name": "EasyCannabis easyApotheke CityLebenstedt",
+      "cityName": "Salzgitter",
+      "productCount": 40,
+      "hasDelivery": true
+    },
+    {
+      "slug": "sophie-green",
+      "name": "Sophie Green",
+      "cityName": "Meppen",
+      "productCount": 31,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Apotheke Friedeburg - Cannabis Apotheke in Friedeburg",
+      "description": "Apotheke Friedeburg in Friedeburg. Lieferung & Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/apotheke-friedeburg",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Apotheke Friedeburg - Cannabis Apotheke in Friedeburg",
+        "description": "Apotheke Friedeburg in Friedeburg. Lieferung & Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/apotheke-friedeburg",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/682ee4e46009a494e44ddee3-8bc974.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Friedeburg",
+        "href": "https://weed.de/cannabis-apotheke/friedeburg"
+      },
+      {
+        "name": "Apotheke Friedeburg",
+        "href": "https://weed.de/apotheke/apotheke-friedeburg"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Friedeburg",
+            "item": "https://weed.de/cannabis-apotheke/friedeburg"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Apotheke Friedeburg",
+            "item": "https://weed.de/apotheke/apotheke-friedeburg"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Apotheke Friedeburg",
+        "url": "https://weed.de/apotheke/apotheke-friedeburg",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Friedeburger Hauptstraße 80",
+          "addressLocality": "Friedeburg",
+          "postalCode": "26446",
+          "addressRegion": "Niedersachsen",
+          "addressCountry": "DE"
+        },
+        "telephone": "06645265",
+        "email": "info@apotheke-friedeburg.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/friedeburg",
+      "text": "Cannabis Apotheken in Friedeburg",
+      "title": "Alle Apotheken in Friedeburg"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/alle-farben-apotheke",
+        "text": "Alle Farben Apotheke",
+        "title": "Alle Farben Apotheke in Melle"
+      },
+      {
+        "href": "/apotheke/happy-cannamed",
+        "text": "Marien Apotheke",
+        "title": "Marien Apotheke in Cloppenburg"
+      },
+      {
+        "href": "/apotheke/cannanord",
+        "text": "CannaNord",
+        "title": "CannaNord in Oldenburg"
+      },
+      {
+        "href": "/apotheke/easycannabis-easyapotheke-citylebenstedt",
+        "text": "EasyCannabis easyApotheke CityLebenstedt",
+        "title": "EasyCannabis easyApotheke CityLebenstedt in Salzgitter"
+      },
+      {
+        "href": "/apotheke/sophie-green",
+        "text": "Sophie Green",
+        "title": "Sophie Green in Meppen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has services"
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "strain": {
+    "slug": "black-tuna",
+    "name": "Black Tuna",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [
+      "Euphoric",
+      "Sleepy",
+      "Relaxed",
+      "Pain-relief",
+      "Anxiety-reducing",
+      "Stress-relief"
+    ],
+    "tastes": [
+      "Earthy",
+      "Woody",
+      "Sweet",
+      "Musky"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "Black Tuna (auch bekannt als Tuna Black) ist eine Sativa-dominierte Hybrid-Sorte, entstanden aus der Kreuzung der Sorten Herijuana und Lamb’s Bread. Mit einem THC-Gehalt, der typischerweise zwischen 15% und 18% liegt, und einem CBD-Wert von unter 0,1% liefert sie eine starke narkotische Wirkung. \nIhr komplexes Geschmacksprofil ist geprägt von einem starken und erdigen Geruch, ergänzt durch holzige und süße Noten. Das Terpenprofil, das von Myrcen und Beta-Caryophyllen dominiert wird, was das Aroma mit entspannenden, moschusartigen und würzigen Nuancen unterstreicht. \nDie Wirkung wurde speziell zur Linderung chronischer Schmerzen gezüchtet, liefert intensive Gefühle von Euphorie und Entspannung. Black Tuna ist ideal, um Stress, Angstzustände und chronische Schmerzen zu lindern, da sie eine starke THC-Wirkung mit tiefer körperlicher Ruhe kombiniert. Zusammengefasst ist Black Tuna eine Sorte für alle, die ein erdig-würziges Aroma mit einem potenten, tief beruhigenden und schlaffördernden High suchen.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 529,
+      "max": 529,
+      "formatted": {
+        "min": "5,29 €",
+        "max": "5,29 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "tilray-thc-18-spotlight-porto-bt",
+      "name": "Tilray THC 18 Spotlight Porto BT",
+      "brandName": "Tilray",
+      "thcPercent": 18,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "tilray-thc-15-spotlight-porto-bt",
+      "name": "Tilray THC 15 Spotlight Porto BT",
+      "brandName": "Tilray",
+      "thcPercent": 15,
+      "priceMin": 529,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "mac-f",
+      "name": "Mac Flurry",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "vanilla-ice-cream",
+      "name": "Vanilla Ice Cream",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "punch-cake",
+      "name": "Punch Cake",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "gogurtz",
+      "name": "Gogurtz",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "glitter-bomb",
+      "name": "Glitter Bomb",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Black Tuna (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Black Tuna: Euphoric, Sleepy, Relaxed. 2 Produkte verfügbar. ab 5,29 €.",
+      "canonical": "https://weed.de/strain/black-tuna",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Black Tuna (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Black Tuna: Euphoric, Sleepy, Relaxed. 2 Produkte verfügbar. ab 5,29 €.",
+        "url": "https://weed.de/strain/black-tuna",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Black Tuna",
+        "href": "https://weed.de/strain/black-tuna"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Black Tuna",
+            "item": "https://weed.de/strain/black-tuna"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Black Tuna Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/tilray-thc-18-spotlight-porto-bt",
+            "name": "Tilray THC 18 Spotlight Porto BT"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/tilray-thc-15-spotlight-porto-bt",
+            "name": "Tilray THC 15 Spotlight Porto BT"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/tilray-thc-18-spotlight-porto-bt",
+        "text": "Tilray THC 18 Spotlight Porto BT",
+        "title": "Tilray THC 18 Spotlight Porto BT von Tilray"
+      },
+      {
+        "href": "/product/tilray-thc-15-spotlight-porto-bt",
+        "text": "Tilray THC 15 Spotlight Porto BT",
+        "title": "Tilray THC 15 Spotlight Porto BT von Tilray"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/mac-f",
+        "text": "Mac Flurry",
+        "title": "Mac Flurry - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/vanilla-ice-cream",
+        "text": "Vanilla Ice Cream",
+        "title": "Vanilla Ice Cream - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/punch-cake",
+        "text": "Punch Cake",
+        "title": "Punch Cake - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/gogurtz",
+        "text": "Gogurtz",
+        "title": "Gogurtz - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/glitter-bomb",
+        "text": "Glitter Bomb",
+        "title": "Glitter Bomb - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

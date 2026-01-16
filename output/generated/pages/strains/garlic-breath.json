@@ -1,0 +1,349 @@
+{
+  "strain": {
+    "slug": "garlic-breath",
+    "name": "Garlic Breath",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Sleepy",
+      "Relaxed",
+      "Talkative"
+    ],
+    "tastes": [
+      "Pepper",
+      "Pungent",
+      "Blue Cheese"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Caryophyllene",
+      "Pinene"
+    ],
+    "description": "Garlic Breath ist eine indica-dominante Hybrid-Sorte, die für ihre Potenz bekannt ist. Mit THC-Werten zwischen 22% und 26% bietet sie ein starkes und entspannendes Erlebnis. Das Terpenprofil dieser Sorte wird durch Limonen, Caryophyllen und Pinen geprägt, die zu ihrem einzigartigen Geschmacksprofil mit Pfeffer, Schärfe und einem Hauch von Blauschimmelkäse beitragen. Garlic Breath wird von Nutzern für ihre entspannenden und sedierenden Wirkungen geschätzt, was sie zu einer möglichen Wahl für Benutzer macht, die eine ruhige und schläfrige Erfahrung suchen.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 8,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 499,
+      "max": 1280,
+      "formatted": {
+        "min": "4,99 €",
+        "max": "12,80 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "cannabistada-gab-25",
+      "name": "CannabiStada GAB 25",
+      "brandName": "Stada",
+      "thcPercent": 25,
+      "priceMin": 790,
+      "inStock": true
+    },
+    {
+      "slug": "cannabistada-251",
+      "name": "Cannabistada 25/1",
+      "brandName": "Stada",
+      "thcPercent": 27.2,
+      "priceMin": 1195,
+      "inStock": false
+    },
+    {
+      "slug": "cannabistada-gab-30",
+      "name": "Cannabistada GAB 30",
+      "brandName": "Stada",
+      "thcPercent": 29.4,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "remexian-301-gmo",
+      "name": "Remexian 30/1 GMO",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 29,
+      "priceMin": 999,
+      "inStock": true
+    },
+    {
+      "slug": "remexian-31-crn-grb",
+      "name": "Remexian 30/1 CRN GRB",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 30,
+      "priceMin": 995,
+      "inStock": false
+    },
+    {
+      "slug": "northbound-251-gab",
+      "name": "Northbound 25/1 GAB",
+      "brandName": "Beacon Medical",
+      "thcPercent": 25,
+      "priceMin": 499,
+      "inStock": true
+    },
+    {
+      "slug": "remexian-331-crn-grb",
+      "name": "Remexian 33/1 CRN GRB",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 33,
+      "priceMin": 595,
+      "inStock": true
+    },
+    {
+      "slug": "remexian-351-crn",
+      "name": "Remexian 35/1 CRN",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 35,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "herijuana",
+      "name": "Herijuana",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "grape-mac",
+      "name": "Grape MAC",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "spritzer",
+      "name": "Spritzer",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "white-gorilla",
+      "name": "White Gorilla",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "gush-mints",
+      "name": "Gush Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Garlic Breath (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Garlic Breath: Sleepy, Relaxed, Talkative. 8 Produkte verfügbar. ab 4,99 €.",
+      "canonical": "https://weed.de/strain/garlic-breath",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Garlic Breath (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Garlic Breath: Sleepy, Relaxed, Talkative. 8 Produkte verfügbar. ab 4,99 €.",
+        "url": "https://weed.de/strain/garlic-breath",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Garlic Breath",
+        "href": "https://weed.de/strain/garlic-breath"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Garlic Breath",
+            "item": "https://weed.de/strain/garlic-breath"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Garlic Breath Produkte",
+        "numberOfItems": 8,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/cannabistada-gab-25",
+            "name": "CannabiStada GAB 25"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/cannabistada-251",
+            "name": "Cannabistada 25/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/cannabistada-gab-30",
+            "name": "Cannabistada GAB 30"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/product/remexian-301-gmo",
+            "name": "Remexian 30/1 GMO"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "https://weed.de/product/remexian-31-crn-grb",
+            "name": "Remexian 30/1 CRN GRB"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "url": "https://weed.de/product/northbound-251-gab",
+            "name": "Northbound 25/1 GAB"
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "url": "https://weed.de/product/remexian-331-crn-grb",
+            "name": "Remexian 33/1 CRN GRB"
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "url": "https://weed.de/product/remexian-351-crn",
+            "name": "Remexian 35/1 CRN"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/cannabistada-gab-25",
+        "text": "CannabiStada GAB 25",
+        "title": "CannabiStada GAB 25 von Stada"
+      },
+      {
+        "href": "/product/cannabistada-251",
+        "text": "Cannabistada 25/1",
+        "title": "Cannabistada 25/1 von Stada"
+      },
+      {
+        "href": "/product/cannabistada-gab-30",
+        "text": "Cannabistada GAB 30",
+        "title": "Cannabistada GAB 30 von Stada"
+      },
+      {
+        "href": "/product/remexian-301-gmo",
+        "text": "Remexian 30/1 GMO",
+        "title": "Remexian 30/1 GMO von Remexian Pharma"
+      },
+      {
+        "href": "/product/remexian-31-crn-grb",
+        "text": "Remexian 30/1 CRN GRB",
+        "title": "Remexian 30/1 CRN GRB von Remexian Pharma"
+      },
+      {
+        "href": "/product/northbound-251-gab",
+        "text": "Northbound 25/1 GAB",
+        "title": "Northbound 25/1 GAB von Beacon Medical"
+      },
+      {
+        "href": "/product/remexian-331-crn-grb",
+        "text": "Remexian 33/1 CRN GRB",
+        "title": "Remexian 33/1 CRN GRB von Remexian Pharma"
+      },
+      {
+        "href": "/product/remexian-351-crn",
+        "text": "Remexian 35/1 CRN",
+        "title": "Remexian 35/1 CRN von Remexian Pharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/herijuana",
+        "text": "Herijuana",
+        "title": "Herijuana - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/grape-mac",
+        "text": "Grape MAC",
+        "title": "Grape MAC - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/spritzer",
+        "text": "Spritzer",
+        "title": "Spritzer - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/white-gorilla",
+        "text": "White Gorilla",
+        "title": "White Gorilla - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/gush-mints",
+        "text": "Gush Mints",
+        "title": "Gush Mints - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/pinene",
+        "text": "Pinene",
+        "title": "Pinene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

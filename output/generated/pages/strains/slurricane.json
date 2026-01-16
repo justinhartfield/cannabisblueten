@@ -1,0 +1,254 @@
+{
+  "strain": {
+    "slug": "slurricane",
+    "name": "Slurricane",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Sleepy",
+      "Relaxed",
+      "Hungry"
+    ],
+    "tastes": [
+      "Berry",
+      "Spicy-Herbal",
+      "Sweet"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Caryophyllene",
+      "Myrcene"
+    ],
+    "description": "Slurricane ist eine indica-dominante Hybrid-Sorte,sie enthält in der Regel einen THC-Gehalt von 20% bis 24% und einen CBD-Gehalt von weniger als 1%. Diese Sorte wird für ihr aromatisches Profil mit Beerenaromen, würzigen Kräutertönen und Süße geschätzt. Slurricane zeichnet sich durch entspannende und sedierende Wirkungen aus, die oft zu Schläfrigkeit und einem insgesamt beruhigenden Gefühl führen. Es kann auch den Appetit steigern.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 3,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 598,
+      "max": 995,
+      "formatted": {
+        "min": "5,98 €",
+        "max": "9,95 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "avaay-241-sc",
+      "name": "Avaay 24/1 SC",
+      "brandName": "Vayamed",
+      "thcPercent": 25.5,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "enua-251-slc-ca",
+      "name": "enua 25/1 SLC CA",
+      "brandName": "enua",
+      "thcPercent": 23.7,
+      "priceMin": 675,
+      "inStock": true
+    },
+    {
+      "slug": "enua-301-slc-ca",
+      "name": "enua 30/1 SLC CA",
+      "brandName": "enua",
+      "thcPercent": 32,
+      "priceMin": 598,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "gorilla-glue-4",
+      "name": "GG4",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "og-kush",
+      "name": "OG Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "black-kush",
+      "name": "Black Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "scottie's-cake",
+      "name": "Scotti's Cake",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "rockstar",
+      "name": "Rockstar",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Slurricane (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Slurricane: Sleepy, Relaxed, Hungry. 3 Produkte verfügbar. ab 5,98 €.",
+      "canonical": "https://weed.de/strain/slurricane",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Slurricane (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Slurricane: Sleepy, Relaxed, Hungry. 3 Produkte verfügbar. ab 5,98 €.",
+        "url": "https://weed.de/strain/slurricane",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Slurricane",
+        "href": "https://weed.de/strain/slurricane"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Slurricane",
+            "item": "https://weed.de/strain/slurricane"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Slurricane Produkte",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/avaay-241-sc",
+            "name": "Avaay 24/1 SC"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/enua-251-slc-ca",
+            "name": "enua 25/1 SLC CA"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/enua-301-slc-ca",
+            "name": "enua 30/1 SLC CA"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/avaay-241-sc",
+        "text": "Avaay 24/1 SC",
+        "title": "Avaay 24/1 SC von Vayamed"
+      },
+      {
+        "href": "/product/enua-251-slc-ca",
+        "text": "enua 25/1 SLC CA",
+        "title": "enua 25/1 SLC CA von enua"
+      },
+      {
+        "href": "/product/enua-301-slc-ca",
+        "text": "enua 30/1 SLC CA",
+        "title": "enua 30/1 SLC CA von enua"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/gorilla-glue-4",
+        "text": "GG4",
+        "title": "GG4 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/og-kush",
+        "text": "OG Kush",
+        "title": "OG Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/black-kush",
+        "text": "Black Kush",
+        "title": "Black Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/scottie's-cake",
+        "text": "Scotti's Cake",
+        "title": "Scotti's Cake - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/rockstar",
+        "text": "Rockstar",
+        "title": "Rockstar - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "strain": {
+    "slug": "orient-bazaar",
+    "name": "Orient Bazaar",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 22,
+      "max": 22
+    },
+    "effects": [
+      "Relaxed",
+      "Sociable"
+    ],
+    "tastes": [
+      "Earthy",
+      "Flowery",
+      "Woody"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 0,
+    "pharmacyCount": 0,
+    "priceRange": null
+  },
+  "products": [],
+  "similarStrains": [
+    {
+      "slug": "alien-mints",
+      "name": "Alien Mints",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "chapel-of-love",
+      "name": "Chapel Of Love",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "purple-amnesia",
+      "name": "Purple Amnesia",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "gogurtz",
+      "name": "Gogurtz",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "cali-rain",
+      "name": "Cali Rain",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Orient Bazaar (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Orient Bazaar: Relaxed, Sociable.",
+      "canonical": "https://weed.de/strain/orient-bazaar",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Orient Bazaar (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Orient Bazaar: Relaxed, Sociable.",
+        "url": "https://weed.de/strain/orient-bazaar",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Orient Bazaar",
+        "href": "https://weed.de/strain/orient-bazaar"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Orient Bazaar",
+            "item": "https://weed.de/strain/orient-bazaar"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [],
+    "similarStrains": [
+      {
+        "href": "/strain/alien-mints",
+        "text": "Alien Mints",
+        "title": "Alien Mints - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/chapel-of-love",
+        "text": "Chapel Of Love",
+        "title": "Chapel Of Love - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/purple-amnesia",
+        "text": "Purple Amnesia",
+        "title": "Purple Amnesia - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/gogurtz",
+        "text": "Gogurtz",
+        "title": "Gogurtz - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/cali-rain",
+        "text": "Cali Rain",
+        "title": "Cali Rain - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has data and related content"
+  }
+}

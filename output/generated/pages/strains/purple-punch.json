@@ -1,0 +1,286 @@
+{
+  "strain": {
+    "slug": "purple-punch",
+    "name": "Purple Punch",
+    "geneticType": "indica",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Sleepy",
+      "Relaxed",
+      "Hungry"
+    ],
+    "tastes": [
+      "Grape",
+      "Berry",
+      "Blueberry",
+      "Sweet"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Pinene",
+      "Caryophyllene",
+      "Geraniol",
+      "Myrcene"
+    ],
+    "description": "Purple Punch, eine Indica-dominante Hybrid-Sorte, ist das Ergebnis aus der Kreuzung von “Granddaddy Purple” und “Larry OG”. Mit ungefähren THC-Werten von 18% bis 21% und einem minimalen CBD-Gehalt von weniger als 1%, zählt Purple Punch zu den moderat wirkenden Cannabis-Sorten. Die dominierenden Terpene dieses Strains sind Limonene, Pinene, Caryophyllene, Geraniol und Myrcene. Der daraus resultierende Geschmack wird als süß mit Noten von Beeren beschrieben. Die Wirkung soll dabei ein Gefühl von entspannung und Glück vermitteln, was einen Einsatz am Abend begünstigen könnte. Das Aussehen von Purple Punch wird durch die große Anzahl weißer, kristalliner Trichomköpfe bestimmt, welche die gesamte Blüte überziehen und sie dadurch stellenweise sehr hell erscheinen lassen.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 4,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 499,
+      "max": 499,
+      "formatted": {
+        "min": "4,99 €",
+        "max": "4,99 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "mc-epic-drop",
+      "name": "MC EPIC DROP",
+      "brandName": "Demecan",
+      "thcPercent": 29.2,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "gm-color-of-space-281",
+      "name": "GM Color of Space 28/1",
+      "brandName": "German Medical",
+      "thcPercent": 28,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "cannamedical-indica-light-bc-pp",
+      "name": "Cannamedical Indica Light BC PP",
+      "brandName": "Cannamedical",
+      "thcPercent": 16.7,
+      "priceMin": 499,
+      "inStock": false
+    },
+    {
+      "slug": "cannamedical-indica-classic-nm-pp",
+      "name": "Cannamedical Indica Classic NM PP",
+      "brandName": "Cannamedical",
+      "thcPercent": 22,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "8-ball-kush",
+      "name": "8 Ball Kush",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "critical-kush",
+      "name": "Critical Kush",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "blueberry",
+      "name": "Blueberry",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "abusive-og",
+      "name": "Abusive OG",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "black-domina",
+      "name": "Black Domina",
+      "geneticType": "indica",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Purple Punch (Indica) - Wirkung, THC & Verfügbarkeit",
+      "description": "Purple Punch: Sleepy, Relaxed, Hungry. 4 Produkte verfügbar. ab 4,99 €.",
+      "canonical": "https://weed.de/strain/purple-punch",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Purple Punch (Indica) - Wirkung, THC & Verfügbarkeit",
+        "description": "Purple Punch: Sleepy, Relaxed, Hungry. 4 Produkte verfügbar. ab 4,99 €.",
+        "url": "https://weed.de/strain/purple-punch",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Purple Punch",
+        "href": "https://weed.de/strain/purple-punch"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Purple Punch",
+            "item": "https://weed.de/strain/purple-punch"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Purple Punch Produkte",
+        "numberOfItems": 4,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/mc-epic-drop",
+            "name": "MC EPIC DROP"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/gm-color-of-space-281",
+            "name": "GM Color of Space 28/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/cannamedical-indica-light-bc-pp",
+            "name": "Cannamedical Indica Light BC PP"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/product/cannamedical-indica-classic-nm-pp",
+            "name": "Cannamedical Indica Classic NM PP"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/mc-epic-drop",
+        "text": "MC EPIC DROP",
+        "title": "MC EPIC DROP von Demecan"
+      },
+      {
+        "href": "/product/gm-color-of-space-281",
+        "text": "GM Color of Space 28/1",
+        "title": "GM Color of Space 28/1 von German Medical"
+      },
+      {
+        "href": "/product/cannamedical-indica-light-bc-pp",
+        "text": "Cannamedical Indica Light BC PP",
+        "title": "Cannamedical Indica Light BC PP von Cannamedical"
+      },
+      {
+        "href": "/product/cannamedical-indica-classic-nm-pp",
+        "text": "Cannamedical Indica Classic NM PP",
+        "title": "Cannamedical Indica Classic NM PP von Cannamedical"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/8-ball-kush",
+        "text": "8 Ball Kush",
+        "title": "8 Ball Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/critical-kush",
+        "text": "Critical Kush",
+        "title": "Critical Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/blueberry",
+        "text": "Blueberry",
+        "title": "Blueberry - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/abusive-og",
+        "text": "Abusive OG",
+        "title": "Abusive OG - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/black-domina",
+        "text": "Black Domina",
+        "title": "Black Domina - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/pinene",
+        "text": "Pinene",
+        "title": "Pinene Terpen"
+      },
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/geraniol",
+        "text": "Geraniol",
+        "title": "Geraniol Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "test-apotheke-dg",
+    "name": "TEST APOTHEKE - DG",
+    "street": "Große Straße 1",
+    "zip": "27283",
+    "cityName": "Verden (Aller)",
+    "state": "Niedersachsen",
+    "lat": 52.9242022,
+    "lng": 9.2282528,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": false,
+    "website": null,
+    "phone": "017612345678",
+    "email": "mail-dariusgiesen@gmx.de",
+    "productCount": 0,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.de/pharmacies/test-apotheke-dg-3a10d2.png"
+  },
+  "city": {
+    "slug": "verden-aller",
+    "name": "Verden (Aller)",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "alle-farben-apotheke",
+      "name": "Alle Farben Apotheke",
+      "cityName": "Melle",
+      "productCount": 132,
+      "hasDelivery": true
+    },
+    {
+      "slug": "happy-cannamed",
+      "name": "Marien Apotheke",
+      "cityName": "Cloppenburg",
+      "productCount": 61,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannanord",
+      "name": "CannaNord",
+      "cityName": "Oldenburg",
+      "productCount": 55,
+      "hasDelivery": true
+    },
+    {
+      "slug": "easycannabis-easyapotheke-citylebenstedt",
+      "name": "EasyCannabis easyApotheke CityLebenstedt",
+      "cityName": "Salzgitter",
+      "productCount": 40,
+      "hasDelivery": true
+    },
+    {
+      "slug": "sophie-green",
+      "name": "Sophie Green",
+      "cityName": "Meppen",
+      "productCount": 31,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "TEST APOTHEKE - DG - Cannabis Apotheke in Verden (Aller)",
+      "description": "TEST APOTHEKE - DG in Verden (Aller). Lieferung & Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/test-apotheke-dg",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "TEST APOTHEKE - DG - Cannabis Apotheke in Verden (Aller)",
+        "description": "TEST APOTHEKE - DG in Verden (Aller). Lieferung & Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/test-apotheke-dg",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/pharmacies/test-apotheke-dg-3a10d2.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Verden (Aller)",
+        "href": "https://weed.de/cannabis-apotheke/verden-aller"
+      },
+      {
+        "name": "TEST APOTHEKE - DG",
+        "href": "https://weed.de/apotheke/test-apotheke-dg"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Verden (Aller)",
+            "item": "https://weed.de/cannabis-apotheke/verden-aller"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "TEST APOTHEKE - DG",
+            "item": "https://weed.de/apotheke/test-apotheke-dg"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "TEST APOTHEKE - DG",
+        "url": "https://weed.de/apotheke/test-apotheke-dg",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Große Straße 1",
+          "addressLocality": "Verden (Aller)",
+          "postalCode": "27283",
+          "addressRegion": "Niedersachsen",
+          "addressCountry": "DE"
+        },
+        "telephone": "017612345678",
+        "email": "mail-dariusgiesen@gmx.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/verden-aller",
+      "text": "Cannabis Apotheken in Verden (Aller)",
+      "title": "Alle Apotheken in Verden (Aller)"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/alle-farben-apotheke",
+        "text": "Alle Farben Apotheke",
+        "title": "Alle Farben Apotheke in Melle"
+      },
+      {
+        "href": "/apotheke/happy-cannamed",
+        "text": "Marien Apotheke",
+        "title": "Marien Apotheke in Cloppenburg"
+      },
+      {
+        "href": "/apotheke/cannanord",
+        "text": "CannaNord",
+        "title": "CannaNord in Oldenburg"
+      },
+      {
+        "href": "/apotheke/easycannabis-easyapotheke-citylebenstedt",
+        "text": "EasyCannabis easyApotheke CityLebenstedt",
+        "title": "EasyCannabis easyApotheke CityLebenstedt in Salzgitter"
+      },
+      {
+        "href": "/apotheke/sophie-green",
+        "text": "Sophie Green",
+        "title": "Sophie Green in Meppen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has services"
+  }
+}

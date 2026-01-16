@@ -1,0 +1,222 @@
+{
+  "product": {
+    "slug": "aca-241-c",
+    "name": "ACA 24/1 C",
+    "type": "flower",
+    "genetics": "hybrid",
+    "thcPercent": 24,
+    "cbdPercent": 1,
+    "priceMin": 399,
+    "priceMax": 399,
+    "inStock": false,
+    "pzn": null,
+    "originCountry": "Dänemark",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "aca-mueller-adag-pharma",
+    "name": "ACA Müller ADAG Pharma",
+    "productCount": 10
+  },
+  "strain": {
+    "slug": "frosted-lemon-angel",
+    "name": "Frosted Lemon Angel",
+    "geneticType": "hybrid",
+    "effects": [
+      "Euphoric",
+      "Energetic"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Myrcene",
+      "Limonene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Euphoric",
+      "Energetic"
+    ],
+    "tastes": [
+      "Citrus",
+      "Earthy",
+      "Spicy"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Myrcene",
+      "Limonene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "amp-classic-251",
+      "name": "AMP Classic 25/1",
+      "brandName": "AMP",
+      "thcPercent": 25,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "weeco-21-fla",
+      "name": "Weeco 20/1 FLA",
+      "brandName": "Weeco",
+      "thcPercent": 20,
+      "priceMin": 479,
+      "inStock": true
+    },
+    {
+      "slug": "supreme-241",
+      "name": "Supreme 24/1",
+      "brandName": "WMG Pharma",
+      "thcPercent": 24,
+      "priceMin": 499,
+      "inStock": true
+    },
+    {
+      "slug": "weeco-231",
+      "name": "Weeco 23/1",
+      "brandName": "Weeco",
+      "thcPercent": 23,
+      "priceMin": 599,
+      "inStock": true
+    },
+    {
+      "slug": "aca-221-c-fla",
+      "name": "ACA 22/1 C FLA",
+      "brandName": "ACA Müller ADAG Pharma",
+      "thcPercent": 22,
+      "priceMin": 599,
+      "inStock": true
+    },
+    {
+      "slug": "weeco-251",
+      "name": "Weeco 25/1",
+      "brandName": "Weeco",
+      "thcPercent": 24.7,
+      "priceMin": 884,
+      "inStock": false
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "ACA 24/1 C - ACA Müller ADAG Pharma | ab 3,99 €",
+      "description": "ACA 24/1 C von ACA Müller ADAG Pharma. THC: 24%, CBD: 1%. Sorte: Frosted Lemon Angel. Preis ab 3,99 €. Preise vergleichen.",
+      "canonical": "https://weed.de/product/aca-241-c",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "ACA 24/1 C - ACA Müller ADAG Pharma | ab 3,99 €",
+        "description": "ACA 24/1 C von ACA Müller ADAG Pharma. THC: 24%, CBD: 1%. Sorte: Frosted Lemon Angel. Preis ab 3,99 €. Preise vergleichen.",
+        "url": "https://weed.de/product/aca-241-c",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "ACA Müller ADAG Pharma",
+        "href": "https://weed.de/brand/aca-mueller-adag-pharma"
+      },
+      {
+        "name": "ACA 24/1 C",
+        "href": "https://weed.de/product/aca-241-c"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "ACA 24/1 C",
+            "item": "https://weed.de/product/aca-241-c"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "ACA 24/1 C",
+        "brand": {
+          "@type": "Brand",
+          "name": "ACA Müller ADAG Pharma"
+        },
+        "description": "THC: 24%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/frosted-lemon-angel",
+      "text": "Frosted Lemon Angel",
+      "title": "Frosted Lemon Angel Sorte"
+    },
+    "brand": {
+      "href": "/brand/aca-mueller-adag-pharma",
+      "text": "ACA Müller ADAG Pharma",
+      "title": "Alle ACA Müller ADAG Pharma Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/amp-classic-251",
+        "text": "AMP Classic 25/1",
+        "title": "Alternative: AMP Classic 25/1"
+      },
+      {
+        "href": "/product/weeco-21-fla",
+        "text": "Weeco 20/1 FLA",
+        "title": "Alternative: Weeco 20/1 FLA"
+      },
+      {
+        "href": "/product/supreme-241",
+        "text": "Supreme 24/1",
+        "title": "Alternative: Supreme 24/1"
+      },
+      {
+        "href": "/product/weeco-231",
+        "text": "Weeco 23/1",
+        "title": "Alternative: Weeco 23/1"
+      },
+      {
+        "href": "/product/aca-221-c-fla",
+        "text": "ACA 22/1 C FLA",
+        "title": "Alternative: ACA 22/1 C FLA"
+      },
+      {
+        "href": "/product/weeco-251",
+        "text": "Weeco 25/1",
+        "title": "Alternative: Weeco 25/1"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has price data"
+  }
+}

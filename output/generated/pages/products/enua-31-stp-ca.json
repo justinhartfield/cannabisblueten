@@ -1,0 +1,223 @@
+{
+  "product": {
+    "slug": "enua-31-stp-ca",
+    "name": "enua 30/1 STP CA",
+    "type": "flower",
+    "genetics": "hybrid",
+    "thcPercent": 30,
+    "cbdPercent": 1,
+    "priceMin": 699,
+    "priceMax": 898,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": "https://weed.de/products/enua-31-stp-ca-12fe94.png"
+  },
+  "brand": {
+    "slug": "enua",
+    "name": "enua",
+    "productCount": 123
+  },
+  "strain": {
+    "slug": "strawberry-pave",
+    "name": "Strawberry Pavé",
+    "geneticType": "hybrid",
+    "effects": [
+      "Euphoric",
+      "Creative"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Caryophyllene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Euphoric",
+      "Creative"
+    ],
+    "tastes": [
+      "Diesel",
+      "Vanilla",
+      "Mint"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Caryophyllene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "tilray-thc-25-spotlight-porto-purps",
+      "name": "Tilray THC 25 Spotlight Porto Purps",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": 349,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc5cbd2",
+      "name": "Tilray Cannabisextrakt THC5:CBD20",
+      "brandName": "Tilray",
+      "thcPercent": 5,
+      "priceMin": 350,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc1cbd1",
+      "name": "Tilray Cannabisextrakt THC10:CBD10",
+      "brandName": "Tilray",
+      "thcPercent": 10,
+      "priceMin": 400,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-2",
+      "name": "Demecan Typ 2",
+      "brandName": "Demecan",
+      "thcPercent": 16,
+      "priceMin": 533,
+      "inStock": true
+    },
+    {
+      "slug": "enua-251-stp-ca",
+      "name": "enua 25/1 STP CA",
+      "brandName": "enua",
+      "thcPercent": 25,
+      "priceMin": 559,
+      "inStock": true
+    },
+    {
+      "slug": "enua-271-stp-ca",
+      "name": "enua 27/1 STP CA",
+      "brandName": "enua",
+      "thcPercent": 27,
+      "priceMin": 599,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "enua 30/1 STP CA | ab 6,99 €",
+      "description": "enua 30/1 STP CA von enua. THC: 30%, CBD: 1%. Sorte: Strawberry Pavé. Preis ab 6,99 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/enua-31-stp-ca",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "enua 30/1 STP CA | ab 6,99 €",
+        "description": "enua 30/1 STP CA von enua. THC: 30%, CBD: 1%. Sorte: Strawberry Pavé. Preis ab 6,99 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/enua-31-stp-ca",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/enua-31-stp-ca-12fe94.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "enua",
+        "href": "https://weed.de/brand/enua"
+      },
+      {
+        "name": "enua 30/1 STP CA",
+        "href": "https://weed.de/product/enua-31-stp-ca"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "enua 30/1 STP CA",
+            "item": "https://weed.de/product/enua-31-stp-ca"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "enua 30/1 STP CA",
+        "brand": {
+          "@type": "Brand",
+          "name": "enua"
+        },
+        "description": "THC: 30%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/strawberry-pave",
+      "text": "Strawberry Pavé",
+      "title": "Strawberry Pavé Sorte"
+    },
+    "brand": {
+      "href": "/brand/enua",
+      "text": "enua",
+      "title": "Alle enua Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/tilray-thc-25-spotlight-porto-purps",
+        "text": "Tilray THC 25 Spotlight Porto Purps",
+        "title": "Alternative: Tilray THC 25 Spotlight Porto Purps"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc5cbd2",
+        "text": "Tilray Cannabisextrakt THC5:CBD20",
+        "title": "Alternative: Tilray Cannabisextrakt THC5:CBD20"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc1cbd1",
+        "text": "Tilray Cannabisextrakt THC10:CBD10",
+        "title": "Alternative: Tilray Cannabisextrakt THC10:CBD10"
+      },
+      {
+        "href": "/product/demecan-typ-2",
+        "text": "Demecan Typ 2",
+        "title": "Alternative: Demecan Typ 2"
+      },
+      {
+        "href": "/product/enua-251-stp-ca",
+        "text": "enua 25/1 STP CA",
+        "title": "Alternative: enua 25/1 STP CA"
+      },
+      {
+        "href": "/product/enua-271-stp-ca",
+        "text": "enua 27/1 STP CA",
+        "title": "Alternative: enua 27/1 STP CA"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "product": {
+    "slug": "mgf-ab-271-apples-and-bananas",
+    "name": "MGF AB 27/1 Apples and Bananas",
+    "type": "flower",
+    "genetics": "hybrid",
+    "thcPercent": 27,
+    "cbdPercent": 1,
+    "priceMin": 780,
+    "priceMax": 780,
+    "inStock": false,
+    "pzn": null,
+    "originCountry": "Portugal",
+    "imageUrl": "https://weed.de/products/mgf-ab-271-apples-and-bananas-95945i.jpeg"
+  },
+  "brand": {
+    "slug": "mgf-via-medical",
+    "name": "MGF Via Medical",
+    "productCount": 35
+  },
+  "strain": {
+    "slug": "apples-and-bananas",
+    "name": "Apples & Bananas",
+    "geneticType": "hybrid",
+    "effects": [
+      "Happy",
+      "Uplifted",
+      "Aroused"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Pinene",
+      "Caryophyllene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Happy",
+      "Uplifted",
+      "Aroused"
+    ],
+    "tastes": [
+      "Apple",
+      "Pear"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Pinene",
+      "Caryophyllene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "cks-cannabisextrakt-aundb-251",
+      "name": "CKS Cannabisextrakt A&B 25:1",
+      "brandName": "Somai Pharmaceuticals",
+      "thcPercent": 25,
+      "priceMin": 349,
+      "inStock": true
+    },
+    {
+      "slug": "bc-green-141-aundb",
+      "name": "BC Green 14/1 A&B",
+      "brandName": "BC Green",
+      "thcPercent": 14,
+      "priceMin": 519,
+      "inStock": true
+    },
+    {
+      "slug": "cookies-221-aandb",
+      "name": "Cookies 22/1 A&B",
+      "brandName": "Cansativa",
+      "thcPercent": 22,
+      "priceMin": 535,
+      "inStock": true
+    },
+    {
+      "slug": "cks-cannabisextrakt-aundb-51",
+      "name": "CKS Cannabisextrakt A&B 50:1",
+      "brandName": "Somai Pharmaceuticals",
+      "thcPercent": 50,
+      "priceMin": 550,
+      "inStock": true
+    },
+    {
+      "slug": "bc-green-171-aandb",
+      "name": "BC Green 17/1 A&B",
+      "brandName": "BC Green",
+      "thcPercent": 17,
+      "priceMin": 600,
+      "inStock": true
+    },
+    {
+      "slug": "lot-42-ab-251",
+      "name": "LOT 420 AB 25/1",
+      "brandName": "Cantourage",
+      "thcPercent": 25,
+      "priceMin": 748,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "MGF AB 27/1 Apples and Bananas - MGF Via Medical | ab 7,80 €",
+      "description": "MGF AB 27/1 Apples and Bananas von MGF Via Medical. THC: 27%, CBD: 1%. Sorte: Apples & Bananas. Preis ab 7,80 €. Preise vergleichen.",
+      "canonical": "https://weed.de/product/mgf-ab-271-apples-and-bananas",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "MGF AB 27/1 Apples and Bananas - MGF Via Medical | ab 7,80 €",
+        "description": "MGF AB 27/1 Apples and Bananas von MGF Via Medical. THC: 27%, CBD: 1%. Sorte: Apples & Bananas. Preis ab 7,80 €. Preise vergleichen.",
+        "url": "https://weed.de/product/mgf-ab-271-apples-and-bananas",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/mgf-ab-271-apples-and-bananas-95945i.jpeg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "MGF Via Medical",
+        "href": "https://weed.de/brand/mgf-via-medical"
+      },
+      {
+        "name": "MGF AB 27/1 Apples and Bananas",
+        "href": "https://weed.de/product/mgf-ab-271-apples-and-bananas"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "MGF AB 27/1 Apples and Bananas",
+            "item": "https://weed.de/product/mgf-ab-271-apples-and-bananas"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "MGF AB 27/1 Apples and Bananas",
+        "brand": {
+          "@type": "Brand",
+          "name": "MGF Via Medical"
+        },
+        "description": "THC: 27%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/apples-and-bananas",
+      "text": "Apples & Bananas",
+      "title": "Apples & Bananas Sorte"
+    },
+    "brand": {
+      "href": "/brand/mgf-via-medical",
+      "text": "MGF Via Medical",
+      "title": "Alle MGF Via Medical Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/cks-cannabisextrakt-aundb-251",
+        "text": "CKS Cannabisextrakt A&B 25:1",
+        "title": "Alternative: CKS Cannabisextrakt A&B 25:1"
+      },
+      {
+        "href": "/product/bc-green-141-aundb",
+        "text": "BC Green 14/1 A&B",
+        "title": "Alternative: BC Green 14/1 A&B"
+      },
+      {
+        "href": "/product/cookies-221-aandb",
+        "text": "Cookies 22/1 A&B",
+        "title": "Alternative: Cookies 22/1 A&B"
+      },
+      {
+        "href": "/product/cks-cannabisextrakt-aundb-51",
+        "text": "CKS Cannabisextrakt A&B 50:1",
+        "title": "Alternative: CKS Cannabisextrakt A&B 50:1"
+      },
+      {
+        "href": "/product/bc-green-171-aandb",
+        "text": "BC Green 17/1 A&B",
+        "title": "Alternative: BC Green 17/1 A&B"
+      },
+      {
+        "href": "/product/lot-42-ab-251",
+        "text": "LOT 420 AB 25/1",
+        "title": "Alternative: LOT 420 AB 25/1"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has price data"
+  }
+}

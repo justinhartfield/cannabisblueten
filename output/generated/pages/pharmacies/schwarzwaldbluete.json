@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "schwarzwaldbluete",
+    "name": "Schwarzwaldblüte",
+    "street": "Hauptstraße 6",
+    "zip": "72285",
+    "cityName": "Pfalzgrafenweiler",
+    "state": "Baden-Württemberg",
+    "lat": 48.5261383,
+    "lng": 8.5655115,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://schwarzwald-bluete.de/",
+    "phone": "0744581212",
+    "email": "lindenapotheke@schiebel-apotheken.de",
+    "productCount": 22,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/68f93f73a1562b9eee8e686e-92343c.jpg"
+  },
+  "city": {
+    "slug": "pfalzgrafenweiler",
+    "name": "Pfalzgrafenweiler",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "florians-vital-apotheke",
+      "name": "Florians Vital Apotheke",
+      "cityName": "Esslingen am Neckar",
+      "productCount": 248,
+      "hasDelivery": true
+    },
+    {
+      "slug": "central-apotheke",
+      "name": "Cannabis-Champion",
+      "cityName": "Waiblingen",
+      "productCount": 240,
+      "hasDelivery": true
+    },
+    {
+      "slug": "karlchengras",
+      "name": "Karlchengras (Karl-Apotheke)",
+      "cityName": "Karlsruhe",
+      "productCount": 188,
+      "hasDelivery": true
+    },
+    {
+      "slug": "idris-apotheke-oder-3leafs",
+      "name": "Idris Apotheke | 3Leafs",
+      "cityName": "Weinheim",
+      "productCount": 149,
+      "hasDelivery": true
+    },
+    {
+      "slug": "schwarzwald-vital-apotheke",
+      "name": "Schwarzwald Vital Apotheke",
+      "cityName": "Gaggenau",
+      "productCount": 133,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Schwarzwaldblüte - Cannabis Apotheke in Pfalzgrafenweiler",
+      "description": "Schwarzwaldblüte in Pfalzgrafenweiler. 22 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/schwarzwaldbluete",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Schwarzwaldblüte - Cannabis Apotheke in Pfalzgrafenweiler",
+        "description": "Schwarzwaldblüte in Pfalzgrafenweiler. 22 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/schwarzwaldbluete",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/68f93f73a1562b9eee8e686e-92343c.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Pfalzgrafenweiler",
+        "href": "https://weed.de/cannabis-apotheke/pfalzgrafenweiler"
+      },
+      {
+        "name": "Schwarzwaldblüte",
+        "href": "https://weed.de/apotheke/schwarzwaldbluete"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Pfalzgrafenweiler",
+            "item": "https://weed.de/cannabis-apotheke/pfalzgrafenweiler"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Schwarzwaldblüte",
+            "item": "https://weed.de/apotheke/schwarzwaldbluete"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Schwarzwaldblüte",
+        "url": "https://weed.de/apotheke/schwarzwaldbluete",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Hauptstraße 6",
+          "addressLocality": "Pfalzgrafenweiler",
+          "postalCode": "72285",
+          "addressRegion": "Baden-Württemberg",
+          "addressCountry": "DE"
+        },
+        "telephone": "0744581212",
+        "email": "lindenapotheke@schiebel-apotheken.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/pfalzgrafenweiler",
+      "text": "Cannabis Apotheken in Pfalzgrafenweiler",
+      "title": "Alle Apotheken in Pfalzgrafenweiler"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/florians-vital-apotheke",
+        "text": "Florians Vital Apotheke",
+        "title": "Florians Vital Apotheke in Esslingen am Neckar"
+      },
+      {
+        "href": "/apotheke/central-apotheke",
+        "text": "Cannabis-Champion",
+        "title": "Cannabis-Champion in Waiblingen"
+      },
+      {
+        "href": "/apotheke/karlchengras",
+        "text": "Karlchengras (Karl-Apotheke)",
+        "title": "Karlchengras (Karl-Apotheke) in Karlsruhe"
+      },
+      {
+        "href": "/apotheke/idris-apotheke-oder-3leafs",
+        "text": "Idris Apotheke | 3Leafs",
+        "title": "Idris Apotheke | 3Leafs in Weinheim"
+      },
+      {
+        "href": "/apotheke/schwarzwald-vital-apotheke",
+        "text": "Schwarzwald Vital Apotheke",
+        "title": "Schwarzwald Vital Apotheke in Gaggenau"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

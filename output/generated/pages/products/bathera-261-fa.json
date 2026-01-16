@@ -1,0 +1,236 @@
+{
+  "product": {
+    "slug": "bathera-261-fa",
+    "name": "Bathera 26/1 FA",
+    "type": "flower",
+    "genetics": "indica",
+    "thcPercent": 26,
+    "cbdPercent": 1,
+    "priceMin": 650,
+    "priceMax": 650,
+    "inStock": false,
+    "pzn": null,
+    "originCountry": "Portugal",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "bathera",
+    "name": "Bathera",
+    "productCount": 44
+  },
+  "strain": {
+    "slug": "facetz",
+    "name": "Facetz",
+    "geneticType": "hybrid",
+    "effects": [
+      "Creative",
+      "Focused",
+      "Sociable",
+      "Relaxed",
+      "Anxiety-reducing",
+      "Stress-relief",
+      "Pain-relief"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Linalool",
+      "D-Limonene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Creative",
+      "Focused",
+      "Sociable",
+      "Relaxed",
+      "Anxiety-reducing",
+      "Stress-relief",
+      "Pain-relief"
+    ],
+    "tastes": [
+      "Diesel",
+      "Earthy",
+      "Sweet",
+      "Fruity",
+      "Gassy",
+      "Citrus",
+      "Flowery"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Linalool",
+      "D-Limonene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "aurora-thc-25-cannabis-extract",
+      "name": "Aurora THC 25 Cannabis Extract",
+      "brandName": "Cansativa",
+      "thcPercent": 2.5,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "adven-cannabisextrakt-thc-10-cbd-10",
+      "name": "Adven Cannabisextrakt THC 10 CBD 10",
+      "brandName": "Adven",
+      "thcPercent": 10,
+      "priceMin": 560,
+      "inStock": true
+    },
+    {
+      "slug": "bathera-281-fa",
+      "name": "Bathera 28/1 FA",
+      "brandName": "Bathera",
+      "thcPercent": 29.1,
+      "priceMin": 587,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-craft-rocket-281-pave-x-gastro-pop",
+      "name": "Demecan Craft Rocket 28:01 Pave x Gastro Pop",
+      "brandName": "Demecan",
+      "thcPercent": 28,
+      "priceMin": 630,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-1",
+      "name": "Demecan Typ 1",
+      "brandName": "Demecan",
+      "thcPercent": 21,
+      "priceMin": 694,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-indica-forte-ej",
+      "name": "Cannamedical Indica forte EJ",
+      "brandName": "Cannamedical",
+      "thcPercent": 24,
+      "priceMin": 700,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Bathera 26/1 FA | ab 6,50 €",
+      "description": "Bathera 26/1 FA von Bathera. THC: 26%, CBD: 1%. Sorte: Facetz. Preis ab 6,50 €. Preise vergleichen.",
+      "canonical": "https://weed.de/product/bathera-261-fa",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Bathera 26/1 FA | ab 6,50 €",
+        "description": "Bathera 26/1 FA von Bathera. THC: 26%, CBD: 1%. Sorte: Facetz. Preis ab 6,50 €. Preise vergleichen.",
+        "url": "https://weed.de/product/bathera-261-fa",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Bathera",
+        "href": "https://weed.de/brand/bathera"
+      },
+      {
+        "name": "Bathera 26/1 FA",
+        "href": "https://weed.de/product/bathera-261-fa"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Bathera 26/1 FA",
+            "item": "https://weed.de/product/bathera-261-fa"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Bathera 26/1 FA",
+        "brand": {
+          "@type": "Brand",
+          "name": "Bathera"
+        },
+        "description": "THC: 26%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/facetz",
+      "text": "Facetz",
+      "title": "Facetz Sorte"
+    },
+    "brand": {
+      "href": "/brand/bathera",
+      "text": "Bathera",
+      "title": "Alle Bathera Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/aurora-thc-25-cannabis-extract",
+        "text": "Aurora THC 25 Cannabis Extract",
+        "title": "Alternative: Aurora THC 25 Cannabis Extract"
+      },
+      {
+        "href": "/product/adven-cannabisextrakt-thc-10-cbd-10",
+        "text": "Adven Cannabisextrakt THC 10 CBD 10",
+        "title": "Alternative: Adven Cannabisextrakt THC 10 CBD 10"
+      },
+      {
+        "href": "/product/bathera-281-fa",
+        "text": "Bathera 28/1 FA",
+        "title": "Alternative: Bathera 28/1 FA"
+      },
+      {
+        "href": "/product/demecan-craft-rocket-281-pave-x-gastro-pop",
+        "text": "Demecan Craft Rocket 28:01 Pave x Gastro Pop",
+        "title": "Alternative: Demecan Craft Rocket 28:01 Pave x Gastro Pop"
+      },
+      {
+        "href": "/product/demecan-typ-1",
+        "text": "Demecan Typ 1",
+        "title": "Alternative: Demecan Typ 1"
+      },
+      {
+        "href": "/product/cannamedical-indica-forte-ej",
+        "text": "Cannamedical Indica forte EJ",
+        "title": "Alternative: Cannamedical Indica forte EJ"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has price data"
+  }
+}

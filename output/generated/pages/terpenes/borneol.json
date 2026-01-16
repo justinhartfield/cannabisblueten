@@ -1,0 +1,210 @@
+{
+  "terpene": {
+    "slug": "borneol",
+    "name": "Borneol",
+    "strainCount": 4
+  },
+  "strains": [
+    {
+      "slug": "bedrocan",
+      "name": "Bedrocan®",
+      "geneticType": "sativa",
+      "productCount": 33,
+      "thcMax": null
+    },
+    {
+      "slug": "purple-punch-auto",
+      "name": "Purple Punch Auto",
+      "geneticType": "indica",
+      "productCount": 0,
+      "thcMax": null
+    },
+    {
+      "slug": "afghan-hash-plant-regular",
+      "name": "Afghan Hash Plant - Regular",
+      "geneticType": "indica",
+      "productCount": 0,
+      "thcMax": null
+    },
+    {
+      "slug": "auto-afghan",
+      "name": "Auto Afghan",
+      "geneticType": "hybrid",
+      "productCount": 0,
+      "thcMax": null
+    }
+  ],
+  "relatedTerpenes": [
+    {
+      "slug": "myrcene",
+      "name": "Myrcene",
+      "strainCount": 1252
+    },
+    {
+      "slug": "limonene",
+      "name": "Limonene",
+      "strainCount": 1382
+    },
+    {
+      "slug": "beta-pinene",
+      "name": "Beta-Pinene",
+      "strainCount": 54
+    },
+    {
+      "slug": "alpha-pinene",
+      "name": "Alpha-Pinene",
+      "strainCount": 64
+    },
+    {
+      "slug": "alpha-humulene",
+      "name": "Alpha-Humulene",
+      "strainCount": 67
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Borneol Terpen - Wirkung & Cannabis Sorten",
+      "description": "Borneol: Enthalten in 4 Cannabis Sorten. Erfahre mehr über die Wirkung und finde Sorten mit diesem Terpen.",
+      "canonical": "https://weed.de/terpene/borneol",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Borneol Terpen - Wirkung & Cannabis Sorten",
+        "description": "Borneol: Enthalten in 4 Cannabis Sorten. Erfahre mehr über die Wirkung und finde Sorten mit diesem Terpen.",
+        "url": "https://weed.de/terpene/borneol",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Terpene",
+        "href": "https://weed.de/terpenes"
+      },
+      {
+        "name": "Borneol",
+        "href": "https://weed.de/terpene/borneol"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Terpene",
+            "item": "https://weed.de/terpenes"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Borneol",
+            "item": "https://weed.de/terpene/borneol"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Sorten mit Borneol",
+        "numberOfItems": 4,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/strain/bedrocan",
+            "name": "Bedrocan®"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/strain/purple-punch-auto",
+            "name": "Purple Punch Auto"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/strain/afghan-hash-plant-regular",
+            "name": "Afghan Hash Plant - Regular"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/strain/auto-afghan",
+            "name": "Auto Afghan"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "strains": [
+      {
+        "href": "/strain/bedrocan",
+        "text": "Bedrocan®",
+        "title": "Bedrocan® enthält Borneol"
+      },
+      {
+        "href": "/strain/purple-punch-auto",
+        "text": "Purple Punch Auto",
+        "title": "Purple Punch Auto enthält Borneol"
+      },
+      {
+        "href": "/strain/afghan-hash-plant-regular",
+        "text": "Afghan Hash Plant - Regular",
+        "title": "Afghan Hash Plant - Regular enthält Borneol"
+      },
+      {
+        "href": "/strain/auto-afghan",
+        "text": "Auto Afghan",
+        "title": "Auto Afghan enthält Borneol"
+      }
+    ],
+    "relatedTerpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene - 1252 Sorten"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene - 1382 Sorten"
+      },
+      {
+        "href": "/terpene/beta-pinene",
+        "text": "Beta-Pinene",
+        "title": "Beta-Pinene - 54 Sorten"
+      },
+      {
+        "href": "/terpene/alpha-pinene",
+        "text": "Alpha-Pinene",
+        "title": "Alpha-Pinene - 64 Sorten"
+      },
+      {
+        "href": "/terpene/alpha-humulene",
+        "text": "Alpha-Humulene",
+        "title": "Alpha-Humulene - 67 Sorten"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has 4 strains"
+  }
+}

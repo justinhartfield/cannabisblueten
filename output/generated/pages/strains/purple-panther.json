@@ -1,0 +1,222 @@
+{
+  "strain": {
+    "slug": "purple-panther",
+    "name": "Purple Panther",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [
+      "Euphoric",
+      "Happy",
+      "Creative"
+    ],
+    "tastes": [
+      "Sweet",
+      "Earthy",
+      "Fruity"
+    ],
+    "terpenes": [
+      "Linalool",
+      "Limonene",
+      "Beta-Caryophyllene",
+      "Beta-Myrcene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 899,
+      "max": 899,
+      "formatted": {
+        "min": "8,99 €",
+        "max": "8,99 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "mediprocan-simba-251-pp",
+      "name": "Mediprocan Simba 25/1 PP",
+      "brandName": "mediproCan",
+      "thcPercent": 25,
+      "priceMin": 899,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "purple-ice-water",
+      "name": "Purple Ice Water",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "do-si-dos",
+      "name": "Do-Si-Dos",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "orange-panties",
+      "name": "Orange Panties",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "lemon-slushie",
+      "name": "Lemon Slushie",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "oz",
+      "name": "OZ",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Purple Panther (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Purple Panther: Euphoric, Happy, Creative. 1 Produkte verfügbar. ab 8,99 €.",
+      "canonical": "https://weed.de/strain/purple-panther",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Purple Panther (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Purple Panther: Euphoric, Happy, Creative. 1 Produkte verfügbar. ab 8,99 €.",
+        "url": "https://weed.de/strain/purple-panther",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Purple Panther",
+        "href": "https://weed.de/strain/purple-panther"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Purple Panther",
+            "item": "https://weed.de/strain/purple-panther"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Purple Panther Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/mediprocan-simba-251-pp",
+            "name": "Mediprocan Simba 25/1 PP"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/mediprocan-simba-251-pp",
+        "text": "Mediprocan Simba 25/1 PP",
+        "title": "Mediprocan Simba 25/1 PP von mediproCan"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/purple-ice-water",
+        "text": "Purple Ice Water",
+        "title": "Purple Ice Water - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/do-si-dos",
+        "text": "Do-Si-Dos",
+        "title": "Do-Si-Dos - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/orange-panties",
+        "text": "Orange Panties",
+        "title": "Orange Panties - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/lemon-slushie",
+        "text": "Lemon Slushie",
+        "title": "Lemon Slushie - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/oz",
+        "text": "OZ",
+        "title": "OZ - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/beta-myrcene",
+        "text": "Beta-Myrcene",
+        "title": "Beta-Myrcene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

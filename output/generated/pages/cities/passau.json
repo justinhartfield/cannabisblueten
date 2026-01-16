@@ -1,0 +1,187 @@
+{
+  "city": {
+    "slug": "passau",
+    "name": "Passau",
+    "state": "Bayern"
+  },
+  "stats": {
+    "pharmacyCount": 2,
+    "totalProducts": 50,
+    "hasDelivery": true
+  },
+  "pharmacies": [
+    {
+      "slug": "blaue-blueten-blaue-apotheke-ek",
+      "name": "Blaue Blüten (Blaue Apotheke e.K.)",
+      "street": "Alte Straße 69",
+      "zip": "94034",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 40,
+      "rating": 5,
+      "ratingCount": 2
+    },
+    {
+      "slug": "wittelsbacher-apotheke-oder-weedlsbacher-cannabis",
+      "name": "Wittelsbacher Apotheke | Weedlsbacher Cannabis",
+      "street": "Ludwigsplatz 7",
+      "zip": "94032",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 10,
+      "rating": 0,
+      "ratingCount": 0
+    }
+  ],
+  "nearbyCities": [
+    {
+      "slug": "muenchen",
+      "name": "München",
+      "pharmacyCount": 12
+    },
+    {
+      "slug": "nuernberg",
+      "name": "Nürnberg",
+      "pharmacyCount": 7
+    },
+    {
+      "slug": "augsburg",
+      "name": "Augsburg",
+      "pharmacyCount": 6
+    },
+    {
+      "slug": "landshut",
+      "name": "Landshut",
+      "pharmacyCount": 3
+    },
+    {
+      "slug": "erlangen",
+      "name": "Erlangen",
+      "pharmacyCount": 2
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannabis Apotheke Passau - 2 Apotheken",
+      "description": "Cannabis Apotheken in Passau. 2 Apotheken mit 50 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+      "canonical": "https://weed.de/cannabis-apotheke/passau",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannabis Apotheke Passau - 2 Apotheken",
+        "description": "Cannabis Apotheken in Passau. 2 Apotheken mit 50 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+        "url": "https://weed.de/cannabis-apotheke/passau",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Passau",
+        "href": "https://weed.de/cannabis-apotheke/passau"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Passau",
+            "item": "https://weed.de/cannabis-apotheke/passau"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Cannabis Apotheken in Passau",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/apotheke/blaue-blueten-blaue-apotheke-ek",
+            "name": "Blaue Blüten (Blaue Apotheke e.K.)"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/apotheke/wittelsbacher-apotheke-oder-weedlsbacher-cannabis",
+            "name": "Wittelsbacher Apotheke | Weedlsbacher Cannabis"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "pharmacies": [
+      {
+        "href": "/apotheke/blaue-blueten-blaue-apotheke-ek",
+        "text": "Blaue Blüten (Blaue Apotheke e.K.)",
+        "title": "Blaue Blüten (Blaue Apotheke e.K.) in Passau"
+      },
+      {
+        "href": "/apotheke/wittelsbacher-apotheke-oder-weedlsbacher-cannabis",
+        "text": "Wittelsbacher Apotheke | Weedlsbacher Cannabis",
+        "title": "Wittelsbacher Apotheke | Weedlsbacher Cannabis in Passau"
+      }
+    ],
+    "nearbyCities": [
+      {
+        "href": "/cannabis-apotheke/muenchen",
+        "text": "Cannabis Apotheke München",
+        "title": "12 Apotheken in München"
+      },
+      {
+        "href": "/cannabis-apotheke/nuernberg",
+        "text": "Cannabis Apotheke Nürnberg",
+        "title": "7 Apotheken in Nürnberg"
+      },
+      {
+        "href": "/cannabis-apotheke/augsburg",
+        "text": "Cannabis Apotheke Augsburg",
+        "title": "6 Apotheken in Augsburg"
+      },
+      {
+        "href": "/cannabis-apotheke/landshut",
+        "text": "Cannabis Apotheke Landshut",
+        "title": "3 Apotheken in Landshut"
+      },
+      {
+        "href": "/cannabis-apotheke/erlangen",
+        "text": "Cannabis Apotheke Erlangen",
+        "title": "2 Apotheken in Erlangen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has 2 pharmacies"
+  }
+}

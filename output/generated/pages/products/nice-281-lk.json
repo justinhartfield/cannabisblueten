@@ -1,0 +1,244 @@
+{
+  "product": {
+    "slug": "nice-281-lk",
+    "name": "NICE 28/1 LK",
+    "type": "flower",
+    "genetics": "sativa",
+    "thcPercent": 28,
+    "cbdPercent": 1,
+    "priceMin": 425,
+    "priceMax": 650,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": "https://weed.de/products/nice-281-lk-66a334.png"
+  },
+  "brand": {
+    "slug": "cansativa",
+    "name": "Cansativa",
+    "productCount": 141
+  },
+  "strain": {
+    "slug": "lemon-kush",
+    "name": "Lemon Kush",
+    "geneticType": "hybrid",
+    "effects": [
+      "Creative",
+      "Euphoric",
+      "Happy",
+      "Stress-relief",
+      "Anxiety-reducing",
+      "Pain-relief",
+      "Balanced",
+      "Calming",
+      "Relaxed"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Caryophyllene",
+      "Terpinolene",
+      "Myrcene",
+      "Pinene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Creative",
+      "Euphoric",
+      "Happy",
+      "Stress-relief",
+      "Anxiety-reducing",
+      "Pain-relief",
+      "Balanced",
+      "Calming",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Citrus",
+      "Lemon",
+      "Earthy",
+      "Tangy",
+      "Gassy",
+      "Spicy"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Caryophyllene",
+      "Terpinolene",
+      "Myrcene",
+      "Pinene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "nice-31-lk",
+      "name": "NICE 30/1 LK",
+      "brandName": "Cansativa",
+      "thcPercent": 30,
+      "priceMin": 449,
+      "inStock": true
+    },
+    {
+      "slug": "aurora-typ-1",
+      "name": "Aurora Typ 1",
+      "brandName": "Aurora",
+      "thcPercent": 19,
+      "priceMin": 479,
+      "inStock": true
+    },
+    {
+      "slug": "pedanios-22-1",
+      "name": "Pedanios 22/1",
+      "brandName": "Aurora",
+      "thcPercent": 22,
+      "priceMin": 629,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-sativa-forte-tc",
+      "name": "Cannamedical Sativa forte TC",
+      "brandName": "Cannamedical",
+      "thcPercent": 24,
+      "priceMin": 683,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-sativa-classic-tc",
+      "name": "Cannamedical Sativa classic TC",
+      "brandName": "Cannamedical",
+      "thcPercent": 20,
+      "priceMin": 755,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-sativa-classic-si",
+      "name": "Cannamedical Sativa classic SI",
+      "brandName": "Cannamedical",
+      "thcPercent": 20,
+      "priceMin": 915,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "NICE 28/1 LK - Cansativa | ab 4,25 €",
+      "description": "NICE 28/1 LK von Cansativa. THC: 28%, CBD: 1%. Sorte: Lemon Kush. Preis ab 4,25 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/nice-281-lk",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "NICE 28/1 LK - Cansativa | ab 4,25 €",
+        "description": "NICE 28/1 LK von Cansativa. THC: 28%, CBD: 1%. Sorte: Lemon Kush. Preis ab 4,25 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/nice-281-lk",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/nice-281-lk-66a334.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Cansativa",
+        "href": "https://weed.de/brand/cansativa"
+      },
+      {
+        "name": "NICE 28/1 LK",
+        "href": "https://weed.de/product/nice-281-lk"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "NICE 28/1 LK",
+            "item": "https://weed.de/product/nice-281-lk"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "NICE 28/1 LK",
+        "brand": {
+          "@type": "Brand",
+          "name": "Cansativa"
+        },
+        "description": "THC: 28%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/lemon-kush",
+      "text": "Lemon Kush",
+      "title": "Lemon Kush Sorte"
+    },
+    "brand": {
+      "href": "/brand/cansativa",
+      "text": "Cansativa",
+      "title": "Alle Cansativa Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/nice-31-lk",
+        "text": "NICE 30/1 LK",
+        "title": "Alternative: NICE 30/1 LK"
+      },
+      {
+        "href": "/product/aurora-typ-1",
+        "text": "Aurora Typ 1",
+        "title": "Alternative: Aurora Typ 1"
+      },
+      {
+        "href": "/product/pedanios-22-1",
+        "text": "Pedanios 22/1",
+        "title": "Alternative: Pedanios 22/1"
+      },
+      {
+        "href": "/product/cannamedical-sativa-forte-tc",
+        "text": "Cannamedical Sativa forte TC",
+        "title": "Alternative: Cannamedical Sativa forte TC"
+      },
+      {
+        "href": "/product/cannamedical-sativa-classic-tc",
+        "text": "Cannamedical Sativa classic TC",
+        "title": "Alternative: Cannamedical Sativa classic TC"
+      },
+      {
+        "href": "/product/cannamedical-sativa-classic-si",
+        "text": "Cannamedical Sativa classic SI",
+        "title": "Alternative: Cannamedical Sativa classic SI"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

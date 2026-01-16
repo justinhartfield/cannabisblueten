@@ -1,0 +1,248 @@
+{
+  "strain": {
+    "slug": "lsage",
+    "name": "La S.A.G.E.",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 10,
+      "max": 12
+    },
+    "effects": [
+      "Euphoric",
+      "Happy",
+      "Relaxed",
+      "Uplifted"
+    ],
+    "tastes": [
+      "Pine",
+      "Sage",
+      "Sweet"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Pinene",
+      "Caryophyllene"
+    ],
+    "description": "La S.A.G.E. ist eine faszinierende Hybridsorte mit genetischen Wurzeln in den ikonischen Sorten \"S.A.G.E.™\" und \"Skunk #1\". Sie bietet eine harmonische Mischung therapeutischer Eigenschaften mit moderaten THC-Werten von 12% bis 14% und CBD-Werten zwischen 10% und 12%. Diese ausgewogene Sorte zeichnet sich durch ein einzigartiges Geschmacksprofil aus, das von Noten von Kiefer, Süße und Anklängen von Salbei geprägt ist. Die dominanten Terpene, darunter Limonene, Pinene und Caryophyllene, tragen zu ihrer aromatischen Komplexität bei. La S.A.G.E. ist von Nutzern geschätzt, die ein anregendes und euphorisches Erlebnis mit einer Prise Entspannung suchen.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 3,
+    "pharmacyCount": 0,
+    "priceRange": null
+  },
+  "products": [
+    {
+      "slug": "101-c-bluten-lsage",
+      "name": "101-C Blüten LSAGE",
+      "brandName": "Heyday",
+      "thcPercent": 21.6,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "pharmcann-silver-thc-22",
+      "name": "PharmCann Silver THC 22",
+      "brandName": "AMP",
+      "thcPercent": 22,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "althea-thc24",
+      "name": "Althea THC24",
+      "brandName": "Nimbus Health",
+      "thcPercent": 23.4,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "biscotti",
+      "name": "Biscotti",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "spritzer",
+      "name": "Spritzer",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "white-gorilla",
+      "name": "White Gorilla",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "auto-mac-1",
+      "name": "Auto Mac #1",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "animal-mintz-cross",
+      "name": "Animal Mintz Cross",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "La S.A.G.E. (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "La S.A.G.E.: Euphoric, Happy, Relaxed. 3 Produkte verfügbar.",
+      "canonical": "https://weed.de/strain/lsage",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "La S.A.G.E. (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "La S.A.G.E.: Euphoric, Happy, Relaxed. 3 Produkte verfügbar.",
+        "url": "https://weed.de/strain/lsage",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "La S.A.G.E.",
+        "href": "https://weed.de/strain/lsage"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "La S.A.G.E.",
+            "item": "https://weed.de/strain/lsage"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "La S.A.G.E. Produkte",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/101-c-bluten-lsage",
+            "name": "101-C Blüten LSAGE"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/pharmcann-silver-thc-22",
+            "name": "PharmCann Silver THC 22"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/althea-thc24",
+            "name": "Althea THC24"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/101-c-bluten-lsage",
+        "text": "101-C Blüten LSAGE",
+        "title": "101-C Blüten LSAGE von Heyday"
+      },
+      {
+        "href": "/product/pharmcann-silver-thc-22",
+        "text": "PharmCann Silver THC 22",
+        "title": "PharmCann Silver THC 22 von AMP"
+      },
+      {
+        "href": "/product/althea-thc24",
+        "text": "Althea THC24",
+        "title": "Althea THC24 von Nimbus Health"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/biscotti",
+        "text": "Biscotti",
+        "title": "Biscotti - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/spritzer",
+        "text": "Spritzer",
+        "title": "Spritzer - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/white-gorilla",
+        "text": "White Gorilla",
+        "title": "White Gorilla - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/auto-mac-1",
+        "text": "Auto Mac #1",
+        "title": "Auto Mac #1 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/animal-mintz-cross",
+        "text": "Animal Mintz Cross",
+        "title": "Animal Mintz Cross - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/pinene",
+        "text": "Pinene",
+        "title": "Pinene Terpen"
+      },
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

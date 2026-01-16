@@ -1,0 +1,193 @@
+{
+  "brand": {
+    "slug": "adjupharm",
+    "name": "Adjupharm",
+    "productCount": 5
+  },
+  "products": [
+    {
+      "slug": "imc-thc-2-t1-hk",
+      "name": "IMC THC 20 T01 HK",
+      "type": "flower",
+      "thcPercent": 20,
+      "priceMin": 368,
+      "inStock": true,
+      "strainName": "Hindu Kush"
+    },
+    {
+      "slug": "cannabis-flos-adjupharm-bedrolite",
+      "name": "Cannabis flos Adjupharm Bedrolite",
+      "type": "flower",
+      "thcPercent": 1,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Bedrolite®"
+    },
+    {
+      "slug": "cannabis-flos-adjupharm-bedrobinol",
+      "name": "Cannabis flos Adjupharm Bedrobinol",
+      "type": "flower",
+      "thcPercent": 13.5,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Bedrobinol"
+    },
+    {
+      "slug": "cannabis-flos-adjupharm-bediol",
+      "name": "Cannabis flos Adjupharm Bediol",
+      "type": "flower",
+      "thcPercent": 6.3,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Bediol"
+    },
+    {
+      "slug": "cannabis-flos-adjupharm-bedica",
+      "name": "Cannabis flos Adjupharm Bedica",
+      "type": "flower",
+      "thcPercent": 14.2,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Bedica"
+    }
+  ],
+  "stats": {
+    "productCount": 5,
+    "inStockCount": 1,
+    "avgThc": 11,
+    "priceRange": {
+      "min": 368,
+      "max": 368,
+      "formatted": {
+        "min": "3,68 €",
+        "max": "3,68 €"
+      }
+    }
+  },
+  "seo": {
+    "meta": {
+      "title": "Adjupharm Cannabis Produkte - 5 Produkte",
+      "description": "Adjupharm: 5 Cannabis Produkte. 1 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+      "canonical": "https://weed.de/brand/adjupharm",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Adjupharm Cannabis Produkte - 5 Produkte",
+        "description": "Adjupharm: 5 Cannabis Produkte. 1 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+        "url": "https://weed.de/brand/adjupharm",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Hersteller",
+        "href": "https://weed.de/brands"
+      },
+      {
+        "name": "Adjupharm",
+        "href": "https://weed.de/brand/adjupharm"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Hersteller",
+            "item": "https://weed.de/brands"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Adjupharm",
+            "item": "https://weed.de/brand/adjupharm"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Adjupharm Produkte",
+        "numberOfItems": 5,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/imc-thc-2-t1-hk",
+            "name": "IMC THC 20 T01 HK"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/cannabis-flos-adjupharm-bedrolite",
+            "name": "Cannabis flos Adjupharm Bedrolite"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/cannabis-flos-adjupharm-bedrobinol",
+            "name": "Cannabis flos Adjupharm Bedrobinol"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/product/cannabis-flos-adjupharm-bediol",
+            "name": "Cannabis flos Adjupharm Bediol"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "https://weed.de/product/cannabis-flos-adjupharm-bedica",
+            "name": "Cannabis flos Adjupharm Bedica"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/imc-thc-2-t1-hk",
+        "text": "IMC THC 20 T01 HK",
+        "title": "IMC THC 20 T01 HK"
+      },
+      {
+        "href": "/product/cannabis-flos-adjupharm-bedrolite",
+        "text": "Cannabis flos Adjupharm Bedrolite",
+        "title": "Cannabis flos Adjupharm Bedrolite"
+      },
+      {
+        "href": "/product/cannabis-flos-adjupharm-bedrobinol",
+        "text": "Cannabis flos Adjupharm Bedrobinol",
+        "title": "Cannabis flos Adjupharm Bedrobinol"
+      },
+      {
+        "href": "/product/cannabis-flos-adjupharm-bediol",
+        "text": "Cannabis flos Adjupharm Bediol",
+        "title": "Cannabis flos Adjupharm Bediol"
+      },
+      {
+        "href": "/product/cannabis-flos-adjupharm-bedica",
+        "text": "Cannabis flos Adjupharm Bedica",
+        "title": "Cannabis flos Adjupharm Bedica"
+      }
+    ]
+  }
+}

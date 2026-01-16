@@ -1,0 +1,224 @@
+{
+  "product": {
+    "slug": "avaay-261-bcp",
+    "name": "Avaay 26/1 BCP",
+    "type": "flower",
+    "genetics": "hybrid_sativa",
+    "thcPercent": 25.1,
+    "cbdPercent": 1,
+    "priceMin": 750,
+    "priceMax": 750,
+    "inStock": false,
+    "pzn": [],
+    "originCountry": "Republik Südafrika",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "avaay",
+    "name": "Avaay",
+    "productCount": 101
+  },
+  "strain": {
+    "slug": "black-cherry-punch",
+    "name": "Black Cherry Punch",
+    "geneticType": "hybrid",
+    "effects": [
+      "Sleepy",
+      "Tingly",
+      "Happy"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Caryophyllene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Sleepy",
+      "Tingly",
+      "Happy"
+    ],
+    "tastes": [
+      "Berry",
+      "Sweet"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Caryophyllene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "enua-221-bcp-ca",
+      "name": "enua 22/1 BCP CA",
+      "brandName": "enua",
+      "thcPercent": 23.2,
+      "priceMin": 334,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-indica-classic-zaf-1",
+      "name": "Cannamedical Indica classic ZAF",
+      "brandName": "Cannamedical",
+      "thcPercent": 21,
+      "priceMin": 399,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-indica-forte-zaf",
+      "name": "Cannamedical Indica forte ZAF",
+      "brandName": "Cannamedical",
+      "thcPercent": 24,
+      "priceMin": 429,
+      "inStock": true
+    },
+    {
+      "slug": "remexian-211-ras-alb",
+      "name": "Remexian 21/1 RAS ALB",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 21,
+      "priceMin": 475,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-indica-light-zaf",
+      "name": "Cannamedical Indica Light ZAF",
+      "brandName": "Cannamedical",
+      "thcPercent": 18,
+      "priceMin": 490,
+      "inStock": true
+    },
+    {
+      "slug": "thc-akut-mg-28-bcp",
+      "name": "THC AKUT MG 28 BCP",
+      "brandName": "Bathera",
+      "thcPercent": 25,
+      "priceMin": 498,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Avaay 26/1 BCP | ab 7,50 €",
+      "description": "Avaay 26/1 BCP von Avaay. THC: 25.1%, CBD: 1%. Sorte: Black Cherry Punch. Preis ab 7,50 €. Preise vergleichen.",
+      "canonical": "https://weed.de/product/avaay-261-bcp",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Avaay 26/1 BCP | ab 7,50 €",
+        "description": "Avaay 26/1 BCP von Avaay. THC: 25.1%, CBD: 1%. Sorte: Black Cherry Punch. Preis ab 7,50 €. Preise vergleichen.",
+        "url": "https://weed.de/product/avaay-261-bcp",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Avaay",
+        "href": "https://weed.de/brand/avaay"
+      },
+      {
+        "name": "Avaay 26/1 BCP",
+        "href": "https://weed.de/product/avaay-261-bcp"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Avaay 26/1 BCP",
+            "item": "https://weed.de/product/avaay-261-bcp"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Avaay 26/1 BCP",
+        "brand": {
+          "@type": "Brand",
+          "name": "Avaay"
+        },
+        "gtin13": [],
+        "description": "THC: 25.1%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/black-cherry-punch",
+      "text": "Black Cherry Punch",
+      "title": "Black Cherry Punch Sorte"
+    },
+    "brand": {
+      "href": "/brand/avaay",
+      "text": "Avaay",
+      "title": "Alle Avaay Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/enua-221-bcp-ca",
+        "text": "enua 22/1 BCP CA",
+        "title": "Alternative: enua 22/1 BCP CA"
+      },
+      {
+        "href": "/product/cannamedical-indica-classic-zaf-1",
+        "text": "Cannamedical Indica classic ZAF",
+        "title": "Alternative: Cannamedical Indica classic ZAF"
+      },
+      {
+        "href": "/product/cannamedical-indica-forte-zaf",
+        "text": "Cannamedical Indica forte ZAF",
+        "title": "Alternative: Cannamedical Indica forte ZAF"
+      },
+      {
+        "href": "/product/remexian-211-ras-alb",
+        "text": "Remexian 21/1 RAS ALB",
+        "title": "Alternative: Remexian 21/1 RAS ALB"
+      },
+      {
+        "href": "/product/cannamedical-indica-light-zaf",
+        "text": "Cannamedical Indica Light ZAF",
+        "title": "Alternative: Cannamedical Indica Light ZAF"
+      },
+      {
+        "href": "/product/thc-akut-mg-28-bcp",
+        "text": "THC AKUT MG 28 BCP",
+        "title": "Alternative: THC AKUT MG 28 BCP"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has price data"
+  }
+}

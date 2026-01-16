@@ -1,0 +1,224 @@
+{
+  "product": {
+    "slug": "tilray-thc-18-spotlight-porto-headband",
+    "name": "Tilray THC 18 Spotlight Porto Headband",
+    "type": "flower",
+    "genetics": "sativa",
+    "thcPercent": 18.6,
+    "cbdPercent": 1,
+    "priceMin": 618,
+    "priceMax": 618,
+    "inStock": false,
+    "pzn": [],
+    "originCountry": "Portugal",
+    "imageUrl": "https://weed.de/products/tilray-thc-18-spotlight-porto-headband-6j2940.png"
+  },
+  "brand": {
+    "slug": "tilray",
+    "name": "Tilray",
+    "productCount": 160
+  },
+  "strain": {
+    "slug": "headband",
+    "name": "Headband",
+    "geneticType": "hybrid",
+    "effects": [
+      "Body-buzz",
+      "Euphoric",
+      "Creative"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Myrcene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Body-buzz",
+      "Euphoric",
+      "Creative"
+    ],
+    "tastes": [
+      "Citrus",
+      "Lemon",
+      "Diesel"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Myrcene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "aurora-typ-1",
+      "name": "Aurora Typ 1",
+      "brandName": "Aurora",
+      "thcPercent": 19,
+      "priceMin": 479,
+      "inStock": true
+    },
+    {
+      "slug": "pedanios-22-1",
+      "name": "Pedanios 22/1",
+      "brandName": "Aurora",
+      "thcPercent": 22,
+      "priceMin": 629,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-sativa-forte-tc",
+      "name": "Cannamedical Sativa forte TC",
+      "brandName": "Cannamedical",
+      "thcPercent": 24,
+      "priceMin": 683,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-sativa-classic-tc",
+      "name": "Cannamedical Sativa classic TC",
+      "brandName": "Cannamedical",
+      "thcPercent": 20,
+      "priceMin": 755,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-sativa-classic-si",
+      "name": "Cannamedical Sativa classic SI",
+      "brandName": "Cannamedical",
+      "thcPercent": 20,
+      "priceMin": 915,
+      "inStock": true
+    },
+    {
+      "slug": "cannabis-flos-bedrocan-f20",
+      "name": "Cannabis Flos Bedrocan F20",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 22,
+      "priceMin": null,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Tilray THC 18 Spotlight Porto Headband | ab 6,18 €",
+      "description": "Tilray THC 18 Spotlight Porto Headband von Tilray. THC: 18.6%, CBD: 1%. Sorte: Headband. Preis ab 6,18 €. Preise vergleichen.",
+      "canonical": "https://weed.de/product/tilray-thc-18-spotlight-porto-headband",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Tilray THC 18 Spotlight Porto Headband | ab 6,18 €",
+        "description": "Tilray THC 18 Spotlight Porto Headband von Tilray. THC: 18.6%, CBD: 1%. Sorte: Headband. Preis ab 6,18 €. Preise vergleichen.",
+        "url": "https://weed.de/product/tilray-thc-18-spotlight-porto-headband",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/tilray-thc-18-spotlight-porto-headband-6j2940.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Tilray",
+        "href": "https://weed.de/brand/tilray"
+      },
+      {
+        "name": "Tilray THC 18 Spotlight Porto Headband",
+        "href": "https://weed.de/product/tilray-thc-18-spotlight-porto-headband"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Tilray THC 18 Spotlight Porto Headband",
+            "item": "https://weed.de/product/tilray-thc-18-spotlight-porto-headband"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Tilray THC 18 Spotlight Porto Headband",
+        "brand": {
+          "@type": "Brand",
+          "name": "Tilray"
+        },
+        "gtin13": [],
+        "description": "THC: 18.6%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/headband",
+      "text": "Headband",
+      "title": "Headband Sorte"
+    },
+    "brand": {
+      "href": "/brand/tilray",
+      "text": "Tilray",
+      "title": "Alle Tilray Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/aurora-typ-1",
+        "text": "Aurora Typ 1",
+        "title": "Alternative: Aurora Typ 1"
+      },
+      {
+        "href": "/product/pedanios-22-1",
+        "text": "Pedanios 22/1",
+        "title": "Alternative: Pedanios 22/1"
+      },
+      {
+        "href": "/product/cannamedical-sativa-forte-tc",
+        "text": "Cannamedical Sativa forte TC",
+        "title": "Alternative: Cannamedical Sativa forte TC"
+      },
+      {
+        "href": "/product/cannamedical-sativa-classic-tc",
+        "text": "Cannamedical Sativa classic TC",
+        "title": "Alternative: Cannamedical Sativa classic TC"
+      },
+      {
+        "href": "/product/cannamedical-sativa-classic-si",
+        "text": "Cannamedical Sativa classic SI",
+        "title": "Alternative: Cannamedical Sativa classic SI"
+      },
+      {
+        "href": "/product/cannabis-flos-bedrocan-f20",
+        "text": "Cannabis Flos Bedrocan F20",
+        "title": "Alternative: Cannabis Flos Bedrocan F20"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has price data"
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "higreen-apotheke-am-phoenixsee",
+    "name": "higreen! - Apotheke am Phoenixsee",
+    "street": "Dortmund, Deutschland",
+    "zip": "44",
+    "cityName": "Dortmund",
+    "state": "Nordrhein-Westfalen",
+    "lat": 51.5135872,
+    "lng": 7.465298100000001,
+    "hasDelivery": false,
+    "hasPickup": true,
+    "hasPrices": false,
+    "website": null,
+    "phone": "021154247777",
+    "email": "apothekephoenixsee_do@higreen.de",
+    "productCount": 1,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/6759ab0f76ce36f4a6c2d9ab-f51b12.jpg"
+  },
+  "city": {
+    "slug": "dortmund",
+    "name": "Dortmund",
+    "pharmacyCount": 5
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "linden-apotheke",
+      "name": "KrautKurier (Linden Apotheke)",
+      "cityName": "Dortmund",
+      "productCount": 56,
+      "hasDelivery": true
+    },
+    {
+      "slug": "higreen-stern-apotheke",
+      "name": "Stern Apotheke - higreen!",
+      "cityName": "Dortmund",
+      "productCount": 38,
+      "hasDelivery": true
+    },
+    {
+      "slug": "koernebach-apotheke",
+      "name": "Körnebach Apotheke",
+      "cityName": "Dortmund",
+      "productCount": 13,
+      "hasDelivery": false
+    },
+    {
+      "slug": "baeren-apotheke-2",
+      "name": "Bären Apotheke",
+      "cityName": "Dortmund",
+      "productCount": 10,
+      "hasDelivery": false
+    },
+    {
+      "slug": "higreen-apotheke",
+      "name": "higreen! Online Marktplatz für Cannabis Apotheken",
+      "cityName": "Krefeld",
+      "productCount": 256,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "higreen! - Apotheke am Phoenixsee - Cannabis Apotheke in Dortmund",
+      "description": "higreen! - Apotheke am Phoenixsee in Dortmund. 1 Cannabis Produkte. Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/higreen-apotheke-am-phoenixsee",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "higreen! - Apotheke am Phoenixsee - Cannabis Apotheke in Dortmund",
+        "description": "higreen! - Apotheke am Phoenixsee in Dortmund. 1 Cannabis Produkte. Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/higreen-apotheke-am-phoenixsee",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/6759ab0f76ce36f4a6c2d9ab-f51b12.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Dortmund",
+        "href": "https://weed.de/cannabis-apotheke/dortmund"
+      },
+      {
+        "name": "higreen! - Apotheke am Phoenixsee",
+        "href": "https://weed.de/apotheke/higreen-apotheke-am-phoenixsee"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Dortmund",
+            "item": "https://weed.de/cannabis-apotheke/dortmund"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "higreen! - Apotheke am Phoenixsee",
+            "item": "https://weed.de/apotheke/higreen-apotheke-am-phoenixsee"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "higreen! - Apotheke am Phoenixsee",
+        "url": "https://weed.de/apotheke/higreen-apotheke-am-phoenixsee",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Dortmund, Deutschland",
+          "addressLocality": "Dortmund",
+          "postalCode": "44",
+          "addressRegion": "Nordrhein-Westfalen",
+          "addressCountry": "DE"
+        },
+        "telephone": "021154247777",
+        "email": "apothekephoenixsee_do@higreen.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/dortmund",
+      "text": "Cannabis Apotheken in Dortmund",
+      "title": "Alle Apotheken in Dortmund"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/linden-apotheke",
+        "text": "KrautKurier (Linden Apotheke)",
+        "title": "KrautKurier (Linden Apotheke) in Dortmund"
+      },
+      {
+        "href": "/apotheke/higreen-stern-apotheke",
+        "text": "Stern Apotheke - higreen!",
+        "title": "Stern Apotheke - higreen! in Dortmund"
+      },
+      {
+        "href": "/apotheke/koernebach-apotheke",
+        "text": "Körnebach Apotheke",
+        "title": "Körnebach Apotheke in Dortmund"
+      },
+      {
+        "href": "/apotheke/baeren-apotheke-2",
+        "text": "Bären Apotheke",
+        "title": "Bären Apotheke in Dortmund"
+      },
+      {
+        "href": "/apotheke/higreen-apotheke",
+        "text": "higreen! Online Marktplatz für Cannabis Apotheken",
+        "title": "higreen! Online Marktplatz für Cannabis Apotheken in Krefeld"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

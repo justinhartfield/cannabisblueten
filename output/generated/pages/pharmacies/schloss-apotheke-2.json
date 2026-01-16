@@ -1,0 +1,176 @@
+{
+  "pharmacy": {
+    "slug": "schloss-apotheke-2",
+    "name": "Schloss Apotheke",
+    "street": "Lange Straße 64A",
+    "zip": "99189",
+    "cityName": "Gebesee",
+    "state": "Thüringen",
+    "lat": 51.1163305,
+    "lng": 10.9332844,
+    "hasDelivery": false,
+    "hasPickup": true,
+    "hasPrices": false,
+    "website": "https://www.schloss-apotheke-gebesee.de/startseite/",
+    "phone": "036201580985",
+    "email": "bestellung@schloss-apotheke-gebesee.de",
+    "productCount": 0,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/685d549d03f9d40a9a9a212d-d2ai99.jpg"
+  },
+  "city": {
+    "slug": "gebesee",
+    "name": "Gebesee",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "cannalu",
+      "name": "cannalu.de",
+      "cityName": "Bad Berka",
+      "productCount": 44,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-am-zoopark",
+      "name": "green elephant weed",
+      "cityName": "Erfurt",
+      "productCount": 36,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannatilia",
+      "name": "Cannatilia",
+      "cityName": "Mühlhausen/Thüringen",
+      "productCount": 22,
+      "hasDelivery": true
+    },
+    {
+      "slug": "ginkgo-apotheke",
+      "name": "Ginkgo Apotheke",
+      "cityName": "Jena",
+      "productCount": 7,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Schloss Apotheke - Cannabis Apotheke in Gebesee",
+      "description": "Schloss Apotheke in Gebesee. Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/schloss-apotheke-2",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Schloss Apotheke - Cannabis Apotheke in Gebesee",
+        "description": "Schloss Apotheke in Gebesee. Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/schloss-apotheke-2",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/685d549d03f9d40a9a9a212d-d2ai99.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Gebesee",
+        "href": "https://weed.de/cannabis-apotheke/gebesee"
+      },
+      {
+        "name": "Schloss Apotheke",
+        "href": "https://weed.de/apotheke/schloss-apotheke-2"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Gebesee",
+            "item": "https://weed.de/cannabis-apotheke/gebesee"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Schloss Apotheke",
+            "item": "https://weed.de/apotheke/schloss-apotheke-2"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Schloss Apotheke",
+        "url": "https://weed.de/apotheke/schloss-apotheke-2",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Lange Straße 64A",
+          "addressLocality": "Gebesee",
+          "postalCode": "99189",
+          "addressRegion": "Thüringen",
+          "addressCountry": "DE"
+        },
+        "telephone": "036201580985",
+        "email": "bestellung@schloss-apotheke-gebesee.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/gebesee",
+      "text": "Cannabis Apotheken in Gebesee",
+      "title": "Alle Apotheken in Gebesee"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/cannalu",
+        "text": "cannalu.de",
+        "title": "cannalu.de in Bad Berka"
+      },
+      {
+        "href": "/apotheke/apotheke-am-zoopark",
+        "text": "green elephant weed",
+        "title": "green elephant weed in Erfurt"
+      },
+      {
+        "href": "/apotheke/cannatilia",
+        "text": "Cannatilia",
+        "title": "Cannatilia in Mühlhausen/Thüringen"
+      },
+      {
+        "href": "/apotheke/ginkgo-apotheke",
+        "text": "Ginkgo Apotheke",
+        "title": "Ginkgo Apotheke in Jena"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has services"
+  }
+}

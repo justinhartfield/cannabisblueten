@@ -1,0 +1,209 @@
+{
+  "city": {
+    "slug": "landshut",
+    "name": "Landshut",
+    "state": "Bayern"
+  },
+  "stats": {
+    "pharmacyCount": 3,
+    "totalProducts": 147,
+    "hasDelivery": true
+  },
+  "pharmacies": [
+    {
+      "slug": "cannabisfuermich",
+      "name": "CannabisFürMich",
+      "street": "Fliederstraße 46",
+      "zip": "84032",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 78,
+      "rating": 1,
+      "ratingCount": 1
+    },
+    {
+      "slug": "sonnen-apotheke-oder-cannabis-sunshine",
+      "name": "Sonnen Apotheke | Cannabis Sunshine",
+      "street": "Neustadt 521",
+      "zip": "84028",
+      "hasDelivery": true,
+      "hasPickup": true,
+      "productCount": 69,
+      "rating": 2,
+      "ratingCount": 3
+    },
+    {
+      "slug": "rennweg-apotheke",
+      "name": "Rennweg-Apotheke",
+      "street": "Landshut, Deutschland",
+      "zip": "84",
+      "hasDelivery": false,
+      "hasPickup": false,
+      "productCount": 0,
+      "rating": 0,
+      "ratingCount": 0
+    }
+  ],
+  "nearbyCities": [
+    {
+      "slug": "muenchen",
+      "name": "München",
+      "pharmacyCount": 12
+    },
+    {
+      "slug": "nuernberg",
+      "name": "Nürnberg",
+      "pharmacyCount": 7
+    },
+    {
+      "slug": "augsburg",
+      "name": "Augsburg",
+      "pharmacyCount": 6
+    },
+    {
+      "slug": "erlangen",
+      "name": "Erlangen",
+      "pharmacyCount": 2
+    },
+    {
+      "slug": "ansbach",
+      "name": "Ansbach",
+      "pharmacyCount": 2
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannabis Apotheke Landshut - 3 Apotheken",
+      "description": "Cannabis Apotheken in Landshut. 3 Apotheken mit 147 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+      "canonical": "https://weed.de/cannabis-apotheke/landshut",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannabis Apotheke Landshut - 3 Apotheken",
+        "description": "Cannabis Apotheken in Landshut. 3 Apotheken mit 147 Produkten. Mit Lieferservice. Jetzt vergleichen & beste Apotheke finden.",
+        "url": "https://weed.de/cannabis-apotheke/landshut",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Landshut",
+        "href": "https://weed.de/cannabis-apotheke/landshut"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Landshut",
+            "item": "https://weed.de/cannabis-apotheke/landshut"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Cannabis Apotheken in Landshut",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/apotheke/cannabisfuermich",
+            "name": "CannabisFürMich"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/apotheke/sonnen-apotheke-oder-cannabis-sunshine",
+            "name": "Sonnen Apotheke | Cannabis Sunshine"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/apotheke/rennweg-apotheke",
+            "name": "Rennweg-Apotheke"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "pharmacies": [
+      {
+        "href": "/apotheke/cannabisfuermich",
+        "text": "CannabisFürMich",
+        "title": "CannabisFürMich in Landshut"
+      },
+      {
+        "href": "/apotheke/sonnen-apotheke-oder-cannabis-sunshine",
+        "text": "Sonnen Apotheke | Cannabis Sunshine",
+        "title": "Sonnen Apotheke | Cannabis Sunshine in Landshut"
+      },
+      {
+        "href": "/apotheke/rennweg-apotheke",
+        "text": "Rennweg-Apotheke",
+        "title": "Rennweg-Apotheke in Landshut"
+      }
+    ],
+    "nearbyCities": [
+      {
+        "href": "/cannabis-apotheke/muenchen",
+        "text": "Cannabis Apotheke München",
+        "title": "12 Apotheken in München"
+      },
+      {
+        "href": "/cannabis-apotheke/nuernberg",
+        "text": "Cannabis Apotheke Nürnberg",
+        "title": "7 Apotheken in Nürnberg"
+      },
+      {
+        "href": "/cannabis-apotheke/augsburg",
+        "text": "Cannabis Apotheke Augsburg",
+        "title": "6 Apotheken in Augsburg"
+      },
+      {
+        "href": "/cannabis-apotheke/erlangen",
+        "text": "Cannabis Apotheke Erlangen",
+        "title": "2 Apotheken in Erlangen"
+      },
+      {
+        "href": "/cannabis-apotheke/ansbach",
+        "text": "Cannabis Apotheke Ansbach",
+        "title": "2 Apotheken in Ansbach"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has 3 pharmacies"
+  }
+}

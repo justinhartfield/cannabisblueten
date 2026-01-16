@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "schloss-apotheke",
+    "name": "Schloss Apotheke / svapo.de",
+    "street": "Bürgeler Straße 35",
+    "zip": "63075",
+    "cityName": "Offenbach am Main",
+    "state": "Hessen",
+    "lat": 50.09563620000001,
+    "lng": 8.776084299999999,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://www.svapo.de/",
+    "phone": "06960504047",
+    "email": "info@svapo.de",
+    "productCount": 148,
+    "rating": 4,
+    "ratingCount": 20,
+    "imageUrl": "https://weed.de/pharmacies/schloss-apotheke-ecfj8d.png"
+  },
+  "city": {
+    "slug": "offenbach-am-main",
+    "name": "Offenbach am Main",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "cannabis-vital-apotheke",
+      "name": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
+      "cityName": "Hattersheim am Main",
+      "productCount": 187,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis-apotheke-frankfurtkissel-apotheke",
+      "name": "Cannabis Apotheke Frankfurt/Kissel-Apotheke",
+      "cityName": "Frankfurt am Main",
+      "productCount": 183,
+      "hasDelivery": true
+    },
+    {
+      "slug": "42unicornde",
+      "name": "420unicorn.de",
+      "cityName": "Kassel",
+      "productCount": 123,
+      "hasDelivery": true
+    },
+    {
+      "slug": "amts-apotheke",
+      "name": "Taunus-Blüten",
+      "cityName": "Usingen",
+      "productCount": 77,
+      "hasDelivery": true
+    },
+    {
+      "slug": "wehling-von-buttlar-apotheke",
+      "name": "Wehling von Buttlar Apotheke",
+      "cityName": "Rodgau",
+      "productCount": 58,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Schloss Apotheke / svapo.de - Cannabis Apotheke in Offenbach am Main",
+      "description": "Schloss Apotheke / svapo.de in Offenbach am Main. 148 Cannabis Produkte. Lieferung & Abholung. Bewertung: 4.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/schloss-apotheke",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Schloss Apotheke / svapo.de - Cannabis Apotheke in Offenbach am Main",
+        "description": "Schloss Apotheke / svapo.de in Offenbach am Main. 148 Cannabis Produkte. Lieferung & Abholung. Bewertung: 4.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/schloss-apotheke",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/pharmacies/schloss-apotheke-ecfj8d.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Offenbach am Main",
+        "href": "https://weed.de/cannabis-apotheke/offenbach-am-main"
+      },
+      {
+        "name": "Schloss Apotheke / svapo.de",
+        "href": "https://weed.de/apotheke/schloss-apotheke"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Offenbach am Main",
+            "item": "https://weed.de/cannabis-apotheke/offenbach-am-main"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Schloss Apotheke / svapo.de",
+            "item": "https://weed.de/apotheke/schloss-apotheke"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Schloss Apotheke / svapo.de",
+        "url": "https://weed.de/apotheke/schloss-apotheke",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Bürgeler Straße 35",
+          "addressLocality": "Offenbach am Main",
+          "postalCode": "63075",
+          "addressRegion": "Hessen",
+          "addressCountry": "DE"
+        },
+        "telephone": "06960504047",
+        "email": "info@svapo.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/offenbach-am-main",
+      "text": "Cannabis Apotheken in Offenbach am Main",
+      "title": "Alle Apotheken in Offenbach am Main"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/cannabis-vital-apotheke",
+        "text": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
+        "title": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim) in Hattersheim am Main"
+      },
+      {
+        "href": "/apotheke/cannabis-apotheke-frankfurtkissel-apotheke",
+        "text": "Cannabis Apotheke Frankfurt/Kissel-Apotheke",
+        "title": "Cannabis Apotheke Frankfurt/Kissel-Apotheke in Frankfurt am Main"
+      },
+      {
+        "href": "/apotheke/42unicornde",
+        "text": "420unicorn.de",
+        "title": "420unicorn.de in Kassel"
+      },
+      {
+        "href": "/apotheke/amts-apotheke",
+        "text": "Taunus-Blüten",
+        "title": "Taunus-Blüten in Usingen"
+      },
+      {
+        "href": "/apotheke/wehling-von-buttlar-apotheke",
+        "text": "Wehling von Buttlar Apotheke",
+        "title": "Wehling von Buttlar Apotheke in Rodgau"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

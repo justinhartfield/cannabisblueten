@@ -1,0 +1,228 @@
+{
+  "product": {
+    "slug": "251-vayamed-cannabisextrakt",
+    "name": "25/1 Vayamed Cannabisextrakt",
+    "type": "extract",
+    "genetics": "indica",
+    "thcPercent": 25,
+    "cbdPercent": 1,
+    "priceMin": 863,
+    "priceMax": 1000,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": null,
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "vayamed",
+    "name": "Vayamed",
+    "productCount": 43
+  },
+  "strain": {
+    "slug": "amnesia-haze",
+    "name": "Amnesia Haze",
+    "geneticType": "hybrid",
+    "effects": [
+      "Uplifted",
+      "Giggly",
+      "Energetic",
+      "Talkative"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Caryophyllene",
+      "Limonene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Uplifted",
+      "Giggly",
+      "Energetic",
+      "Talkative"
+    ],
+    "tastes": [
+      "Sweet",
+      "Pepper",
+      "Citrus",
+      "Spicy-Herbal",
+      "Earthy"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Caryophyllene",
+      "Limonene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "remexian-181-all-ash",
+      "name": "Remexian 18/1 ALL ASH",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 18,
+      "priceMin": 287,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-craft-thc22-amh",
+      "name": "Tilray Craft THC22 AMH",
+      "brandName": "Tilray",
+      "thcPercent": 22,
+      "priceMin": 490,
+      "inStock": true
+    },
+    {
+      "slug": "1010-vayamed-cannabisextrakt",
+      "name": "10/10 Vayamed Cannabisextrakt",
+      "brandName": "Vayamed",
+      "thcPercent": 10,
+      "priceMin": 590,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-craft-thc25-amh",
+      "name": "Tilray Craft THC25 AMH",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": 599,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-sativa-vita-1",
+      "name": "Cannamedical Sativa Vita",
+      "brandName": "Cannamedical",
+      "thcPercent": 13.3,
+      "priceMin": 649,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-1",
+      "name": "Demecan Typ 1",
+      "brandName": "Demecan",
+      "thcPercent": 21,
+      "priceMin": 694,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "25/1 Vayamed Cannabisextrakt | ab 8,63 €",
+      "description": "25/1 Vayamed Cannabisextrakt von Vayamed. THC: 25%, CBD: 1%. Sorte: Amnesia Haze. Preis ab 8,63 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/251-vayamed-cannabisextrakt",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "25/1 Vayamed Cannabisextrakt | ab 8,63 €",
+        "description": "25/1 Vayamed Cannabisextrakt von Vayamed. THC: 25%, CBD: 1%. Sorte: Amnesia Haze. Preis ab 8,63 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/251-vayamed-cannabisextrakt",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Vayamed",
+        "href": "https://weed.de/brand/vayamed"
+      },
+      {
+        "name": "25/1 Vayamed Cannabisextrakt",
+        "href": "https://weed.de/product/251-vayamed-cannabisextrakt"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "25/1 Vayamed Cannabisextrakt",
+            "item": "https://weed.de/product/251-vayamed-cannabisextrakt"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "25/1 Vayamed Cannabisextrakt",
+        "brand": {
+          "@type": "Brand",
+          "name": "Vayamed"
+        },
+        "description": "THC: 25%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/amnesia-haze",
+      "text": "Amnesia Haze",
+      "title": "Amnesia Haze Sorte"
+    },
+    "brand": {
+      "href": "/brand/vayamed",
+      "text": "Vayamed",
+      "title": "Alle Vayamed Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/remexian-181-all-ash",
+        "text": "Remexian 18/1 ALL ASH",
+        "title": "Alternative: Remexian 18/1 ALL ASH"
+      },
+      {
+        "href": "/product/tilray-craft-thc22-amh",
+        "text": "Tilray Craft THC22 AMH",
+        "title": "Alternative: Tilray Craft THC22 AMH"
+      },
+      {
+        "href": "/product/1010-vayamed-cannabisextrakt",
+        "text": "10/10 Vayamed Cannabisextrakt",
+        "title": "Alternative: 10/10 Vayamed Cannabisextrakt"
+      },
+      {
+        "href": "/product/tilray-craft-thc25-amh",
+        "text": "Tilray Craft THC25 AMH",
+        "title": "Alternative: Tilray Craft THC25 AMH"
+      },
+      {
+        "href": "/product/cannamedical-sativa-vita-1",
+        "text": "Cannamedical Sativa Vita",
+        "title": "Alternative: Cannamedical Sativa Vita"
+      },
+      {
+        "href": "/product/demecan-typ-1",
+        "text": "Demecan Typ 1",
+        "title": "Alternative: Demecan Typ 1"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

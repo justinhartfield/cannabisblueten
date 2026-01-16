@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "reinbluete",
+    "name": "ReinBlüte",
+    "street": "Hauptstraße 302",
+    "zip": "79576",
+    "cityName": "Weil am Rhein",
+    "state": "Baden-Württemberg",
+    "lat": 47.5925846,
+    "lng": 7.6122469,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://reinbluete.de/",
+    "phone": "0762173060",
+    "email": "info@reinbluete.de",
+    "productCount": 6,
+    "rating": 2,
+    "ratingCount": 1,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/681a12789f1507c3aa33d288-79785b.jpg"
+  },
+  "city": {
+    "slug": "weil-am-rhein",
+    "name": "Weil am Rhein",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "florians-vital-apotheke",
+      "name": "Florians Vital Apotheke",
+      "cityName": "Esslingen am Neckar",
+      "productCount": 248,
+      "hasDelivery": true
+    },
+    {
+      "slug": "central-apotheke",
+      "name": "Cannabis-Champion",
+      "cityName": "Waiblingen",
+      "productCount": 240,
+      "hasDelivery": true
+    },
+    {
+      "slug": "karlchengras",
+      "name": "Karlchengras (Karl-Apotheke)",
+      "cityName": "Karlsruhe",
+      "productCount": 188,
+      "hasDelivery": true
+    },
+    {
+      "slug": "idris-apotheke-oder-3leafs",
+      "name": "Idris Apotheke | 3Leafs",
+      "cityName": "Weinheim",
+      "productCount": 149,
+      "hasDelivery": true
+    },
+    {
+      "slug": "schwarzwald-vital-apotheke",
+      "name": "Schwarzwald Vital Apotheke",
+      "cityName": "Gaggenau",
+      "productCount": 133,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "ReinBlüte - Cannabis Apotheke in Weil am Rhein",
+      "description": "ReinBlüte in Weil am Rhein. 6 Cannabis Produkte. Lieferung & Abholung. Bewertung: 2.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/reinbluete",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "ReinBlüte - Cannabis Apotheke in Weil am Rhein",
+        "description": "ReinBlüte in Weil am Rhein. 6 Cannabis Produkte. Lieferung & Abholung. Bewertung: 2.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/reinbluete",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/681a12789f1507c3aa33d288-79785b.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Weil am Rhein",
+        "href": "https://weed.de/cannabis-apotheke/weil-am-rhein"
+      },
+      {
+        "name": "ReinBlüte",
+        "href": "https://weed.de/apotheke/reinbluete"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Weil am Rhein",
+            "item": "https://weed.de/cannabis-apotheke/weil-am-rhein"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "ReinBlüte",
+            "item": "https://weed.de/apotheke/reinbluete"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "ReinBlüte",
+        "url": "https://weed.de/apotheke/reinbluete",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Hauptstraße 302",
+          "addressLocality": "Weil am Rhein",
+          "postalCode": "79576",
+          "addressRegion": "Baden-Württemberg",
+          "addressCountry": "DE"
+        },
+        "telephone": "0762173060",
+        "email": "info@reinbluete.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/weil-am-rhein",
+      "text": "Cannabis Apotheken in Weil am Rhein",
+      "title": "Alle Apotheken in Weil am Rhein"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/florians-vital-apotheke",
+        "text": "Florians Vital Apotheke",
+        "title": "Florians Vital Apotheke in Esslingen am Neckar"
+      },
+      {
+        "href": "/apotheke/central-apotheke",
+        "text": "Cannabis-Champion",
+        "title": "Cannabis-Champion in Waiblingen"
+      },
+      {
+        "href": "/apotheke/karlchengras",
+        "text": "Karlchengras (Karl-Apotheke)",
+        "title": "Karlchengras (Karl-Apotheke) in Karlsruhe"
+      },
+      {
+        "href": "/apotheke/idris-apotheke-oder-3leafs",
+        "text": "Idris Apotheke | 3Leafs",
+        "title": "Idris Apotheke | 3Leafs in Weinheim"
+      },
+      {
+        "href": "/apotheke/schwarzwald-vital-apotheke",
+        "text": "Schwarzwald Vital Apotheke",
+        "title": "Schwarzwald Vital Apotheke in Gaggenau"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

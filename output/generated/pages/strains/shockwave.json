@@ -1,0 +1,223 @@
+{
+  "strain": {
+    "slug": "shockwave",
+    "name": "ShockWave",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": null,
+      "max": null
+    },
+    "effects": [
+      "Creative",
+      "Relaxed",
+      "Energetic",
+      "Anxiety-reducing",
+      "Mood-lifting",
+      "Pain-relief"
+    ],
+    "tastes": [
+      "Floral",
+      "Earthy",
+      "Sweet",
+      "Berry",
+      "Fruity",
+      "Skunk",
+      "Blueberry"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Linalool",
+      "Beta-Caryophyllene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 649,
+      "max": 864,
+      "formatted": {
+        "min": "6,49 €",
+        "max": "8,64 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "remexian-271-swv",
+      "name": "Remexian 27/1 SWV",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 29,
+      "priceMin": 649,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "orange-panties",
+      "name": "Orange Panties",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "frosted-gelato",
+      "name": "Frosted Gelato",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "purple-ice-water",
+      "name": "Purple Ice Water",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "tigerz-eye",
+      "name": "Tigerz Eye",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "hawaiian-rain-x-permanent-marker",
+      "name": "Hawaiian Rain X Permanent Marker",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "ShockWave (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "ShockWave: Creative, Relaxed, Energetic. 1 Produkte verfügbar. ab 6,49 €.",
+      "canonical": "https://weed.de/strain/shockwave",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "ShockWave (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "ShockWave: Creative, Relaxed, Energetic. 1 Produkte verfügbar. ab 6,49 €.",
+        "url": "https://weed.de/strain/shockwave",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "ShockWave",
+        "href": "https://weed.de/strain/shockwave"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "ShockWave",
+            "item": "https://weed.de/strain/shockwave"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "ShockWave Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/remexian-271-swv",
+            "name": "Remexian 27/1 SWV"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/remexian-271-swv",
+        "text": "Remexian 27/1 SWV",
+        "title": "Remexian 27/1 SWV von Remexian Pharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/orange-panties",
+        "text": "Orange Panties",
+        "title": "Orange Panties - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/frosted-gelato",
+        "text": "Frosted Gelato",
+        "title": "Frosted Gelato - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/purple-ice-water",
+        "text": "Purple Ice Water",
+        "title": "Purple Ice Water - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/tigerz-eye",
+        "text": "Tigerz Eye",
+        "title": "Tigerz Eye - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/hawaiian-rain-x-permanent-marker",
+        "text": "Hawaiian Rain X Permanent Marker",
+        "title": "Hawaiian Rain X Permanent Marker - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      },
+      {
+        "href": "/terpene/beta-caryophyllene",
+        "text": "Beta-Caryophyllene",
+        "title": "Beta-Caryophyllene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

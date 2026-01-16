@@ -1,0 +1,222 @@
+{
+  "product": {
+    "slug": "luana-231-donny-b",
+    "name": "Luana 23/1 Donny B",
+    "type": "flower",
+    "genetics": "indica",
+    "thcPercent": 25,
+    "cbdPercent": 1,
+    "priceMin": 449,
+    "priceMax": 655,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": "https://weed.de/products/luana-231-donny-b-i9fgfe.png"
+  },
+  "brand": {
+    "slug": "cannamedical",
+    "name": "Cannamedical",
+    "productCount": 238
+  },
+  "strain": {
+    "slug": "bunatic",
+    "name": "Bunatic",
+    "geneticType": "indica",
+    "effects": [
+      "Euphoric",
+      "Sleepy"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Euphoric",
+      "Sleepy"
+    ],
+    "tastes": [
+      "Diesel",
+      "Earthy"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "aurora-thc-25-cannabis-extract",
+      "name": "Aurora THC 25 Cannabis Extract",
+      "brandName": "Cansativa",
+      "thcPercent": 2.5,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "luana-21-donny-b",
+      "name": "Luana 20/1 Donny B",
+      "brandName": "Cannamedical",
+      "thcPercent": 20,
+      "priceMin": 399,
+      "inStock": true
+    },
+    {
+      "slug": "luana-251-donny-b",
+      "name": "Luana 25/1 Donny B",
+      "brandName": "Cannamedical",
+      "thcPercent": 25,
+      "priceMin": 440,
+      "inStock": true
+    },
+    {
+      "slug": "adven-cannabisextrakt-thc-20",
+      "name": "Adven Cannabisextrakt THC 20",
+      "brandName": "Adven",
+      "thcPercent": 2,
+      "priceMin": 476,
+      "inStock": true
+    },
+    {
+      "slug": "adven-cannabisextrakt-thc-10-cbd-10",
+      "name": "Adven Cannabisextrakt THC 10 CBD 10",
+      "brandName": "Adven",
+      "thcPercent": 10,
+      "priceMin": 560,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-1",
+      "name": "Demecan Typ 1",
+      "brandName": "Demecan",
+      "thcPercent": 21,
+      "priceMin": 694,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Luana 23/1 Donny B - Cannamedical | ab 4,49 €",
+      "description": "Luana 23/1 Donny B von Cannamedical. THC: 25%, CBD: 1%. Sorte: Bunatic. Preis ab 4,49 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/luana-231-donny-b",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Luana 23/1 Donny B - Cannamedical | ab 4,49 €",
+        "description": "Luana 23/1 Donny B von Cannamedical. THC: 25%, CBD: 1%. Sorte: Bunatic. Preis ab 4,49 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/luana-231-donny-b",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/luana-231-donny-b-i9fgfe.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Cannamedical",
+        "href": "https://weed.de/brand/cannamedical"
+      },
+      {
+        "name": "Luana 23/1 Donny B",
+        "href": "https://weed.de/product/luana-231-donny-b"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Luana 23/1 Donny B",
+            "item": "https://weed.de/product/luana-231-donny-b"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Luana 23/1 Donny B",
+        "brand": {
+          "@type": "Brand",
+          "name": "Cannamedical"
+        },
+        "description": "THC: 25%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/bunatic",
+      "text": "Bunatic",
+      "title": "Bunatic Sorte"
+    },
+    "brand": {
+      "href": "/brand/cannamedical",
+      "text": "Cannamedical",
+      "title": "Alle Cannamedical Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/aurora-thc-25-cannabis-extract",
+        "text": "Aurora THC 25 Cannabis Extract",
+        "title": "Alternative: Aurora THC 25 Cannabis Extract"
+      },
+      {
+        "href": "/product/luana-21-donny-b",
+        "text": "Luana 20/1 Donny B",
+        "title": "Alternative: Luana 20/1 Donny B"
+      },
+      {
+        "href": "/product/luana-251-donny-b",
+        "text": "Luana 25/1 Donny B",
+        "title": "Alternative: Luana 25/1 Donny B"
+      },
+      {
+        "href": "/product/adven-cannabisextrakt-thc-20",
+        "text": "Adven Cannabisextrakt THC 20",
+        "title": "Alternative: Adven Cannabisextrakt THC 20"
+      },
+      {
+        "href": "/product/adven-cannabisextrakt-thc-10-cbd-10",
+        "text": "Adven Cannabisextrakt THC 10 CBD 10",
+        "title": "Alternative: Adven Cannabisextrakt THC 10 CBD 10"
+      },
+      {
+        "href": "/product/demecan-typ-1",
+        "text": "Demecan Typ 1",
+        "title": "Alternative: Demecan Typ 1"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

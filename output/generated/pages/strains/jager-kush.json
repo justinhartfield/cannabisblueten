@@ -1,0 +1,222 @@
+{
+  "strain": {
+    "slug": "jager-kush",
+    "name": "Jager Kush",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Euphoric",
+      "Happy",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Herbal",
+      "Earthy",
+      "Sweet"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Caryophyllene",
+      "Ocimene",
+      "Limonene"
+    ],
+    "description": "Jager Kush, ist ein mysteriöser Hybridstrain mit vermuteter Abstammung aus LA Confidential und Blue Dream, der sich durch ein einzigartiges Aroma nach süßer Lakritze, eine ausgewogene Wirkung und robuste Pflanzenmerkmale auszeichnet. Manche Phänotypen und Berichte deuten darauf hin, dass auch Hindu Kush oder Purple Hindu Kush in bestimmten Linien enthalten sind – möglicherweise als Rückkreuzung oder alternative Selektion. Der Strain hat sich insbesondere im nordwestlichen Teil der USA einen Namen gemacht und wird für seine angenehme Körperwirkung, stimmungsaufhellenden Eigenschaften und sein auffälliges Terpenprofil geschätzt.\n",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 329,
+      "max": 598,
+      "formatted": {
+        "min": "3,29 €",
+        "max": "5,98 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "czechout-181-jku",
+      "name": "CzechOut 18/1 JKU",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 18,
+      "priceMin": 329,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "og-deluxe",
+      "name": "OG Deluxe",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "crescendo",
+      "name": "Crescendo",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "auto-cherry-pie",
+      "name": "Auto Cherry Pie",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "tiger-cake",
+      "name": "Tiger Cake",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "candy-fumez",
+      "name": "Candy Fumez",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Jager Kush (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Jager Kush: Euphoric, Happy, Relaxed. 1 Produkte verfügbar. ab 3,29 €.",
+      "canonical": "https://weed.de/strain/jager-kush",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Jager Kush (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Jager Kush: Euphoric, Happy, Relaxed. 1 Produkte verfügbar. ab 3,29 €.",
+        "url": "https://weed.de/strain/jager-kush",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Jager Kush",
+        "href": "https://weed.de/strain/jager-kush"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Jager Kush",
+            "item": "https://weed.de/strain/jager-kush"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Jager Kush Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/czechout-181-jku",
+            "name": "CzechOut 18/1 JKU"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/czechout-181-jku",
+        "text": "CzechOut 18/1 JKU",
+        "title": "CzechOut 18/1 JKU von Remexian Pharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/og-deluxe",
+        "text": "OG Deluxe",
+        "title": "OG Deluxe - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/crescendo",
+        "text": "Crescendo",
+        "title": "Crescendo - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/auto-cherry-pie",
+        "text": "Auto Cherry Pie",
+        "title": "Auto Cherry Pie - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/tiger-cake",
+        "text": "Tiger Cake",
+        "title": "Tiger Cake - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/candy-fumez",
+        "text": "Candy Fumez",
+        "title": "Candy Fumez - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/ocimene",
+        "text": "Ocimene",
+        "title": "Ocimene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

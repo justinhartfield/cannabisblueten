@@ -1,0 +1,237 @@
+{
+  "strain": {
+    "slug": "garlic-budder",
+    "name": "Garlic Budder",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Focused",
+      "Uplifted",
+      "Happy",
+      "Dry Mouth",
+      "Dizzy"
+    ],
+    "tastes": [
+      "Butter",
+      "Nutty",
+      "Blue Cheese"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Linalool",
+      "Limonene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 365,
+      "max": 550,
+      "formatted": {
+        "min": "3,65 €",
+        "max": "5,50 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "madrecan-241-gb9",
+      "name": "madrecan 24/1 GB9",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 23,
+      "priceMin": 449,
+      "inStock": true
+    },
+    {
+      "slug": "madrecan-211-gb9-garlic-budder",
+      "name": "madrecan 21/1 GB9 Garlic Budder",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 21,
+      "priceMin": 365,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "fire-og",
+      "name": "Fire OG",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "atomic-apple",
+      "name": "Atomic Apple",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "cold-creek-kush",
+      "name": "Cold Creek Kush",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "jet-fuel-gelato",
+      "name": "Jet Fuel Gelato",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "garlic-sherbert",
+      "name": "Garlic Sherbert",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Garlic Budder (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Garlic Budder: Focused, Uplifted, Happy. 2 Produkte verfügbar. ab 3,65 €.",
+      "canonical": "https://weed.de/strain/garlic-budder",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Garlic Budder (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Garlic Budder: Focused, Uplifted, Happy. 2 Produkte verfügbar. ab 3,65 €.",
+        "url": "https://weed.de/strain/garlic-budder",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Garlic Budder",
+        "href": "https://weed.de/strain/garlic-budder"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Garlic Budder",
+            "item": "https://weed.de/strain/garlic-budder"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Garlic Budder Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/madrecan-241-gb9",
+            "name": "madrecan 24/1 GB9"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/madrecan-211-gb9-garlic-budder",
+            "name": "madrecan 21/1 GB9 Garlic Budder"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/madrecan-241-gb9",
+        "text": "madrecan 24/1 GB9",
+        "title": "madrecan 24/1 GB9 von Remexian Pharma"
+      },
+      {
+        "href": "/product/madrecan-211-gb9-garlic-budder",
+        "text": "madrecan 21/1 GB9 Garlic Budder",
+        "title": "madrecan 21/1 GB9 Garlic Budder von Remexian Pharma"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/fire-og",
+        "text": "Fire OG",
+        "title": "Fire OG - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/atomic-apple",
+        "text": "Atomic Apple",
+        "title": "Atomic Apple - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/cold-creek-kush",
+        "text": "Cold Creek Kush",
+        "title": "Cold Creek Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/jet-fuel-gelato",
+        "text": "Jet Fuel Gelato",
+        "title": "Jet Fuel Gelato - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/garlic-sherbert",
+        "text": "Garlic Sherbert",
+        "title": "Garlic Sherbert - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/linalool",
+        "text": "Linalool",
+        "title": "Linalool Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

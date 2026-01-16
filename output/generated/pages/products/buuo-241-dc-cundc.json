@@ -1,0 +1,230 @@
+{
+  "product": {
+    "slug": "buuo-241-dc-cundc",
+    "name": "Buuo 24/1 DC C&C",
+    "type": "flower",
+    "genetics": "hybrid",
+    "thcPercent": 24,
+    "cbdPercent": 1,
+    "priceMin": 499,
+    "priceMax": 499,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": "https://weed.de/products/buuo-241-dc-cundc-9aj4ie.png"
+  },
+  "brand": {
+    "slug": "wmg-pharma",
+    "name": "WMG Pharma",
+    "productCount": 62
+  },
+  "strain": {
+    "slug": "cookies-and-cream",
+    "name": "Cookies & Cream",
+    "geneticType": "hybrid",
+    "effects": [
+      "Relaxed",
+      "Euphoric",
+      "Happy",
+      "Giggly",
+      "Creative"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Limonene",
+      "Myrcene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Relaxed",
+      "Euphoric",
+      "Happy",
+      "Giggly",
+      "Creative"
+    ],
+    "tastes": [
+      "Vanilla",
+      "Sweet",
+      "Woody",
+      "Nutty"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Limonene",
+      "Myrcene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "tilray-thc-25-spotlight-porto-purps",
+      "name": "Tilray THC 25 Spotlight Porto Purps",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": 349,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc5cbd2",
+      "name": "Tilray Cannabisextrakt THC5:CBD20",
+      "brandName": "Tilray",
+      "thcPercent": 5,
+      "priceMin": 350,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc1cbd1",
+      "name": "Tilray Cannabisextrakt THC10:CBD10",
+      "brandName": "Tilray",
+      "thcPercent": 10,
+      "priceMin": 400,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-2",
+      "name": "Demecan Typ 2",
+      "brandName": "Demecan",
+      "thcPercent": 16,
+      "priceMin": 533,
+      "inStock": true
+    },
+    {
+      "slug": "khiron-191-gelato",
+      "name": "Khiron 19/1 Gelato",
+      "brandName": "Khiron",
+      "thcPercent": 17.6,
+      "priceMin": 638,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc25",
+      "name": "Tilray Cannabisextrakt THC25",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": 895,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Buuo 24/1 DC C&C - WMG Pharma | ab 4,99 €",
+      "description": "Buuo 24/1 DC C&C von WMG Pharma. THC: 24%, CBD: 1%. Sorte: Cookies & Cream. Preis ab 4,99 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/buuo-241-dc-cundc",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Buuo 24/1 DC C&C - WMG Pharma | ab 4,99 €",
+        "description": "Buuo 24/1 DC C&C von WMG Pharma. THC: 24%, CBD: 1%. Sorte: Cookies & Cream. Preis ab 4,99 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/buuo-241-dc-cundc",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/buuo-241-dc-cundc-9aj4ie.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "WMG Pharma",
+        "href": "https://weed.de/brand/wmg-pharma"
+      },
+      {
+        "name": "Buuo 24/1 DC C&C",
+        "href": "https://weed.de/product/buuo-241-dc-cundc"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Buuo 24/1 DC C&C",
+            "item": "https://weed.de/product/buuo-241-dc-cundc"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Buuo 24/1 DC C&C",
+        "brand": {
+          "@type": "Brand",
+          "name": "WMG Pharma"
+        },
+        "description": "THC: 24%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/cookies-and-cream",
+      "text": "Cookies & Cream",
+      "title": "Cookies & Cream Sorte"
+    },
+    "brand": {
+      "href": "/brand/wmg-pharma",
+      "text": "WMG Pharma",
+      "title": "Alle WMG Pharma Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/tilray-thc-25-spotlight-porto-purps",
+        "text": "Tilray THC 25 Spotlight Porto Purps",
+        "title": "Alternative: Tilray THC 25 Spotlight Porto Purps"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc5cbd2",
+        "text": "Tilray Cannabisextrakt THC5:CBD20",
+        "title": "Alternative: Tilray Cannabisextrakt THC5:CBD20"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc1cbd1",
+        "text": "Tilray Cannabisextrakt THC10:CBD10",
+        "title": "Alternative: Tilray Cannabisextrakt THC10:CBD10"
+      },
+      {
+        "href": "/product/demecan-typ-2",
+        "text": "Demecan Typ 2",
+        "title": "Alternative: Demecan Typ 2"
+      },
+      {
+        "href": "/product/khiron-191-gelato",
+        "text": "Khiron 19/1 Gelato",
+        "title": "Alternative: Khiron 19/1 Gelato"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc25",
+        "text": "Tilray Cannabisextrakt THC25",
+        "title": "Alternative: Tilray Cannabisextrakt THC25"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

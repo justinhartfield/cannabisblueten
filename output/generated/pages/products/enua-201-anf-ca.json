@@ -1,0 +1,239 @@
+{
+  "product": {
+    "slug": "enua-201-anf-ca",
+    "name": "enua 20/1 ANF CA",
+    "type": "flower",
+    "genetics": "hybrid_sativa",
+    "thcPercent": 20,
+    "cbdPercent": 1,
+    "priceMin": 660,
+    "priceMax": 660,
+    "inStock": false,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "enua",
+    "name": "enua",
+    "productCount": 123
+  },
+  "strain": {
+    "slug": "animal-face",
+    "name": "Animal Face",
+    "geneticType": "hybrid",
+    "effects": [
+      "Focused",
+      "Euphoric",
+      "Relaxed",
+      "Uplifted",
+      "Anxiety-reducing",
+      "Pain-relief",
+      "Stress-relief",
+      "Mood-lifting"
+    ],
+    "terpenes": [
+      "D-Limonene",
+      "Beta-Myrcene",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Focused",
+      "Euphoric",
+      "Relaxed",
+      "Uplifted",
+      "Anxiety-reducing",
+      "Pain-relief",
+      "Stress-relief",
+      "Mood-lifting"
+    ],
+    "tastes": [
+      "Mint",
+      "Pine",
+      "Vanilla",
+      "Cookies",
+      "Citrus",
+      "Earthy",
+      "Sweet",
+      "Diesel"
+    ],
+    "terpenes": [
+      "D-Limonene",
+      "Beta-Myrcene",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "amp-classic-251",
+      "name": "AMP Classic 25/1",
+      "brandName": "AMP",
+      "thcPercent": 25,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "remexian-211-isl",
+      "name": "Remexian 21/1 ISL",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 20,
+      "priceMin": 535,
+      "inStock": true
+    },
+    {
+      "slug": "weeco-231",
+      "name": "Weeco 23/1",
+      "brandName": "Weeco",
+      "thcPercent": 23,
+      "priceMin": 599,
+      "inStock": true
+    },
+    {
+      "slug": "aurora-221-dhz-ca",
+      "name": "Aurora 22/1 DHZ-CA",
+      "brandName": "Aurora",
+      "thcPercent": 19.8,
+      "priceMin": 640,
+      "inStock": true
+    },
+    {
+      "slug": "420-evolution-271-ca-str",
+      "name": "420 Evolution 27/1 CA STR",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 27,
+      "priceMin": 645,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-221-florestura",
+      "name": "DEMECAN Florestura 22:01",
+      "brandName": "Deutsche Medizinalcannabis",
+      "thcPercent": 22,
+      "priceMin": 679,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "enua 20/1 ANF CA | ab 6,60 €",
+      "description": "enua 20/1 ANF CA von enua. THC: 20%, CBD: 1%. Sorte: Animal Face. Preis ab 6,60 €. Preise vergleichen.",
+      "canonical": "https://weed.de/product/enua-201-anf-ca",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "enua 20/1 ANF CA | ab 6,60 €",
+        "description": "enua 20/1 ANF CA von enua. THC: 20%, CBD: 1%. Sorte: Animal Face. Preis ab 6,60 €. Preise vergleichen.",
+        "url": "https://weed.de/product/enua-201-anf-ca",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "enua",
+        "href": "https://weed.de/brand/enua"
+      },
+      {
+        "name": "enua 20/1 ANF CA",
+        "href": "https://weed.de/product/enua-201-anf-ca"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "enua 20/1 ANF CA",
+            "item": "https://weed.de/product/enua-201-anf-ca"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "enua 20/1 ANF CA",
+        "brand": {
+          "@type": "Brand",
+          "name": "enua"
+        },
+        "description": "THC: 20%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/animal-face",
+      "text": "Animal Face",
+      "title": "Animal Face Sorte"
+    },
+    "brand": {
+      "href": "/brand/enua",
+      "text": "enua",
+      "title": "Alle enua Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/amp-classic-251",
+        "text": "AMP Classic 25/1",
+        "title": "Alternative: AMP Classic 25/1"
+      },
+      {
+        "href": "/product/remexian-211-isl",
+        "text": "Remexian 21/1 ISL",
+        "title": "Alternative: Remexian 21/1 ISL"
+      },
+      {
+        "href": "/product/weeco-231",
+        "text": "Weeco 23/1",
+        "title": "Alternative: Weeco 23/1"
+      },
+      {
+        "href": "/product/aurora-221-dhz-ca",
+        "text": "Aurora 22/1 DHZ-CA",
+        "title": "Alternative: Aurora 22/1 DHZ-CA"
+      },
+      {
+        "href": "/product/420-evolution-271-ca-str",
+        "text": "420 Evolution 27/1 CA STR",
+        "title": "Alternative: 420 Evolution 27/1 CA STR"
+      },
+      {
+        "href": "/product/demecan-221-florestura",
+        "text": "DEMECAN Florestura 22:01",
+        "title": "Alternative: DEMECAN Florestura 22:01"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has price data"
+  }
+}

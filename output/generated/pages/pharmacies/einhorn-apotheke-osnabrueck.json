@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "einhorn-apotheke-osnabrueck",
+    "name": "Einhorn-Apotheke am Heger Tor Osnabrück",
+    "street": "Lotter Straße 5",
+    "zip": "49078",
+    "cityName": "Osnabrück",
+    "state": "Niedersachsen",
+    "lat": 52.275461,
+    "lng": 8.037575799999999,
+    "hasDelivery": false,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://www.einhorn-apotheke-os.de/medizinisches-cannabis-in-osnabrueck-einhorn-apotheke/",
+    "phone": "05414097400",
+    "email": "info@osnacan.de",
+    "productCount": 16,
+    "rating": 5,
+    "ratingCount": 1,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/682227d89e769e560dfb44c8-b2h6i6.jpg"
+  },
+  "city": {
+    "slug": "osnabrueck",
+    "name": "Osnabrück",
+    "pharmacyCount": 1
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "alle-farben-apotheke",
+      "name": "Alle Farben Apotheke",
+      "cityName": "Melle",
+      "productCount": 132,
+      "hasDelivery": true
+    },
+    {
+      "slug": "happy-cannamed",
+      "name": "Marien Apotheke",
+      "cityName": "Cloppenburg",
+      "productCount": 61,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannanord",
+      "name": "CannaNord",
+      "cityName": "Oldenburg",
+      "productCount": 55,
+      "hasDelivery": true
+    },
+    {
+      "slug": "easycannabis-easyapotheke-citylebenstedt",
+      "name": "EasyCannabis easyApotheke CityLebenstedt",
+      "cityName": "Salzgitter",
+      "productCount": 40,
+      "hasDelivery": true
+    },
+    {
+      "slug": "sophie-green",
+      "name": "Sophie Green",
+      "cityName": "Meppen",
+      "productCount": 31,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Einhorn-Apotheke am Heger Tor Osnabrück - Cannabis Apotheke in Osnabrück",
+      "description": "Einhorn-Apotheke am Heger Tor Osnabrück in Osnabrück. 16 Cannabis Produkte. Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/einhorn-apotheke-osnabrueck",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Einhorn-Apotheke am Heger Tor Osnabrück - Cannabis Apotheke in Osnabrück",
+        "description": "Einhorn-Apotheke am Heger Tor Osnabrück in Osnabrück. 16 Cannabis Produkte. Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/einhorn-apotheke-osnabrueck",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/682227d89e769e560dfb44c8-b2h6i6.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Osnabrück",
+        "href": "https://weed.de/cannabis-apotheke/osnabrueck"
+      },
+      {
+        "name": "Einhorn-Apotheke am Heger Tor Osnabrück",
+        "href": "https://weed.de/apotheke/einhorn-apotheke-osnabrueck"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Osnabrück",
+            "item": "https://weed.de/cannabis-apotheke/osnabrueck"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Einhorn-Apotheke am Heger Tor Osnabrück",
+            "item": "https://weed.de/apotheke/einhorn-apotheke-osnabrueck"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Einhorn-Apotheke am Heger Tor Osnabrück",
+        "url": "https://weed.de/apotheke/einhorn-apotheke-osnabrueck",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Lotter Straße 5",
+          "addressLocality": "Osnabrück",
+          "postalCode": "49078",
+          "addressRegion": "Niedersachsen",
+          "addressCountry": "DE"
+        },
+        "telephone": "05414097400",
+        "email": "info@osnacan.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/osnabrueck",
+      "text": "Cannabis Apotheken in Osnabrück",
+      "title": "Alle Apotheken in Osnabrück"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/alle-farben-apotheke",
+        "text": "Alle Farben Apotheke",
+        "title": "Alle Farben Apotheke in Melle"
+      },
+      {
+        "href": "/apotheke/happy-cannamed",
+        "text": "Marien Apotheke",
+        "title": "Marien Apotheke in Cloppenburg"
+      },
+      {
+        "href": "/apotheke/cannanord",
+        "text": "CannaNord",
+        "title": "CannaNord in Oldenburg"
+      },
+      {
+        "href": "/apotheke/easycannabis-easyapotheke-citylebenstedt",
+        "text": "EasyCannabis easyApotheke CityLebenstedt",
+        "title": "EasyCannabis easyApotheke CityLebenstedt in Salzgitter"
+      },
+      {
+        "href": "/apotheke/sophie-green",
+        "text": "Sophie Green",
+        "title": "Sophie Green in Meppen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

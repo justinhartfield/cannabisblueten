@@ -1,0 +1,221 @@
+{
+  "product": {
+    "slug": "cannamedical-sativa-classic-si",
+    "name": "Cannamedical Sativa classic SI",
+    "type": "flower",
+    "genetics": "sativa",
+    "thcPercent": 20,
+    "cbdPercent": 1,
+    "priceMin": 915,
+    "priceMax": 1677,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": "https://weed.de/products/cannamedical-sativa-classic-si-ci3i2h.png"
+  },
+  "brand": {
+    "slug": "cannamedical",
+    "name": "Cannamedical",
+    "productCount": 238
+  },
+  "strain": {
+    "slug": "strawberry-ice",
+    "name": "Strawberry Ice",
+    "geneticType": "hybrid",
+    "effects": [
+      "Activating",
+      "Euphoric"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Linalool"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Activating",
+      "Euphoric"
+    ],
+    "tastes": [
+      "Sweet",
+      "Fruity",
+      "Berry"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Linalool"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "aurora-typ-1",
+      "name": "Aurora Typ 1",
+      "brandName": "Aurora",
+      "thcPercent": 19,
+      "priceMin": 479,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-cannabisextrakt-thc125cbd125",
+      "name": "Cannamedical Cannabisextrakt THC12.5:CBD12.5",
+      "brandName": "Cannamedical",
+      "thcPercent": 12.5,
+      "priceMin": 597,
+      "inStock": true
+    },
+    {
+      "slug": "pedanios-22-1",
+      "name": "Pedanios 22/1",
+      "brandName": "Aurora",
+      "thcPercent": 22,
+      "priceMin": 629,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-sativa-forte-tc",
+      "name": "Cannamedical Sativa forte TC",
+      "brandName": "Cannamedical",
+      "thcPercent": 24,
+      "priceMin": 683,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-sativa-classic-tc",
+      "name": "Cannamedical Sativa classic TC",
+      "brandName": "Cannamedical",
+      "thcPercent": 20,
+      "priceMin": 755,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-sativa-light",
+      "name": "Cannamedical Sativa Light SI",
+      "brandName": "Cannamedical",
+      "thcPercent": 18,
+      "priceMin": 845,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannamedical Sativa classic SI | ab 9,15 €",
+      "description": "Cannamedical Sativa classic SI von Cannamedical. THC: 20%, CBD: 1%. Sorte: Strawberry Ice. Preis ab 9,15 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/cannamedical-sativa-classic-si",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannamedical Sativa classic SI | ab 9,15 €",
+        "description": "Cannamedical Sativa classic SI von Cannamedical. THC: 20%, CBD: 1%. Sorte: Strawberry Ice. Preis ab 9,15 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/cannamedical-sativa-classic-si",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/cannamedical-sativa-classic-si-ci3i2h.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Cannamedical",
+        "href": "https://weed.de/brand/cannamedical"
+      },
+      {
+        "name": "Cannamedical Sativa classic SI",
+        "href": "https://weed.de/product/cannamedical-sativa-classic-si"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Cannamedical Sativa classic SI",
+            "item": "https://weed.de/product/cannamedical-sativa-classic-si"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Cannamedical Sativa classic SI",
+        "brand": {
+          "@type": "Brand",
+          "name": "Cannamedical"
+        },
+        "description": "THC: 20%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/strawberry-ice",
+      "text": "Strawberry Ice",
+      "title": "Strawberry Ice Sorte"
+    },
+    "brand": {
+      "href": "/brand/cannamedical",
+      "text": "Cannamedical",
+      "title": "Alle Cannamedical Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/aurora-typ-1",
+        "text": "Aurora Typ 1",
+        "title": "Alternative: Aurora Typ 1"
+      },
+      {
+        "href": "/product/cannamedical-cannabisextrakt-thc125cbd125",
+        "text": "Cannamedical Cannabisextrakt THC12.5:CBD12.5",
+        "title": "Alternative: Cannamedical Cannabisextrakt THC12.5:CBD12.5"
+      },
+      {
+        "href": "/product/pedanios-22-1",
+        "text": "Pedanios 22/1",
+        "title": "Alternative: Pedanios 22/1"
+      },
+      {
+        "href": "/product/cannamedical-sativa-forte-tc",
+        "text": "Cannamedical Sativa forte TC",
+        "title": "Alternative: Cannamedical Sativa forte TC"
+      },
+      {
+        "href": "/product/cannamedical-sativa-classic-tc",
+        "text": "Cannamedical Sativa classic TC",
+        "title": "Alternative: Cannamedical Sativa classic TC"
+      },
+      {
+        "href": "/product/cannamedical-sativa-light",
+        "text": "Cannamedical Sativa Light SI",
+        "title": "Alternative: Cannamedical Sativa Light SI"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

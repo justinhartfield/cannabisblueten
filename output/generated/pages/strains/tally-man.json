@@ -1,0 +1,222 @@
+{
+  "strain": {
+    "slug": "tally-man",
+    "name": "Tally Man",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Aroused",
+      "Tingly",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Ammonia",
+      "Plum",
+      "Tropical"
+    ],
+    "terpenes": [
+      "Trans-Caryophyllene",
+      "Limonene"
+    ],
+    "description": "Tally Man ist ein ausgewogener Indica/Sativa-Hybrid mit einem beachtlichen THC-Gehalt (27 %). Diese Strain ist aus der Kombination von \"Banana Do-Si-Dos\" und \"Papaya\" entstanden. Sie zeichnet sich durch einen hohen Gehalt von Trans-Caryophyllene und Limonene aus. Diese ausgewogene Sorte eignet sich sowohl für den Tag als auch für den Abend.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": null
+  },
+  "products": [
+    {
+      "slug": "demecan-271-petaluma",
+      "name": "Demecan 27/1 Petaluma",
+      "brandName": "Demecan",
+      "thcPercent": 27,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "demecan-241-petaluma",
+      "name": "DEMECAN 24/1 Petaluma",
+      "brandName": "Deutsche Medizinalcannabis",
+      "thcPercent": 24,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "gushers",
+      "name": "Gushers",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "sourdough",
+      "name": "Sourdough",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "crescendo-cookies",
+      "name": "Crescendo Cookies",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "guava-barz",
+      "name": "Guava Barz",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "flawless-victory",
+      "name": "Flawless Victory",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Tally Man (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Tally Man: Aroused, Tingly, Relaxed. 2 Produkte verfügbar.",
+      "canonical": "https://weed.de/strain/tally-man",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Tally Man (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Tally Man: Aroused, Tingly, Relaxed. 2 Produkte verfügbar.",
+        "url": "https://weed.de/strain/tally-man",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Tally Man",
+        "href": "https://weed.de/strain/tally-man"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Tally Man",
+            "item": "https://weed.de/strain/tally-man"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Tally Man Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/demecan-271-petaluma",
+            "name": "Demecan 27/1 Petaluma"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/demecan-241-petaluma",
+            "name": "DEMECAN 24/1 Petaluma"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/demecan-271-petaluma",
+        "text": "Demecan 27/1 Petaluma",
+        "title": "Demecan 27/1 Petaluma von Demecan"
+      },
+      {
+        "href": "/product/demecan-241-petaluma",
+        "text": "DEMECAN 24/1 Petaluma",
+        "title": "DEMECAN 24/1 Petaluma von Deutsche Medizinalcannabis"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/gushers",
+        "text": "Gushers",
+        "title": "Gushers - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/sourdough",
+        "text": "Sourdough",
+        "title": "Sourdough - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/crescendo-cookies",
+        "text": "Crescendo Cookies",
+        "title": "Crescendo Cookies - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/guava-barz",
+        "text": "Guava Barz",
+        "title": "Guava Barz - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/flawless-victory",
+        "text": "Flawless Victory",
+        "title": "Flawless Victory - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/trans-caryophyllene",
+        "text": "Trans-Caryophyllene",
+        "title": "Trans-Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

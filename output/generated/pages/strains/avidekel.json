@@ -1,0 +1,222 @@
+{
+  "strain": {
+    "slug": "avidekel",
+    "name": "Avidekel",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 14,
+      "max": 16
+    },
+    "effects": [
+      "Uplifted",
+      "Focused",
+      "Stimulating"
+    ],
+    "tastes": [
+      "Nutty",
+      "Woody",
+      "Chestnut"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Pinene"
+    ],
+    "description": "Avidekel ist eine ausgeglichene Hybrid-Sorte, deren genetische Abstammung nicht lückenlos geklärt ist. Der Strain zeichnet sich durch einen sehr hohen CBD-Anteil aus, der im Schnitt von 14% bis 16% reicht. Die THC-Werte sind dafür sehr gering und liegen meist zwischen 1% und 2%, was für eine sehr abgemilderte, psychotrope Wirkung sorgt, wenn man Avidekel mit hochprozentigen THC-Sorten vergleicht.  Dennoch berichten Nutzer von einem stimulierenden, aufhellenden Effekt dieser Sorte, deren Geschmack an Kastanie, Holz und Nüsse erinnert. Verantwortlich dafür sind die Terpene Myrcen und Pinen, die dieser Strain ausbildet. Das Aussehen wird durch einen lockeren Wuchs und einem hellen Grün bestimmt. Hinzu kommen braun-orange, eher kurze Härchen und weiße, kristalline Trichome, mit denen die Blüte überzogen ist.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": null
+  },
+  "products": [
+    {
+      "slug": "re-cannis-115",
+      "name": "Re Cannis 1/15",
+      "brandName": "Fette Pharma GmbH",
+      "thcPercent": 1,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "recannis-117-cbd",
+      "name": "RE:CANNIS 1/17 CBD",
+      "brandName": "Fette Pharma GmbH",
+      "thcPercent": 1,
+      "priceMin": null,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "california-orange",
+      "name": "California Orange",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "cannatonic",
+      "name": "Cannatonic",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "jet-fuel-gelato",
+      "name": "Jet Fuel Gelato",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "dark-shadow-haze",
+      "name": "Dark Shadow Haze",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "acdc",
+      "name": "ACDC",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Avidekel (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Avidekel: Uplifted, Focused, Stimulating. 2 Produkte verfügbar.",
+      "canonical": "https://weed.de/strain/avidekel",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Avidekel (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Avidekel: Uplifted, Focused, Stimulating. 2 Produkte verfügbar.",
+        "url": "https://weed.de/strain/avidekel",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Avidekel",
+        "href": "https://weed.de/strain/avidekel"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Avidekel",
+            "item": "https://weed.de/strain/avidekel"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Avidekel Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/re-cannis-115",
+            "name": "Re Cannis 1/15"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/recannis-117-cbd",
+            "name": "RE:CANNIS 1/17 CBD"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/re-cannis-115",
+        "text": "Re Cannis 1/15",
+        "title": "Re Cannis 1/15 von Fette Pharma GmbH"
+      },
+      {
+        "href": "/product/recannis-117-cbd",
+        "text": "RE:CANNIS 1/17 CBD",
+        "title": "RE:CANNIS 1/17 CBD von Fette Pharma GmbH"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/california-orange",
+        "text": "California Orange",
+        "title": "California Orange - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/cannatonic",
+        "text": "Cannatonic",
+        "title": "Cannatonic - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/jet-fuel-gelato",
+        "text": "Jet Fuel Gelato",
+        "title": "Jet Fuel Gelato - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/dark-shadow-haze",
+        "text": "Dark Shadow Haze",
+        "title": "Dark Shadow Haze - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/acdc",
+        "text": "ACDC",
+        "title": "ACDC - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/pinene",
+        "text": "Pinene",
+        "title": "Pinene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

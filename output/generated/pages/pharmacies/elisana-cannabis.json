@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "elisana-cannabis",
+    "name": "Elisana-Cannabis",
+    "street": "Urbanusstraße 7",
+    "zip": "45894",
+    "cityName": "Gelsenkirchen",
+    "state": "Nordrhein-Westfalen",
+    "lat": 51.57697959999999,
+    "lng": 7.0510651,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "elisana-cannabis.de",
+    "phone": "020930330",
+    "email": "buer@elisana.de",
+    "productCount": 42,
+    "rating": 5,
+    "ratingCount": 1,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/688b807150ac87e4054af87a-7hdbf9.jpg"
+  },
+  "city": {
+    "slug": "gelsenkirchen",
+    "name": "Gelsenkirchen",
+    "pharmacyCount": 2
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "apotheke-im-hauptbahnhof",
+      "name": "Apotheke im Hauptbahnhof",
+      "cityName": "Gelsenkirchen",
+      "productCount": 28,
+      "hasDelivery": true
+    },
+    {
+      "slug": "higreen-apotheke",
+      "name": "higreen! Online Marktplatz für Cannabis Apotheken",
+      "cityName": "Krefeld",
+      "productCount": 256,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-zur-alten-post",
+      "name": "Cannacompany (Apotheke zur Alten Post)",
+      "cityName": "Bonn",
+      "productCount": 233,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis-apotheke-essen-glocken-apotheke",
+      "name": "Cannabis Apotheke Essen (Glocken Apotheke)",
+      "cityName": "Essen",
+      "productCount": 174,
+      "hasDelivery": true
+    },
+    {
+      "slug": "grafenberger-apotheke",
+      "name": "GRAFENBERGER APOTHEKE",
+      "cityName": "Düsseldorf",
+      "productCount": 158,
+      "hasDelivery": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Elisana-Cannabis - Cannabis Apotheke in Gelsenkirchen",
+      "description": "Elisana-Cannabis in Gelsenkirchen. 42 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/elisana-cannabis",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Elisana-Cannabis - Cannabis Apotheke in Gelsenkirchen",
+        "description": "Elisana-Cannabis in Gelsenkirchen. 42 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/elisana-cannabis",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/688b807150ac87e4054af87a-7hdbf9.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Gelsenkirchen",
+        "href": "https://weed.de/cannabis-apotheke/gelsenkirchen"
+      },
+      {
+        "name": "Elisana-Cannabis",
+        "href": "https://weed.de/apotheke/elisana-cannabis"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Gelsenkirchen",
+            "item": "https://weed.de/cannabis-apotheke/gelsenkirchen"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Elisana-Cannabis",
+            "item": "https://weed.de/apotheke/elisana-cannabis"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "Elisana-Cannabis",
+        "url": "https://weed.de/apotheke/elisana-cannabis",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Urbanusstraße 7",
+          "addressLocality": "Gelsenkirchen",
+          "postalCode": "45894",
+          "addressRegion": "Nordrhein-Westfalen",
+          "addressCountry": "DE"
+        },
+        "telephone": "020930330",
+        "email": "buer@elisana.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/gelsenkirchen",
+      "text": "Cannabis Apotheken in Gelsenkirchen",
+      "title": "Alle Apotheken in Gelsenkirchen"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/apotheke-im-hauptbahnhof",
+        "text": "Apotheke im Hauptbahnhof",
+        "title": "Apotheke im Hauptbahnhof in Gelsenkirchen"
+      },
+      {
+        "href": "/apotheke/higreen-apotheke",
+        "text": "higreen! Online Marktplatz für Cannabis Apotheken",
+        "title": "higreen! Online Marktplatz für Cannabis Apotheken in Krefeld"
+      },
+      {
+        "href": "/apotheke/apotheke-zur-alten-post",
+        "text": "Cannacompany (Apotheke zur Alten Post)",
+        "title": "Cannacompany (Apotheke zur Alten Post) in Bonn"
+      },
+      {
+        "href": "/apotheke/cannabis-apotheke-essen-glocken-apotheke",
+        "text": "Cannabis Apotheke Essen (Glocken Apotheke)",
+        "title": "Cannabis Apotheke Essen (Glocken Apotheke) in Essen"
+      },
+      {
+        "href": "/apotheke/grafenberger-apotheke",
+        "text": "GRAFENBERGER APOTHEKE",
+        "title": "GRAFENBERGER APOTHEKE in Düsseldorf"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

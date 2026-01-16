@@ -1,0 +1,228 @@
+{
+  "product": {
+    "slug": "grow-mo-27-g-modo",
+    "name": "GROW MO 27 G-Modo",
+    "type": "flower",
+    "genetics": "hybrid",
+    "thcPercent": 27,
+    "cbdPercent": 1,
+    "priceMin": 476,
+    "priceMax": 775,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "grow-group",
+    "name": "Grow group",
+    "productCount": 12
+  },
+  "strain": {
+    "slug": "gmo",
+    "name": "GMO",
+    "geneticType": "indica",
+    "effects": [
+      "Euphoric",
+      "Sleepy",
+      "Uplifted",
+      "Body-High"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Limonene",
+      "Myrcene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Euphoric",
+      "Sleepy",
+      "Uplifted",
+      "Body-High"
+    ],
+    "tastes": [
+      "Diesel",
+      "Citrus",
+      "Pine",
+      "Garlic",
+      "Spicy"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Limonene",
+      "Myrcene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "tilray-thc-25-spotlight-porto-purps",
+      "name": "Tilray THC 25 Spotlight Porto Purps",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": 349,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc5cbd2",
+      "name": "Tilray Cannabisextrakt THC5:CBD20",
+      "brandName": "Tilray",
+      "thcPercent": 5,
+      "priceMin": 350,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc1cbd1",
+      "name": "Tilray Cannabisextrakt THC10:CBD10",
+      "brandName": "Tilray",
+      "thcPercent": 10,
+      "priceMin": 400,
+      "inStock": true
+    },
+    {
+      "slug": "peace-naturals-311-gc",
+      "name": "Peace Naturals 31/1 GC",
+      "brandName": "Peace Naturals",
+      "thcPercent": 31,
+      "priceMin": 463,
+      "inStock": true
+    },
+    {
+      "slug": "420-evolution-301-ca-gmo",
+      "name": "420 EVOLUTION 30/1 CA GMO",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 29.4,
+      "priceMin": 475,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-2",
+      "name": "Demecan Typ 2",
+      "brandName": "Demecan",
+      "thcPercent": 16,
+      "priceMin": 533,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "GROW MO 27 G-Modo - Grow group | ab 4,76 €",
+      "description": "GROW MO 27 G-Modo von Grow group. THC: 27%, CBD: 1%. Sorte: GMO. Preis ab 4,76 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/grow-mo-27-g-modo",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "GROW MO 27 G-Modo - Grow group | ab 4,76 €",
+        "description": "GROW MO 27 G-Modo von Grow group. THC: 27%, CBD: 1%. Sorte: GMO. Preis ab 4,76 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/grow-mo-27-g-modo",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Grow group",
+        "href": "https://weed.de/brand/grow-group"
+      },
+      {
+        "name": "GROW MO 27 G-Modo",
+        "href": "https://weed.de/product/grow-mo-27-g-modo"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "GROW MO 27 G-Modo",
+            "item": "https://weed.de/product/grow-mo-27-g-modo"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "GROW MO 27 G-Modo",
+        "brand": {
+          "@type": "Brand",
+          "name": "Grow group"
+        },
+        "description": "THC: 27%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/gmo",
+      "text": "GMO",
+      "title": "GMO Sorte"
+    },
+    "brand": {
+      "href": "/brand/grow-group",
+      "text": "Grow group",
+      "title": "Alle Grow group Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/tilray-thc-25-spotlight-porto-purps",
+        "text": "Tilray THC 25 Spotlight Porto Purps",
+        "title": "Alternative: Tilray THC 25 Spotlight Porto Purps"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc5cbd2",
+        "text": "Tilray Cannabisextrakt THC5:CBD20",
+        "title": "Alternative: Tilray Cannabisextrakt THC5:CBD20"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc1cbd1",
+        "text": "Tilray Cannabisextrakt THC10:CBD10",
+        "title": "Alternative: Tilray Cannabisextrakt THC10:CBD10"
+      },
+      {
+        "href": "/product/peace-naturals-311-gc",
+        "text": "Peace Naturals 31/1 GC",
+        "title": "Alternative: Peace Naturals 31/1 GC"
+      },
+      {
+        "href": "/product/420-evolution-301-ca-gmo",
+        "text": "420 EVOLUTION 30/1 CA GMO",
+        "title": "Alternative: 420 EVOLUTION 30/1 CA GMO"
+      },
+      {
+        "href": "/product/demecan-typ-2",
+        "text": "Demecan Typ 2",
+        "title": "Alternative: Demecan Typ 2"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

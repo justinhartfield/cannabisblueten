@@ -1,0 +1,213 @@
+{
+  "brand": {
+    "slug": "beacon-medical",
+    "name": "Beacon Medical",
+    "productCount": 6
+  },
+  "products": [
+    {
+      "slug": "northbound-251-gab",
+      "name": "Northbound 25/1 GAB",
+      "type": "flower",
+      "thcPercent": 25,
+      "priceMin": 499,
+      "inStock": true,
+      "strainName": "Garlic Breath"
+    },
+    {
+      "slug": "beacon-indica-thc-18",
+      "name": "Beacon Indica THC 18",
+      "type": "flower",
+      "thcPercent": 18,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Wappa"
+    },
+    {
+      "slug": "beacon-indica-thc-20",
+      "name": "Beacon Indica THC 20",
+      "type": "flower",
+      "thcPercent": 20,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Wappa"
+    },
+    {
+      "slug": "beacon-indica-thc-16",
+      "name": "Beacon Indica THC 16",
+      "type": "flower",
+      "thcPercent": 16,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Wappa"
+    },
+    {
+      "slug": "beacon-hybrid-22",
+      "name": "Beacon Hybrid 22",
+      "type": "flower",
+      "thcPercent": 22.7,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Wappa"
+    },
+    {
+      "slug": "beacon-301-garlic-cookies",
+      "name": "Beacon 30/1 Garlic Cookies",
+      "type": "flower",
+      "thcPercent": 30,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "GMO Cookies"
+    }
+  ],
+  "stats": {
+    "productCount": 6,
+    "inStockCount": 1,
+    "avgThc": 22,
+    "priceRange": {
+      "min": 499,
+      "max": 499,
+      "formatted": {
+        "min": "4,99 €",
+        "max": "4,99 €"
+      }
+    }
+  },
+  "seo": {
+    "meta": {
+      "title": "Beacon Medical Cannabis Produkte - 6 Produkte",
+      "description": "Beacon Medical: 6 Cannabis Produkte. 1 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+      "canonical": "https://weed.de/brand/beacon-medical",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Beacon Medical Cannabis Produkte - 6 Produkte",
+        "description": "Beacon Medical: 6 Cannabis Produkte. 1 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+        "url": "https://weed.de/brand/beacon-medical",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Hersteller",
+        "href": "https://weed.de/brands"
+      },
+      {
+        "name": "Beacon Medical",
+        "href": "https://weed.de/brand/beacon-medical"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Hersteller",
+            "item": "https://weed.de/brands"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Beacon Medical",
+            "item": "https://weed.de/brand/beacon-medical"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Beacon Medical Produkte",
+        "numberOfItems": 6,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/northbound-251-gab",
+            "name": "Northbound 25/1 GAB"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/beacon-indica-thc-18",
+            "name": "Beacon Indica THC 18"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/beacon-indica-thc-20",
+            "name": "Beacon Indica THC 20"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/product/beacon-indica-thc-16",
+            "name": "Beacon Indica THC 16"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "https://weed.de/product/beacon-hybrid-22",
+            "name": "Beacon Hybrid 22"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "url": "https://weed.de/product/beacon-301-garlic-cookies",
+            "name": "Beacon 30/1 Garlic Cookies"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/northbound-251-gab",
+        "text": "Northbound 25/1 GAB",
+        "title": "Northbound 25/1 GAB"
+      },
+      {
+        "href": "/product/beacon-indica-thc-18",
+        "text": "Beacon Indica THC 18",
+        "title": "Beacon Indica THC 18"
+      },
+      {
+        "href": "/product/beacon-indica-thc-20",
+        "text": "Beacon Indica THC 20",
+        "title": "Beacon Indica THC 20"
+      },
+      {
+        "href": "/product/beacon-indica-thc-16",
+        "text": "Beacon Indica THC 16",
+        "title": "Beacon Indica THC 16"
+      },
+      {
+        "href": "/product/beacon-hybrid-22",
+        "text": "Beacon Hybrid 22",
+        "title": "Beacon Hybrid 22"
+      },
+      {
+        "href": "/product/beacon-301-garlic-cookies",
+        "text": "Beacon 30/1 Garlic Cookies",
+        "title": "Beacon 30/1 Garlic Cookies"
+      }
+    ]
+  }
+}

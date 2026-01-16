@@ -1,0 +1,239 @@
+{
+  "strain": {
+    "slug": "talea",
+    "name": "Talea",
+    "geneticType": "indica",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 0.1,
+      "max": 0.1
+    },
+    "effects": [
+      "Relaxed"
+    ],
+    "tastes": [
+      "Earthy",
+      "Tropical",
+      "Spicy"
+    ],
+    "terpenes": [
+      "Ocimene",
+      "Caryophyllene",
+      "Myrcene",
+      "Pinene"
+    ],
+    "description": "Talea ist ein Indica-Strain, dessen Ursprung vermutlich in der Kreuzung der beiden Sorten “Herijuana” und “Afghani” liegt. Talea zeichnet sich besonders durch einen eher niedrigen THC-Wert aus, der im Schnitt zwischen 10% und 14% liegt. Der CBD-Gehalt ist mit um die 0,1% ebenfalls sehr gering. Die vorherrschenden Terpene dieses Strains Ocimen, Caryophyllen, Myrcen und Pinen, die für einen eher zurückhaltenden, aber tropischen und erdig-scharfen Geschmack sorgen. Die Wirkung wird als entspannend beschrieben und ist im Vergleich zu vielen anderen, eher hochprozentigen THC-Sorten nicht ganz so stark. Das Aussehen von Talea ist sehr pflanzlich, was auf einen lockeren Wuchs, ein dunkles Grün, wenige Blütenstände und eher wenig sichtbare Trichom-Köpfe zurückzuführen ist.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 2,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 1249,
+      "max": 1299,
+      "formatted": {
+        "min": "12,49 €",
+        "max": "12,99 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "bedica",
+      "name": "Bedica",
+      "brandName": "Bedrocan",
+      "thcPercent": 13.6,
+      "priceMin": null,
+      "inStock": false
+    },
+    {
+      "slug": "bedica-cannabis-flos-141",
+      "name": "Bedica Cannabis Flos 14/1",
+      "brandName": "Bedrocan",
+      "thcPercent": 14,
+      "priceMin": 1249,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "8-ball-kush",
+      "name": "8 Ball Kush",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "blueberry",
+      "name": "Blueberry",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "purple-punch",
+      "name": "Purple Punch",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "alien-technology",
+      "name": "Alien Technology",
+      "geneticType": "indica",
+      "thcMax": null
+    },
+    {
+      "slug": "black-domina",
+      "name": "Black Domina",
+      "geneticType": "indica",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Talea (Indica) - Wirkung, THC & Verfügbarkeit",
+      "description": "Talea: Relaxed. 2 Produkte verfügbar. ab 12,49 €.",
+      "canonical": "https://weed.de/strain/talea",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Talea (Indica) - Wirkung, THC & Verfügbarkeit",
+        "description": "Talea: Relaxed. 2 Produkte verfügbar. ab 12,49 €.",
+        "url": "https://weed.de/strain/talea",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Talea",
+        "href": "https://weed.de/strain/talea"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Talea",
+            "item": "https://weed.de/strain/talea"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Talea Produkte",
+        "numberOfItems": 2,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/bedica",
+            "name": "Bedica"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/bedica-cannabis-flos-141",
+            "name": "Bedica Cannabis Flos 14/1"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/bedica",
+        "text": "Bedica",
+        "title": "Bedica von Bedrocan"
+      },
+      {
+        "href": "/product/bedica-cannabis-flos-141",
+        "text": "Bedica Cannabis Flos 14/1",
+        "title": "Bedica Cannabis Flos 14/1 von Bedrocan"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/8-ball-kush",
+        "text": "8 Ball Kush",
+        "title": "8 Ball Kush - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/blueberry",
+        "text": "Blueberry",
+        "title": "Blueberry - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/purple-punch",
+        "text": "Purple Punch",
+        "title": "Purple Punch - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/alien-technology",
+        "text": "Alien Technology",
+        "title": "Alien Technology - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/black-domina",
+        "text": "Black Domina",
+        "title": "Black Domina - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/ocimene",
+        "text": "Ocimene",
+        "title": "Ocimene Terpen"
+      },
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/pinene",
+        "text": "Pinene",
+        "title": "Pinene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

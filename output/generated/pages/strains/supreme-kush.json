@@ -1,0 +1,216 @@
+{
+  "strain": {
+    "slug": "supreme-kush",
+    "name": "Supreme Kush",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Happy",
+      "Euphoric",
+      "Hungry"
+    ],
+    "tastes": [
+      "Coffee",
+      "Earthy",
+      "Mint"
+    ],
+    "terpenes": [
+      "Pinene",
+      "Myrcene",
+      "Limonene"
+    ],
+    "description": "",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 380,
+      "max": 499,
+      "formatted": {
+        "min": "3,80 €",
+        "max": "4,99 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "mediprocan-lunaris-191-supreme-kush",
+      "name": "mediproCan Lunaris 19/1 Supreme Kush",
+      "brandName": "mediproCan",
+      "thcPercent": 19,
+      "priceMin": 380,
+      "inStock": true
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "kalini-asia",
+      "name": "Kalini Asia",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "mun-shine-6",
+      "name": "Mun Shine 6",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "mac-2.0",
+      "name": "MAC 2.0",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "grape-mac",
+      "name": "Grape MAC",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "white-gorilla",
+      "name": "White Gorilla",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Supreme Kush (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "Supreme Kush: Happy, Euphoric, Hungry. 1 Produkte verfügbar. ab 3,80 €.",
+      "canonical": "https://weed.de/strain/supreme-kush",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Supreme Kush (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "Supreme Kush: Happy, Euphoric, Hungry. 1 Produkte verfügbar. ab 3,80 €.",
+        "url": "https://weed.de/strain/supreme-kush",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "Supreme Kush",
+        "href": "https://weed.de/strain/supreme-kush"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Supreme Kush",
+            "item": "https://weed.de/strain/supreme-kush"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Supreme Kush Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/mediprocan-lunaris-191-supreme-kush",
+            "name": "mediproCan Lunaris 19/1 Supreme Kush"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/mediprocan-lunaris-191-supreme-kush",
+        "text": "mediproCan Lunaris 19/1 Supreme Kush",
+        "title": "mediproCan Lunaris 19/1 Supreme Kush von mediproCan"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/kalini-asia",
+        "text": "Kalini Asia",
+        "title": "Kalini Asia - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/mun-shine-6",
+        "text": "Mun Shine 6",
+        "title": "Mun Shine 6 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/mac-2.0",
+        "text": "MAC 2.0",
+        "title": "MAC 2.0 - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/grape-mac",
+        "text": "Grape MAC",
+        "title": "Grape MAC - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/white-gorilla",
+        "text": "White Gorilla",
+        "title": "White Gorilla - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/pinene",
+        "text": "Pinene",
+        "title": "Pinene Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

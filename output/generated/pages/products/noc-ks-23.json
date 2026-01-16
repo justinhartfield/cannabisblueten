@@ -1,0 +1,237 @@
+{
+  "product": {
+    "slug": "noc-ks-23",
+    "name": "NOC KS 23",
+    "type": "flower",
+    "genetics": "hybrid_indica",
+    "thcPercent": 23,
+    "cbdPercent": 1,
+    "priceMin": 399,
+    "priceMax": 1030,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Argentinien",
+    "imageUrl": "https://weed.de/products/noc-ks-23-6j6997.png"
+  },
+  "brand": {
+    "slug": "noc-pharma-gmbh",
+    "name": "NOC Pharma GmbH",
+    "productCount": 15
+  },
+  "strain": {
+    "slug": "ko-x-sherbert-sockher",
+    "name": "KO x Sherbert Sockher",
+    "geneticType": "hybrid",
+    "effects": [
+      "Clear",
+      "Euphoric",
+      "Stress-relief",
+      "Relaxed",
+      "Anxiety-reducing",
+      "Sleepy"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Terpinolene",
+      "Myrcene",
+      "Alpha-Humulene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Clear",
+      "Euphoric",
+      "Stress-relief",
+      "Relaxed",
+      "Anxiety-reducing",
+      "Sleepy"
+    ],
+    "tastes": [
+      "Sour",
+      "Sweet",
+      "Vanilla",
+      "Woody",
+      "Tangy",
+      "Fruity",
+      "Citrus"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Terpinolene",
+      "Myrcene",
+      "Alpha-Humulene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "enua-251-cck-ca",
+      "name": "enua 25/1 CCK CA",
+      "brandName": "enua",
+      "thcPercent": 25.2,
+      "priceMin": 399,
+      "inStock": true
+    },
+    {
+      "slug": "ceres-no-2",
+      "name": "Ceres No. 2",
+      "brandName": "Cantourage",
+      "thcPercent": 25,
+      "priceMin": 590,
+      "inStock": true
+    },
+    {
+      "slug": "420-evolution-271-ca-icc",
+      "name": "420 EVOLUTION 27/1 CA ICC",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 27,
+      "priceMin": 684,
+      "inStock": true
+    },
+    {
+      "slug": "420-natural-221-gg4",
+      "name": "420 Natural 22/1 GG4",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 22,
+      "priceMin": 723,
+      "inStock": true
+    },
+    {
+      "slug": "noc-of-2",
+      "name": "NOC OF 20",
+      "brandName": "NOC Pharma GmbH",
+      "thcPercent": 20,
+      "priceMin": 849,
+      "inStock": true
+    },
+    {
+      "slug": "avaay-241-did",
+      "name": "AVAAY 24/1 DiD",
+      "brandName": "Avaay",
+      "thcPercent": 24,
+      "priceMin": 949,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "NOC KS 23 - NOC Pharma GmbH | ab 3,99 €",
+      "description": "NOC KS 23 von NOC Pharma GmbH. THC: 23%, CBD: 1%. Sorte: KO x Sherbert Sockher. Preis ab 3,99 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/noc-ks-23",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "NOC KS 23 - NOC Pharma GmbH | ab 3,99 €",
+        "description": "NOC KS 23 von NOC Pharma GmbH. THC: 23%, CBD: 1%. Sorte: KO x Sherbert Sockher. Preis ab 3,99 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/noc-ks-23",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/noc-ks-23-6j6997.png"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "NOC Pharma GmbH",
+        "href": "https://weed.de/brand/noc-pharma-gmbh"
+      },
+      {
+        "name": "NOC KS 23",
+        "href": "https://weed.de/product/noc-ks-23"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "NOC KS 23",
+            "item": "https://weed.de/product/noc-ks-23"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "NOC KS 23",
+        "brand": {
+          "@type": "Brand",
+          "name": "NOC Pharma GmbH"
+        },
+        "description": "THC: 23%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/ko-x-sherbert-sockher",
+      "text": "KO x Sherbert Sockher",
+      "title": "KO x Sherbert Sockher Sorte"
+    },
+    "brand": {
+      "href": "/brand/noc-pharma-gmbh",
+      "text": "NOC Pharma GmbH",
+      "title": "Alle NOC Pharma GmbH Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/enua-251-cck-ca",
+        "text": "enua 25/1 CCK CA",
+        "title": "Alternative: enua 25/1 CCK CA"
+      },
+      {
+        "href": "/product/ceres-no-2",
+        "text": "Ceres No. 2",
+        "title": "Alternative: Ceres No. 2"
+      },
+      {
+        "href": "/product/420-evolution-271-ca-icc",
+        "text": "420 EVOLUTION 27/1 CA ICC",
+        "title": "Alternative: 420 EVOLUTION 27/1 CA ICC"
+      },
+      {
+        "href": "/product/420-natural-221-gg4",
+        "text": "420 Natural 22/1 GG4",
+        "title": "Alternative: 420 Natural 22/1 GG4"
+      },
+      {
+        "href": "/product/noc-of-2",
+        "text": "NOC OF 20",
+        "title": "Alternative: NOC OF 20"
+      },
+      {
+        "href": "/product/avaay-241-did",
+        "text": "AVAAY 24/1 DiD",
+        "title": "Alternative: AVAAY 24/1 DiD"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

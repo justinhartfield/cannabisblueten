@@ -1,0 +1,213 @@
+{
+  "product": {
+    "slug": "cannamedical-indica-forte-sm",
+    "name": "Cannamedical Indica forte SM PE",
+    "type": "flower",
+    "genetics": "hybrid_sativa",
+    "thcPercent": 24,
+    "cbdPercent": 1,
+    "priceMin": 499,
+    "priceMax": 799,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Portugal",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "cannamedical",
+    "name": "Cannamedical",
+    "productCount": 238
+  },
+  "strain": {
+    "slug": "pineapple-express",
+    "name": "Pineapple Express",
+    "geneticType": "hybrid",
+    "effects": [
+      "Cerebral",
+      "Relaxed"
+    ],
+    "terpenes": []
+  },
+  "attributes": {
+    "effects": [
+      "Cerebral",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Lemon",
+      "Pineapple"
+    ],
+    "terpenes": []
+  },
+  "alternativeProducts": [
+    {
+      "slug": "amp-classic-251",
+      "name": "AMP Classic 25/1",
+      "brandName": "AMP",
+      "thcPercent": 25,
+      "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "bava-med-211-pineapple-express",
+      "name": "Bava Med 21/1 Pineapple Express",
+      "brandName": "bava medical",
+      "thcPercent": 21,
+      "priceMin": 479,
+      "inStock": true
+    },
+    {
+      "slug": "weeco-231",
+      "name": "Weeco 23/1",
+      "brandName": "Weeco",
+      "thcPercent": 23,
+      "priceMin": 599,
+      "inStock": true
+    },
+    {
+      "slug": "aurora-221-dhz-ca",
+      "name": "Aurora 22/1 DHZ-CA",
+      "brandName": "Aurora",
+      "thcPercent": 19.8,
+      "priceMin": 640,
+      "inStock": true
+    },
+    {
+      "slug": "420-evolution-271-ca-str",
+      "name": "420 Evolution 27/1 CA STR",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 27,
+      "priceMin": 645,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-221-florestura",
+      "name": "DEMECAN Florestura 22:01",
+      "brandName": "Deutsche Medizinalcannabis",
+      "thcPercent": 22,
+      "priceMin": 679,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Cannamedical Indica forte SM PE | ab 4,99 €",
+      "description": "Cannamedical Indica forte SM PE von Cannamedical. THC: 24%, CBD: 1%. Sorte: Pineapple Express. Preis ab 4,99 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/cannamedical-indica-forte-sm",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Cannamedical Indica forte SM PE | ab 4,99 €",
+        "description": "Cannamedical Indica forte SM PE von Cannamedical. THC: 24%, CBD: 1%. Sorte: Pineapple Express. Preis ab 4,99 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/cannamedical-indica-forte-sm",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Cannamedical",
+        "href": "https://weed.de/brand/cannamedical"
+      },
+      {
+        "name": "Cannamedical Indica forte SM PE",
+        "href": "https://weed.de/product/cannamedical-indica-forte-sm"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Cannamedical Indica forte SM PE",
+            "item": "https://weed.de/product/cannamedical-indica-forte-sm"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Cannamedical Indica forte SM PE",
+        "brand": {
+          "@type": "Brand",
+          "name": "Cannamedical"
+        },
+        "description": "THC: 24%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/pineapple-express",
+      "text": "Pineapple Express",
+      "title": "Pineapple Express Sorte"
+    },
+    "brand": {
+      "href": "/brand/cannamedical",
+      "text": "Cannamedical",
+      "title": "Alle Cannamedical Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/amp-classic-251",
+        "text": "AMP Classic 25/1",
+        "title": "Alternative: AMP Classic 25/1"
+      },
+      {
+        "href": "/product/bava-med-211-pineapple-express",
+        "text": "Bava Med 21/1 Pineapple Express",
+        "title": "Alternative: Bava Med 21/1 Pineapple Express"
+      },
+      {
+        "href": "/product/weeco-231",
+        "text": "Weeco 23/1",
+        "title": "Alternative: Weeco 23/1"
+      },
+      {
+        "href": "/product/aurora-221-dhz-ca",
+        "text": "Aurora 22/1 DHZ-CA",
+        "title": "Alternative: Aurora 22/1 DHZ-CA"
+      },
+      {
+        "href": "/product/420-evolution-271-ca-str",
+        "text": "420 Evolution 27/1 CA STR",
+        "title": "Alternative: 420 Evolution 27/1 CA STR"
+      },
+      {
+        "href": "/product/demecan-221-florestura",
+        "text": "DEMECAN Florestura 22:01",
+        "title": "Alternative: DEMECAN Florestura 22:01"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

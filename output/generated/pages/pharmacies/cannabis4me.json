@@ -1,0 +1,188 @@
+{
+  "pharmacy": {
+    "slug": "cannabis4me",
+    "name": "cannabis4me",
+    "street": "Hauptstraße 107",
+    "zip": "53474",
+    "cityName": "Bad Neuenahr-Ahrweiler",
+    "state": "Rheinland-Pfalz",
+    "lat": 50.546089,
+    "lng": 7.137616,
+    "hasDelivery": true,
+    "hasPickup": true,
+    "hasPrices": true,
+    "website": "https://www.cannabis4me.de",
+    "phone": "026412205",
+    "email": "info@cannabis4me.de",
+    "productCount": 89,
+    "rating": 0,
+    "ratingCount": 0,
+    "imageUrl": "https://weed.dehttps://cdn.weed.de/pharmacies/67bc854ef0fd91698143a692-j9hjf3.jpg"
+  },
+  "city": {
+    "slug": "bad-neuenahr-ahrweiler",
+    "name": "Bad Neuenahr-Ahrweiler",
+    "pharmacyCount": 3
+  },
+  "nearbyPharmacies": [
+    {
+      "slug": "cannabis-apotheke-rheinland",
+      "name": "Cannabis Apotheke Rheinland",
+      "cityName": "Bad Neuenahr-Ahrweiler",
+      "productCount": 161,
+      "hasDelivery": true
+    },
+    {
+      "slug": "cannabis-apotheke-ahrtal",
+      "name": "Cannabis-Apotheke-Ahrtal",
+      "cityName": "Bad Neuenahr-Ahrweiler",
+      "productCount": 54,
+      "hasDelivery": true
+    },
+    {
+      "slug": "grune-blute-ulmen-apotheke",
+      "name": "Grüne Blüte",
+      "cityName": "Frankenthal (Pfalz)",
+      "productCount": 158,
+      "hasDelivery": true
+    },
+    {
+      "slug": "pharmablute",
+      "name": "PharmaBlüte",
+      "cityName": "Mainz",
+      "productCount": 124,
+      "hasDelivery": true
+    },
+    {
+      "slug": "apotheke-am-kornmarkt",
+      "name": "Apotheke am Kornmarkt",
+      "cityName": "Trier",
+      "productCount": 64,
+      "hasDelivery": false
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "cannabis4me - Cannabis Apotheke in Bad Neuenahr-Ahrweiler",
+      "description": "cannabis4me in Bad Neuenahr-Ahrweiler. 89 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+      "canonical": "https://weed.de/apotheke/cannabis4me",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "cannabis4me - Cannabis Apotheke in Bad Neuenahr-Ahrweiler",
+        "description": "cannabis4me in Bad Neuenahr-Ahrweiler. 89 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
+        "url": "https://weed.de/apotheke/cannabis4me",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.dehttps://cdn.weed.de/pharmacies/67bc854ef0fd91698143a692-j9hjf3.jpg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Cannabis Apotheke",
+        "href": "https://weed.de/cannabis-apotheke"
+      },
+      {
+        "name": "Bad Neuenahr-Ahrweiler",
+        "href": "https://weed.de/cannabis-apotheke/bad-neuenahr-ahrweiler"
+      },
+      {
+        "name": "cannabis4me",
+        "href": "https://weed.de/apotheke/cannabis4me"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cannabis Apotheke",
+            "item": "https://weed.de/cannabis-apotheke"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Bad Neuenahr-Ahrweiler",
+            "item": "https://weed.de/cannabis-apotheke/bad-neuenahr-ahrweiler"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "cannabis4me",
+            "item": "https://weed.de/apotheke/cannabis4me"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Pharmacy",
+        "name": "cannabis4me",
+        "url": "https://weed.de/apotheke/cannabis4me",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Hauptstraße 107",
+          "addressLocality": "Bad Neuenahr-Ahrweiler",
+          "postalCode": "53474",
+          "addressRegion": "Rheinland-Pfalz",
+          "addressCountry": "DE"
+        },
+        "telephone": "026412205",
+        "email": "info@cannabis4me.de"
+      }
+    ]
+  },
+  "links": {
+    "city": {
+      "href": "/cannabis-apotheke/bad-neuenahr-ahrweiler",
+      "text": "Cannabis Apotheken in Bad Neuenahr-Ahrweiler",
+      "title": "Alle Apotheken in Bad Neuenahr-Ahrweiler"
+    },
+    "nearbyPharmacies": [
+      {
+        "href": "/apotheke/cannabis-apotheke-rheinland",
+        "text": "Cannabis Apotheke Rheinland",
+        "title": "Cannabis Apotheke Rheinland in Bad Neuenahr-Ahrweiler"
+      },
+      {
+        "href": "/apotheke/cannabis-apotheke-ahrtal",
+        "text": "Cannabis-Apotheke-Ahrtal",
+        "title": "Cannabis-Apotheke-Ahrtal in Bad Neuenahr-Ahrweiler"
+      },
+      {
+        "href": "/apotheke/grune-blute-ulmen-apotheke",
+        "text": "Grüne Blüte",
+        "title": "Grüne Blüte in Frankenthal (Pfalz)"
+      },
+      {
+        "href": "/apotheke/pharmablute",
+        "text": "PharmaBlüte",
+        "title": "PharmaBlüte in Mainz"
+      },
+      {
+        "href": "/apotheke/apotheke-am-kornmarkt",
+        "text": "Apotheke am Kornmarkt",
+        "title": "Apotheke am Kornmarkt in Trier"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products or prices"
+  }
+}

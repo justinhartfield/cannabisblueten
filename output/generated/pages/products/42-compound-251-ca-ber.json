@@ -1,0 +1,222 @@
+{
+  "product": {
+    "slug": "42-compound-251-ca-ber",
+    "name": "420 COMPOUND 25/1 CA BER",
+    "type": "flower",
+    "genetics": "hybrid_indica",
+    "thcPercent": 25,
+    "cbdPercent": 1,
+    "priceMin": 622,
+    "priceMax": 1166,
+    "inStock": true,
+    "pzn": null,
+    "originCountry": "Kanada",
+    "imageUrl": "https://weed.de/products/42-compound-251-ca-ber-2120fd.jpeg"
+  },
+  "brand": {
+    "slug": "four-20-pharma",
+    "name": "Four 20 Pharma",
+    "productCount": 267
+  },
+  "strain": {
+    "slug": "berlin-berries",
+    "name": "Berlin Berries",
+    "geneticType": "hybrid",
+    "effects": [
+      "Happy",
+      "Relaxed"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Linalool",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Happy",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Earthy",
+      "Fruity"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Linalool",
+      "Beta-Caryophyllene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "enua-251-cck-ca",
+      "name": "enua 25/1 CCK CA",
+      "brandName": "enua",
+      "thcPercent": 25.2,
+      "priceMin": 399,
+      "inStock": true
+    },
+    {
+      "slug": "ceres-no-2",
+      "name": "Ceres No. 2",
+      "brandName": "Cantourage",
+      "thcPercent": 25,
+      "priceMin": 590,
+      "inStock": true
+    },
+    {
+      "slug": "42-compound-271-ca-ber",
+      "name": "420 Compound 27/1 CA BER",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 27,
+      "priceMin": 685,
+      "inStock": true
+    },
+    {
+      "slug": "42-compound-31-ber",
+      "name": "420 Compound CA 30/1 BER",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 30,
+      "priceMin": 689,
+      "inStock": true
+    },
+    {
+      "slug": "420-natural-221-gg4",
+      "name": "420 Natural 22/1 GG4",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 22,
+      "priceMin": 723,
+      "inStock": true
+    },
+    {
+      "slug": "avaay-241-did",
+      "name": "AVAAY 24/1 DiD",
+      "brandName": "Avaay",
+      "thcPercent": 24,
+      "priceMin": 949,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "420 COMPOUND 25/1 CA BER - Four 20 Pharma | ab 6,22 €",
+      "description": "420 COMPOUND 25/1 CA BER von Four 20 Pharma. THC: 25%, CBD: 1%. Sorte: Berlin Berries. Preis ab 6,22 €. Jetzt verfügbar.",
+      "canonical": "https://weed.de/product/42-compound-251-ca-ber",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "420 COMPOUND 25/1 CA BER - Four 20 Pharma | ab 6,22 €",
+        "description": "420 COMPOUND 25/1 CA BER von Four 20 Pharma. THC: 25%, CBD: 1%. Sorte: Berlin Berries. Preis ab 6,22 €. Jetzt verfügbar.",
+        "url": "https://weed.de/product/42-compound-251-ca-ber",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE",
+        "image": "https://weed.de/products/42-compound-251-ca-ber-2120fd.jpeg"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Four 20 Pharma",
+        "href": "https://weed.de/brand/four-20-pharma"
+      },
+      {
+        "name": "420 COMPOUND 25/1 CA BER",
+        "href": "https://weed.de/product/42-compound-251-ca-ber"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "420 COMPOUND 25/1 CA BER",
+            "item": "https://weed.de/product/42-compound-251-ca-ber"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "420 COMPOUND 25/1 CA BER",
+        "brand": {
+          "@type": "Brand",
+          "name": "Four 20 Pharma"
+        },
+        "description": "THC: 25%, CBD: 1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/berlin-berries",
+      "text": "Berlin Berries",
+      "title": "Berlin Berries Sorte"
+    },
+    "brand": {
+      "href": "/brand/four-20-pharma",
+      "text": "Four 20 Pharma",
+      "title": "Alle Four 20 Pharma Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/enua-251-cck-ca",
+        "text": "enua 25/1 CCK CA",
+        "title": "Alternative: enua 25/1 CCK CA"
+      },
+      {
+        "href": "/product/ceres-no-2",
+        "text": "Ceres No. 2",
+        "title": "Alternative: Ceres No. 2"
+      },
+      {
+        "href": "/product/42-compound-271-ca-ber",
+        "text": "420 Compound 27/1 CA BER",
+        "title": "Alternative: 420 Compound 27/1 CA BER"
+      },
+      {
+        "href": "/product/42-compound-31-ber",
+        "text": "420 Compound CA 30/1 BER",
+        "title": "Alternative: 420 Compound CA 30/1 BER"
+      },
+      {
+        "href": "/product/420-natural-221-gg4",
+        "text": "420 Natural 22/1 GG4",
+        "title": "Alternative: 420 Natural 22/1 GG4"
+      },
+      {
+        "href": "/product/avaay-241-did",
+        "text": "AVAAY 24/1 DiD",
+        "title": "Alternative: AVAAY 24/1 DiD"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "In stock"
+  }
+}

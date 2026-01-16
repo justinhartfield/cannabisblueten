@@ -1,0 +1,220 @@
+{
+  "product": {
+    "slug": "naxiva-panaxol-251",
+    "name": "Naxiva Panaxol 25/1",
+    "type": "extract",
+    "genetics": "hybrid",
+    "thcPercent": 2.5,
+    "cbdPercent": 0.1,
+    "priceMin": 1395,
+    "priceMax": 1395,
+    "inStock": false,
+    "pzn": null,
+    "originCountry": "N/A",
+    "imageUrl": null
+  },
+  "brand": {
+    "slug": "panaxia",
+    "name": "Panaxia",
+    "productCount": 10
+  },
+  "strain": {
+    "slug": "black-label",
+    "name": "Black Label",
+    "geneticType": "hybrid",
+    "effects": [
+      "Creative",
+      "Hungry",
+      "Relaxed"
+    ],
+    "terpenes": [
+      "Terpinolene"
+    ]
+  },
+  "attributes": {
+    "effects": [
+      "Creative",
+      "Hungry",
+      "Relaxed"
+    ],
+    "tastes": [
+      "Diesel",
+      "Pungent",
+      "Earthy"
+    ],
+    "terpenes": [
+      "Terpinolene"
+    ]
+  },
+  "alternativeProducts": [
+    {
+      "slug": "tilray-thc-25-spotlight-porto-purps",
+      "name": "Tilray THC 25 Spotlight Porto Purps",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": 349,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc5cbd2",
+      "name": "Tilray Cannabisextrakt THC5:CBD20",
+      "brandName": "Tilray",
+      "thcPercent": 5,
+      "priceMin": 350,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc1cbd1",
+      "name": "Tilray Cannabisextrakt THC10:CBD10",
+      "brandName": "Tilray",
+      "thcPercent": 10,
+      "priceMin": 400,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-typ-2",
+      "name": "Demecan Typ 2",
+      "brandName": "Demecan",
+      "thcPercent": 16,
+      "priceMin": 533,
+      "inStock": true
+    },
+    {
+      "slug": "khiron-191-gelato",
+      "name": "Khiron 19/1 Gelato",
+      "brandName": "Khiron",
+      "thcPercent": 17.6,
+      "priceMin": 638,
+      "inStock": true
+    },
+    {
+      "slug": "tilray-cannabisextrakt-thc25",
+      "name": "Tilray Cannabisextrakt THC25",
+      "brandName": "Tilray",
+      "thcPercent": 25,
+      "priceMin": 895,
+      "inStock": true
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "Naxiva Panaxol 25/1 - Panaxia | ab 13,95 €",
+      "description": "Naxiva Panaxol 25/1 von Panaxia. THC: 2.5%, CBD: 0.1%. Sorte: Black Label. Preis ab 13,95 €. Preise vergleichen.",
+      "canonical": "https://weed.de/product/naxiva-panaxol-251",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Naxiva Panaxol 25/1 - Panaxia | ab 13,95 €",
+        "description": "Naxiva Panaxol 25/1 von Panaxia. THC: 2.5%, CBD: 0.1%. Sorte: Black Label. Preis ab 13,95 €. Preise vergleichen.",
+        "url": "https://weed.de/product/naxiva-panaxol-251",
+        "type": "product",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Produkte",
+        "href": "https://weed.de/products"
+      },
+      {
+        "name": "Panaxia",
+        "href": "https://weed.de/brand/panaxia"
+      },
+      {
+        "name": "Naxiva Panaxol 25/1",
+        "href": "https://weed.de/product/naxiva-panaxol-251"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Produkte",
+            "item": "https://weed.de/products"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Naxiva Panaxol 25/1",
+            "item": "https://weed.de/product/naxiva-panaxol-251"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Naxiva Panaxol 25/1",
+        "brand": {
+          "@type": "Brand",
+          "name": "Panaxia"
+        },
+        "description": "THC: 2.5%, CBD: 0.1%"
+      }
+    ]
+  },
+  "links": {
+    "strain": {
+      "href": "/strain/black-label",
+      "text": "Black Label",
+      "title": "Black Label Sorte"
+    },
+    "brand": {
+      "href": "/brand/panaxia",
+      "text": "Panaxia",
+      "title": "Alle Panaxia Produkte"
+    },
+    "alternatives": [
+      {
+        "href": "/product/tilray-thc-25-spotlight-porto-purps",
+        "text": "Tilray THC 25 Spotlight Porto Purps",
+        "title": "Alternative: Tilray THC 25 Spotlight Porto Purps"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc5cbd2",
+        "text": "Tilray Cannabisextrakt THC5:CBD20",
+        "title": "Alternative: Tilray Cannabisextrakt THC5:CBD20"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc1cbd1",
+        "text": "Tilray Cannabisextrakt THC10:CBD10",
+        "title": "Alternative: Tilray Cannabisextrakt THC10:CBD10"
+      },
+      {
+        "href": "/product/demecan-typ-2",
+        "text": "Demecan Typ 2",
+        "title": "Alternative: Demecan Typ 2"
+      },
+      {
+        "href": "/product/khiron-191-gelato",
+        "text": "Khiron 19/1 Gelato",
+        "title": "Alternative: Khiron 19/1 Gelato"
+      },
+      {
+        "href": "/product/tilray-cannabisextrakt-thc25",
+        "text": "Tilray Cannabisextrakt THC25",
+        "title": "Alternative: Tilray Cannabisextrakt THC25"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has price data"
+  }
+}

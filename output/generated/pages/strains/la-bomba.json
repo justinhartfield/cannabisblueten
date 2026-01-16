@@ -1,0 +1,227 @@
+{
+  "strain": {
+    "slug": "la-bomba",
+    "name": "La Bomba",
+    "geneticType": "hybrid",
+    "thcRange": {
+      "min": null,
+      "max": null
+    },
+    "cbdRange": {
+      "min": 1,
+      "max": 1
+    },
+    "effects": [
+      "Happy",
+      "Focused",
+      "Giggly",
+      "Calming",
+      "Anxiety-reducing",
+      "Stress-relief",
+      "Pain-relief",
+      "Mood-lifting",
+      "Sleepy"
+    ],
+    "tastes": [
+      "Blue Cheese",
+      "Chemical",
+      "Gassy",
+      "Diesel",
+      "Creamy",
+      "Sweet",
+      "Pepper",
+      "Tangy"
+    ],
+    "terpenes": [
+      "Caryophyllene",
+      "Limonene",
+      "Myrcene"
+    ],
+    "description": "La Bomba ist eine potente, Indica-dominante Hybridsorte, die vom renommierten Züchter Compound Genetics entwickelt wurde. Sie entstand aus der explosiven Kreuzung der beliebten Wedding Cake mit der leistungsstarken Jet Fuel Gelato. Mit einem hohen THC-Gehalt von etwa 25 % und einem CBD-Wert von unter 1 % bietet sie eine intensive Wirkung, die durch rund 1 % CBG abgerundet wird.\n\nDas Aromaprofil ist vielschichtig und verbindet gegensätzliche Noten zu einem spannenden Erlebnis. Es dominieren kräftige Treibstoff- und Diesel-Noten, die von einer chemischen Schärfe und Nuancen von Blauschimmelkäse begleitet werden. Diese herben, fast stechenden Töne werden jedoch durch das süße, cremige Erbe der Wedding Cake abgemildert. Das Terpenprofil, angeführt von Caryophyllen, Myrcen und Limonen, ist verantwortlich für diese Mischung aus pfeffriger Würze, erdiger Tiefe und zitrischer Frische.\n\nDie Wirkung wird als tief entspannend, aber gleichzeitig stimmungsaufhellend beschrieben. Oft beginnt sie mit einem Gefühl von Glück, Fokus und einer gewissen Albernheit, die den Geist belebt. Im weiteren Verlauf setzt sich jedoch die Indica-Dominanz durch und führt zu einer umfassenden körperlichen Ruhe, die den Geist klärt. Medizinisch wird La Bomba häufig zur Linderung von Schlaflosigkeit, Depressionen, Angstzuständen und chronischen Schmerzen eingesetzt.",
+    "imageUrl": null
+  },
+  "stats": {
+    "productCount": 1,
+    "pharmacyCount": 0,
+    "priceRange": {
+      "min": 395,
+      "max": 395,
+      "formatted": {
+        "min": "3,95 €",
+        "max": "3,95 €"
+      }
+    }
+  },
+  "products": [
+    {
+      "slug": "nice-151-lb",
+      "name": "NICE 15/1 LB",
+      "brandName": "Cansativa",
+      "thcPercent": 15,
+      "priceMin": 395,
+      "inStock": false
+    }
+  ],
+  "similarStrains": [
+    {
+      "slug": "white-gorilla",
+      "name": "White Gorilla",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "banana-cream-cake",
+      "name": "Banana Cream Cake",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "blueberry-muffin",
+      "name": "Blueberry Muffin",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "patient-zero",
+      "name": "Patient Zero",
+      "geneticType": "hybrid",
+      "thcMax": null
+    },
+    {
+      "slug": "sour-flare",
+      "name": "Sour Flare",
+      "geneticType": "hybrid",
+      "thcMax": null
+    }
+  ],
+  "seo": {
+    "meta": {
+      "title": "La Bomba (Hybrid) - Wirkung, THC & Verfügbarkeit",
+      "description": "La Bomba: Happy, Focused, Giggly. 1 Produkte verfügbar. ab 3,95 €.",
+      "canonical": "https://weed.de/strain/la-bomba",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "La Bomba (Hybrid) - Wirkung, THC & Verfügbarkeit",
+        "description": "La Bomba: Happy, Focused, Giggly. 1 Produkte verfügbar. ab 3,95 €.",
+        "url": "https://weed.de/strain/la-bomba",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Sorten",
+        "href": "https://weed.de/strains"
+      },
+      {
+        "name": "La Bomba",
+        "href": "https://weed.de/strain/la-bomba"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorten",
+            "item": "https://weed.de/strains"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "La Bomba",
+            "item": "https://weed.de/strain/la-bomba"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "La Bomba Produkte",
+        "numberOfItems": 1,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/nice-151-lb",
+            "name": "NICE 15/1 LB"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/nice-151-lb",
+        "text": "NICE 15/1 LB",
+        "title": "NICE 15/1 LB von Cansativa"
+      }
+    ],
+    "similarStrains": [
+      {
+        "href": "/strain/white-gorilla",
+        "text": "White Gorilla",
+        "title": "White Gorilla - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/banana-cream-cake",
+        "text": "Banana Cream Cake",
+        "title": "Banana Cream Cake - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/blueberry-muffin",
+        "text": "Blueberry Muffin",
+        "title": "Blueberry Muffin - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/patient-zero",
+        "text": "Patient Zero",
+        "title": "Patient Zero - Ähnliche Sorte"
+      },
+      {
+        "href": "/strain/sour-flare",
+        "text": "Sour Flare",
+        "title": "Sour Flare - Ähnliche Sorte"
+      }
+    ],
+    "terpenes": [
+      {
+        "href": "/terpene/caryophyllene",
+        "text": "Caryophyllene",
+        "title": "Caryophyllene Terpen"
+      },
+      {
+        "href": "/terpene/limonene",
+        "text": "Limonene",
+        "title": "Limonene Terpen"
+      },
+      {
+        "href": "/terpene/myrcene",
+        "text": "Myrcene",
+        "title": "Myrcene Terpen"
+      }
+    ]
+  },
+  "indexability": {
+    "isIndexable": true,
+    "reason": "Has products"
+  }
+}

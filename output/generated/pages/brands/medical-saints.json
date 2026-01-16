@@ -1,0 +1,153 @@
+{
+  "brand": {
+    "slug": "medical-saints",
+    "name": "Medical Saints",
+    "productCount": 3
+  },
+  "products": [
+    {
+      "slug": "medical-saints-241-ptr",
+      "name": "Medical Saints 24/1 PTR",
+      "type": "flower",
+      "thcPercent": 23,
+      "priceMin": 428,
+      "inStock": true,
+      "strainName": "Peach Tree"
+    },
+    {
+      "slug": "medical-saints-241-hub",
+      "name": "Medical Saints 24/1 HUB",
+      "type": "flower",
+      "thcPercent": 24,
+      "priceMin": 428,
+      "inStock": true,
+      "strainName": "Huckleberry"
+    },
+    {
+      "slug": "medical-saints-211-lem",
+      "name": "Medical Saints 21/1 LEM",
+      "type": "flower",
+      "thcPercent": 21,
+      "priceMin": 375,
+      "inStock": true,
+      "strainName": "Lemonatti"
+    }
+  ],
+  "stats": {
+    "productCount": 3,
+    "inStockCount": 3,
+    "avgThc": 22.7,
+    "priceRange": {
+      "min": 375,
+      "max": 428,
+      "formatted": {
+        "min": "3,75 €",
+        "max": "4,28 €"
+      }
+    }
+  },
+  "seo": {
+    "meta": {
+      "title": "Medical Saints Cannabis Produkte - 3 Produkte",
+      "description": "Medical Saints: 3 Cannabis Produkte. 3 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+      "canonical": "https://weed.de/brand/medical-saints",
+      "robots": {
+        "index": true,
+        "follow": true
+      },
+      "openGraph": {
+        "title": "Medical Saints Cannabis Produkte - 3 Produkte",
+        "description": "Medical Saints: 3 Cannabis Produkte. 3 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+        "url": "https://weed.de/brand/medical-saints",
+        "type": "website",
+        "siteName": "Weed.de",
+        "locale": "de_DE"
+      }
+    },
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "href": "https://weed.de"
+      },
+      {
+        "name": "Hersteller",
+        "href": "https://weed.de/brands"
+      },
+      {
+        "name": "Medical Saints",
+        "href": "https://weed.de/brand/medical-saints"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://weed.de"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Hersteller",
+            "item": "https://weed.de/brands"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Medical Saints",
+            "item": "https://weed.de/brand/medical-saints"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Medical Saints Produkte",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://weed.de/product/medical-saints-241-ptr",
+            "name": "Medical Saints 24/1 PTR"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://weed.de/product/medical-saints-241-hub",
+            "name": "Medical Saints 24/1 HUB"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/medical-saints-211-lem",
+            "name": "Medical Saints 21/1 LEM"
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "products": [
+      {
+        "href": "/product/medical-saints-241-ptr",
+        "text": "Medical Saints 24/1 PTR",
+        "title": "Medical Saints 24/1 PTR"
+      },
+      {
+        "href": "/product/medical-saints-241-hub",
+        "text": "Medical Saints 24/1 HUB",
+        "title": "Medical Saints 24/1 HUB"
+      },
+      {
+        "href": "/product/medical-saints-211-lem",
+        "text": "Medical Saints 21/1 LEM",
+        "title": "Medical Saints 21/1 LEM"
+      }
+    ]
+  }
+}
