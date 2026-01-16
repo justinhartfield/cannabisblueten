@@ -31,6 +31,18 @@ const DEFAULT_CONFIG: ResolverConfig = {
   siteName: 'Cannabis Deutschland',
 };
 
+// Weed.de external URL configuration
+const WEED_DE_BASE = 'https://weed.de';
+const WEED_DE_URLS = {
+  product: (slug: string) => `${WEED_DE_BASE}/produkt/${slug}`,
+  pharmacy: (slug: string) => `${WEED_DE_BASE}/apotheke/${slug}`,
+  strain: (slug: string) => `${WEED_DE_BASE}/strains/${slug}`,
+  brand: (name: string) => `${WEED_DE_BASE}/produktsuche?manufacturer=${encodeURIComponent(name)}`,
+  pharmacySearch: `${WEED_DE_BASE}/apothekensuche`,
+  productSearch: `${WEED_DE_BASE}/produktsuche`,
+  rezept: `${WEED_DE_BASE}/patient-werden`,
+};
+
 // =============================================================================
 // PAGE DATA TYPES
 // =============================================================================
@@ -119,6 +131,11 @@ export interface StrainPageData {
     products: InternalLink[];
     similarStrains: InternalLink[];
     terpenes: InternalLink[];
+  };
+  external: {
+    weedUrl: string;
+    pharmacySearchUrl: string;
+    rezeptUrl: string;
   };
   indexability: {
     isIndexable: boolean;
@@ -236,6 +253,11 @@ export function resolveStrainPage(
         text: t,
         title: `${t} Terpen`,
       })),
+    },
+    external: {
+      weedUrl: WEED_DE_URLS.strain(strain.slug),
+      pharmacySearchUrl: WEED_DE_URLS.pharmacySearch,
+      rezeptUrl: WEED_DE_URLS.rezept,
     },
     indexability: {
       isIndexable: strain.isIndexable,

@@ -237,7 +237,7 @@ export function HomeSearch() {
   return (
     <div
       ref={containerRef}
-      className="search-container relative max-w-2xl bg-white rounded-2xl p-2 shadow-2xl transition-all duration-300 border border-clinical-100"
+      className="search-container relative z-50 max-w-2xl bg-white rounded-2xl p-2 shadow-2xl transition-all duration-300 border border-clinical-100"
       style={{ boxShadow: '0 25px 50px -12px rgba(0, 0, 0, 0.25)' }}
     >
       <div className="flex items-center p-2">
