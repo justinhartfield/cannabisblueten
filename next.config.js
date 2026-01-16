@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  // Output as standalone for easier deployment
-  output: 'standalone',
+  // Use default output for Netlify (not standalone)
+  // output: 'standalone',
 
   // Enable ISR (Incremental Static Regeneration)
   experimental: {
