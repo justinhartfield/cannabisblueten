@@ -9,6 +9,7 @@
 import type { Metadata } from 'next';
 import type { CategoryPageData } from '@/resolvers';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
+import { ProductListingClient } from '@/components/ProductListingClient';
 
 // =============================================================================
 // METADATA
@@ -148,108 +149,13 @@ export default async function CategoryPage({ params }: PageProps) {
         </div>
       </section>
 
-      {/* Main Content: Sidebar + Product Grid */}
+      {/* Main Content: Sidebar + Product Grid (Client Component) */}
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-24">
-        <div className="flex flex-col lg:flex-row gap-12">
-          {/* Sidebar Filters */}
-          <aside className="lg:w-64 flex-shrink-0">
-            <div className="sticky top-24 space-y-8">
-              {/* Genetics Filter */}
-              <div className="bg-white rounded-2xl p-6 border border-clinical-100">
-                <h3 className="font-bold text-clinical-900 mb-4 text-sm uppercase tracking-widest">
-                  Genetik
-                </h3>
-                <div className="space-y-3">
-                  <FilterOption
-                    label="Indica"
-                    count={data.geneticsBreakdown.indica}
-                    color="purple"
-                  />
-                  <FilterOption
-                    label="Sativa"
-                    count={data.geneticsBreakdown.sativa}
-                    color="amber"
-                  />
-                  <FilterOption
-                    label="Hybrid"
-                    count={data.geneticsBreakdown.hybrid}
-                    color="clinical"
-                  />
-                </div>
-              </div>
-
-              {/* Top Brands Filter */}
-              <div className="bg-white rounded-2xl p-6 border border-clinical-100">
-                <h3 className="font-bold text-clinical-900 mb-4 text-sm uppercase tracking-widest">
-                  Top Hersteller
-                </h3>
-                <div className="space-y-2">
-                  {data.topBrands.slice(0, 8).map((brand) => (
-                    <a
-                      key={brand.slug}
-                      href={`/brand/${brand.slug}`}
-                      className="flex items-center justify-between text-sm text-clinical-600 hover:text-clinical-900 transition-colors py-1"
-                    >
-                      <span>{brand.name}</span>
-                      <span className="text-clinical-400">({brand.productCount})</span>
-                    </a>
-                  ))}
-                </div>
-              </div>
-
-              {/* THC Range Slider (Visual Only) */}
-              <div className="bg-white rounded-2xl p-6 border border-clinical-100">
-                <h3 className="font-bold text-clinical-900 mb-4 text-sm uppercase tracking-widest">
-                  THC Gehalt
-                </h3>
-                <div className="space-y-4">
-                  <div className="flex justify-between text-xs font-bold text-clinical-400">
-                    <span>0%</span>
-                    <span>30%+</span>
-                  </div>
-                  <div className="h-2 bg-clinical-100 rounded-full relative">
-                    <div
-                      className="absolute left-[10%] right-[30%] h-full bg-clinical-600 rounded-full"
-                    />
-                  </div>
-                </div>
-              </div>
-            </div>
-          </aside>
-
-          {/* Product Grid */}
-          <div className="flex-grow">
-            {/* Grid Header */}
-            <div className="flex items-center justify-between mb-8">
-              <h2 className="text-xl font-bold text-clinical-900">
-                {data.stats.productCount} Produkte gefunden
-              </h2>
-              <select className="bg-white border border-clinical-100 rounded-xl px-4 py-2 text-sm font-bold text-clinical-800 focus:outline-none focus:ring-2 focus:ring-clinical-800/10">
-                <option>Sortieren: Relevanz</option>
-                <option>Preis aufsteigend</option>
-                <option>Preis absteigend</option>
-                <option>THC Gehalt</option>
-              </select>
-            </div>
-
-            {/* Products Grid */}
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-              {data.products.map((product) => (
-                <ProductCard key={product.slug} product={product} />
-              ))}
-            </div>
-
-            {/* Pagination (SEO-friendly) */}
-            {data.products.length >= 24 && (
-              <div className="mt-12 flex justify-center gap-2">
-                <span className="px-4 py-2 bg-clinical-800 text-white rounded-lg font-bold">1</span>
-                <a href="#" className="px-4 py-2 bg-white border border-clinical-100 rounded-lg font-bold text-clinical-600 hover:bg-clinical-50">2</a>
-                <a href="#" className="px-4 py-2 bg-white border border-clinical-100 rounded-lg font-bold text-clinical-600 hover:bg-clinical-50">3</a>
-                <span className="px-4 py-2 text-clinical-400">...</span>
-              </div>
-            )}
-          </div>
-        </div>
+        <ProductListingClient
+          products={data.products}
+          geneticsBreakdown={data.geneticsBreakdown}
+          topBrands={data.topBrands}
+        />
       </section>
 
       {/* SEO Content Block */}
@@ -303,112 +209,6 @@ export default async function CategoryPage({ params }: PageProps) {
 // SUB-COMPONENTS
 // =============================================================================
 
-function FilterOption({
-  label,
-  count,
-  color,
-}: {
-  label: string;
-  count: number;
-  color: 'purple' | 'amber' | 'clinical';
-}) {
-  const colorClasses = {
-    purple: 'bg-purple-100 border-purple-200',
-    amber: 'bg-amber-100 border-amber-200',
-    clinical: 'bg-clinical-100 border-clinical-200',
-  };
-
-  return (
-    <label className="flex items-center gap-3 cursor-pointer group">
-      <input
-        type="checkbox"
-        className="w-4 h-4 rounded border-clinical-200 text-clinical-800 focus:ring-clinical-800/20"
-      />
-      <span className="flex items-center gap-2 text-sm text-clinical-600 group-hover:text-clinical-900 transition-colors">
-        <span className={`w-3 h-3 rounded-full ${colorClasses[color]}`} />
-        {label}
-        <span className="text-clinical-400">({count})</span>
-      </span>
-    </label>
-  );
-}
-
-function ProductCard({
-  product,
-}: {
-  product: {
-    slug: string;
-    name: string;
-    brandName: string | null;
-    strainName: string | null;
-    thcPercent: number | null;
-    priceMin: number | null;
-    inStock: boolean;
-    genetics: string | null;
-  };
-}) {
-  const geneticsColor = product.genetics?.includes('indica')
-    ? 'genetics-indica'
-    : product.genetics?.includes('sativa')
-      ? 'genetics-sativa'
-      : 'genetics-hybrid';
-
-  return (
-    <a href={`/product/${product.slug}`} className="hyper-border p-6 group">
-      {/* Product Image Placeholder */}
-      <div className="aspect-square bg-clinical-50 rounded-xl mb-4 flex items-center justify-center overflow-hidden">
-        <span className="text-4xl">🌿</span>
-      </div>
-
-      {/* Product Info */}
-      <div className="space-y-2">
-        {product.brandName && (
-          <span className="text-[10px] font-bold text-clinical-400 uppercase tracking-widest">
-            {product.brandName}
-          </span>
-        )}
-        <h3 className="font-bold text-clinical-900 group-hover:text-safety transition-colors line-clamp-2">
-          {product.name}
-        </h3>
-
-        {/* Specs Row */}
-        <div className="flex items-center gap-2 flex-wrap">
-          {product.genetics && (
-            <span className={`px-2 py-0.5 rounded text-[10px] font-bold uppercase ${geneticsColor}`}>
-              {capitalize(product.genetics.split('_')[0])}
-            </span>
-          )}
-          {product.thcPercent && (
-            <span className="text-xs font-bold text-clinical-600">
-              THC {product.thcPercent}%
-            </span>
-          )}
-        </div>
-
-        {/* Footer */}
-        <div className="flex items-center justify-between pt-4 border-t border-clinical-50 mt-4">
-          {product.priceMin ? (
-            <span className="text-lg font-black text-clinical-900">
-              ab {formatPrice(product.priceMin)}
-            </span>
-          ) : (
-            <span className="text-sm text-clinical-400">Preis anfragen</span>
-          )}
-          <span
-            className={`text-[10px] font-bold uppercase px-2 py-1 rounded ${
-              product.inStock
-                ? 'bg-green-50 text-green-600'
-                : 'bg-clinical-50 text-clinical-400'
-            }`}
-          >
-            {product.inStock ? 'Verfügbar' : 'Nicht verfügbar'}
-          </span>
-        </div>
-      </div>
-    </a>
-  );
-}
-
 function NotFound() {
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-24 text-center">
@@ -426,21 +226,6 @@ function NotFound() {
       </a>
     </div>
   );
-}
-
-// =============================================================================
-// UTILITIES
-// =============================================================================
-
-function capitalize(str: string): string {
-  return str.charAt(0).toUpperCase() + str.slice(1);
-}
-
-function formatPrice(cents: number): string {
-  return new Intl.NumberFormat('de-DE', {
-    style: 'currency',
-    currency: 'EUR',
-  }).format(cents / 100);
 }
 
 // =============================================================================
