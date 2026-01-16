@@ -8,7 +8,7 @@
     "cbdPercent": 1,
     "priceMin": 899,
     "priceMax": 899,
-    "inStock": true,
+    "inStock": false,
     "pzn": null,
     "originCountry": "Kanada",
     "imageUrl": null
@@ -103,7 +103,7 @@
   "seo": {
     "meta": {
       "title": "Remexian 36/1 BBR LAW - Remexian Pharma | ab 8,99 €",
-      "description": "Remexian 36/1 BBR LAW von Remexian Pharma. THC: 36%, CBD: 1%. Sorte: LA Wedding Pop. Preis ab 8,99 €. Jetzt verfügbar.",
+      "description": "Remexian 36/1 BBR LAW von Remexian Pharma. THC: 36%, CBD: 1%. Sorte: LA Wedding Pop. Preis ab 8,99 €. Preise vergleichen.",
       "canonical": "https://cannabisblueten.de/product/remexian-361-bbr-law",
       "robots": {
         "index": true,
@@ -111,7 +111,7 @@
       },
       "openGraph": {
         "title": "Remexian 36/1 BBR LAW - Remexian Pharma | ab 8,99 €",
-        "description": "Remexian 36/1 BBR LAW von Remexian Pharma. THC: 36%, CBD: 1%. Sorte: LA Wedding Pop. Preis ab 8,99 €. Jetzt verfügbar.",
+        "description": "Remexian 36/1 BBR LAW von Remexian Pharma. THC: 36%, CBD: 1%. Sorte: LA Wedding Pop. Preis ab 8,99 €. Preise vergleichen.",
         "url": "https://cannabisblueten.de/product/remexian-361-bbr-law",
         "type": "product",
         "siteName": "CannabisBlueten.de",
@@ -177,7 +177,7 @@
           "url": "https://cannabisblueten.de/product/remexian-361-bbr-law",
           "priceCurrency": "EUR",
           "price": "8.99",
-          "availability": "https://schema.org/InStock",
+          "availability": "https://schema.org/OutOfStock",
           "itemCondition": "https://schema.org/NewCondition"
         }
       }
@@ -234,6 +234,6 @@
   },
   "indexability": {
     "isIndexable": true,
-    "reason": "In stock"
+    "reason": "Has price data"
   }
 }

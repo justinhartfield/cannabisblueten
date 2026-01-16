@@ -7,7 +7,7 @@
     "thcPercent": 24,
     "cbdPercent": 1,
     "priceMin": 1048,
-    "priceMax": 1048,
+    "priceMax": 1199,
     "inStock": true,
     "pzn": null,
     "originCountry": "Kanada",
@@ -182,7 +182,13 @@
           "priceCurrency": "EUR",
           "price": "10.48",
           "availability": "https://schema.org/InStock",
-          "itemCondition": "https://schema.org/NewCondition"
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "10.48",
+            "maxPrice": "11.99",
+            "priceCurrency": "EUR"
+          }
         }
       }
     ]

@@ -77,14 +77,6 @@
       "inStock": true
     },
     {
-      "slug": "remexian-271-prt-mokum´s-tulip",
-      "name": "Remexian 27/1 PRT - Mokum´s Tulip",
-      "brandName": "Remexian Pharma",
-      "thcPercent": 30,
-      "priceMin": 588,
-      "inStock": true
-    },
-    {
       "slug": "weeco-231",
       "name": "Weeco 23/1",
       "brandName": "Weeco",
@@ -106,6 +98,14 @@
       "brandName": "Four 20 Pharma",
       "thcPercent": 27,
       "priceMin": 645,
+      "inStock": true
+    },
+    {
+      "slug": "demecan-221-florestura",
+      "name": "DEMECAN Florestura 22:01",
+      "brandName": "Deutsche Medizinalcannabis",
+      "thcPercent": 22,
+      "priceMin": 679,
       "inStock": true
     }
   ],
@@ -221,11 +221,6 @@
         "title": "Alternative: Remexian 30/1 PRT MTP"
       },
       {
-        "href": "/product/remexian-271-prt-mokum´s-tulip",
-        "text": "Remexian 27/1 PRT - Mokum´s Tulip",
-        "title": "Alternative: Remexian 27/1 PRT - Mokum´s Tulip"
-      },
-      {
         "href": "/product/weeco-231",
         "text": "Weeco 23/1",
         "title": "Alternative: Weeco 23/1"
@@ -239,6 +234,11 @@
         "href": "/product/420-evolution-271-ca-str",
         "text": "420 Evolution 27/1 CA STR",
         "title": "Alternative: 420 Evolution 27/1 CA STR"
+      },
+      {
+        "href": "/product/demecan-221-florestura",
+        "text": "DEMECAN Florestura 22:01",
+        "title": "Alternative: DEMECAN Florestura 22:01"
       }
     ]
   },

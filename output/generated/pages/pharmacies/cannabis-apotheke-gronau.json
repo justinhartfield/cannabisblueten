@@ -36,7 +36,7 @@
       "slug": "apotheke-zur-alten-post",
       "name": "Cannacompany (Apotheke zur Alten Post)",
       "cityName": "Bonn",
-      "productCount": 233,
+      "productCount": 234,
       "hasDelivery": true
     },
     {
@@ -103,6 +103,36 @@
       "marketAvg": 503
     },
     {
+      "productName": "enua 25/1 SBD CA",
+      "price": 399,
+      "priceFormatted": "3,99 €",
+      "priceCategory": "excellent",
+      "rank": 1,
+      "marketMin": 399,
+      "marketMax": 895,
+      "marketAvg": 624
+    },
+    {
+      "productName": "Huala 22/1 UK CIN",
+      "price": 335,
+      "priceFormatted": "3,35 €",
+      "priceCategory": "excellent",
+      "rank": 1,
+      "marketMin": 335,
+      "marketMax": 695,
+      "marketAvg": 514
+    },
+    {
+      "productName": "enua 30/1 LHZ CA",
+      "price": 599,
+      "priceFormatted": "5,99 €",
+      "priceCategory": "excellent",
+      "rank": 1,
+      "marketMin": 599,
+      "marketMax": 1049,
+      "marketAvg": 809
+    },
+    {
       "productName": "TRUU HS 21/01",
       "price": 398,
       "priceFormatted": "3,98 €",
@@ -111,6 +141,26 @@
       "marketMin": 398,
       "marketMax": 665,
       "marketAvg": 505
+    },
+    {
+      "productName": "ZOIKS 26/1 BB",
+      "price": 455,
+      "priceFormatted": "4,55 €",
+      "priceCategory": "excellent",
+      "rank": 1,
+      "marketMin": 455,
+      "marketMax": 968,
+      "marketAvg": 592
+    },
+    {
+      "productName": "IMC E2 THC22",
+      "price": 309,
+      "priceFormatted": "3,09 €",
+      "priceCategory": "excellent",
+      "rank": 1,
+      "marketMin": 309,
+      "marketMax": 550,
+      "marketAvg": 445
     },
     {
       "productName": "IMC DB THC20",
@@ -131,6 +181,16 @@
       "marketMin": 599,
       "marketMax": 928,
       "marketAvg": 786
+    },
+    {
+      "productName": "Pharma Leaves Indica Dominant Supreme 30/1",
+      "price": 499,
+      "priceFormatted": "4,99 €",
+      "priceCategory": "average",
+      "rank": 1,
+      "marketMin": 499,
+      "marketMax": 499,
+      "marketAvg": 499
     },
     {
       "productName": "IMC BAJ THC25 Token",
@@ -173,21 +233,191 @@
       "marketAvg": 761
     },
     {
-      "productName": "IMC CF THC22",
-      "price": 298,
-      "priceFormatted": "2,98 €",
-      "priceCategory": "excellent",
+      "productName": "IMC ZZ Token Afghani Diamond 22/1",
+      "price": 390,
+      "priceFormatted": "3,90 €",
+      "priceCategory": "high",
       "rank": 2,
-      "marketMin": 297,
+      "marketMin": 318,
+      "marketMax": 390,
+      "marketAvg": 354
+    },
+    {
+      "productName": "Daily Special 21/1 LEM",
+      "price": 480,
+      "priceFormatted": "4,80 €",
+      "priceCategory": "excellent",
+      "rank": 3,
+      "marketMin": 477,
+      "marketMax": 699,
+      "marketAvg": 552
+    },
+    {
+      "productName": "enua 22/1 BCP CA",
+      "price": 387,
+      "priceFormatted": "3,87 €",
+      "priceCategory": "excellent",
+      "rank": 5,
+      "marketMin": 334,
+      "marketMax": 999,
+      "marketAvg": 553
+    },
+    {
+      "productName": "IMC LM THC20 mids",
+      "price": 280,
+      "priceFormatted": "2,80 €",
+      "priceCategory": "excellent",
+      "rank": 5,
+      "marketMin": 279,
+      "marketMax": 449,
+      "marketAvg": 356
+    },
+    {
+      "productName": "Slouu PG CA 29/1",
+      "price": 519,
+      "priceFormatted": "5,19 €",
+      "priceCategory": "excellent",
+      "rank": 6,
+      "marketMin": 499,
+      "marketMax": 1049,
+      "marketAvg": 677
+    },
+    {
+      "productName": "enua 25/1 SC CA",
+      "price": 419,
+      "priceFormatted": "4,19 €",
+      "priceCategory": "excellent",
+      "rank": 7,
+      "marketMin": 400,
+      "marketMax": 915,
+      "marketAvg": 643
+    },
+    {
+      "productName": "enua 22/1 CCK CA",
+      "price": 464,
+      "priceFormatted": "4,64 €",
+      "priceCategory": "excellent",
+      "rank": 10,
+      "marketMin": 398,
+      "marketMax": 950,
+      "marketAvg": 615
+    },
+    {
+      "productName": "ZOIKS 26/1 TG",
+      "price": 425,
+      "priceFormatted": "4,25 €",
+      "priceCategory": "excellent",
+      "rank": 16,
+      "marketMin": 423,
+      "marketMax": 790,
+      "marketAvg": 581
+    },
+    {
+      "productName": "Pedanios 26/1 EHD-CA",
+      "price": 515,
+      "priceFormatted": "5,15 €",
+      "priceCategory": "excellent",
+      "rank": 18,
+      "marketMin": 476,
+      "marketMax": 1309,
+      "marketAvg": 682
+    },
+    {
+      "productName": "MediCann 21/1 MC Oro 21 Duende",
+      "price": 470,
+      "priceFormatted": "4,70 €",
+      "priceCategory": "average",
+      "rank": 24,
+      "marketMin": 368,
+      "marketMax": 670,
+      "marketAvg": 512
+    },
+    {
+      "productName": "IMC MK THC27 Token",
+      "price": 368,
+      "priceFormatted": "3,68 €",
+      "priceCategory": "excellent",
+      "rank": 28,
+      "marketMin": 309,
+      "marketMax": 799,
+      "marketAvg": 491
+    },
+    {
+      "productName": "IMC CR7 THC20",
+      "price": 397,
+      "priceFormatted": "3,97 €",
+      "priceCategory": "high",
+      "rank": 30,
+      "marketMin": 279,
+      "marketMax": 399,
+      "marketAvg": 355
+    },
+    {
+      "productName": "IMC CCS THC22 Crescendo",
+      "price": 340,
+      "priceFormatted": "3,40 €",
+      "priceCategory": "excellent",
+      "rank": 31,
+      "marketMin": 298,
       "marketMax": 599,
-      "marketAvg": 445
+      "marketAvg": 438
+    },
+    {
+      "productName": "IMC A2 THC20 Mids",
+      "price": 324,
+      "priceFormatted": "3,24 €",
+      "priceCategory": "excellent",
+      "rank": 37,
+      "marketMin": 297,
+      "marketMax": 770,
+      "marketAvg": 457
+    },
+    {
+      "productName": "IMC GMO THC27 Token",
+      "price": 395,
+      "priceFormatted": "3,95 €",
+      "priceCategory": "excellent",
+      "rank": 40,
+      "marketMin": 388,
+      "marketMax": 850,
+      "marketAvg": 477
+    },
+    {
+      "productName": "IMC THC25 T03",
+      "price": 365,
+      "priceFormatted": "3,65 €",
+      "priceCategory": "excellent",
+      "rank": 52,
+      "marketMin": 345,
+      "marketMax": 833,
+      "marketAvg": 528
+    },
+    {
+      "productName": "IMC RC6 THC20",
+      "price": 279,
+      "priceFormatted": "2,79 €",
+      "priceCategory": "excellent",
+      "rank": 52,
+      "marketMin": 275,
+      "marketMax": 670,
+      "marketAvg": 453
+    },
+    {
+      "productName": "Sibanax Moe Zilla 30/1",
+      "price": 596,
+      "priceFormatted": "5,96 €",
+      "priceCategory": "excellent",
+      "rank": 114,
+      "marketMin": 569,
+      "marketMax": 850,
+      "marketAvg": 673
     }
   ],
   "pricingStats": {
-    "avgPrice": 474,
-    "minPrice": 298,
+    "avgPrice": 447,
+    "minPrice": 279,
     "maxPrice": 749,
-    "excellentCount": 18,
+    "excellentCount": 31,
     "goodCount": 0
   },
   "seo": {

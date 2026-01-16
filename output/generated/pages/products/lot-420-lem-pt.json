@@ -8,7 +8,7 @@
     "cbdPercent": 1,
     "priceMin": 995,
     "priceMax": 995,
-    "inStock": true,
+    "inStock": false,
     "pzn": [],
     "originCountry": "Kanada",
     "imageUrl": "https://weed.dehttps://cdn.weed.de/products/lot-420-lem-pt-687223.jpeg"
@@ -114,7 +114,7 @@
   "seo": {
     "meta": {
       "title": "LOT 420 LEM PT - Cantourage | ab 9,95 €",
-      "description": "LOT 420 LEM PT von Cantourage. THC: 26%, CBD: 1%. Sorte: Lemonatti. Preis ab 9,95 €. Jetzt verfügbar.",
+      "description": "LOT 420 LEM PT von Cantourage. THC: 26%, CBD: 1%. Sorte: Lemonatti. Preis ab 9,95 €. Preise vergleichen.",
       "canonical": "https://cannabisblueten.de/product/lot-420-lem-pt",
       "robots": {
         "index": true,
@@ -122,7 +122,7 @@
       },
       "openGraph": {
         "title": "LOT 420 LEM PT - Cantourage | ab 9,95 €",
-        "description": "LOT 420 LEM PT von Cantourage. THC: 26%, CBD: 1%. Sorte: Lemonatti. Preis ab 9,95 €. Jetzt verfügbar.",
+        "description": "LOT 420 LEM PT von Cantourage. THC: 26%, CBD: 1%. Sorte: Lemonatti. Preis ab 9,95 €. Preise vergleichen.",
         "url": "https://cannabisblueten.de/product/lot-420-lem-pt",
         "type": "product",
         "siteName": "CannabisBlueten.de",
@@ -191,7 +191,7 @@
           "url": "https://cannabisblueten.de/product/lot-420-lem-pt",
           "priceCurrency": "EUR",
           "price": "9.95",
-          "availability": "https://schema.org/InStock",
+          "availability": "https://schema.org/OutOfStock",
           "itemCondition": "https://schema.org/NewCondition"
         }
       }
@@ -248,6 +248,6 @@
   },
   "indexability": {
     "isIndexable": true,
-    "reason": "In stock"
+    "reason": "Has price data"
   }
 }

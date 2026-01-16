@@ -6,7 +6,7 @@
     "genetics": "hybrid",
     "thcPercent": 2.5,
     "cbdPercent": 0.1,
-    "priceMin": 357,
+    "priceMin": 550,
     "priceMax": 550,
     "inStock": true,
     "pzn": null,
@@ -102,16 +102,16 @@
   ],
   "seo": {
     "meta": {
-      "title": "Cannabisextrakt Avextra 25 | ab 3,57 €",
-      "description": "Cannabisextrakt Avextra 25 von Avextra. THC: 2.5%, CBD: 0.1%. Sorte: Jack Haze. Preis ab 3,57 €. Jetzt verfügbar.",
+      "title": "Cannabisextrakt Avextra 25 | ab 5,50 €",
+      "description": "Cannabisextrakt Avextra 25 von Avextra. THC: 2.5%, CBD: 0.1%. Sorte: Jack Haze. Preis ab 5,50 €. Jetzt verfügbar.",
       "canonical": "https://cannabisblueten.de/product/cannabisextrakt-avextra-25",
       "robots": {
         "index": true,
         "follow": true
       },
       "openGraph": {
-        "title": "Cannabisextrakt Avextra 25 | ab 3,57 €",
-        "description": "Cannabisextrakt Avextra 25 von Avextra. THC: 2.5%, CBD: 0.1%. Sorte: Jack Haze. Preis ab 3,57 €. Jetzt verfügbar.",
+        "title": "Cannabisextrakt Avextra 25 | ab 5,50 €",
+        "description": "Cannabisextrakt Avextra 25 von Avextra. THC: 2.5%, CBD: 0.1%. Sorte: Jack Haze. Preis ab 5,50 €. Jetzt verfügbar.",
         "url": "https://cannabisblueten.de/product/cannabisextrakt-avextra-25",
         "type": "product",
         "siteName": "CannabisBlueten.de",
@@ -176,15 +176,9 @@
           "@type": "Offer",
           "url": "https://cannabisblueten.de/product/cannabisextrakt-avextra-25",
           "priceCurrency": "EUR",
-          "price": "3.57",
+          "price": "5.50",
           "availability": "https://schema.org/InStock",
-          "itemCondition": "https://schema.org/NewCondition",
-          "priceSpecification": {
-            "@type": "PriceSpecification",
-            "minPrice": "3.57",
-            "maxPrice": "5.50",
-            "priceCurrency": "EUR"
-          }
+          "itemCondition": "https://schema.org/NewCondition"
         }
       }
     ]

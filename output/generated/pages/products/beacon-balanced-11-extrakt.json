@@ -6,7 +6,7 @@
     "genetics": "hybrid",
     "thcPercent": 10,
     "cbdPercent": 10,
-    "priceMin": 250,
+    "priceMin": 420,
     "priceMax": 420,
     "inStock": true,
     "pzn": null,
@@ -72,7 +72,7 @@
       "name": "enua 22/1 DB CA",
       "brandName": "enua",
       "thcPercent": 22,
-      "priceMin": 369,
+      "priceMin": 349,
       "inStock": true
     },
     {
@@ -102,16 +102,16 @@
   ],
   "seo": {
     "meta": {
-      "title": "Beacon Balanced 10:10 Extrakt - Cansativa | ab 2,50 €",
-      "description": "Beacon Balanced 10:10 Extrakt von Cansativa. THC: 10%, CBD: 10%. Sorte: Pink Kush. Preis ab 2,50 €. Jetzt verfügbar.",
+      "title": "Beacon Balanced 10:10 Extrakt - Cansativa | ab 4,20 €",
+      "description": "Beacon Balanced 10:10 Extrakt von Cansativa. THC: 10%, CBD: 10%. Sorte: Pink Kush. Preis ab 4,20 €. Jetzt verfügbar.",
       "canonical": "https://cannabisblueten.de/product/beacon-balanced-11-extrakt",
       "robots": {
         "index": true,
         "follow": true
       },
       "openGraph": {
-        "title": "Beacon Balanced 10:10 Extrakt - Cansativa | ab 2,50 €",
-        "description": "Beacon Balanced 10:10 Extrakt von Cansativa. THC: 10%, CBD: 10%. Sorte: Pink Kush. Preis ab 2,50 €. Jetzt verfügbar.",
+        "title": "Beacon Balanced 10:10 Extrakt - Cansativa | ab 4,20 €",
+        "description": "Beacon Balanced 10:10 Extrakt von Cansativa. THC: 10%, CBD: 10%. Sorte: Pink Kush. Preis ab 4,20 €. Jetzt verfügbar.",
         "url": "https://cannabisblueten.de/product/beacon-balanced-11-extrakt",
         "type": "product",
         "siteName": "CannabisBlueten.de",
@@ -176,15 +176,9 @@
           "@type": "Offer",
           "url": "https://cannabisblueten.de/product/beacon-balanced-11-extrakt",
           "priceCurrency": "EUR",
-          "price": "2.50",
+          "price": "4.20",
           "availability": "https://schema.org/InStock",
-          "itemCondition": "https://schema.org/NewCondition",
-          "priceSpecification": {
-            "@type": "PriceSpecification",
-            "minPrice": "2.50",
-            "maxPrice": "4.20",
-            "priceCurrency": "EUR"
-          }
+          "itemCondition": "https://schema.org/NewCondition"
         }
       }
     ]

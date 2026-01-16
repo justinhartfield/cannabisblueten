@@ -8,7 +8,7 @@
     "cbdPercent": 1,
     "priceMin": 850,
     "priceMax": 850,
-    "inStock": true,
+    "inStock": false,
     "pzn": null,
     "originCountry": "Kanada",
     "imageUrl": "https://weed.de/products/demecan-craft-marker-251-mm2-c2c5d0.png"
@@ -110,7 +110,7 @@
   "seo": {
     "meta": {
       "title": "Demecan CRAFT Marker 25:01 MM#2 | ab 8,50 €",
-      "description": "Demecan CRAFT Marker 25:01 MM#2 von Demecan. THC: 25%, CBD: 1%. Sorte: Magic Marker #2. Preis ab 8,50 €. Jetzt verfügbar.",
+      "description": "Demecan CRAFT Marker 25:01 MM#2 von Demecan. THC: 25%, CBD: 1%. Sorte: Magic Marker #2. Preis ab 8,50 €. Preise vergleichen.",
       "canonical": "https://cannabisblueten.de/product/demecan-craft-marker-251-mm2",
       "robots": {
         "index": true,
@@ -118,7 +118,7 @@
       },
       "openGraph": {
         "title": "Demecan CRAFT Marker 25:01 MM#2 | ab 8,50 €",
-        "description": "Demecan CRAFT Marker 25:01 MM#2 von Demecan. THC: 25%, CBD: 1%. Sorte: Magic Marker #2. Preis ab 8,50 €. Jetzt verfügbar.",
+        "description": "Demecan CRAFT Marker 25:01 MM#2 von Demecan. THC: 25%, CBD: 1%. Sorte: Magic Marker #2. Preis ab 8,50 €. Preise vergleichen.",
         "url": "https://cannabisblueten.de/product/demecan-craft-marker-251-mm2",
         "type": "product",
         "siteName": "CannabisBlueten.de",
@@ -185,7 +185,7 @@
           "url": "https://cannabisblueten.de/product/demecan-craft-marker-251-mm2",
           "priceCurrency": "EUR",
           "price": "8.50",
-          "availability": "https://schema.org/InStock",
+          "availability": "https://schema.org/OutOfStock",
           "itemCondition": "https://schema.org/NewCondition"
         }
       }
@@ -242,6 +242,6 @@
   },
   "indexability": {
     "isIndexable": true,
-    "reason": "In stock"
+    "reason": "Has price data"
   }
 }

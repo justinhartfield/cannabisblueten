@@ -6,8 +6,8 @@
     "genetics": "indica",
     "thcPercent": 18,
     "cbdPercent": 1,
-    "priceMin": null,
-    "priceMax": null,
+    "priceMin": 369,
+    "priceMax": 380,
     "inStock": true,
     "pzn": null,
     "originCountry": "Portugal",
@@ -113,16 +113,16 @@
   ],
   "seo": {
     "meta": {
-      "title": "NICE 18/1 GE - Cansativa",
-      "description": "NICE 18/1 GE von Cansativa. THC: 18%, CBD: 1%. Sorte: Gelatti. Jetzt verfügbar.",
+      "title": "NICE 18/1 GE - Cansativa | ab 3,69 €",
+      "description": "NICE 18/1 GE von Cansativa. THC: 18%, CBD: 1%. Sorte: Gelatti. Preis ab 3,69 €. Jetzt verfügbar.",
       "canonical": "https://cannabisblueten.de/product/nice-181-ge",
       "robots": {
         "index": true,
         "follow": true
       },
       "openGraph": {
-        "title": "NICE 18/1 GE - Cansativa",
-        "description": "NICE 18/1 GE von Cansativa. THC: 18%, CBD: 1%. Sorte: Gelatti. Jetzt verfügbar.",
+        "title": "NICE 18/1 GE - Cansativa | ab 3,69 €",
+        "description": "NICE 18/1 GE von Cansativa. THC: 18%, CBD: 1%. Sorte: Gelatti. Preis ab 3,69 €. Jetzt verfügbar.",
         "url": "https://cannabisblueten.de/product/nice-181-ge",
         "type": "product",
         "siteName": "CannabisBlueten.de",
@@ -183,7 +183,21 @@
           "name": "Cansativa"
         },
         "description": "Medizinisches Cannabis Produkt. THC: 18%, CBD: 1%, Genetik: indica",
-        "category": "Medizinisches Cannabis"
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/nice-181-ge",
+          "priceCurrency": "EUR",
+          "price": "3.69",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "3.69",
+            "maxPrice": "3.80",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

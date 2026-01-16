@@ -710,9 +710,9 @@ export function resolvePharmacyPage(
     })
     .slice(0, 5);
 
-  // Get products from inventory
+  // Get ALL products from inventory (for products sub-page)
   const pharmacyInventory = inventory?.get(slug);
-  const products: PharmacyProductItem[] = pharmacyInventory?.products.slice(0, 12).map((p) => ({
+  const products: PharmacyProductItem[] = pharmacyInventory?.products.map((p) => ({
     productName: p.productName,
     price: p.price,
     priceFormatted: formatPrice(p.price),

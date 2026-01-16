@@ -60,14 +60,6 @@
       "inStock": true
     },
     {
-      "slug": "beacon-balanced-11-extrakt",
-      "name": "Beacon Balanced 10:10 Extrakt",
-      "brandName": "Cansativa",
-      "thcPercent": 10,
-      "priceMin": 250,
-      "inStock": true
-    },
-    {
       "slug": "tilray-thc-18-spotlight-porto-pk",
       "name": "Tilray THC 18 Spotlight Porto PK",
       "brandName": "Tilray",
@@ -80,7 +72,7 @@
       "name": "enua 22/1 DB CA",
       "brandName": "enua",
       "thcPercent": 22,
-      "priceMin": 369,
+      "priceMin": 349,
       "inStock": true
     },
     {
@@ -89,6 +81,14 @@
       "brandName": "enua",
       "thcPercent": 20,
       "priceMin": 397,
+      "inStock": true
+    },
+    {
+      "slug": "beacon-balanced-11-extrakt",
+      "name": "Beacon Balanced 10:10 Extrakt",
+      "brandName": "Cansativa",
+      "thcPercent": 10,
+      "priceMin": 420,
       "inStock": true
     },
     {
@@ -208,11 +208,6 @@
         "title": "Alternative: Beacon Cannabisextrakt 10:10"
       },
       {
-        "href": "/product/beacon-balanced-11-extrakt",
-        "text": "Beacon Balanced 10:10 Extrakt",
-        "title": "Alternative: Beacon Balanced 10:10 Extrakt"
-      },
-      {
         "href": "/product/tilray-thc-18-spotlight-porto-pk",
         "text": "Tilray THC 18 Spotlight Porto PK",
         "title": "Alternative: Tilray THC 18 Spotlight Porto PK"
@@ -226,6 +221,11 @@
         "href": "/product/enua-21-db-ca",
         "text": "enua 20/1 DB CA",
         "title": "Alternative: enua 20/1 DB CA"
+      },
+      {
+        "href": "/product/beacon-balanced-11-extrakt",
+        "text": "Beacon Balanced 10:10 Extrakt",
+        "title": "Alternative: Beacon Balanced 10:10 Extrakt"
       },
       {
         "href": "/product/wellford-aquaponic-231-pik",

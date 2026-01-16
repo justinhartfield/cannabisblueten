@@ -88,19 +88,19 @@
       "inStock": true
     },
     {
+      "slug": "pedanios-22-1",
+      "name": "Pedanios 22/1",
+      "brandName": "Aurora",
+      "thcPercent": 22,
+      "priceMin": 595,
+      "inStock": true
+    },
+    {
       "slug": "tilray-craft-thc25-amh",
       "name": "Tilray Craft THC25 AMH",
       "brandName": "Tilray",
       "thcPercent": 25,
       "priceMin": 599,
-      "inStock": true
-    },
-    {
-      "slug": "pedanios-22-1",
-      "name": "Pedanios 22/1",
-      "brandName": "Aurora",
-      "thcPercent": 22,
-      "priceMin": 629,
       "inStock": true
     }
   ],
@@ -223,14 +223,14 @@
         "title": "Alternative: 10/10 Vayamed Cannabisextrakt"
       },
       {
-        "href": "/product/tilray-craft-thc25-amh",
-        "text": "Tilray Craft THC25 AMH",
-        "title": "Alternative: Tilray Craft THC25 AMH"
-      },
-      {
         "href": "/product/pedanios-22-1",
         "text": "Pedanios 22/1",
         "title": "Alternative: Pedanios 22/1"
+      },
+      {
+        "href": "/product/tilray-craft-thc25-amh",
+        "text": "Tilray Craft THC25 AMH",
+        "title": "Alternative: Tilray Craft THC25 AMH"
       }
     ]
   },

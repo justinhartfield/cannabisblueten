@@ -50,7 +50,7 @@
       "slug": "apotheke-zur-alten-post",
       "name": "Cannacompany (Apotheke zur Alten Post)",
       "cityName": "Bonn",
-      "productCount": 233,
+      "productCount": 234,
       "hasDelivery": true
     },
     {
@@ -63,6 +63,26 @@
   ],
   "products": [
     {
+      "productName": "BOTANICS Purple Cream 22/1",
+      "price": 498,
+      "priceFormatted": "4,98 €",
+      "priceCategory": "excellent",
+      "rank": 1,
+      "marketMin": 498,
+      "marketMax": 950,
+      "marketAvg": 699
+    },
+    {
+      "productName": "Nimbus easy 30/1 La Sage",
+      "price": 585,
+      "priceFormatted": "5,85 €",
+      "priceCategory": "excellent",
+      "rank": 1,
+      "marketMin": 585,
+      "marketMax": 1236,
+      "marketAvg": 780
+    },
+    {
       "productName": "NICE 29/1 BL",
       "price": 629,
       "priceFormatted": "6,29 €",
@@ -71,16 +91,6 @@
       "marketMin": 629,
       "marketMax": 684,
       "marketAvg": 643
-    },
-    {
-      "productName": "BOTANICS Purple Cream 22/1",
-      "price": 539,
-      "priceFormatted": "5,39 €",
-      "priceCategory": "excellent",
-      "rank": 3,
-      "marketMin": 499,
-      "marketMax": 950,
-      "marketAvg": 700
     },
     {
       "productName": "Nimbus easy 30/1 FC",
@@ -133,6 +143,26 @@
       "marketAvg": 625
     },
     {
+      "productName": "BOTANICS Golden Ace 24/1",
+      "price": 645,
+      "priceFormatted": "6,45 €",
+      "priceCategory": "excellent",
+      "rank": 16,
+      "marketMin": 619,
+      "marketMax": 875,
+      "marketAvg": 730
+    },
+    {
+      "productName": "ZOIKS 22/1 SF",
+      "price": 459,
+      "priceFormatted": "4,59 €",
+      "priceCategory": "excellent",
+      "rank": 16,
+      "marketMin": 446,
+      "marketMax": 675,
+      "marketAvg": 542
+    },
+    {
       "productName": "IMC BM THC26 Selected",
       "price": 479,
       "priceFormatted": "4,79 €",
@@ -170,7 +200,7 @@
       "rank": 29,
       "marketMin": 820,
       "marketMax": 1600,
-      "marketAvg": 976
+      "marketAvg": 975
     },
     {
       "productName": "Luana 23/1 Donny B",
@@ -181,13 +211,973 @@
       "marketMin": 430,
       "marketMax": 655,
       "marketAvg": 523
+    },
+    {
+      "productName": "Cannamedical Indica Forte DK 24/1 SBK",
+      "price": 699,
+      "priceFormatted": "6,99 €",
+      "priceCategory": "high",
+      "rank": 33,
+      "marketMin": 499,
+      "marketMax": 740,
+      "marketAvg": 690
+    },
+    {
+      "productName": "BOTANICS Tonic Fuel 22/1",
+      "price": 569,
+      "priceFormatted": "5,69 €",
+      "priceCategory": "excellent",
+      "rank": 43,
+      "marketMin": 476,
+      "marketMax": 1049,
+      "marketAvg": 709
+    },
+    {
+      "productName": "Barongo 26/1 FB",
+      "price": 499,
+      "priceFormatted": "4,99 €",
+      "priceCategory": "excellent",
+      "rank": 44,
+      "marketMin": 460,
+      "marketMax": 690,
+      "marketAvg": 559
+    },
+    {
+      "productName": "N!CE 26/1 LC",
+      "price": 649,
+      "priceFormatted": "6,49 €",
+      "priceCategory": "excellent",
+      "rank": 47,
+      "marketMin": 599,
+      "marketMax": 1500,
+      "marketAvg": 821
+    },
+    {
+      "productName": "Weeco Duke 24/1 PR",
+      "price": 468,
+      "priceFormatted": "4,68 €",
+      "priceCategory": "excellent",
+      "rank": 50,
+      "marketMin": 448,
+      "marketMax": 875,
+      "marketAvg": 583
+    },
+    {
+      "productName": "Demecan CRAFT Emerald 27:01",
+      "price": 669,
+      "priceFormatted": "6,69 €",
+      "priceCategory": "average",
+      "rank": 51,
+      "marketMin": 599,
+      "marketMax": 916,
+      "marketAvg": 785
+    },
+    {
+      "productName": "Demecan Craft D-Jungle 28:01",
+      "price": 799,
+      "priceFormatted": "7,99 €",
+      "priceCategory": "average",
+      "rank": 53,
+      "marketMin": 618,
+      "marketMax": 1130,
+      "marketAvg": 856
+    },
+    {
+      "productName": "Demecan Core Saxonia 28:01",
+      "price": 649,
+      "priceFormatted": "6,49 €",
+      "priceCategory": "excellent",
+      "rank": 55,
+      "marketMin": 638,
+      "marketMax": 999,
+      "marketAvg": 760
+    },
+    {
+      "productName": "Barongo 26/1 DR",
+      "price": 582,
+      "priceFormatted": "5,82 €",
+      "priceCategory": "average",
+      "rank": 56,
+      "marketMin": 497,
+      "marketMax": 766,
+      "marketAvg": 613
+    },
+    {
+      "productName": "28/1 AMICI RV",
+      "price": 690,
+      "priceFormatted": "6,90 €",
+      "priceCategory": "average",
+      "rank": 57,
+      "marketMin": 485,
+      "marketMax": 948,
+      "marketAvg": 739
+    },
+    {
+      "productName": "avaay 24/1 MIM",
+      "price": 499,
+      "priceFormatted": "4,99 €",
+      "priceCategory": "excellent",
+      "rank": 58,
+      "marketMin": 445,
+      "marketMax": 891,
+      "marketAvg": 673
+    },
+    {
+      "productName": "NICE 30/1 OZK",
+      "price": 499,
+      "priceFormatted": "4,99 €",
+      "priceCategory": "excellent",
+      "rank": 58,
+      "marketMin": 488,
+      "marketMax": 699,
+      "marketAvg": 574
+    },
+    {
+      "productName": "Canify Cannabis flos 24/1 LS Ku. KS",
+      "price": 599,
+      "priceFormatted": "5,99 €",
+      "priceCategory": "excellent",
+      "rank": 59,
+      "marketMin": 499,
+      "marketMax": 1000,
+      "marketAvg": 719
+    },
+    {
+      "productName": "Peace Naturals 29/1 GC",
+      "price": 599,
+      "priceFormatted": "5,99 €",
+      "priceCategory": "excellent",
+      "rank": 60,
+      "marketMin": 570,
+      "marketMax": 1080,
+      "marketAvg": 667
+    },
+    {
+      "productName": "Origine Nature CHEM 25/1",
+      "price": 590,
+      "priceFormatted": "5,90 €",
+      "priceCategory": "average",
+      "rank": 60,
+      "marketMin": 476,
+      "marketMax": 840,
+      "marketAvg": 666
+    },
+    {
+      "productName": "Avaay 29/1 CP",
+      "price": 779,
+      "priceFormatted": "7,79 €",
+      "priceCategory": "excellent",
+      "rank": 61,
+      "marketMin": 734,
+      "marketMax": 1095,
+      "marketAvg": 868
+    },
+    {
+      "productName": "20/1 Nice LMJ",
+      "price": 479,
+      "priceFormatted": "4,79 €",
+      "priceCategory": "average",
+      "rank": 61,
+      "marketMin": 385,
+      "marketMax": 650,
+      "marketAvg": 499
+    },
+    {
+      "productName": "enua 27/1 JGF",
+      "price": 599,
+      "priceFormatted": "5,99 €",
+      "priceCategory": "average",
+      "rank": 61,
+      "marketMin": 489,
+      "marketMax": 995,
+      "marketAvg": 682
+    },
+    {
+      "productName": "Demecan Craft Electron 31:01",
+      "price": 729,
+      "priceFormatted": "7,29 €",
+      "priceCategory": "average",
+      "rank": 66,
+      "marketMin": 645,
+      "marketMax": 995,
+      "marketAvg": 828
+    },
+    {
+      "productName": "Demecan Strong Drop",
+      "price": 779,
+      "priceFormatted": "7,79 €",
+      "priceCategory": "average",
+      "rank": 66,
+      "marketMin": 643,
+      "marketMax": 859,
+      "marketAvg": 733
+    },
+    {
+      "productName": "Cannamedical Hybrid Classic KA",
+      "price": 399,
+      "priceFormatted": "3,99 €",
+      "priceCategory": "excellent",
+      "rank": 69,
+      "marketMin": 379,
+      "marketMax": 550,
+      "marketAvg": 451
+    },
+    {
+      "productName": "BEACON WP T25",
+      "price": 479,
+      "priceFormatted": "4,79 €",
+      "priceCategory": "average",
+      "rank": 73,
+      "marketMin": 413,
+      "marketMax": 655,
+      "marketAvg": 518
+    },
+    {
+      "productName": "Soma OG 32/1 PF",
+      "price": 779,
+      "priceFormatted": "7,79 €",
+      "priceCategory": "average",
+      "rank": 74,
+      "marketMin": 699,
+      "marketMax": 898,
+      "marketAvg": 784
+    },
+    {
+      "productName": "All Nations LT 21/1",
+      "price": 650,
+      "priceFormatted": "6,50 €",
+      "priceCategory": "excellent",
+      "rank": 77,
+      "marketMin": 605,
+      "marketMax": 920,
+      "marketAvg": 726
+    },
+    {
+      "productName": "DEMECAN Florestura 22:01",
+      "price": 699,
+      "priceFormatted": "6,99 €",
+      "priceCategory": "excellent",
+      "rank": 78,
+      "marketMin": 679,
+      "marketMax": 1428,
+      "marketAvg": 879
+    },
+    {
+      "productName": "Nimbus easy 26/1 FC",
+      "price": 569,
+      "priceFormatted": "5,69 €",
+      "priceCategory": "average",
+      "rank": 79,
+      "marketMin": 495,
+      "marketMax": 790,
+      "marketAvg": 656
+    },
+    {
+      "productName": "TYSON 2.0 28/1",
+      "price": 799,
+      "priceFormatted": "7,99 €",
+      "priceCategory": "excellent",
+      "rank": 81,
+      "marketMin": 730,
+      "marketMax": 1090,
+      "marketAvg": 888
+    },
+    {
+      "productName": "Luana 20/1 Donny B",
+      "price": 439,
+      "priceFormatted": "4,39 €",
+      "priceCategory": "average",
+      "rank": 81,
+      "marketMin": 399,
+      "marketMax": 540,
+      "marketAvg": 453
+    },
+    {
+      "productName": "IMC RWT THC27 Token",
+      "price": 449,
+      "priceFormatted": "4,49 €",
+      "priceCategory": "excellent",
+      "rank": 82,
+      "marketMin": 379,
+      "marketMax": 850,
+      "marketAvg": 553
+    },
+    {
+      "productName": "TYSON 2.0 26/1 TM",
+      "price": 750,
+      "priceFormatted": "7,50 €",
+      "priceCategory": "average",
+      "rank": 85,
+      "marketMin": 664,
+      "marketMax": 999,
+      "marketAvg": 835
+    },
+    {
+      "productName": "WEECO Dragon 26/1",
+      "price": 399,
+      "priceFormatted": "3,99 €",
+      "priceCategory": "excellent",
+      "rank": 85,
+      "marketMin": 375,
+      "marketMax": 649,
+      "marketAvg": 476
+    },
+    {
+      "productName": "Demecan CRAFT Walkie Talkie 31:01",
+      "price": 875,
+      "priceFormatted": "8,75 €",
+      "priceCategory": "average",
+      "rank": 86,
+      "marketMin": 690,
+      "marketMax": 1237,
+      "marketAvg": 953
+    },
+    {
+      "productName": "Huala 22/1 UK CIN",
+      "price": 399,
+      "priceFormatted": "3,99 €",
+      "priceCategory": "excellent",
+      "rank": 87,
+      "marketMin": 335,
+      "marketMax": 695,
+      "marketAvg": 514
+    },
+    {
+      "productName": "Demecan Typ 2 19/1 Orange Velvet",
+      "price": 695,
+      "priceFormatted": "6,95 €",
+      "priceCategory": "average",
+      "rank": 87,
+      "marketMin": 629,
+      "marketMax": 895,
+      "marketAvg": 717
+    },
+    {
+      "productName": "NICE 22/1 GUA",
+      "price": 469,
+      "priceFormatted": "4,69 €",
+      "priceCategory": "average",
+      "rank": 90,
+      "marketMin": 379,
+      "marketMax": 650,
+      "marketAvg": 497
+    },
+    {
+      "productName": "Amici 24/1 BH",
+      "price": 579,
+      "priceFormatted": "5,79 €",
+      "priceCategory": "excellent",
+      "rank": 91,
+      "marketMin": 557,
+      "marketMax": 829,
+      "marketAvg": 647
+    },
+    {
+      "productName": "Demecan CRAFT FCF 28/01",
+      "price": 899,
+      "priceFormatted": "8,99 €",
+      "priceCategory": "excellent",
+      "rank": 93,
+      "marketMin": 799,
+      "marketMax": 1571,
+      "marketAvg": 976
+    },
+    {
+      "productName": "Demecan CRAFT Pulso 31:01",
+      "price": 865,
+      "priceFormatted": "8,65 €",
+      "priceCategory": "excellent",
+      "rank": 94,
+      "marketMin": 780,
+      "marketMax": 1452,
+      "marketAvg": 944
+    },
+    {
+      "productName": "Demecan PG Epic Drop 30:1",
+      "price": 799,
+      "priceFormatted": "7,99 €",
+      "priceCategory": "excellent",
+      "rank": 94,
+      "marketMin": 770,
+      "marketMax": 990,
+      "marketAvg": 876
+    },
+    {
+      "productName": "Pedanios 22/1",
+      "price": 650,
+      "priceFormatted": "6,50 €",
+      "priceCategory": "excellent",
+      "rank": 96,
+      "marketMin": 590,
+      "marketMax": 1902,
+      "marketAvg": 856
+    },
+    {
+      "productName": "IMC TR7 THC25",
+      "price": 529,
+      "priceFormatted": "5,29 €",
+      "priceCategory": "excellent",
+      "rank": 99,
+      "marketMin": 497,
+      "marketMax": 890,
+      "marketAvg": 600
+    },
+    {
+      "productName": "Demecan Craft Rocket 28:01 Pave x Gastro Pop",
+      "price": 699,
+      "priceFormatted": "6,99 €",
+      "priceCategory": "excellent",
+      "rank": 109,
+      "marketMin": 630,
+      "marketMax": 1090,
+      "marketAvg": 814
+    },
+    {
+      "productName": "IMC CCS THC25  Token",
+      "price": 449,
+      "priceFormatted": "4,49 €",
+      "priceCategory": "excellent",
+      "rank": 115,
+      "marketMin": 379,
+      "marketMax": 800,
+      "marketAvg": 474
+    },
+    {
+      "productName": "enua 27/1 CCK CA",
+      "price": 639,
+      "priceFormatted": "6,39 €",
+      "priceCategory": "average",
+      "rank": 131,
+      "marketMin": 589,
+      "marketMax": 799,
+      "marketAvg": 697
+    },
+    {
+      "productName": "LOT 420 OC",
+      "price": 779,
+      "priceFormatted": "7,79 €",
+      "priceCategory": "excellent",
+      "rank": 132,
+      "marketMin": 745,
+      "marketMax": 1131,
+      "marketAvg": 880
+    },
+    {
+      "productName": "Cannamedical CM 24/1 OG Kush",
+      "price": 599,
+      "priceFormatted": "5,99 €",
+      "priceCategory": "excellent",
+      "rank": 134,
+      "marketMin": 495,
+      "marketMax": 1050,
+      "marketAvg": 665
+    },
+    {
+      "productName": "avaay Signature 31/1 OGC",
+      "price": 888,
+      "priceFormatted": "8,88 €",
+      "priceCategory": "average",
+      "rank": 138,
+      "marketMin": 784,
+      "marketMax": 1200,
+      "marketAvg": 972
+    },
+    {
+      "productName": "Demecan Core Golden Horizon 31:01",
+      "price": 699,
+      "priceFormatted": "6,99 €",
+      "priceCategory": "excellent",
+      "rank": 140,
+      "marketMin": 645,
+      "marketMax": 995,
+      "marketAvg": 807
+    },
+    {
+      "productName": "Pedanios 27/1 FRG-CA",
+      "price": 549,
+      "priceFormatted": "5,49 €",
+      "priceCategory": "excellent",
+      "rank": 142,
+      "marketMin": 497,
+      "marketMax": 1316,
+      "marketAvg": 701
+    },
+    {
+      "productName": "Demecan Core Lume 26:01",
+      "price": 599,
+      "priceFormatted": "5,99 €",
+      "priceCategory": "excellent",
+      "rank": 144,
+      "marketMin": 529,
+      "marketMax": 998,
+      "marketAvg": 684
+    },
+    {
+      "productName": "IMC THC27/1 T04",
+      "price": 539,
+      "priceFormatted": "5,39 €",
+      "priceCategory": "excellent",
+      "rank": 149,
+      "marketMin": 489,
+      "marketMax": 900,
+      "marketAvg": 614
+    },
+    {
+      "productName": "Cannamedical CM 24/1 BRY",
+      "price": 599,
+      "priceFormatted": "5,99 €",
+      "priceCategory": "average",
+      "rank": 150,
+      "marketMin": 399,
+      "marketMax": 1195,
+      "marketAvg": 660
+    },
+    {
+      "productName": "Organic Sweetgrass JJ 25/1",
+      "price": 599,
+      "priceFormatted": "5,99 €",
+      "priceCategory": "excellent",
+      "rank": 150,
+      "marketMin": 579,
+      "marketMax": 799,
+      "marketAvg": 676
+    },
+    {
+      "productName": "NICE 29/1 MOS",
+      "price": 479,
+      "priceFormatted": "4,79 €",
+      "priceCategory": "excellent",
+      "rank": 151,
+      "marketMin": 407,
+      "marketMax": 883,
+      "marketAvg": 559
+    },
+    {
+      "productName": "Adrex 30 Dank Craft UC CAN",
+      "price": 599,
+      "priceFormatted": "5,99 €",
+      "priceCategory": "average",
+      "rank": 152,
+      "marketMin": 499,
+      "marketMax": 795,
+      "marketAvg": 635
+    },
+    {
+      "productName": "Pedanios 29/1 SRD-CA",
+      "price": 639,
+      "priceFormatted": "6,39 €",
+      "priceCategory": "excellent",
+      "rank": 155,
+      "marketMin": 596,
+      "marketMax": 1316,
+      "marketAvg": 789
+    },
+    {
+      "productName": "Pedanios 31/1 COS-CA",
+      "price": 739,
+      "priceFormatted": "7,39 €",
+      "priceCategory": "excellent",
+      "rank": 178,
+      "marketMin": 679,
+      "marketMax": 2140,
+      "marketAvg": 910
+    },
+    {
+      "productName": "NICE 23/1 GCC",
+      "price": 449,
+      "priceFormatted": "4,49 €",
+      "priceCategory": "average",
+      "rank": 183,
+      "marketMin": 377,
+      "marketMax": 640,
+      "marketAvg": 498
+    },
+    {
+      "productName": "Beacon PK T22",
+      "price": 449,
+      "priceFormatted": "4,49 €",
+      "priceCategory": "excellent",
+      "rank": 191,
+      "marketMin": 392,
+      "marketMax": 850,
+      "marketAvg": 524
+    },
+    {
+      "productName": "All Nations GM 25/1 MD",
+      "price": 595,
+      "priceFormatted": "5,95 €",
+      "priceCategory": "average",
+      "rank": 193,
+      "marketMin": 453,
+      "marketMax": 920,
+      "marketAvg": 638
+    },
+    {
+      "productName": "Vasco PR 21/1",
+      "price": 669,
+      "priceFormatted": "6,69 €",
+      "priceCategory": "average",
+      "rank": 193,
+      "marketMin": 550,
+      "marketMax": 990,
+      "marketAvg": 728
+    },
+    {
+      "productName": "enua 25/1 BDO (Black Dolato)",
+      "price": 599,
+      "priceFormatted": "5,99 €",
+      "priceCategory": "average",
+      "rank": 193,
+      "marketMin": 427,
+      "marketMax": 799,
+      "marketAvg": 622
+    },
+    {
+      "productName": "ZOIKS 22/1 TG",
+      "price": 495,
+      "priceFormatted": "4,95 €",
+      "priceCategory": "average",
+      "rank": 197,
+      "marketMin": 380,
+      "marketMax": 689,
+      "marketAvg": 524
+    },
+    {
+      "productName": "NICE 30/1 MS",
+      "price": 499,
+      "priceFormatted": "4,99 €",
+      "priceCategory": "average",
+      "rank": 203,
+      "marketMin": 459,
+      "marketMax": 635,
+      "marketAvg": 528
+    },
+    {
+      "productName": "Organic Sweetgrass MCC 21/1",
+      "price": 499,
+      "priceFormatted": "4,99 €",
+      "priceCategory": "average",
+      "rank": 210,
+      "marketMin": 447,
+      "marketMax": 699,
+      "marketAvg": 547
+    },
+    {
+      "productName": "Cannamedical Indica forte EJ",
+      "price": 949,
+      "priceFormatted": "9,49 €",
+      "priceCategory": "average",
+      "rank": 211,
+      "marketMin": 599,
+      "marketMax": 1890,
+      "marketAvg": 1083
+    },
+    {
+      "productName": "Cannamedical Indica Ultra AU EJ",
+      "price": 1049,
+      "priceFormatted": "10,49 €",
+      "priceCategory": "average",
+      "rank": 213,
+      "marketMin": 650,
+      "marketMax": 1250,
+      "marketAvg": 1027
+    },
+    {
+      "productName": "TRUU HS 21/01",
+      "price": 464,
+      "priceFormatted": "4,64 €",
+      "priceCategory": "average",
+      "rank": 216,
+      "marketMin": 398,
+      "marketMax": 665,
+      "marketAvg": 505
+    },
+    {
+      "productName": "Cannamedical Indica classic ZAF",
+      "price": 529,
+      "priceFormatted": "5,29 €",
+      "priceCategory": "average",
+      "rank": 217,
+      "marketMin": 399,
+      "marketMax": 780,
+      "marketAvg": 578
+    },
+    {
+      "productName": "HiSociety 27/1",
+      "price": 529,
+      "priceFormatted": "5,29 €",
+      "priceCategory": "average",
+      "rank": 218,
+      "marketMin": 399,
+      "marketMax": 750,
+      "marketAvg": 590
+    },
+    {
+      "productName": "J.R. Strain GP 28/1",
+      "price": 679,
+      "priceFormatted": "6,79 €",
+      "priceCategory": "average",
+      "rank": 225,
+      "marketMin": 599,
+      "marketMax": 899,
+      "marketAvg": 740
+    },
+    {
+      "productName": "Peace Naturals 33/1 SL",
+      "price": 649,
+      "priceFormatted": "6,49 €",
+      "priceCategory": "excellent",
+      "rank": 226,
+      "marketMin": 576,
+      "marketMax": 1711,
+      "marketAvg": 804
+    },
+    {
+      "productName": "Pedanios 27/1 BLY-CA",
+      "price": 665,
+      "priceFormatted": "6,65 €",
+      "priceCategory": "excellent",
+      "rank": 248,
+      "marketMin": 600,
+      "marketMax": 1430,
+      "marketAvg": 806
+    },
+    {
+      "productName": "Luana 25/1 Donny B",
+      "price": 499,
+      "priceFormatted": "4,99 €",
+      "priceCategory": "average",
+      "rank": 248,
+      "marketMin": 440,
+      "marketMax": 670,
+      "marketAvg": 538
+    },
+    {
+      "productName": "NICE 26/1 VC",
+      "price": 469,
+      "priceFormatted": "4,69 €",
+      "priceCategory": "average",
+      "rank": 253,
+      "marketMin": 375,
+      "marketMax": 600,
+      "marketAvg": 485
+    },
+    {
+      "productName": "Luana Electric 24/1",
+      "price": 499,
+      "priceFormatted": "4,99 €",
+      "priceCategory": "average",
+      "rank": 258,
+      "marketMin": 417,
+      "marketMax": 670,
+      "marketAvg": 521
+    },
+    {
+      "productName": "ZOIKS 22/1 SR",
+      "price": 479,
+      "priceFormatted": "4,79 €",
+      "priceCategory": "average",
+      "rank": 280,
+      "marketMin": 377,
+      "marketMax": 689,
+      "marketAvg": 537
+    },
+    {
+      "productName": "Cannamedical Sativa forte NM WT",
+      "price": 835,
+      "priceFormatted": "8,35 €",
+      "priceCategory": "excellent",
+      "rank": 285,
+      "marketMin": 778,
+      "marketMax": 1547,
+      "marketAvg": 943
+    },
+    {
+      "productName": "Demecan Craft Cali 29:01",
+      "price": 899,
+      "priceFormatted": "8,99 €",
+      "priceCategory": "average",
+      "rank": 286,
+      "marketMin": 799,
+      "marketMax": 1150,
+      "marketAvg": 937
+    },
+    {
+      "productName": "avaay Signature 31/1 GOG Gossip Gun",
+      "price": 889,
+      "priceFormatted": "8,89 €",
+      "priceCategory": "excellent",
+      "rank": 296,
+      "marketMin": 797,
+      "marketMax": 1295,
+      "marketAvg": 958
+    },
+    {
+      "productName": "NICE 18/1 MM",
+      "price": 399,
+      "priceFormatted": "3,99 €",
+      "priceCategory": "average",
+      "rank": 301,
+      "marketMin": 310,
+      "marketMax": 550,
+      "marketAvg": 427
+    },
+    {
+      "productName": "420 Evolution 22/1 CA MAC",
+      "price": 699,
+      "priceFormatted": "6,99 €",
+      "priceCategory": "average",
+      "rank": 329,
+      "marketMin": 420,
+      "marketMax": 899,
+      "marketAvg": 674
+    },
+    {
+      "productName": "Cannamedical Sativa Forte NM AA",
+      "price": 899,
+      "priceFormatted": "8,99 €",
+      "priceCategory": "excellent",
+      "rank": 336,
+      "marketMin": 838,
+      "marketMax": 1295,
+      "marketAvg": 932
+    },
+    {
+      "productName": "IMC MK THC27 Token",
+      "price": 499,
+      "priceFormatted": "4,99 €",
+      "priceCategory": "average",
+      "rank": 346,
+      "marketMin": 309,
+      "marketMax": 799,
+      "marketAvg": 491
+    },
+    {
+      "productName": "ZOIKS 26/1 BB",
+      "price": 519,
+      "priceFormatted": "5,19 €",
+      "priceCategory": "excellent",
+      "rank": 386,
+      "marketMin": 455,
+      "marketMax": 968,
+      "marketAvg": 592
+    },
+    {
+      "productName": "AVAAY 29/1 SCP",
+      "price": 819,
+      "priceFormatted": "8,19 €",
+      "priceCategory": "excellent",
+      "rank": 388,
+      "marketMin": 734,
+      "marketMax": 1195,
+      "marketAvg": 885
+    },
+    {
+      "productName": "Cannamedical Sativa Ultra NM",
+      "price": 769,
+      "priceFormatted": "7,69 €",
+      "priceCategory": "excellent",
+      "rank": 393,
+      "marketMin": 699,
+      "marketMax": 1665,
+      "marketAvg": 890
+    },
+    {
+      "productName": "420 Compound 27/1 CA GAP",
+      "price": 779,
+      "priceFormatted": "7,79 €",
+      "priceCategory": "average",
+      "rank": 403,
+      "marketMin": 629,
+      "marketMax": 995,
+      "marketAvg": 813
+    },
+    {
+      "productName": "Pedanios 26/1 EHD-CA",
+      "price": 579,
+      "priceFormatted": "5,79 €",
+      "priceCategory": "excellent",
+      "rank": 482,
+      "marketMin": 476,
+      "marketMax": 1309,
+      "marketAvg": 682
+    },
+    {
+      "productName": "Demecan CRAFT Walkie Talkie 27:01",
+      "price": 729,
+      "priceFormatted": "7,29 €",
+      "priceCategory": "average",
+      "rank": 494,
+      "marketMin": 597,
+      "marketMax": 1237,
+      "marketAvg": 812
+    },
+    {
+      "productName": "TRUU GT 30:01 Cookies OG",
+      "price": 599,
+      "priceFormatted": "5,99 €",
+      "priceCategory": "average",
+      "rank": 530,
+      "marketMin": 485,
+      "marketMax": 950,
+      "marketAvg": 633
+    },
+    {
+      "productName": "NICE 26/1 PJ",
+      "price": 588,
+      "priceFormatted": "5,88 €",
+      "priceCategory": "average",
+      "rank": 560,
+      "marketMin": 399,
+      "marketMax": 690,
+      "marketAvg": 524
+    },
+    {
+      "productName": "enua 22/1 CA JFG",
+      "price": 499,
+      "priceFormatted": "4,99 €",
+      "priceCategory": "average",
+      "rank": 590,
+      "marketMin": 368,
+      "marketMax": 899,
+      "marketAvg": 551
+    },
+    {
+      "productName": "avaay 31/1 SCG",
+      "price": 899,
+      "priceFormatted": "8,99 €",
+      "priceCategory": "average",
+      "rank": 737,
+      "marketMin": 785,
+      "marketMax": 1245,
+      "marketAvg": 926
+    },
+    {
+      "productName": "enua 22/1 BCP CA",
+      "price": 520,
+      "priceFormatted": "5,20 €",
+      "priceCategory": "average",
+      "rank": 808,
+      "marketMin": 334,
+      "marketMax": 999,
+      "marketAvg": 553
+    },
+    {
+      "productName": "ZOIKS 26/1 TG",
+      "price": 549,
+      "priceFormatted": "5,49 €",
+      "priceCategory": "average",
+      "rank": 873,
+      "marketMin": 423,
+      "marketMax": 790,
+      "marketAvg": 581
     }
   ],
   "pricingStats": {
-    "avgPrice": 621,
+    "avgPrice": 616,
     "minPrice": 399,
     "maxPrice": 1049,
-    "excellentCount": 59,
+    "excellentCount": 60,
     "goodCount": 0
   },
   "seo": {

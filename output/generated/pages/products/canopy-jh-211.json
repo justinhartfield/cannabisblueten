@@ -76,14 +76,6 @@
       "inStock": true
     },
     {
-      "slug": "cannabisextrakt-avextra-25",
-      "name": "Cannabisextrakt Avextra 25",
-      "brandName": "Avextra",
-      "thcPercent": 2.5,
-      "priceMin": 357,
-      "inStock": true
-    },
-    {
       "slug": "tilray-cannabisextrakt-thc1cbd1",
       "name": "Tilray Cannabisextrakt THC10:CBD10",
       "brandName": "Tilray",
@@ -97,6 +89,14 @@
       "brandName": "Demecan",
       "thcPercent": 16,
       "priceMin": 533,
+      "inStock": true
+    },
+    {
+      "slug": "cannabisextrakt-avextra-25",
+      "name": "Cannabisextrakt Avextra 25",
+      "brandName": "Avextra",
+      "thcPercent": 2.5,
+      "priceMin": 550,
       "inStock": true
     }
   ],
@@ -217,11 +217,6 @@
         "title": "Alternative: Tilray Cannabisextrakt THC5:CBD20"
       },
       {
-        "href": "/product/cannabisextrakt-avextra-25",
-        "text": "Cannabisextrakt Avextra 25",
-        "title": "Alternative: Cannabisextrakt Avextra 25"
-      },
-      {
         "href": "/product/tilray-cannabisextrakt-thc1cbd1",
         "text": "Tilray Cannabisextrakt THC10:CBD10",
         "title": "Alternative: Tilray Cannabisextrakt THC10:CBD10"
@@ -230,6 +225,11 @@
         "href": "/product/demecan-typ-2",
         "text": "Demecan Typ 2",
         "title": "Alternative: Demecan Typ 2"
+      },
+      {
+        "href": "/product/cannabisextrakt-avextra-25",
+        "text": "Cannabisextrakt Avextra 25",
+        "title": "Alternative: Cannabisextrakt Avextra 25"
       }
     ]
   },

@@ -71,16 +71,6 @@
       "genetics": null
     },
     {
-      "slug": "beacon-balanced-11-extrakt",
-      "name": "Beacon Balanced 10:10 Extrakt",
-      "brandName": "Cansativa",
-      "strainName": "Pink Kush",
-      "thcPercent": 10,
-      "priceMin": 250,
-      "inStock": true,
-      "genetics": "hybrid"
-    },
-    {
       "slug": "imc-cannabisextrakt-1010",
       "name": "IMC Cannabisextrakt 10/10",
       "brandName": "IMC",
@@ -341,16 +331,6 @@
       "genetics": "indica"
     },
     {
-      "slug": "cannabisextrakt-avextra-25",
-      "name": "Cannabisextrakt Avextra 25",
-      "brandName": "Avextra",
-      "strainName": "Jack Haze",
-      "thcPercent": 2.5,
-      "priceMin": 357,
-      "inStock": true,
-      "genetics": "hybrid"
-    },
-    {
       "slug": "cks-cannabisextrakt-aundb-251",
       "name": "CKS Cannabisextrakt A&B 25:1",
       "brandName": "Somai Pharmaceuticals",
@@ -437,6 +417,16 @@
       "strainName": "M Runtz",
       "thcPercent": 5,
       "priceMin": 417,
+      "inStock": true,
+      "genetics": "hybrid"
+    },
+    {
+      "slug": "beacon-balanced-11-extrakt",
+      "name": "Beacon Balanced 10:10 Extrakt",
+      "brandName": "Cansativa",
+      "strainName": "Pink Kush",
+      "thcPercent": 10,
+      "priceMin": 420,
       "inStock": true,
       "genetics": "hybrid"
     },
@@ -686,6 +676,16 @@
       "brandName": "Grünhorn",
       "strainName": null,
       "thcPercent": 25,
+      "priceMin": 550,
+      "inStock": true,
+      "genetics": "hybrid"
+    },
+    {
+      "slug": "cannabisextrakt-avextra-25",
+      "name": "Cannabisextrakt Avextra 25",
+      "brandName": "Avextra",
+      "strainName": "Jack Haze",
+      "thcPercent": 2.5,
       "priceMin": 550,
       "inStock": true,
       "genetics": "hybrid"
@@ -1174,92 +1174,92 @@
           {
             "@type": "ListItem",
             "position": 6,
-            "url": "https://cannabisblueten.de/product/beacon-balanced-11-extrakt",
-            "name": "Beacon Balanced 10:10 Extrakt"
-          },
-          {
-            "@type": "ListItem",
-            "position": 7,
             "url": "https://cannabisblueten.de/product/imc-cannabisextrakt-1010",
             "name": "IMC Cannabisextrakt 10/10"
           },
           {
             "@type": "ListItem",
-            "position": 8,
+            "position": 7,
             "url": "https://cannabisblueten.de/product/somai-cannabisextrakt-mint-251",
             "name": "Somai Cannabisextrakt Mint 25/1"
           },
           {
             "@type": "ListItem",
-            "position": 9,
+            "position": 8,
             "url": "https://cannabisblueten.de/product/somai-cannabisextrakt-hybrid-1010",
             "name": "SOMAI Cannabisextrakt Hybrid 10:10"
           },
           {
             "@type": "ListItem",
-            "position": 10,
+            "position": 9,
             "url": "https://cannabisblueten.de/product/42-cannabisextrakt-thc-2-cbd",
             "name": "420 Cannabisextrakt THC 20 / CBD 0"
           },
           {
             "@type": "ListItem",
-            "position": 11,
+            "position": 10,
             "url": "https://cannabisblueten.de/product/somai-cannabisextrakt-senses-guave-251",
             "name": "Somai Cannabisextrakt Senses Guave 25:1"
           },
           {
             "@type": "ListItem",
-            "position": 12,
+            "position": 11,
             "url": "https://cannabisblueten.de/product/somai-cannabisextrakt-senses-mango-251",
             "name": "Somai Cannabisextrakt Senses Mango 25:1"
           },
           {
             "@type": "ListItem",
-            "position": 13,
+            "position": 12,
             "url": "https://cannabisblueten.de/product/somai-cannabisextrakt-senses-zitrone-251",
             "name": "Somai Cannabisextrakt Senses Zitrone 25:1"
           },
           {
             "@type": "ListItem",
-            "position": 14,
+            "position": 13,
             "url": "https://cannabisblueten.de/product/somai-cannabisextrakt-hybrid-251",
             "name": "SOMAI Cannabisextrakt Hybrid 25:1"
           },
           {
             "@type": "ListItem",
-            "position": 15,
+            "position": 14,
             "url": "https://cannabisblueten.de/product/avextra-1010",
             "name": "Avextra 10/10"
           },
           {
             "@type": "ListItem",
-            "position": 16,
+            "position": 15,
             "url": "https://cannabisblueten.de/product/somai-canify-cannabisextrakt-25-1",
             "name": "Somai Canify Cannabisextrakt 25:1"
           },
           {
             "@type": "ListItem",
-            "position": 17,
+            "position": 16,
             "url": "https://cannabisblueten.de/product/drapalin-125125",
             "name": "Drapalin 12.5/12.5 Cannabisextrakt"
           },
           {
             "@type": "ListItem",
-            "position": 18,
+            "position": 17,
             "url": "https://cannabisblueten.de/product/somai-canify-cannabisextrakt-1010",
             "name": "Somai Canify Cannabisextrakt 10:10"
           },
           {
             "@type": "ListItem",
-            "position": 19,
+            "position": 18,
             "url": "https://cannabisblueten.de/product/somai-cannabisextrakt-mint-1010",
             "name": "Somai Cannabisextrakt Mint 10:10"
           },
           {
             "@type": "ListItem",
-            "position": 20,
+            "position": 19,
             "url": "https://cannabisblueten.de/product/42-cannabisextrakt-thc-1-cbd-1",
             "name": "420 Cannabisextrakt THC 10 / CBD 10"
+          },
+          {
+            "@type": "ListItem",
+            "position": 20,
+            "url": "https://cannabisblueten.de/product/wvb-biocbd-5prozent-cannabidiol-isolat-oel-tropfen",
+            "name": "WVB BioCBD 5% Cannabidiol-Isolat Öl Tropfen"
           }
         ]
       }
@@ -1291,11 +1291,6 @@
         "href": "/product/cannabisextrakt-avextra-2525",
         "text": "Cannabisextrakt Avextra 25/25",
         "title": "Cannabisextrakt Avextra 25/25 von Avextra"
-      },
-      {
-        "href": "/product/beacon-balanced-11-extrakt",
-        "text": "Beacon Balanced 10:10 Extrakt",
-        "title": "Beacon Balanced 10:10 Extrakt von Cansativa"
       },
       {
         "href": "/product/imc-cannabisextrakt-1010",
@@ -1366,6 +1361,11 @@
         "href": "/product/42-cannabisextrakt-thc-1-cbd-1",
         "text": "420 Cannabisextrakt THC 10 / CBD 10",
         "title": "420 Cannabisextrakt THC 10 / CBD 10 von Four 20 Pharma"
+      },
+      {
+        "href": "/product/wvb-biocbd-5prozent-cannabidiol-isolat-oel-tropfen",
+        "text": "WVB BioCBD 5% Cannabidiol-Isolat Öl Tropfen",
+        "title": "WVB BioCBD 5% Cannabidiol-Isolat Öl Tropfen von Wehling von Buttlar GmbH"
       }
     ],
     "brands": [

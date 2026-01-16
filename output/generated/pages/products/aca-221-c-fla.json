@@ -7,7 +7,7 @@
     "thcPercent": 22,
     "cbdPercent": 1,
     "priceMin": 599,
-    "priceMax": 695,
+    "priceMax": 599,
     "inStock": true,
     "pzn": [],
     "originCountry": "Dänemark",
@@ -179,13 +179,7 @@
           "priceCurrency": "EUR",
           "price": "5.99",
           "availability": "https://schema.org/InStock",
-          "itemCondition": "https://schema.org/NewCondition",
-          "priceSpecification": {
-            "@type": "PriceSpecification",
-            "minPrice": "5.99",
-            "maxPrice": "6.95",
-            "priceCurrency": "EUR"
-          }
+          "itemCondition": "https://schema.org/NewCondition"
         }
       }
     ]

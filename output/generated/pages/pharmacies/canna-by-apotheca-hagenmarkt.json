@@ -43,7 +43,7 @@
       "slug": "happy-cannamed",
       "name": "Marien Apotheke",
       "cityName": "Cloppenburg",
-      "productCount": 60,
+      "productCount": 62,
       "hasDelivery": true
     },
     {
@@ -77,7 +77,7 @@
       "price": 595,
       "priceFormatted": "5,95 €",
       "priceCategory": "excellent",
-      "rank": 90,
+      "rank": 91,
       "marketMin": 499,
       "marketMax": 1049,
       "marketAvg": 677
@@ -88,16 +88,16 @@
       "priceFormatted": "6,30 €",
       "priceCategory": "average",
       "rank": 133,
-      "marketMin": 499,
+      "marketMin": 498,
       "marketMax": 950,
-      "marketAvg": 700
+      "marketAvg": 699
     },
     {
       "productName": "NICE 23/1 GCC",
       "price": 449,
       "priceFormatted": "4,49 €",
       "priceCategory": "average",
-      "rank": 182,
+      "rank": 183,
       "marketMin": 377,
       "marketMax": 640,
       "marketAvg": 498
@@ -117,7 +117,7 @@
       "price": 619,
       "priceFormatted": "6,19 €",
       "priceCategory": "average",
-      "rank": 186,
+      "rank": 188,
       "marketMin": 538,
       "marketMax": 795,
       "marketAvg": 638
@@ -127,7 +127,7 @@
       "price": 835,
       "priceFormatted": "8,35 €",
       "priceCategory": "excellent",
-      "rank": 252,
+      "rank": 253,
       "marketMin": 785,
       "marketMax": 1245,
       "marketAvg": 926
@@ -160,15 +160,15 @@
       "rank": 387,
       "marketMin": 549,
       "marketMax": 999,
-      "marketAvg": 699
+      "marketAvg": 698
     },
     {
       "productName": "enua 22/1 DB CA",
       "price": 459,
       "priceFormatted": "4,59 €",
-      "priceCategory": "excellent",
+      "priceCategory": "average",
       "rank": 409,
-      "marketMin": 368,
+      "marketMin": 349,
       "marketMax": 890,
       "marketAvg": 519
     },
@@ -177,17 +177,27 @@
       "price": 499,
       "priceFormatted": "4,99 €",
       "priceCategory": "average",
-      "rank": 450,
+      "rank": 449,
       "marketMin": 370,
       "marketMax": 675,
       "marketAvg": 517
+    },
+    {
+      "productName": "enua 22/1 BCP CA",
+      "price": 499,
+      "priceFormatted": "4,99 €",
+      "priceCategory": "average",
+      "rank": 651,
+      "marketMin": 334,
+      "marketMax": 999,
+      "marketAvg": 553
     }
   ],
   "pricingStats": {
     "avgPrice": 595,
     "minPrice": 449,
     "maxPrice": 835,
-    "excellentCount": 5,
+    "excellentCount": 4,
     "goodCount": 0
   },
   "seo": {

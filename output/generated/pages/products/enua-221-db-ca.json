@@ -6,7 +6,7 @@
     "genetics": "hybrid_indica",
     "thcPercent": 22,
     "cbdPercent": 1,
-    "priceMin": 369,
+    "priceMin": 349,
     "priceMax": 890,
     "inStock": true,
     "pzn": null,
@@ -60,14 +60,6 @@
       "inStock": true
     },
     {
-      "slug": "beacon-balanced-11-extrakt",
-      "name": "Beacon Balanced 10:10 Extrakt",
-      "brandName": "Cansativa",
-      "thcPercent": 10,
-      "priceMin": 250,
-      "inStock": true
-    },
-    {
       "slug": "tilray-thc-18-spotlight-porto-pk",
       "name": "Tilray THC 18 Spotlight Porto PK",
       "brandName": "Tilray",
@@ -92,6 +84,14 @@
       "inStock": true
     },
     {
+      "slug": "beacon-balanced-11-extrakt",
+      "name": "Beacon Balanced 10:10 Extrakt",
+      "brandName": "Cansativa",
+      "thcPercent": 10,
+      "priceMin": 420,
+      "inStock": true
+    },
+    {
       "slug": "wellford-aquaponic-231-pik",
       "name": "Wellford Aquaponic 23/1 PIK",
       "brandName": "Therismos",
@@ -102,16 +102,16 @@
   ],
   "seo": {
     "meta": {
-      "title": "enua 22/1 DB CA | ab 3,69 €",
-      "description": "enua 22/1 DB CA von enua. THC: 22%, CBD: 1%. Sorte: Pink Kush. Preis ab 3,69 €. Jetzt verfügbar.",
+      "title": "enua 22/1 DB CA | ab 3,49 €",
+      "description": "enua 22/1 DB CA von enua. THC: 22%, CBD: 1%. Sorte: Pink Kush. Preis ab 3,49 €. Jetzt verfügbar.",
       "canonical": "https://cannabisblueten.de/product/enua-221-db-ca",
       "robots": {
         "index": true,
         "follow": true
       },
       "openGraph": {
-        "title": "enua 22/1 DB CA | ab 3,69 €",
-        "description": "enua 22/1 DB CA von enua. THC: 22%, CBD: 1%. Sorte: Pink Kush. Preis ab 3,69 €. Jetzt verfügbar.",
+        "title": "enua 22/1 DB CA | ab 3,49 €",
+        "description": "enua 22/1 DB CA von enua. THC: 22%, CBD: 1%. Sorte: Pink Kush. Preis ab 3,49 €. Jetzt verfügbar.",
         "url": "https://cannabisblueten.de/product/enua-221-db-ca",
         "type": "product",
         "siteName": "CannabisBlueten.de",
@@ -177,12 +177,12 @@
           "@type": "Offer",
           "url": "https://cannabisblueten.de/product/enua-221-db-ca",
           "priceCurrency": "EUR",
-          "price": "3.69",
+          "price": "3.49",
           "availability": "https://schema.org/InStock",
           "itemCondition": "https://schema.org/NewCondition",
           "priceSpecification": {
             "@type": "PriceSpecification",
-            "minPrice": "3.69",
+            "minPrice": "3.49",
             "maxPrice": "8.90",
             "priceCurrency": "EUR"
           }
@@ -208,11 +208,6 @@
         "title": "Alternative: Beacon Cannabisextrakt 10:10"
       },
       {
-        "href": "/product/beacon-balanced-11-extrakt",
-        "text": "Beacon Balanced 10:10 Extrakt",
-        "title": "Alternative: Beacon Balanced 10:10 Extrakt"
-      },
-      {
         "href": "/product/tilray-thc-18-spotlight-porto-pk",
         "text": "Tilray THC 18 Spotlight Porto PK",
         "title": "Alternative: Tilray THC 18 Spotlight Porto PK"
@@ -226,6 +221,11 @@
         "href": "/product/canify-cannabis-flos-231-pt-ku-pk",
         "text": "Canify Cannabis flos 23/1 PT Ku. PK",
         "title": "Alternative: Canify Cannabis flos 23/1 PT Ku. PK"
+      },
+      {
+        "href": "/product/beacon-balanced-11-extrakt",
+        "text": "Beacon Balanced 10:10 Extrakt",
+        "title": "Alternative: Beacon Balanced 10:10 Extrakt"
       },
       {
         "href": "/product/wellford-aquaponic-231-pik",

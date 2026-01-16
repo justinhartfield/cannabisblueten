@@ -43,14 +43,14 @@
       "slug": "merkur-apotheke-schneeberg",
       "name": "ErzCannabis - Merkur Apotheke Schneeberg",
       "cityName": "Schneeberg",
-      "productCount": 50,
+      "productCount": 46,
       "hasDelivery": true
     },
     {
       "slug": "medicalherbs-vital-apotheke-dresden",
       "name": "medicalherbs.de - Vital Apotheke Dresden",
       "cityName": "Dresden",
-      "productCount": 39,
+      "productCount": 40,
       "hasDelivery": true
     },
     {
@@ -80,7 +80,7 @@
       "rank": 1,
       "marketMin": 820,
       "marketMax": 1600,
-      "marketAvg": 976
+      "marketAvg": 975
     },
     {
       "productName": "GrowMotion TJ27",
@@ -101,6 +101,16 @@
       "marketMin": 599,
       "marketMax": 800,
       "marketAvg": 722
+    },
+    {
+      "productName": "Pedanios 31/1 COS-CA",
+      "price": 719,
+      "priceFormatted": "7,19 €",
+      "priceCategory": "excellent",
+      "rank": 33,
+      "marketMin": 679,
+      "marketMax": 2140,
+      "marketAvg": 910
     },
     {
       "productName": "Cannamedical Hybrid Classic BC MAC 3",
@@ -167,10 +177,10 @@
       "price": 749,
       "priceFormatted": "7,49 €",
       "priceCategory": "average",
-      "rank": 179,
+      "rank": 180,
       "marketMin": 583,
       "marketMax": 950,
-      "marketAvg": 729
+      "marketAvg": 728
     },
     {
       "productName": "Cannamedical Sativa Forte ES 25/1",
@@ -181,13 +191,453 @@
       "marketMin": 420,
       "marketMax": 949,
       "marketAvg": 751
+    },
+    {
+      "productName": "Avaay Signature 26/1 WB",
+      "price": 899,
+      "priceFormatted": "8,99 €",
+      "priceCategory": "average",
+      "rank": 198,
+      "marketMin": 499,
+      "marketMax": 1180,
+      "marketAvg": 824
+    },
+    {
+      "productName": "20/1 IUVO OC Killer Cupcake",
+      "price": 799,
+      "priceFormatted": "7,99 €",
+      "priceCategory": "average",
+      "rank": 214,
+      "marketMin": 589,
+      "marketMax": 949,
+      "marketAvg": 794
+    },
+    {
+      "productName": "Cannamedical Indica Classic 20/1 ZAF",
+      "price": 629,
+      "priceFormatted": "6,29 €",
+      "priceCategory": "average",
+      "rank": 214,
+      "marketMin": 385,
+      "marketMax": 778,
+      "marketAvg": 599
+    },
+    {
+      "productName": "20/1 IUVO OC Afghani Bullrider",
+      "price": 899,
+      "priceFormatted": "8,99 €",
+      "priceCategory": "high",
+      "rank": 238,
+      "marketMin": 499,
+      "marketMax": 899,
+      "marketAvg": 735
+    },
+    {
+      "productName": "aleph rose 18/1",
+      "price": 649,
+      "priceFormatted": "6,49 €",
+      "priceCategory": "average",
+      "rank": 245,
+      "marketMin": 459,
+      "marketMax": 699,
+      "marketAvg": 577
+    },
+    {
+      "productName": "ZOIKS 22/1 SF",
+      "price": 599,
+      "priceFormatted": "5,99 €",
+      "priceCategory": "average",
+      "rank": 279,
+      "marketMin": 446,
+      "marketMax": 675,
+      "marketAvg": 542
+    },
+    {
+      "productName": "Demecan Core Sunshine Pure 25:01",
+      "price": 549,
+      "priceFormatted": "5,49 €",
+      "priceCategory": "average",
+      "rank": 281,
+      "marketMin": 389,
+      "marketMax": 640,
+      "marketAvg": 523
+    },
+    {
+      "productName": "Cannamedical Hybrid Forte 24/1 GT",
+      "price": 849,
+      "priceFormatted": "8,49 €",
+      "priceCategory": "high",
+      "rank": 296,
+      "marketMin": 397,
+      "marketMax": 949,
+      "marketAvg": 765
+    },
+    {
+      "productName": "Cannamedical CM 24/1 OG Kush",
+      "price": 649,
+      "priceFormatted": "6,49 €",
+      "priceCategory": "average",
+      "rank": 319,
+      "marketMin": 495,
+      "marketMax": 1050,
+      "marketAvg": 665
+    },
+    {
+      "productName": "Cannamedical Indica classic ZAF",
+      "price": 599,
+      "priceFormatted": "5,99 €",
+      "priceCategory": "average",
+      "rank": 326,
+      "marketMin": 399,
+      "marketMax": 780,
+      "marketAvg": 578
+    },
+    {
+      "productName": "420 Compound 30/1 CA GAP",
+      "price": 849,
+      "priceFormatted": "8,49 €",
+      "priceCategory": "average",
+      "rank": 328,
+      "marketMin": 694,
+      "marketMax": 1095,
+      "marketAvg": 827
+    },
+    {
+      "productName": "Avaay 29/1 CP",
+      "price": 849,
+      "priceFormatted": "8,49 €",
+      "priceCategory": "average",
+      "rank": 338,
+      "marketMin": 734,
+      "marketMax": 1095,
+      "marketAvg": 868
+    },
+    {
+      "productName": "Demecan Craft Magister 27/1 BM",
+      "price": 1029,
+      "priceFormatted": "10,29 €",
+      "priceCategory": "high",
+      "rank": 346,
+      "marketMin": 689,
+      "marketMax": 1029,
+      "marketAvg": 803
+    },
+    {
+      "productName": "Huala 22/1 CA WOT",
+      "price": 499,
+      "priceFormatted": "4,99 €",
+      "priceCategory": "average",
+      "rank": 354,
+      "marketMin": 398,
+      "marketMax": 655,
+      "marketAvg": 530
+    },
+    {
+      "productName": "aleph Matterhorn 21/1 Banjo",
+      "price": 949,
+      "priceFormatted": "9,49 €",
+      "priceCategory": "average",
+      "rank": 382,
+      "marketMin": 699,
+      "marketMax": 1350,
+      "marketAvg": 852
+    },
+    {
+      "productName": "Demecan CRAFT FCF 28/01",
+      "price": 1079,
+      "priceFormatted": "10,79 €",
+      "priceCategory": "average",
+      "rank": 433,
+      "marketMin": 799,
+      "marketMax": 1571,
+      "marketAvg": 976
+    },
+    {
+      "productName": "Demecan CRAFT Emerald 27:01",
+      "price": 849,
+      "priceFormatted": "8,49 €",
+      "priceCategory": "average",
+      "rank": 433,
+      "marketMin": 599,
+      "marketMax": 916,
+      "marketAvg": 785
+    },
+    {
+      "productName": "HUALA 22/1 UK WTR",
+      "price": 499,
+      "priceFormatted": "4,99 €",
+      "priceCategory": "average",
+      "rank": 449,
+      "marketMin": 370,
+      "marketMax": 675,
+      "marketAvg": 517
+    },
+    {
+      "productName": "avaay Khalifa 28/1 KK",
+      "price": 999,
+      "priceFormatted": "9,99 €",
+      "priceCategory": "average",
+      "rank": 450,
+      "marketMin": 774,
+      "marketMax": 1099,
+      "marketAvg": 975
+    },
+    {
+      "productName": "Huala 22/1 CA C47",
+      "price": 499,
+      "priceFormatted": "4,99 €",
+      "priceCategory": "average",
+      "rank": 473,
+      "marketMin": 379,
+      "marketMax": 675,
+      "marketAvg": 501
+    },
+    {
+      "productName": "CM Craft Lotus 28/1",
+      "price": 999,
+      "priceFormatted": "9,99 €",
+      "priceCategory": "average",
+      "rank": 488,
+      "marketMin": 789,
+      "marketMax": 1099,
+      "marketAvg": 886
+    },
+    {
+      "productName": "Demecan Core Veloz 27:01",
+      "price": 699,
+      "priceFormatted": "6,99 €",
+      "priceCategory": "average",
+      "rank": 496,
+      "marketMin": 548,
+      "marketMax": 998,
+      "marketAvg": 676
+    },
+    {
+      "productName": "ZOIKS 26/1 BB",
+      "price": 549,
+      "priceFormatted": "5,49 €",
+      "priceCategory": "excellent",
+      "rank": 502,
+      "marketMin": 455,
+      "marketMax": 968,
+      "marketAvg": 592
+    },
+    {
+      "productName": "420 Evolution 22/1 CA MAC",
+      "price": 749,
+      "priceFormatted": "7,49 €",
+      "priceCategory": "average",
+      "rank": 545,
+      "marketMin": 420,
+      "marketMax": 899,
+      "marketAvg": 674
+    },
+    {
+      "productName": "420 Balanced Basic PT SLG",
+      "price": 849,
+      "priceFormatted": "8,49 €",
+      "priceCategory": "average",
+      "rank": 558,
+      "marketMin": 649,
+      "marketMax": 1099,
+      "marketAvg": 825
+    },
+    {
+      "productName": "420 Natural 16/1 CA TRP",
+      "price": 749,
+      "priceFormatted": "7,49 €",
+      "priceCategory": "average",
+      "rank": 567,
+      "marketMin": 488,
+      "marketMax": 900,
+      "marketAvg": 659
+    },
+    {
+      "productName": "29/1 IUVO SQ APPLES & BANANAS",
+      "price": 999,
+      "priceFormatted": "9,99 €",
+      "priceCategory": "average",
+      "rank": 586,
+      "marketMin": 772,
+      "marketMax": 1099,
+      "marketAvg": 895
+    },
+    {
+      "productName": "Huala 22/1 UK CIN",
+      "price": 499,
+      "priceFormatted": "4,99 €",
+      "priceCategory": "average",
+      "rank": 598,
+      "marketMin": 335,
+      "marketMax": 695,
+      "marketAvg": 514
+    },
+    {
+      "productName": "Bathera 28/1 BZ",
+      "price": 849,
+      "priceFormatted": "8,49 €",
+      "priceCategory": "average",
+      "rank": 610,
+      "marketMin": 699,
+      "marketMax": 1250,
+      "marketAvg": 822
+    },
+    {
+      "productName": "Luana Electric 28/1",
+      "price": 699,
+      "priceFormatted": "6,99 €",
+      "priceCategory": "high",
+      "rank": 632,
+      "marketMin": 479,
+      "marketMax": 699,
+      "marketAvg": 574
+    },
+    {
+      "productName": "420 EVOLUTION 27/1 CA ICC",
+      "price": 849,
+      "priceFormatted": "8,49 €",
+      "priceCategory": "average",
+      "rank": 646,
+      "marketMin": 684,
+      "marketMax": 1099,
+      "marketAvg": 845
+    },
+    {
+      "productName": "Bathera 23/1 PMM",
+      "price": 699,
+      "priceFormatted": "6,99 €",
+      "priceCategory": "average",
+      "rank": 647,
+      "marketMin": 517,
+      "marketMax": 839,
+      "marketAvg": 676
+    },
+    {
+      "productName": "Pedanios 31/1 PND-CA",
+      "price": 899,
+      "priceFormatted": "8,99 €",
+      "priceCategory": "excellent",
+      "rank": 781,
+      "marketMin": 678,
+      "marketMax": 2140,
+      "marketAvg": 908
+    },
+    {
+      "productName": "Demecan Core Golden Horizon 31:01",
+      "price": 849,
+      "priceFormatted": "8,49 €",
+      "priceCategory": "average",
+      "rank": 785,
+      "marketMin": 645,
+      "marketMax": 995,
+      "marketAvg": 807
+    },
+    {
+      "productName": "Demecan BPG Lean Drop",
+      "price": 699,
+      "priceFormatted": "6,99 €",
+      "priceCategory": "average",
+      "rank": 822,
+      "marketMin": 438,
+      "marketMax": 799,
+      "marketAvg": 580
+    },
+    {
+      "productName": "Luana 24/1 Pine",
+      "price": 549,
+      "priceFormatted": "5,49 €",
+      "priceCategory": "average",
+      "rank": 833,
+      "marketMin": 418,
+      "marketMax": 600,
+      "marketAvg": 523
+    },
+    {
+      "productName": "ZOIKS 26/1 TG",
+      "price": 549,
+      "priceFormatted": "5,49 €",
+      "priceCategory": "average",
+      "rank": 873,
+      "marketMin": 423,
+      "marketMax": 790,
+      "marketAvg": 581
+    },
+    {
+      "productName": "ZOIKS 22/1 SR",
+      "price": 549,
+      "priceFormatted": "5,49 €",
+      "priceCategory": "average",
+      "rank": 904,
+      "marketMin": 377,
+      "marketMax": 689,
+      "marketAvg": 537
+    },
+    {
+      "productName": "AVAAY 29/1 SCP",
+      "price": 899,
+      "priceFormatted": "8,99 €",
+      "priceCategory": "average",
+      "rank": 940,
+      "marketMin": 734,
+      "marketMax": 1195,
+      "marketAvg": 885
+    },
+    {
+      "productName": "Pedanios 27/1 BLY-CA",
+      "price": 849,
+      "priceFormatted": "8,49 €",
+      "priceCategory": "average",
+      "rank": 949,
+      "marketMin": 600,
+      "marketMax": 1430,
+      "marketAvg": 806
+    },
+    {
+      "productName": "Bathera 28/1 FA",
+      "price": 799,
+      "priceFormatted": "7,99 €",
+      "priceCategory": "average",
+      "rank": 1051,
+      "marketMin": 567,
+      "marketMax": 975,
+      "marketAvg": 708
+    },
+    {
+      "productName": "Pedanios 27/1 FRG-CA",
+      "price": 749,
+      "priceFormatted": "7,49 €",
+      "priceCategory": "average",
+      "rank": 1309,
+      "marketMin": 497,
+      "marketMax": 1316,
+      "marketAvg": 701
+    },
+    {
+      "productName": "Pedanios 26/1 EHD-CA",
+      "price": 699,
+      "priceFormatted": "6,99 €",
+      "priceCategory": "average",
+      "rank": 1534,
+      "marketMin": 476,
+      "marketMax": 1309,
+      "marketAvg": 682
+    },
+    {
+      "productName": "Pedanios 29/1 SRD-CA",
+      "price": 849,
+      "priceFormatted": "8,49 €",
+      "priceCategory": "average",
+      "rank": 1575,
+      "marketMin": 596,
+      "marketMax": 1316,
+      "marketAvg": 789
     }
   ],
   "pricingStats": {
-    "avgPrice": 763,
+    "avgPrice": 761,
     "minPrice": 499,
     "maxPrice": 1079,
-    "excellentCount": 7,
+    "excellentCount": 6,
     "goodCount": 0
   },
   "seo": {

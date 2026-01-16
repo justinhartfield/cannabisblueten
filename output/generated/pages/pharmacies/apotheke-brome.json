@@ -36,7 +36,7 @@
       "slug": "happy-cannamed",
       "name": "Marien Apotheke",
       "cityName": "Cloppenburg",
-      "productCount": 60,
+      "productCount": 62,
       "hasDelivery": true
     },
     {
@@ -63,6 +63,16 @@
   ],
   "products": [
     {
+      "productName": "Pedanios 22/1",
+      "price": 595,
+      "priceFormatted": "5,95 €",
+      "priceCategory": "excellent",
+      "rank": 6,
+      "marketMin": 590,
+      "marketMax": 1902,
+      "marketAvg": 856
+    },
+    {
       "productName": "Canify Cannabis flos 8/9 LS Ku.",
       "price": 739,
       "priceFormatted": "7,39 €",
@@ -71,6 +81,16 @@
       "marketMin": 675,
       "marketMax": 1050,
       "marketAvg": 823
+    },
+    {
+      "productName": "Pedanios 31/1 COS-CA",
+      "price": 725,
+      "priceFormatted": "7,25 €",
+      "priceCategory": "excellent",
+      "rank": 47,
+      "marketMin": 679,
+      "marketMax": 2140,
+      "marketAvg": 910
     },
     {
       "productName": "Endo Canna MSH 26/1",
@@ -160,7 +180,7 @@
       "rank": 136,
       "marketMin": 575,
       "marketMax": 949,
-      "marketAvg": 791
+      "marketAvg": 790
     },
     {
       "productName": "Cannovum Natura KHZ 28/1",
@@ -181,13 +201,183 @@
       "marketMin": 378,
       "marketMax": 610,
       "marketAvg": 498
+    },
+    {
+      "productName": "Cannovum Natura PMK 26/1 PM",
+      "price": 795,
+      "priceFormatted": "7,95 €",
+      "priceCategory": "average",
+      "rank": 182,
+      "marketMin": 599,
+      "marketMax": 928,
+      "marketAvg": 786
+    },
+    {
+      "productName": "Demecan Core Sunshine Pure 25:01",
+      "price": 499,
+      "priceFormatted": "4,99 €",
+      "priceCategory": "average",
+      "rank": 184,
+      "marketMin": 389,
+      "marketMax": 640,
+      "marketAvg": 523
+    },
+    {
+      "productName": "Demecan Core JM7 28:01",
+      "price": 875,
+      "priceFormatted": "8,75 €",
+      "priceCategory": "average",
+      "rank": 197,
+      "marketMin": 585,
+      "marketMax": 1200,
+      "marketAvg": 829
+    },
+    {
+      "productName": "avaay 28/1 CK",
+      "price": 849,
+      "priceFormatted": "8,49 €",
+      "priceCategory": "average",
+      "rank": 203,
+      "marketMin": 499,
+      "marketMax": 999,
+      "marketAvg": 819
+    },
+    {
+      "productName": "enua 25/1 SC CA",
+      "price": 598,
+      "priceFormatted": "5,98 €",
+      "priceCategory": "average",
+      "rank": 215,
+      "marketMin": 400,
+      "marketMax": 915,
+      "marketAvg": 643
+    },
+    {
+      "productName": "Canify Cannabis flos 27/1 CDA Ku.",
+      "price": 689,
+      "priceFormatted": "6,89 €",
+      "priceCategory": "excellent",
+      "rank": 253,
+      "marketMin": 615,
+      "marketMax": 1045,
+      "marketAvg": 745
+    },
+    {
+      "productName": "Demecan Core Cros 26:01",
+      "price": 749,
+      "priceFormatted": "7,49 €",
+      "priceCategory": "high",
+      "rank": 257,
+      "marketMin": 398,
+      "marketMax": 799,
+      "marketAvg": 642
+    },
+    {
+      "productName": "Avaay 20/1 PNK",
+      "price": 634,
+      "priceFormatted": "6,34 €",
+      "priceCategory": "average",
+      "rank": 259,
+      "marketMin": 395,
+      "marketMax": 795,
+      "marketAvg": 647
+    },
+    {
+      "productName": "avaay Khalifa 28/1 KM",
+      "price": 937,
+      "priceFormatted": "9,37 €",
+      "priceCategory": "excellent",
+      "rank": 273,
+      "marketMin": 878,
+      "marketMax": 1395,
+      "marketAvg": 1009
+    },
+    {
+      "productName": "Avaay Signature 34/1 OGC",
+      "price": 999,
+      "priceFormatted": "9,99 €",
+      "priceCategory": "average",
+      "rank": 277,
+      "marketMin": 799,
+      "marketMax": 1445,
+      "marketAvg": 1065
+    },
+    {
+      "productName": "Gestion Cannabec OS 21/1",
+      "price": 775,
+      "priceFormatted": "7,75 €",
+      "priceCategory": "high",
+      "rank": 284,
+      "marketMin": 491,
+      "marketMax": 775,
+      "marketAvg": 590
+    },
+    {
+      "productName": "AVAAY 29/1 SCP",
+      "price": 813,
+      "priceFormatted": "8,13 €",
+      "priceCategory": "excellent",
+      "rank": 339,
+      "marketMin": 734,
+      "marketMax": 1195,
+      "marketAvg": 885
+    },
+    {
+      "productName": "avaay Khalifa 24/1 KK",
+      "price": 889,
+      "priceFormatted": "8,89 €",
+      "priceCategory": "average",
+      "rank": 347,
+      "marketMin": 699,
+      "marketMax": 1070,
+      "marketAvg": 920
+    },
+    {
+      "productName": "HiSociety 27/1",
+      "price": 595,
+      "priceFormatted": "5,95 €",
+      "priceCategory": "average",
+      "rank": 410,
+      "marketMin": 399,
+      "marketMax": 750,
+      "marketAvg": 590
+    },
+    {
+      "productName": "avaay 31/1 SCG",
+      "price": 844,
+      "priceFormatted": "8,44 €",
+      "priceCategory": "excellent",
+      "rank": 413,
+      "marketMin": 785,
+      "marketMax": 1245,
+      "marketAvg": 926
+    },
+    {
+      "productName": "Vasco 18/1 WR",
+      "price": 688,
+      "priceFormatted": "6,88 €",
+      "priceCategory": "average",
+      "rank": 455,
+      "marketMin": 537,
+      "marketMax": 750,
+      "marketAvg": 638
+    },
+    {
+      "productName": "ZOIKS 26/1 BB",
+      "price": 564,
+      "priceFormatted": "5,64 €",
+      "priceCategory": "average",
+      "rank": 616,
+      "marketMin": 455,
+      "marketMax": 968,
+      "marketAvg": 592
     }
   ],
   "pricingStats": {
-    "avgPrice": 739,
+    "avgPrice": 740,
     "minPrice": 450,
     "maxPrice": 999,
-    "excellentCount": 6,
+    "excellentCount": 7,
     "goodCount": 0
   },
   "seo": {

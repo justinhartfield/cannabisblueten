@@ -8,7 +8,7 @@
     "cbdPercent": 1,
     "priceMin": 499,
     "priceMax": 499,
-    "inStock": false,
+    "inStock": true,
     "pzn": null,
     "originCountry": "Kanada",
     "imageUrl": "https://weed.de/products/ceres-no-2-291-0i191b.webp"
@@ -103,7 +103,7 @@
   "seo": {
     "meta": {
       "title": "Ceres No. 2 29/1 - Cantourage | ab 4,99 €",
-      "description": "Ceres No. 2 29/1 von Cantourage. THC: 29%, CBD: 1%. Sorte: Slurricane Mint. Preis ab 4,99 €. Preise vergleichen.",
+      "description": "Ceres No. 2 29/1 von Cantourage. THC: 29%, CBD: 1%. Sorte: Slurricane Mint. Preis ab 4,99 €. Jetzt verfügbar.",
       "canonical": "https://cannabisblueten.de/product/ceres-no-2-291",
       "robots": {
         "index": true,
@@ -111,7 +111,7 @@
       },
       "openGraph": {
         "title": "Ceres No. 2 29/1 - Cantourage | ab 4,99 €",
-        "description": "Ceres No. 2 29/1 von Cantourage. THC: 29%, CBD: 1%. Sorte: Slurricane Mint. Preis ab 4,99 €. Preise vergleichen.",
+        "description": "Ceres No. 2 29/1 von Cantourage. THC: 29%, CBD: 1%. Sorte: Slurricane Mint. Preis ab 4,99 €. Jetzt verfügbar.",
         "url": "https://cannabisblueten.de/product/ceres-no-2-291",
         "type": "product",
         "siteName": "CannabisBlueten.de",
@@ -178,7 +178,7 @@
           "url": "https://cannabisblueten.de/product/ceres-no-2-291",
           "priceCurrency": "EUR",
           "price": "4.99",
-          "availability": "https://schema.org/OutOfStock",
+          "availability": "https://schema.org/InStock",
           "itemCondition": "https://schema.org/NewCondition"
         }
       }
@@ -235,6 +235,6 @@
   },
   "indexability": {
     "isIndexable": true,
-    "reason": "Has price data"
+    "reason": "In stock"
   }
 }
