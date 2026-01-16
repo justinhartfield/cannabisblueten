@@ -41,10 +41,10 @@
     "productCount": 5,
     "pharmacyCount": 0,
     "priceRange": {
-      "min": 390,
+      "min": 393,
       "max": 749,
       "formatted": {
-        "min": "3,90 €",
+        "min": "3,93 €",
         "max": "7,49 €"
       }
     }
@@ -55,7 +55,7 @@
       "name": "Enua 22/1 ABG CA",
       "brandName": "enua",
       "thcPercent": 22,
-      "priceMin": 390,
+      "priceMin": 393,
       "inStock": true
     },
     {
@@ -126,7 +126,7 @@
   "seo": {
     "meta": {
       "title": "Sweets (Hybrid) - Wirkung, THC & Verfügbarkeit",
-      "description": "Sweets: Creative, Focused, Euphoric. 5 Produkte verfügbar. ab 3,90 €.",
+      "description": "Sweets: Creative, Focused, Euphoric. 5 Produkte verfügbar. ab 3,93 €.",
       "canonical": "https://cannabisblueten.de/strain/sweets",
       "robots": {
         "index": true,
@@ -134,7 +134,7 @@
       },
       "openGraph": {
         "title": "Sweets (Hybrid) - Wirkung, THC & Verfügbarkeit",
-        "description": "Sweets: Creative, Focused, Euphoric. 5 Produkte verfügbar. ab 3,90 €.",
+        "description": "Sweets: Creative, Focused, Euphoric. 5 Produkte verfügbar. ab 3,93 €.",
         "url": "https://cannabisblueten.de/strain/sweets",
         "type": "website",
         "siteName": "CannabisBlueten.de",
@@ -297,6 +297,11 @@
         "title": "Ocimene Terpen"
       }
     ]
+  },
+  "external": {
+    "weedUrl": "https://weed.de/strains/sweets",
+    "pharmacySearchUrl": "https://weed.de/apothekensuche",
+    "rezeptUrl": "https://weed.de/patient-werden"
   },
   "indexability": {
     "isIndexable": true,

@@ -58,6 +58,14 @@
       "inStock": true
     },
     {
+      "slug": "wellford-peak-331-ca-pkm",
+      "name": "Wellford Peak 33/1 CA PKM",
+      "brandName": "Therismos",
+      "thcPercent": 33,
+      "priceMin": 499,
+      "inStock": true
+    },
+    {
       "slug": "ceres-no-2",
       "name": "Ceres No. 2",
       "brandName": "Cantourage",
@@ -87,14 +95,6 @@
       "brandName": "Avaay",
       "thcPercent": 24,
       "priceMin": 949,
-      "inStock": true
-    },
-    {
-      "slug": "demecan-301-oktonia",
-      "name": "Demecan 30/1 Oktonia",
-      "brandName": "Deutsche Medizinalcannabis",
-      "thcPercent": 3,
-      "priceMin": 1079,
       "inStock": true
     }
   ],
@@ -206,6 +206,11 @@
         "title": "Alternative: enua 25/1 CCK CA"
       },
       {
+        "href": "/product/wellford-peak-331-ca-pkm",
+        "text": "Wellford Peak 33/1 CA PKM",
+        "title": "Alternative: Wellford Peak 33/1 CA PKM"
+      },
+      {
         "href": "/product/ceres-no-2",
         "text": "Ceres No. 2",
         "title": "Alternative: Ceres No. 2"
@@ -224,13 +229,13 @@
         "href": "/product/avaay-241-did",
         "text": "AVAAY 24/1 DiD",
         "title": "Alternative: AVAAY 24/1 DiD"
-      },
-      {
-        "href": "/product/demecan-301-oktonia",
-        "text": "Demecan 30/1 Oktonia",
-        "title": "Alternative: Demecan 30/1 Oktonia"
       }
     ]
+  },
+  "external": {
+    "weedUrl": "https://weed.de/produkt/wellford-peak-281-ca-pkm",
+    "pharmacySearchUrl": "https://weed.de/apothekensuche",
+    "rezeptUrl": "https://weed.de/patient-werden"
   },
   "indexability": {
     "isIndexable": true,

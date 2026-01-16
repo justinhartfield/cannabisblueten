@@ -76,6 +76,14 @@
       "inStock": true
     },
     {
+      "slug": "wellford-aquaponic-301-atg",
+      "name": "Wellford Aquaponic 30/1 ATG",
+      "brandName": "Therismos",
+      "thcPercent": 30,
+      "priceMin": 499,
+      "inStock": true
+    },
+    {
       "slug": "ceres-no-2",
       "name": "Ceres No. 2",
       "brandName": "Cantourage",
@@ -89,14 +97,6 @@
       "brandName": "Therismos",
       "thcPercent": 26,
       "priceMin": 649,
-      "inStock": true
-    },
-    {
-      "slug": "wellford-aquaponic-301-atg",
-      "name": "Wellford Aquaponic 30/1 ATG",
-      "brandName": "Therismos",
-      "thcPercent": 30,
-      "priceMin": 697,
       "inStock": true
     },
     {
@@ -218,6 +218,11 @@
         "title": "Alternative: enua 25/1 CCK CA"
       },
       {
+        "href": "/product/wellford-aquaponic-301-atg",
+        "text": "Wellford Aquaponic 30/1 ATG",
+        "title": "Alternative: Wellford Aquaponic 30/1 ATG"
+      },
+      {
         "href": "/product/ceres-no-2",
         "text": "Ceres No. 2",
         "title": "Alternative: Ceres No. 2"
@@ -226,11 +231,6 @@
         "href": "/product/wellford-aquaponic-261-atg",
         "text": "Wellford Aquaponic 26/1 ATG",
         "title": "Alternative: Wellford Aquaponic 26/1 ATG"
-      },
-      {
-        "href": "/product/wellford-aquaponic-301-atg",
-        "text": "Wellford Aquaponic 30/1 ATG",
-        "title": "Alternative: Wellford Aquaponic 30/1 ATG"
       },
       {
         "href": "/product/420-natural-221-gg4",
@@ -243,6 +243,11 @@
         "title": "Alternative: AVAAY 24/1 DiD"
       }
     ]
+  },
+  "external": {
+    "weedUrl": "https://weed.de/produkt/therismos-31-atg",
+    "pharmacySearchUrl": "https://weed.de/apothekensuche",
+    "rezeptUrl": "https://weed.de/patient-werden"
   },
   "indexability": {
     "isIndexable": true,

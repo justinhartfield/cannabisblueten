@@ -8,7 +8,7 @@
     "cbdPercent": 1,
     "priceMin": 595,
     "priceMax": 595,
-    "inStock": true,
+    "inStock": false,
     "pzn": null,
     "originCountry": "Kanada",
     "imageUrl": null
@@ -114,7 +114,7 @@
   "seo": {
     "meta": {
       "title": "Eufloria 27/1 PSL - Remexian Pharma | ab 5,95 €",
-      "description": "Eufloria 27/1 PSL von Remexian Pharma. THC: 27%, CBD: 1%. Sorte: Pink Slurricane. Preis ab 5,95 €. Jetzt verfügbar.",
+      "description": "Eufloria 27/1 PSL von Remexian Pharma. THC: 27%, CBD: 1%. Sorte: Pink Slurricane. Preis ab 5,95 €. Preise vergleichen.",
       "canonical": "https://cannabisblueten.de/product/eufloria-271-psl",
       "robots": {
         "index": true,
@@ -122,7 +122,7 @@
       },
       "openGraph": {
         "title": "Eufloria 27/1 PSL - Remexian Pharma | ab 5,95 €",
-        "description": "Eufloria 27/1 PSL von Remexian Pharma. THC: 27%, CBD: 1%. Sorte: Pink Slurricane. Preis ab 5,95 €. Jetzt verfügbar.",
+        "description": "Eufloria 27/1 PSL von Remexian Pharma. THC: 27%, CBD: 1%. Sorte: Pink Slurricane. Preis ab 5,95 €. Preise vergleichen.",
         "url": "https://cannabisblueten.de/product/eufloria-271-psl",
         "type": "product",
         "siteName": "CannabisBlueten.de",
@@ -188,7 +188,7 @@
           "url": "https://cannabisblueten.de/product/eufloria-271-psl",
           "priceCurrency": "EUR",
           "price": "5.95",
-          "availability": "https://schema.org/InStock",
+          "availability": "https://schema.org/OutOfStock",
           "itemCondition": "https://schema.org/NewCondition"
         }
       }
@@ -238,8 +238,13 @@
       }
     ]
   },
+  "external": {
+    "weedUrl": "https://weed.de/produkt/eufloria-271-psl",
+    "pharmacySearchUrl": "https://weed.de/apothekensuche",
+    "rezeptUrl": "https://weed.de/patient-werden"
+  },
   "indexability": {
     "isIndexable": true,
-    "reason": "In stock"
+    "reason": "Has price data"
   }
 }

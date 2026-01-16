@@ -34,10 +34,10 @@
     "productCount": 1,
     "pharmacyCount": 0,
     "priceRange": {
-      "min": 679,
+      "min": 675,
       "max": 829,
       "formatted": {
-        "min": "6,79 €",
+        "min": "6,75 €",
         "max": "8,29 €"
       }
     }
@@ -48,7 +48,7 @@
       "name": "420 Evolution 27/1 CA PEX",
       "brandName": "Four 20 Pharma",
       "thcPercent": 27,
-      "priceMin": 679,
+      "priceMin": 675,
       "inStock": true
     }
   ],
@@ -87,7 +87,7 @@
   "seo": {
     "meta": {
       "title": "Pineapple Fruz (Hybrid) - Wirkung, THC & Verfügbarkeit",
-      "description": "Pineapple Fruz: Creative, Focused, Happy. 1 Produkte verfügbar. ab 6,79 €.",
+      "description": "Pineapple Fruz: Creative, Focused, Happy. 1 Produkte verfügbar. ab 6,75 €.",
       "canonical": "https://cannabisblueten.de/strain/pineapple-fruz",
       "robots": {
         "index": true,
@@ -95,7 +95,7 @@
       },
       "openGraph": {
         "title": "Pineapple Fruz (Hybrid) - Wirkung, THC & Verfügbarkeit",
-        "description": "Pineapple Fruz: Creative, Focused, Happy. 1 Produkte verfügbar. ab 6,79 €.",
+        "description": "Pineapple Fruz: Creative, Focused, Happy. 1 Produkte verfügbar. ab 6,75 €.",
         "url": "https://cannabisblueten.de/strain/pineapple-fruz",
         "type": "website",
         "siteName": "CannabisBlueten.de",
@@ -214,6 +214,11 @@
         "title": "Beta-Caryophyllene Terpen"
       }
     ]
+  },
+  "external": {
+    "weedUrl": "https://weed.de/strains/pineapple-fruz",
+    "pharmacySearchUrl": "https://weed.de/apothekensuche",
+    "rezeptUrl": "https://weed.de/patient-werden"
   },
   "indexability": {
     "isIndexable": true,

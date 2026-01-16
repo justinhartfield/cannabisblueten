@@ -366,15 +366,6 @@
       "strainName": "Snowflake"
     },
     {
-      "slug": "cannamedical-indica-classic-nm-221",
-      "name": "Cannamedical Indica Classic NM 22/1",
-      "type": "flower",
-      "thcPercent": 21,
-      "priceMin": 789,
-      "inStock": true,
-      "strainName": "Kerosane Crash"
-    },
-    {
       "slug": "cannamedical-cm-301-dm",
       "name": "Cannamedical CM 30/1 DM",
       "type": "flower",
@@ -1725,6 +1716,15 @@
       "strainName": "Koko Cookies"
     },
     {
+      "slug": "cannamedical-indica-classic-nm-221",
+      "name": "Cannamedical Indica Classic NM 22/1",
+      "type": "flower",
+      "thcPercent": 21,
+      "priceMin": 789,
+      "inStock": false,
+      "strainName": "Kerosane Crash"
+    },
+    {
       "slug": "cannamedical-indica-classic-ury-dbf",
       "name": "Cannamedical Indica classic URY DBF",
       "type": "flower",
@@ -2150,7 +2150,7 @@
   ],
   "stats": {
     "productCount": 238,
-    "inStockCount": 128,
+    "inStockCount": 127,
     "avgThc": 21.3,
     "priceRange": {
       "min": 295,
@@ -2164,7 +2164,7 @@
   "seo": {
     "meta": {
       "title": "Cannamedical Cannabis Produkte - 238 Produkte",
-      "description": "Cannamedical: 238 Cannabis Produkte. 128 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+      "description": "Cannamedical: 238 Cannabis Produkte. 127 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
       "canonical": "https://cannabisblueten.de/brand/cannamedical",
       "robots": {
         "index": true,
@@ -2172,7 +2172,7 @@
       },
       "openGraph": {
         "title": "Cannamedical Cannabis Produkte - 238 Produkte",
-        "description": "Cannamedical: 238 Cannabis Produkte. 128 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+        "description": "Cannamedical: 238 Cannabis Produkte. 127 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
         "url": "https://cannabisblueten.de/brand/cannamedical",
         "type": "website",
         "siteName": "CannabisBlueten.de",
@@ -2451,5 +2451,10 @@
         "title": "Cannamedical Sativa classic NM GD"
       }
     ]
+  },
+  "external": {
+    "searchUrl": "https://weed.de/produktsuche?manufacturer=Cannamedical",
+    "pharmacySearchUrl": "https://weed.de/apothekensuche",
+    "rezeptUrl": "https://weed.de/patient-werden"
   }
 }

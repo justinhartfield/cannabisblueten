@@ -2,7 +2,7 @@
   "brand": {
     "slug": "demecan",
     "name": "Demecan",
-    "productCount": 168
+    "productCount": 169
   },
   "products": [
     {
@@ -1176,6 +1176,15 @@
       "strainName": "Magic Marker #2"
     },
     {
+      "slug": "kejf-smnz-271",
+      "name": "KEjF. SMNZ 27/1",
+      "type": "flower",
+      "thcPercent": 27,
+      "priceMin": null,
+      "inStock": false,
+      "strainName": "Siggi's Minze"
+    },
+    {
       "slug": "demecan-craft-dosidos-2401",
       "name": "Demecan Craft Dosidos 24:01",
       "type": "flower",
@@ -1519,7 +1528,7 @@
     }
   ],
   "stats": {
-    "productCount": 168,
+    "productCount": 169,
     "inStockCount": 107,
     "avgThc": 26,
     "priceRange": {
@@ -1533,16 +1542,16 @@
   },
   "seo": {
     "meta": {
-      "title": "Demecan Cannabis Produkte - 168 Produkte",
-      "description": "Demecan: 168 Cannabis Produkte. 107 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+      "title": "Demecan Cannabis Produkte - 169 Produkte",
+      "description": "Demecan: 169 Cannabis Produkte. 107 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
       "canonical": "https://cannabisblueten.de/brand/demecan",
       "robots": {
         "index": true,
         "follow": true
       },
       "openGraph": {
-        "title": "Demecan Cannabis Produkte - 168 Produkte",
-        "description": "Demecan: 168 Cannabis Produkte. 107 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+        "title": "Demecan Cannabis Produkte - 169 Produkte",
+        "description": "Demecan: 169 Cannabis Produkte. 107 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
         "url": "https://cannabisblueten.de/brand/demecan",
         "type": "website",
         "siteName": "CannabisBlueten.de",
@@ -1592,7 +1601,7 @@
         "@context": "https://schema.org",
         "@type": "ItemList",
         "name": "Demecan Produkte",
-        "numberOfItems": 168,
+        "numberOfItems": 169,
         "itemListElement": [
           {
             "@type": "ListItem",
@@ -1821,5 +1830,10 @@
         "title": "Demecan CRAFT FCF 28/01"
       }
     ]
+  },
+  "external": {
+    "searchUrl": "https://weed.de/produktsuche?manufacturer=Demecan",
+    "pharmacySearchUrl": "https://weed.de/apothekensuche",
+    "rezeptUrl": "https://weed.de/patient-werden"
   }
 }

@@ -43,10 +43,10 @@
     "productCount": 6,
     "pharmacyCount": 0,
     "priceRange": {
-      "min": 649,
+      "min": 499,
       "max": 1015,
       "formatted": {
-        "min": "6,49 €",
+        "min": "4,99 €",
         "max": "10,15 €"
       }
     }
@@ -65,7 +65,7 @@
       "name": "Wellford Aquaponic 30/1 ATG",
       "brandName": "Therismos",
       "thcPercent": 30,
-      "priceMin": 697,
+      "priceMin": 499,
       "inStock": true
     },
     {
@@ -136,7 +136,7 @@
   "seo": {
     "meta": {
       "title": "Atlantic Glue (Hybrid) - Wirkung, THC & Verfügbarkeit",
-      "description": "Atlantic Glue: Sleepy, Euphoric, Creative. 6 Produkte verfügbar. ab 6,49 €.",
+      "description": "Atlantic Glue: Sleepy, Euphoric, Creative. 6 Produkte verfügbar. ab 4,99 €.",
       "canonical": "https://cannabisblueten.de/strain/atlantic-glue",
       "robots": {
         "index": true,
@@ -144,7 +144,7 @@
       },
       "openGraph": {
         "title": "Atlantic Glue (Hybrid) - Wirkung, THC & Verfügbarkeit",
-        "description": "Atlantic Glue: Sleepy, Euphoric, Creative. 6 Produkte verfügbar. ab 6,49 €.",
+        "description": "Atlantic Glue: Sleepy, Euphoric, Creative. 6 Produkte verfügbar. ab 4,99 €.",
         "url": "https://cannabisblueten.de/strain/atlantic-glue",
         "type": "website",
         "siteName": "CannabisBlueten.de",
@@ -323,6 +323,11 @@
         "title": "Beta-Caryophyllene Terpen"
       }
     ]
+  },
+  "external": {
+    "weedUrl": "https://weed.de/strains/atlantic-glue",
+    "pharmacySearchUrl": "https://weed.de/apothekensuche",
+    "rezeptUrl": "https://weed.de/patient-werden"
   },
   "indexability": {
     "isIndexable": true,

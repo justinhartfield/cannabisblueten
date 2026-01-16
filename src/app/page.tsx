@@ -112,7 +112,7 @@ export default async function HomePage() {
       </div>
 
       {/* Hero Section: The Medical Search Hub */}
-      <section className="relative pt-12 pb-24 overflow-hidden">
+      <section className="relative pt-12 pb-24 overflow-visible z-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
           <div className="max-w-4xl">
             <span className="inline-block py-1 px-3 rounded-full bg-clinical-100 text-clinical-800 text-xs font-bold mb-6 tracking-widest uppercase">
@@ -144,7 +144,7 @@ export default async function HomePage() {
       </section>
 
       {/* Category Grid (Bento Style) */}
-      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-24">
+      <section className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-24">
         <div className="grid grid-cols-1 md:grid-cols-12 gap-6">
           {/* Large Featured Category - Cannabis Blüten */}
           <div className="md:col-span-8 group relative hyper-border h-96 overflow-hidden flex flex-col justify-end p-8 bg-clinical-900">

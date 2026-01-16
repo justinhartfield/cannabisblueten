@@ -330,15 +330,6 @@
       "strainName": "Frosted Cookies"
     },
     {
-      "slug": "eufloria-271-psl",
-      "name": "Eufloria 27/1 PSL",
-      "type": "flower",
-      "thcPercent": 27,
-      "priceMin": 595,
-      "inStock": true,
-      "strainName": "Pink Slurricane"
-    },
-    {
       "slug": "eufloria-271-rvc",
       "name": "Eufloria 27/1 RVC",
       "type": "flower",
@@ -388,7 +379,7 @@
       "name": "Remexian 24/1 CRX OOG",
       "type": "flower",
       "thcPercent": 24,
-      "priceMin": 449,
+      "priceMin": 399,
       "inStock": true,
       "strainName": "Oasis OG"
     },
@@ -793,7 +784,7 @@
       "name": "Remexian 33/1 CRN GRB",
       "type": "flower",
       "thcPercent": 33,
-      "priceMin": 595,
+      "priceMin": 599,
       "inStock": true,
       "strainName": "Garlic Breath"
     },
@@ -2229,6 +2220,15 @@
       "strainName": "Kush Mints"
     },
     {
+      "slug": "eufloria-271-psl",
+      "name": "Eufloria 27/1 PSL",
+      "type": "flower",
+      "thcPercent": 27,
+      "priceMin": 595,
+      "inStock": false,
+      "strainName": "Pink Slurricane"
+    },
+    {
       "slug": "eufloria-271-sru",
       "name": "Eufloria 27/1 SRU",
       "type": "flower",
@@ -3095,7 +3095,7 @@
   ],
   "stats": {
     "productCount": 343,
-    "inStockCount": 169,
+    "inStockCount": 168,
     "avgThc": 24.9,
     "priceRange": {
       "min": 274,
@@ -3109,7 +3109,7 @@
   "seo": {
     "meta": {
       "title": "Remexian Pharma Cannabis Produkte - 343 Produkte",
-      "description": "Remexian Pharma: 343 Cannabis Produkte. 169 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+      "description": "Remexian Pharma: 343 Cannabis Produkte. 168 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
       "canonical": "https://cannabisblueten.de/brand/remexian-pharma",
       "robots": {
         "index": true,
@@ -3117,7 +3117,7 @@
       },
       "openGraph": {
         "title": "Remexian Pharma Cannabis Produkte - 343 Produkte",
-        "description": "Remexian Pharma: 343 Cannabis Produkte. 169 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+        "description": "Remexian Pharma: 343 Cannabis Produkte. 168 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
         "url": "https://cannabisblueten.de/brand/remexian-pharma",
         "type": "website",
         "siteName": "CannabisBlueten.de",
@@ -3396,5 +3396,10 @@
         "title": "Remexian 21/1 ISL"
       }
     ]
+  },
+  "external": {
+    "searchUrl": "https://weed.de/produktsuche?manufacturer=Remexian%20Pharma",
+    "pharmacySearchUrl": "https://weed.de/apothekensuche",
+    "rezeptUrl": "https://weed.de/patient-werden"
   }
 }

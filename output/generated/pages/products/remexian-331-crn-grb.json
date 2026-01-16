@@ -6,7 +6,7 @@
     "genetics": "hybrid_indica",
     "thcPercent": 33,
     "cbdPercent": 1,
-    "priceMin": 595,
+    "priceMin": 599,
     "priceMax": 599,
     "inStock": true,
     "pzn": null,
@@ -102,16 +102,16 @@
   ],
   "seo": {
     "meta": {
-      "title": "Remexian 33/1 CRN GRB - Remexian Pharma | ab 5,95 €",
-      "description": "Remexian 33/1 CRN GRB von Remexian Pharma. THC: 33%, CBD: 1%. Sorte: Garlic Breath. Preis ab 5,95 €. Jetzt verfügbar.",
+      "title": "Remexian 33/1 CRN GRB - Remexian Pharma | ab 5,99 €",
+      "description": "Remexian 33/1 CRN GRB von Remexian Pharma. THC: 33%, CBD: 1%. Sorte: Garlic Breath. Preis ab 5,99 €. Jetzt verfügbar.",
       "canonical": "https://cannabisblueten.de/product/remexian-331-crn-grb",
       "robots": {
         "index": true,
         "follow": true
       },
       "openGraph": {
-        "title": "Remexian 33/1 CRN GRB - Remexian Pharma | ab 5,95 €",
-        "description": "Remexian 33/1 CRN GRB von Remexian Pharma. THC: 33%, CBD: 1%. Sorte: Garlic Breath. Preis ab 5,95 €. Jetzt verfügbar.",
+        "title": "Remexian 33/1 CRN GRB - Remexian Pharma | ab 5,99 €",
+        "description": "Remexian 33/1 CRN GRB von Remexian Pharma. THC: 33%, CBD: 1%. Sorte: Garlic Breath. Preis ab 5,99 €. Jetzt verfügbar.",
         "url": "https://cannabisblueten.de/product/remexian-331-crn-grb",
         "type": "product",
         "siteName": "CannabisBlueten.de",
@@ -176,15 +176,9 @@
           "@type": "Offer",
           "url": "https://cannabisblueten.de/product/remexian-331-crn-grb",
           "priceCurrency": "EUR",
-          "price": "5.95",
+          "price": "5.99",
           "availability": "https://schema.org/InStock",
-          "itemCondition": "https://schema.org/NewCondition",
-          "priceSpecification": {
-            "@type": "PriceSpecification",
-            "minPrice": "5.95",
-            "maxPrice": "5.99",
-            "priceCurrency": "EUR"
-          }
+          "itemCondition": "https://schema.org/NewCondition"
         }
       }
     ]
@@ -232,6 +226,11 @@
         "title": "Alternative: Remexian 30/1 GMO"
       }
     ]
+  },
+  "external": {
+    "weedUrl": "https://weed.de/produkt/remexian-331-crn-grb",
+    "pharmacySearchUrl": "https://weed.de/apothekensuche",
+    "rezeptUrl": "https://weed.de/patient-werden"
   },
   "indexability": {
     "isIndexable": true,

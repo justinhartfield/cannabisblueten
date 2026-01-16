@@ -112,11 +112,37 @@ export default async function ApothekeHubPage() {
                 Cannabis-Apotheke.
               </span>
             </h1>
-            <p className="text-xl text-clinical-600 leading-relaxed max-w-2xl">
+            <p className="text-xl text-clinical-600 leading-relaxed max-w-2xl mb-8">
               Vergleichen Sie Bestände, Preise und Lieferzeiten von über{' '}
               {data.stats.totalPharmacies} spezialisierten Apotheken in{' '}
               {data.stats.totalCities} Städten.
             </p>
+
+            {/* CTA Buttons */}
+            <div className="flex flex-col sm:flex-row gap-3">
+              <a
+                href={data.external.pharmacySearchUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center justify-center gap-2 py-4 px-6 bg-safety text-white rounded-xl font-bold hover:bg-safety/90 transition-colors"
+              >
+                <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+                </svg>
+                Auf weed.de suchen
+              </a>
+              <a
+                href={data.external.rezeptUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center justify-center gap-2 py-4 px-6 bg-white border-2 border-clinical-200 text-clinical-800 rounded-xl font-bold hover:bg-clinical-50 transition-colors"
+              >
+                <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+                </svg>
+                Rezept erhalten
+              </a>
+            </div>
           </div>
 
           {/* Interactive Map & Search Section */}
@@ -202,10 +228,12 @@ export default async function ApothekeHubPage() {
               </div>
             </div>
             <a
-              href="#"
+              href={data.external.rezeptUrl}
+              target="_blank"
+              rel="noopener noreferrer"
               className="bg-safety text-white px-10 py-4 rounded-xl font-bold hover:bg-opacity-90 transition-all whitespace-nowrap"
             >
-              Mehr erfahren
+              Rezept erhalten
             </a>
           </div>
         </div>

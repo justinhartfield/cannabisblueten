@@ -237,8 +237,8 @@ export function HomeSearch() {
   return (
     <div
       ref={containerRef}
-      className="search-container relative z-50 max-w-2xl bg-white rounded-2xl p-2 shadow-2xl transition-all duration-300 border border-clinical-100"
-      style={{ boxShadow: '0 25px 50px -12px rgba(0, 0, 0, 0.25)' }}
+      className="search-container relative z-[100] max-w-2xl bg-white rounded-2xl p-2 shadow-2xl transition-all duration-300 border border-clinical-100"
+      style={{ boxShadow: '0 25px 50px -12px rgba(0, 0, 0, 0.25)', isolation: 'isolate' }}
     >
       <div className="flex items-center p-2">
         <svg
@@ -287,7 +287,7 @@ export function HomeSearch() {
 
       {/* Autocomplete Dropdown */}
       {isOpen && query.trim() && (
-        <div className="absolute left-0 right-0 top-full mt-2 bg-white rounded-xl shadow-2xl border border-clinical-100 overflow-hidden z-50 max-h-[400px] overflow-y-auto">
+        <div className="absolute left-0 right-0 top-full mt-2 bg-white rounded-xl shadow-2xl border border-clinical-100 overflow-hidden z-[9999] max-h-[400px] overflow-y-auto">
           {isLoading ? (
             <div className="p-6 text-center text-clinical-400">
               <div className="animate-spin w-6 h-6 border-2 border-clinical-200 border-t-clinical-600 rounded-full mx-auto mb-2"></div>

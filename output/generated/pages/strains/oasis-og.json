@@ -39,10 +39,10 @@
     "productCount": 3,
     "pharmacyCount": 0,
     "priceRange": {
-      "min": 449,
+      "min": 399,
       "max": 900,
       "formatted": {
-        "min": "4,49 €",
+        "min": "3,99 €",
         "max": "9,00 €"
       }
     }
@@ -61,7 +61,7 @@
       "name": "Remexian 24/1 CRX OOG",
       "brandName": "Remexian Pharma",
       "thcPercent": 24,
-      "priceMin": 449,
+      "priceMin": 399,
       "inStock": true
     },
     {
@@ -108,7 +108,7 @@
   "seo": {
     "meta": {
       "title": "Oasis OG (Indica) - Wirkung, THC & Verfügbarkeit",
-      "description": "Oasis OG: Relaxed, Tingly, Mood-lifting. 3 Produkte verfügbar. ab 4,49 €.",
+      "description": "Oasis OG: Relaxed, Tingly, Mood-lifting. 3 Produkte verfügbar. ab 3,99 €.",
       "canonical": "https://cannabisblueten.de/strain/oasis-og",
       "robots": {
         "index": true,
@@ -116,7 +116,7 @@
       },
       "openGraph": {
         "title": "Oasis OG (Indica) - Wirkung, THC & Verfügbarkeit",
-        "description": "Oasis OG: Relaxed, Tingly, Mood-lifting. 3 Produkte verfügbar. ab 4,49 €.",
+        "description": "Oasis OG: Relaxed, Tingly, Mood-lifting. 3 Produkte verfügbar. ab 3,99 €.",
         "url": "https://cannabisblueten.de/strain/oasis-og",
         "type": "website",
         "siteName": "CannabisBlueten.de",
@@ -252,6 +252,11 @@
         "title": "Beta-Caryophyllene Terpen"
       }
     ]
+  },
+  "external": {
+    "weedUrl": "https://weed.de/strains/oasis-og",
+    "pharmacySearchUrl": "https://weed.de/apothekensuche",
+    "rezeptUrl": "https://weed.de/patient-werden"
   },
   "indexability": {
     "isIndexable": true,

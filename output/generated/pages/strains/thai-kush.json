@@ -32,10 +32,10 @@
     "productCount": 2,
     "pharmacyCount": 0,
     "priceRange": {
-      "min": 368,
+      "min": 359,
       "max": 790,
       "formatted": {
-        "min": "3,68 €",
+        "min": "3,59 €",
         "max": "7,90 €"
       }
     }
@@ -46,7 +46,7 @@
       "name": "IMC MK THC27 Token",
       "brandName": "IMC",
       "thcPercent": 27,
-      "priceMin": 368,
+      "priceMin": 359,
       "inStock": true
     },
     {
@@ -93,7 +93,7 @@
   "seo": {
     "meta": {
       "title": "Thai Kush (Hybrid) - Wirkung, THC & Verfügbarkeit",
-      "description": "Thai Kush: Creative, Focused, Euphoric. 2 Produkte verfügbar. ab 3,68 €.",
+      "description": "Thai Kush: Creative, Focused, Euphoric. 2 Produkte verfügbar. ab 3,59 €.",
       "canonical": "https://cannabisblueten.de/strain/thai-kush",
       "robots": {
         "index": true,
@@ -101,7 +101,7 @@
       },
       "openGraph": {
         "title": "Thai Kush (Hybrid) - Wirkung, THC & Verfügbarkeit",
-        "description": "Thai Kush: Creative, Focused, Euphoric. 2 Produkte verfügbar. ab 3,68 €.",
+        "description": "Thai Kush: Creative, Focused, Euphoric. 2 Produkte verfügbar. ab 3,59 €.",
         "url": "https://cannabisblueten.de/strain/thai-kush",
         "type": "website",
         "siteName": "CannabisBlueten.de",
@@ -227,6 +227,11 @@
         "title": "Beta-Caryophyllene Terpen"
       }
     ]
+  },
+  "external": {
+    "weedUrl": "https://weed.de/strains/thai-kush",
+    "pharmacySearchUrl": "https://weed.de/apothekensuche",
+    "rezeptUrl": "https://weed.de/patient-werden"
   },
   "indexability": {
     "isIndexable": true,

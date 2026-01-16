@@ -47,10 +47,10 @@
     "productCount": 1,
     "pharmacyCount": 0,
     "priceRange": {
-      "min": 485,
+      "min": 399,
       "max": 695,
       "formatted": {
-        "min": "4,85 €",
+        "min": "3,99 €",
         "max": "6,95 €"
       }
     }
@@ -61,7 +61,7 @@
       "name": "aleph Basic H1 18/1",
       "brandName": "alephSana",
       "thcPercent": 18,
-      "priceMin": 485,
+      "priceMin": 399,
       "inStock": true
     }
   ],
@@ -100,7 +100,7 @@
   "seo": {
     "meta": {
       "title": "Mantis (Hybrid) - Wirkung, THC & Verfügbarkeit",
-      "description": "Mantis: Mental ease, Clear, Euphoric. 1 Produkte verfügbar. ab 4,85 €.",
+      "description": "Mantis: Mental ease, Clear, Euphoric. 1 Produkte verfügbar. ab 3,99 €.",
       "canonical": "https://cannabisblueten.de/strain/mantis",
       "robots": {
         "index": true,
@@ -108,7 +108,7 @@
       },
       "openGraph": {
         "title": "Mantis (Hybrid) - Wirkung, THC & Verfügbarkeit",
-        "description": "Mantis: Mental ease, Clear, Euphoric. 1 Produkte verfügbar. ab 4,85 €.",
+        "description": "Mantis: Mental ease, Clear, Euphoric. 1 Produkte verfügbar. ab 3,99 €.",
         "url": "https://cannabisblueten.de/strain/mantis",
         "type": "website",
         "siteName": "CannabisBlueten.de",
@@ -227,6 +227,11 @@
         "title": "Myrcene Terpen"
       }
     ]
+  },
+  "external": {
+    "weedUrl": "https://weed.de/strains/mantis",
+    "pharmacySearchUrl": "https://weed.de/apothekensuche",
+    "rezeptUrl": "https://weed.de/patient-werden"
   },
   "indexability": {
     "isIndexable": true,

@@ -87,14 +87,6 @@
       "inStock": true
     },
     {
-      "slug": "eufloria-271-psl",
-      "name": "Eufloria 27/1 PSL",
-      "brandName": "Remexian Pharma",
-      "thcPercent": 27,
-      "priceMin": 595,
-      "inStock": true
-    },
-    {
       "slug": "remexian-271-psl",
       "name": "Remexian 27/1 PSL",
       "brandName": "Remexian Pharma",
@@ -108,6 +100,14 @@
       "brandName": "Cantourage",
       "thcPercent": 25,
       "priceMin": 640,
+      "inStock": true
+    },
+    {
+      "slug": "420-natural-221-gg4",
+      "name": "420 Natural 22/1 GG4",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 22,
+      "priceMin": 725,
       "inStock": true
     }
   ],
@@ -229,11 +229,6 @@
         "title": "Alternative: Ceres No. 2"
       },
       {
-        "href": "/product/eufloria-271-psl",
-        "text": "Eufloria 27/1 PSL",
-        "title": "Alternative: Eufloria 27/1 PSL"
-      },
-      {
         "href": "/product/remexian-271-psl",
         "text": "Remexian 27/1 PSL",
         "title": "Alternative: Remexian 27/1 PSL"
@@ -242,8 +237,18 @@
         "href": "/product/lahoja-acsmc-251",
         "text": "Lahoja ACSMC 25/1",
         "title": "Alternative: Lahoja ACSMC 25/1"
+      },
+      {
+        "href": "/product/420-natural-221-gg4",
+        "text": "420 Natural 22/1 GG4",
+        "title": "Alternative: 420 Natural 22/1 GG4"
       }
     ]
+  },
+  "external": {
+    "weedUrl": "https://weed.de/produkt/canify-cannabis-flos-271-cda-ku-ps",
+    "pharmacySearchUrl": "https://weed.de/apothekensuche",
+    "rezeptUrl": "https://weed.de/patient-werden"
   },
   "indexability": {
     "isIndexable": true,

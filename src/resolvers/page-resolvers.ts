@@ -320,6 +320,11 @@ export interface ProductPageData {
     brand: InternalLink | null;
     alternatives: InternalLink[];
   };
+  external: {
+    weedUrl: string;
+    pharmacySearchUrl: string;
+    rezeptUrl: string;
+  };
   indexability: {
     isIndexable: boolean;
     reason: string;
@@ -432,6 +437,11 @@ export function resolveProductPage(
         title: `Alternative: ${p.name}`,
       })),
     },
+    external: {
+      weedUrl: WEED_DE_URLS.product(product.slug),
+      pharmacySearchUrl: WEED_DE_URLS.pharmacySearch,
+      rezeptUrl: WEED_DE_URLS.rezept,
+    },
     indexability: {
       isIndexable: product.isIndexable,
       reason: product.indexabilityReason,
@@ -478,6 +488,10 @@ export interface CityPageData {
   links: {
     pharmacies: InternalLink[];
     nearbyCities: InternalLink[];
+  };
+  external: {
+    pharmacySearchUrl: string;
+    rezeptUrl: string;
   };
   indexability: {
     isIndexable: boolean;
@@ -574,6 +588,10 @@ export function resolveCityPage(
         title: `${c.pharmacyCount} Apotheken in ${c.name}`,
       })),
     },
+    external: {
+      pharmacySearchUrl: WEED_DE_URLS.pharmacySearch,
+      rezeptUrl: WEED_DE_URLS.rezept,
+    },
     indexability: {
       isIndexable: city.isIndexable,
       reason: city.indexabilityReason,
@@ -626,6 +644,10 @@ export interface PharmacyPageData {
   links: {
     city: InternalLink;
     nearbyPharmacies: InternalLink[];
+  };
+  external: {
+    weedUrl: string;
+    rezeptUrl: string;
   };
   indexability: {
     isIndexable: boolean;
@@ -738,6 +760,10 @@ export function resolvePharmacyPage(
         title: `${p.name} in ${p.cityName}`,
       })),
     },
+    external: {
+      weedUrl: WEED_DE_URLS.pharmacy(pharmacy.slug),
+      rezeptUrl: WEED_DE_URLS.rezept,
+    },
     indexability: {
       isIndexable: pharmacy.isIndexable,
       reason: pharmacy.indexabilityReason,
@@ -777,6 +803,11 @@ export interface BrandPageData {
   };
   links: {
     products: InternalLink[];
+  };
+  external: {
+    searchUrl: string;
+    pharmacySearchUrl: string;
+    rezeptUrl: string;
   };
 }
 
@@ -875,6 +906,11 @@ export function resolveBrandPage(
         title: p.name,
       })),
     },
+    external: {
+      searchUrl: WEED_DE_URLS.brand(brand.name),
+      pharmacySearchUrl: WEED_DE_URLS.pharmacySearch,
+      rezeptUrl: WEED_DE_URLS.rezept,
+    },
   };
 }
 
@@ -910,6 +946,11 @@ export interface ApothekeHubPageData {
   };
   links: {
     topCities: InternalLink[];
+  };
+  external: {
+    pharmacySearchUrl: string;
+    productSearchUrl: string;
+    rezeptUrl: string;
   };
 }
 
@@ -1001,6 +1042,11 @@ export function resolveApothekeHubPage(
         text: `Cannabis Apotheke ${c.name}`,
         title: `${c.pharmacyCount} Apotheken in ${c.name}`,
       })),
+    },
+    external: {
+      pharmacySearchUrl: WEED_DE_URLS.pharmacySearch,
+      productSearchUrl: WEED_DE_URLS.productSearch,
+      rezeptUrl: WEED_DE_URLS.rezept,
     },
   };
 }

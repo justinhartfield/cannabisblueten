@@ -2,7 +2,7 @@
   "brand": {
     "slug": "medical-cnbs",
     "name": "Medical CNBS",
-    "productCount": 30
+    "productCount": 29
   },
   "products": [
     {
@@ -159,15 +159,6 @@
       "strainName": "Siggis Kirsche"
     },
     {
-      "slug": "kejf-smnz-271",
-      "name": "KEjF. SMNZ 27/1",
-      "type": "flower",
-      "thcPercent": 27,
-      "priceMin": null,
-      "inStock": false,
-      "strainName": "Siggi's Minze"
-    },
-    {
       "slug": "cnbs-vv-301",
       "name": "CNBS VV 30/1",
       "type": "flower",
@@ -277,9 +268,9 @@
     }
   ],
   "stats": {
-    "productCount": 30,
+    "productCount": 29,
     "inStockCount": 5,
-    "avgThc": 24.3,
+    "avgThc": 24.2,
     "priceRange": {
       "min": 499,
       "max": 930,
@@ -291,16 +282,16 @@
   },
   "seo": {
     "meta": {
-      "title": "Medical CNBS Cannabis Produkte - 30 Produkte",
-      "description": "Medical CNBS: 30 Cannabis Produkte. 5 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+      "title": "Medical CNBS Cannabis Produkte - 29 Produkte",
+      "description": "Medical CNBS: 29 Cannabis Produkte. 5 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
       "canonical": "https://cannabisblueten.de/brand/medical-cnbs",
       "robots": {
         "index": true,
         "follow": true
       },
       "openGraph": {
-        "title": "Medical CNBS Cannabis Produkte - 30 Produkte",
-        "description": "Medical CNBS: 30 Cannabis Produkte. 5 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+        "title": "Medical CNBS Cannabis Produkte - 29 Produkte",
+        "description": "Medical CNBS: 29 Cannabis Produkte. 5 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
         "url": "https://cannabisblueten.de/brand/medical-cnbs",
         "type": "website",
         "siteName": "CannabisBlueten.de",
@@ -350,7 +341,7 @@
         "@context": "https://schema.org",
         "@type": "ItemList",
         "name": "Medical CNBS Produkte",
-        "numberOfItems": 30,
+        "numberOfItems": 29,
         "itemListElement": [
           {
             "@type": "ListItem",
@@ -457,20 +448,20 @@
           {
             "@type": "ListItem",
             "position": 18,
-            "url": "https://cannabisblueten.de/product/kejf-smnz-271",
-            "name": "KEjF. SMNZ 27/1"
-          },
-          {
-            "@type": "ListItem",
-            "position": 19,
             "url": "https://cannabisblueten.de/product/cnbs-vv-301",
             "name": "CNBS VV 30/1"
           },
           {
             "@type": "ListItem",
-            "position": 20,
+            "position": 19,
             "url": "https://cannabisblueten.de/product/kejf-spz-291",
             "name": "KEjF. SPZ 29/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 20,
+            "url": "https://cannabisblueten.de/product/cnbs-cpj-311",
+            "name": "CNBS CPJ 31/1"
           }
         ]
       }
@@ -564,11 +555,6 @@
         "title": "KEjF. SKR 23/1"
       },
       {
-        "href": "/product/kejf-smnz-271",
-        "text": "KEjF. SMNZ 27/1",
-        "title": "KEjF. SMNZ 27/1"
-      },
-      {
         "href": "/product/cnbs-vv-301",
         "text": "CNBS VV 30/1",
         "title": "CNBS VV 30/1"
@@ -577,7 +563,17 @@
         "href": "/product/kejf-spz-291",
         "text": "KEjF. SPZ 29/1",
         "title": "KEjF. SPZ 29/1"
+      },
+      {
+        "href": "/product/cnbs-cpj-311",
+        "text": "CNBS CPJ 31/1",
+        "title": "CNBS CPJ 31/1"
       }
     ]
+  },
+  "external": {
+    "searchUrl": "https://weed.de/produktsuche?manufacturer=Medical%20CNBS",
+    "pharmacySearchUrl": "https://weed.de/apothekensuche",
+    "rezeptUrl": "https://weed.de/patient-werden"
   }
 }

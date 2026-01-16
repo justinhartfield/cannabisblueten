@@ -7,7 +7,7 @@
     "thcPercent": 24,
     "cbdPercent": 1,
     "priceMin": 494,
-    "priceMax": 494,
+    "priceMax": 498,
     "inStock": true,
     "pzn": null,
     "originCountry": "Österreich",
@@ -152,7 +152,13 @@
           "priceCurrency": "EUR",
           "price": "4.94",
           "availability": "https://schema.org/InStock",
-          "itemCondition": "https://schema.org/NewCondition"
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.94",
+            "maxPrice": "4.98",
+            "priceCurrency": "EUR"
+          }
         }
       }
     ]
@@ -196,6 +202,11 @@
         "title": "Alternative: Khiron 19/1 Gelato"
       }
     ]
+  },
+  "external": {
+    "weedUrl": "https://weed.de/produkt/drwatson-26-tmc-aus",
+    "pharmacySearchUrl": "https://weed.de/apothekensuche",
+    "rezeptUrl": "https://weed.de/patient-werden"
   },
   "indexability": {
     "isIndexable": true,

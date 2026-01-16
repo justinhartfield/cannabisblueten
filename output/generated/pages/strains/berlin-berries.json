@@ -31,10 +31,10 @@
     "productCount": 4,
     "pharmacyCount": 0,
     "priceRange": {
-      "min": 622,
+      "min": 619,
       "max": 1166,
       "formatted": {
-        "min": "6,22 €",
+        "min": "6,19 €",
         "max": "11,66 €"
       }
     }
@@ -61,7 +61,7 @@
       "name": "420 COMPOUND 25/1 CA BER",
       "brandName": "Four 20 Pharma",
       "thcPercent": 25,
-      "priceMin": 622,
+      "priceMin": 619,
       "inStock": true
     },
     {
@@ -108,7 +108,7 @@
   "seo": {
     "meta": {
       "title": "Berlin Berries (Hybrid) - Wirkung, THC & Verfügbarkeit",
-      "description": "Berlin Berries: Happy, Relaxed. 4 Produkte verfügbar. ab 6,22 €.",
+      "description": "Berlin Berries: Happy, Relaxed. 4 Produkte verfügbar. ab 6,19 €.",
       "canonical": "https://cannabisblueten.de/strain/berlin-berries",
       "robots": {
         "index": true,
@@ -116,7 +116,7 @@
       },
       "openGraph": {
         "title": "Berlin Berries (Hybrid) - Wirkung, THC & Verfügbarkeit",
-        "description": "Berlin Berries: Happy, Relaxed. 4 Produkte verfügbar. ab 6,22 €.",
+        "description": "Berlin Berries: Happy, Relaxed. 4 Produkte verfügbar. ab 6,19 €.",
         "url": "https://cannabisblueten.de/strain/berlin-berries",
         "type": "website",
         "siteName": "CannabisBlueten.de",
@@ -263,6 +263,11 @@
         "title": "Beta-Caryophyllene Terpen"
       }
     ]
+  },
+  "external": {
+    "weedUrl": "https://weed.de/strains/berlin-berries",
+    "pharmacySearchUrl": "https://weed.de/apothekensuche",
+    "rezeptUrl": "https://weed.de/patient-werden"
   },
   "indexability": {
     "isIndexable": true,

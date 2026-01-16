@@ -71,7 +71,7 @@
       "brandName": "Remexian Pharma",
       "thcPercent": 27,
       "priceMin": 595,
-      "inStock": true
+      "inStock": false
     },
     {
       "slug": "canify-cannabis-flos-271-cda-ku-ps",
@@ -315,6 +315,11 @@
         "title": "Beta-Caryophyllene Terpen"
       }
     ]
+  },
+  "external": {
+    "weedUrl": "https://weed.de/strains/pink-slurricane",
+    "pharmacySearchUrl": "https://weed.de/apothekensuche",
+    "rezeptUrl": "https://weed.de/patient-werden"
   },
   "indexability": {
     "isIndexable": true,

@@ -6,7 +6,7 @@
     "genetics": "hybrid",
     "thcPercent": 24,
     "cbdPercent": 1,
-    "priceMin": 449,
+    "priceMin": 399,
     "priceMax": 900,
     "inStock": true,
     "pzn": null,
@@ -110,16 +110,16 @@
   ],
   "seo": {
     "meta": {
-      "title": "Remexian 24/1 CRX OOG - Remexian Pharma | ab 4,49 €",
-      "description": "Remexian 24/1 CRX OOG von Remexian Pharma. THC: 24%, CBD: 1%. Sorte: Oasis OG. Preis ab 4,49 €. Jetzt verfügbar.",
+      "title": "Remexian 24/1 CRX OOG - Remexian Pharma | ab 3,99 €",
+      "description": "Remexian 24/1 CRX OOG von Remexian Pharma. THC: 24%, CBD: 1%. Sorte: Oasis OG. Preis ab 3,99 €. Jetzt verfügbar.",
       "canonical": "https://cannabisblueten.de/product/remexian-241-crx-oog",
       "robots": {
         "index": true,
         "follow": true
       },
       "openGraph": {
-        "title": "Remexian 24/1 CRX OOG - Remexian Pharma | ab 4,49 €",
-        "description": "Remexian 24/1 CRX OOG von Remexian Pharma. THC: 24%, CBD: 1%. Sorte: Oasis OG. Preis ab 4,49 €. Jetzt verfügbar.",
+        "title": "Remexian 24/1 CRX OOG - Remexian Pharma | ab 3,99 €",
+        "description": "Remexian 24/1 CRX OOG von Remexian Pharma. THC: 24%, CBD: 1%. Sorte: Oasis OG. Preis ab 3,99 €. Jetzt verfügbar.",
         "url": "https://cannabisblueten.de/product/remexian-241-crx-oog",
         "type": "product",
         "siteName": "CannabisBlueten.de",
@@ -184,12 +184,12 @@
           "@type": "Offer",
           "url": "https://cannabisblueten.de/product/remexian-241-crx-oog",
           "priceCurrency": "EUR",
-          "price": "4.49",
+          "price": "3.99",
           "availability": "https://schema.org/InStock",
           "itemCondition": "https://schema.org/NewCondition",
           "priceSpecification": {
             "@type": "PriceSpecification",
-            "minPrice": "4.49",
+            "minPrice": "3.99",
             "maxPrice": "9.00",
             "priceCurrency": "EUR"
           }
@@ -240,6 +240,11 @@
         "title": "Alternative: Tilray Cannabisextrakt THC25"
       }
     ]
+  },
+  "external": {
+    "weedUrl": "https://weed.de/produkt/remexian-241-crx-oog",
+    "pharmacySearchUrl": "https://weed.de/apothekensuche",
+    "rezeptUrl": "https://weed.de/patient-werden"
   },
   "indexability": {
     "isIndexable": true,

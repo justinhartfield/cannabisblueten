@@ -58,6 +58,14 @@
       "inStock": true
     },
     {
+      "slug": "wellford-peak-331-ca-pkm",
+      "name": "Wellford Peak 33/1 CA PKM",
+      "brandName": "Therismos",
+      "thcPercent": 33,
+      "priceMin": 499,
+      "inStock": true
+    },
+    {
       "slug": "wellford-peak-281-ca-pkm",
       "name": "Wellford Peak 28/1 CA PKM",
       "brandName": "Therismos",
@@ -87,14 +95,6 @@
       "brandName": "Cannamedical",
       "thcPercent": 24,
       "priceMin": 678,
-      "inStock": true
-    },
-    {
-      "slug": "demecan-typ-1",
-      "name": "Demecan Typ 1",
-      "brandName": "Demecan",
-      "thcPercent": 21,
-      "priceMin": 694,
       "inStock": true
     }
   ],
@@ -200,6 +200,11 @@
         "title": "Alternative: Aurora THC 25 Cannabis Extract"
       },
       {
+        "href": "/product/wellford-peak-331-ca-pkm",
+        "text": "Wellford Peak 33/1 CA PKM",
+        "title": "Alternative: Wellford Peak 33/1 CA PKM"
+      },
+      {
         "href": "/product/wellford-peak-281-ca-pkm",
         "text": "Wellford Peak 28/1 CA PKM",
         "title": "Alternative: Wellford Peak 28/1 CA PKM"
@@ -218,13 +223,13 @@
         "href": "/product/cannamedical-indica-forte-ej",
         "text": "Cannamedical Indica forte EJ",
         "title": "Alternative: Cannamedical Indica forte EJ"
-      },
-      {
-        "href": "/product/demecan-typ-1",
-        "text": "Demecan Typ 1",
-        "title": "Alternative: Demecan Typ 1"
       }
     ]
+  },
+  "external": {
+    "weedUrl": "https://weed.de/produkt/therismos-331-pkm",
+    "pharmacySearchUrl": "https://weed.de/apothekensuche",
+    "rezeptUrl": "https://weed.de/patient-werden"
   },
   "indexability": {
     "isIndexable": true,

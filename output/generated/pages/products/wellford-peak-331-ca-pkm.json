@@ -8,7 +8,7 @@
     "cbdPercent": 1,
     "priceMin": 499,
     "priceMax": 499,
-    "inStock": false,
+    "inStock": true,
     "pzn": null,
     "originCountry": "Kanada",
     "imageUrl": "https://weed.de/products/therismos-331-pkm-07ahjc.png"
@@ -101,7 +101,7 @@
   "seo": {
     "meta": {
       "title": "Wellford Peak 33/1 CA PKM - Therismos | ab 4,99 €",
-      "description": "Wellford Peak 33/1 CA PKM von Therismos. THC: 33%, CBD: 1%. Sorte: Pink Kush Mints. Preis ab 4,99 €. Preise vergleichen.",
+      "description": "Wellford Peak 33/1 CA PKM von Therismos. THC: 33%, CBD: 1%. Sorte: Pink Kush Mints. Preis ab 4,99 €. Jetzt verfügbar.",
       "canonical": "https://cannabisblueten.de/product/wellford-peak-331-ca-pkm",
       "robots": {
         "index": true,
@@ -109,7 +109,7 @@
       },
       "openGraph": {
         "title": "Wellford Peak 33/1 CA PKM - Therismos | ab 4,99 €",
-        "description": "Wellford Peak 33/1 CA PKM von Therismos. THC: 33%, CBD: 1%. Sorte: Pink Kush Mints. Preis ab 4,99 €. Preise vergleichen.",
+        "description": "Wellford Peak 33/1 CA PKM von Therismos. THC: 33%, CBD: 1%. Sorte: Pink Kush Mints. Preis ab 4,99 €. Jetzt verfügbar.",
         "url": "https://cannabisblueten.de/product/wellford-peak-331-ca-pkm",
         "type": "product",
         "siteName": "CannabisBlueten.de",
@@ -176,7 +176,7 @@
           "url": "https://cannabisblueten.de/product/wellford-peak-331-ca-pkm",
           "priceCurrency": "EUR",
           "price": "4.99",
-          "availability": "https://schema.org/OutOfStock",
+          "availability": "https://schema.org/InStock",
           "itemCondition": "https://schema.org/NewCondition"
         }
       }
@@ -226,8 +226,13 @@
       }
     ]
   },
+  "external": {
+    "weedUrl": "https://weed.de/produkt/wellford-peak-331-ca-pkm",
+    "pharmacySearchUrl": "https://weed.de/apothekensuche",
+    "rezeptUrl": "https://weed.de/patient-werden"
+  },
   "indexability": {
     "isIndexable": true,
-    "reason": "Has price data"
+    "reason": "In stock"
   }
 }

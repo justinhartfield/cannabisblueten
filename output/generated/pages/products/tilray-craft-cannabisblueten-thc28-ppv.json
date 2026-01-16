@@ -110,10 +110,10 @@
       "inStock": true
     },
     {
-      "slug": "khiron-191-gelato",
-      "name": "Khiron 19/1 Gelato",
-      "brandName": "Khiron",
-      "thcPercent": 17.6,
+      "slug": "42-compound-271-ca-ppe",
+      "name": "420 Compound 27/1 CA PPE",
+      "brandName": "Four 20 Pharma",
+      "thcPercent": 27,
       "priceMin": 638,
       "inStock": true
     }
@@ -240,11 +240,16 @@
         "title": "Alternative: Demecan Typ 2"
       },
       {
-        "href": "/product/khiron-191-gelato",
-        "text": "Khiron 19/1 Gelato",
-        "title": "Alternative: Khiron 19/1 Gelato"
+        "href": "/product/42-compound-271-ca-ppe",
+        "text": "420 Compound 27/1 CA PPE",
+        "title": "Alternative: 420 Compound 27/1 CA PPE"
       }
     ]
+  },
+  "external": {
+    "weedUrl": "https://weed.de/produkt/tilray-craft-cannabisblueten-thc28-ppv",
+    "pharmacySearchUrl": "https://weed.de/apothekensuche",
+    "rezeptUrl": "https://weed.de/patient-werden"
   },
   "indexability": {
     "isIndexable": true,

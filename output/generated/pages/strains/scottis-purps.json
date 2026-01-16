@@ -42,10 +42,10 @@
     "pharmacyCount": 0,
     "priceRange": {
       "min": 569,
-      "max": 848,
+      "max": 948,
       "formatted": {
         "min": "5,69 €",
-        "max": "8,48 €"
+        "max": "9,48 €"
       }
     }
   },
@@ -226,6 +226,11 @@
         "title": "Linalool Terpen"
       }
     ]
+  },
+  "external": {
+    "weedUrl": "https://weed.de/strains/scottis-purps",
+    "pharmacySearchUrl": "https://weed.de/apothekensuche",
+    "rezeptUrl": "https://weed.de/patient-werden"
   },
   "indexability": {
     "isIndexable": true,

@@ -44,7 +44,7 @@
       "brandName": "Cannamedical",
       "thcPercent": 21,
       "priceMin": 789,
-      "inStock": true
+      "inStock": false
     }
   ],
   "similarStrains": [],
@@ -142,6 +142,11 @@
     ],
     "similarStrains": [],
     "terpenes": []
+  },
+  "external": {
+    "weedUrl": "https://weed.de/strains/kerosane-crash",
+    "pharmacySearchUrl": "https://weed.de/apothekensuche",
+    "rezeptUrl": "https://weed.de/patient-werden"
   },
   "indexability": {
     "isIndexable": true,

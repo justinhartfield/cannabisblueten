@@ -8,7 +8,7 @@
     "cbdPercent": 1,
     "priceMin": 789,
     "priceMax": 789,
-    "inStock": true,
+    "inStock": false,
     "pzn": [],
     "originCountry": "Mazedonien",
     "imageUrl": null
@@ -83,7 +83,7 @@
   "seo": {
     "meta": {
       "title": "Cannamedical Indica Classic NM 22/1 | ab 7,89 €",
-      "description": "Cannamedical Indica Classic NM 22/1 von Cannamedical. THC: 21%, CBD: 1%. Sorte: Kerosane Crash. Preis ab 7,89 €. Jetzt verfügbar.",
+      "description": "Cannamedical Indica Classic NM 22/1 von Cannamedical. THC: 21%, CBD: 1%. Sorte: Kerosane Crash. Preis ab 7,89 €. Preise vergleichen.",
       "canonical": "https://cannabisblueten.de/product/cannamedical-indica-classic-nm-221",
       "robots": {
         "index": true,
@@ -91,7 +91,7 @@
       },
       "openGraph": {
         "title": "Cannamedical Indica Classic NM 22/1 | ab 7,89 €",
-        "description": "Cannamedical Indica Classic NM 22/1 von Cannamedical. THC: 21%, CBD: 1%. Sorte: Kerosane Crash. Preis ab 7,89 €. Jetzt verfügbar.",
+        "description": "Cannamedical Indica Classic NM 22/1 von Cannamedical. THC: 21%, CBD: 1%. Sorte: Kerosane Crash. Preis ab 7,89 €. Preise vergleichen.",
         "url": "https://cannabisblueten.de/product/cannamedical-indica-classic-nm-221",
         "type": "product",
         "siteName": "CannabisBlueten.de",
@@ -159,7 +159,7 @@
           "url": "https://cannabisblueten.de/product/cannamedical-indica-classic-nm-221",
           "priceCurrency": "EUR",
           "price": "7.89",
-          "availability": "https://schema.org/InStock",
+          "availability": "https://schema.org/OutOfStock",
           "itemCondition": "https://schema.org/NewCondition"
         }
       }
@@ -209,8 +209,13 @@
       }
     ]
   },
+  "external": {
+    "weedUrl": "https://weed.de/produkt/cannamedical-indica-classic-nm-221",
+    "pharmacySearchUrl": "https://weed.de/apothekensuche",
+    "rezeptUrl": "https://weed.de/patient-werden"
+  },
   "indexability": {
     "isIndexable": true,
-    "reason": "In stock"
+    "reason": "Has price data"
   }
 }
