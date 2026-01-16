@@ -6,7 +6,7 @@
     "genetics": "indica",
     "thcPercent": 21,
     "cbdPercent": 1,
-    "priceMin": 395,
+    "priceMin": 340,
     "priceMax": 629,
     "inStock": true,
     "pzn": null,
@@ -16,7 +16,7 @@
   "brand": {
     "slug": "remexian-pharma",
     "name": "Remexian Pharma",
-    "productCount": 340
+    "productCount": 343
   },
   "strain": {
     "slug": "granddaddy-og",
@@ -94,34 +94,34 @@
       "inStock": true
     },
     {
+      "slug": "cannamedical-indica-forte-ej",
+      "name": "Cannamedical Indica forte EJ",
+      "brandName": "Cannamedical",
+      "thcPercent": 24,
+      "priceMin": 678,
+      "inStock": true
+    },
+    {
       "slug": "demecan-typ-1",
       "name": "Demecan Typ 1",
       "brandName": "Demecan",
       "thcPercent": 21,
       "priceMin": 694,
       "inStock": true
-    },
-    {
-      "slug": "cannamedical-indica-forte-ej",
-      "name": "Cannamedical Indica forte EJ",
-      "brandName": "Cannamedical",
-      "thcPercent": 24,
-      "priceMin": 700,
-      "inStock": true
     }
   ],
   "seo": {
     "meta": {
-      "title": "Madrecan 21/1 GOG - Remexian Pharma | ab 3,95 €",
-      "description": "Madrecan 21/1 GOG von Remexian Pharma. THC: 21%, CBD: 1%. Sorte: Granddaddy OG. Preis ab 3,95 €. Jetzt verfügbar.",
+      "title": "Madrecan 21/1 GOG - Remexian Pharma | ab 3,40 €",
+      "description": "Madrecan 21/1 GOG von Remexian Pharma. THC: 21%, CBD: 1%. Sorte: Granddaddy OG. Preis ab 3,40 €. Jetzt verfügbar.",
       "canonical": "https://weed.de/product/madrecan-211-gog",
       "robots": {
         "index": true,
         "follow": true
       },
       "openGraph": {
-        "title": "Madrecan 21/1 GOG - Remexian Pharma | ab 3,95 €",
-        "description": "Madrecan 21/1 GOG von Remexian Pharma. THC: 21%, CBD: 1%. Sorte: Granddaddy OG. Preis ab 3,95 €. Jetzt verfügbar.",
+        "title": "Madrecan 21/1 GOG - Remexian Pharma | ab 3,40 €",
+        "description": "Madrecan 21/1 GOG von Remexian Pharma. THC: 21%, CBD: 1%. Sorte: Granddaddy OG. Preis ab 3,40 €. Jetzt verfügbar.",
         "url": "https://weed.de/product/madrecan-211-gog",
         "type": "product",
         "siteName": "Weed.de",
@@ -216,14 +216,14 @@
         "title": "Alternative: Adven Cannabisextrakt THC 10 CBD 10"
       },
       {
-        "href": "/product/demecan-typ-1",
-        "text": "Demecan Typ 1",
-        "title": "Alternative: Demecan Typ 1"
-      },
-      {
         "href": "/product/cannamedical-indica-forte-ej",
         "text": "Cannamedical Indica forte EJ",
         "title": "Alternative: Cannamedical Indica forte EJ"
+      },
+      {
+        "href": "/product/demecan-typ-1",
+        "text": "Demecan Typ 1",
+        "title": "Alternative: Demecan Typ 1"
       }
     ]
   },

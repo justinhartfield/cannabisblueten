@@ -9,6 +9,7 @@
 import type { Metadata } from 'next';
 import type { CityPageData } from '@/resolvers';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
+import { CityMapClient } from '@/components/CityMapClient';
 
 // =============================================================================
 // METADATA
@@ -135,27 +136,20 @@ export default async function CityPage({ params }: PageProps) {
               </div>
             </div>
 
-            {/* Visual: Stylized Map Component */}
-            <div className="relative h-[300px] lg:h-[400px] rounded-3xl overflow-hidden bg-clinical-100 group">
-              <div className="absolute inset-0 bg-gradient-to-br from-clinical-50 to-clinical-100" />
-
-              {/* Pulse Pins */}
-              <div className="absolute top-1/2 left-1/3 w-4 h-4 bg-safety rounded-full shadow-2xl animate-ping opacity-75" />
-              <div className="absolute top-1/2 left-1/3 w-4 h-4 bg-safety rounded-full border-2 border-white" />
-
-              <div className="absolute top-1/3 right-1/4 w-3 h-3 bg-clinical-800 rounded-full animate-pulse" />
-              <div className="absolute bottom-1/4 left-1/2 w-3 h-3 bg-clinical-800 rounded-full animate-pulse" />
-
-              {/* Floating Info Card */}
-              <div className="absolute bottom-6 right-6 glass-panel p-4 rounded-2xl shadow-xl max-w-[200px] border border-white/40">
-                <p className="text-xs font-black text-clinical-900 uppercase mb-1">
-                  Live in {data.city.name}
-                </p>
-                <p className="text-[10px] text-clinical-600 leading-tight">
-                  {data.pharmacies.filter((p) => p.hasDelivery).length} Apotheken bieten
-                  Lieferung an.
-                </p>
-              </div>
+            {/* Interactive Map Component */}
+            <div className="relative h-[350px] lg:h-[420px] rounded-3xl overflow-hidden bg-gradient-to-br from-clinical-50 to-clinical-100 border border-clinical-100">
+              <CityMapClient
+                cityName={data.city.name}
+                stateName={data.city.state}
+                pharmacies={data.pharmacies.map((p) => ({
+                  slug: p.slug,
+                  name: p.name,
+                  street: p.street,
+                  zip: p.zip,
+                  hasDelivery: p.hasDelivery,
+                  productCount: p.productCount,
+                }))}
+              />
             </div>
           </div>
         </div>

@@ -58,6 +58,14 @@
       "inStock": true
     },
     {
+      "slug": "enua-271-gth",
+      "name": "enua 27/1 GTH",
+      "brandName": "enua",
+      "thcPercent": 27,
+      "priceMin": 598,
+      "inStock": true
+    },
+    {
       "slug": "wellford-aquaponic-231-gth",
       "name": "Wellford Aquaponic 23/1 GTH",
       "brandName": "Therismos",
@@ -87,14 +95,6 @@
       "brandName": "Cannamedical",
       "thcPercent": 28,
       "priceMin": 888,
-      "inStock": true
-    },
-    {
-      "slug": "enua-251-gth-ca",
-      "name": "enua 25/1 GTH CA",
-      "brandName": "enua",
-      "thcPercent": 25,
-      "priceMin": 999,
       "inStock": true
     }
   ],
@@ -190,6 +190,11 @@
         "title": "Alternative: Cannamedical Hybrid Forte DK 22/1"
       },
       {
+        "href": "/product/enua-271-gth",
+        "text": "enua 27/1 GTH",
+        "title": "Alternative: enua 27/1 GTH"
+      },
+      {
         "href": "/product/wellford-aquaponic-231-gth",
         "text": "Wellford Aquaponic 23/1 GTH",
         "title": "Alternative: Wellford Aquaponic 23/1 GTH"
@@ -208,11 +213,6 @@
         "href": "/product/cannamedical-hybrid-ultra-dk-281",
         "text": "Cannamedical Hybrid Ultra DK 28/1",
         "title": "Alternative: Cannamedical Hybrid Ultra DK 28/1"
-      },
-      {
-        "href": "/product/enua-251-gth-ca",
-        "text": "enua 25/1 GTH CA",
-        "title": "Alternative: enua 25/1 GTH CA"
       }
     ]
   },

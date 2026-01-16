@@ -33,6 +33,15 @@
       "strainName": "Apples & Bananas x Jealousy"
     },
     {
+      "slug": "pharma-leaves-indica-dominant-supreme-31",
+      "name": "Pharma Leaves Indica Dominant Supreme 30/1",
+      "type": "flower",
+      "thcPercent": 29,
+      "priceMin": 499,
+      "inStock": true,
+      "strainName": "Do-Si-Dos"
+    },
+    {
       "slug": "nedcann-dsd-251",
       "name": "Nedcann DSD 25/01",
       "type": "flower",
@@ -76,20 +85,11 @@
       "priceMin": 498,
       "inStock": false,
       "strainName": "Do-Si-Dos"
-    },
-    {
-      "slug": "pharma-leaves-indica-dominant-supreme-31",
-      "name": "Pharma Leaves Indica Dominant Supreme 30/1",
-      "type": "flower",
-      "thcPercent": 29,
-      "priceMin": 599,
-      "inStock": false,
-      "strainName": "Do-Si-Dos"
     }
   ],
   "stats": {
     "productCount": 9,
-    "inStockCount": 4,
+    "inStockCount": 5,
     "avgThc": 26.1,
     "priceRange": {
       "min": 395,
@@ -103,7 +103,7 @@
   "seo": {
     "meta": {
       "title": "California's Medical Cannabis Produkte - 9 Produkte",
-      "description": "California's Medical: 9 Cannabis Produkte. 4 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+      "description": "California's Medical: 9 Cannabis Produkte. 5 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
       "canonical": "https://weed.de/brand/california-s-medical",
       "robots": {
         "index": true,
@@ -111,7 +111,7 @@
       },
       "openGraph": {
         "title": "California's Medical Cannabis Produkte - 9 Produkte",
-        "description": "California's Medical: 9 Cannabis Produkte. 4 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+        "description": "California's Medical: 9 Cannabis Produkte. 5 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
         "url": "https://weed.de/brand/california-s-medical",
         "type": "website",
         "siteName": "Weed.de",
@@ -184,38 +184,38 @@
           {
             "@type": "ListItem",
             "position": 4,
+            "url": "https://weed.de/product/pharma-leaves-indica-dominant-supreme-31",
+            "name": "Pharma Leaves Indica Dominant Supreme 30/1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
             "url": "https://weed.de/product/nedcann-dsd-251",
             "name": "Nedcann DSD 25/01"
           },
           {
             "@type": "ListItem",
-            "position": 5,
+            "position": 6,
             "url": "https://weed.de/product/california´s-medical-31-cm-craft-no-1",
             "name": "California´s Medical 30/1 CM CRAFT NO. 1"
           },
           {
             "@type": "ListItem",
-            "position": 6,
+            "position": 7,
             "url": "https://weed.de/product/pharma-leaves-indica-dominant-strong-211",
             "name": "Pharma Leaves Indica dominant Strong 21/1"
           },
           {
             "@type": "ListItem",
-            "position": 7,
+            "position": 8,
             "url": "https://weed.de/product/nedcann-orb-311-moonlight",
             "name": "Nedcann ORB 31/01 Moonlight"
           },
           {
             "@type": "ListItem",
-            "position": 8,
+            "position": 9,
             "url": "https://weed.de/product/pharma-leaves-indica-dominant-strong-251",
             "name": "Pharma Leaves Indica dominant Strong 25/1"
-          },
-          {
-            "@type": "ListItem",
-            "position": 9,
-            "url": "https://weed.de/product/pharma-leaves-indica-dominant-supreme-31",
-            "name": "Pharma Leaves Indica Dominant Supreme 30/1"
           }
         ]
       }
@@ -237,6 +237,11 @@
         "href": "/product/291-calimed-craft-no-8",
         "text": "29/01 Calimed craft No. 8",
         "title": "29/01 Calimed craft No. 8"
+      },
+      {
+        "href": "/product/pharma-leaves-indica-dominant-supreme-31",
+        "text": "Pharma Leaves Indica Dominant Supreme 30/1",
+        "title": "Pharma Leaves Indica Dominant Supreme 30/1"
       },
       {
         "href": "/product/nedcann-dsd-251",
@@ -262,11 +267,6 @@
         "href": "/product/pharma-leaves-indica-dominant-strong-251",
         "text": "Pharma Leaves Indica dominant Strong 25/1",
         "title": "Pharma Leaves Indica dominant Strong 25/1"
-      },
-      {
-        "href": "/product/pharma-leaves-indica-dominant-supreme-31",
-        "text": "Pharma Leaves Indica Dominant Supreme 30/1",
-        "title": "Pharma Leaves Indica Dominant Supreme 30/1"
       }
     ]
   }

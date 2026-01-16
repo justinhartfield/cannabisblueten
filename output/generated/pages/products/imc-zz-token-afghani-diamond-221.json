@@ -6,9 +6,9 @@
     "genetics": "hybrid_indica",
     "thcPercent": 22,
     "cbdPercent": 1,
-    "priceMin": 499,
-    "priceMax": 499,
-    "inStock": false,
+    "priceMin": 318,
+    "priceMax": 390,
+    "inStock": true,
     "pzn": null,
     "originCountry": "Kanada",
     "imageUrl": "https://weed.de/products/imc-zz-token-afghani-diamond-221-8g5a8f.webp"
@@ -78,7 +78,7 @@
       "name": "420 Natural 22/1 GG4",
       "brandName": "Four 20 Pharma",
       "thcPercent": 22,
-      "priceMin": 723,
+      "priceMin": 725,
       "inStock": true
     },
     {
@@ -100,16 +100,16 @@
   ],
   "seo": {
     "meta": {
-      "title": "IMC ZZ Token Afghani Diamond 22/1 | ab 4,99 €",
-      "description": "IMC ZZ Token Afghani Diamond 22/1 von IMC. THC: 22%, CBD: 1%. Sorte: Skunk x Afghani Kush. Preis ab 4,99 €. Preise vergleichen.",
+      "title": "IMC ZZ Token Afghani Diamond 22/1 | ab 3,18 €",
+      "description": "IMC ZZ Token Afghani Diamond 22/1 von IMC. THC: 22%, CBD: 1%. Sorte: Skunk x Afghani Kush. Preis ab 3,18 €. Jetzt verfügbar.",
       "canonical": "https://weed.de/product/imc-zz-token-afghani-diamond-221",
       "robots": {
         "index": true,
         "follow": true
       },
       "openGraph": {
-        "title": "IMC ZZ Token Afghani Diamond 22/1 | ab 4,99 €",
-        "description": "IMC ZZ Token Afghani Diamond 22/1 von IMC. THC: 22%, CBD: 1%. Sorte: Skunk x Afghani Kush. Preis ab 4,99 €. Preise vergleichen.",
+        "title": "IMC ZZ Token Afghani Diamond 22/1 | ab 3,18 €",
+        "description": "IMC ZZ Token Afghani Diamond 22/1 von IMC. THC: 22%, CBD: 1%. Sorte: Skunk x Afghani Kush. Preis ab 3,18 €. Jetzt verfügbar.",
         "url": "https://weed.de/product/imc-zz-token-afghani-diamond-221",
         "type": "product",
         "siteName": "Weed.de",
@@ -218,6 +218,6 @@
   },
   "indexability": {
     "isIndexable": true,
-    "reason": "Has price data"
+    "reason": "In stock"
   }
 }

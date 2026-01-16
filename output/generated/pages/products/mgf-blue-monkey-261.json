@@ -72,14 +72,6 @@
       "inStock": true
     },
     {
-      "slug": "apollo-251-bft",
-      "name": "Apollo 25/1 BFT",
-      "brandName": "Cannprisma",
-      "thcPercent": 25,
-      "priceMin": 599,
-      "inStock": true
-    },
-    {
       "slug": "420-evolution-271-ca-icc",
       "name": "420 EVOLUTION 27/1 CA ICC",
       "brandName": "Four 20 Pharma",
@@ -88,11 +80,19 @@
       "inStock": true
     },
     {
+      "slug": "apollo-251-bft",
+      "name": "Apollo 25/1 BFT",
+      "brandName": "Cannprisma",
+      "thcPercent": 25,
+      "priceMin": 700,
+      "inStock": true
+    },
+    {
       "slug": "420-natural-221-gg4",
       "name": "420 Natural 22/1 GG4",
       "brandName": "Four 20 Pharma",
       "thcPercent": 22,
-      "priceMin": 723,
+      "priceMin": 725,
       "inStock": true
     },
     {
@@ -200,14 +200,14 @@
         "title": "Alternative: Ceres No. 2"
       },
       {
-        "href": "/product/apollo-251-bft",
-        "text": "Apollo 25/1 BFT",
-        "title": "Alternative: Apollo 25/1 BFT"
-      },
-      {
         "href": "/product/420-evolution-271-ca-icc",
         "text": "420 EVOLUTION 27/1 CA ICC",
         "title": "Alternative: 420 EVOLUTION 27/1 CA ICC"
+      },
+      {
+        "href": "/product/apollo-251-bft",
+        "text": "Apollo 25/1 BFT",
+        "title": "Alternative: Apollo 25/1 BFT"
       },
       {
         "href": "/product/420-natural-221-gg4",

@@ -26,16 +26,16 @@
       "Beta-Caryophyllene"
     ],
     "description": "Kush Cookies vereint die minzig-schokoladige Süße von GSC mit den erdigen Zitrusaromen von OG Kush. Die dichten, trichomreichen Blüten bieten ein geschmackvolles und kraftvolles Erlebnis. Eine zerebrale Belebung, die sich zu einer wohltuenden Entspannung des gesamten Körpers entwickelt. Diese Sorte eignet sich sowohl für gesellige Anlässe als auch für ruhige Abende und zeichnet sich durch ihre Vielseitigkeit und gleichbleibende Qualität aus.",
-    "imageUrl": "/strains/685a8adeac8c37a562d384e2-ehidb0.webp"
+    "imageUrl": "https://weed.de/strains/685a8adeac8c37a562d384e2-ehidb0.webp"
   },
   "stats": {
-    "productCount": 2,
+    "productCount": 3,
     "pharmacyCount": 0,
     "priceRange": {
-      "min": 649,
+      "min": 425,
       "max": 799,
       "formatted": {
-        "min": "6,49 €",
+        "min": "4,25 €",
         "max": "7,99 €"
       }
     }
@@ -55,6 +55,14 @@
       "brandName": "Nimbus Health",
       "thcPercent": 27,
       "priceMin": 649,
+      "inStock": true
+    },
+    {
+      "slug": "petit-vert-241-gte-kco",
+      "name": "Petit Vert 24/1 GTE KCO",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 23,
+      "priceMin": 425,
       "inStock": true
     }
   ],
@@ -93,7 +101,7 @@
   "seo": {
     "meta": {
       "title": "Kush Cookies (Hybrid) - Wirkung, THC & Verfügbarkeit",
-      "description": "Kush Cookies Cannabis Sorte. 2 Produkte verfügbar. ab 6,49 €.",
+      "description": "Kush Cookies Cannabis Sorte. 3 Produkte verfügbar. ab 4,25 €.",
       "canonical": "https://weed.de/strain/kush-cookies",
       "robots": {
         "index": true,
@@ -101,12 +109,12 @@
       },
       "openGraph": {
         "title": "Kush Cookies (Hybrid) - Wirkung, THC & Verfügbarkeit",
-        "description": "Kush Cookies Cannabis Sorte. 2 Produkte verfügbar. ab 6,49 €.",
+        "description": "Kush Cookies Cannabis Sorte. 3 Produkte verfügbar. ab 4,25 €.",
         "url": "https://weed.de/strain/kush-cookies",
         "type": "website",
         "siteName": "Weed.de",
         "locale": "de_DE",
-        "image": "/strains/685a8adeac8c37a562d384e2-ehidb0.webp"
+        "image": "https://weed.de/strains/685a8adeac8c37a562d384e2-ehidb0.webp"
       }
     },
     "breadcrumbs": [
@@ -152,7 +160,7 @@
         "@context": "https://schema.org",
         "@type": "ItemList",
         "name": "Kush Cookies Produkte",
-        "numberOfItems": 2,
+        "numberOfItems": 3,
         "itemListElement": [
           {
             "@type": "ListItem",
@@ -165,6 +173,12 @@
             "position": 2,
             "url": "https://weed.de/product/hycann-kco-271-ca",
             "name": "Hycann KCO 27/1 CA"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/petit-vert-241-gte-kco",
+            "name": "Petit Vert 24/1 GTE KCO"
           }
         ]
       }
@@ -181,6 +195,11 @@
         "href": "/product/hycann-kco-271-ca",
         "text": "Hycann KCO 27/1 CA",
         "title": "Hycann KCO 27/1 CA von Nimbus Health"
+      },
+      {
+        "href": "/product/petit-vert-241-gte-kco",
+        "text": "Petit Vert 24/1 GTE KCO",
+        "title": "Petit Vert 24/1 GTE KCO von Remexian Pharma"
       }
     ],
     "similarStrains": [

@@ -31,16 +31,6 @@
       "genetics": "hybrid"
     },
     {
-      "slug": "somai-cannabisextrakt-mint-251",
-      "name": "Somai Cannabisextrakt Mint 25/1",
-      "brandName": "canymed",
-      "strainName": null,
-      "thcPercent": 2.5,
-      "priceMin": 199,
-      "inStock": true,
-      "genetics": "hybrid"
-    },
-    {
       "slug": "materia-sis-11",
       "name": "Materia SIS 10/10",
       "brandName": "Materia",
@@ -97,6 +87,16 @@
       "strainName": "Cannatonic",
       "thcPercent": 10,
       "priceMin": 256,
+      "inStock": true,
+      "genetics": "hybrid"
+    },
+    {
+      "slug": "somai-cannabisextrakt-mint-251",
+      "name": "Somai Cannabisextrakt Mint 25/1",
+      "brandName": "canymed",
+      "strainName": null,
+      "thcPercent": 2.5,
+      "priceMin": 257,
       "inStock": true,
       "genetics": "hybrid"
     },
@@ -169,6 +169,16 @@
       "priceMin": 279,
       "inStock": true,
       "genetics": "hybrid_sativa"
+    },
+    {
+      "slug": "somai-canify-cannabisextrakt-25-1",
+      "name": "Somai Canify Cannabisextrakt 25:1",
+      "brandName": "Somai Pharmaceuticals",
+      "strainName": "",
+      "thcPercent": 2.5,
+      "priceMin": 279,
+      "inStock": true,
+      "genetics": "indica"
     },
     {
       "slug": "drapalin-125125",
@@ -291,16 +301,6 @@
       "genetics": "hybrid"
     },
     {
-      "slug": "cks-cannabisextrakt-aundb-251",
-      "name": "CKS Cannabisextrakt A&B 25:1",
-      "brandName": "Somai Pharmaceuticals",
-      "strainName": "Apples & Bananas",
-      "thcPercent": 25,
-      "priceMin": 349,
-      "inStock": true,
-      "genetics": "hybrid"
-    },
-    {
       "slug": "tilray-cannabisextrakt-thc5cbd2",
       "name": "Tilray Cannabisextrakt THC5:CBD20",
       "brandName": "Tilray",
@@ -347,6 +347,16 @@
       "strainName": "Jack Haze",
       "thcPercent": 2.5,
       "priceMin": 357,
+      "inStock": true,
+      "genetics": "hybrid"
+    },
+    {
+      "slug": "cks-cannabisextrakt-aundb-251",
+      "name": "CKS Cannabisextrakt A&B 25:1",
+      "brandName": "Somai Pharmaceuticals",
+      "strainName": "Apples & Bananas",
+      "thcPercent": 25,
+      "priceMin": 360,
       "inStock": true,
       "genetics": "hybrid"
     },
@@ -469,16 +479,6 @@
       "priceMin": 432,
       "inStock": true,
       "genetics": "hybrid_sativa"
-    },
-    {
-      "slug": "nimbus-vita-pura-501",
-      "name": "Nimbus Vita Pura 50:1",
-      "brandName": "Nimbus Health",
-      "strainName": "Herijuana",
-      "thcPercent": 5,
-      "priceMin": 434,
-      "inStock": true,
-      "genetics": "indica"
     },
     {
       "slug": "nimbus-vita-pura-11-herijuana",
@@ -851,6 +851,16 @@
       "genetics": "sativa"
     },
     {
+      "slug": "nimbus-vita-pura-501",
+      "name": "Nimbus Vita Pura 50:1",
+      "brandName": "Nimbus Health",
+      "strainName": "Herijuana",
+      "thcPercent": 5,
+      "priceMin": 649,
+      "inStock": true,
+      "genetics": "indica"
+    },
+    {
       "slug": "sibanax-extrakt-25",
       "name": "Sibanax Extrakt 25/0",
       "brandName": "Heyday",
@@ -906,16 +916,6 @@
       "brandName": "Four 20 Pharma",
       "strainName": "Riga (EMC-1 C14)",
       "thcPercent": 0,
-      "priceMin": 700,
-      "inStock": true,
-      "genetics": "indica"
-    },
-    {
-      "slug": "somai-canify-cannabisextrakt-25-1",
-      "name": "Somai Canify Cannabisextrakt 25:1",
-      "brandName": "Somai Pharmaceuticals",
-      "strainName": "",
-      "thcPercent": 2.5,
       "priceMin": 700,
       "inStock": true,
       "genetics": "indica"
@@ -1150,44 +1150,44 @@
           {
             "@type": "ListItem",
             "position": 2,
-            "url": "https://weed.de/product/somai-cannabisextrakt-mint-251",
-            "name": "Somai Cannabisextrakt Mint 25/1"
-          },
-          {
-            "@type": "ListItem",
-            "position": 3,
             "url": "https://weed.de/product/materia-sis-11",
             "name": "Materia SIS 10/10"
           },
           {
             "@type": "ListItem",
-            "position": 4,
+            "position": 3,
             "url": "https://weed.de/product/imc-cannabisextrakt-251",
             "name": "IMC Cannabisextrakt 25/1"
           },
           {
             "@type": "ListItem",
-            "position": 5,
+            "position": 4,
             "url": "https://weed.de/product/materia-sis-2",
             "name": "Materia SIS 20/0"
           },
           {
             "@type": "ListItem",
-            "position": 6,
+            "position": 5,
             "url": "https://weed.de/product/cannabisextrakt-avextra-2525",
             "name": "Cannabisextrakt Avextra 25/25"
           },
           {
             "@type": "ListItem",
-            "position": 7,
+            "position": 6,
             "url": "https://weed.de/product/beacon-balanced-11-extrakt",
             "name": "Beacon Balanced 10:10 Extrakt"
           },
           {
             "@type": "ListItem",
-            "position": 8,
+            "position": 7,
             "url": "https://weed.de/product/imc-cannabisextrakt-1010",
             "name": "IMC Cannabisextrakt 10/10"
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "url": "https://weed.de/product/somai-cannabisextrakt-mint-251",
+            "name": "Somai Cannabisextrakt Mint 25/1"
           },
           {
             "@type": "ListItem",
@@ -1234,32 +1234,32 @@
           {
             "@type": "ListItem",
             "position": 16,
+            "url": "https://weed.de/product/somai-canify-cannabisextrakt-25-1",
+            "name": "Somai Canify Cannabisextrakt 25:1"
+          },
+          {
+            "@type": "ListItem",
+            "position": 17,
             "url": "https://weed.de/product/drapalin-125125",
             "name": "Drapalin 12.5/12.5 Cannabisextrakt"
           },
           {
             "@type": "ListItem",
-            "position": 17,
+            "position": 18,
             "url": "https://weed.de/product/somai-canify-cannabisextrakt-1010",
             "name": "Somai Canify Cannabisextrakt 10:10"
           },
           {
             "@type": "ListItem",
-            "position": 18,
+            "position": 19,
             "url": "https://weed.de/product/somai-cannabisextrakt-mint-1010",
             "name": "Somai Cannabisextrakt Mint 10:10"
           },
           {
             "@type": "ListItem",
-            "position": 19,
+            "position": 20,
             "url": "https://weed.de/product/42-cannabisextrakt-thc-1-cbd-1",
             "name": "420 Cannabisextrakt THC 10 / CBD 10"
-          },
-          {
-            "@type": "ListItem",
-            "position": 20,
-            "url": "https://weed.de/product/wvb-biocbd-5prozent-cannabidiol-isolat-oel-tropfen",
-            "name": "WVB BioCBD 5% Cannabidiol-Isolat Öl Tropfen"
           }
         ]
       }
@@ -1271,11 +1271,6 @@
         "href": "/product/beacon-cannabisextrakt-11",
         "text": "Beacon Cannabisextrakt 10:10",
         "title": "Beacon Cannabisextrakt 10:10 von Adrexpharma"
-      },
-      {
-        "href": "/product/somai-cannabisextrakt-mint-251",
-        "text": "Somai Cannabisextrakt Mint 25/1",
-        "title": "Somai Cannabisextrakt Mint 25/1 von canymed"
       },
       {
         "href": "/product/materia-sis-11",
@@ -1306,6 +1301,11 @@
         "href": "/product/imc-cannabisextrakt-1010",
         "text": "IMC Cannabisextrakt 10/10",
         "title": "IMC Cannabisextrakt 10/10 von IMC"
+      },
+      {
+        "href": "/product/somai-cannabisextrakt-mint-251",
+        "text": "Somai Cannabisextrakt Mint 25/1",
+        "title": "Somai Cannabisextrakt Mint 25/1 von canymed"
       },
       {
         "href": "/product/somai-cannabisextrakt-hybrid-1010",
@@ -1343,6 +1343,11 @@
         "title": "Avextra 10/10 von Avextra"
       },
       {
+        "href": "/product/somai-canify-cannabisextrakt-25-1",
+        "text": "Somai Canify Cannabisextrakt 25:1",
+        "title": "Somai Canify Cannabisextrakt 25:1 von Somai Pharmaceuticals"
+      },
+      {
         "href": "/product/drapalin-125125",
         "text": "Drapalin 12.5/12.5 Cannabisextrakt",
         "title": "Drapalin 12.5/12.5 Cannabisextrakt von Drapalin"
@@ -1361,11 +1366,6 @@
         "href": "/product/42-cannabisextrakt-thc-1-cbd-1",
         "text": "420 Cannabisextrakt THC 10 / CBD 10",
         "title": "420 Cannabisextrakt THC 10 / CBD 10 von Four 20 Pharma"
-      },
-      {
-        "href": "/product/wvb-biocbd-5prozent-cannabidiol-isolat-oel-tropfen",
-        "text": "WVB BioCBD 5% Cannabidiol-Isolat Öl Tropfen",
-        "title": "WVB BioCBD 5% Cannabidiol-Isolat Öl Tropfen von Wehling von Buttlar GmbH"
       }
     ],
     "brands": [

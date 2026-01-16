@@ -2,7 +2,7 @@
   "brand": {
     "slug": "adrexpharma",
     "name": "Adrexpharma",
-    "productCount": 60
+    "productCount": 62
   },
   "products": [
     {
@@ -249,6 +249,15 @@
       "strainName": "Ultra Coconut"
     },
     {
+      "slug": "drwatson-19-day-df-aus",
+      "name": "DrWatson 19 Day DF AUS",
+      "type": "flower",
+      "thcPercent": 19,
+      "priceMin": 349,
+      "inStock": true,
+      "strainName": ""
+    },
+    {
       "slug": "drwatson-24-lg-aus",
       "name": "DrWatson 24 LG AUS",
       "type": "flower",
@@ -271,7 +280,25 @@
       "name": "DrWatson 26 LG AUS",
       "type": "flower",
       "thcPercent": 26,
-      "priceMin": 495,
+      "priceMin": 494,
+      "inStock": true,
+      "strainName": ""
+    },
+    {
+      "slug": "drwatson-16-sz-day-day-aus",
+      "name": "DrWatson 16 SZ day Day AUS",
+      "type": "flower",
+      "thcPercent": 16,
+      "priceMin": 378,
+      "inStock": true,
+      "strainName": ""
+    },
+    {
+      "slug": "drwatson-26-tmc-aus",
+      "name": "DrWatson 26 TMC AUS",
+      "type": "flower",
+      "thcPercent": 24,
+      "priceMin": 494,
       "inStock": true,
       "strainName": ""
     },
@@ -535,20 +562,11 @@
       "priceMin": null,
       "inStock": false,
       "strainName": "Blueberry Pancakes"
-    },
-    {
-      "slug": "drwatson-19-day-df-aus",
-      "name": "DrWatson 19 Day DF AUS",
-      "type": "flower",
-      "thcPercent": 19,
-      "priceMin": null,
-      "inStock": false,
-      "strainName": ""
     }
   ],
   "stats": {
-    "productCount": 60,
-    "inStockCount": 30,
+    "productCount": 62,
+    "inStockCount": 33,
     "avgThc": 21.5,
     "priceRange": {
       "min": 149,
@@ -561,16 +579,16 @@
   },
   "seo": {
     "meta": {
-      "title": "Adrexpharma Cannabis Produkte - 60 Produkte",
-      "description": "Adrexpharma: 60 Cannabis Produkte. 30 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+      "title": "Adrexpharma Cannabis Produkte - 62 Produkte",
+      "description": "Adrexpharma: 62 Cannabis Produkte. 33 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
       "canonical": "https://weed.de/brand/adrexpharma",
       "robots": {
         "index": true,
         "follow": true
       },
       "openGraph": {
-        "title": "Adrexpharma Cannabis Produkte - 60 Produkte",
-        "description": "Adrexpharma: 60 Cannabis Produkte. 30 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+        "title": "Adrexpharma Cannabis Produkte - 62 Produkte",
+        "description": "Adrexpharma: 62 Cannabis Produkte. 33 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
         "url": "https://weed.de/brand/adrexpharma",
         "type": "website",
         "siteName": "Weed.de",
@@ -620,7 +638,7 @@
         "@context": "https://schema.org",
         "@type": "ItemList",
         "name": "Adrexpharma Produkte",
-        "numberOfItems": 60,
+        "numberOfItems": 62,
         "itemListElement": [
           {
             "@type": "ListItem",

@@ -51,15 +51,6 @@
       "strainName": "Pineapple Express"
     },
     {
-      "slug": "bava-med-241-blu-sk",
-      "name": "Bava-Med 24/1 BLU-SK",
-      "type": "flower",
-      "thcPercent": 24,
-      "priceMin": 399,
-      "inStock": true,
-      "strainName": "Blue Skittlz"
-    },
-    {
       "slug": "bava-med-261-pla-og",
       "name": "Bava Med 26/1 PLA - OG",
       "type": "flower",
@@ -195,6 +186,15 @@
       "strainName": "Banana Split"
     },
     {
+      "slug": "bava-med-241-blu-sk",
+      "name": "Bava-Med 24/1 BLU-SK",
+      "type": "flower",
+      "thcPercent": 24,
+      "priceMin": 399,
+      "inStock": false,
+      "strainName": "Blue Skittlz"
+    },
+    {
       "slug": "bava-med-241-sun-di",
       "name": "Bava Med 24/1 SUN-DI",
       "type": "flower",
@@ -224,7 +224,7 @@
   ],
   "stats": {
     "productCount": 24,
-    "inStockCount": 10,
+    "inStockCount": 9,
     "avgThc": 23,
     "priceRange": {
       "min": 349,
@@ -238,7 +238,7 @@
   "seo": {
     "meta": {
       "title": "bava medical Cannabis Produkte - 24 Produkte",
-      "description": "bava medical: 24 Cannabis Produkte. 10 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+      "description": "bava medical: 24 Cannabis Produkte. 9 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
       "canonical": "https://weed.de/brand/bava-medical",
       "robots": {
         "index": true,
@@ -246,7 +246,7 @@
       },
       "openGraph": {
         "title": "bava medical Cannabis Produkte - 24 Produkte",
-        "description": "bava medical: 24 Cannabis Produkte. 10 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+        "description": "bava medical: 24 Cannabis Produkte. 9 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
         "url": "https://weed.de/brand/bava-medical",
         "type": "website",
         "siteName": "Weed.de",
@@ -331,92 +331,92 @@
           {
             "@type": "ListItem",
             "position": 6,
-            "url": "https://weed.de/product/bava-med-241-blu-sk",
-            "name": "Bava-Med 24/1 BLU-SK"
-          },
-          {
-            "@type": "ListItem",
-            "position": 7,
             "url": "https://weed.de/product/bava-med-261-pla-og",
             "name": "Bava Med 26/1 PLA - OG"
           },
           {
             "@type": "ListItem",
-            "position": 8,
+            "position": 7,
             "url": "https://weed.de/product/bava-med-291-mon-bu",
             "name": "Bava Med 29/1 MON - BU"
           },
           {
             "@type": "ListItem",
-            "position": 9,
+            "position": 8,
             "url": "https://weed.de/product/bava-med-231-mim-co",
             "name": "Bava Med 23/1 MIM - CO"
           },
           {
             "@type": "ListItem",
-            "position": 10,
+            "position": 9,
             "url": "https://weed.de/product/bava-med-271-bla-ga",
             "name": "Bava Med 27/1 BLA - GA"
           },
           {
             "@type": "ListItem",
-            "position": 11,
+            "position": 10,
             "url": "https://weed.de/product/cannabis-flos-bedrocan-bava",
             "name": "Cannabis Flos Bedrocan Bava"
           },
           {
             "@type": "ListItem",
-            "position": 12,
+            "position": 11,
             "url": "https://weed.de/product/bava-med-211-sunset-diesel",
             "name": "Bava Med 21/1 Sunset Diesel"
           },
           {
             "@type": "ListItem",
-            "position": 13,
+            "position": 12,
             "url": "https://weed.de/product/bava-med-241-mac-1",
             "name": "Bava Med 24/1 Mac 1"
           },
           {
             "@type": "ListItem",
-            "position": 14,
+            "position": 13,
             "url": "https://weed.de/product/bava-med-251-berry-blitz",
             "name": "Bava Med 25/1 Berry Blitz"
           },
           {
             "@type": "ListItem",
-            "position": 15,
+            "position": 14,
             "url": "https://weed.de/product/bava-med-211-legendary-larry",
             "name": "Bava Med 21/1 Legendary Larry"
           },
           {
             "@type": "ListItem",
-            "position": 16,
+            "position": 15,
             "url": "https://weed.de/product/bava-med-211-blue-skittlz",
             "name": "Bava Med 21/1 Blue Skittlz"
           },
           {
             "@type": "ListItem",
-            "position": 17,
+            "position": 16,
             "url": "https://weed.de/product/bava-med-211-gelato-pie",
             "name": "Bava Med 21/1 Gelato Pie"
           },
           {
             "@type": "ListItem",
-            "position": 18,
+            "position": 17,
             "url": "https://weed.de/product/bava-med-211-ban-sp",
             "name": "Bava Med 21/1 BAN-SP"
           },
           {
             "@type": "ListItem",
-            "position": 19,
+            "position": 18,
             "url": "https://weed.de/product/bava-med-211-lem-sk",
             "name": "Bava Med 21/1 LEM-SK"
           },
           {
             "@type": "ListItem",
-            "position": 20,
+            "position": 19,
             "url": "https://weed.de/product/bava-med-231-man-co",
             "name": "Bava Med 23/1 MAN-CO"
+          },
+          {
+            "@type": "ListItem",
+            "position": 20,
+            "url": "https://weed.de/product/bava-med-241-ban-sp",
+            "name": "Bava Med 24/1 BAN-SP"
           }
         ]
       }
@@ -448,11 +448,6 @@
         "href": "/product/bava-med-211-pineapple-express",
         "text": "Bava Med 21/1 Pineapple Express",
         "title": "Bava Med 21/1 Pineapple Express"
-      },
-      {
-        "href": "/product/bava-med-241-blu-sk",
-        "text": "Bava-Med 24/1 BLU-SK",
-        "title": "Bava-Med 24/1 BLU-SK"
       },
       {
         "href": "/product/bava-med-261-pla-og",
@@ -523,6 +518,11 @@
         "href": "/product/bava-med-231-man-co",
         "text": "Bava Med 23/1 MAN-CO",
         "title": "Bava Med 23/1 MAN-CO"
+      },
+      {
+        "href": "/product/bava-med-241-ban-sp",
+        "text": "Bava Med 24/1 BAN-SP",
+        "title": "Bava Med 24/1 BAN-SP"
       }
     ]
   }

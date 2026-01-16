@@ -55,6 +55,14 @@
       "inStock": true
     },
     {
+      "slug": "petit-vert-241-gte-kco",
+      "name": "Petit Vert 24/1 GTE KCO",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 23,
+      "priceMin": 425,
+      "inStock": true
+    },
+    {
       "slug": "adven-cannabisextrakt-thc-20",
       "name": "Adven Cannabisextrakt THC 20",
       "brandName": "Adven",
@@ -71,27 +79,19 @@
       "inStock": true
     },
     {
+      "slug": "cannamedical-indica-forte-ej",
+      "name": "Cannamedical Indica forte EJ",
+      "brandName": "Cannamedical",
+      "thcPercent": 24,
+      "priceMin": 678,
+      "inStock": true
+    },
+    {
       "slug": "demecan-typ-1",
       "name": "Demecan Typ 1",
       "brandName": "Demecan",
       "thcPercent": 21,
       "priceMin": 694,
-      "inStock": true
-    },
-    {
-      "slug": "cannamedical-indica-forte-ej",
-      "name": "Cannamedical Indica forte EJ",
-      "brandName": "Cannamedical",
-      "thcPercent": 24,
-      "priceMin": 700,
-      "inStock": true
-    },
-    {
-      "slug": "251vayamed-cannabisextrakt",
-      "name": "25/1Vayamed Cannabisextrakt",
-      "brandName": "Vayamed",
-      "thcPercent": 2.5,
-      "priceMin": 824,
       "inStock": true
     }
   ],
@@ -186,6 +186,11 @@
         "title": "Alternative: Aurora THC 25 Cannabis Extract"
       },
       {
+        "href": "/product/petit-vert-241-gte-kco",
+        "text": "Petit Vert 24/1 GTE KCO",
+        "title": "Alternative: Petit Vert 24/1 GTE KCO"
+      },
+      {
         "href": "/product/adven-cannabisextrakt-thc-20",
         "text": "Adven Cannabisextrakt THC 20",
         "title": "Alternative: Adven Cannabisextrakt THC 20"
@@ -196,19 +201,14 @@
         "title": "Alternative: Adven Cannabisextrakt THC 10 CBD 10"
       },
       {
-        "href": "/product/demecan-typ-1",
-        "text": "Demecan Typ 1",
-        "title": "Alternative: Demecan Typ 1"
-      },
-      {
         "href": "/product/cannamedical-indica-forte-ej",
         "text": "Cannamedical Indica forte EJ",
         "title": "Alternative: Cannamedical Indica forte EJ"
       },
       {
-        "href": "/product/251vayamed-cannabisextrakt",
-        "text": "25/1Vayamed Cannabisextrakt",
-        "title": "Alternative: 25/1Vayamed Cannabisextrakt"
+        "href": "/product/demecan-typ-1",
+        "text": "Demecan Typ 1",
+        "title": "Alternative: Demecan Typ 1"
       }
     ]
   },

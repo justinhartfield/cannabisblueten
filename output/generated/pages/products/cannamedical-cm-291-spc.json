@@ -68,6 +68,14 @@
       "inStock": true
     },
     {
+      "slug": "avaay-361-spc",
+      "name": "Avaay 36/1 SPC",
+      "brandName": "Avaay",
+      "thcPercent": 36,
+      "priceMin": 1110,
+      "inStock": true
+    },
+    {
       "slug": "peace-naturals-291-sc",
       "name": "Peace Naturals 29/1 SC",
       "brandName": "Cansativa",
@@ -89,14 +97,6 @@
       "brandName": "Demecan",
       "thcPercent": 30.6,
       "priceMin": 649,
-      "inStock": false
-    },
-    {
-      "slug": "cirrus-indica-5-271",
-      "name": "Cirrus Indica 27/1",
-      "brandName": "Cantourage",
-      "thcPercent": 27,
-      "priceMin": 680,
       "inStock": false
     }
   ],
@@ -197,6 +197,11 @@
         "title": "Alternative: Cannamedical CM 31/1 SPC"
       },
       {
+        "href": "/product/avaay-361-spc",
+        "text": "Avaay 36/1 SPC",
+        "title": "Alternative: Avaay 36/1 SPC"
+      },
+      {
         "href": "/product/peace-naturals-291-sc",
         "text": "Peace Naturals 29/1 SC",
         "title": "Alternative: Peace Naturals 29/1 SC"
@@ -210,11 +215,6 @@
         "href": "/product/demecan-epic-drop",
         "text": "Demecan EPIC Drop",
         "title": "Alternative: Demecan EPIC Drop"
-      },
-      {
-        "href": "/product/cirrus-indica-5-271",
-        "text": "Cirrus Indica 27/1",
-        "title": "Alternative: Cirrus Indica 27/1"
       }
     ]
   },

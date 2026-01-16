@@ -8,7 +8,7 @@
     "cbdPercent": 1,
     "priceMin": 1110,
     "priceMax": 1110,
-    "inStock": false,
+    "inStock": true,
     "pzn": null,
     "originCountry": "Kanada",
     "imageUrl": "https://weed.de/products/avaay-361-spc-d8hii9.png"
@@ -103,7 +103,7 @@
   "seo": {
     "meta": {
       "title": "Avaay 36/1 SPC | ab 11,10 €",
-      "description": "Avaay 36/1 SPC von Avaay. THC: 36%, CBD: 1%. Sorte: Space Cake. Preis ab 11,10 €. Preise vergleichen.",
+      "description": "Avaay 36/1 SPC von Avaay. THC: 36%, CBD: 1%. Sorte: Space Cake. Preis ab 11,10 €. Jetzt verfügbar.",
       "canonical": "https://weed.de/product/avaay-361-spc",
       "robots": {
         "index": true,
@@ -111,7 +111,7 @@
       },
       "openGraph": {
         "title": "Avaay 36/1 SPC | ab 11,10 €",
-        "description": "Avaay 36/1 SPC von Avaay. THC: 36%, CBD: 1%. Sorte: Space Cake. Preis ab 11,10 €. Preise vergleichen.",
+        "description": "Avaay 36/1 SPC von Avaay. THC: 36%, CBD: 1%. Sorte: Space Cake. Preis ab 11,10 €. Jetzt verfügbar.",
         "url": "https://weed.de/product/avaay-361-spc",
         "type": "product",
         "siteName": "Weed.de",
@@ -220,6 +220,6 @@
   },
   "indexability": {
     "isIndexable": true,
-    "reason": "Has price data"
+    "reason": "In stock"
   }
 }

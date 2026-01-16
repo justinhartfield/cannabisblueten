@@ -185,7 +185,15 @@ export default async function StrainPage({ params }: PageProps) {
             {/* Right: Visual */}
             <div className="relative">
               <div className="aspect-square bg-clinical-100 rounded-3xl flex items-center justify-center overflow-hidden">
-                <span className="text-8xl">🌿</span>
+                {data.strain.imageUrl ? (
+                  <img
+                    src={data.strain.imageUrl}
+                    alt={data.strain.name}
+                    className="w-full h-full object-cover"
+                  />
+                ) : (
+                  <span className="text-8xl">🌿</span>
+                )}
               </div>
 
               {/* Floating Stats Card */}

@@ -9,6 +9,7 @@
 import type { Metadata } from 'next';
 import type { ApothekeHubPageData } from '@/resolvers';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
+import { ApothekeHubClient } from '@/components/ApothekeHubClient';
 
 // =============================================================================
 // METADATA
@@ -52,8 +53,8 @@ async function getHubPageData(): Promise<ApothekeHubPageData> {
 export default async function ApothekeHubPage() {
   const data = await getHubPageData();
 
-  // Get top cities (first 5)
-  const topCities = data.topCities.slice(0, 5);
+  // Filter out "Unknown" cities and prepare city data
+  const validCities = data.topCities.filter((c) => c.name !== 'Unknown');
 
   // Get featured pharmacies from the data or use defaults
   const featuredPharmacies = [
@@ -99,9 +100,9 @@ export default async function ApothekeHubPage() {
       </div>
 
       {/* Hero: City Finder */}
-      <section className="pt-12 pb-20 relative">
+      <section className="pt-12 pb-12 relative">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="max-w-3xl">
+          <div className="max-w-3xl mb-12">
             <span className="inline-block py-1 px-3 rounded-full bg-clinical-100 text-clinical-800 text-xs font-bold mb-6 tracking-widest uppercase">
               Bundesweites Netzwerk
             </span>
@@ -111,114 +112,19 @@ export default async function ApothekeHubPage() {
                 Cannabis-Apotheke.
               </span>
             </h1>
-            <p className="text-xl text-clinical-600 mb-10 leading-relaxed max-w-2xl">
+            <p className="text-xl text-clinical-600 leading-relaxed max-w-2xl">
               Vergleichen Sie Bestände, Preise und Lieferzeiten von über{' '}
               {data.stats.totalPharmacies} spezialisierten Apotheken in{' '}
               {data.stats.totalCities} Städten.
             </p>
-
-            {/* City Search Component */}
-            <CitySearch cities={data.topCities.map((c) => c.name)} />
-          </div>
-        </div>
-      </section>
-
-      {/* Interactive Map & Stats Section */}
-      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-24">
-        <div className="grid lg:grid-cols-12 gap-12 items-center">
-          {/* Germany Map Visualization */}
-          <div className="lg:col-span-7 relative bg-clinical-100/50 rounded-[40px] p-8 lg:p-16 border border-clinical-100 overflow-hidden min-h-[500px] flex items-center justify-center">
-            <div className="relative w-full max-w-md transition-transform hover:scale-[1.02] duration-700">
-              <svg
-                viewBox="0 0 400 500"
-                className="w-full h-auto drop-shadow-2xl"
-                fill="none"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M150 20C180 15 220 25 250 40C280 55 310 80 330 110C350 140 360 180 350 220C340 260 310 300 280 340C250 380 220 420 180 440C140 460 90 450 60 420C30 390 20 340 30 290C40 240 70 200 90 160C110 120 120 25 150 20Z"
-                  fill="#1A3C34"
-                  fillOpacity="0.05"
-                  stroke="#1A3C34"
-                  strokeWidth="1"
-                  strokeDasharray="4 4"
-                />
-                {/* Pulse Points for cities */}
-                <g className="cursor-pointer">
-                  <circle cx="180" cy="120" r="8" fill="#006d77" className="animate-ping opacity-20" />
-                  <circle cx="180" cy="120" r="4" fill="#006d77" />
-                </g>
-                <g className="cursor-pointer">
-                  <circle cx="100" cy="350" r="8" fill="#006d77" className="animate-ping opacity-20" />
-                  <circle cx="100" cy="350" r="4" fill="#006d77" />
-                </g>
-                <g className="cursor-pointer">
-                  <circle cx="80" cy="200" r="8" fill="#006d77" className="animate-ping opacity-20" />
-                  <circle cx="80" cy="200" r="4" fill="#006d77" />
-                </g>
-                <g className="cursor-pointer">
-                  <circle cx="140" cy="50" r="8" fill="#006d77" className="animate-ping opacity-20" />
-                  <circle cx="140" cy="50" r="4" fill="#006d77" />
-                </g>
-              </svg>
-            </div>
-
-            {/* Stats Floating Badge */}
-            <div className="absolute bottom-8 right-8 bg-white/80 backdrop-blur border border-white/20 p-6 rounded-2xl shadow-xl">
-              <div className="flex items-center gap-4 mb-1">
-                <span className="text-4xl font-black text-clinical-900">
-                  {data.stats.totalPharmacies}
-                </span>
-                <div className="w-2 h-2 rounded-full bg-green-500 animate-pulse" />
-              </div>
-              <p className="text-xs font-bold text-clinical-600 uppercase tracking-widest">
-                Verifizierte Apotheken
-              </p>
-            </div>
           </div>
 
-          {/* Featured List */}
-          <div className="lg:col-span-5 space-y-6">
-            <div className="flex items-center justify-between mb-8">
-              <h2 className="text-2xl font-extrabold text-clinical-900">Beliebte Städte</h2>
-              <a
-                href="#all-cities"
-                className="text-sm font-bold text-clinical-600 border-b-2 border-clinical-100 hover:border-clinical-800 transition-all"
-              >
-                Alle anzeigen
-              </a>
-            </div>
-
-            {topCities.map((city) => (
-              <a
-                key={city.slug}
-                href={`/cannabis-apotheke/${city.slug}`}
-                className="hyper-border p-6 flex items-center justify-between group cursor-pointer block"
-              >
-                <div className="flex items-center gap-4">
-                  <div className="w-12 h-12 rounded-xl bg-clinical-50 flex items-center justify-center text-clinical-800 font-bold group-hover:bg-clinical-800 group-hover:text-white transition-colors duration-500">
-                    {city.name.substring(0, 2).toUpperCase()}
-                  </div>
-                  <div>
-                    <h4 className="font-bold text-clinical-900">{city.name}</h4>
-                    <p className="text-xs text-clinical-400">
-                      {city.state || 'Deutschland'}
-                    </p>
-                  </div>
-                </div>
-                <div className="text-right">
-                  <div className="text-sm font-bold text-clinical-800">
-                    {city.pharmacyCount} Apotheken
-                  </div>
-                  {city.hasDelivery && (
-                    <div className="text-[10px] font-bold uppercase text-safety">
-                      Mit Lieferung
-                    </div>
-                  )}
-                </div>
-              </a>
-            ))}
-          </div>
+          {/* Interactive Map & Search Section */}
+          <ApothekeHubClient
+            cities={validCities}
+            citiesByState={data.citiesByState}
+            totalPharmacies={data.stats.totalPharmacies}
+          />
         </div>
       </section>
 
@@ -480,58 +386,6 @@ export default async function ApothekeHubPage() {
 // =============================================================================
 // SUB-COMPONENTS
 // =============================================================================
-
-function CitySearch({ cities }: { cities: string[] }) {
-  return (
-    <div className="relative max-w-xl">
-      <form
-        action="/cannabis-apotheke"
-        method="GET"
-        className="flex items-center bg-white rounded-2xl p-2 shadow-2xl border border-clinical-100 focus-within:ring-2 ring-clinical-800/10 transition-all"
-      >
-        <div className="pl-4 pr-2 text-clinical-200">
-          <svg
-            className="w-6 h-6"
-            fill="none"
-            stroke="currentColor"
-            viewBox="0 0 24 24"
-          >
-            <path
-              strokeLinecap="round"
-              strokeLinejoin="round"
-              strokeWidth={2}
-              d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"
-            />
-            <path
-              strokeLinecap="round"
-              strokeLinejoin="round"
-              strokeWidth={2}
-              d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"
-            />
-          </svg>
-        </div>
-        <input
-          type="text"
-          name="city"
-          placeholder="Stadt oder PLZ eingeben..."
-          className="w-full px-4 py-4 text-lg font-medium focus:outline-none"
-          list="city-suggestions"
-        />
-        <datalist id="city-suggestions">
-          {cities.map((city) => (
-            <option key={city} value={city} />
-          ))}
-        </datalist>
-        <button
-          type="submit"
-          className="bg-clinical-800 text-white px-8 py-4 rounded-xl font-bold hover:bg-clinical-900 transition-all"
-        >
-          Suchen
-        </button>
-      </form>
-    </div>
-  );
-}
 
 function FAQItem({ question, answer }: { question: string; answer: string }) {
   return (

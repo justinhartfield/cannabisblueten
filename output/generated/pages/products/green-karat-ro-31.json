@@ -8,7 +8,7 @@
     "cbdPercent": 1,
     "priceMin": 1199,
     "priceMax": 1199,
-    "inStock": true,
+    "inStock": false,
     "pzn": null,
     "originCountry": "Kanada",
     "imageUrl": "https://weed.de/products/green-karat-ro-31-30h787.png"
@@ -103,7 +103,7 @@
   "seo": {
     "meta": {
       "title": "Green Karat RO 30/1 - Cantourage | ab 11,99 €",
-      "description": "Green Karat RO 30/1 von Cantourage. THC: 30%, CBD: 1%. Sorte: Runtz OG. Preis ab 11,99 €. Jetzt verfügbar.",
+      "description": "Green Karat RO 30/1 von Cantourage. THC: 30%, CBD: 1%. Sorte: Runtz OG. Preis ab 11,99 €. Preise vergleichen.",
       "canonical": "https://weed.de/product/green-karat-ro-31",
       "robots": {
         "index": true,
@@ -111,7 +111,7 @@
       },
       "openGraph": {
         "title": "Green Karat RO 30/1 - Cantourage | ab 11,99 €",
-        "description": "Green Karat RO 30/1 von Cantourage. THC: 30%, CBD: 1%. Sorte: Runtz OG. Preis ab 11,99 €. Jetzt verfügbar.",
+        "description": "Green Karat RO 30/1 von Cantourage. THC: 30%, CBD: 1%. Sorte: Runtz OG. Preis ab 11,99 €. Preise vergleichen.",
         "url": "https://weed.de/product/green-karat-ro-31",
         "type": "product",
         "siteName": "Weed.de",
@@ -220,6 +220,6 @@
   },
   "indexability": {
     "isIndexable": true,
-    "reason": "In stock"
+    "reason": "Has price data"
   }
 }

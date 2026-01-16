@@ -8,7 +8,7 @@
     "cbdPercent": 1,
     "priceMin": 399,
     "priceMax": 399,
-    "inStock": true,
+    "inStock": false,
     "pzn": null,
     "originCountry": "Portugal",
     "imageUrl": null
@@ -76,7 +76,7 @@
       "name": "420 Natural 22/1 GG4",
       "brandName": "Four 20 Pharma",
       "thcPercent": 22,
-      "priceMin": 723,
+      "priceMin": 725,
       "inStock": true
     },
     {
@@ -99,7 +99,7 @@
   "seo": {
     "meta": {
       "title": "Bava-Med 24/1 BLU-SK - bava medical | ab 3,99 €",
-      "description": "Bava-Med 24/1 BLU-SK von bava medical. THC: 24%, CBD: 1%. Sorte: Blue Skittlz. Preis ab 3,99 €. Jetzt verfügbar.",
+      "description": "Bava-Med 24/1 BLU-SK von bava medical. THC: 24%, CBD: 1%. Sorte: Blue Skittlz. Preis ab 3,99 €. Preise vergleichen.",
       "canonical": "https://weed.de/product/bava-med-241-blu-sk",
       "robots": {
         "index": true,
@@ -107,7 +107,7 @@
       },
       "openGraph": {
         "title": "Bava-Med 24/1 BLU-SK - bava medical | ab 3,99 €",
-        "description": "Bava-Med 24/1 BLU-SK von bava medical. THC: 24%, CBD: 1%. Sorte: Blue Skittlz. Preis ab 3,99 €. Jetzt verfügbar.",
+        "description": "Bava-Med 24/1 BLU-SK von bava medical. THC: 24%, CBD: 1%. Sorte: Blue Skittlz. Preis ab 3,99 €. Preise vergleichen.",
         "url": "https://weed.de/product/bava-med-241-blu-sk",
         "type": "product",
         "siteName": "Weed.de",
@@ -215,6 +215,6 @@
   },
   "indexability": {
     "isIndexable": true,
-    "reason": "In stock"
+    "reason": "Has price data"
   }
 }

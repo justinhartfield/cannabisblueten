@@ -73,14 +73,6 @@
       "inStock": true
     },
     {
-      "slug": "nimbus-vita-pura-501",
-      "name": "Nimbus Vita Pura 50:1",
-      "brandName": "Nimbus Health",
-      "thcPercent": 5,
-      "priceMin": 434,
-      "inStock": true
-    },
-    {
       "slug": "nimbus-vita-pura-11-herijuana",
       "name": "Nimbus Vita Pura 10:1 - Herijuana",
       "brandName": "Nimbus Health",
@@ -105,11 +97,19 @@
       "inStock": true
     },
     {
-      "slug": "demecan-typ-1",
-      "name": "Demecan Typ 1",
-      "brandName": "Demecan",
-      "thcPercent": 21,
-      "priceMin": 694,
+      "slug": "nimbus-vita-pura-501",
+      "name": "Nimbus Vita Pura 50:1",
+      "brandName": "Nimbus Health",
+      "thcPercent": 5,
+      "priceMin": 649,
+      "inStock": true
+    },
+    {
+      "slug": "cannamedical-indica-forte-ej",
+      "name": "Cannamedical Indica forte EJ",
+      "brandName": "Cannamedical",
+      "thcPercent": 24,
+      "priceMin": 678,
       "inStock": true
     }
   ],
@@ -205,11 +205,6 @@
         "title": "Alternative: Aurora THC 25 Cannabis Extract"
       },
       {
-        "href": "/product/nimbus-vita-pura-501",
-        "text": "Nimbus Vita Pura 50:1",
-        "title": "Alternative: Nimbus Vita Pura 50:1"
-      },
-      {
         "href": "/product/nimbus-vita-pura-11-herijuana",
         "text": "Nimbus Vita Pura 10:1 - Herijuana",
         "title": "Alternative: Nimbus Vita Pura 10:1 - Herijuana"
@@ -225,9 +220,14 @@
         "title": "Alternative: Adven Cannabisextrakt THC 10 CBD 10"
       },
       {
-        "href": "/product/demecan-typ-1",
-        "text": "Demecan Typ 1",
-        "title": "Alternative: Demecan Typ 1"
+        "href": "/product/nimbus-vita-pura-501",
+        "text": "Nimbus Vita Pura 50:1",
+        "title": "Alternative: Nimbus Vita Pura 50:1"
+      },
+      {
+        "href": "/product/cannamedical-indica-forte-ej",
+        "text": "Cannamedical Indica forte EJ",
+        "title": "Alternative: Cannamedical Indica forte EJ"
       }
     ]
   },

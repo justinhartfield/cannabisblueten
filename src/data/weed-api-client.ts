@@ -353,7 +353,7 @@ export function parseWeedStrainRaw(raw: WeedApiStrainRaw): WeedStrain {
       average: raw.AverageRating ?? 0,
       bayesianAverage: raw.BayesianAverage ?? 0,
     },
-    imageUrl: raw.Image || null,
+    imageUrl: raw.Image ? `https://weed.de${raw.Image}` : null,
   };
 }
 

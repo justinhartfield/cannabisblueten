@@ -30,13 +30,13 @@
     "imageUrl": null
   },
   "stats": {
-    "productCount": 3,
+    "productCount": 4,
     "pharmacyCount": 0,
     "priceRange": {
-      "min": 598,
+      "min": 499,
       "max": 995,
       "formatted": {
-        "min": "5,98 €",
+        "min": "4,99 €",
         "max": "9,95 €"
       }
     }
@@ -64,6 +64,14 @@
       "brandName": "enua",
       "thcPercent": 32,
       "priceMin": 598,
+      "inStock": true
+    },
+    {
+      "slug": "petit-vert-271-fre-slu",
+      "name": "Petit Vert 27/1 FRE SLU",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 27,
+      "priceMin": 499,
       "inStock": true
     }
   ],
@@ -102,7 +110,7 @@
   "seo": {
     "meta": {
       "title": "Slurricane (Hybrid) - Wirkung, THC & Verfügbarkeit",
-      "description": "Slurricane: Sleepy, Relaxed, Hungry. 3 Produkte verfügbar. ab 5,98 €.",
+      "description": "Slurricane: Sleepy, Relaxed, Hungry. 4 Produkte verfügbar. ab 4,99 €.",
       "canonical": "https://weed.de/strain/slurricane",
       "robots": {
         "index": true,
@@ -110,7 +118,7 @@
       },
       "openGraph": {
         "title": "Slurricane (Hybrid) - Wirkung, THC & Verfügbarkeit",
-        "description": "Slurricane: Sleepy, Relaxed, Hungry. 3 Produkte verfügbar. ab 5,98 €.",
+        "description": "Slurricane: Sleepy, Relaxed, Hungry. 4 Produkte verfügbar. ab 4,99 €.",
         "url": "https://weed.de/strain/slurricane",
         "type": "website",
         "siteName": "Weed.de",
@@ -160,7 +168,7 @@
         "@context": "https://schema.org",
         "@type": "ItemList",
         "name": "Slurricane Produkte",
-        "numberOfItems": 3,
+        "numberOfItems": 4,
         "itemListElement": [
           {
             "@type": "ListItem",
@@ -179,6 +187,12 @@
             "position": 3,
             "url": "https://weed.de/product/enua-301-slc-ca",
             "name": "enua 30/1 SLC CA"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://weed.de/product/petit-vert-271-fre-slu",
+            "name": "Petit Vert 27/1 FRE SLU"
           }
         ]
       }
@@ -200,6 +214,11 @@
         "href": "/product/enua-301-slc-ca",
         "text": "enua 30/1 SLC CA",
         "title": "enua 30/1 SLC CA von enua"
+      },
+      {
+        "href": "/product/petit-vert-271-fre-slu",
+        "text": "Petit Vert 27/1 FRE SLU",
+        "title": "Petit Vert 27/1 FRE SLU von Remexian Pharma"
       }
     ],
     "similarStrains": [

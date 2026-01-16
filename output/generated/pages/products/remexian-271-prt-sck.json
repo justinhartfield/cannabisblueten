@@ -6,9 +6,9 @@
     "genetics": "sativa",
     "thcPercent": 25,
     "cbdPercent": 1,
-    "priceMin": 570,
-    "priceMax": 570,
-    "inStock": false,
+    "priceMin": 475,
+    "priceMax": 475,
+    "inStock": true,
     "pzn": [],
     "originCountry": "Portugal",
     "imageUrl": null
@@ -16,7 +16,7 @@
   "brand": {
     "slug": "remexian-pharma",
     "name": "Remexian Pharma",
-    "productCount": 340
+    "productCount": 343
   },
   "strain": {
     "slug": "strawberry-cookies",
@@ -102,16 +102,16 @@
   ],
   "seo": {
     "meta": {
-      "title": "Remexian 27/1 PRT SCK - Remexian Pharma | ab 5,70 €",
-      "description": "Remexian 27/1 PRT SCK von Remexian Pharma. THC: 25%, CBD: 1%. Sorte: Strawberry Cookies. Preis ab 5,70 €. Preise vergleichen.",
+      "title": "Remexian 27/1 PRT SCK - Remexian Pharma | ab 4,75 €",
+      "description": "Remexian 27/1 PRT SCK von Remexian Pharma. THC: 25%, CBD: 1%. Sorte: Strawberry Cookies. Preis ab 4,75 €. Jetzt verfügbar.",
       "canonical": "https://weed.de/product/remexian-271-prt-sck",
       "robots": {
         "index": true,
         "follow": true
       },
       "openGraph": {
-        "title": "Remexian 27/1 PRT SCK - Remexian Pharma | ab 5,70 €",
-        "description": "Remexian 27/1 PRT SCK von Remexian Pharma. THC: 25%, CBD: 1%. Sorte: Strawberry Cookies. Preis ab 5,70 €. Preise vergleichen.",
+        "title": "Remexian 27/1 PRT SCK - Remexian Pharma | ab 4,75 €",
+        "description": "Remexian 27/1 PRT SCK von Remexian Pharma. THC: 25%, CBD: 1%. Sorte: Strawberry Cookies. Preis ab 4,75 €. Jetzt verfügbar.",
         "url": "https://weed.de/product/remexian-271-prt-sck",
         "type": "product",
         "siteName": "Weed.de",
@@ -220,6 +220,6 @@
   },
   "indexability": {
     "isIndexable": true,
-    "reason": "Has price data"
+    "reason": "In stock"
   }
 }

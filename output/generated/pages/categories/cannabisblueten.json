@@ -6,8 +6,8 @@
     "description": "Medizinische Cannabis Blüten von verschiedenen Herstellern. Vergleichen Sie THC-Gehalt, Preise und Verfügbarkeit."
   },
   "stats": {
-    "productCount": 1785,
-    "inStockCount": 1398,
+    "productCount": 1791,
+    "inStockCount": 1407,
     "brandCount": 72,
     "avgThc": 24.2,
     "priceRange": {
@@ -49,6 +49,16 @@
       "priceMin": 334,
       "inStock": true,
       "genetics": "hybrid_indica"
+    },
+    {
+      "slug": "madrecan-211-gog",
+      "name": "Madrecan 21/1 GOG",
+      "brandName": "Remexian Pharma",
+      "strainName": "Granddaddy OG",
+      "thcPercent": 21,
+      "priceMin": 340,
+      "inStock": true,
+      "genetics": "indica"
     },
     {
       "slug": "tilray-thc-25-spotlight-porto-purps",
@@ -131,16 +141,6 @@
       "genetics": "hybrid_sativa"
     },
     {
-      "slug": "madrecan-211-gog",
-      "name": "Madrecan 21/1 GOG",
-      "brandName": "Remexian Pharma",
-      "strainName": "Granddaddy OG",
-      "thcPercent": 21,
-      "priceMin": 395,
-      "inStock": true,
-      "genetics": "indica"
-    },
-    {
       "slug": "madrecan-211-sa",
       "name": "madrecan 21/1 SA",
       "brandName": "Remexian Pharma",
@@ -221,6 +221,16 @@
       "genetics": "hybrid"
     },
     {
+      "slug": "canopy-kmi-28",
+      "name": "Canopy KMI 28",
+      "brandName": "Canopy Growth",
+      "strainName": "Kush Mints",
+      "thcPercent": 26.2,
+      "priceMin": 425,
+      "inStock": true,
+      "genetics": "indica"
+    },
+    {
       "slug": "bedrocan",
       "name": "Bedrocan Cannabis Flos 22/1 Afina",
       "brandName": "Bedrocan",
@@ -229,16 +239,6 @@
       "priceMin": 429,
       "inStock": true,
       "genetics": "hybrid_sativa"
-    },
-    {
-      "slug": "canopy-kmi-28",
-      "name": "Canopy KMI 28",
-      "brandName": "Canopy Growth",
-      "strainName": "Kush Mints",
-      "thcPercent": 26.2,
-      "priceMin": 429,
-      "inStock": true,
-      "genetics": "indica"
     },
     {
       "slug": "enua-251-mb-ca",
@@ -391,6 +391,16 @@
       "genetics": "hybrid"
     },
     {
+      "slug": "botanics-purple-cream-221",
+      "name": "BOTANICS Purple Cream 22/1",
+      "brandName": "Nimbus Health",
+      "strainName": "Purple Ice Water",
+      "thcPercent": 22.2,
+      "priceMin": 498,
+      "inStock": true,
+      "genetics": "hybrid_sativa"
+    },
+    {
       "slug": "tilray-thc-22-spotlight-porto-pk",
       "name": "Tilray THC 22 Spotlight Porto PK",
       "brandName": "Tilray",
@@ -431,22 +441,12 @@
       "genetics": "hybrid_indica"
     },
     {
-      "slug": "botanics-purple-cream-221",
-      "name": "BOTANICS Purple Cream 22/1",
-      "brandName": "Nimbus Health",
-      "strainName": "Purple Ice Water",
-      "thcPercent": 22.2,
-      "priceMin": 499,
-      "inStock": true,
-      "genetics": "hybrid_sativa"
-    },
-    {
       "slug": "pedanios-271-frg-ca",
       "name": "Pedanios 27/1 FRG-CA",
       "brandName": "Aurora",
       "strainName": "Farm Gas",
       "thcPercent": 27.7,
-      "priceMin": 514,
+      "priceMin": 509,
       "inStock": true,
       "genetics": "hybrid"
     },
@@ -901,6 +901,16 @@
       "genetics": "hybrid_indica"
     },
     {
+      "slug": "cannamedical-indica-forte-ej",
+      "name": "Cannamedical Indica forte EJ",
+      "brandName": "Cannamedical",
+      "strainName": "El Jefe",
+      "thcPercent": 24,
+      "priceMin": 678,
+      "inStock": true,
+      "genetics": "indica"
+    },
+    {
       "slug": "demecan-221-florestura",
       "name": "DEMECAN Florestura 22:01",
       "brandName": "Deutsche Medizinalcannabis",
@@ -1009,23 +1019,13 @@
       "priceMin": 690,
       "inStock": true,
       "genetics": "hybrid_indica"
-    },
-    {
-      "slug": "demecan-typ-1",
-      "name": "Demecan Typ 1",
-      "brandName": "Demecan",
-      "strainName": "Bubba Kush",
-      "thcPercent": 21,
-      "priceMin": 694,
-      "inStock": true,
-      "genetics": "indica"
     }
   ],
   "topBrands": [
     {
       "slug": "remexian-pharma",
       "name": "Remexian Pharma",
-      "productCount": 249
+      "productCount": 252
     },
     {
       "slug": "cantourage",
@@ -1076,20 +1076,20 @@
   "geneticsBreakdown": {
     "indica": 158,
     "sativa": 100,
-    "hybrid": 1527
+    "hybrid": 1533
   },
   "seo": {
     "meta": {
-      "title": "Cannabis Blüten kaufen - 1785 Produkte ab 1,95 €",
-      "description": "Cannabis Blüten: 1785 Produkte von 72 Herstellern. 1398 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+      "title": "Cannabis Blüten kaufen - 1791 Produkte ab 1,95 €",
+      "description": "Cannabis Blüten: 1791 Produkte von 72 Herstellern. 1407 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
       "canonical": "https://weed.de/products/cannabisblueten",
       "robots": {
         "index": true,
         "follow": true
       },
       "openGraph": {
-        "title": "Cannabis Blüten kaufen - 1785 Produkte ab 1,95 €",
-        "description": "Cannabis Blüten: 1785 Produkte von 72 Herstellern. 1398 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
+        "title": "Cannabis Blüten kaufen - 1791 Produkte ab 1,95 €",
+        "description": "Cannabis Blüten: 1791 Produkte von 72 Herstellern. 1407 aktuell verfügbar. Preise vergleichen & günstig kaufen.",
         "url": "https://weed.de/products/cannabisblueten",
         "type": "website",
         "siteName": "Weed.de",
@@ -1139,7 +1139,7 @@
         "@context": "https://schema.org",
         "@type": "ItemList",
         "name": "Cannabis Blüten",
-        "numberOfItems": 1785,
+        "numberOfItems": 1791,
         "itemListElement": [
           {
             "@type": "ListItem",
@@ -1162,56 +1162,56 @@
           {
             "@type": "ListItem",
             "position": 4,
+            "url": "https://weed.de/product/madrecan-211-gog",
+            "name": "Madrecan 21/1 GOG"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
             "url": "https://weed.de/product/tilray-thc-25-spotlight-porto-purps",
             "name": "Tilray THC 25 Spotlight Porto Purps"
           },
           {
             "@type": "ListItem",
-            "position": 5,
+            "position": 6,
             "url": "https://weed.de/product/imc-thc-22-t01",
             "name": "IMC THC 22 T01"
           },
           {
             "@type": "ListItem",
-            "position": 6,
+            "position": 7,
             "url": "https://weed.de/product/imc-thc25-t03",
             "name": "IMC THC25 T03"
           },
           {
             "@type": "ListItem",
-            "position": 7,
+            "position": 8,
             "url": "https://weed.de/product/imc-thc-2-t1-hk",
             "name": "IMC THC 20 T01 HK"
           },
           {
             "@type": "ListItem",
-            "position": 8,
+            "position": 9,
             "url": "https://weed.de/product/enua-221-jfg",
             "name": "enua 22/1 CA JFG"
           },
           {
             "@type": "ListItem",
-            "position": 9,
+            "position": 10,
             "url": "https://weed.de/product/canopy-bakerstreet-20",
             "name": "Canopy Bakerstreet 20"
           },
           {
             "@type": "ListItem",
-            "position": 10,
+            "position": 11,
             "url": "https://weed.de/product/enua-211-strawberry-cake",
             "name": "Enua 21/1 Strawberry Cake"
           },
           {
             "@type": "ListItem",
-            "position": 11,
+            "position": 12,
             "url": "https://weed.de/product/enua-221-abg-ca",
             "name": "Enua 22/1 ABG CA"
-          },
-          {
-            "@type": "ListItem",
-            "position": 12,
-            "url": "https://weed.de/product/madrecan-211-gog",
-            "name": "Madrecan 21/1 GOG"
           },
           {
             "@type": "ListItem",
@@ -1283,6 +1283,11 @@
         "title": "enua 22/1 BCP CA von enua"
       },
       {
+        "href": "/product/madrecan-211-gog",
+        "text": "Madrecan 21/1 GOG",
+        "title": "Madrecan 21/1 GOG von Remexian Pharma"
+      },
+      {
         "href": "/product/tilray-thc-25-spotlight-porto-purps",
         "text": "Tilray THC 25 Spotlight Porto Purps",
         "title": "Tilray THC 25 Spotlight Porto Purps von Tilray"
@@ -1321,11 +1326,6 @@
         "href": "/product/enua-221-abg-ca",
         "text": "Enua 22/1 ABG CA",
         "title": "Enua 22/1 ABG CA von enua"
-      },
-      {
-        "href": "/product/madrecan-211-gog",
-        "text": "Madrecan 21/1 GOG",
-        "title": "Madrecan 21/1 GOG von Remexian Pharma"
       },
       {
         "href": "/product/madrecan-211-sa",
@@ -1372,7 +1372,7 @@
       {
         "href": "/brand/remexian-pharma",
         "text": "Remexian Pharma",
-        "title": "249 Produkte von Remexian Pharma"
+        "title": "252 Produkte von Remexian Pharma"
       },
       {
         "href": "/brand/cantourage",

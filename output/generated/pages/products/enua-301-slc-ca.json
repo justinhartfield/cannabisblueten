@@ -76,6 +76,14 @@
       "inStock": true
     },
     {
+      "slug": "petit-vert-271-fre-slu",
+      "name": "Petit Vert 27/1 FRE SLU",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 27,
+      "priceMin": 499,
+      "inStock": true
+    },
+    {
       "slug": "demecan-typ-2",
       "name": "Demecan Typ 2",
       "brandName": "Demecan",
@@ -89,14 +97,6 @@
       "brandName": "Khiron",
       "thcPercent": 17.6,
       "priceMin": 638,
-      "inStock": true
-    },
-    {
-      "slug": "enua-251-slc-ca",
-      "name": "enua 25/1 SLC CA",
-      "brandName": "enua",
-      "thcPercent": 23.7,
-      "priceMin": 675,
       "inStock": true
     }
   ],
@@ -201,6 +201,11 @@
         "title": "Alternative: Tilray Cannabisextrakt THC10:CBD10"
       },
       {
+        "href": "/product/petit-vert-271-fre-slu",
+        "text": "Petit Vert 27/1 FRE SLU",
+        "title": "Alternative: Petit Vert 27/1 FRE SLU"
+      },
+      {
         "href": "/product/demecan-typ-2",
         "text": "Demecan Typ 2",
         "title": "Alternative: Demecan Typ 2"
@@ -209,11 +214,6 @@
         "href": "/product/khiron-191-gelato",
         "text": "Khiron 19/1 Gelato",
         "title": "Alternative: Khiron 19/1 Gelato"
-      },
-      {
-        "href": "/product/enua-251-slc-ca",
-        "text": "enua 25/1 SLC CA",
-        "title": "Alternative: enua 25/1 SLC CA"
       }
     ]
   },

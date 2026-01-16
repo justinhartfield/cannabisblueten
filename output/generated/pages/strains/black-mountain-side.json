@@ -39,9 +39,16 @@
     "imageUrl": null
   },
   "stats": {
-    "productCount": 2,
+    "productCount": 3,
     "pharmacyCount": 0,
-    "priceRange": null
+    "priceRange": {
+      "min": 499,
+      "max": 699,
+      "formatted": {
+        "min": "4,99 €",
+        "max": "6,99 €"
+      }
+    }
   },
   "products": [
     {
@@ -59,6 +66,14 @@
       "thcPercent": 25,
       "priceMin": null,
       "inStock": false
+    },
+    {
+      "slug": "petit-vert-271-fre-bmo",
+      "name": "Petit Vert 27/1 FRE BMO",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 27,
+      "priceMin": 499,
+      "inStock": true
     }
   ],
   "similarStrains": [
@@ -96,7 +111,7 @@
   "seo": {
     "meta": {
       "title": "Black Mountain Side (Sativa) - Wirkung, THC & Verfügbarkeit",
-      "description": "Black Mountain Side: Relaxed, Energetic, Sociable. 2 Produkte verfügbar.",
+      "description": "Black Mountain Side: Relaxed, Energetic, Sociable. 3 Produkte verfügbar. ab 4,99 €.",
       "canonical": "https://weed.de/strain/black-mountain-side",
       "robots": {
         "index": true,
@@ -104,7 +119,7 @@
       },
       "openGraph": {
         "title": "Black Mountain Side (Sativa) - Wirkung, THC & Verfügbarkeit",
-        "description": "Black Mountain Side: Relaxed, Energetic, Sociable. 2 Produkte verfügbar.",
+        "description": "Black Mountain Side: Relaxed, Energetic, Sociable. 3 Produkte verfügbar. ab 4,99 €.",
         "url": "https://weed.de/strain/black-mountain-side",
         "type": "website",
         "siteName": "Weed.de",
@@ -154,7 +169,7 @@
         "@context": "https://schema.org",
         "@type": "ItemList",
         "name": "Black Mountain Side Produkte",
-        "numberOfItems": 2,
+        "numberOfItems": 3,
         "itemListElement": [
           {
             "@type": "ListItem",
@@ -167,6 +182,12 @@
             "position": 2,
             "url": "https://weed.de/product/headstone-bms",
             "name": "Headstone BMS"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://weed.de/product/petit-vert-271-fre-bmo",
+            "name": "Petit Vert 27/1 FRE BMO"
           }
         ]
       }
@@ -183,6 +204,11 @@
         "href": "/product/headstone-bms",
         "text": "Headstone BMS",
         "title": "Headstone BMS von Cantourage"
+      },
+      {
+        "href": "/product/petit-vert-271-fre-bmo",
+        "text": "Petit Vert 27/1 FRE BMO",
+        "title": "Petit Vert 27/1 FRE BMO von Remexian Pharma"
       }
     ],
     "similarStrains": [

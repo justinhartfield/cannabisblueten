@@ -16,7 +16,7 @@
   "brand": {
     "slug": "remexian-pharma",
     "name": "Remexian Pharma",
-    "productCount": 340
+    "productCount": 343
   },
   "strain": {
     "slug": "strawberry-cookies",
@@ -51,6 +51,14 @@
     ]
   },
   "alternativeProducts": [
+    {
+      "slug": "remexian-271-prt-sck",
+      "name": "Remexian 27/1 PRT SCK",
+      "brandName": "Remexian Pharma",
+      "thcPercent": 25,
+      "priceMin": 475,
+      "inStock": true
+    },
     {
       "slug": "aurora-typ-1",
       "name": "Aurora Typ 1",
@@ -89,14 +97,6 @@
       "brandName": "Cannamedical",
       "thcPercent": 20,
       "priceMin": 915,
-      "inStock": true
-    },
-    {
-      "slug": "cannabis-flos-bedrocan-f20",
-      "name": "Cannabis Flos Bedrocan F20",
-      "brandName": "Four 20 Pharma",
-      "thcPercent": 22,
-      "priceMin": null,
       "inStock": true
     }
   ],
@@ -186,6 +186,11 @@
     },
     "alternatives": [
       {
+        "href": "/product/remexian-271-prt-sck",
+        "text": "Remexian 27/1 PRT SCK",
+        "title": "Alternative: Remexian 27/1 PRT SCK"
+      },
+      {
         "href": "/product/aurora-typ-1",
         "text": "Aurora Typ 1",
         "title": "Alternative: Aurora Typ 1"
@@ -209,11 +214,6 @@
         "href": "/product/cannamedical-sativa-classic-si",
         "text": "Cannamedical Sativa classic SI",
         "title": "Alternative: Cannamedical Sativa classic SI"
-      },
-      {
-        "href": "/product/cannabis-flos-bedrocan-f20",
-        "text": "Cannabis Flos Bedrocan F20",
-        "title": "Alternative: Cannabis Flos Bedrocan F20"
       }
     ]
   },

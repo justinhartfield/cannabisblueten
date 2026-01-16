@@ -98,19 +98,19 @@
       "inStock": true
     },
     {
+      "slug": "canopy-bakerstreet-221",
+      "name": "Canopy Bakerstreet 22/1",
+      "brandName": "Canopy Growth",
+      "thcPercent": 22,
+      "priceMin": 512,
+      "inStock": true
+    },
+    {
       "slug": "cm-21-hk",
       "name": "CM 20/1 HK",
       "brandName": "Cannamedical",
       "thcPercent": 20,
       "priceMin": 512,
-      "inStock": true
-    },
-    {
-      "slug": "canopy-bakerstreet-221",
-      "name": "Canopy Bakerstreet 22/1",
-      "brandName": "Canopy Growth",
-      "thcPercent": 22,
-      "priceMin": 750,
       "inStock": true
     }
   ],
@@ -220,14 +220,14 @@
         "title": "Alternative: IMC THC 17 T01"
       },
       {
-        "href": "/product/cm-21-hk",
-        "text": "CM 20/1 HK",
-        "title": "Alternative: CM 20/1 HK"
-      },
-      {
         "href": "/product/canopy-bakerstreet-221",
         "text": "Canopy Bakerstreet 22/1",
         "title": "Alternative: Canopy Bakerstreet 22/1"
+      },
+      {
+        "href": "/product/cm-21-hk",
+        "text": "CM 20/1 HK",
+        "title": "Alternative: CM 20/1 HK"
       }
     ]
   },
