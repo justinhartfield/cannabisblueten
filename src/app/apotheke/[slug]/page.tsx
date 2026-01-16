@@ -146,12 +146,22 @@ export default async function PharmacyPage({ params }: PageProps) {
               </div>
 
               {/* Product Count Highlight */}
-              <div className="bg-white/10 backdrop-blur-sm rounded-2xl p-6 inline-block">
+              <a
+                href={`${data.external.weedUrl}/menu`}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="bg-white/10 backdrop-blur-sm rounded-2xl p-6 inline-block hover:bg-white/20 transition-colors group"
+              >
                 <div className="text-4xl font-extrabold text-white mb-1">
                   {pharmacy.productCount}
                 </div>
-                <div className="text-clinical-200 text-sm">Produkte verfügbar</div>
-              </div>
+                <div className="text-clinical-200 text-sm flex items-center gap-2">
+                  Produkte verfügbar
+                  <svg className="w-4 h-4 opacity-0 group-hover:opacity-100 transition-opacity" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+                  </svg>
+                </div>
+              </a>
             </div>
 
             {/* Contact Card */}
@@ -287,21 +297,70 @@ export default async function PharmacyPage({ params }: PageProps) {
               </div>
             </div>
 
-            {/* Stats */}
+            {/* Product Inventory Section */}
             <div className="bg-clinical-800 rounded-2xl p-6 text-white">
-              <h2 className="text-xl font-bold mb-6">Sortiment</h2>
-              <div className="flex items-center justify-between">
+              <h2 className="text-xl font-bold mb-6">Sortiment bei {pharmacy.name}</h2>
+              <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-6">
                 <div>
                   <div className="text-5xl font-extrabold">{pharmacy.productCount}</div>
                   <div className="text-clinical-200">Produkte verfügbar</div>
+                  <p className="text-clinical-300 text-sm mt-2 max-w-md">
+                    Entdecken Sie das vollständige Sortiment mit aktuellen Preisen und Verfügbarkeit.
+                  </p>
                 </div>
-                <Link
-                  href="/products/alle"
-                  className="px-6 py-3 bg-white text-clinical-800 rounded-xl font-semibold hover:bg-clinical-50 transition-colors"
+                <a
+                  href={`${data.external.weedUrl}/menu`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="px-6 py-3 bg-white text-clinical-800 rounded-xl font-semibold hover:bg-clinical-50 transition-colors flex items-center gap-2 whitespace-nowrap"
                 >
                   Produkte ansehen
-                </Link>
+                  <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+                  </svg>
+                </a>
               </div>
+            </div>
+
+            {/* Featured Products Teaser */}
+            <div className="bg-white rounded-2xl p-6 shadow-sm border border-clinical-100">
+              <div className="flex items-center justify-between mb-4">
+                <h2 className="text-xl font-bold text-clinical-800">Beliebte Produkte</h2>
+                <a
+                  href={`${data.external.weedUrl}/menu`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-sm font-semibold text-safety hover:text-clinical-800 transition-colors flex items-center gap-1"
+                >
+                  Alle {pharmacy.productCount} Produkte
+                  <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                  </svg>
+                </a>
+              </div>
+              <div className="grid grid-cols-2 sm:grid-cols-4 gap-4">
+                {[1, 2, 3, 4].map((i) => (
+                  <a
+                    key={i}
+                    href={`${data.external.weedUrl}/menu`}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="group bg-clinical-50 rounded-xl p-4 hover:bg-clinical-100 transition-colors"
+                  >
+                    <div className="aspect-square bg-clinical-100 rounded-lg mb-3 flex items-center justify-center group-hover:bg-clinical-200 transition-colors">
+                      <svg className="w-8 h-8 text-clinical-300" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4" />
+                      </svg>
+                    </div>
+                    <div className="text-xs text-clinical-400 text-center">
+                      Auf weed.de ansehen
+                    </div>
+                  </a>
+                ))}
+              </div>
+              <p className="text-sm text-clinical-500 mt-4 text-center">
+                Preise, Verfügbarkeit und das vollständige Sortiment finden Sie auf weed.de
+              </p>
             </div>
           </div>
 
