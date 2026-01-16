@@ -103,7 +103,7 @@
     "meta": {
       "title": "LOT 420 OC - Cantourage | ab 7,45 €",
       "description": "LOT 420 OC von Cantourage. THC: 26%, CBD: 1%. Sorte: Orange Cake. Preis ab 7,45 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/lot-420-oc",
+      "canonical": "https://cannabisblueten.de/product/lot-420-oc",
       "robots": {
         "index": true,
         "follow": true
@@ -111,9 +111,9 @@
       "openGraph": {
         "title": "LOT 420 OC - Cantourage | ab 7,45 €",
         "description": "LOT 420 OC von Cantourage. THC: 26%, CBD: 1%. Sorte: Orange Cake. Preis ab 7,45 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/lot-420-oc",
+        "url": "https://cannabisblueten.de/product/lot-420-oc",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/products/lot-420-oc-fc0jib.jpeg"
       }
@@ -121,19 +121,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cantourage",
-        "href": "https://weed.de/brand/cantourage"
+        "href": "https://cannabisblueten.de/brand/cantourage"
       },
       {
         "name": "LOT 420 OC",
-        "href": "https://weed.de/product/lot-420-oc"
+        "href": "https://cannabisblueten.de/product/lot-420-oc"
       }
     ],
     "schema": [
@@ -145,19 +145,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "LOT 420 OC",
-            "item": "https://weed.de/product/lot-420-oc"
+            "item": "https://cannabisblueten.de/product/lot-420-oc"
           }
         ]
       },
@@ -165,11 +165,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "LOT 420 OC",
+        "url": "https://cannabisblueten.de/product/lot-420-oc",
         "brand": {
           "@type": "Brand",
           "name": "Cantourage"
         },
-        "description": "THC: 26%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 26%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/lot-420-oc",
+          "priceCurrency": "EUR",
+          "price": "7.45",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "7.45",
+            "maxPrice": "10.99",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

@@ -65,7 +65,7 @@
     "meta": {
       "title": "Cannabis Apotheke Rheinland - Cannabis Apotheke in Bad Neuenahr-Ahrweiler",
       "description": "Cannabis Apotheke Rheinland in Bad Neuenahr-Ahrweiler. 161 Cannabis Produkte. Lieferung. Bewertung: 3.4/5. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/cannabis-apotheke-rheinland",
+      "canonical": "https://cannabisblueten.de/apotheke/cannabis-apotheke-rheinland",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Cannabis Apotheke Rheinland - Cannabis Apotheke in Bad Neuenahr-Ahrweiler",
         "description": "Cannabis Apotheke Rheinland in Bad Neuenahr-Ahrweiler. 161 Cannabis Produkte. Lieferung. Bewertung: 3.4/5. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/cannabis-apotheke-rheinland",
+        "url": "https://cannabisblueten.de/apotheke/cannabis-apotheke-rheinland",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/pharmacies/653649a3fd29068f3de8691a-ba2bdi.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Bad Neuenahr-Ahrweiler",
-        "href": "https://weed.de/cannabis-apotheke/bad-neuenahr-ahrweiler"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/bad-neuenahr-ahrweiler"
       },
       {
         "name": "Cannabis Apotheke Rheinland",
-        "href": "https://weed.de/apotheke/cannabis-apotheke-rheinland"
+        "href": "https://cannabisblueten.de/apotheke/cannabis-apotheke-rheinland"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Bad Neuenahr-Ahrweiler",
-            "item": "https://weed.de/cannabis-apotheke/bad-neuenahr-ahrweiler"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/bad-neuenahr-ahrweiler"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Cannabis Apotheke Rheinland",
-            "item": "https://weed.de/apotheke/cannabis-apotheke-rheinland"
+            "item": "https://cannabisblueten.de/apotheke/cannabis-apotheke-rheinland"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Cannabis Apotheke Rheinland",
-        "url": "https://weed.de/apotheke/cannabis-apotheke-rheinland",
+        "url": "https://cannabisblueten.de/apotheke/cannabis-apotheke-rheinland",
+        "description": "Cannabis Apotheke in Bad Neuenahr-Ahrweiler. 161 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Bergstraße 2",
@@ -142,8 +143,30 @@
           "addressRegion": "Rheinland-Pfalz",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 50.5466237,
+          "longitude": 7.1406465
+        },
         "telephone": "004926418970013",
-        "email": "info@vitahris-apo.de"
+        "email": "info@vitahris-apo.de",
+        "sameAs": "https://www.meinecannabisapotheke.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "3.4",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
       }
     ]
   },

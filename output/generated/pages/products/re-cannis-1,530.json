@@ -78,7 +78,7 @@
     "meta": {
       "title": "Re Cannis 1,5/30 - Fette Pharma GmbH | ab 125,00 €",
       "description": "Re Cannis 1,5/30 von Fette Pharma GmbH. THC: 1.5%, CBD: 30%. Preis ab 125,00 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/re-cannis-1,530",
+      "canonical": "https://cannabisblueten.de/product/re-cannis-1,530",
       "robots": {
         "index": true,
         "follow": true
@@ -86,28 +86,28 @@
       "openGraph": {
         "title": "Re Cannis 1,5/30 - Fette Pharma GmbH | ab 125,00 €",
         "description": "Re Cannis 1,5/30 von Fette Pharma GmbH. THC: 1.5%, CBD: 30%. Preis ab 125,00 €. Preise vergleichen.",
-        "url": "https://weed.de/product/re-cannis-1,530",
+        "url": "https://cannabisblueten.de/product/re-cannis-1,530",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Fette Pharma GmbH",
-        "href": "https://weed.de/brand/fette-pharma-gmbh"
+        "href": "https://cannabisblueten.de/brand/fette-pharma-gmbh"
       },
       {
         "name": "Re Cannis 1,5/30",
-        "href": "https://weed.de/product/re-cannis-1,530"
+        "href": "https://cannabisblueten.de/product/re-cannis-1,530"
       }
     ],
     "schema": [
@@ -119,19 +119,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Re Cannis 1,5/30",
-            "item": "https://weed.de/product/re-cannis-1,530"
+            "item": "https://cannabisblueten.de/product/re-cannis-1,530"
           }
         ]
       },
@@ -139,11 +139,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Re Cannis 1,5/30",
+        "url": "https://cannabisblueten.de/product/re-cannis-1,530",
         "brand": {
           "@type": "Brand",
           "name": "Fette Pharma GmbH"
         },
-        "description": "THC: 1.5%, CBD: 30%"
+        "description": "Medizinisches Cannabis Produkt. THC: 1.5%, CBD: 30%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/re-cannis-1,530",
+          "priceCurrency": "EUR",
+          "price": "125.00",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

@@ -115,7 +115,7 @@
     "meta": {
       "title": "DEMECAN FE 800 No. 1 - Demecan | ab 84,89 €",
       "description": "DEMECAN FE 800 No. 1 von Demecan. THC: 80%, CBD: 5%. Sorte: Bubba Kush. Preis ab 84,89 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/demecan-fe-8-no1",
+      "canonical": "https://cannabisblueten.de/product/demecan-fe-8-no1",
       "robots": {
         "index": true,
         "follow": true
@@ -123,9 +123,9 @@
       "openGraph": {
         "title": "DEMECAN FE 800 No. 1 - Demecan | ab 84,89 €",
         "description": "DEMECAN FE 800 No. 1 von Demecan. THC: 80%, CBD: 5%. Sorte: Bubba Kush. Preis ab 84,89 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/demecan-fe-8-no1",
+        "url": "https://cannabisblueten.de/product/demecan-fe-8-no1",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/products/demecan-fe-8-no1-iige97.png"
       }
@@ -133,19 +133,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Demecan",
-        "href": "https://weed.de/brand/demecan"
+        "href": "https://cannabisblueten.de/brand/demecan"
       },
       {
         "name": "DEMECAN FE 800 No. 1",
-        "href": "https://weed.de/product/demecan-fe-8-no1"
+        "href": "https://cannabisblueten.de/product/demecan-fe-8-no1"
       }
     ],
     "schema": [
@@ -157,19 +157,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "DEMECAN FE 800 No. 1",
-            "item": "https://weed.de/product/demecan-fe-8-no1"
+            "item": "https://cannabisblueten.de/product/demecan-fe-8-no1"
           }
         ]
       },
@@ -177,12 +177,29 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "DEMECAN FE 800 No. 1",
+        "url": "https://cannabisblueten.de/product/demecan-fe-8-no1",
         "brand": {
           "@type": "Brand",
           "name": "Demecan"
         },
         "gtin13": [],
-        "description": "THC: 80%, CBD: 5%"
+        "sku": [],
+        "description": "Medizinisches Cannabis Produkt. THC: 80%, CBD: 5%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/demecan-fe-8-no1",
+          "priceCurrency": "EUR",
+          "price": "84.89",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "84.89",
+            "maxPrice": "150.00",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

@@ -65,7 +65,7 @@
     "meta": {
       "title": "Stadt-Apotheke Teltow - Cannabis Apotheke in Teltow",
       "description": "Stadt-Apotheke Teltow in Teltow. 10 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/stadt-apotheke-teltow",
+      "canonical": "https://cannabisblueten.de/apotheke/stadt-apotheke-teltow",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Stadt-Apotheke Teltow - Cannabis Apotheke in Teltow",
         "description": "Stadt-Apotheke Teltow in Teltow. 10 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/stadt-apotheke-teltow",
+        "url": "https://cannabisblueten.de/apotheke/stadt-apotheke-teltow",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/pharmacies/64f827c6823751af93d35616-3f3gjf.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Teltow",
-        "href": "https://weed.de/cannabis-apotheke/teltow"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/teltow"
       },
       {
         "name": "Stadt-Apotheke Teltow",
-        "href": "https://weed.de/apotheke/stadt-apotheke-teltow"
+        "href": "https://cannabisblueten.de/apotheke/stadt-apotheke-teltow"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Teltow",
-            "item": "https://weed.de/cannabis-apotheke/teltow"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/teltow"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Stadt-Apotheke Teltow",
-            "item": "https://weed.de/apotheke/stadt-apotheke-teltow"
+            "item": "https://cannabisblueten.de/apotheke/stadt-apotheke-teltow"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Stadt-Apotheke Teltow",
-        "url": "https://weed.de/apotheke/stadt-apotheke-teltow",
+        "url": "https://cannabisblueten.de/apotheke/stadt-apotheke-teltow",
+        "description": "Cannabis Apotheke in Teltow. 10 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Ruhlsdorfer Straße 3",
@@ -142,8 +143,37 @@
           "addressRegion": "Brandenburg",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 52.4000639,
+          "longitude": 13.2681429
+        },
         "telephone": "0332841332",
-        "email": "rezept@apotheke-teltow.de"
+        "email": "rezept@apotheke-teltow.de",
+        "sameAs": "https://www.apotheke-teltow.com/cannabisblueten",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5.0",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
       }
     ]
   },

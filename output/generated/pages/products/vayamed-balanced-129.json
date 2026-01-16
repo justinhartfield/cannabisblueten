@@ -113,7 +113,7 @@
     "meta": {
       "title": "Vayamed Balanced 12/9 | ab 6,75 €",
       "description": "Vayamed Balanced 12/9 von Vayamed. THC: 11.6%, CBD: 8.7%. Sorte: Cannatonic. Preis ab 6,75 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/vayamed-balanced-129",
+      "canonical": "https://cannabisblueten.de/product/vayamed-balanced-129",
       "robots": {
         "index": true,
         "follow": true
@@ -121,28 +121,28 @@
       "openGraph": {
         "title": "Vayamed Balanced 12/9 | ab 6,75 €",
         "description": "Vayamed Balanced 12/9 von Vayamed. THC: 11.6%, CBD: 8.7%. Sorte: Cannatonic. Preis ab 6,75 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/vayamed-balanced-129",
+        "url": "https://cannabisblueten.de/product/vayamed-balanced-129",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Vayamed",
-        "href": "https://weed.de/brand/vayamed"
+        "href": "https://cannabisblueten.de/brand/vayamed"
       },
       {
         "name": "Vayamed Balanced 12/9",
-        "href": "https://weed.de/product/vayamed-balanced-129"
+        "href": "https://cannabisblueten.de/product/vayamed-balanced-129"
       }
     ],
     "schema": [
@@ -154,19 +154,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Vayamed Balanced 12/9",
-            "item": "https://weed.de/product/vayamed-balanced-129"
+            "item": "https://cannabisblueten.de/product/vayamed-balanced-129"
           }
         ]
       },
@@ -174,11 +174,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Vayamed Balanced 12/9",
+        "url": "https://cannabisblueten.de/product/vayamed-balanced-129",
         "brand": {
           "@type": "Brand",
           "name": "Vayamed"
         },
-        "description": "THC: 11.6%, CBD: 8.7%"
+        "description": "Medizinisches Cannabis Produkt. THC: 11.6%, CBD: 8.7%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/vayamed-balanced-129",
+          "priceCurrency": "EUR",
+          "price": "6.75",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "6.75",
+            "maxPrice": "7.72",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

@@ -108,7 +108,7 @@
     "meta": {
       "title": "Breezy Organics GGL 25/1 - Ilios Santé | ab 6,42 €",
       "description": "Breezy Organics GGL 25/1 von Ilios Santé. THC: 25%, CBD: 1%. Sorte: Green Gelato. Preis ab 6,42 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/breezy-organics-ggl-251",
+      "canonical": "https://cannabisblueten.de/product/breezy-organics-ggl-251",
       "robots": {
         "index": true,
         "follow": true
@@ -116,9 +116,9 @@
       "openGraph": {
         "title": "Breezy Organics GGL 25/1 - Ilios Santé | ab 6,42 €",
         "description": "Breezy Organics GGL 25/1 von Ilios Santé. THC: 25%, CBD: 1%. Sorte: Green Gelato. Preis ab 6,42 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/breezy-organics-ggl-251",
+        "url": "https://cannabisblueten.de/product/breezy-organics-ggl-251",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/breezy-organics-ggl-251-b20e75.webp"
       }
@@ -126,19 +126,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Ilios Santé",
-        "href": "https://weed.de/brand/ilios-sant"
+        "href": "https://cannabisblueten.de/brand/ilios-sant"
       },
       {
         "name": "Breezy Organics GGL 25/1",
-        "href": "https://weed.de/product/breezy-organics-ggl-251"
+        "href": "https://cannabisblueten.de/product/breezy-organics-ggl-251"
       }
     ],
     "schema": [
@@ -150,19 +150,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Breezy Organics GGL 25/1",
-            "item": "https://weed.de/product/breezy-organics-ggl-251"
+            "item": "https://cannabisblueten.de/product/breezy-organics-ggl-251"
           }
         ]
       },
@@ -170,11 +170,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Breezy Organics GGL 25/1",
+        "url": "https://cannabisblueten.de/product/breezy-organics-ggl-251",
         "brand": {
           "@type": "Brand",
           "name": "Ilios Santé"
         },
-        "description": "THC: 25%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 25%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/breezy-organics-ggl-251",
+          "priceCurrency": "EUR",
+          "price": "6.42",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "6.42",
+            "maxPrice": "8.60",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

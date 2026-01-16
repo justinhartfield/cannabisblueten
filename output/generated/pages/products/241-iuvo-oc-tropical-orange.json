@@ -111,7 +111,7 @@
     "meta": {
       "title": "24/1 IUVO OC Tropical Orange - Iuvo | ab 7,75 €",
       "description": "24/1 IUVO OC Tropical Orange von Iuvo. THC: 25.1%, CBD: 1%. Sorte: Tropical Orange. Preis ab 7,75 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/241-iuvo-oc-tropical-orange",
+      "canonical": "https://cannabisblueten.de/product/241-iuvo-oc-tropical-orange",
       "robots": {
         "index": true,
         "follow": true
@@ -119,9 +119,9 @@
       "openGraph": {
         "title": "24/1 IUVO OC Tropical Orange - Iuvo | ab 7,75 €",
         "description": "24/1 IUVO OC Tropical Orange von Iuvo. THC: 25.1%, CBD: 1%. Sorte: Tropical Orange. Preis ab 7,75 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/241-iuvo-oc-tropical-orange",
+        "url": "https://cannabisblueten.de/product/241-iuvo-oc-tropical-orange",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/241-iuvo-oc-tropical-orange-eagdg2.png"
       }
@@ -129,19 +129,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Iuvo",
-        "href": "https://weed.de/brand/iuvo"
+        "href": "https://cannabisblueten.de/brand/iuvo"
       },
       {
         "name": "24/1 IUVO OC Tropical Orange",
-        "href": "https://weed.de/product/241-iuvo-oc-tropical-orange"
+        "href": "https://cannabisblueten.de/product/241-iuvo-oc-tropical-orange"
       }
     ],
     "schema": [
@@ -153,19 +153,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "24/1 IUVO OC Tropical Orange",
-            "item": "https://weed.de/product/241-iuvo-oc-tropical-orange"
+            "item": "https://cannabisblueten.de/product/241-iuvo-oc-tropical-orange"
           }
         ]
       },
@@ -173,11 +173,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "24/1 IUVO OC Tropical Orange",
+        "url": "https://cannabisblueten.de/product/241-iuvo-oc-tropical-orange",
         "brand": {
           "@type": "Brand",
           "name": "Iuvo"
         },
-        "description": "THC: 25.1%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 25.1%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/241-iuvo-oc-tropical-orange",
+          "priceCurrency": "EUR",
+          "price": "7.75",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "7.75",
+            "maxPrice": "12.50",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

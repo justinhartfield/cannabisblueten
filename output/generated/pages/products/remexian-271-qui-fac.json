@@ -103,7 +103,7 @@
     "meta": {
       "title": "Remexian 27/1 QUI FAC - Remexian Pharma | ab 7,39 €",
       "description": "Remexian 27/1 QUI FAC von Remexian Pharma. THC: 27%, CBD: 1%. Sorte: Facade. Preis ab 7,39 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/remexian-271-qui-fac",
+      "canonical": "https://cannabisblueten.de/product/remexian-271-qui-fac",
       "robots": {
         "index": true,
         "follow": true
@@ -111,28 +111,28 @@
       "openGraph": {
         "title": "Remexian 27/1 QUI FAC - Remexian Pharma | ab 7,39 €",
         "description": "Remexian 27/1 QUI FAC von Remexian Pharma. THC: 27%, CBD: 1%. Sorte: Facade. Preis ab 7,39 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/remexian-271-qui-fac",
+        "url": "https://cannabisblueten.de/product/remexian-271-qui-fac",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Remexian Pharma",
-        "href": "https://weed.de/brand/remexian-pharma"
+        "href": "https://cannabisblueten.de/brand/remexian-pharma"
       },
       {
         "name": "Remexian 27/1 QUI FAC",
-        "href": "https://weed.de/product/remexian-271-qui-fac"
+        "href": "https://cannabisblueten.de/product/remexian-271-qui-fac"
       }
     ],
     "schema": [
@@ -144,19 +144,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Remexian 27/1 QUI FAC",
-            "item": "https://weed.de/product/remexian-271-qui-fac"
+            "item": "https://cannabisblueten.de/product/remexian-271-qui-fac"
           }
         ]
       },
@@ -164,12 +164,23 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Remexian 27/1 QUI FAC",
+        "url": "https://cannabisblueten.de/product/remexian-271-qui-fac",
         "brand": {
           "@type": "Brand",
           "name": "Remexian Pharma"
         },
         "gtin13": [],
-        "description": "THC: 27%, CBD: 1%"
+        "sku": [],
+        "description": "Medizinisches Cannabis Produkt. THC: 27%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/remexian-271-qui-fac",
+          "priceCurrency": "EUR",
+          "price": "7.39",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

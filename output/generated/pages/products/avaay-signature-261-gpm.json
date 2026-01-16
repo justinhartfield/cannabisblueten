@@ -114,7 +114,7 @@
     "meta": {
       "title": "avaay Signature 26/1 GPM - Avaay | ab 9,99 €",
       "description": "avaay Signature 26/1 GPM von Avaay. THC: 26%, CBD: 1%. Sorte: Gun Powder Milkshake. Preis ab 9,99 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/avaay-signature-261-gpm",
+      "canonical": "https://cannabisblueten.de/product/avaay-signature-261-gpm",
       "robots": {
         "index": true,
         "follow": true
@@ -122,9 +122,9 @@
       "openGraph": {
         "title": "avaay Signature 26/1 GPM - Avaay | ab 9,99 €",
         "description": "avaay Signature 26/1 GPM von Avaay. THC: 26%, CBD: 1%. Sorte: Gun Powder Milkshake. Preis ab 9,99 €. Preise vergleichen.",
-        "url": "https://weed.de/product/avaay-signature-261-gpm",
+        "url": "https://cannabisblueten.de/product/avaay-signature-261-gpm",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/avaay-signature-261-gpm-9g11d5.png"
       }
@@ -132,19 +132,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Avaay",
-        "href": "https://weed.de/brand/avaay"
+        "href": "https://cannabisblueten.de/brand/avaay"
       },
       {
         "name": "avaay Signature 26/1 GPM",
-        "href": "https://weed.de/product/avaay-signature-261-gpm"
+        "href": "https://cannabisblueten.de/product/avaay-signature-261-gpm"
       }
     ],
     "schema": [
@@ -156,19 +156,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "avaay Signature 26/1 GPM",
-            "item": "https://weed.de/product/avaay-signature-261-gpm"
+            "item": "https://cannabisblueten.de/product/avaay-signature-261-gpm"
           }
         ]
       },
@@ -176,11 +176,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "avaay Signature 26/1 GPM",
+        "url": "https://cannabisblueten.de/product/avaay-signature-261-gpm",
         "brand": {
           "@type": "Brand",
           "name": "Avaay"
         },
-        "description": "THC: 26%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 26%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/avaay-signature-261-gpm",
+          "priceCurrency": "EUR",
+          "price": "9.99",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

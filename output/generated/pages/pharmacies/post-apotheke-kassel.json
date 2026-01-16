@@ -65,7 +65,7 @@
     "meta": {
       "title": "Post-Apotheke Kassel - Cannabis Apotheke in Kassel",
       "description": "Post-Apotheke Kassel in Kassel. 31 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/post-apotheke-kassel",
+      "canonical": "https://cannabisblueten.de/apotheke/post-apotheke-kassel",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Post-Apotheke Kassel - Cannabis Apotheke in Kassel",
         "description": "Post-Apotheke Kassel in Kassel. 31 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/post-apotheke-kassel",
+        "url": "https://cannabisblueten.de/apotheke/post-apotheke-kassel",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/pharmacies/post-apotheke-kassel-gcia7j.png"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Kassel",
-        "href": "https://weed.de/cannabis-apotheke/kassel"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/kassel"
       },
       {
         "name": "Post-Apotheke Kassel",
-        "href": "https://weed.de/apotheke/post-apotheke-kassel"
+        "href": "https://cannabisblueten.de/apotheke/post-apotheke-kassel"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Kassel",
-            "item": "https://weed.de/cannabis-apotheke/kassel"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/kassel"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Post-Apotheke Kassel",
-            "item": "https://weed.de/apotheke/post-apotheke-kassel"
+            "item": "https://cannabisblueten.de/apotheke/post-apotheke-kassel"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Post-Apotheke Kassel",
-        "url": "https://weed.de/apotheke/post-apotheke-kassel",
+        "url": "https://cannabisblueten.de/apotheke/post-apotheke-kassel",
+        "description": "Cannabis Apotheke in Kassel. 31 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Friedrich-Ebert-Straße 27",
@@ -142,8 +143,31 @@
           "addressRegion": "Hessen",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 51.3145074,
+          "longitude": 9.484891
+        },
         "telephone": "05612885650",
-        "email": "cannabis@post-apotheke-kassel.de"
+        "email": "cannabis@post-apotheke-kassel.de",
+        "sameAs": "https://can.post-apotheke-kassel.de/",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ]
       }
     ]
   },

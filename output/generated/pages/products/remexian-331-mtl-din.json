@@ -112,7 +112,7 @@
     "meta": {
       "title": "Remexian 33/1 MTL DIN - Remexian Pharma | ab 6,58 €",
       "description": "Remexian 33/1 MTL DIN von Remexian Pharma. THC: 33%, CBD: 1%. Sorte: Dantes Inferno #8 (Mile High Dave Cut). Preis ab 6,58 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/remexian-331-mtl-din",
+      "canonical": "https://cannabisblueten.de/product/remexian-331-mtl-din",
       "robots": {
         "index": true,
         "follow": true
@@ -120,28 +120,28 @@
       "openGraph": {
         "title": "Remexian 33/1 MTL DIN - Remexian Pharma | ab 6,58 €",
         "description": "Remexian 33/1 MTL DIN von Remexian Pharma. THC: 33%, CBD: 1%. Sorte: Dantes Inferno #8 (Mile High Dave Cut). Preis ab 6,58 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/remexian-331-mtl-din",
+        "url": "https://cannabisblueten.de/product/remexian-331-mtl-din",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Remexian Pharma",
-        "href": "https://weed.de/brand/remexian-pharma"
+        "href": "https://cannabisblueten.de/brand/remexian-pharma"
       },
       {
         "name": "Remexian 33/1 MTL DIN",
-        "href": "https://weed.de/product/remexian-331-mtl-din"
+        "href": "https://cannabisblueten.de/product/remexian-331-mtl-din"
       }
     ],
     "schema": [
@@ -153,19 +153,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Remexian 33/1 MTL DIN",
-            "item": "https://weed.de/product/remexian-331-mtl-din"
+            "item": "https://cannabisblueten.de/product/remexian-331-mtl-din"
           }
         ]
       },
@@ -173,11 +173,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Remexian 33/1 MTL DIN",
+        "url": "https://cannabisblueten.de/product/remexian-331-mtl-din",
         "brand": {
           "@type": "Brand",
           "name": "Remexian Pharma"
         },
-        "description": "THC: 33%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 33%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/remexian-331-mtl-din",
+          "priceCurrency": "EUR",
+          "price": "6.58",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "6.58",
+            "maxPrice": "7.99",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

@@ -104,7 +104,7 @@
     "meta": {
       "title": "Weeco 18/1 WW | ab 6,20 €",
       "description": "Weeco 18/1 WW von Weeco. THC: 18%, CBD: 1%. Sorte: White Widow. Preis ab 6,20 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/weeco-181-ww",
+      "canonical": "https://cannabisblueten.de/product/weeco-181-ww",
       "robots": {
         "index": true,
         "follow": true
@@ -112,9 +112,9 @@
       "openGraph": {
         "title": "Weeco 18/1 WW | ab 6,20 €",
         "description": "Weeco 18/1 WW von Weeco. THC: 18%, CBD: 1%. Sorte: White Widow. Preis ab 6,20 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/weeco-181-ww",
+        "url": "https://cannabisblueten.de/product/weeco-181-ww",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/weeco-181-ww-17b7j8.png"
       }
@@ -122,19 +122,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Weeco",
-        "href": "https://weed.de/brand/weeco"
+        "href": "https://cannabisblueten.de/brand/weeco"
       },
       {
         "name": "Weeco 18/1 WW",
-        "href": "https://weed.de/product/weeco-181-ww"
+        "href": "https://cannabisblueten.de/product/weeco-181-ww"
       }
     ],
     "schema": [
@@ -146,19 +146,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Weeco 18/1 WW",
-            "item": "https://weed.de/product/weeco-181-ww"
+            "item": "https://cannabisblueten.de/product/weeco-181-ww"
           }
         ]
       },
@@ -166,12 +166,29 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Weeco 18/1 WW",
+        "url": "https://cannabisblueten.de/product/weeco-181-ww",
         "brand": {
           "@type": "Brand",
           "name": "Weeco"
         },
         "gtin13": [],
-        "description": "THC: 18%, CBD: 1%"
+        "sku": [],
+        "description": "Medizinisches Cannabis Produkt. THC: 18%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/weeco-181-ww",
+          "priceCurrency": "EUR",
+          "price": "6.20",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "6.20",
+            "maxPrice": "7.95",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

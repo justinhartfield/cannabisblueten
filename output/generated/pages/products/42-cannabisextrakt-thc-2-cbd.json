@@ -84,7 +84,7 @@
     "meta": {
       "title": "420 Cannabisextrakt THC 20 / CBD 0 - Four 20 Pharma | ab ...",
       "description": "420 Cannabisextrakt THC 20 / CBD 0 von Four 20 Pharma. THC: 20%, CBD: 0%. Sorte: EMT 2. Preis ab 2,69 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/42-cannabisextrakt-thc-2-cbd",
+      "canonical": "https://cannabisblueten.de/product/42-cannabisextrakt-thc-2-cbd",
       "robots": {
         "index": true,
         "follow": true
@@ -92,9 +92,9 @@
       "openGraph": {
         "title": "420 Cannabisextrakt THC 20 / CBD 0 - Four 20 Pharma | ab ...",
         "description": "420 Cannabisextrakt THC 20 / CBD 0 von Four 20 Pharma. THC: 20%, CBD: 0%. Sorte: EMT 2. Preis ab 2,69 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/42-cannabisextrakt-thc-2-cbd",
+        "url": "https://cannabisblueten.de/product/42-cannabisextrakt-thc-2-cbd",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/42-cannabisextrakt-thc-2-cbd-a30fcf.png"
       }
@@ -102,19 +102,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Four 20 Pharma",
-        "href": "https://weed.de/brand/four-20-pharma"
+        "href": "https://cannabisblueten.de/brand/four-20-pharma"
       },
       {
         "name": "420 Cannabisextrakt THC 20 / CBD 0",
-        "href": "https://weed.de/product/42-cannabisextrakt-thc-2-cbd"
+        "href": "https://cannabisblueten.de/product/42-cannabisextrakt-thc-2-cbd"
       }
     ],
     "schema": [
@@ -126,19 +126,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "420 Cannabisextrakt THC 20 / CBD 0",
-            "item": "https://weed.de/product/42-cannabisextrakt-thc-2-cbd"
+            "item": "https://cannabisblueten.de/product/42-cannabisextrakt-thc-2-cbd"
           }
         ]
       },
@@ -146,11 +146,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "420 Cannabisextrakt THC 20 / CBD 0",
+        "url": "https://cannabisblueten.de/product/42-cannabisextrakt-thc-2-cbd",
         "brand": {
           "@type": "Brand",
           "name": "Four 20 Pharma"
         },
-        "description": "THC: 20%, CBD: 0%"
+        "description": "Medizinisches Cannabis Produkt. THC: 20%, CBD: 0%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/42-cannabisextrakt-thc-2-cbd",
+          "priceCurrency": "EUR",
+          "price": "2.69",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "2.69",
+            "maxPrice": "4.80",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

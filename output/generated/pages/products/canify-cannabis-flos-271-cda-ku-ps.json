@@ -115,7 +115,7 @@
     "meta": {
       "title": "Canify Cannabis Flos 27/1 CDA Ku. PS | ab 6,25 €",
       "description": "Canify Cannabis Flos 27/1 CDA Ku. PS von Canify. THC: 27%, CBD: 1%. Sorte: Pink Slurricane. Preis ab 6,25 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/canify-cannabis-flos-271-cda-ku-ps",
+      "canonical": "https://cannabisblueten.de/product/canify-cannabis-flos-271-cda-ku-ps",
       "robots": {
         "index": true,
         "follow": true
@@ -123,9 +123,9 @@
       "openGraph": {
         "title": "Canify Cannabis Flos 27/1 CDA Ku. PS | ab 6,25 €",
         "description": "Canify Cannabis Flos 27/1 CDA Ku. PS von Canify. THC: 27%, CBD: 1%. Sorte: Pink Slurricane. Preis ab 6,25 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/canify-cannabis-flos-271-cda-ku-ps",
+        "url": "https://cannabisblueten.de/product/canify-cannabis-flos-271-cda-ku-ps",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/canify-cannabis-flos-271-cda-ku-ps-d5bhi5.png"
       }
@@ -133,19 +133,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Canify",
-        "href": "https://weed.de/brand/canify"
+        "href": "https://cannabisblueten.de/brand/canify"
       },
       {
         "name": "Canify Cannabis Flos 27/1 CDA Ku. PS",
-        "href": "https://weed.de/product/canify-cannabis-flos-271-cda-ku-ps"
+        "href": "https://cannabisblueten.de/product/canify-cannabis-flos-271-cda-ku-ps"
       }
     ],
     "schema": [
@@ -157,19 +157,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Canify Cannabis Flos 27/1 CDA Ku. PS",
-            "item": "https://weed.de/product/canify-cannabis-flos-271-cda-ku-ps"
+            "item": "https://cannabisblueten.de/product/canify-cannabis-flos-271-cda-ku-ps"
           }
         ]
       },
@@ -177,11 +177,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Canify Cannabis Flos 27/1 CDA Ku. PS",
+        "url": "https://cannabisblueten.de/product/canify-cannabis-flos-271-cda-ku-ps",
         "brand": {
           "@type": "Brand",
           "name": "Canify"
         },
-        "description": "THC: 27%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 27%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/canify-cannabis-flos-271-cda-ku-ps",
+          "priceCurrency": "EUR",
+          "price": "6.25",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "6.25",
+            "maxPrice": "7.90",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

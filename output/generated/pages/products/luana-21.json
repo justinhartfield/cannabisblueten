@@ -101,7 +101,7 @@
     "meta": {
       "title": "Luana 20/1 - Cannamedical | ab 3,98 €",
       "description": "Luana 20/1 von Cannamedical. THC: 20%, CBD: 1%. Sorte: OG Watermelon. Preis ab 3,98 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/luana-21",
+      "canonical": "https://cannabisblueten.de/product/luana-21",
       "robots": {
         "index": true,
         "follow": true
@@ -109,9 +109,9 @@
       "openGraph": {
         "title": "Luana 20/1 - Cannamedical | ab 3,98 €",
         "description": "Luana 20/1 von Cannamedical. THC: 20%, CBD: 1%. Sorte: OG Watermelon. Preis ab 3,98 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/luana-21",
+        "url": "https://cannabisblueten.de/product/luana-21",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/luana-21-874ahh.png"
       }
@@ -119,19 +119,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cannamedical",
-        "href": "https://weed.de/brand/cannamedical"
+        "href": "https://cannabisblueten.de/brand/cannamedical"
       },
       {
         "name": "Luana 20/1",
-        "href": "https://weed.de/product/luana-21"
+        "href": "https://cannabisblueten.de/product/luana-21"
       }
     ],
     "schema": [
@@ -143,19 +143,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Luana 20/1",
-            "item": "https://weed.de/product/luana-21"
+            "item": "https://cannabisblueten.de/product/luana-21"
           }
         ]
       },
@@ -163,11 +163,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Luana 20/1",
+        "url": "https://cannabisblueten.de/product/luana-21",
         "brand": {
           "@type": "Brand",
           "name": "Cannamedical"
         },
-        "description": "THC: 20%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 20%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/luana-21",
+          "priceCurrency": "EUR",
+          "price": "3.98",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "3.98",
+            "maxPrice": "5.65",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

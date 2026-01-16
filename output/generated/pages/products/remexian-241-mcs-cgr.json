@@ -106,7 +106,7 @@
     "meta": {
       "title": "Remexian 24/1 MCS CGR - Remexian Pharma | ab 5,95 €",
       "description": "Remexian 24/1 MCS CGR von Remexian Pharma. THC: 24%, CBD: 1%. Sorte: Cool Grapes. Preis ab 5,95 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/remexian-241-mcs-cgr",
+      "canonical": "https://cannabisblueten.de/product/remexian-241-mcs-cgr",
       "robots": {
         "index": true,
         "follow": true
@@ -114,28 +114,28 @@
       "openGraph": {
         "title": "Remexian 24/1 MCS CGR - Remexian Pharma | ab 5,95 €",
         "description": "Remexian 24/1 MCS CGR von Remexian Pharma. THC: 24%, CBD: 1%. Sorte: Cool Grapes. Preis ab 5,95 €. Preise vergleichen.",
-        "url": "https://weed.de/product/remexian-241-mcs-cgr",
+        "url": "https://cannabisblueten.de/product/remexian-241-mcs-cgr",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Remexian Pharma",
-        "href": "https://weed.de/brand/remexian-pharma"
+        "href": "https://cannabisblueten.de/brand/remexian-pharma"
       },
       {
         "name": "Remexian 24/1 MCS CGR",
-        "href": "https://weed.de/product/remexian-241-mcs-cgr"
+        "href": "https://cannabisblueten.de/product/remexian-241-mcs-cgr"
       }
     ],
     "schema": [
@@ -147,19 +147,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Remexian 24/1 MCS CGR",
-            "item": "https://weed.de/product/remexian-241-mcs-cgr"
+            "item": "https://cannabisblueten.de/product/remexian-241-mcs-cgr"
           }
         ]
       },
@@ -167,11 +167,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Remexian 24/1 MCS CGR",
+        "url": "https://cannabisblueten.de/product/remexian-241-mcs-cgr",
         "brand": {
           "@type": "Brand",
           "name": "Remexian Pharma"
         },
-        "description": "THC: 24%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 24%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/remexian-241-mcs-cgr",
+          "priceCurrency": "EUR",
+          "price": "5.95",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

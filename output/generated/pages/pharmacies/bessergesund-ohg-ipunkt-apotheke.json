@@ -65,7 +65,7 @@
     "meta": {
       "title": "bessergesund OHG ipunkt Apotheke - Cannabis Apotheke in Augsburg",
       "description": "bessergesund OHG ipunkt Apotheke in Augsburg. 22 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/bessergesund-ohg-ipunkt-apotheke",
+      "canonical": "https://cannabisblueten.de/apotheke/bessergesund-ohg-ipunkt-apotheke",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "bessergesund OHG ipunkt Apotheke - Cannabis Apotheke in Augsburg",
         "description": "bessergesund OHG ipunkt Apotheke in Augsburg. 22 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/bessergesund-ohg-ipunkt-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/bessergesund-ohg-ipunkt-apotheke",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/692832f2508973876cf35ef5-90g29f.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Augsburg",
-        "href": "https://weed.de/cannabis-apotheke/augsburg"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/augsburg"
       },
       {
         "name": "bessergesund OHG ipunkt Apotheke",
-        "href": "https://weed.de/apotheke/bessergesund-ohg-ipunkt-apotheke"
+        "href": "https://cannabisblueten.de/apotheke/bessergesund-ohg-ipunkt-apotheke"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Augsburg",
-            "item": "https://weed.de/cannabis-apotheke/augsburg"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/augsburg"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "bessergesund OHG ipunkt Apotheke",
-            "item": "https://weed.de/apotheke/bessergesund-ohg-ipunkt-apotheke"
+            "item": "https://cannabisblueten.de/apotheke/bessergesund-ohg-ipunkt-apotheke"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "bessergesund OHG ipunkt Apotheke",
-        "url": "https://weed.de/apotheke/bessergesund-ohg-ipunkt-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/bessergesund-ohg-ipunkt-apotheke",
+        "description": "Cannabis Apotheke in Augsburg. 22 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Halderstraße 29",
@@ -142,8 +143,31 @@
           "addressRegion": "Bayern",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 48.3649984,
+          "longitude": 10.8877101
+        },
         "telephone": "08214208980",
-        "email": "cannabispromed@bessergesund.de"
+        "email": "cannabispromed@bessergesund.de",
+        "sameAs": "cannabispromed.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ]
       }
     ]
   },

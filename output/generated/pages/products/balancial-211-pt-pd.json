@@ -104,7 +104,7 @@
     "meta": {
       "title": "Balancial 21/1 PT PD - Balancial GmbH | ab 7,15 €",
       "description": "Balancial 21/1 PT PD von Balancial GmbH. THC: 21%, CBD: 1%. Sorte: Purple Dream. Preis ab 7,15 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/balancial-211-pt-pd",
+      "canonical": "https://cannabisblueten.de/product/balancial-211-pt-pd",
       "robots": {
         "index": true,
         "follow": true
@@ -112,9 +112,9 @@
       "openGraph": {
         "title": "Balancial 21/1 PT PD - Balancial GmbH | ab 7,15 €",
         "description": "Balancial 21/1 PT PD von Balancial GmbH. THC: 21%, CBD: 1%. Sorte: Purple Dream. Preis ab 7,15 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/balancial-211-pt-pd",
+        "url": "https://cannabisblueten.de/product/balancial-211-pt-pd",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/balancial-211-pt-pd-g7f83c.png"
       }
@@ -122,19 +122,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Balancial GmbH",
-        "href": "https://weed.de/brand/balancial-gmbh"
+        "href": "https://cannabisblueten.de/brand/balancial-gmbh"
       },
       {
         "name": "Balancial 21/1 PT PD",
-        "href": "https://weed.de/product/balancial-211-pt-pd"
+        "href": "https://cannabisblueten.de/product/balancial-211-pt-pd"
       }
     ],
     "schema": [
@@ -146,19 +146,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Balancial 21/1 PT PD",
-            "item": "https://weed.de/product/balancial-211-pt-pd"
+            "item": "https://cannabisblueten.de/product/balancial-211-pt-pd"
           }
         ]
       },
@@ -166,11 +166,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Balancial 21/1 PT PD",
+        "url": "https://cannabisblueten.de/product/balancial-211-pt-pd",
         "brand": {
           "@type": "Brand",
           "name": "Balancial GmbH"
         },
-        "description": "THC: 21%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 21%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/balancial-211-pt-pd",
+          "priceCurrency": "EUR",
+          "price": "7.15",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

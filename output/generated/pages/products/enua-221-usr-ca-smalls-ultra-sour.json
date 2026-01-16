@@ -117,7 +117,7 @@
     "meta": {
       "title": "enua 22/1 USR CA Smalls Ultra Sour | ab 4,50 €",
       "description": "enua 22/1 USR CA Smalls Ultra Sour von enua. THC: 22%, CBD: 1%. Sorte: Ultra Sour. Preis ab 4,50 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/enua-221-usr-ca-smalls-ultra-sour",
+      "canonical": "https://cannabisblueten.de/product/enua-221-usr-ca-smalls-ultra-sour",
       "robots": {
         "index": true,
         "follow": true
@@ -125,9 +125,9 @@
       "openGraph": {
         "title": "enua 22/1 USR CA Smalls Ultra Sour | ab 4,50 €",
         "description": "enua 22/1 USR CA Smalls Ultra Sour von enua. THC: 22%, CBD: 1%. Sorte: Ultra Sour. Preis ab 4,50 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/enua-221-usr-ca-smalls-ultra-sour",
+        "url": "https://cannabisblueten.de/product/enua-221-usr-ca-smalls-ultra-sour",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/enua-221-usr-ca-smalls-ultra-sour-3326bh.png"
       }
@@ -135,19 +135,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "enua",
-        "href": "https://weed.de/brand/enua"
+        "href": "https://cannabisblueten.de/brand/enua"
       },
       {
         "name": "enua 22/1 USR CA Smalls Ultra Sour",
-        "href": "https://weed.de/product/enua-221-usr-ca-smalls-ultra-sour"
+        "href": "https://cannabisblueten.de/product/enua-221-usr-ca-smalls-ultra-sour"
       }
     ],
     "schema": [
@@ -159,19 +159,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "enua 22/1 USR CA Smalls Ultra Sour",
-            "item": "https://weed.de/product/enua-221-usr-ca-smalls-ultra-sour"
+            "item": "https://cannabisblueten.de/product/enua-221-usr-ca-smalls-ultra-sour"
           }
         ]
       },
@@ -179,11 +179,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "enua 22/1 USR CA Smalls Ultra Sour",
+        "url": "https://cannabisblueten.de/product/enua-221-usr-ca-smalls-ultra-sour",
         "brand": {
           "@type": "Brand",
           "name": "enua"
         },
-        "description": "THC: 22%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 22%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/enua-221-usr-ca-smalls-ultra-sour",
+          "priceCurrency": "EUR",
+          "price": "4.50",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.50",
+            "maxPrice": "8.35",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

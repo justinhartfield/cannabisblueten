@@ -111,7 +111,7 @@
     "meta": {
       "title": "enua 22/1 CA JFG | ab 3,68 €",
       "description": "enua 22/1 CA JFG von enua. THC: 23.8%, CBD: 1%. Sorte: Jet Fuel Gelato. Preis ab 3,68 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/enua-221-jfg",
+      "canonical": "https://cannabisblueten.de/product/enua-221-jfg",
       "robots": {
         "index": true,
         "follow": true
@@ -119,28 +119,28 @@
       "openGraph": {
         "title": "enua 22/1 CA JFG | ab 3,68 €",
         "description": "enua 22/1 CA JFG von enua. THC: 23.8%, CBD: 1%. Sorte: Jet Fuel Gelato. Preis ab 3,68 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/enua-221-jfg",
+        "url": "https://cannabisblueten.de/product/enua-221-jfg",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "enua",
-        "href": "https://weed.de/brand/enua"
+        "href": "https://cannabisblueten.de/brand/enua"
       },
       {
         "name": "enua 22/1 CA JFG",
-        "href": "https://weed.de/product/enua-221-jfg"
+        "href": "https://cannabisblueten.de/product/enua-221-jfg"
       }
     ],
     "schema": [
@@ -152,19 +152,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "enua 22/1 CA JFG",
-            "item": "https://weed.de/product/enua-221-jfg"
+            "item": "https://cannabisblueten.de/product/enua-221-jfg"
           }
         ]
       },
@@ -172,11 +172,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "enua 22/1 CA JFG",
+        "url": "https://cannabisblueten.de/product/enua-221-jfg",
         "brand": {
           "@type": "Brand",
           "name": "enua"
         },
-        "description": "THC: 23.8%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 23.8%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/enua-221-jfg",
+          "priceCurrency": "EUR",
+          "price": "3.68",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "3.68",
+            "maxPrice": "7.99",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

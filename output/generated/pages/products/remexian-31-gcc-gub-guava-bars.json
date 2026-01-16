@@ -119,7 +119,7 @@
     "meta": {
       "title": "Remexian 30/1 GCC GUB Guava Bars - Remexian Pharma | ab 5...",
       "description": "Remexian 30/1 GCC GUB Guava Bars von Remexian Pharma. THC: 30%, CBD: 1%. Sorte: Guava Barz. Preis ab 5,99 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/remexian-31-gcc-gub-guava-bars",
+      "canonical": "https://cannabisblueten.de/product/remexian-31-gcc-gub-guava-bars",
       "robots": {
         "index": true,
         "follow": true
@@ -127,28 +127,28 @@
       "openGraph": {
         "title": "Remexian 30/1 GCC GUB Guava Bars - Remexian Pharma | ab 5...",
         "description": "Remexian 30/1 GCC GUB Guava Bars von Remexian Pharma. THC: 30%, CBD: 1%. Sorte: Guava Barz. Preis ab 5,99 €. Preise vergleichen.",
-        "url": "https://weed.de/product/remexian-31-gcc-gub-guava-bars",
+        "url": "https://cannabisblueten.de/product/remexian-31-gcc-gub-guava-bars",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Remexian Pharma",
-        "href": "https://weed.de/brand/remexian-pharma"
+        "href": "https://cannabisblueten.de/brand/remexian-pharma"
       },
       {
         "name": "Remexian 30/1 GCC GUB Guava Bars",
-        "href": "https://weed.de/product/remexian-31-gcc-gub-guava-bars"
+        "href": "https://cannabisblueten.de/product/remexian-31-gcc-gub-guava-bars"
       }
     ],
     "schema": [
@@ -160,19 +160,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Remexian 30/1 GCC GUB Guava Bars",
-            "item": "https://weed.de/product/remexian-31-gcc-gub-guava-bars"
+            "item": "https://cannabisblueten.de/product/remexian-31-gcc-gub-guava-bars"
           }
         ]
       },
@@ -180,11 +180,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Remexian 30/1 GCC GUB Guava Bars",
+        "url": "https://cannabisblueten.de/product/remexian-31-gcc-gub-guava-bars",
         "brand": {
           "@type": "Brand",
           "name": "Remexian Pharma"
         },
-        "description": "THC: 30%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 30%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/remexian-31-gcc-gub-guava-bars",
+          "priceCurrency": "EUR",
+          "price": "5.99",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

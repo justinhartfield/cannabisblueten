@@ -121,7 +121,7 @@
     "meta": {
       "title": "GROW 27 PL - Grow group | ab 5,90 €",
       "description": "GROW 27 PL von Grow group. THC: 26%, CBD: 1%. Sorte: Pink Lilac. Preis ab 5,90 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/grow-27-pl",
+      "canonical": "https://cannabisblueten.de/product/grow-27-pl",
       "robots": {
         "index": true,
         "follow": true
@@ -129,28 +129,28 @@
       "openGraph": {
         "title": "GROW 27 PL - Grow group | ab 5,90 €",
         "description": "GROW 27 PL von Grow group. THC: 26%, CBD: 1%. Sorte: Pink Lilac. Preis ab 5,90 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/grow-27-pl",
+        "url": "https://cannabisblueten.de/product/grow-27-pl",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Grow group",
-        "href": "https://weed.de/brand/grow-group"
+        "href": "https://cannabisblueten.de/brand/grow-group"
       },
       {
         "name": "GROW 27 PL",
-        "href": "https://weed.de/product/grow-27-pl"
+        "href": "https://cannabisblueten.de/product/grow-27-pl"
       }
     ],
     "schema": [
@@ -162,19 +162,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "GROW 27 PL",
-            "item": "https://weed.de/product/grow-27-pl"
+            "item": "https://cannabisblueten.de/product/grow-27-pl"
           }
         ]
       },
@@ -182,11 +182,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "GROW 27 PL",
+        "url": "https://cannabisblueten.de/product/grow-27-pl",
         "brand": {
           "@type": "Brand",
           "name": "Grow group"
         },
-        "description": "THC: 26%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 26%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/grow-27-pl",
+          "priceCurrency": "EUR",
+          "price": "5.90",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

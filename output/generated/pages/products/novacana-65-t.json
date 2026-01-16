@@ -78,7 +78,7 @@
     "meta": {
       "title": "Novacana 65 T | ab 79,99 €",
       "description": "Novacana 65 T von Novacana. THC: 66.5%, CBD: 0.5%. Preis ab 79,99 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/novacana-65-t",
+      "canonical": "https://cannabisblueten.de/product/novacana-65-t",
       "robots": {
         "index": true,
         "follow": true
@@ -86,28 +86,28 @@
       "openGraph": {
         "title": "Novacana 65 T | ab 79,99 €",
         "description": "Novacana 65 T von Novacana. THC: 66.5%, CBD: 0.5%. Preis ab 79,99 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/novacana-65-t",
+        "url": "https://cannabisblueten.de/product/novacana-65-t",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Novacana",
-        "href": "https://weed.de/brand/novacana"
+        "href": "https://cannabisblueten.de/brand/novacana"
       },
       {
         "name": "Novacana 65 T",
-        "href": "https://weed.de/product/novacana-65-t"
+        "href": "https://cannabisblueten.de/product/novacana-65-t"
       }
     ],
     "schema": [
@@ -119,19 +119,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Novacana 65 T",
-            "item": "https://weed.de/product/novacana-65-t"
+            "item": "https://cannabisblueten.de/product/novacana-65-t"
           }
         ]
       },
@@ -139,11 +139,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Novacana 65 T",
+        "url": "https://cannabisblueten.de/product/novacana-65-t",
         "brand": {
           "@type": "Brand",
           "name": "Novacana"
         },
-        "description": "THC: 66.5%, CBD: 0.5%"
+        "description": "Medizinisches Cannabis Produkt. THC: 66.5%, CBD: 0.5%, Genetik: sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/novacana-65-t",
+          "priceCurrency": "EUR",
+          "price": "79.99",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

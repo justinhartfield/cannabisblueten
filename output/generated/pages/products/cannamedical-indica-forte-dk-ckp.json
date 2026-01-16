@@ -121,7 +121,7 @@
     "meta": {
       "title": "Cannamedical Indica Forte DK CKP | ab 4,76 €",
       "description": "Cannamedical Indica Forte DK CKP von Cannamedical. THC: 24%, CBD: 1%. Sorte: Cookies Kerosene Punch. Preis ab 4,76 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/cannamedical-indica-forte-dk-ckp",
+      "canonical": "https://cannabisblueten.de/product/cannamedical-indica-forte-dk-ckp",
       "robots": {
         "index": true,
         "follow": true
@@ -129,28 +129,28 @@
       "openGraph": {
         "title": "Cannamedical Indica Forte DK CKP | ab 4,76 €",
         "description": "Cannamedical Indica Forte DK CKP von Cannamedical. THC: 24%, CBD: 1%. Sorte: Cookies Kerosene Punch. Preis ab 4,76 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/cannamedical-indica-forte-dk-ckp",
+        "url": "https://cannabisblueten.de/product/cannamedical-indica-forte-dk-ckp",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cannamedical",
-        "href": "https://weed.de/brand/cannamedical"
+        "href": "https://cannabisblueten.de/brand/cannamedical"
       },
       {
         "name": "Cannamedical Indica Forte DK CKP",
-        "href": "https://weed.de/product/cannamedical-indica-forte-dk-ckp"
+        "href": "https://cannabisblueten.de/product/cannamedical-indica-forte-dk-ckp"
       }
     ],
     "schema": [
@@ -162,19 +162,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Cannamedical Indica Forte DK CKP",
-            "item": "https://weed.de/product/cannamedical-indica-forte-dk-ckp"
+            "item": "https://cannabisblueten.de/product/cannamedical-indica-forte-dk-ckp"
           }
         ]
       },
@@ -182,11 +182,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Cannamedical Indica Forte DK CKP",
+        "url": "https://cannabisblueten.de/product/cannamedical-indica-forte-dk-ckp",
         "brand": {
           "@type": "Brand",
           "name": "Cannamedical"
         },
-        "description": "THC: 24%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 24%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/cannamedical-indica-forte-dk-ckp",
+          "priceCurrency": "EUR",
+          "price": "4.76",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.76",
+            "maxPrice": "6.19",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

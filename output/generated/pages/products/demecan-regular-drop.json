@@ -102,7 +102,7 @@
     "meta": {
       "title": "Demecan Regular Drop | ab 4,99 €",
       "description": "Demecan Regular Drop von Demecan. THC: 24.9%, CBD: 1%. Sorte: Animal Face Cookies. Preis ab 4,99 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/demecan-regular-drop",
+      "canonical": "https://cannabisblueten.de/product/demecan-regular-drop",
       "robots": {
         "index": true,
         "follow": true
@@ -110,9 +110,9 @@
       "openGraph": {
         "title": "Demecan Regular Drop | ab 4,99 €",
         "description": "Demecan Regular Drop von Demecan. THC: 24.9%, CBD: 1%. Sorte: Animal Face Cookies. Preis ab 4,99 €. Preise vergleichen.",
-        "url": "https://weed.de/product/demecan-regular-drop",
+        "url": "https://cannabisblueten.de/product/demecan-regular-drop",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/demecan-regular-drop-895g6f.webp"
       }
@@ -120,19 +120,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Demecan",
-        "href": "https://weed.de/brand/demecan"
+        "href": "https://cannabisblueten.de/brand/demecan"
       },
       {
         "name": "Demecan Regular Drop",
-        "href": "https://weed.de/product/demecan-regular-drop"
+        "href": "https://cannabisblueten.de/product/demecan-regular-drop"
       }
     ],
     "schema": [
@@ -144,19 +144,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Demecan Regular Drop",
-            "item": "https://weed.de/product/demecan-regular-drop"
+            "item": "https://cannabisblueten.de/product/demecan-regular-drop"
           }
         ]
       },
@@ -164,11 +164,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Demecan Regular Drop",
+        "url": "https://cannabisblueten.de/product/demecan-regular-drop",
         "brand": {
           "@type": "Brand",
           "name": "Demecan"
         },
-        "description": "THC: 24.9%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 24.9%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/demecan-regular-drop",
+          "priceCurrency": "EUR",
+          "price": "4.99",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

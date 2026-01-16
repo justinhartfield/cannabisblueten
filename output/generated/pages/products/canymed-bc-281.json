@@ -104,7 +104,7 @@
     "meta": {
       "title": "canymed BC 28/1 | ab 9,44 €",
       "description": "canymed BC 28/1 von canymed. THC: 28%, CBD: 1%. Sorte: Snow White. Preis ab 9,44 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/canymed-bc-281",
+      "canonical": "https://cannabisblueten.de/product/canymed-bc-281",
       "robots": {
         "index": true,
         "follow": true
@@ -112,9 +112,9 @@
       "openGraph": {
         "title": "canymed BC 28/1 | ab 9,44 €",
         "description": "canymed BC 28/1 von canymed. THC: 28%, CBD: 1%. Sorte: Snow White. Preis ab 9,44 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/canymed-bc-281",
+        "url": "https://cannabisblueten.de/product/canymed-bc-281",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/canymed-bc-281-c5iijb.png"
       }
@@ -122,19 +122,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "canymed",
-        "href": "https://weed.de/brand/canymed"
+        "href": "https://cannabisblueten.de/brand/canymed"
       },
       {
         "name": "canymed BC 28/1",
-        "href": "https://weed.de/product/canymed-bc-281"
+        "href": "https://cannabisblueten.de/product/canymed-bc-281"
       }
     ],
     "schema": [
@@ -146,19 +146,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "canymed BC 28/1",
-            "item": "https://weed.de/product/canymed-bc-281"
+            "item": "https://cannabisblueten.de/product/canymed-bc-281"
           }
         ]
       },
@@ -166,11 +166,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "canymed BC 28/1",
+        "url": "https://cannabisblueten.de/product/canymed-bc-281",
         "brand": {
           "@type": "Brand",
           "name": "canymed"
         },
-        "description": "THC: 28%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 28%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/canymed-bc-281",
+          "priceCurrency": "EUR",
+          "price": "9.44",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "9.44",
+            "maxPrice": "9.99",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

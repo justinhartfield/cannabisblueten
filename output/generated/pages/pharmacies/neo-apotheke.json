@@ -65,7 +65,7 @@
     "meta": {
       "title": "NEO Apotheke - Cannabis Apotheke in Unknown",
       "description": "NEO Apotheke in Unknown. Abholung. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/neo-apotheke",
+      "canonical": "https://cannabisblueten.de/apotheke/neo-apotheke",
       "robots": {
         "index": true,
         "follow": true
@@ -73,28 +73,28 @@
       "openGraph": {
         "title": "NEO Apotheke - Cannabis Apotheke in Unknown",
         "description": "NEO Apotheke in Unknown. Abholung. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/neo-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/neo-apotheke",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Unknown",
-        "href": "https://weed.de/cannabis-apotheke/unknown"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/unknown"
       },
       {
         "name": "NEO Apotheke",
-        "href": "https://weed.de/apotheke/neo-apotheke"
+        "href": "https://cannabisblueten.de/apotheke/neo-apotheke"
       }
     ],
     "schema": [
@@ -106,25 +106,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Unknown",
-            "item": "https://weed.de/cannabis-apotheke/unknown"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/unknown"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "NEO Apotheke",
-            "item": "https://weed.de/apotheke/neo-apotheke"
+            "item": "https://cannabisblueten.de/apotheke/neo-apotheke"
           }
         ]
       },
@@ -132,7 +132,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "NEO Apotheke",
-        "url": "https://weed.de/apotheke/neo-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/neo-apotheke",
+        "description": "Cannabis Apotheke in Unknown. 0 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": null,
@@ -140,7 +141,17 @@
           "postalCode": null,
           "addressRegion": null,
           "addressCountry": "DE"
-        }
+        },
+        "priceRange": "€€",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ]
       }
     ]
   },

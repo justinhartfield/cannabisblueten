@@ -114,7 +114,7 @@
     "meta": {
       "title": "NEDCANN ML 25/01 Moonlight - California's Medical | ab 7,...",
       "description": "NEDCANN ML 25/01 Moonlight von California's Medical. THC: 25%, CBD: 1%. Sorte: Moonlight. Preis ab 7,89 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/nedcann-ml-2501-moonlight",
+      "canonical": "https://cannabisblueten.de/product/nedcann-ml-2501-moonlight",
       "robots": {
         "index": true,
         "follow": true
@@ -122,28 +122,28 @@
       "openGraph": {
         "title": "NEDCANN ML 25/01 Moonlight - California's Medical | ab 7,...",
         "description": "NEDCANN ML 25/01 Moonlight von California's Medical. THC: 25%, CBD: 1%. Sorte: Moonlight. Preis ab 7,89 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/nedcann-ml-2501-moonlight",
+        "url": "https://cannabisblueten.de/product/nedcann-ml-2501-moonlight",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "California's Medical",
-        "href": "https://weed.de/brand/california-s-medical"
+        "href": "https://cannabisblueten.de/brand/california-s-medical"
       },
       {
         "name": "NEDCANN ML 25/01 Moonlight",
-        "href": "https://weed.de/product/nedcann-ml-2501-moonlight"
+        "href": "https://cannabisblueten.de/product/nedcann-ml-2501-moonlight"
       }
     ],
     "schema": [
@@ -155,19 +155,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "NEDCANN ML 25/01 Moonlight",
-            "item": "https://weed.de/product/nedcann-ml-2501-moonlight"
+            "item": "https://cannabisblueten.de/product/nedcann-ml-2501-moonlight"
           }
         ]
       },
@@ -175,12 +175,23 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "NEDCANN ML 25/01 Moonlight",
+        "url": "https://cannabisblueten.de/product/nedcann-ml-2501-moonlight",
         "brand": {
           "@type": "Brand",
           "name": "California's Medical"
         },
         "gtin13": [],
-        "description": "THC: 25%, CBD: 1%"
+        "sku": [],
+        "description": "Medizinisches Cannabis Produkt. THC: 25%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/nedcann-ml-2501-moonlight",
+          "priceCurrency": "EUR",
+          "price": "7.89",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

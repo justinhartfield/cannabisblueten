@@ -124,7 +124,7 @@
     "meta": {
       "title": "26/1 Amici PKI - Cansativa | ab 5,95 €",
       "description": "26/1 Amici PKI von Cansativa. THC: 26%, CBD: 1%. Sorte: Pink Kitty. Preis ab 5,95 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/261-amici-pki",
+      "canonical": "https://cannabisblueten.de/product/261-amici-pki",
       "robots": {
         "index": true,
         "follow": true
@@ -132,9 +132,9 @@
       "openGraph": {
         "title": "26/1 Amici PKI - Cansativa | ab 5,95 €",
         "description": "26/1 Amici PKI von Cansativa. THC: 26%, CBD: 1%. Sorte: Pink Kitty. Preis ab 5,95 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/261-amici-pki",
+        "url": "https://cannabisblueten.de/product/261-amici-pki",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/261-amici-pki-70e5e0.png"
       }
@@ -142,19 +142,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cansativa",
-        "href": "https://weed.de/brand/cansativa"
+        "href": "https://cannabisblueten.de/brand/cansativa"
       },
       {
         "name": "26/1 Amici PKI",
-        "href": "https://weed.de/product/261-amici-pki"
+        "href": "https://cannabisblueten.de/product/261-amici-pki"
       }
     ],
     "schema": [
@@ -166,19 +166,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "26/1 Amici PKI",
-            "item": "https://weed.de/product/261-amici-pki"
+            "item": "https://cannabisblueten.de/product/261-amici-pki"
           }
         ]
       },
@@ -186,11 +186,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "26/1 Amici PKI",
+        "url": "https://cannabisblueten.de/product/261-amici-pki",
         "brand": {
           "@type": "Brand",
           "name": "Cansativa"
         },
-        "description": "THC: 26%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 26%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/261-amici-pki",
+          "priceCurrency": "EUR",
+          "price": "5.95",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

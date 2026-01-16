@@ -121,7 +121,7 @@
     "meta": {
       "title": "Sinceritas Sativa Auris 27/1 Cosmic MAC | ab 7,38 €",
       "description": "Sinceritas Sativa Auris 27/1 Cosmic MAC von Sinceritas. THC: 26%, CBD: 1%. Sorte: Cosmic MAC. Preis ab 7,38 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/sinceritas-sativa-auris-271-cosmic-mac",
+      "canonical": "https://cannabisblueten.de/product/sinceritas-sativa-auris-271-cosmic-mac",
       "robots": {
         "index": true,
         "follow": true
@@ -129,28 +129,28 @@
       "openGraph": {
         "title": "Sinceritas Sativa Auris 27/1 Cosmic MAC | ab 7,38 €",
         "description": "Sinceritas Sativa Auris 27/1 Cosmic MAC von Sinceritas. THC: 26%, CBD: 1%. Sorte: Cosmic MAC. Preis ab 7,38 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/sinceritas-sativa-auris-271-cosmic-mac",
+        "url": "https://cannabisblueten.de/product/sinceritas-sativa-auris-271-cosmic-mac",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Sinceritas",
-        "href": "https://weed.de/brand/sinceritas"
+        "href": "https://cannabisblueten.de/brand/sinceritas"
       },
       {
         "name": "Sinceritas Sativa Auris 27/1 Cosmic MAC",
-        "href": "https://weed.de/product/sinceritas-sativa-auris-271-cosmic-mac"
+        "href": "https://cannabisblueten.de/product/sinceritas-sativa-auris-271-cosmic-mac"
       }
     ],
     "schema": [
@@ -162,19 +162,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Sinceritas Sativa Auris 27/1 Cosmic MAC",
-            "item": "https://weed.de/product/sinceritas-sativa-auris-271-cosmic-mac"
+            "item": "https://cannabisblueten.de/product/sinceritas-sativa-auris-271-cosmic-mac"
           }
         ]
       },
@@ -182,11 +182,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Sinceritas Sativa Auris 27/1 Cosmic MAC",
+        "url": "https://cannabisblueten.de/product/sinceritas-sativa-auris-271-cosmic-mac",
         "brand": {
           "@type": "Brand",
           "name": "Sinceritas"
         },
-        "description": "THC: 26%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 26%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/sinceritas-sativa-auris-271-cosmic-mac",
+          "priceCurrency": "EUR",
+          "price": "7.38",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "7.38",
+            "maxPrice": "10.70",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

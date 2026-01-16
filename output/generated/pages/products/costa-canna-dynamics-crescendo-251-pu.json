@@ -103,7 +103,7 @@
     "meta": {
       "title": "Costa Canna Dynamics Crescendo 25/1 PU - Cantourage | ab ...",
       "description": "Costa Canna Dynamics Crescendo 25/1 PU von Cantourage. THC: 25%, CBD: 1%. Sorte: Pucker Up. Preis ab 6,00 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/costa-canna-dynamics-crescendo-251-pu",
+      "canonical": "https://cannabisblueten.de/product/costa-canna-dynamics-crescendo-251-pu",
       "robots": {
         "index": true,
         "follow": true
@@ -111,9 +111,9 @@
       "openGraph": {
         "title": "Costa Canna Dynamics Crescendo 25/1 PU - Cantourage | ab ...",
         "description": "Costa Canna Dynamics Crescendo 25/1 PU von Cantourage. THC: 25%, CBD: 1%. Sorte: Pucker Up. Preis ab 6,00 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/costa-canna-dynamics-crescendo-251-pu",
+        "url": "https://cannabisblueten.de/product/costa-canna-dynamics-crescendo-251-pu",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/costa-canna-dynamics-crescendo-251-pu-83gdd4.png"
       }
@@ -121,19 +121,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cantourage",
-        "href": "https://weed.de/brand/cantourage"
+        "href": "https://cannabisblueten.de/brand/cantourage"
       },
       {
         "name": "Costa Canna Dynamics Crescendo 25/1 PU",
-        "href": "https://weed.de/product/costa-canna-dynamics-crescendo-251-pu"
+        "href": "https://cannabisblueten.de/product/costa-canna-dynamics-crescendo-251-pu"
       }
     ],
     "schema": [
@@ -145,19 +145,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Costa Canna Dynamics Crescendo 25/1 PU",
-            "item": "https://weed.de/product/costa-canna-dynamics-crescendo-251-pu"
+            "item": "https://cannabisblueten.de/product/costa-canna-dynamics-crescendo-251-pu"
           }
         ]
       },
@@ -165,11 +165,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Costa Canna Dynamics Crescendo 25/1 PU",
+        "url": "https://cannabisblueten.de/product/costa-canna-dynamics-crescendo-251-pu",
         "brand": {
           "@type": "Brand",
           "name": "Cantourage"
         },
-        "description": "THC: 25%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 25%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/costa-canna-dynamics-crescendo-251-pu",
+          "priceCurrency": "EUR",
+          "price": "6.00",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "6.00",
+            "maxPrice": "6.78",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

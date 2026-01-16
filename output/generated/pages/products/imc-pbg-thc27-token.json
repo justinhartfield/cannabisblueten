@@ -113,7 +113,7 @@
     "meta": {
       "title": "IMC PBG THC27 Token | ab 3,79 €",
       "description": "IMC PBG THC27 Token von IMC. THC: 27%, CBD: 1%. Sorte: Sour Beach. Preis ab 3,79 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/imc-pbg-thc27-token",
+      "canonical": "https://cannabisblueten.de/product/imc-pbg-thc27-token",
       "robots": {
         "index": true,
         "follow": true
@@ -121,9 +121,9 @@
       "openGraph": {
         "title": "IMC PBG THC27 Token | ab 3,79 €",
         "description": "IMC PBG THC27 Token von IMC. THC: 27%, CBD: 1%. Sorte: Sour Beach. Preis ab 3,79 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/imc-pbg-thc27-token",
+        "url": "https://cannabisblueten.de/product/imc-pbg-thc27-token",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/imc-pbg-thc27-token-a5g248.webp"
       }
@@ -131,19 +131,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "IMC",
-        "href": "https://weed.de/brand/imc"
+        "href": "https://cannabisblueten.de/brand/imc"
       },
       {
         "name": "IMC PBG THC27 Token",
-        "href": "https://weed.de/product/imc-pbg-thc27-token"
+        "href": "https://cannabisblueten.de/product/imc-pbg-thc27-token"
       }
     ],
     "schema": [
@@ -155,19 +155,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "IMC PBG THC27 Token",
-            "item": "https://weed.de/product/imc-pbg-thc27-token"
+            "item": "https://cannabisblueten.de/product/imc-pbg-thc27-token"
           }
         ]
       },
@@ -175,11 +175,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "IMC PBG THC27 Token",
+        "url": "https://cannabisblueten.de/product/imc-pbg-thc27-token",
         "brand": {
           "@type": "Brand",
           "name": "IMC"
         },
-        "description": "THC: 27%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 27%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/imc-pbg-thc27-token",
+          "priceCurrency": "EUR",
+          "price": "3.79",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "3.79",
+            "maxPrice": "7.99",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

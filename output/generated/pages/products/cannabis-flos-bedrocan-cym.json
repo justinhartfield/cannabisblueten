@@ -127,7 +127,7 @@
     "meta": {
       "title": "Cannabis flos Bedrocan CYM - canymed | ab 9,99 €",
       "description": "Cannabis flos Bedrocan CYM von canymed. THC: 22%, CBD: 1%. Sorte: Bedrocan®. Preis ab 9,99 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/cannabis-flos-bedrocan-cym",
+      "canonical": "https://cannabisblueten.de/product/cannabis-flos-bedrocan-cym",
       "robots": {
         "index": true,
         "follow": true
@@ -135,28 +135,28 @@
       "openGraph": {
         "title": "Cannabis flos Bedrocan CYM - canymed | ab 9,99 €",
         "description": "Cannabis flos Bedrocan CYM von canymed. THC: 22%, CBD: 1%. Sorte: Bedrocan®. Preis ab 9,99 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/cannabis-flos-bedrocan-cym",
+        "url": "https://cannabisblueten.de/product/cannabis-flos-bedrocan-cym",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "canymed",
-        "href": "https://weed.de/brand/canymed"
+        "href": "https://cannabisblueten.de/brand/canymed"
       },
       {
         "name": "Cannabis flos Bedrocan CYM",
-        "href": "https://weed.de/product/cannabis-flos-bedrocan-cym"
+        "href": "https://cannabisblueten.de/product/cannabis-flos-bedrocan-cym"
       }
     ],
     "schema": [
@@ -168,19 +168,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Cannabis flos Bedrocan CYM",
-            "item": "https://weed.de/product/cannabis-flos-bedrocan-cym"
+            "item": "https://cannabisblueten.de/product/cannabis-flos-bedrocan-cym"
           }
         ]
       },
@@ -188,11 +188,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Cannabis flos Bedrocan CYM",
+        "url": "https://cannabisblueten.de/product/cannabis-flos-bedrocan-cym",
         "brand": {
           "@type": "Brand",
           "name": "canymed"
         },
-        "description": "THC: 22%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 22%, CBD: 1%, Genetik: sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/cannabis-flos-bedrocan-cym",
+          "priceCurrency": "EUR",
+          "price": "9.99",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

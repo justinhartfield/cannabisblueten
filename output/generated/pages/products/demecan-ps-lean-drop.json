@@ -114,7 +114,7 @@
     "meta": {
       "title": "Demecan PS Lean Drop | ab 3,89 €",
       "description": "Demecan PS Lean Drop von Demecan. THC: 22%, CBD: 1%. Sorte: Tropaya Punch. Preis ab 3,89 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/demecan-ps-lean-drop",
+      "canonical": "https://cannabisblueten.de/product/demecan-ps-lean-drop",
       "robots": {
         "index": true,
         "follow": true
@@ -122,9 +122,9 @@
       "openGraph": {
         "title": "Demecan PS Lean Drop | ab 3,89 €",
         "description": "Demecan PS Lean Drop von Demecan. THC: 22%, CBD: 1%. Sorte: Tropaya Punch. Preis ab 3,89 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/demecan-ps-lean-drop",
+        "url": "https://cannabisblueten.de/product/demecan-ps-lean-drop",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/ps-lean-drop-g5ge7b.png"
       }
@@ -132,19 +132,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Demecan",
-        "href": "https://weed.de/brand/demecan"
+        "href": "https://cannabisblueten.de/brand/demecan"
       },
       {
         "name": "Demecan PS Lean Drop",
-        "href": "https://weed.de/product/demecan-ps-lean-drop"
+        "href": "https://cannabisblueten.de/product/demecan-ps-lean-drop"
       }
     ],
     "schema": [
@@ -156,19 +156,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Demecan PS Lean Drop",
-            "item": "https://weed.de/product/demecan-ps-lean-drop"
+            "item": "https://cannabisblueten.de/product/demecan-ps-lean-drop"
           }
         ]
       },
@@ -176,11 +176,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Demecan PS Lean Drop",
+        "url": "https://cannabisblueten.de/product/demecan-ps-lean-drop",
         "brand": {
           "@type": "Brand",
           "name": "Demecan"
         },
-        "description": "THC: 22%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 22%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/demecan-ps-lean-drop",
+          "priceCurrency": "EUR",
+          "price": "3.89",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "3.89",
+            "maxPrice": "5.99",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

@@ -108,7 +108,7 @@
     "meta": {
       "title": "Wellford Aquaponic 29/1 LBO - Therismos | ab 6,09 €",
       "description": "Wellford Aquaponic 29/1 LBO von Therismos. THC: 29%, CBD: 1%. Sorte: Legendary Bozy. Preis ab 6,09 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/wellford-aquaponic-291-lbo",
+      "canonical": "https://cannabisblueten.de/product/wellford-aquaponic-291-lbo",
       "robots": {
         "index": true,
         "follow": true
@@ -116,9 +116,9 @@
       "openGraph": {
         "title": "Wellford Aquaponic 29/1 LBO - Therismos | ab 6,09 €",
         "description": "Wellford Aquaponic 29/1 LBO von Therismos. THC: 29%, CBD: 1%. Sorte: Legendary Bozy. Preis ab 6,09 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/wellford-aquaponic-291-lbo",
+        "url": "https://cannabisblueten.de/product/wellford-aquaponic-291-lbo",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/wellford-aquaponic-291-lbo-gg031a.png"
       }
@@ -126,19 +126,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Therismos",
-        "href": "https://weed.de/brand/therismos"
+        "href": "https://cannabisblueten.de/brand/therismos"
       },
       {
         "name": "Wellford Aquaponic 29/1 LBO",
-        "href": "https://weed.de/product/wellford-aquaponic-291-lbo"
+        "href": "https://cannabisblueten.de/product/wellford-aquaponic-291-lbo"
       }
     ],
     "schema": [
@@ -150,19 +150,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Wellford Aquaponic 29/1 LBO",
-            "item": "https://weed.de/product/wellford-aquaponic-291-lbo"
+            "item": "https://cannabisblueten.de/product/wellford-aquaponic-291-lbo"
           }
         ]
       },
@@ -170,11 +170,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Wellford Aquaponic 29/1 LBO",
+        "url": "https://cannabisblueten.de/product/wellford-aquaponic-291-lbo",
         "brand": {
           "@type": "Brand",
           "name": "Therismos"
         },
-        "description": "THC: 29%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 29%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/wellford-aquaponic-291-lbo",
+          "priceCurrency": "EUR",
+          "price": "6.09",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "6.09",
+            "maxPrice": "9.00",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

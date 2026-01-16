@@ -104,7 +104,7 @@
     "meta": {
       "title": "Remexian 18/1 WW - Remexian Pharma | ab 8,99 €",
       "description": "Remexian 18/1 WW von Remexian Pharma. THC: 18%, CBD: 1%. Sorte: White Widow. Preis ab 8,99 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/remexian-181-ww",
+      "canonical": "https://cannabisblueten.de/product/remexian-181-ww",
       "robots": {
         "index": true,
         "follow": true
@@ -112,28 +112,28 @@
       "openGraph": {
         "title": "Remexian 18/1 WW - Remexian Pharma | ab 8,99 €",
         "description": "Remexian 18/1 WW von Remexian Pharma. THC: 18%, CBD: 1%. Sorte: White Widow. Preis ab 8,99 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/remexian-181-ww",
+        "url": "https://cannabisblueten.de/product/remexian-181-ww",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Remexian Pharma",
-        "href": "https://weed.de/brand/remexian-pharma"
+        "href": "https://cannabisblueten.de/brand/remexian-pharma"
       },
       {
         "name": "Remexian 18/1 WW",
-        "href": "https://weed.de/product/remexian-181-ww"
+        "href": "https://cannabisblueten.de/product/remexian-181-ww"
       }
     ],
     "schema": [
@@ -145,19 +145,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Remexian 18/1 WW",
-            "item": "https://weed.de/product/remexian-181-ww"
+            "item": "https://cannabisblueten.de/product/remexian-181-ww"
           }
         ]
       },
@@ -165,11 +165,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Remexian 18/1 WW",
+        "url": "https://cannabisblueten.de/product/remexian-181-ww",
         "brand": {
           "@type": "Brand",
           "name": "Remexian Pharma"
         },
-        "description": "THC: 18%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 18%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/remexian-181-ww",
+          "priceCurrency": "EUR",
+          "price": "8.99",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

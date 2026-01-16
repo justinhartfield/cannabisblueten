@@ -116,7 +116,7 @@
     "meta": {
       "title": "Canify Cannabis flos 22/1 ES Ku. The Chef | ab 5,98 €",
       "description": "Canify Cannabis flos 22/1 ES Ku. The Chef von Canify. THC: 22%, CBD: 1%. Sorte: The Chef. Preis ab 5,98 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/canify-cannabis-flos-221-es-ku-the-chef",
+      "canonical": "https://cannabisblueten.de/product/canify-cannabis-flos-221-es-ku-the-chef",
       "robots": {
         "index": true,
         "follow": true
@@ -124,9 +124,9 @@
       "openGraph": {
         "title": "Canify Cannabis flos 22/1 ES Ku. The Chef | ab 5,98 €",
         "description": "Canify Cannabis flos 22/1 ES Ku. The Chef von Canify. THC: 22%, CBD: 1%. Sorte: The Chef. Preis ab 5,98 €. Preise vergleichen.",
-        "url": "https://weed.de/product/canify-cannabis-flos-221-es-ku-the-chef",
+        "url": "https://cannabisblueten.de/product/canify-cannabis-flos-221-es-ku-the-chef",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/cannabis-flos-221-es-ku-the-chef-159ghd.png"
       }
@@ -134,19 +134,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Canify",
-        "href": "https://weed.de/brand/canify"
+        "href": "https://cannabisblueten.de/brand/canify"
       },
       {
         "name": "Canify Cannabis flos 22/1 ES Ku. The Chef",
-        "href": "https://weed.de/product/canify-cannabis-flos-221-es-ku-the-chef"
+        "href": "https://cannabisblueten.de/product/canify-cannabis-flos-221-es-ku-the-chef"
       }
     ],
     "schema": [
@@ -158,19 +158,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Canify Cannabis flos 22/1 ES Ku. The Chef",
-            "item": "https://weed.de/product/canify-cannabis-flos-221-es-ku-the-chef"
+            "item": "https://cannabisblueten.de/product/canify-cannabis-flos-221-es-ku-the-chef"
           }
         ]
       },
@@ -178,11 +178,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Canify Cannabis flos 22/1 ES Ku. The Chef",
+        "url": "https://cannabisblueten.de/product/canify-cannabis-flos-221-es-ku-the-chef",
         "brand": {
           "@type": "Brand",
           "name": "Canify"
         },
-        "description": "THC: 22%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 22%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/canify-cannabis-flos-221-es-ku-the-chef",
+          "priceCurrency": "EUR",
+          "price": "5.98",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

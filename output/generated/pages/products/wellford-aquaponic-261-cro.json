@@ -128,7 +128,7 @@
     "meta": {
       "title": "Wellford Aquaponic 26/1 CRO - Therismos | ab 10,99 €",
       "description": "Wellford Aquaponic 26/1 CRO von Therismos. THC: 26%, CBD: 1%. Sorte: Crescendo Cookies. Preis ab 10,99 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/wellford-aquaponic-261-cro",
+      "canonical": "https://cannabisblueten.de/product/wellford-aquaponic-261-cro",
       "robots": {
         "index": true,
         "follow": true
@@ -136,9 +136,9 @@
       "openGraph": {
         "title": "Wellford Aquaponic 26/1 CRO - Therismos | ab 10,99 €",
         "description": "Wellford Aquaponic 26/1 CRO von Therismos. THC: 26%, CBD: 1%. Sorte: Crescendo Cookies. Preis ab 10,99 €. Preise vergleichen.",
-        "url": "https://weed.de/product/wellford-aquaponic-261-cro",
+        "url": "https://cannabisblueten.de/product/wellford-aquaponic-261-cro",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/wellford-aquaponic-261-cro-ajdffj.png"
       }
@@ -146,19 +146,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Therismos",
-        "href": "https://weed.de/brand/therismos"
+        "href": "https://cannabisblueten.de/brand/therismos"
       },
       {
         "name": "Wellford Aquaponic 26/1 CRO",
-        "href": "https://weed.de/product/wellford-aquaponic-261-cro"
+        "href": "https://cannabisblueten.de/product/wellford-aquaponic-261-cro"
       }
     ],
     "schema": [
@@ -170,19 +170,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Wellford Aquaponic 26/1 CRO",
-            "item": "https://weed.de/product/wellford-aquaponic-261-cro"
+            "item": "https://cannabisblueten.de/product/wellford-aquaponic-261-cro"
           }
         ]
       },
@@ -190,12 +190,23 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Wellford Aquaponic 26/1 CRO",
+        "url": "https://cannabisblueten.de/product/wellford-aquaponic-261-cro",
         "brand": {
           "@type": "Brand",
           "name": "Therismos"
         },
         "gtin13": [],
-        "description": "THC: 26%, CBD: 1%"
+        "sku": [],
+        "description": "Medizinisches Cannabis Produkt. THC: 26%, CBD: 1%, Genetik: indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/wellford-aquaponic-261-cro",
+          "priceCurrency": "EUR",
+          "price": "10.99",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

@@ -104,7 +104,7 @@
     "meta": {
       "title": "ZOIKS 26/1 TG - Avaay | ab 4,23 €",
       "description": "ZOIKS 26/1 TG von Avaay. THC: 26%, CBD: 1%. Sorte: Tangrini. Preis ab 4,23 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/zoiks-261-tg",
+      "canonical": "https://cannabisblueten.de/product/zoiks-261-tg",
       "robots": {
         "index": true,
         "follow": true
@@ -112,9 +112,9 @@
       "openGraph": {
         "title": "ZOIKS 26/1 TG - Avaay | ab 4,23 €",
         "description": "ZOIKS 26/1 TG von Avaay. THC: 26%, CBD: 1%. Sorte: Tangrini. Preis ab 4,23 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/zoiks-261-tg",
+        "url": "https://cannabisblueten.de/product/zoiks-261-tg",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/zoiks-261-tg-15h0c8.png"
       }
@@ -122,19 +122,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Avaay",
-        "href": "https://weed.de/brand/avaay"
+        "href": "https://cannabisblueten.de/brand/avaay"
       },
       {
         "name": "ZOIKS 26/1 TG",
-        "href": "https://weed.de/product/zoiks-261-tg"
+        "href": "https://cannabisblueten.de/product/zoiks-261-tg"
       }
     ],
     "schema": [
@@ -146,19 +146,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "ZOIKS 26/1 TG",
-            "item": "https://weed.de/product/zoiks-261-tg"
+            "item": "https://cannabisblueten.de/product/zoiks-261-tg"
           }
         ]
       },
@@ -166,11 +166,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "ZOIKS 26/1 TG",
+        "url": "https://cannabisblueten.de/product/zoiks-261-tg",
         "brand": {
           "@type": "Brand",
           "name": "Avaay"
         },
-        "description": "THC: 26%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 26%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/zoiks-261-tg",
+          "priceCurrency": "EUR",
+          "price": "4.23",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.23",
+            "maxPrice": "7.90",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

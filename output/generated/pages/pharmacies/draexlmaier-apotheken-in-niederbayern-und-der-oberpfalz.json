@@ -65,7 +65,7 @@
     "meta": {
       "title": "Dräxlmaier Apotheken in Niederbayern und der Oberpfalz - Cannabis Apotheke in Straubing",
       "description": "Dräxlmaier Apotheken in Niederbayern und der Oberpfalz in Straubing. 27 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/draexlmaier-apotheken-in-niederbayern-und-der-oberpfalz",
+      "canonical": "https://cannabisblueten.de/apotheke/draexlmaier-apotheken-in-niederbayern-und-der-oberpfalz",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Dräxlmaier Apotheken in Niederbayern und der Oberpfalz - Cannabis Apotheke in Straubing",
         "description": "Dräxlmaier Apotheken in Niederbayern und der Oberpfalz in Straubing. 27 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/draexlmaier-apotheken-in-niederbayern-und-der-oberpfalz",
+        "url": "https://cannabisblueten.de/apotheke/draexlmaier-apotheken-in-niederbayern-und-der-oberpfalz",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/67f61711b476f2840b83f876-0h017g.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Straubing",
-        "href": "https://weed.de/cannabis-apotheke/straubing"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/straubing"
       },
       {
         "name": "Dräxlmaier Apotheken in Niederbayern und der Oberpfalz",
-        "href": "https://weed.de/apotheke/draexlmaier-apotheken-in-niederbayern-und-der-oberpfalz"
+        "href": "https://cannabisblueten.de/apotheke/draexlmaier-apotheken-in-niederbayern-und-der-oberpfalz"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Straubing",
-            "item": "https://weed.de/cannabis-apotheke/straubing"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/straubing"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Dräxlmaier Apotheken in Niederbayern und der Oberpfalz",
-            "item": "https://weed.de/apotheke/draexlmaier-apotheken-in-niederbayern-und-der-oberpfalz"
+            "item": "https://cannabisblueten.de/apotheke/draexlmaier-apotheken-in-niederbayern-und-der-oberpfalz"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Dräxlmaier Apotheken in Niederbayern und der Oberpfalz",
-        "url": "https://weed.de/apotheke/draexlmaier-apotheken-in-niederbayern-und-der-oberpfalz",
+        "url": "https://cannabisblueten.de/apotheke/draexlmaier-apotheken-in-niederbayern-und-der-oberpfalz",
+        "description": "Cannabis Apotheke in Straubing. 27 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Theresienplatz 17",
@@ -142,8 +143,31 @@
           "addressRegion": "Bayern",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 48.881493,
+          "longitude": 12.5681472
+        },
         "telephone": "0942110235",
-        "email": "kontakt@cannabis-der-shop.de"
+        "email": "kontakt@cannabis-der-shop.de",
+        "sameAs": "https://cannabis-der-shop.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ]
       }
     ]
   },

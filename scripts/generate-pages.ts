@@ -51,9 +51,9 @@ const PAGES_DIR = path.join(OUTPUT_DIR, 'pages');
 const SITEMAPS_DIR = path.join(OUTPUT_DIR, 'sitemaps');
 
 const RESOLVER_CONFIG: ResolverConfig = {
-  baseUrl: 'https://weed.de',
+  baseUrl: 'https://cannabisblueten.de',
   defaultLocale: 'de_DE',
-  siteName: 'Weed.de',
+  siteName: 'CannabisBlueten.de',
 };
 
 // =============================================================================

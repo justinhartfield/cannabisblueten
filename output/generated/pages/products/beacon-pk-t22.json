@@ -104,7 +104,7 @@
     "meta": {
       "title": "Beacon PK T22 - Cansativa | ab 3,95 €",
       "description": "Beacon PK T22 von Cansativa. THC: 22%, CBD: 1%. Sorte: Pink Kush. Preis ab 3,95 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/beacon-pk-t22",
+      "canonical": "https://cannabisblueten.de/product/beacon-pk-t22",
       "robots": {
         "index": true,
         "follow": true
@@ -112,9 +112,9 @@
       "openGraph": {
         "title": "Beacon PK T22 - Cansativa | ab 3,95 €",
         "description": "Beacon PK T22 von Cansativa. THC: 22%, CBD: 1%. Sorte: Pink Kush. Preis ab 3,95 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/beacon-pk-t22",
+        "url": "https://cannabisblueten.de/product/beacon-pk-t22",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/beacon-pk-t22-50998j.webp"
       }
@@ -122,19 +122,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cansativa",
-        "href": "https://weed.de/brand/cansativa"
+        "href": "https://cannabisblueten.de/brand/cansativa"
       },
       {
         "name": "Beacon PK T22",
-        "href": "https://weed.de/product/beacon-pk-t22"
+        "href": "https://cannabisblueten.de/product/beacon-pk-t22"
       }
     ],
     "schema": [
@@ -146,19 +146,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Beacon PK T22",
-            "item": "https://weed.de/product/beacon-pk-t22"
+            "item": "https://cannabisblueten.de/product/beacon-pk-t22"
           }
         ]
       },
@@ -166,12 +166,29 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Beacon PK T22",
+        "url": "https://cannabisblueten.de/product/beacon-pk-t22",
         "brand": {
           "@type": "Brand",
           "name": "Cansativa"
         },
         "gtin13": [],
-        "description": "THC: 22%, CBD: 1%"
+        "sku": [],
+        "description": "Medizinisches Cannabis Produkt. THC: 22%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/beacon-pk-t22",
+          "priceCurrency": "EUR",
+          "price": "3.95",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "3.95",
+            "maxPrice": "8.50",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

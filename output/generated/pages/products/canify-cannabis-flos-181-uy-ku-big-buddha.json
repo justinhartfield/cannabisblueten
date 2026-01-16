@@ -117,7 +117,7 @@
     "meta": {
       "title": "Canify Cannabis flos 18/1 UY Ku. Big Buddha | ab 6,50 €",
       "description": "Canify Cannabis flos 18/1 UY Ku. Big Buddha von Canify. THC: 18%, CBD: 1%. Sorte: Big Buddha. Preis ab 6,50 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/canify-cannabis-flos-181-uy-ku-big-buddha",
+      "canonical": "https://cannabisblueten.de/product/canify-cannabis-flos-181-uy-ku-big-buddha",
       "robots": {
         "index": true,
         "follow": true
@@ -125,9 +125,9 @@
       "openGraph": {
         "title": "Canify Cannabis flos 18/1 UY Ku. Big Buddha | ab 6,50 €",
         "description": "Canify Cannabis flos 18/1 UY Ku. Big Buddha von Canify. THC: 18%, CBD: 1%. Sorte: Big Buddha. Preis ab 6,50 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/canify-cannabis-flos-181-uy-ku-big-buddha",
+        "url": "https://cannabisblueten.de/product/canify-cannabis-flos-181-uy-ku-big-buddha",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/canify-cannabis-flos-181-uy-ku-big-buddha-8j5jc9.png"
       }
@@ -135,19 +135,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Canify",
-        "href": "https://weed.de/brand/canify"
+        "href": "https://cannabisblueten.de/brand/canify"
       },
       {
         "name": "Canify Cannabis flos 18/1 UY Ku. Big Buddha",
-        "href": "https://weed.de/product/canify-cannabis-flos-181-uy-ku-big-buddha"
+        "href": "https://cannabisblueten.de/product/canify-cannabis-flos-181-uy-ku-big-buddha"
       }
     ],
     "schema": [
@@ -159,19 +159,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Canify Cannabis flos 18/1 UY Ku. Big Buddha",
-            "item": "https://weed.de/product/canify-cannabis-flos-181-uy-ku-big-buddha"
+            "item": "https://cannabisblueten.de/product/canify-cannabis-flos-181-uy-ku-big-buddha"
           }
         ]
       },
@@ -179,11 +179,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Canify Cannabis flos 18/1 UY Ku. Big Buddha",
+        "url": "https://cannabisblueten.de/product/canify-cannabis-flos-181-uy-ku-big-buddha",
         "brand": {
           "@type": "Brand",
           "name": "Canify"
         },
-        "description": "THC: 18%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 18%, CBD: 1%, Genetik: indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/canify-cannabis-flos-181-uy-ku-big-buddha",
+          "priceCurrency": "EUR",
+          "price": "6.50",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

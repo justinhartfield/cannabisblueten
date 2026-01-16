@@ -78,7 +78,7 @@
       "name": "Wellford Aquaponic 26/1 GTH",
       "brandName": "Therismos",
       "thcPercent": 26,
-      "priceMin": 699,
+      "priceMin": 698,
       "inStock": true
     },
     {
@@ -102,7 +102,7 @@
     "meta": {
       "title": "Wellford Aquaponic 23/1 GTH - Therismos | ab 6,15 €",
       "description": "Wellford Aquaponic 23/1 GTH von Therismos. THC: 23%, CBD: 1%. Sorte: Ghost Train Haze. Preis ab 6,15 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/wellford-aquaponic-231-gth",
+      "canonical": "https://cannabisblueten.de/product/wellford-aquaponic-231-gth",
       "robots": {
         "index": true,
         "follow": true
@@ -110,9 +110,9 @@
       "openGraph": {
         "title": "Wellford Aquaponic 23/1 GTH - Therismos | ab 6,15 €",
         "description": "Wellford Aquaponic 23/1 GTH von Therismos. THC: 23%, CBD: 1%. Sorte: Ghost Train Haze. Preis ab 6,15 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/wellford-aquaponic-231-gth",
+        "url": "https://cannabisblueten.de/product/wellford-aquaponic-231-gth",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/wellford-aquaponic-231-gth-c3bgd6.png"
       }
@@ -120,19 +120,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Therismos",
-        "href": "https://weed.de/brand/therismos"
+        "href": "https://cannabisblueten.de/brand/therismos"
       },
       {
         "name": "Wellford Aquaponic 23/1 GTH",
-        "href": "https://weed.de/product/wellford-aquaponic-231-gth"
+        "href": "https://cannabisblueten.de/product/wellford-aquaponic-231-gth"
       }
     ],
     "schema": [
@@ -144,19 +144,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Wellford Aquaponic 23/1 GTH",
-            "item": "https://weed.de/product/wellford-aquaponic-231-gth"
+            "item": "https://cannabisblueten.de/product/wellford-aquaponic-231-gth"
           }
         ]
       },
@@ -164,11 +164,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Wellford Aquaponic 23/1 GTH",
+        "url": "https://cannabisblueten.de/product/wellford-aquaponic-231-gth",
         "brand": {
           "@type": "Brand",
           "name": "Therismos"
         },
-        "description": "THC: 23%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 23%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/wellford-aquaponic-231-gth",
+          "priceCurrency": "EUR",
+          "price": "6.15",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "6.15",
+            "maxPrice": "7.70",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

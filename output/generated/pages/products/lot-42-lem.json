@@ -115,7 +115,7 @@
     "meta": {
       "title": "LOT 420 LEM - Cantourage | ab 11,99 €",
       "description": "LOT 420 LEM von Cantourage. THC: 26%, CBD: 1%. Sorte: Lemonatti. Preis ab 11,99 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/lot-42-lem",
+      "canonical": "https://cannabisblueten.de/product/lot-42-lem",
       "robots": {
         "index": true,
         "follow": true
@@ -123,9 +123,9 @@
       "openGraph": {
         "title": "LOT 420 LEM - Cantourage | ab 11,99 €",
         "description": "LOT 420 LEM von Cantourage. THC: 26%, CBD: 1%. Sorte: Lemonatti. Preis ab 11,99 €. Preise vergleichen.",
-        "url": "https://weed.de/product/lot-42-lem",
+        "url": "https://cannabisblueten.de/product/lot-42-lem",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/lot-42-lem-15dc8f.png"
       }
@@ -133,19 +133,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cantourage",
-        "href": "https://weed.de/brand/cantourage"
+        "href": "https://cannabisblueten.de/brand/cantourage"
       },
       {
         "name": "LOT 420 LEM",
-        "href": "https://weed.de/product/lot-42-lem"
+        "href": "https://cannabisblueten.de/product/lot-42-lem"
       }
     ],
     "schema": [
@@ -157,19 +157,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "LOT 420 LEM",
-            "item": "https://weed.de/product/lot-42-lem"
+            "item": "https://cannabisblueten.de/product/lot-42-lem"
           }
         ]
       },
@@ -177,12 +177,23 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "LOT 420 LEM",
+        "url": "https://cannabisblueten.de/product/lot-42-lem",
         "brand": {
           "@type": "Brand",
           "name": "Cantourage"
         },
         "gtin13": [],
-        "description": "THC: 26%, CBD: 1%"
+        "sku": [],
+        "description": "Medizinisches Cannabis Produkt. THC: 26%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/lot-42-lem",
+          "priceCurrency": "EUR",
+          "price": "11.99",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

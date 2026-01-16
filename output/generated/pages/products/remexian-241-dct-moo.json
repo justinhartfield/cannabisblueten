@@ -109,7 +109,7 @@
     "meta": {
       "title": "Remexian 24/1 DCT MOO - Remexian Pharma | ab 6,95 €",
       "description": "Remexian 24/1 DCT MOO von Remexian Pharma. THC: 24%, CBD: 1%. Sorte: Monaco Octane. Preis ab 6,95 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/remexian-241-dct-moo",
+      "canonical": "https://cannabisblueten.de/product/remexian-241-dct-moo",
       "robots": {
         "index": true,
         "follow": true
@@ -117,28 +117,28 @@
       "openGraph": {
         "title": "Remexian 24/1 DCT MOO - Remexian Pharma | ab 6,95 €",
         "description": "Remexian 24/1 DCT MOO von Remexian Pharma. THC: 24%, CBD: 1%. Sorte: Monaco Octane. Preis ab 6,95 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/remexian-241-dct-moo",
+        "url": "https://cannabisblueten.de/product/remexian-241-dct-moo",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Remexian Pharma",
-        "href": "https://weed.de/brand/remexian-pharma"
+        "href": "https://cannabisblueten.de/brand/remexian-pharma"
       },
       {
         "name": "Remexian 24/1 DCT MOO",
-        "href": "https://weed.de/product/remexian-241-dct-moo"
+        "href": "https://cannabisblueten.de/product/remexian-241-dct-moo"
       }
     ],
     "schema": [
@@ -150,19 +150,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Remexian 24/1 DCT MOO",
-            "item": "https://weed.de/product/remexian-241-dct-moo"
+            "item": "https://cannabisblueten.de/product/remexian-241-dct-moo"
           }
         ]
       },
@@ -170,11 +170,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Remexian 24/1 DCT MOO",
+        "url": "https://cannabisblueten.de/product/remexian-241-dct-moo",
         "brand": {
           "@type": "Brand",
           "name": "Remexian Pharma"
         },
-        "description": "THC: 24%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 24%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/remexian-241-dct-moo",
+          "priceCurrency": "EUR",
+          "price": "6.95",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

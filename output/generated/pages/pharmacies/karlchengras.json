@@ -65,7 +65,7 @@
     "meta": {
       "title": "Karlchengras (Karl-Apotheke) - Cannabis Apotheke in Karlsruhe",
       "description": "Karlchengras (Karl-Apotheke) in Karlsruhe. 189 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/karlchengras",
+      "canonical": "https://cannabisblueten.de/apotheke/karlchengras",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Karlchengras (Karl-Apotheke) - Cannabis Apotheke in Karlsruhe",
         "description": "Karlchengras (Karl-Apotheke) in Karlsruhe. 189 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/karlchengras",
+        "url": "https://cannabisblueten.de/apotheke/karlchengras",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/67501d83f7111ec494a07a46-ji2402.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Karlsruhe",
-        "href": "https://weed.de/cannabis-apotheke/karlsruhe"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/karlsruhe"
       },
       {
         "name": "Karlchengras (Karl-Apotheke)",
-        "href": "https://weed.de/apotheke/karlchengras"
+        "href": "https://cannabisblueten.de/apotheke/karlchengras"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Karlsruhe",
-            "item": "https://weed.de/cannabis-apotheke/karlsruhe"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/karlsruhe"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Karlchengras (Karl-Apotheke)",
-            "item": "https://weed.de/apotheke/karlchengras"
+            "item": "https://cannabisblueten.de/apotheke/karlchengras"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Karlchengras (Karl-Apotheke)",
-        "url": "https://weed.de/apotheke/karlchengras",
+        "url": "https://cannabisblueten.de/apotheke/karlchengras",
+        "description": "Cannabis Apotheke in Karlsruhe. 189 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Karlstraße 18",
@@ -142,8 +143,30 @@
           "addressRegion": "Baden-Württemberg",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 49.0081621,
+          "longitude": 8.3946124
+        },
         "telephone": "072126740",
-        "email": "shop@karlchengras.de"
+        "email": "shop@karlchengras.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ]
       }
     ]
   },

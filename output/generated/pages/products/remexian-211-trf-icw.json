@@ -103,7 +103,7 @@
     "meta": {
       "title": "Remexian 21/1 TRF ICW - Remexian Pharma | ab 4,63 €",
       "description": "Remexian 21/1 TRF ICW von Remexian Pharma. THC: 21%, CBD: 1%. Sorte: Ice Cream Wizard. Preis ab 4,63 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/remexian-211-trf-icw",
+      "canonical": "https://cannabisblueten.de/product/remexian-211-trf-icw",
       "robots": {
         "index": true,
         "follow": true
@@ -111,28 +111,28 @@
       "openGraph": {
         "title": "Remexian 21/1 TRF ICW - Remexian Pharma | ab 4,63 €",
         "description": "Remexian 21/1 TRF ICW von Remexian Pharma. THC: 21%, CBD: 1%. Sorte: Ice Cream Wizard. Preis ab 4,63 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/remexian-211-trf-icw",
+        "url": "https://cannabisblueten.de/product/remexian-211-trf-icw",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Remexian Pharma",
-        "href": "https://weed.de/brand/remexian-pharma"
+        "href": "https://cannabisblueten.de/brand/remexian-pharma"
       },
       {
         "name": "Remexian 21/1 TRF ICW",
-        "href": "https://weed.de/product/remexian-211-trf-icw"
+        "href": "https://cannabisblueten.de/product/remexian-211-trf-icw"
       }
     ],
     "schema": [
@@ -144,19 +144,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Remexian 21/1 TRF ICW",
-            "item": "https://weed.de/product/remexian-211-trf-icw"
+            "item": "https://cannabisblueten.de/product/remexian-211-trf-icw"
           }
         ]
       },
@@ -164,11 +164,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Remexian 21/1 TRF ICW",
+        "url": "https://cannabisblueten.de/product/remexian-211-trf-icw",
         "brand": {
           "@type": "Brand",
           "name": "Remexian Pharma"
         },
-        "description": "THC: 21%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 21%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/remexian-211-trf-icw",
+          "priceCurrency": "EUR",
+          "price": "4.63",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.63",
+            "maxPrice": "6.20",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

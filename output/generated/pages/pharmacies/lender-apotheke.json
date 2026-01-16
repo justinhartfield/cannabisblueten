@@ -65,7 +65,7 @@
     "meta": {
       "title": "Lender Apotheke - Cannabis Apotheke in Sasbach",
       "description": "Lender Apotheke in Sasbach. 20 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/lender-apotheke",
+      "canonical": "https://cannabisblueten.de/apotheke/lender-apotheke",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Lender Apotheke - Cannabis Apotheke in Sasbach",
         "description": "Lender Apotheke in Sasbach. 20 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/lender-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/lender-apotheke",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/66e2aeba2cf3abeeb211d30f-df6hf8.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Sasbach",
-        "href": "https://weed.de/cannabis-apotheke/sasbach"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/sasbach"
       },
       {
         "name": "Lender Apotheke",
-        "href": "https://weed.de/apotheke/lender-apotheke"
+        "href": "https://cannabisblueten.de/apotheke/lender-apotheke"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Sasbach",
-            "item": "https://weed.de/cannabis-apotheke/sasbach"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/sasbach"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Lender Apotheke",
-            "item": "https://weed.de/apotheke/lender-apotheke"
+            "item": "https://cannabisblueten.de/apotheke/lender-apotheke"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Lender Apotheke",
-        "url": "https://weed.de/apotheke/lender-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/lender-apotheke",
+        "description": "Cannabis Apotheke in Sasbach. 20 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Hauptstraße 19",
@@ -142,8 +143,31 @@
           "addressRegion": "Baden-Württemberg",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 48.6360286,
+          "longitude": 8.089188
+        },
         "telephone": "078414479",
-        "email": "info@lender-apotheke.de"
+        "email": "info@lender-apotheke.de",
+        "sameAs": "https://www.lender-apotheke.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ]
       }
     ]
   },

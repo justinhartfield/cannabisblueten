@@ -135,7 +135,7 @@
     "meta": {
       "title": "madrecan 21/1 MDR Minis - Remexian Pharma | ab 3,19 €",
       "description": "madrecan 21/1 MDR Minis von Remexian Pharma. THC: 21%, CBD: 1%. Sorte: Mac Driver. Preis ab 3,19 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/madrecan-211-mdr-minis",
+      "canonical": "https://cannabisblueten.de/product/madrecan-211-mdr-minis",
       "robots": {
         "index": true,
         "follow": true
@@ -143,28 +143,28 @@
       "openGraph": {
         "title": "madrecan 21/1 MDR Minis - Remexian Pharma | ab 3,19 €",
         "description": "madrecan 21/1 MDR Minis von Remexian Pharma. THC: 21%, CBD: 1%. Sorte: Mac Driver. Preis ab 3,19 €. Preise vergleichen.",
-        "url": "https://weed.de/product/madrecan-211-mdr-minis",
+        "url": "https://cannabisblueten.de/product/madrecan-211-mdr-minis",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Remexian Pharma",
-        "href": "https://weed.de/brand/remexian-pharma"
+        "href": "https://cannabisblueten.de/brand/remexian-pharma"
       },
       {
         "name": "madrecan 21/1 MDR Minis",
-        "href": "https://weed.de/product/madrecan-211-mdr-minis"
+        "href": "https://cannabisblueten.de/product/madrecan-211-mdr-minis"
       }
     ],
     "schema": [
@@ -176,19 +176,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "madrecan 21/1 MDR Minis",
-            "item": "https://weed.de/product/madrecan-211-mdr-minis"
+            "item": "https://cannabisblueten.de/product/madrecan-211-mdr-minis"
           }
         ]
       },
@@ -196,11 +196,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "madrecan 21/1 MDR Minis",
+        "url": "https://cannabisblueten.de/product/madrecan-211-mdr-minis",
         "brand": {
           "@type": "Brand",
           "name": "Remexian Pharma"
         },
-        "description": "THC: 21%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 21%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/madrecan-211-mdr-minis",
+          "priceCurrency": "EUR",
+          "price": "3.19",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

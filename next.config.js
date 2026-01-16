@@ -14,9 +14,15 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: 'https',
+        hostname: 'weed.de',
+      },
+      {
+        protocol: 'https',
         hostname: '**.weed.de',
       },
     ],
+    // Unoptimized for external images (to avoid Next.js image optimization issues)
+    unoptimized: true,
   },
 
   // Redirect trailing slashes to non-trailing

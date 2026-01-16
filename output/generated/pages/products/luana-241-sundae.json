@@ -104,7 +104,7 @@
     "meta": {
       "title": "Luana 24/1 Sundae - Cannamedical | ab 4,49 €",
       "description": "Luana 24/1 Sundae von Cannamedical. THC: 24.8%, CBD: 1%. Sorte: Sour Sundae. Preis ab 4,49 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/luana-241-sundae",
+      "canonical": "https://cannabisblueten.de/product/luana-241-sundae",
       "robots": {
         "index": true,
         "follow": true
@@ -112,28 +112,28 @@
       "openGraph": {
         "title": "Luana 24/1 Sundae - Cannamedical | ab 4,49 €",
         "description": "Luana 24/1 Sundae von Cannamedical. THC: 24.8%, CBD: 1%. Sorte: Sour Sundae. Preis ab 4,49 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/luana-241-sundae",
+        "url": "https://cannabisblueten.de/product/luana-241-sundae",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cannamedical",
-        "href": "https://weed.de/brand/cannamedical"
+        "href": "https://cannabisblueten.de/brand/cannamedical"
       },
       {
         "name": "Luana 24/1 Sundae",
-        "href": "https://weed.de/product/luana-241-sundae"
+        "href": "https://cannabisblueten.de/product/luana-241-sundae"
       }
     ],
     "schema": [
@@ -145,19 +145,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Luana 24/1 Sundae",
-            "item": "https://weed.de/product/luana-241-sundae"
+            "item": "https://cannabisblueten.de/product/luana-241-sundae"
           }
         ]
       },
@@ -165,11 +165,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Luana 24/1 Sundae",
+        "url": "https://cannabisblueten.de/product/luana-241-sundae",
         "brand": {
           "@type": "Brand",
           "name": "Cannamedical"
         },
-        "description": "THC: 24.8%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 24.8%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/luana-241-sundae",
+          "priceCurrency": "EUR",
+          "price": "4.49",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

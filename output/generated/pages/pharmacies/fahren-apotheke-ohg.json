@@ -65,7 +65,7 @@
     "meta": {
       "title": "Cannalivery (Fähren Apotheke OHG) - Cannabis Apotheke in Niederkassel",
       "description": "Cannalivery (Fähren Apotheke OHG) in Niederkassel. 133 Cannabis Produkte. Lieferung & Abholung. Bewertung: 3.7/5. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/fahren-apotheke-ohg",
+      "canonical": "https://cannabisblueten.de/apotheke/fahren-apotheke-ohg",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Cannalivery (Fähren Apotheke OHG) - Cannabis Apotheke in Niederkassel",
         "description": "Cannalivery (Fähren Apotheke OHG) in Niederkassel. 133 Cannabis Produkte. Lieferung & Abholung. Bewertung: 3.7/5. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/fahren-apotheke-ohg",
+        "url": "https://cannabisblueten.de/apotheke/fahren-apotheke-ohg",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/pharmacies/64bfa38a6b10b0bf8ae47749-4a87d7.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Niederkassel",
-        "href": "https://weed.de/cannabis-apotheke/niederkassel"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/niederkassel"
       },
       {
         "name": "Cannalivery (Fähren Apotheke OHG)",
-        "href": "https://weed.de/apotheke/fahren-apotheke-ohg"
+        "href": "https://cannabisblueten.de/apotheke/fahren-apotheke-ohg"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Niederkassel",
-            "item": "https://weed.de/cannabis-apotheke/niederkassel"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/niederkassel"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Cannalivery (Fähren Apotheke OHG)",
-            "item": "https://weed.de/apotheke/fahren-apotheke-ohg"
+            "item": "https://cannabisblueten.de/apotheke/fahren-apotheke-ohg"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Cannalivery (Fähren Apotheke OHG)",
-        "url": "https://weed.de/apotheke/fahren-apotheke-ohg",
+        "url": "https://cannabisblueten.de/apotheke/fahren-apotheke-ohg",
+        "description": "Cannabis Apotheke in Niederkassel. 133 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Provinzialstraße 33-35",
@@ -142,8 +143,37 @@
           "addressRegion": "Nordrhein-Westfalen",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 50.775271,
+          "longitude": 7.0714303
+        },
         "telephone": "022089911590",
-        "email": "info@cannalivery.de"
+        "email": "info@cannalivery.de",
+        "sameAs": "https://www.cannalivery.com/de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "3.7",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
       }
     ]
   },

@@ -65,7 +65,7 @@
     "meta": {
       "title": "higreen! - Apotheke am Phoenixsee - Cannabis Apotheke in Dortmund",
       "description": "higreen! - Apotheke am Phoenixsee in Dortmund. 1 Cannabis Produkte. Abholung. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/higreen-apotheke-am-phoenixsee",
+      "canonical": "https://cannabisblueten.de/apotheke/higreen-apotheke-am-phoenixsee",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "higreen! - Apotheke am Phoenixsee - Cannabis Apotheke in Dortmund",
         "description": "higreen! - Apotheke am Phoenixsee in Dortmund. 1 Cannabis Produkte. Abholung. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/higreen-apotheke-am-phoenixsee",
+        "url": "https://cannabisblueten.de/apotheke/higreen-apotheke-am-phoenixsee",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/6759ab0f76ce36f4a6c2d9ab-f51b12.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Dortmund",
-        "href": "https://weed.de/cannabis-apotheke/dortmund"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/dortmund"
       },
       {
         "name": "higreen! - Apotheke am Phoenixsee",
-        "href": "https://weed.de/apotheke/higreen-apotheke-am-phoenixsee"
+        "href": "https://cannabisblueten.de/apotheke/higreen-apotheke-am-phoenixsee"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Dortmund",
-            "item": "https://weed.de/cannabis-apotheke/dortmund"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/dortmund"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "higreen! - Apotheke am Phoenixsee",
-            "item": "https://weed.de/apotheke/higreen-apotheke-am-phoenixsee"
+            "item": "https://cannabisblueten.de/apotheke/higreen-apotheke-am-phoenixsee"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "higreen! - Apotheke am Phoenixsee",
-        "url": "https://weed.de/apotheke/higreen-apotheke-am-phoenixsee",
+        "url": "https://cannabisblueten.de/apotheke/higreen-apotheke-am-phoenixsee",
+        "description": "Cannabis Apotheke in Dortmund. 1 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Dortmund, Deutschland",
@@ -142,8 +143,23 @@
           "addressRegion": "Nordrhein-Westfalen",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 51.5135872,
+          "longitude": 7.465298100000001
+        },
         "telephone": "021154247777",
-        "email": "apothekephoenixsee_do@higreen.de"
+        "email": "apothekephoenixsee_do@higreen.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ]
       }
     ]
   },

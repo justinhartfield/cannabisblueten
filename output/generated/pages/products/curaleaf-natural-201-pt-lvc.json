@@ -116,7 +116,7 @@
     "meta": {
       "title": "Curaleaf Natural 20/1 PT LVC - Four 20 Pharma | ab 7,99 €",
       "description": "Curaleaf Natural 20/1 PT LVC von Four 20 Pharma. THC: 20%, CBD: 1%. Sorte: Lavender Cake. Preis ab 7,99 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/curaleaf-natural-201-pt-lvc",
+      "canonical": "https://cannabisblueten.de/product/curaleaf-natural-201-pt-lvc",
       "robots": {
         "index": true,
         "follow": true
@@ -124,9 +124,9 @@
       "openGraph": {
         "title": "Curaleaf Natural 20/1 PT LVC - Four 20 Pharma | ab 7,99 €",
         "description": "Curaleaf Natural 20/1 PT LVC von Four 20 Pharma. THC: 20%, CBD: 1%. Sorte: Lavender Cake. Preis ab 7,99 €. Preise vergleichen.",
-        "url": "https://weed.de/product/curaleaf-natural-201-pt-lvc",
+        "url": "https://cannabisblueten.de/product/curaleaf-natural-201-pt-lvc",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/curaleaf-natural-201-pt-lvc-53fc4a.jpeg"
       }
@@ -134,19 +134,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Four 20 Pharma",
-        "href": "https://weed.de/brand/four-20-pharma"
+        "href": "https://cannabisblueten.de/brand/four-20-pharma"
       },
       {
         "name": "Curaleaf Natural 20/1 PT LVC",
-        "href": "https://weed.de/product/curaleaf-natural-201-pt-lvc"
+        "href": "https://cannabisblueten.de/product/curaleaf-natural-201-pt-lvc"
       }
     ],
     "schema": [
@@ -158,19 +158,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Curaleaf Natural 20/1 PT LVC",
-            "item": "https://weed.de/product/curaleaf-natural-201-pt-lvc"
+            "item": "https://cannabisblueten.de/product/curaleaf-natural-201-pt-lvc"
           }
         ]
       },
@@ -178,12 +178,23 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Curaleaf Natural 20/1 PT LVC",
+        "url": "https://cannabisblueten.de/product/curaleaf-natural-201-pt-lvc",
         "brand": {
           "@type": "Brand",
           "name": "Four 20 Pharma"
         },
         "gtin13": [],
-        "description": "THC: 20%, CBD: 1%"
+        "sku": [],
+        "description": "Medizinisches Cannabis Produkt. THC: 20%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/curaleaf-natural-201-pt-lvc",
+          "priceCurrency": "EUR",
+          "price": "7.99",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

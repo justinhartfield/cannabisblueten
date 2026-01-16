@@ -106,7 +106,7 @@
     "meta": {
       "title": "ZOIKS 22/1 BB - Avaay | ab 6,49 €",
       "description": "ZOIKS 22/1 BB von Avaay. THC: 22%, CBD: 1%. Sorte: Ben & Berries. Preis ab 6,49 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/zoiks-221-bb",
+      "canonical": "https://cannabisblueten.de/product/zoiks-221-bb",
       "robots": {
         "index": true,
         "follow": true
@@ -114,9 +114,9 @@
       "openGraph": {
         "title": "ZOIKS 22/1 BB - Avaay | ab 6,49 €",
         "description": "ZOIKS 22/1 BB von Avaay. THC: 22%, CBD: 1%. Sorte: Ben & Berries. Preis ab 6,49 €. Preise vergleichen.",
-        "url": "https://weed.de/product/zoiks-221-bb",
+        "url": "https://cannabisblueten.de/product/zoiks-221-bb",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/zoiks-221-bb-6c40h7.png"
       }
@@ -124,19 +124,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Avaay",
-        "href": "https://weed.de/brand/avaay"
+        "href": "https://cannabisblueten.de/brand/avaay"
       },
       {
         "name": "ZOIKS 22/1 BB",
-        "href": "https://weed.de/product/zoiks-221-bb"
+        "href": "https://cannabisblueten.de/product/zoiks-221-bb"
       }
     ],
     "schema": [
@@ -148,19 +148,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "ZOIKS 22/1 BB",
-            "item": "https://weed.de/product/zoiks-221-bb"
+            "item": "https://cannabisblueten.de/product/zoiks-221-bb"
           }
         ]
       },
@@ -168,11 +168,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "ZOIKS 22/1 BB",
+        "url": "https://cannabisblueten.de/product/zoiks-221-bb",
         "brand": {
           "@type": "Brand",
           "name": "Avaay"
         },
-        "description": "THC: 22%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 22%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/zoiks-221-bb",
+          "priceCurrency": "EUR",
+          "price": "6.49",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

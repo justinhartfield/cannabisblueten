@@ -103,7 +103,7 @@
     "meta": {
       "title": "IMC MK THC27 Token | ab 3,68 €",
       "description": "IMC MK THC27 Token von IMC. THC: 27%, CBD: 1%. Sorte: Thai Kush. Preis ab 3,68 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/imc-mk-thc27-token",
+      "canonical": "https://cannabisblueten.de/product/imc-mk-thc27-token",
       "robots": {
         "index": true,
         "follow": true
@@ -111,9 +111,9 @@
       "openGraph": {
         "title": "IMC MK THC27 Token | ab 3,68 €",
         "description": "IMC MK THC27 Token von IMC. THC: 27%, CBD: 1%. Sorte: Thai Kush. Preis ab 3,68 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/imc-mk-thc27-token",
+        "url": "https://cannabisblueten.de/product/imc-mk-thc27-token",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/imc-mk-thc27-token-9534j9.webp"
       }
@@ -121,19 +121,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "IMC",
-        "href": "https://weed.de/brand/imc"
+        "href": "https://cannabisblueten.de/brand/imc"
       },
       {
         "name": "IMC MK THC27 Token",
-        "href": "https://weed.de/product/imc-mk-thc27-token"
+        "href": "https://cannabisblueten.de/product/imc-mk-thc27-token"
       }
     ],
     "schema": [
@@ -145,19 +145,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "IMC MK THC27 Token",
-            "item": "https://weed.de/product/imc-mk-thc27-token"
+            "item": "https://cannabisblueten.de/product/imc-mk-thc27-token"
           }
         ]
       },
@@ -165,11 +165,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "IMC MK THC27 Token",
+        "url": "https://cannabisblueten.de/product/imc-mk-thc27-token",
         "brand": {
           "@type": "Brand",
           "name": "IMC"
         },
-        "description": "THC: 27%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 27%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/imc-mk-thc27-token",
+          "priceCurrency": "EUR",
+          "price": "3.68",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "3.68",
+            "maxPrice": "7.90",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

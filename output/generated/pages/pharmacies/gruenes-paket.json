@@ -65,7 +65,7 @@
     "meta": {
       "title": "Rosen Apotheke | Grünes Paket - Cannabis Apotheke in Fulda",
       "description": "Rosen Apotheke | Grünes Paket in Fulda. 37 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/gruenes-paket",
+      "canonical": "https://cannabisblueten.de/apotheke/gruenes-paket",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Rosen Apotheke | Grünes Paket - Cannabis Apotheke in Fulda",
         "description": "Rosen Apotheke | Grünes Paket in Fulda. 37 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/gruenes-paket",
+        "url": "https://cannabisblueten.de/apotheke/gruenes-paket",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/67b5c2c912de516bd9f62f12-4h237b.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Fulda",
-        "href": "https://weed.de/cannabis-apotheke/fulda"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/fulda"
       },
       {
         "name": "Rosen Apotheke | Grünes Paket",
-        "href": "https://weed.de/apotheke/gruenes-paket"
+        "href": "https://cannabisblueten.de/apotheke/gruenes-paket"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Fulda",
-            "item": "https://weed.de/cannabis-apotheke/fulda"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/fulda"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Rosen Apotheke | Grünes Paket",
-            "item": "https://weed.de/apotheke/gruenes-paket"
+            "item": "https://cannabisblueten.de/apotheke/gruenes-paket"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Rosen Apotheke | Grünes Paket",
-        "url": "https://weed.de/apotheke/gruenes-paket",
+        "url": "https://cannabisblueten.de/apotheke/gruenes-paket",
+        "description": "Cannabis Apotheke in Fulda. 37 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Frankfurter Straße 59A",
@@ -142,8 +143,36 @@
           "addressRegion": "Hessen",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 50.53879329999999,
+          "longitude": 9.6766766
+        },
         "telephone": "066167926276",
-        "email": "info@rosen-apotheke-fulda.de"
+        "email": "info@rosen-apotheke-fulda.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5.0",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
       }
     ]
   },

@@ -124,7 +124,7 @@
     "meta": {
       "title": "N!CE 20/1 MB - Cansativa | ab 5,49 €",
       "description": "N!CE 20/1 MB von Cansativa. THC: 20%, CBD: 1%. Sorte: Motor Breath. Preis ab 5,49 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/nce-201-mb",
+      "canonical": "https://cannabisblueten.de/product/nce-201-mb",
       "robots": {
         "index": true,
         "follow": true
@@ -132,9 +132,9 @@
       "openGraph": {
         "title": "N!CE 20/1 MB - Cansativa | ab 5,49 €",
         "description": "N!CE 20/1 MB von Cansativa. THC: 20%, CBD: 1%. Sorte: Motor Breath. Preis ab 5,49 €. Preise vergleichen.",
-        "url": "https://weed.de/product/nce-201-mb",
+        "url": "https://cannabisblueten.de/product/nce-201-mb",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/nce-201-mb-g4b64i.png"
       }
@@ -142,19 +142,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cansativa",
-        "href": "https://weed.de/brand/cansativa"
+        "href": "https://cannabisblueten.de/brand/cansativa"
       },
       {
         "name": "N!CE 20/1 MB",
-        "href": "https://weed.de/product/nce-201-mb"
+        "href": "https://cannabisblueten.de/product/nce-201-mb"
       }
     ],
     "schema": [
@@ -166,19 +166,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "N!CE 20/1 MB",
-            "item": "https://weed.de/product/nce-201-mb"
+            "item": "https://cannabisblueten.de/product/nce-201-mb"
           }
         ]
       },
@@ -186,12 +186,23 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "N!CE 20/1 MB",
+        "url": "https://cannabisblueten.de/product/nce-201-mb",
         "brand": {
           "@type": "Brand",
           "name": "Cansativa"
         },
         "gtin13": [],
-        "description": "THC: 20%, CBD: 1%"
+        "sku": [],
+        "description": "Medizinisches Cannabis Produkt. THC: 20%, CBD: 1%, Genetik: indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/nce-201-mb",
+          "priceCurrency": "EUR",
+          "price": "5.49",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

@@ -106,7 +106,7 @@
     "meta": {
       "title": "enua 33/1 MMN CA | ab 5,99 €",
       "description": "enua 33/1 MMN CA von enua. THC: 33%, CBD: 1%. Sorte: Marshmallow Man. Preis ab 5,99 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/enua-331-mmn-ca",
+      "canonical": "https://cannabisblueten.de/product/enua-331-mmn-ca",
       "robots": {
         "index": true,
         "follow": true
@@ -114,9 +114,9 @@
       "openGraph": {
         "title": "enua 33/1 MMN CA | ab 5,99 €",
         "description": "enua 33/1 MMN CA von enua. THC: 33%, CBD: 1%. Sorte: Marshmallow Man. Preis ab 5,99 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/enua-331-mmn-ca",
+        "url": "https://cannabisblueten.de/product/enua-331-mmn-ca",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/enua-331-mmn-ca-95c87e.webp"
       }
@@ -124,19 +124,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "enua",
-        "href": "https://weed.de/brand/enua"
+        "href": "https://cannabisblueten.de/brand/enua"
       },
       {
         "name": "enua 33/1 MMN CA",
-        "href": "https://weed.de/product/enua-331-mmn-ca"
+        "href": "https://cannabisblueten.de/product/enua-331-mmn-ca"
       }
     ],
     "schema": [
@@ -148,19 +148,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "enua 33/1 MMN CA",
-            "item": "https://weed.de/product/enua-331-mmn-ca"
+            "item": "https://cannabisblueten.de/product/enua-331-mmn-ca"
           }
         ]
       },
@@ -168,11 +168,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "enua 33/1 MMN CA",
+        "url": "https://cannabisblueten.de/product/enua-331-mmn-ca",
         "brand": {
           "@type": "Brand",
           "name": "enua"
         },
-        "description": "THC: 33%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 33%, CBD: 1%, Genetik: indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/enua-331-mmn-ca",
+          "priceCurrency": "EUR",
+          "price": "5.99",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "5.99",
+            "maxPrice": "8.45",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

@@ -104,7 +104,7 @@
     "meta": {
       "title": "TRUU 50:50 Extrakt - Demecan | ab 5,45 €",
       "description": "TRUU 50:50 Extrakt von Demecan. THC: 50%, CBD: 50%. Sorte: Gorilla ZKittlez. Preis ab 5,45 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/truu-55-extrakt",
+      "canonical": "https://cannabisblueten.de/product/truu-55-extrakt",
       "robots": {
         "index": true,
         "follow": true
@@ -112,9 +112,9 @@
       "openGraph": {
         "title": "TRUU 50:50 Extrakt - Demecan | ab 5,45 €",
         "description": "TRUU 50:50 Extrakt von Demecan. THC: 50%, CBD: 50%. Sorte: Gorilla ZKittlez. Preis ab 5,45 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/truu-55-extrakt",
+        "url": "https://cannabisblueten.de/product/truu-55-extrakt",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/truu-55-extrakt-494jac.jpeg"
       }
@@ -122,19 +122,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Demecan",
-        "href": "https://weed.de/brand/demecan"
+        "href": "https://cannabisblueten.de/brand/demecan"
       },
       {
         "name": "TRUU 50:50 Extrakt",
-        "href": "https://weed.de/product/truu-55-extrakt"
+        "href": "https://cannabisblueten.de/product/truu-55-extrakt"
       }
     ],
     "schema": [
@@ -146,19 +146,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "TRUU 50:50 Extrakt",
-            "item": "https://weed.de/product/truu-55-extrakt"
+            "item": "https://cannabisblueten.de/product/truu-55-extrakt"
           }
         ]
       },
@@ -166,11 +166,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "TRUU 50:50 Extrakt",
+        "url": "https://cannabisblueten.de/product/truu-55-extrakt",
         "brand": {
           "@type": "Brand",
           "name": "Demecan"
         },
-        "description": "THC: 50%, CBD: 50%"
+        "description": "Medizinisches Cannabis Produkt. THC: 50%, CBD: 50%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/truu-55-extrakt",
+          "priceCurrency": "EUR",
+          "price": "5.45",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "5.45",
+            "maxPrice": "7.80",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

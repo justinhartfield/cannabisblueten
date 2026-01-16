@@ -111,7 +111,7 @@
     "meta": {
       "title": "420 Compound 27/1 CA GAP - Four 20 Pharma | ab 6,29 €",
       "description": "420 Compound 27/1 CA GAP von Four 20 Pharma. THC: 27%, CBD: 1%. Sorte: Gastro Pop. Preis ab 6,29 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/420-compound-271-gap",
+      "canonical": "https://cannabisblueten.de/product/420-compound-271-gap",
       "robots": {
         "index": true,
         "follow": true
@@ -119,9 +119,9 @@
       "openGraph": {
         "title": "420 Compound 27/1 CA GAP - Four 20 Pharma | ab 6,29 €",
         "description": "420 Compound 27/1 CA GAP von Four 20 Pharma. THC: 27%, CBD: 1%. Sorte: Gastro Pop. Preis ab 6,29 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/420-compound-271-gap",
+        "url": "https://cannabisblueten.de/product/420-compound-271-gap",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/420-compound-271-gap-3c67h7.jpeg"
       }
@@ -129,19 +129,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Four 20 Pharma",
-        "href": "https://weed.de/brand/four-20-pharma"
+        "href": "https://cannabisblueten.de/brand/four-20-pharma"
       },
       {
         "name": "420 Compound 27/1 CA GAP",
-        "href": "https://weed.de/product/420-compound-271-gap"
+        "href": "https://cannabisblueten.de/product/420-compound-271-gap"
       }
     ],
     "schema": [
@@ -153,19 +153,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "420 Compound 27/1 CA GAP",
-            "item": "https://weed.de/product/420-compound-271-gap"
+            "item": "https://cannabisblueten.de/product/420-compound-271-gap"
           }
         ]
       },
@@ -173,11 +173,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "420 Compound 27/1 CA GAP",
+        "url": "https://cannabisblueten.de/product/420-compound-271-gap",
         "brand": {
           "@type": "Brand",
           "name": "Four 20 Pharma"
         },
-        "description": "THC: 27%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 27%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/420-compound-271-gap",
+          "priceCurrency": "EUR",
+          "price": "6.29",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "6.29",
+            "maxPrice": "9.95",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

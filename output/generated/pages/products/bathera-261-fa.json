@@ -116,7 +116,7 @@
     "meta": {
       "title": "Bathera 26/1 FA | ab 6,50 €",
       "description": "Bathera 26/1 FA von Bathera. THC: 26%, CBD: 1%. Sorte: Facetz. Preis ab 6,50 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/bathera-261-fa",
+      "canonical": "https://cannabisblueten.de/product/bathera-261-fa",
       "robots": {
         "index": true,
         "follow": true
@@ -124,28 +124,28 @@
       "openGraph": {
         "title": "Bathera 26/1 FA | ab 6,50 €",
         "description": "Bathera 26/1 FA von Bathera. THC: 26%, CBD: 1%. Sorte: Facetz. Preis ab 6,50 €. Preise vergleichen.",
-        "url": "https://weed.de/product/bathera-261-fa",
+        "url": "https://cannabisblueten.de/product/bathera-261-fa",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Bathera",
-        "href": "https://weed.de/brand/bathera"
+        "href": "https://cannabisblueten.de/brand/bathera"
       },
       {
         "name": "Bathera 26/1 FA",
-        "href": "https://weed.de/product/bathera-261-fa"
+        "href": "https://cannabisblueten.de/product/bathera-261-fa"
       }
     ],
     "schema": [
@@ -157,19 +157,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Bathera 26/1 FA",
-            "item": "https://weed.de/product/bathera-261-fa"
+            "item": "https://cannabisblueten.de/product/bathera-261-fa"
           }
         ]
       },
@@ -177,11 +177,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Bathera 26/1 FA",
+        "url": "https://cannabisblueten.de/product/bathera-261-fa",
         "brand": {
           "@type": "Brand",
           "name": "Bathera"
         },
-        "description": "THC: 26%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 26%, CBD: 1%, Genetik: indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/bathera-261-fa",
+          "priceCurrency": "EUR",
+          "price": "6.50",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

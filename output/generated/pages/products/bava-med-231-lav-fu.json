@@ -104,7 +104,7 @@
     "meta": {
       "title": "Bava Med 23/1 LAV - FU - bava medical | ab 4,97 €",
       "description": "Bava Med 23/1 LAV - FU von bava medical. THC: 23%, CBD: 1%. Sorte: Lava Fuel. Preis ab 4,97 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/bava-med-231-lav-fu",
+      "canonical": "https://cannabisblueten.de/product/bava-med-231-lav-fu",
       "robots": {
         "index": true,
         "follow": true
@@ -112,28 +112,28 @@
       "openGraph": {
         "title": "Bava Med 23/1 LAV - FU - bava medical | ab 4,97 €",
         "description": "Bava Med 23/1 LAV - FU von bava medical. THC: 23%, CBD: 1%. Sorte: Lava Fuel. Preis ab 4,97 €. Preise vergleichen.",
-        "url": "https://weed.de/product/bava-med-231-lav-fu",
+        "url": "https://cannabisblueten.de/product/bava-med-231-lav-fu",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "bava medical",
-        "href": "https://weed.de/brand/bava-medical"
+        "href": "https://cannabisblueten.de/brand/bava-medical"
       },
       {
         "name": "Bava Med 23/1 LAV - FU",
-        "href": "https://weed.de/product/bava-med-231-lav-fu"
+        "href": "https://cannabisblueten.de/product/bava-med-231-lav-fu"
       }
     ],
     "schema": [
@@ -145,19 +145,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Bava Med 23/1 LAV - FU",
-            "item": "https://weed.de/product/bava-med-231-lav-fu"
+            "item": "https://cannabisblueten.de/product/bava-med-231-lav-fu"
           }
         ]
       },
@@ -165,11 +165,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Bava Med 23/1 LAV - FU",
+        "url": "https://cannabisblueten.de/product/bava-med-231-lav-fu",
         "brand": {
           "@type": "Brand",
           "name": "bava medical"
         },
-        "description": "THC: 23%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 23%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/bava-med-231-lav-fu",
+          "priceCurrency": "EUR",
+          "price": "4.97",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

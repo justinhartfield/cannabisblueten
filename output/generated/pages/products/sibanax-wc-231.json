@@ -104,7 +104,7 @@
     "meta": {
       "title": "Sibanax WC 23/1 - Heyday | ab 4,95 €",
       "description": "Sibanax WC 23/1 von Heyday. THC: 23%, CBD: 1%. Sorte: Wedding Cake. Preis ab 4,95 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/sibanax-wc-231",
+      "canonical": "https://cannabisblueten.de/product/sibanax-wc-231",
       "robots": {
         "index": true,
         "follow": true
@@ -112,28 +112,28 @@
       "openGraph": {
         "title": "Sibanax WC 23/1 - Heyday | ab 4,95 €",
         "description": "Sibanax WC 23/1 von Heyday. THC: 23%, CBD: 1%. Sorte: Wedding Cake. Preis ab 4,95 €. Preise vergleichen.",
-        "url": "https://weed.de/product/sibanax-wc-231",
+        "url": "https://cannabisblueten.de/product/sibanax-wc-231",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Heyday",
-        "href": "https://weed.de/brand/heyday"
+        "href": "https://cannabisblueten.de/brand/heyday"
       },
       {
         "name": "Sibanax WC 23/1",
-        "href": "https://weed.de/product/sibanax-wc-231"
+        "href": "https://cannabisblueten.de/product/sibanax-wc-231"
       }
     ],
     "schema": [
@@ -145,19 +145,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Sibanax WC 23/1",
-            "item": "https://weed.de/product/sibanax-wc-231"
+            "item": "https://cannabisblueten.de/product/sibanax-wc-231"
           }
         ]
       },
@@ -165,11 +165,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Sibanax WC 23/1",
+        "url": "https://cannabisblueten.de/product/sibanax-wc-231",
         "brand": {
           "@type": "Brand",
           "name": "Heyday"
         },
-        "description": "THC: 23%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 23%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/sibanax-wc-231",
+          "priceCurrency": "EUR",
+          "price": "4.95",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

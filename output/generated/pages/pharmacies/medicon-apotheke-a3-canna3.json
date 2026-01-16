@@ -65,7 +65,7 @@
     "meta": {
       "title": "CannA3 - Cannabis Apotheke in Heßdorf",
       "description": "CannA3 in Heßdorf. 53 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/medicon-apotheke-a3-canna3",
+      "canonical": "https://cannabisblueten.de/apotheke/medicon-apotheke-a3-canna3",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "CannA3 - Cannabis Apotheke in Heßdorf",
         "description": "CannA3 in Heßdorf. 53 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/medicon-apotheke-a3-canna3",
+        "url": "https://cannabisblueten.de/apotheke/medicon-apotheke-a3-canna3",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/6930430ac3fb5a414284feb3-4f1edi.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Heßdorf",
-        "href": "https://weed.de/cannabis-apotheke/hessdorf"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/hessdorf"
       },
       {
         "name": "CannA3",
-        "href": "https://weed.de/apotheke/medicon-apotheke-a3-canna3"
+        "href": "https://cannabisblueten.de/apotheke/medicon-apotheke-a3-canna3"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Heßdorf",
-            "item": "https://weed.de/cannabis-apotheke/hessdorf"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/hessdorf"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "CannA3",
-            "item": "https://weed.de/apotheke/medicon-apotheke-a3-canna3"
+            "item": "https://cannabisblueten.de/apotheke/medicon-apotheke-a3-canna3"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "CannA3",
-        "url": "https://weed.de/apotheke/medicon-apotheke-a3-canna3",
+        "url": "https://cannabisblueten.de/apotheke/medicon-apotheke-a3-canna3",
+        "description": "Cannabis Apotheke in Heßdorf. 53 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Im Gewerbepark 4",
@@ -142,8 +143,31 @@
           "addressRegion": "Bayern",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 49.62764960000001,
+          "longitude": 10.9235389
+        },
         "telephone": "09135720820",
-        "email": "bestellung@canna3.de"
+        "email": "bestellung@canna3.de",
+        "sameAs": "canna3.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ]
       }
     ]
   },

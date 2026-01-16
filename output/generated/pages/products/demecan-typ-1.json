@@ -115,7 +115,7 @@
     "meta": {
       "title": "Demecan Typ 1 | ab 6,94 €",
       "description": "Demecan Typ 1 von Demecan. THC: 21%, CBD: 1%. Sorte: Bubba Kush. Preis ab 6,94 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/demecan-typ-1",
+      "canonical": "https://cannabisblueten.de/product/demecan-typ-1",
       "robots": {
         "index": true,
         "follow": true
@@ -123,9 +123,9 @@
       "openGraph": {
         "title": "Demecan Typ 1 | ab 6,94 €",
         "description": "Demecan Typ 1 von Demecan. THC: 21%, CBD: 1%. Sorte: Bubba Kush. Preis ab 6,94 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/demecan-typ-1",
+        "url": "https://cannabisblueten.de/product/demecan-typ-1",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/demecan-typ-1-ij593c.jpeg"
       }
@@ -133,19 +133,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Demecan",
-        "href": "https://weed.de/brand/demecan"
+        "href": "https://cannabisblueten.de/brand/demecan"
       },
       {
         "name": "Demecan Typ 1",
-        "href": "https://weed.de/product/demecan-typ-1"
+        "href": "https://cannabisblueten.de/product/demecan-typ-1"
       }
     ],
     "schema": [
@@ -157,19 +157,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Demecan Typ 1",
-            "item": "https://weed.de/product/demecan-typ-1"
+            "item": "https://cannabisblueten.de/product/demecan-typ-1"
           }
         ]
       },
@@ -177,11 +177,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Demecan Typ 1",
+        "url": "https://cannabisblueten.de/product/demecan-typ-1",
         "brand": {
           "@type": "Brand",
           "name": "Demecan"
         },
-        "description": "THC: 21%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 21%, CBD: 1%, Genetik: indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/demecan-typ-1",
+          "priceCurrency": "EUR",
+          "price": "6.94",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "6.94",
+            "maxPrice": "10.50",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

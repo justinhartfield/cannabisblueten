@@ -103,7 +103,7 @@
     "meta": {
       "title": "29/1 IUVO SQ APPLES & BANANAS - Iuvo | ab 8,19 €",
       "description": "29/1 IUVO SQ APPLES & BANANAS von Iuvo. THC: 29%, CBD: 1%. Sorte: Apples & Bananas. Preis ab 8,19 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/291-iuvo-sq-apples-und-bananas",
+      "canonical": "https://cannabisblueten.de/product/291-iuvo-sq-apples-und-bananas",
       "robots": {
         "index": true,
         "follow": true
@@ -111,9 +111,9 @@
       "openGraph": {
         "title": "29/1 IUVO SQ APPLES & BANANAS - Iuvo | ab 8,19 €",
         "description": "29/1 IUVO SQ APPLES & BANANAS von Iuvo. THC: 29%, CBD: 1%. Sorte: Apples & Bananas. Preis ab 8,19 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/291-iuvo-sq-apples-und-bananas",
+        "url": "https://cannabisblueten.de/product/291-iuvo-sq-apples-und-bananas",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/291-iuvo-sq-apples-und-bananas-8203be.png"
       }
@@ -121,19 +121,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Iuvo",
-        "href": "https://weed.de/brand/iuvo"
+        "href": "https://cannabisblueten.de/brand/iuvo"
       },
       {
         "name": "29/1 IUVO SQ APPLES & BANANAS",
-        "href": "https://weed.de/product/291-iuvo-sq-apples-und-bananas"
+        "href": "https://cannabisblueten.de/product/291-iuvo-sq-apples-und-bananas"
       }
     ],
     "schema": [
@@ -145,19 +145,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "29/1 IUVO SQ APPLES & BANANAS",
-            "item": "https://weed.de/product/291-iuvo-sq-apples-und-bananas"
+            "item": "https://cannabisblueten.de/product/291-iuvo-sq-apples-und-bananas"
           }
         ]
       },
@@ -165,11 +165,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "29/1 IUVO SQ APPLES & BANANAS",
+        "url": "https://cannabisblueten.de/product/291-iuvo-sq-apples-und-bananas",
         "brand": {
           "@type": "Brand",
           "name": "Iuvo"
         },
-        "description": "THC: 29%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 29%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/291-iuvo-sq-apples-und-bananas",
+          "priceCurrency": "EUR",
+          "price": "8.19",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "8.19",
+            "maxPrice": "10.99",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

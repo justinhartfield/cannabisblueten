@@ -65,7 +65,7 @@
     "meta": {
       "title": "Lieblings Blüten - Cannabis Apotheke in Gießen",
       "description": "Lieblings Blüten in Gießen. 7 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/lieblings-blueten",
+      "canonical": "https://cannabisblueten.de/apotheke/lieblings-blueten",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Lieblings Blüten - Cannabis Apotheke in Gießen",
         "description": "Lieblings Blüten in Gießen. 7 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/lieblings-blueten",
+        "url": "https://cannabisblueten.de/apotheke/lieblings-blueten",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/pharmacies/lieblings-blueten-5j1j03.png"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Gießen",
-        "href": "https://weed.de/cannabis-apotheke/giessen"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/giessen"
       },
       {
         "name": "Lieblings Blüten",
-        "href": "https://weed.de/apotheke/lieblings-blueten"
+        "href": "https://cannabisblueten.de/apotheke/lieblings-blueten"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Gießen",
-            "item": "https://weed.de/cannabis-apotheke/giessen"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/giessen"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Lieblings Blüten",
-            "item": "https://weed.de/apotheke/lieblings-blueten"
+            "item": "https://cannabisblueten.de/apotheke/lieblings-blueten"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Lieblings Blüten",
-        "url": "https://weed.de/apotheke/lieblings-blueten",
+        "url": "https://cannabisblueten.de/apotheke/lieblings-blueten",
+        "description": "Cannabis Apotheke in Gießen. 7 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Friedrichstraße 11",
@@ -142,8 +143,31 @@
           "addressRegion": "Hessen",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 50.57836349999999,
+          "longitude": 8.6653719
+        },
         "telephone": "064174242",
-        "email": "shop@lieblings-blueten.de"
+        "email": "shop@lieblings-blueten.de",
+        "sameAs": "https://lieblings-blueten.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ]
       }
     ]
   },

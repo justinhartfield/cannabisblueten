@@ -65,7 +65,7 @@
     "meta": {
       "title": "Brücken Apotheke Bamberg - Cannabis Apotheke in Bamberg",
       "description": "Brücken Apotheke Bamberg in Bamberg. 37 Cannabis Produkte. Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/bruecken-apotheke-bamberg",
+      "canonical": "https://cannabisblueten.de/apotheke/bruecken-apotheke-bamberg",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Brücken Apotheke Bamberg - Cannabis Apotheke in Bamberg",
         "description": "Brücken Apotheke Bamberg in Bamberg. 37 Cannabis Produkte. Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/bruecken-apotheke-bamberg",
+        "url": "https://cannabisblueten.de/apotheke/bruecken-apotheke-bamberg",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/6834758e33498e3f41a49409-3dj4af.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Bamberg",
-        "href": "https://weed.de/cannabis-apotheke/bamberg"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/bamberg"
       },
       {
         "name": "Brücken Apotheke Bamberg",
-        "href": "https://weed.de/apotheke/bruecken-apotheke-bamberg"
+        "href": "https://cannabisblueten.de/apotheke/bruecken-apotheke-bamberg"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Bamberg",
-            "item": "https://weed.de/cannabis-apotheke/bamberg"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/bamberg"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Brücken Apotheke Bamberg",
-            "item": "https://weed.de/apotheke/bruecken-apotheke-bamberg"
+            "item": "https://cannabisblueten.de/apotheke/bruecken-apotheke-bamberg"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Brücken Apotheke Bamberg",
-        "url": "https://weed.de/apotheke/bruecken-apotheke-bamberg",
+        "url": "https://cannabisblueten.de/apotheke/bruecken-apotheke-bamberg",
+        "description": "Cannabis Apotheke in Bamberg. 37 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Heinrichsdamm 6",
@@ -142,8 +143,30 @@
           "addressRegion": "Bayern",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 49.8946449,
+          "longitude": 10.893239
+        },
         "telephone": "09513020740",
-        "email": "info@bamberg-cannabis.de"
+        "email": "info@bamberg-cannabis.de",
+        "sameAs": "https://bamberg-cannabis.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5.0",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
       }
     ]
   },

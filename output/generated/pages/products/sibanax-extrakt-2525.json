@@ -106,7 +106,7 @@
     "meta": {
       "title": "Sibanax Extrakt 25/25 - Heyday | ab 5,99 €",
       "description": "Sibanax Extrakt 25/25 von Heyday. THC: 25%, CBD: 25%. Sorte: AK47. Preis ab 5,99 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/sibanax-extrakt-2525",
+      "canonical": "https://cannabisblueten.de/product/sibanax-extrakt-2525",
       "robots": {
         "index": true,
         "follow": true
@@ -114,28 +114,28 @@
       "openGraph": {
         "title": "Sibanax Extrakt 25/25 - Heyday | ab 5,99 €",
         "description": "Sibanax Extrakt 25/25 von Heyday. THC: 25%, CBD: 25%. Sorte: AK47. Preis ab 5,99 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/sibanax-extrakt-2525",
+        "url": "https://cannabisblueten.de/product/sibanax-extrakt-2525",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Heyday",
-        "href": "https://weed.de/brand/heyday"
+        "href": "https://cannabisblueten.de/brand/heyday"
       },
       {
         "name": "Sibanax Extrakt 25/25",
-        "href": "https://weed.de/product/sibanax-extrakt-2525"
+        "href": "https://cannabisblueten.de/product/sibanax-extrakt-2525"
       }
     ],
     "schema": [
@@ -147,19 +147,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Sibanax Extrakt 25/25",
-            "item": "https://weed.de/product/sibanax-extrakt-2525"
+            "item": "https://cannabisblueten.de/product/sibanax-extrakt-2525"
           }
         ]
       },
@@ -167,11 +167,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Sibanax Extrakt 25/25",
+        "url": "https://cannabisblueten.de/product/sibanax-extrakt-2525",
         "brand": {
           "@type": "Brand",
           "name": "Heyday"
         },
-        "description": "THC: 25%, CBD: 25%"
+        "description": "Medizinisches Cannabis Produkt. THC: 25%, CBD: 25%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/sibanax-extrakt-2525",
+          "priceCurrency": "EUR",
+          "price": "5.99",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "5.99",
+            "maxPrice": "7.50",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

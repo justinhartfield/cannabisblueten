@@ -120,7 +120,7 @@
     "meta": {
       "title": "Wellford Aquaponic 30/1 ATG - Therismos | ab 6,97 €",
       "description": "Wellford Aquaponic 30/1 ATG von Therismos. THC: 30%, CBD: 1%. Sorte: Atlantic Glue. Preis ab 6,97 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/wellford-aquaponic-301-atg",
+      "canonical": "https://cannabisblueten.de/product/wellford-aquaponic-301-atg",
       "robots": {
         "index": true,
         "follow": true
@@ -128,9 +128,9 @@
       "openGraph": {
         "title": "Wellford Aquaponic 30/1 ATG - Therismos | ab 6,97 €",
         "description": "Wellford Aquaponic 30/1 ATG von Therismos. THC: 30%, CBD: 1%. Sorte: Atlantic Glue. Preis ab 6,97 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/wellford-aquaponic-301-atg",
+        "url": "https://cannabisblueten.de/product/wellford-aquaponic-301-atg",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/wellford-aquaponic-301-atg-e58i98.png"
       }
@@ -138,19 +138,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Therismos",
-        "href": "https://weed.de/brand/therismos"
+        "href": "https://cannabisblueten.de/brand/therismos"
       },
       {
         "name": "Wellford Aquaponic 30/1 ATG",
-        "href": "https://weed.de/product/wellford-aquaponic-301-atg"
+        "href": "https://cannabisblueten.de/product/wellford-aquaponic-301-atg"
       }
     ],
     "schema": [
@@ -162,19 +162,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Wellford Aquaponic 30/1 ATG",
-            "item": "https://weed.de/product/wellford-aquaponic-301-atg"
+            "item": "https://cannabisblueten.de/product/wellford-aquaponic-301-atg"
           }
         ]
       },
@@ -182,11 +182,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Wellford Aquaponic 30/1 ATG",
+        "url": "https://cannabisblueten.de/product/wellford-aquaponic-301-atg",
         "brand": {
           "@type": "Brand",
           "name": "Therismos"
         },
-        "description": "THC: 30%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 30%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/wellford-aquaponic-301-atg",
+          "priceCurrency": "EUR",
+          "price": "6.97",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "6.97",
+            "maxPrice": "10.15",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

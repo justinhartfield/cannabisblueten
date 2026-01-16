@@ -65,7 +65,7 @@
     "meta": {
       "title": "Cannaplus Apotheke - Cannabis Apotheke in Augsburg",
       "description": "Cannaplus Apotheke in Augsburg. 185 Cannabis Produkte. Lieferung & Abholung. Bewertung: 4.0/5. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/cannaplus-apotheke",
+      "canonical": "https://cannabisblueten.de/apotheke/cannaplus-apotheke",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Cannaplus Apotheke - Cannabis Apotheke in Augsburg",
         "description": "Cannaplus Apotheke in Augsburg. 185 Cannabis Produkte. Lieferung & Abholung. Bewertung: 4.0/5. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/cannaplus-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/cannaplus-apotheke",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/6734538ac05394da7e83994b-eb1h59.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Augsburg",
-        "href": "https://weed.de/cannabis-apotheke/augsburg"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/augsburg"
       },
       {
         "name": "Cannaplus Apotheke",
-        "href": "https://weed.de/apotheke/cannaplus-apotheke"
+        "href": "https://cannabisblueten.de/apotheke/cannaplus-apotheke"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Augsburg",
-            "item": "https://weed.de/cannabis-apotheke/augsburg"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/augsburg"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Cannaplus Apotheke",
-            "item": "https://weed.de/apotheke/cannaplus-apotheke"
+            "item": "https://cannabisblueten.de/apotheke/cannaplus-apotheke"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Cannaplus Apotheke",
-        "url": "https://weed.de/apotheke/cannaplus-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/cannaplus-apotheke",
+        "description": "Cannabis Apotheke in Augsburg. 185 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Bleicherbreite 21",
@@ -142,8 +143,36 @@
           "addressRegion": "Bayern",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 48.39262249999999,
+          "longitude": 10.8775749
+        },
         "telephone": "082144817756",
-        "email": "Bestellung@cannaplus-apotheke.de"
+        "email": "Bestellung@cannaplus-apotheke.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.0",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
       }
     ]
   },

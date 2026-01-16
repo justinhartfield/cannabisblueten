@@ -120,7 +120,7 @@
     "meta": {
       "title": "Herbery SC 26:01 BC | ab 5,95 €",
       "description": "Herbery SC 26:01 BC von Herbery. THC: 26%, CBD: 1%. Sorte: Banana Cream. Preis ab 5,95 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/herbery-sc-261-banana-cream",
+      "canonical": "https://cannabisblueten.de/product/herbery-sc-261-banana-cream",
       "robots": {
         "index": true,
         "follow": true
@@ -128,9 +128,9 @@
       "openGraph": {
         "title": "Herbery SC 26:01 BC | ab 5,95 €",
         "description": "Herbery SC 26:01 BC von Herbery. THC: 26%, CBD: 1%. Sorte: Banana Cream. Preis ab 5,95 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/herbery-sc-261-banana-cream",
+        "url": "https://cannabisblueten.de/product/herbery-sc-261-banana-cream",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/herbery-sc-261-banana-cream-1jjii0.jpeg"
       }
@@ -138,19 +138,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Herbery",
-        "href": "https://weed.de/brand/herbery"
+        "href": "https://cannabisblueten.de/brand/herbery"
       },
       {
         "name": "Herbery SC 26:01 BC",
-        "href": "https://weed.de/product/herbery-sc-261-banana-cream"
+        "href": "https://cannabisblueten.de/product/herbery-sc-261-banana-cream"
       }
     ],
     "schema": [
@@ -162,19 +162,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Herbery SC 26:01 BC",
-            "item": "https://weed.de/product/herbery-sc-261-banana-cream"
+            "item": "https://cannabisblueten.de/product/herbery-sc-261-banana-cream"
           }
         ]
       },
@@ -182,11 +182,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Herbery SC 26:01 BC",
+        "url": "https://cannabisblueten.de/product/herbery-sc-261-banana-cream",
         "brand": {
           "@type": "Brand",
           "name": "Herbery"
         },
-        "description": "THC: 26%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 26%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/herbery-sc-261-banana-cream",
+          "priceCurrency": "EUR",
+          "price": "5.95",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

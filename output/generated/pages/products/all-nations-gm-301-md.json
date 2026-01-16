@@ -110,7 +110,7 @@
     "meta": {
       "title": "All Nations GM 30/1 MD - Cantourage | ab 5,48 €",
       "description": "All Nations GM 30/1 MD von Cantourage. THC: 30%, CBD: 1%. Sorte: Mac Doughnut. Preis ab 5,48 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/all-nations-gm-301-md",
+      "canonical": "https://cannabisblueten.de/product/all-nations-gm-301-md",
       "robots": {
         "index": true,
         "follow": true
@@ -118,9 +118,9 @@
       "openGraph": {
         "title": "All Nations GM 30/1 MD - Cantourage | ab 5,48 €",
         "description": "All Nations GM 30/1 MD von Cantourage. THC: 30%, CBD: 1%. Sorte: Mac Doughnut. Preis ab 5,48 €. Preise vergleichen.",
-        "url": "https://weed.de/product/all-nations-gm-301-md",
+        "url": "https://cannabisblueten.de/product/all-nations-gm-301-md",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/all-nations-gm-301-md-e694d2.png"
       }
@@ -128,19 +128,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cantourage",
-        "href": "https://weed.de/brand/cantourage"
+        "href": "https://cannabisblueten.de/brand/cantourage"
       },
       {
         "name": "All Nations GM 30/1 MD",
-        "href": "https://weed.de/product/all-nations-gm-301-md"
+        "href": "https://cannabisblueten.de/product/all-nations-gm-301-md"
       }
     ],
     "schema": [
@@ -152,19 +152,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "All Nations GM 30/1 MD",
-            "item": "https://weed.de/product/all-nations-gm-301-md"
+            "item": "https://cannabisblueten.de/product/all-nations-gm-301-md"
           }
         ]
       },
@@ -172,11 +172,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "All Nations GM 30/1 MD",
+        "url": "https://cannabisblueten.de/product/all-nations-gm-301-md",
         "brand": {
           "@type": "Brand",
           "name": "Cantourage"
         },
-        "description": "THC: 30%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 30%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/all-nations-gm-301-md",
+          "priceCurrency": "EUR",
+          "price": "5.48",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

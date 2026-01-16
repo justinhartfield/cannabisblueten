@@ -7,6 +7,7 @@
  */
 
 import type { Metadata } from 'next';
+// Note: Using regular img tags for external weed.de images for reliability
 import type { StrainPageData } from '@/resolvers';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
 
@@ -23,6 +24,10 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const data = await getStrainPageData(slug);
   if (!data) return { title: 'Strain not found' };
 
+  const ogImage = data.strain.imageUrl
+    ? { url: data.strain.imageUrl, alt: `${data.strain.name} - Cannabis Sorte` }
+    : { url: '/og-default.png', width: 1200, height: 630, alt: 'CannabisBlueten.de' };
+
   return {
     title: data.seo.meta.title,
     description: data.seo.meta.description,
@@ -35,7 +40,13 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       type: 'website',
       siteName: data.seo.meta.openGraph.siteName,
       locale: data.seo.meta.openGraph.locale,
-      images: data.strain.imageUrl ? [data.strain.imageUrl] : undefined,
+      images: [ogImage],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: data.seo.meta.openGraph.title,
+      description: data.seo.meta.openGraph.description,
+      images: [ogImage.url],
     },
   };
 }
@@ -184,15 +195,16 @@ export default async function StrainPage({ params }: PageProps) {
 
             {/* Right: Visual */}
             <div className="relative">
-              <div className="aspect-square bg-clinical-100 rounded-3xl flex items-center justify-center overflow-hidden">
+              <div className="aspect-square bg-clinical-100 rounded-3xl flex items-center justify-center overflow-hidden relative">
                 {data.strain.imageUrl ? (
                   <img
                     src={data.strain.imageUrl}
-                    alt={data.strain.name}
+                    alt={`${data.strain.name} - ${data.strain.geneticType ? capitalize(data.strain.geneticType) : 'Cannabis'} Sorte`}
                     className="w-full h-full object-cover"
+                    loading="eager"
                   />
                 ) : (
-                  <span className="text-8xl">🌿</span>
+                  <span className="text-8xl" role="img" aria-label="Cannabis Pflanze">🌿</span>
                 )}
               </div>
 

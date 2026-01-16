@@ -115,7 +115,7 @@
     "meta": {
       "title": "Ceres Cap J 25/1 - Cantourage | ab 7,95 €",
       "description": "Ceres Cap J 25/1 von Cantourage. THC: 25%, CBD: 1%. Sorte: Cap Junky. Preis ab 7,95 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/ceres-cap-j-251",
+      "canonical": "https://cannabisblueten.de/product/ceres-cap-j-251",
       "robots": {
         "index": true,
         "follow": true
@@ -123,9 +123,9 @@
       "openGraph": {
         "title": "Ceres Cap J 25/1 - Cantourage | ab 7,95 €",
         "description": "Ceres Cap J 25/1 von Cantourage. THC: 25%, CBD: 1%. Sorte: Cap Junky. Preis ab 7,95 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/ceres-cap-j-251",
+        "url": "https://cannabisblueten.de/product/ceres-cap-j-251",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/ceres-cap-j-251-9j4025.webp"
       }
@@ -133,19 +133,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cantourage",
-        "href": "https://weed.de/brand/cantourage"
+        "href": "https://cannabisblueten.de/brand/cantourage"
       },
       {
         "name": "Ceres Cap J 25/1",
-        "href": "https://weed.de/product/ceres-cap-j-251"
+        "href": "https://cannabisblueten.de/product/ceres-cap-j-251"
       }
     ],
     "schema": [
@@ -157,19 +157,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Ceres Cap J 25/1",
-            "item": "https://weed.de/product/ceres-cap-j-251"
+            "item": "https://cannabisblueten.de/product/ceres-cap-j-251"
           }
         ]
       },
@@ -177,11 +177,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Ceres Cap J 25/1",
+        "url": "https://cannabisblueten.de/product/ceres-cap-j-251",
         "brand": {
           "@type": "Brand",
           "name": "Cantourage"
         },
-        "description": "THC: 25%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 25%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/ceres-cap-j-251",
+          "priceCurrency": "EUR",
+          "price": "7.95",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

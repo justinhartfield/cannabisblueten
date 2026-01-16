@@ -104,7 +104,7 @@
     "meta": {
       "title": "KEjF. SMNZ 25/1 - Medical CNBS | ab 8,98 €",
       "description": "KEjF. SMNZ 25/1 von Medical CNBS. THC: 27.4%, CBD: 1%. Sorte: Siggi's Minze. Preis ab 8,98 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/kejf-smnz-251",
+      "canonical": "https://cannabisblueten.de/product/kejf-smnz-251",
       "robots": {
         "index": true,
         "follow": true
@@ -112,28 +112,28 @@
       "openGraph": {
         "title": "KEjF. SMNZ 25/1 - Medical CNBS | ab 8,98 €",
         "description": "KEjF. SMNZ 25/1 von Medical CNBS. THC: 27.4%, CBD: 1%. Sorte: Siggi's Minze. Preis ab 8,98 €. Preise vergleichen.",
-        "url": "https://weed.de/product/kejf-smnz-251",
+        "url": "https://cannabisblueten.de/product/kejf-smnz-251",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Medical CNBS",
-        "href": "https://weed.de/brand/medical-cnbs"
+        "href": "https://cannabisblueten.de/brand/medical-cnbs"
       },
       {
         "name": "KEjF. SMNZ 25/1",
-        "href": "https://weed.de/product/kejf-smnz-251"
+        "href": "https://cannabisblueten.de/product/kejf-smnz-251"
       }
     ],
     "schema": [
@@ -145,19 +145,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "KEjF. SMNZ 25/1",
-            "item": "https://weed.de/product/kejf-smnz-251"
+            "item": "https://cannabisblueten.de/product/kejf-smnz-251"
           }
         ]
       },
@@ -165,11 +165,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "KEjF. SMNZ 25/1",
+        "url": "https://cannabisblueten.de/product/kejf-smnz-251",
         "brand": {
           "@type": "Brand",
           "name": "Medical CNBS"
         },
-        "description": "THC: 27.4%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 27.4%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/kejf-smnz-251",
+          "priceCurrency": "EUR",
+          "price": "8.98",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

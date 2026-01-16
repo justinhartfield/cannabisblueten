@@ -119,7 +119,7 @@
     "meta": {
       "title": "Eufloria 30/1 MCD - Remexian Pharma | ab 5,69 €",
       "description": "Eufloria 30/1 MCD von Remexian Pharma. THC: 30%, CBD: 1%. Sorte: MAC Deluxe. Preis ab 5,69 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/eufloria-31-mcd",
+      "canonical": "https://cannabisblueten.de/product/eufloria-31-mcd",
       "robots": {
         "index": true,
         "follow": true
@@ -127,28 +127,28 @@
       "openGraph": {
         "title": "Eufloria 30/1 MCD - Remexian Pharma | ab 5,69 €",
         "description": "Eufloria 30/1 MCD von Remexian Pharma. THC: 30%, CBD: 1%. Sorte: MAC Deluxe. Preis ab 5,69 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/eufloria-31-mcd",
+        "url": "https://cannabisblueten.de/product/eufloria-31-mcd",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Remexian Pharma",
-        "href": "https://weed.de/brand/remexian-pharma"
+        "href": "https://cannabisblueten.de/brand/remexian-pharma"
       },
       {
         "name": "Eufloria 30/1 MCD",
-        "href": "https://weed.de/product/eufloria-31-mcd"
+        "href": "https://cannabisblueten.de/product/eufloria-31-mcd"
       }
     ],
     "schema": [
@@ -160,19 +160,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Eufloria 30/1 MCD",
-            "item": "https://weed.de/product/eufloria-31-mcd"
+            "item": "https://cannabisblueten.de/product/eufloria-31-mcd"
           }
         ]
       },
@@ -180,11 +180,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Eufloria 30/1 MCD",
+        "url": "https://cannabisblueten.de/product/eufloria-31-mcd",
         "brand": {
           "@type": "Brand",
           "name": "Remexian Pharma"
         },
-        "description": "THC: 30%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 30%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/eufloria-31-mcd",
+          "priceCurrency": "EUR",
+          "price": "5.69",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "5.69",
+            "maxPrice": "7.50",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

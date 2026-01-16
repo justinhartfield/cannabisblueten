@@ -100,7 +100,7 @@
     "meta": {
       "title": "Barongo 30/1 SBT - WMG Pharma | ab 6,99 €",
       "description": "Barongo 30/1 SBT von WMG Pharma. THC: 30%, CBD: 1%. Sorte: San Andreas Juice. Preis ab 6,99 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/barongo-31-sbt",
+      "canonical": "https://cannabisblueten.de/product/barongo-31-sbt",
       "robots": {
         "index": true,
         "follow": true
@@ -108,9 +108,9 @@
       "openGraph": {
         "title": "Barongo 30/1 SBT - WMG Pharma | ab 6,99 €",
         "description": "Barongo 30/1 SBT von WMG Pharma. THC: 30%, CBD: 1%. Sorte: San Andreas Juice. Preis ab 6,99 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/barongo-31-sbt",
+        "url": "https://cannabisblueten.de/product/barongo-31-sbt",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/barongo-31-sbt-g6ggga.png"
       }
@@ -118,19 +118,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "WMG Pharma",
-        "href": "https://weed.de/brand/wmg-pharma"
+        "href": "https://cannabisblueten.de/brand/wmg-pharma"
       },
       {
         "name": "Barongo 30/1 SBT",
-        "href": "https://weed.de/product/barongo-31-sbt"
+        "href": "https://cannabisblueten.de/product/barongo-31-sbt"
       }
     ],
     "schema": [
@@ -142,19 +142,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Barongo 30/1 SBT",
-            "item": "https://weed.de/product/barongo-31-sbt"
+            "item": "https://cannabisblueten.de/product/barongo-31-sbt"
           }
         ]
       },
@@ -162,11 +162,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Barongo 30/1 SBT",
+        "url": "https://cannabisblueten.de/product/barongo-31-sbt",
         "brand": {
           "@type": "Brand",
           "name": "WMG Pharma"
         },
-        "description": "THC: 30%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 30%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/barongo-31-sbt",
+          "priceCurrency": "EUR",
+          "price": "6.99",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

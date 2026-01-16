@@ -122,7 +122,7 @@
     "meta": {
       "title": "Cannabis flos 16/1 CL Ku. Herer Widow - Canify | ab 2,89 €",
       "description": "Cannabis flos 16/1 CL Ku. Herer Widow von Canify. THC: 16%, CBD: 1%. Sorte: Herer Widow. Preis ab 2,89 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/cannabis-flos-161-cl-ku-herer-widow",
+      "canonical": "https://cannabisblueten.de/product/cannabis-flos-161-cl-ku-herer-widow",
       "robots": {
         "index": true,
         "follow": true
@@ -130,9 +130,9 @@
       "openGraph": {
         "title": "Cannabis flos 16/1 CL Ku. Herer Widow - Canify | ab 2,89 €",
         "description": "Cannabis flos 16/1 CL Ku. Herer Widow von Canify. THC: 16%, CBD: 1%. Sorte: Herer Widow. Preis ab 2,89 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/cannabis-flos-161-cl-ku-herer-widow",
+        "url": "https://cannabisblueten.de/product/cannabis-flos-161-cl-ku-herer-widow",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/cannabis-flos-161-cl-ku-herer-widow-g8d163.png"
       }
@@ -140,19 +140,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Canify",
-        "href": "https://weed.de/brand/canify"
+        "href": "https://cannabisblueten.de/brand/canify"
       },
       {
         "name": "Cannabis flos 16/1 CL Ku. Herer Widow",
-        "href": "https://weed.de/product/cannabis-flos-161-cl-ku-herer-widow"
+        "href": "https://cannabisblueten.de/product/cannabis-flos-161-cl-ku-herer-widow"
       }
     ],
     "schema": [
@@ -164,19 +164,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Cannabis flos 16/1 CL Ku. Herer Widow",
-            "item": "https://weed.de/product/cannabis-flos-161-cl-ku-herer-widow"
+            "item": "https://cannabisblueten.de/product/cannabis-flos-161-cl-ku-herer-widow"
           }
         ]
       },
@@ -184,11 +184,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Cannabis flos 16/1 CL Ku. Herer Widow",
+        "url": "https://cannabisblueten.de/product/cannabis-flos-161-cl-ku-herer-widow",
         "brand": {
           "@type": "Brand",
           "name": "Canify"
         },
-        "description": "THC: 16%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 16%, CBD: 1%, Genetik: sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/cannabis-flos-161-cl-ku-herer-widow",
+          "priceCurrency": "EUR",
+          "price": "2.89",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "2.89",
+            "maxPrice": "6.55",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

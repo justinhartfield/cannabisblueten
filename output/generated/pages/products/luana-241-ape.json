@@ -104,7 +104,7 @@
     "meta": {
       "title": "Luana 24/1 APE - Cannamedical | ab 5,19 €",
       "description": "Luana 24/1 APE von Cannamedical. THC: 22%, CBD: 1%. Sorte: Sour Ape. Preis ab 5,19 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/luana-241-ape",
+      "canonical": "https://cannabisblueten.de/product/luana-241-ape",
       "robots": {
         "index": true,
         "follow": true
@@ -112,9 +112,9 @@
       "openGraph": {
         "title": "Luana 24/1 APE - Cannamedical | ab 5,19 €",
         "description": "Luana 24/1 APE von Cannamedical. THC: 22%, CBD: 1%. Sorte: Sour Ape. Preis ab 5,19 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/luana-241-ape",
+        "url": "https://cannabisblueten.de/product/luana-241-ape",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/luana-241-ape-4194c8.png"
       }
@@ -122,19 +122,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cannamedical",
-        "href": "https://weed.de/brand/cannamedical"
+        "href": "https://cannabisblueten.de/brand/cannamedical"
       },
       {
         "name": "Luana 24/1 APE",
-        "href": "https://weed.de/product/luana-241-ape"
+        "href": "https://cannabisblueten.de/product/luana-241-ape"
       }
     ],
     "schema": [
@@ -146,19 +146,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Luana 24/1 APE",
-            "item": "https://weed.de/product/luana-241-ape"
+            "item": "https://cannabisblueten.de/product/luana-241-ape"
           }
         ]
       },
@@ -166,11 +166,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Luana 24/1 APE",
+        "url": "https://cannabisblueten.de/product/luana-241-ape",
         "brand": {
           "@type": "Brand",
           "name": "Cannamedical"
         },
-        "description": "THC: 22%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 22%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/luana-241-ape",
+          "priceCurrency": "EUR",
+          "price": "5.19",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "5.19",
+            "maxPrice": "5.45",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

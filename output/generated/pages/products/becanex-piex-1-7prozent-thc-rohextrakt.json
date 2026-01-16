@@ -29,7 +29,7 @@
     "meta": {
       "title": "Becanex PIEX 1 70% THC Rohextrakt - Becanex GmbH  | ab 65...",
       "description": "Becanex PIEX 1 70% THC Rohextrakt von Becanex GmbH . THC: 70%, CBD: 1%. Preis ab 65,00 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/becanex-piex-1-7prozent-thc-rohextrakt",
+      "canonical": "https://cannabisblueten.de/product/becanex-piex-1-7prozent-thc-rohextrakt",
       "robots": {
         "index": true,
         "follow": true
@@ -37,28 +37,28 @@
       "openGraph": {
         "title": "Becanex PIEX 1 70% THC Rohextrakt - Becanex GmbH  | ab 65...",
         "description": "Becanex PIEX 1 70% THC Rohextrakt von Becanex GmbH . THC: 70%, CBD: 1%. Preis ab 65,00 €. Preise vergleichen.",
-        "url": "https://weed.de/product/becanex-piex-1-7prozent-thc-rohextrakt",
+        "url": "https://cannabisblueten.de/product/becanex-piex-1-7prozent-thc-rohextrakt",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Becanex GmbH ",
-        "href": "https://weed.de/brand/becanex-gmbh"
+        "href": "https://cannabisblueten.de/brand/becanex-gmbh"
       },
       {
         "name": "Becanex PIEX 1 70% THC Rohextrakt",
-        "href": "https://weed.de/product/becanex-piex-1-7prozent-thc-rohextrakt"
+        "href": "https://cannabisblueten.de/product/becanex-piex-1-7prozent-thc-rohextrakt"
       }
     ],
     "schema": [
@@ -70,19 +70,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Becanex PIEX 1 70% THC Rohextrakt",
-            "item": "https://weed.de/product/becanex-piex-1-7prozent-thc-rohextrakt"
+            "item": "https://cannabisblueten.de/product/becanex-piex-1-7prozent-thc-rohextrakt"
           }
         ]
       },
@@ -90,11 +90,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Becanex PIEX 1 70% THC Rohextrakt",
+        "url": "https://cannabisblueten.de/product/becanex-piex-1-7prozent-thc-rohextrakt",
         "brand": {
           "@type": "Brand",
           "name": "Becanex GmbH "
         },
-        "description": "THC: 70%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 70%, CBD: 1%",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/becanex-piex-1-7prozent-thc-rohextrakt",
+          "priceCurrency": "EUR",
+          "price": "65.00",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

@@ -65,7 +65,7 @@
     "meta": {
       "title": "Hanfbahnhof - Cannabis Apotheke in München",
       "description": "Hanfbahnhof in München. 17 Cannabis Produkte. Lieferung & Abholung. Bewertung: 3.0/5. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/internationale-hauptbahnhof-apotheke",
+      "canonical": "https://cannabisblueten.de/apotheke/internationale-hauptbahnhof-apotheke",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Hanfbahnhof - Cannabis Apotheke in München",
         "description": "Hanfbahnhof in München. 17 Cannabis Produkte. Lieferung & Abholung. Bewertung: 3.0/5. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/internationale-hauptbahnhof-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/internationale-hauptbahnhof-apotheke",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/672351c403ffdd51c1b72660-gb968c.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "München",
-        "href": "https://weed.de/cannabis-apotheke/muenchen"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/muenchen"
       },
       {
         "name": "Hanfbahnhof",
-        "href": "https://weed.de/apotheke/internationale-hauptbahnhof-apotheke"
+        "href": "https://cannabisblueten.de/apotheke/internationale-hauptbahnhof-apotheke"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "München",
-            "item": "https://weed.de/cannabis-apotheke/muenchen"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/muenchen"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Hanfbahnhof",
-            "item": "https://weed.de/apotheke/internationale-hauptbahnhof-apotheke"
+            "item": "https://cannabisblueten.de/apotheke/internationale-hauptbahnhof-apotheke"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Hanfbahnhof",
-        "url": "https://weed.de/apotheke/internationale-hauptbahnhof-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/internationale-hauptbahnhof-apotheke",
+        "description": "Cannabis Apotheke in München. 17 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Bayerstraße 27",
@@ -142,8 +143,37 @@
           "addressRegion": "Bayern",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 48.1391979,
+          "longitude": 11.5604749
+        },
         "telephone": "08959989040",
-        "email": "bestellung@hanfbahnhof.de"
+        "email": "bestellung@hanfbahnhof.de",
+        "sameAs": "https://hanfbahnhof.de/",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "3.0",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
       }
     ]
   },

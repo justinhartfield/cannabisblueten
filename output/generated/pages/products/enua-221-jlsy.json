@@ -106,7 +106,7 @@
     "meta": {
       "title": "enua 22/1 JLSY | ab 5,65 €",
       "description": "enua 22/1 JLSY von enua. THC: 24%, CBD: 1%. Sorte: Jealousy. Preis ab 5,65 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/enua-221-jlsy",
+      "canonical": "https://cannabisblueten.de/product/enua-221-jlsy",
       "robots": {
         "index": true,
         "follow": true
@@ -114,28 +114,28 @@
       "openGraph": {
         "title": "enua 22/1 JLSY | ab 5,65 €",
         "description": "enua 22/1 JLSY von enua. THC: 24%, CBD: 1%. Sorte: Jealousy. Preis ab 5,65 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/enua-221-jlsy",
+        "url": "https://cannabisblueten.de/product/enua-221-jlsy",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "enua",
-        "href": "https://weed.de/brand/enua"
+        "href": "https://cannabisblueten.de/brand/enua"
       },
       {
         "name": "enua 22/1 JLSY",
-        "href": "https://weed.de/product/enua-221-jlsy"
+        "href": "https://cannabisblueten.de/product/enua-221-jlsy"
       }
     ],
     "schema": [
@@ -147,19 +147,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "enua 22/1 JLSY",
-            "item": "https://weed.de/product/enua-221-jlsy"
+            "item": "https://cannabisblueten.de/product/enua-221-jlsy"
           }
         ]
       },
@@ -167,11 +167,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "enua 22/1 JLSY",
+        "url": "https://cannabisblueten.de/product/enua-221-jlsy",
         "brand": {
           "@type": "Brand",
           "name": "enua"
         },
-        "description": "THC: 24%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 24%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/enua-221-jlsy",
+          "priceCurrency": "EUR",
+          "price": "5.65",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "5.65",
+            "maxPrice": "11.50",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

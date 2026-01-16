@@ -101,7 +101,7 @@
     "meta": {
       "title": "MediproCan LUNARIS 25/1 - mediproCan | ab 4,29 €",
       "description": "MediproCan LUNARIS 25/1 von mediproCan. THC: 25%, CBD: 1%. Sorte: Capri Haze. Preis ab 4,29 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/mediprocan-lunaris-251",
+      "canonical": "https://cannabisblueten.de/product/mediprocan-lunaris-251",
       "robots": {
         "index": true,
         "follow": true
@@ -109,9 +109,9 @@
       "openGraph": {
         "title": "MediproCan LUNARIS 25/1 - mediproCan | ab 4,29 €",
         "description": "MediproCan LUNARIS 25/1 von mediproCan. THC: 25%, CBD: 1%. Sorte: Capri Haze. Preis ab 4,29 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/mediprocan-lunaris-251",
+        "url": "https://cannabisblueten.de/product/mediprocan-lunaris-251",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/mediprocan-lunaris-251-6h282j.webp"
       }
@@ -119,19 +119,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "mediproCan",
-        "href": "https://weed.de/brand/mediprocan"
+        "href": "https://cannabisblueten.de/brand/mediprocan"
       },
       {
         "name": "MediproCan LUNARIS 25/1",
-        "href": "https://weed.de/product/mediprocan-lunaris-251"
+        "href": "https://cannabisblueten.de/product/mediprocan-lunaris-251"
       }
     ],
     "schema": [
@@ -143,19 +143,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "MediproCan LUNARIS 25/1",
-            "item": "https://weed.de/product/mediprocan-lunaris-251"
+            "item": "https://cannabisblueten.de/product/mediprocan-lunaris-251"
           }
         ]
       },
@@ -163,11 +163,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "MediproCan LUNARIS 25/1",
+        "url": "https://cannabisblueten.de/product/mediprocan-lunaris-251",
         "brand": {
           "@type": "Brand",
           "name": "mediproCan"
         },
-        "description": "THC: 25%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 25%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/mediprocan-lunaris-251",
+          "priceCurrency": "EUR",
+          "price": "4.29",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.29",
+            "maxPrice": "8.30",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

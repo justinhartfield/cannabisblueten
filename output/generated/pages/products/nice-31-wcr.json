@@ -119,7 +119,7 @@
     "meta": {
       "title": "NICE 30/1 WCR - Cansativa | ab 5,35 €",
       "description": "NICE 30/1 WCR von Cansativa. THC: 30%, CBD: 1%. Sorte: Wedding Crasher. Preis ab 5,35 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/nice-31-wcr",
+      "canonical": "https://cannabisblueten.de/product/nice-31-wcr",
       "robots": {
         "index": true,
         "follow": true
@@ -127,9 +127,9 @@
       "openGraph": {
         "title": "NICE 30/1 WCR - Cansativa | ab 5,35 €",
         "description": "NICE 30/1 WCR von Cansativa. THC: 30%, CBD: 1%. Sorte: Wedding Crasher. Preis ab 5,35 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/nice-31-wcr",
+        "url": "https://cannabisblueten.de/product/nice-31-wcr",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/nice-31-wcr-f773gg.png"
       }
@@ -137,19 +137,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cansativa",
-        "href": "https://weed.de/brand/cansativa"
+        "href": "https://cannabisblueten.de/brand/cansativa"
       },
       {
         "name": "NICE 30/1 WCR",
-        "href": "https://weed.de/product/nice-31-wcr"
+        "href": "https://cannabisblueten.de/product/nice-31-wcr"
       }
     ],
     "schema": [
@@ -161,19 +161,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "NICE 30/1 WCR",
-            "item": "https://weed.de/product/nice-31-wcr"
+            "item": "https://cannabisblueten.de/product/nice-31-wcr"
           }
         ]
       },
@@ -181,11 +181,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "NICE 30/1 WCR",
+        "url": "https://cannabisblueten.de/product/nice-31-wcr",
         "brand": {
           "@type": "Brand",
           "name": "Cansativa"
         },
-        "description": "THC: 30%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 30%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/nice-31-wcr",
+          "priceCurrency": "EUR",
+          "price": "5.35",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "5.35",
+            "maxPrice": "9.54",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

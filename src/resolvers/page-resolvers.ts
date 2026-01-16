@@ -1196,6 +1196,7 @@ function buildProductSchema(product: ProductNode, brand: BrandNode | null, baseU
     '@context': 'https://schema.org',
     '@type': 'Product',
     name: product.name,
+    url: `${base}/product/${product.slug}`,
   };
 
   if (brand) {
@@ -1204,13 +1205,47 @@ function buildProductSchema(product: ProductNode, brand: BrandNode | null, baseU
 
   if (product.pzn) {
     productSchema.gtin13 = product.pzn;
+    productSchema.sku = product.pzn;
   }
 
+  // Build description with specs
   const specs: string[] = [];
   if (product.thcPercent !== null) specs.push(`THC: ${product.thcPercent}%`);
   if (product.cbdPercent !== null) specs.push(`CBD: ${product.cbdPercent}%`);
+  if (product.genetics) specs.push(`Genetik: ${product.genetics}`);
   if (specs.length > 0) {
-    productSchema.description = specs.join(', ');
+    productSchema.description = `Medizinisches Cannabis Produkt. ${specs.join(', ')}`;
+  }
+
+  // Add category
+  productSchema.category = 'Medizinisches Cannabis';
+
+  // Add Offers (price and availability)
+  if (product.priceMin !== null) {
+    const availability = product.inStock
+      ? 'https://schema.org/InStock'
+      : 'https://schema.org/OutOfStock';
+
+    const offer: Record<string, unknown> = {
+      '@type': 'Offer',
+      url: `${base}/product/${product.slug}`,
+      priceCurrency: 'EUR',
+      price: (product.priceMin / 100).toFixed(2),
+      availability,
+      itemCondition: 'https://schema.org/NewCondition',
+    };
+
+    // Add price range if different
+    if (product.priceMax !== null && product.priceMax !== product.priceMin) {
+      offer.priceSpecification = {
+        '@type': 'PriceSpecification',
+        minPrice: (product.priceMin / 100).toFixed(2),
+        maxPrice: (product.priceMax / 100).toFixed(2),
+        priceCurrency: 'EUR',
+      };
+    }
+
+    productSchema.offers = offer;
   }
 
   schemas.push(productSchema);
@@ -1274,6 +1309,7 @@ function buildPharmacySchema(pharmacy: PharmacyNode, baseUrl: string): object[] 
     '@type': 'Pharmacy',
     name: pharmacy.name,
     url: `${base}/apotheke/${pharmacy.slug}`,
+    description: `Cannabis Apotheke in ${pharmacy.cityName}. ${pharmacy.productCount} medizinische Cannabis Produkte verfügbar.`,
     address: {
       '@type': 'PostalAddress',
       streetAddress: pharmacy.street,
@@ -1282,10 +1318,47 @@ function buildPharmacySchema(pharmacy: PharmacyNode, baseUrl: string): object[] 
       addressRegion: pharmacy.state,
       addressCountry: 'DE',
     },
+    priceRange: '€€',
   };
 
+  // Add geo coordinates if available
+  if (pharmacy.lat !== null && pharmacy.lng !== null) {
+    pharmacySchema.geo = {
+      '@type': 'GeoCoordinates',
+      latitude: pharmacy.lat,
+      longitude: pharmacy.lng,
+    };
+  }
+
+  // Add contact info
   if (pharmacy.phone) pharmacySchema.telephone = pharmacy.phone;
   if (pharmacy.email) pharmacySchema.email = pharmacy.email;
+  if (pharmacy.website) pharmacySchema.sameAs = pharmacy.website;
+
+  // Add service features
+  const hasOfferCatalog = pharmacy.hasDelivery || pharmacy.hasPickup;
+  if (hasOfferCatalog) {
+    const services: string[] = [];
+    if (pharmacy.hasDelivery) services.push('Versand');
+    if (pharmacy.hasPickup) services.push('Abholung vor Ort');
+    pharmacySchema.makesOffer = services.map(service => ({
+      '@type': 'Offer',
+      itemOffered: {
+        '@type': 'Service',
+        name: service,
+      },
+    }));
+  }
+
+  // Add aggregate rating if available
+  if (pharmacy.rating > 0) {
+    pharmacySchema.aggregateRating = {
+      '@type': 'AggregateRating',
+      ratingValue: pharmacy.rating.toFixed(1),
+      bestRating: '5',
+      worstRating: '1',
+    };
+  }
 
   schemas.push(pharmacySchema);
 

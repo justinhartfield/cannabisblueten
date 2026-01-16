@@ -102,7 +102,7 @@
     "meta": {
       "title": "IMC GUM THC22 Selected | ab 4,99 €",
       "description": "IMC GUM THC22 Selected von IMC. THC: 22%, CBD: 1%. Sorte: Clownz. Preis ab 4,99 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/imc-gum-thc22-selected",
+      "canonical": "https://cannabisblueten.de/product/imc-gum-thc22-selected",
       "robots": {
         "index": true,
         "follow": true
@@ -110,28 +110,28 @@
       "openGraph": {
         "title": "IMC GUM THC22 Selected | ab 4,99 €",
         "description": "IMC GUM THC22 Selected von IMC. THC: 22%, CBD: 1%. Sorte: Clownz. Preis ab 4,99 €. Preise vergleichen.",
-        "url": "https://weed.de/product/imc-gum-thc22-selected",
+        "url": "https://cannabisblueten.de/product/imc-gum-thc22-selected",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "IMC",
-        "href": "https://weed.de/brand/imc"
+        "href": "https://cannabisblueten.de/brand/imc"
       },
       {
         "name": "IMC GUM THC22 Selected",
-        "href": "https://weed.de/product/imc-gum-thc22-selected"
+        "href": "https://cannabisblueten.de/product/imc-gum-thc22-selected"
       }
     ],
     "schema": [
@@ -143,19 +143,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "IMC GUM THC22 Selected",
-            "item": "https://weed.de/product/imc-gum-thc22-selected"
+            "item": "https://cannabisblueten.de/product/imc-gum-thc22-selected"
           }
         ]
       },
@@ -163,11 +163,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "IMC GUM THC22 Selected",
+        "url": "https://cannabisblueten.de/product/imc-gum-thc22-selected",
         "brand": {
           "@type": "Brand",
           "name": "IMC"
         },
-        "description": "THC: 22%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 22%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/imc-gum-thc22-selected",
+          "priceCurrency": "EUR",
+          "price": "4.99",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

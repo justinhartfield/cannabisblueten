@@ -103,7 +103,7 @@
     "meta": {
       "title": "Nimbus easy 22/1 GoM - Nimbus Health | ab 4,75 €",
       "description": "Nimbus easy 22/1 GoM von Nimbus Health. THC: 22%, CBD: 1%. Sorte: Gul of Mexiko. Preis ab 4,75 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/nimbus-easy-221-gom",
+      "canonical": "https://cannabisblueten.de/product/nimbus-easy-221-gom",
       "robots": {
         "index": true,
         "follow": true
@@ -111,9 +111,9 @@
       "openGraph": {
         "title": "Nimbus easy 22/1 GoM - Nimbus Health | ab 4,75 €",
         "description": "Nimbus easy 22/1 GoM von Nimbus Health. THC: 22%, CBD: 1%. Sorte: Gul of Mexiko. Preis ab 4,75 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/nimbus-easy-221-gom",
+        "url": "https://cannabisblueten.de/product/nimbus-easy-221-gom",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/nimbus-easy-221-gom-080j0f.png"
       }
@@ -121,19 +121,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Nimbus Health",
-        "href": "https://weed.de/brand/nimbus-health"
+        "href": "https://cannabisblueten.de/brand/nimbus-health"
       },
       {
         "name": "Nimbus easy 22/1 GoM",
-        "href": "https://weed.de/product/nimbus-easy-221-gom"
+        "href": "https://cannabisblueten.de/product/nimbus-easy-221-gom"
       }
     ],
     "schema": [
@@ -145,19 +145,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Nimbus easy 22/1 GoM",
-            "item": "https://weed.de/product/nimbus-easy-221-gom"
+            "item": "https://cannabisblueten.de/product/nimbus-easy-221-gom"
           }
         ]
       },
@@ -165,11 +165,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Nimbus easy 22/1 GoM",
+        "url": "https://cannabisblueten.de/product/nimbus-easy-221-gom",
         "brand": {
           "@type": "Brand",
           "name": "Nimbus Health"
         },
-        "description": "THC: 22%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 22%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/nimbus-easy-221-gom",
+          "priceCurrency": "EUR",
+          "price": "4.75",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.75",
+            "maxPrice": "8.99",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

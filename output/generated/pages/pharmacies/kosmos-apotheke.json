@@ -65,7 +65,7 @@
     "meta": {
       "title": "Cannakosmos - Cannabis Apotheke in Nürnberg",
       "description": "Cannakosmos in Nürnberg. 33 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/kosmos-apotheke",
+      "canonical": "https://cannabisblueten.de/apotheke/kosmos-apotheke",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Cannakosmos - Cannabis Apotheke in Nürnberg",
         "description": "Cannakosmos in Nürnberg. 33 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/kosmos-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/kosmos-apotheke",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/67c05040a673edc8d982bfaf-5e11fe.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Nürnberg",
-        "href": "https://weed.de/cannabis-apotheke/nuernberg"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/nuernberg"
       },
       {
         "name": "Cannakosmos",
-        "href": "https://weed.de/apotheke/kosmos-apotheke"
+        "href": "https://cannabisblueten.de/apotheke/kosmos-apotheke"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Nürnberg",
-            "item": "https://weed.de/cannabis-apotheke/nuernberg"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/nuernberg"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Cannakosmos",
-            "item": "https://weed.de/apotheke/kosmos-apotheke"
+            "item": "https://cannabisblueten.de/apotheke/kosmos-apotheke"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Cannakosmos",
-        "url": "https://weed.de/apotheke/kosmos-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/kosmos-apotheke",
+        "description": "Cannabis Apotheke in Nürnberg. 33 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Allersberger Straße 96",
@@ -142,8 +143,37 @@
           "addressRegion": "Bayern",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 49.4395152,
+          "longitude": 11.0900986
+        },
         "telephone": "0911449696",
-        "email": "info@cannakosmos.de"
+        "email": "info@cannakosmos.de",
+        "sameAs": "http://www.cannakosmos.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5.0",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
       }
     ]
   },

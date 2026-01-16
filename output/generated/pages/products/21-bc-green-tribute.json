@@ -121,7 +121,7 @@
     "meta": {
       "title": "20/1 BC Green Tribute | ab 4,94 €",
       "description": "20/1 BC Green Tribute von BC Green. THC: 20%, CBD: 1%. Sorte: Tribute 7. Preis ab 4,94 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/21-bc-green-tribute",
+      "canonical": "https://cannabisblueten.de/product/21-bc-green-tribute",
       "robots": {
         "index": true,
         "follow": true
@@ -129,28 +129,28 @@
       "openGraph": {
         "title": "20/1 BC Green Tribute | ab 4,94 €",
         "description": "20/1 BC Green Tribute von BC Green. THC: 20%, CBD: 1%. Sorte: Tribute 7. Preis ab 4,94 €. Preise vergleichen.",
-        "url": "https://weed.de/product/21-bc-green-tribute",
+        "url": "https://cannabisblueten.de/product/21-bc-green-tribute",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "BC Green",
-        "href": "https://weed.de/brand/bc-green"
+        "href": "https://cannabisblueten.de/brand/bc-green"
       },
       {
         "name": "20/1 BC Green Tribute",
-        "href": "https://weed.de/product/21-bc-green-tribute"
+        "href": "https://cannabisblueten.de/product/21-bc-green-tribute"
       }
     ],
     "schema": [
@@ -162,19 +162,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "20/1 BC Green Tribute",
-            "item": "https://weed.de/product/21-bc-green-tribute"
+            "item": "https://cannabisblueten.de/product/21-bc-green-tribute"
           }
         ]
       },
@@ -182,11 +182,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "20/1 BC Green Tribute",
+        "url": "https://cannabisblueten.de/product/21-bc-green-tribute",
         "brand": {
           "@type": "Brand",
           "name": "BC Green"
         },
-        "description": "THC: 20%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 20%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/21-bc-green-tribute",
+          "priceCurrency": "EUR",
+          "price": "4.94",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

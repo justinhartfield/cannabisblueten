@@ -65,7 +65,7 @@
     "meta": {
       "title": "3Königen Apotheke - Cannabis Apotheke in Krefeld",
       "description": "3Königen Apotheke in Krefeld. 10 Cannabis Produkte. Lieferung & Abholung. Bewertung: 1.0/5. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/3koenigen-apotheke",
+      "canonical": "https://cannabisblueten.de/apotheke/3koenigen-apotheke",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "3Königen Apotheke - Cannabis Apotheke in Krefeld",
         "description": "3Königen Apotheke in Krefeld. 10 Cannabis Produkte. Lieferung & Abholung. Bewertung: 1.0/5. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/3koenigen-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/3koenigen-apotheke",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/6740628267d721134a69e9c0-bjfe43.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Krefeld",
-        "href": "https://weed.de/cannabis-apotheke/krefeld"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/krefeld"
       },
       {
         "name": "3Königen Apotheke",
-        "href": "https://weed.de/apotheke/3koenigen-apotheke"
+        "href": "https://cannabisblueten.de/apotheke/3koenigen-apotheke"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Krefeld",
-            "item": "https://weed.de/cannabis-apotheke/krefeld"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/krefeld"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "3Königen Apotheke",
-            "item": "https://weed.de/apotheke/3koenigen-apotheke"
+            "item": "https://cannabisblueten.de/apotheke/3koenigen-apotheke"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "3Königen Apotheke",
-        "url": "https://weed.de/apotheke/3koenigen-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/3koenigen-apotheke",
+        "description": "Cannabis Apotheke in Krefeld. 10 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Ostwall 97",
@@ -142,8 +143,36 @@
           "addressRegion": "Nordrhein-Westfalen",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 51.3306361,
+          "longitude": 6.567475099999999
+        },
         "telephone": "021519132032",
-        "email": "info@3koenigen-apotheke.de"
+        "email": "info@3koenigen-apotheke.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "1.0",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
       }
     ]
   },

@@ -120,7 +120,7 @@
     "meta": {
       "title": "IMC GP5 THC28 Selected IBP | ab 6,43 €",
       "description": "IMC GP5 THC28 Selected IBP von IMC. THC: 28%, CBD: 1%. Sorte: Icy Biscotti Pop. Preis ab 6,43 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/imc-gp5-thc28-selected-ibp",
+      "canonical": "https://cannabisblueten.de/product/imc-gp5-thc28-selected-ibp",
       "robots": {
         "index": true,
         "follow": true
@@ -128,9 +128,9 @@
       "openGraph": {
         "title": "IMC GP5 THC28 Selected IBP | ab 6,43 €",
         "description": "IMC GP5 THC28 Selected IBP von IMC. THC: 28%, CBD: 1%. Sorte: Icy Biscotti Pop. Preis ab 6,43 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/imc-gp5-thc28-selected-ibp",
+        "url": "https://cannabisblueten.de/product/imc-gp5-thc28-selected-ibp",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/imc-gp5-thc28-selected-ibp-chg9ia.png"
       }
@@ -138,19 +138,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "IMC",
-        "href": "https://weed.de/brand/imc"
+        "href": "https://cannabisblueten.de/brand/imc"
       },
       {
         "name": "IMC GP5 THC28 Selected IBP",
-        "href": "https://weed.de/product/imc-gp5-thc28-selected-ibp"
+        "href": "https://cannabisblueten.de/product/imc-gp5-thc28-selected-ibp"
       }
     ],
     "schema": [
@@ -162,19 +162,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "IMC GP5 THC28 Selected IBP",
-            "item": "https://weed.de/product/imc-gp5-thc28-selected-ibp"
+            "item": "https://cannabisblueten.de/product/imc-gp5-thc28-selected-ibp"
           }
         ]
       },
@@ -182,11 +182,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "IMC GP5 THC28 Selected IBP",
+        "url": "https://cannabisblueten.de/product/imc-gp5-thc28-selected-ibp",
         "brand": {
           "@type": "Brand",
           "name": "IMC"
         },
-        "description": "THC: 28%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 28%, CBD: 1%, Genetik: indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/imc-gp5-thc28-selected-ibp",
+          "priceCurrency": "EUR",
+          "price": "6.43",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "6.43",
+            "maxPrice": "6.50",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

@@ -107,7 +107,7 @@
     "meta": {
       "title": "Bedrobinol Cannabis Flos 14/1 - Bedrocan International | ...",
       "description": "Bedrobinol Cannabis Flos 14/1 von Bedrocan International. THC: 14%, CBD: 1%. Sorte: Ludina. Preis ab 9,99 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/bedrobinol-cannabis-flos-141",
+      "canonical": "https://cannabisblueten.de/product/bedrobinol-cannabis-flos-141",
       "robots": {
         "index": true,
         "follow": true
@@ -115,9 +115,9 @@
       "openGraph": {
         "title": "Bedrobinol Cannabis Flos 14/1 - Bedrocan International | ...",
         "description": "Bedrobinol Cannabis Flos 14/1 von Bedrocan International. THC: 14%, CBD: 1%. Sorte: Ludina. Preis ab 9,99 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/bedrobinol-cannabis-flos-141",
+        "url": "https://cannabisblueten.de/product/bedrobinol-cannabis-flos-141",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/bedrobinol-cannabis-flos-141-g8d5ee.webp"
       }
@@ -125,19 +125,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Bedrocan International",
-        "href": "https://weed.de/brand/bedrocan-international"
+        "href": "https://cannabisblueten.de/brand/bedrocan-international"
       },
       {
         "name": "Bedrobinol Cannabis Flos 14/1",
-        "href": "https://weed.de/product/bedrobinol-cannabis-flos-141"
+        "href": "https://cannabisblueten.de/product/bedrobinol-cannabis-flos-141"
       }
     ],
     "schema": [
@@ -149,19 +149,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Bedrobinol Cannabis Flos 14/1",
-            "item": "https://weed.de/product/bedrobinol-cannabis-flos-141"
+            "item": "https://cannabisblueten.de/product/bedrobinol-cannabis-flos-141"
           }
         ]
       },
@@ -169,11 +169,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Bedrobinol Cannabis Flos 14/1",
+        "url": "https://cannabisblueten.de/product/bedrobinol-cannabis-flos-141",
         "brand": {
           "@type": "Brand",
           "name": "Bedrocan International"
         },
-        "description": "THC: 14%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 14%, CBD: 1%, Genetik: sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/bedrobinol-cannabis-flos-141",
+          "priceCurrency": "EUR",
+          "price": "9.99",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "9.99",
+            "maxPrice": "10.15",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

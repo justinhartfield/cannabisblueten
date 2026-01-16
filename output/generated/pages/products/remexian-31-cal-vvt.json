@@ -118,7 +118,7 @@
     "meta": {
       "title": "Remexian 30/1 CAL VVT - Remexian Pharma | ab 5,34 €",
       "description": "Remexian 30/1 CAL VVT von Remexian Pharma. THC: 29%, CBD: 1%. Sorte: Valvetron. Preis ab 5,34 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/remexian-31-cal-vvt",
+      "canonical": "https://cannabisblueten.de/product/remexian-31-cal-vvt",
       "robots": {
         "index": true,
         "follow": true
@@ -126,28 +126,28 @@
       "openGraph": {
         "title": "Remexian 30/1 CAL VVT - Remexian Pharma | ab 5,34 €",
         "description": "Remexian 30/1 CAL VVT von Remexian Pharma. THC: 29%, CBD: 1%. Sorte: Valvetron. Preis ab 5,34 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/remexian-31-cal-vvt",
+        "url": "https://cannabisblueten.de/product/remexian-31-cal-vvt",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Remexian Pharma",
-        "href": "https://weed.de/brand/remexian-pharma"
+        "href": "https://cannabisblueten.de/brand/remexian-pharma"
       },
       {
         "name": "Remexian 30/1 CAL VVT",
-        "href": "https://weed.de/product/remexian-31-cal-vvt"
+        "href": "https://cannabisblueten.de/product/remexian-31-cal-vvt"
       }
     ],
     "schema": [
@@ -159,19 +159,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Remexian 30/1 CAL VVT",
-            "item": "https://weed.de/product/remexian-31-cal-vvt"
+            "item": "https://cannabisblueten.de/product/remexian-31-cal-vvt"
           }
         ]
       },
@@ -179,11 +179,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Remexian 30/1 CAL VVT",
+        "url": "https://cannabisblueten.de/product/remexian-31-cal-vvt",
         "brand": {
           "@type": "Brand",
           "name": "Remexian Pharma"
         },
-        "description": "THC: 29%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 29%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/remexian-31-cal-vvt",
+          "priceCurrency": "EUR",
+          "price": "5.34",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

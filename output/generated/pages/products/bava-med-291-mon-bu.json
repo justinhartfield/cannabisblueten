@@ -104,7 +104,7 @@
     "meta": {
       "title": "Bava Med 29/1 MON - BU - bava medical | ab 8,50 €",
       "description": "Bava Med 29/1 MON - BU von bava medical. THC: 29%, CBD: 1%. Sorte: Monkey Butter. Preis ab 8,50 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/bava-med-291-mon-bu",
+      "canonical": "https://cannabisblueten.de/product/bava-med-291-mon-bu",
       "robots": {
         "index": true,
         "follow": true
@@ -112,28 +112,28 @@
       "openGraph": {
         "title": "Bava Med 29/1 MON - BU - bava medical | ab 8,50 €",
         "description": "Bava Med 29/1 MON - BU von bava medical. THC: 29%, CBD: 1%. Sorte: Monkey Butter. Preis ab 8,50 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/bava-med-291-mon-bu",
+        "url": "https://cannabisblueten.de/product/bava-med-291-mon-bu",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "bava medical",
-        "href": "https://weed.de/brand/bava-medical"
+        "href": "https://cannabisblueten.de/brand/bava-medical"
       },
       {
         "name": "Bava Med 29/1 MON - BU",
-        "href": "https://weed.de/product/bava-med-291-mon-bu"
+        "href": "https://cannabisblueten.de/product/bava-med-291-mon-bu"
       }
     ],
     "schema": [
@@ -145,19 +145,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Bava Med 29/1 MON - BU",
-            "item": "https://weed.de/product/bava-med-291-mon-bu"
+            "item": "https://cannabisblueten.de/product/bava-med-291-mon-bu"
           }
         ]
       },
@@ -165,11 +165,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Bava Med 29/1 MON - BU",
+        "url": "https://cannabisblueten.de/product/bava-med-291-mon-bu",
         "brand": {
           "@type": "Brand",
           "name": "bava medical"
         },
-        "description": "THC: 29%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 29%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/bava-med-291-mon-bu",
+          "priceCurrency": "EUR",
+          "price": "8.50",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

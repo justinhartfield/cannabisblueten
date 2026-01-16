@@ -115,7 +115,7 @@
     "meta": {
       "title": "TruHC LL 25 - Four 20 Pharma | ab 5,95 €",
       "description": "TruHC LL 25 von Four 20 Pharma. THC: 24%, CBD: 1%. Sorte: Legendary Larry. Preis ab 5,95 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/truhc-ll-25",
+      "canonical": "https://cannabisblueten.de/product/truhc-ll-25",
       "robots": {
         "index": true,
         "follow": true
@@ -123,9 +123,9 @@
       "openGraph": {
         "title": "TruHC LL 25 - Four 20 Pharma | ab 5,95 €",
         "description": "TruHC LL 25 von Four 20 Pharma. THC: 24%, CBD: 1%. Sorte: Legendary Larry. Preis ab 5,95 €. Preise vergleichen.",
-        "url": "https://weed.de/product/truhc-ll-25",
+        "url": "https://cannabisblueten.de/product/truhc-ll-25",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/truhc-ll-25-hdi1h5.webp"
       }
@@ -133,19 +133,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Four 20 Pharma",
-        "href": "https://weed.de/brand/four-20-pharma"
+        "href": "https://cannabisblueten.de/brand/four-20-pharma"
       },
       {
         "name": "TruHC LL 25",
-        "href": "https://weed.de/product/truhc-ll-25"
+        "href": "https://cannabisblueten.de/product/truhc-ll-25"
       }
     ],
     "schema": [
@@ -157,19 +157,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "TruHC LL 25",
-            "item": "https://weed.de/product/truhc-ll-25"
+            "item": "https://cannabisblueten.de/product/truhc-ll-25"
           }
         ]
       },
@@ -177,11 +177,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "TruHC LL 25",
+        "url": "https://cannabisblueten.de/product/truhc-ll-25",
         "brand": {
           "@type": "Brand",
           "name": "Four 20 Pharma"
         },
-        "description": "THC: 24%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 24%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/truhc-ll-25",
+          "priceCurrency": "EUR",
+          "price": "5.95",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

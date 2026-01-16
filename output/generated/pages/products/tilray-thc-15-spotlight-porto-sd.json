@@ -106,7 +106,7 @@
     "meta": {
       "title": "Tilray THC 15 Spotlight Porto SD | ab 9,20 €",
       "description": "Tilray THC 15 Spotlight Porto SD von Tilray. THC: 15%, CBD: 1%. Sorte: Sour Diesel. Preis ab 9,20 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/tilray-thc-15-spotlight-porto-sd",
+      "canonical": "https://cannabisblueten.de/product/tilray-thc-15-spotlight-porto-sd",
       "robots": {
         "index": true,
         "follow": true
@@ -114,9 +114,9 @@
       "openGraph": {
         "title": "Tilray THC 15 Spotlight Porto SD | ab 9,20 €",
         "description": "Tilray THC 15 Spotlight Porto SD von Tilray. THC: 15%, CBD: 1%. Sorte: Sour Diesel. Preis ab 9,20 €. Preise vergleichen.",
-        "url": "https://weed.de/product/tilray-thc-15-spotlight-porto-sd",
+        "url": "https://cannabisblueten.de/product/tilray-thc-15-spotlight-porto-sd",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/tilray-thc-15-spotlight-porto-sd-0ba7cd.png"
       }
@@ -124,19 +124,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Tilray",
-        "href": "https://weed.de/brand/tilray"
+        "href": "https://cannabisblueten.de/brand/tilray"
       },
       {
         "name": "Tilray THC 15 Spotlight Porto SD",
-        "href": "https://weed.de/product/tilray-thc-15-spotlight-porto-sd"
+        "href": "https://cannabisblueten.de/product/tilray-thc-15-spotlight-porto-sd"
       }
     ],
     "schema": [
@@ -148,19 +148,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Tilray THC 15 Spotlight Porto SD",
-            "item": "https://weed.de/product/tilray-thc-15-spotlight-porto-sd"
+            "item": "https://cannabisblueten.de/product/tilray-thc-15-spotlight-porto-sd"
           }
         ]
       },
@@ -168,11 +168,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Tilray THC 15 Spotlight Porto SD",
+        "url": "https://cannabisblueten.de/product/tilray-thc-15-spotlight-porto-sd",
         "brand": {
           "@type": "Brand",
           "name": "Tilray"
         },
-        "description": "THC: 15%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 15%, CBD: 1%, Genetik: sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/tilray-thc-15-spotlight-porto-sd",
+          "priceCurrency": "EUR",
+          "price": "9.20",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

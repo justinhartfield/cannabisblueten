@@ -102,7 +102,7 @@
     "meta": {
       "title": "Luana Kush 20/1 - Cannamedical | ab 3,95 €",
       "description": "Luana Kush 20/1 von Cannamedical. THC: 21%, CBD: 1%. Sorte: Hippie Kush. Preis ab 3,95 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/luana-kush-21",
+      "canonical": "https://cannabisblueten.de/product/luana-kush-21",
       "robots": {
         "index": true,
         "follow": true
@@ -110,28 +110,28 @@
       "openGraph": {
         "title": "Luana Kush 20/1 - Cannamedical | ab 3,95 €",
         "description": "Luana Kush 20/1 von Cannamedical. THC: 21%, CBD: 1%. Sorte: Hippie Kush. Preis ab 3,95 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/luana-kush-21",
+        "url": "https://cannabisblueten.de/product/luana-kush-21",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cannamedical",
-        "href": "https://weed.de/brand/cannamedical"
+        "href": "https://cannabisblueten.de/brand/cannamedical"
       },
       {
         "name": "Luana Kush 20/1",
-        "href": "https://weed.de/product/luana-kush-21"
+        "href": "https://cannabisblueten.de/product/luana-kush-21"
       }
     ],
     "schema": [
@@ -143,19 +143,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Luana Kush 20/1",
-            "item": "https://weed.de/product/luana-kush-21"
+            "item": "https://cannabisblueten.de/product/luana-kush-21"
           }
         ]
       },
@@ -163,11 +163,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Luana Kush 20/1",
+        "url": "https://cannabisblueten.de/product/luana-kush-21",
         "brand": {
           "@type": "Brand",
           "name": "Cannamedical"
         },
-        "description": "THC: 21%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 21%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/luana-kush-21",
+          "priceCurrency": "EUR",
+          "price": "3.95",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "3.95",
+            "maxPrice": "5.99",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

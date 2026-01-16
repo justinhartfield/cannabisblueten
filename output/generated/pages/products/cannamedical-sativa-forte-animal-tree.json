@@ -102,7 +102,7 @@
     "meta": {
       "title": "Cannamedical Sativa forte Animal Tree | ab 5,99 €",
       "description": "Cannamedical Sativa forte Animal Tree von Cannamedical. THC: 23.2%, CBD: 1%. Sorte: Animal Tree. Preis ab 5,99 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/cannamedical-sativa-forte-animal-tree",
+      "canonical": "https://cannabisblueten.de/product/cannamedical-sativa-forte-animal-tree",
       "robots": {
         "index": true,
         "follow": true
@@ -110,9 +110,9 @@
       "openGraph": {
         "title": "Cannamedical Sativa forte Animal Tree | ab 5,99 €",
         "description": "Cannamedical Sativa forte Animal Tree von Cannamedical. THC: 23.2%, CBD: 1%. Sorte: Animal Tree. Preis ab 5,99 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/cannamedical-sativa-forte-animal-tree",
+        "url": "https://cannabisblueten.de/product/cannamedical-sativa-forte-animal-tree",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/cannamedical-sativa-forte-animal-tree-5ehb1a.webp"
       }
@@ -120,19 +120,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cannamedical",
-        "href": "https://weed.de/brand/cannamedical"
+        "href": "https://cannabisblueten.de/brand/cannamedical"
       },
       {
         "name": "Cannamedical Sativa forte Animal Tree",
-        "href": "https://weed.de/product/cannamedical-sativa-forte-animal-tree"
+        "href": "https://cannabisblueten.de/product/cannamedical-sativa-forte-animal-tree"
       }
     ],
     "schema": [
@@ -144,19 +144,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Cannamedical Sativa forte Animal Tree",
-            "item": "https://weed.de/product/cannamedical-sativa-forte-animal-tree"
+            "item": "https://cannabisblueten.de/product/cannamedical-sativa-forte-animal-tree"
           }
         ]
       },
@@ -164,11 +164,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Cannamedical Sativa forte Animal Tree",
+        "url": "https://cannabisblueten.de/product/cannamedical-sativa-forte-animal-tree",
         "brand": {
           "@type": "Brand",
           "name": "Cannamedical"
         },
-        "description": "THC: 23.2%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 23.2%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/cannamedical-sativa-forte-animal-tree",
+          "priceCurrency": "EUR",
+          "price": "5.99",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

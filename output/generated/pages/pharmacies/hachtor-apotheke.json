@@ -65,7 +65,7 @@
     "meta": {
       "title": "Hachtor-Apotheke - Cannabis Apotheke in Rüthen",
       "description": "Hachtor-Apotheke in Rüthen. 6 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/hachtor-apotheke",
+      "canonical": "https://cannabisblueten.de/apotheke/hachtor-apotheke",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Hachtor-Apotheke - Cannabis Apotheke in Rüthen",
         "description": "Hachtor-Apotheke in Rüthen. 6 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/hachtor-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/hachtor-apotheke",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/685cf6f3ad6bc5b2a601ebf8-5f766i.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Rüthen",
-        "href": "https://weed.de/cannabis-apotheke/ruethen"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/ruethen"
       },
       {
         "name": "Hachtor-Apotheke",
-        "href": "https://weed.de/apotheke/hachtor-apotheke"
+        "href": "https://cannabisblueten.de/apotheke/hachtor-apotheke"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Rüthen",
-            "item": "https://weed.de/cannabis-apotheke/ruethen"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/ruethen"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Hachtor-Apotheke",
-            "item": "https://weed.de/apotheke/hachtor-apotheke"
+            "item": "https://cannabisblueten.de/apotheke/hachtor-apotheke"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Hachtor-Apotheke",
-        "url": "https://weed.de/apotheke/hachtor-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/hachtor-apotheke",
+        "description": "Cannabis Apotheke in Rüthen. 6 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Hochstraße 8",
@@ -142,8 +143,31 @@
           "addressRegion": "Nordrhein-Westfalen",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 51.491691,
+          "longitude": 8.432458
+        },
         "telephone": "0295289222",
-        "email": "info@hachtor-apotheke.de"
+        "email": "info@hachtor-apotheke.de",
+        "sameAs": "www.hachtor.apotheke.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ]
       }
     ]
   },

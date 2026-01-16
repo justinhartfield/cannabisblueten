@@ -111,7 +111,7 @@
     "meta": {
       "title": "Demecan CRAFT Marker 25:01 MM#2 | ab 8,50 €",
       "description": "Demecan CRAFT Marker 25:01 MM#2 von Demecan. THC: 25%, CBD: 1%. Sorte: Magic Marker #2. Preis ab 8,50 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/demecan-craft-marker-251-mm2",
+      "canonical": "https://cannabisblueten.de/product/demecan-craft-marker-251-mm2",
       "robots": {
         "index": true,
         "follow": true
@@ -119,9 +119,9 @@
       "openGraph": {
         "title": "Demecan CRAFT Marker 25:01 MM#2 | ab 8,50 €",
         "description": "Demecan CRAFT Marker 25:01 MM#2 von Demecan. THC: 25%, CBD: 1%. Sorte: Magic Marker #2. Preis ab 8,50 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/demecan-craft-marker-251-mm2",
+        "url": "https://cannabisblueten.de/product/demecan-craft-marker-251-mm2",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/demecan-craft-marker-251-mm2-c2c5d0.png"
       }
@@ -129,19 +129,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Demecan",
-        "href": "https://weed.de/brand/demecan"
+        "href": "https://cannabisblueten.de/brand/demecan"
       },
       {
         "name": "Demecan CRAFT Marker 25:01 MM#2",
-        "href": "https://weed.de/product/demecan-craft-marker-251-mm2"
+        "href": "https://cannabisblueten.de/product/demecan-craft-marker-251-mm2"
       }
     ],
     "schema": [
@@ -153,19 +153,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Demecan CRAFT Marker 25:01 MM#2",
-            "item": "https://weed.de/product/demecan-craft-marker-251-mm2"
+            "item": "https://cannabisblueten.de/product/demecan-craft-marker-251-mm2"
           }
         ]
       },
@@ -173,11 +173,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Demecan CRAFT Marker 25:01 MM#2",
+        "url": "https://cannabisblueten.de/product/demecan-craft-marker-251-mm2",
         "brand": {
           "@type": "Brand",
           "name": "Demecan"
         },
-        "description": "THC: 25%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 25%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/demecan-craft-marker-251-mm2",
+          "priceCurrency": "EUR",
+          "price": "8.50",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

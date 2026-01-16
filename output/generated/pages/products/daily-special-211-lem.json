@@ -115,7 +115,7 @@
     "meta": {
       "title": "Daily Special 21/1 LEM - Aurora | ab 4,77 €",
       "description": "Daily Special 21/1 LEM von Aurora. THC: 21%, CBD: 1%. Sorte: Lemonatti. Preis ab 4,77 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/daily-special-211-lem",
+      "canonical": "https://cannabisblueten.de/product/daily-special-211-lem",
       "robots": {
         "index": true,
         "follow": true
@@ -123,28 +123,28 @@
       "openGraph": {
         "title": "Daily Special 21/1 LEM - Aurora | ab 4,77 €",
         "description": "Daily Special 21/1 LEM von Aurora. THC: 21%, CBD: 1%. Sorte: Lemonatti. Preis ab 4,77 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/daily-special-211-lem",
+        "url": "https://cannabisblueten.de/product/daily-special-211-lem",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Aurora",
-        "href": "https://weed.de/brand/aurora"
+        "href": "https://cannabisblueten.de/brand/aurora"
       },
       {
         "name": "Daily Special 21/1 LEM",
-        "href": "https://weed.de/product/daily-special-211-lem"
+        "href": "https://cannabisblueten.de/product/daily-special-211-lem"
       }
     ],
     "schema": [
@@ -156,19 +156,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Daily Special 21/1 LEM",
-            "item": "https://weed.de/product/daily-special-211-lem"
+            "item": "https://cannabisblueten.de/product/daily-special-211-lem"
           }
         ]
       },
@@ -176,11 +176,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Daily Special 21/1 LEM",
+        "url": "https://cannabisblueten.de/product/daily-special-211-lem",
         "brand": {
           "@type": "Brand",
           "name": "Aurora"
         },
-        "description": "THC: 21%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 21%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/daily-special-211-lem",
+          "priceCurrency": "EUR",
+          "price": "4.77",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.77",
+            "maxPrice": "6.99",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

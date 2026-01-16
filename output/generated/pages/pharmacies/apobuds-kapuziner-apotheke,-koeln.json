@@ -65,7 +65,7 @@
     "meta": {
       "title": "Kapuziner Apotheke, Köln - Cannabis Apotheke in Köln",
       "description": "Kapuziner Apotheke, Köln in Köln. 23 Cannabis Produkte. Abholung. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/apobuds-kapuziner-apotheke,-koeln",
+      "canonical": "https://cannabisblueten.de/apotheke/apobuds-kapuziner-apotheke,-koeln",
       "robots": {
         "index": true,
         "follow": true
@@ -73,28 +73,28 @@
       "openGraph": {
         "title": "Kapuziner Apotheke, Köln - Cannabis Apotheke in Köln",
         "description": "Kapuziner Apotheke, Köln in Köln. 23 Cannabis Produkte. Abholung. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/apobuds-kapuziner-apotheke,-koeln",
+        "url": "https://cannabisblueten.de/apotheke/apobuds-kapuziner-apotheke,-koeln",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Köln",
-        "href": "https://weed.de/cannabis-apotheke/koeln"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/koeln"
       },
       {
         "name": "Kapuziner Apotheke, Köln",
-        "href": "https://weed.de/apotheke/apobuds-kapuziner-apotheke,-koeln"
+        "href": "https://cannabisblueten.de/apotheke/apobuds-kapuziner-apotheke,-koeln"
       }
     ],
     "schema": [
@@ -106,25 +106,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Köln",
-            "item": "https://weed.de/cannabis-apotheke/koeln"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/koeln"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Kapuziner Apotheke, Köln",
-            "item": "https://weed.de/apotheke/apobuds-kapuziner-apotheke,-koeln"
+            "item": "https://cannabisblueten.de/apotheke/apobuds-kapuziner-apotheke,-koeln"
           }
         ]
       },
@@ -132,7 +132,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Kapuziner Apotheke, Köln",
-        "url": "https://weed.de/apotheke/apobuds-kapuziner-apotheke,-koeln",
+        "url": "https://cannabisblueten.de/apotheke/apobuds-kapuziner-apotheke,-koeln",
+        "description": "Cannabis Apotheke in Köln. 23 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Neusser Straße 651",
@@ -141,8 +142,24 @@
           "addressRegion": "Nordrhein-Westfalen",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 50.9851775,
+          "longitude": 6.9464038
+        },
         "telephone": "+49221742121",
-        "email": "cannabis@kapuziner-apotheke.com"
+        "email": "cannabis@kapuziner-apotheke.com",
+        "sameAs": "https://kapuziner.apobuds.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ]
       }
     ]
   },

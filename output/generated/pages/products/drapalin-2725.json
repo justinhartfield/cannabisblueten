@@ -104,7 +104,7 @@
     "meta": {
       "title": "Drapalin 27/25 Cannabisextrak | ab 4,23 €",
       "description": "Drapalin 27/25 Cannabisextrak von Drapalin. THC: 27%, CBD: 25%. Sorte: M Runtz. Preis ab 4,23 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/drapalin-2725",
+      "canonical": "https://cannabisblueten.de/product/drapalin-2725",
       "robots": {
         "index": true,
         "follow": true
@@ -112,9 +112,9 @@
       "openGraph": {
         "title": "Drapalin 27/25 Cannabisextrak | ab 4,23 €",
         "description": "Drapalin 27/25 Cannabisextrak von Drapalin. THC: 27%, CBD: 25%. Sorte: M Runtz. Preis ab 4,23 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/drapalin-2725",
+        "url": "https://cannabisblueten.de/product/drapalin-2725",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/drapalin-2725-6e25e4.png"
       }
@@ -122,19 +122,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Drapalin",
-        "href": "https://weed.de/brand/drapalin"
+        "href": "https://cannabisblueten.de/brand/drapalin"
       },
       {
         "name": "Drapalin 27/25 Cannabisextrak",
-        "href": "https://weed.de/product/drapalin-2725"
+        "href": "https://cannabisblueten.de/product/drapalin-2725"
       }
     ],
     "schema": [
@@ -146,19 +146,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Drapalin 27/25 Cannabisextrak",
-            "item": "https://weed.de/product/drapalin-2725"
+            "item": "https://cannabisblueten.de/product/drapalin-2725"
           }
         ]
       },
@@ -166,11 +166,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Drapalin 27/25 Cannabisextrak",
+        "url": "https://cannabisblueten.de/product/drapalin-2725",
         "brand": {
           "@type": "Brand",
           "name": "Drapalin"
         },
-        "description": "THC: 27%, CBD: 25%"
+        "description": "Medizinisches Cannabis Produkt. THC: 27%, CBD: 25%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/drapalin-2725",
+          "priceCurrency": "EUR",
+          "price": "4.23",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.23",
+            "maxPrice": "6.25",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

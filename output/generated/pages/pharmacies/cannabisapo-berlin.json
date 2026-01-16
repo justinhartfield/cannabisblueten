@@ -65,7 +65,7 @@
     "meta": {
       "title": "Berlin Cannabis - Cannabis Apotheke in Berlin",
       "description": "Berlin Cannabis in Berlin. 16 Cannabis Produkte. Lieferung & Abholung. Bewertung: 4.6/5. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/cannabisapo-berlin",
+      "canonical": "https://cannabisblueten.de/apotheke/cannabisapo-berlin",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Berlin Cannabis - Cannabis Apotheke in Berlin",
         "description": "Berlin Cannabis in Berlin. 16 Cannabis Produkte. Lieferung & Abholung. Bewertung: 4.6/5. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/cannabisapo-berlin",
+        "url": "https://cannabisblueten.de/apotheke/cannabisapo-berlin",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/67f3ce469f626f3e3f13970e-5a8341.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Berlin",
-        "href": "https://weed.de/cannabis-apotheke/berlin"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/berlin"
       },
       {
         "name": "Berlin Cannabis",
-        "href": "https://weed.de/apotheke/cannabisapo-berlin"
+        "href": "https://cannabisblueten.de/apotheke/cannabisapo-berlin"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Berlin",
-            "item": "https://weed.de/cannabis-apotheke/berlin"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/berlin"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Berlin Cannabis",
-            "item": "https://weed.de/apotheke/cannabisapo-berlin"
+            "item": "https://cannabisblueten.de/apotheke/cannabisapo-berlin"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Berlin Cannabis",
-        "url": "https://weed.de/apotheke/cannabisapo-berlin",
+        "url": "https://cannabisblueten.de/apotheke/cannabisapo-berlin",
+        "description": "Cannabis Apotheke in Berlin. 16 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Reinickendorfer Straße 11-12",
@@ -142,8 +143,37 @@
           "addressRegion": "Berlin",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 52.5422483,
+          "longitude": 13.3701996
+        },
         "telephone": "0304652145",
-        "email": "info@berlincannabis.de"
+        "email": "info@berlincannabis.de",
+        "sameAs": "https://www.berlincannabis.de/",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
       }
     ]
   },

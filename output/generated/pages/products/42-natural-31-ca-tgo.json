@@ -108,7 +108,7 @@
     "meta": {
       "title": "420 Natural 30/1 CA TGO - Four 20 Pharma | ab 4,55 €",
       "description": "420 Natural 30/1 CA TGO von Four 20 Pharma. THC: 30%, CBD: 1%. Sorte: Triangle Octane. Preis ab 4,55 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/42-natural-31-ca-tgo",
+      "canonical": "https://cannabisblueten.de/product/42-natural-31-ca-tgo",
       "robots": {
         "index": true,
         "follow": true
@@ -116,9 +116,9 @@
       "openGraph": {
         "title": "420 Natural 30/1 CA TGO - Four 20 Pharma | ab 4,55 €",
         "description": "420 Natural 30/1 CA TGO von Four 20 Pharma. THC: 30%, CBD: 1%. Sorte: Triangle Octane. Preis ab 4,55 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/42-natural-31-ca-tgo",
+        "url": "https://cannabisblueten.de/product/42-natural-31-ca-tgo",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/42-natural-31-ca-tgo-faici3.jpeg"
       }
@@ -126,19 +126,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Four 20 Pharma",
-        "href": "https://weed.de/brand/four-20-pharma"
+        "href": "https://cannabisblueten.de/brand/four-20-pharma"
       },
       {
         "name": "420 Natural 30/1 CA TGO",
-        "href": "https://weed.de/product/42-natural-31-ca-tgo"
+        "href": "https://cannabisblueten.de/product/42-natural-31-ca-tgo"
       }
     ],
     "schema": [
@@ -150,19 +150,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "420 Natural 30/1 CA TGO",
-            "item": "https://weed.de/product/42-natural-31-ca-tgo"
+            "item": "https://cannabisblueten.de/product/42-natural-31-ca-tgo"
           }
         ]
       },
@@ -170,11 +170,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "420 Natural 30/1 CA TGO",
+        "url": "https://cannabisblueten.de/product/42-natural-31-ca-tgo",
         "brand": {
           "@type": "Brand",
           "name": "Four 20 Pharma"
         },
-        "description": "THC: 30%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 30%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/42-natural-31-ca-tgo",
+          "priceCurrency": "EUR",
+          "price": "4.55",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.55",
+            "maxPrice": "8.81",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

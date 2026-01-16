@@ -113,7 +113,7 @@
     "meta": {
       "title": "Pedanios 10/13 MBE-CA - Aurora | ab 7,35 €",
       "description": "Pedanios 10/13 MBE-CA von Aurora. THC: 10%, CBD: 13%. Sorte: Moon Berry. Preis ab 7,35 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/pedanios-1013-mbe-ca",
+      "canonical": "https://cannabisblueten.de/product/pedanios-1013-mbe-ca",
       "robots": {
         "index": true,
         "follow": true
@@ -121,9 +121,9 @@
       "openGraph": {
         "title": "Pedanios 10/13 MBE-CA - Aurora | ab 7,35 €",
         "description": "Pedanios 10/13 MBE-CA von Aurora. THC: 10%, CBD: 13%. Sorte: Moon Berry. Preis ab 7,35 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/pedanios-1013-mbe-ca",
+        "url": "https://cannabisblueten.de/product/pedanios-1013-mbe-ca",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/pedanios-1013-mbe-ca-bbff13.png"
       }
@@ -131,19 +131,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Aurora",
-        "href": "https://weed.de/brand/aurora"
+        "href": "https://cannabisblueten.de/brand/aurora"
       },
       {
         "name": "Pedanios 10/13 MBE-CA",
-        "href": "https://weed.de/product/pedanios-1013-mbe-ca"
+        "href": "https://cannabisblueten.de/product/pedanios-1013-mbe-ca"
       }
     ],
     "schema": [
@@ -155,19 +155,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Pedanios 10/13 MBE-CA",
-            "item": "https://weed.de/product/pedanios-1013-mbe-ca"
+            "item": "https://cannabisblueten.de/product/pedanios-1013-mbe-ca"
           }
         ]
       },
@@ -175,11 +175,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Pedanios 10/13 MBE-CA",
+        "url": "https://cannabisblueten.de/product/pedanios-1013-mbe-ca",
         "brand": {
           "@type": "Brand",
           "name": "Aurora"
         },
-        "description": "THC: 10%, CBD: 13%"
+        "description": "Medizinisches Cannabis Produkt. THC: 10%, CBD: 13%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/pedanios-1013-mbe-ca",
+          "priceCurrency": "EUR",
+          "price": "7.35",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "7.35",
+            "maxPrice": "15.00",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

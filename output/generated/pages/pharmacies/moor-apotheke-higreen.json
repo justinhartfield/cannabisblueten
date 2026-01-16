@@ -65,7 +65,7 @@
     "meta": {
       "title": "Moor Apotheke - higreen! - Cannabis Apotheke in Friesoythe",
       "description": "Moor Apotheke - higreen! in Friesoythe. Lieferung & Abholung. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/moor-apotheke-higreen",
+      "canonical": "https://cannabisblueten.de/apotheke/moor-apotheke-higreen",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Moor Apotheke - higreen! - Cannabis Apotheke in Friesoythe",
         "description": "Moor Apotheke - higreen! in Friesoythe. Lieferung & Abholung. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/moor-apotheke-higreen",
+        "url": "https://cannabisblueten.de/apotheke/moor-apotheke-higreen",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/680b7ebf0e367af9e99c4db1-jjbe40.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Friesoythe",
-        "href": "https://weed.de/cannabis-apotheke/friesoythe"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/friesoythe"
       },
       {
         "name": "Moor Apotheke - higreen!",
-        "href": "https://weed.de/apotheke/moor-apotheke-higreen"
+        "href": "https://cannabisblueten.de/apotheke/moor-apotheke-higreen"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Friesoythe",
-            "item": "https://weed.de/cannabis-apotheke/friesoythe"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/friesoythe"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Moor Apotheke - higreen!",
-            "item": "https://weed.de/apotheke/moor-apotheke-higreen"
+            "item": "https://cannabisblueten.de/apotheke/moor-apotheke-higreen"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Moor Apotheke - higreen!",
-        "url": "https://weed.de/apotheke/moor-apotheke-higreen",
+        "url": "https://cannabisblueten.de/apotheke/moor-apotheke-higreen",
+        "description": "Cannabis Apotheke in Friesoythe. 0 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Am Alten Hafen 18",
@@ -142,8 +143,31 @@
           "addressRegion": "Niedersachsen",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 53.019835,
+          "longitude": 7.8546368
+        },
         "telephone": "021154247777",
-        "email": "moorapotheke_clp@higreen.de"
+        "email": "moorapotheke_clp@higreen.de",
+        "sameAs": "https://www.moor-apotheke.de/",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ]
       }
     ]
   },

@@ -102,7 +102,7 @@
     "meta": {
       "title": "Remexian 27/1 CIV PKU - Remexian Pharma | ab 7,35 €",
       "description": "Remexian 27/1 CIV PKU von Remexian Pharma. THC: 27%, CBD: 1%. Sorte: Poison Kush. Preis ab 7,35 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/remexian-271-civ-pku",
+      "canonical": "https://cannabisblueten.de/product/remexian-271-civ-pku",
       "robots": {
         "index": true,
         "follow": true
@@ -110,28 +110,28 @@
       "openGraph": {
         "title": "Remexian 27/1 CIV PKU - Remexian Pharma | ab 7,35 €",
         "description": "Remexian 27/1 CIV PKU von Remexian Pharma. THC: 27%, CBD: 1%. Sorte: Poison Kush. Preis ab 7,35 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/remexian-271-civ-pku",
+        "url": "https://cannabisblueten.de/product/remexian-271-civ-pku",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Remexian Pharma",
-        "href": "https://weed.de/brand/remexian-pharma"
+        "href": "https://cannabisblueten.de/brand/remexian-pharma"
       },
       {
         "name": "Remexian 27/1 CIV PKU",
-        "href": "https://weed.de/product/remexian-271-civ-pku"
+        "href": "https://cannabisblueten.de/product/remexian-271-civ-pku"
       }
     ],
     "schema": [
@@ -143,19 +143,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Remexian 27/1 CIV PKU",
-            "item": "https://weed.de/product/remexian-271-civ-pku"
+            "item": "https://cannabisblueten.de/product/remexian-271-civ-pku"
           }
         ]
       },
@@ -163,11 +163,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Remexian 27/1 CIV PKU",
+        "url": "https://cannabisblueten.de/product/remexian-271-civ-pku",
         "brand": {
           "@type": "Brand",
           "name": "Remexian Pharma"
         },
-        "description": "THC: 27%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 27%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/remexian-271-civ-pku",
+          "priceCurrency": "EUR",
+          "price": "7.35",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

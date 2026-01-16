@@ -104,7 +104,7 @@
     "meta": {
       "title": "Wellford Peak 30/1 CA SPR - Therismos | ab 5,99 €",
       "description": "Wellford Peak 30/1 CA SPR von Therismos. THC: 30%, CBD: 1%. Sorte: Slurricane Pancakes Runtz. Preis ab 5,99 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/wellford-peak-31-ca-spr-slurricane-pancake-runtz",
+      "canonical": "https://cannabisblueten.de/product/wellford-peak-31-ca-spr-slurricane-pancake-runtz",
       "robots": {
         "index": true,
         "follow": true
@@ -112,9 +112,9 @@
       "openGraph": {
         "title": "Wellford Peak 30/1 CA SPR - Therismos | ab 5,99 €",
         "description": "Wellford Peak 30/1 CA SPR von Therismos. THC: 30%, CBD: 1%. Sorte: Slurricane Pancakes Runtz. Preis ab 5,99 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/wellford-peak-31-ca-spr-slurricane-pancake-runtz",
+        "url": "https://cannabisblueten.de/product/wellford-peak-31-ca-spr-slurricane-pancake-runtz",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/wellford-peak-31-ca-spr-slurricane-pancake-runtz-7ei04c.png"
       }
@@ -122,19 +122,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Therismos",
-        "href": "https://weed.de/brand/therismos"
+        "href": "https://cannabisblueten.de/brand/therismos"
       },
       {
         "name": "Wellford Peak 30/1 CA SPR",
-        "href": "https://weed.de/product/wellford-peak-31-ca-spr-slurricane-pancake-runtz"
+        "href": "https://cannabisblueten.de/product/wellford-peak-31-ca-spr-slurricane-pancake-runtz"
       }
     ],
     "schema": [
@@ -146,19 +146,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Wellford Peak 30/1 CA SPR",
-            "item": "https://weed.de/product/wellford-peak-31-ca-spr-slurricane-pancake-runtz"
+            "item": "https://cannabisblueten.de/product/wellford-peak-31-ca-spr-slurricane-pancake-runtz"
           }
         ]
       },
@@ -166,11 +166,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Wellford Peak 30/1 CA SPR",
+        "url": "https://cannabisblueten.de/product/wellford-peak-31-ca-spr-slurricane-pancake-runtz",
         "brand": {
           "@type": "Brand",
           "name": "Therismos"
         },
-        "description": "THC: 30%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 30%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/wellford-peak-31-ca-spr-slurricane-pancake-runtz",
+          "priceCurrency": "EUR",
+          "price": "5.99",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "5.99",
+            "maxPrice": "8.00",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

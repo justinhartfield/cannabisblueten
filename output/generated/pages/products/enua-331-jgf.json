@@ -104,7 +104,7 @@
     "meta": {
       "title": "enua 33/1 JGF | ab 6,90 €",
       "description": "enua 33/1 JGF von enua. THC: 33%, CBD: 1%. Sorte: Jungle Fumes. Preis ab 6,90 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/enua-331-jgf",
+      "canonical": "https://cannabisblueten.de/product/enua-331-jgf",
       "robots": {
         "index": true,
         "follow": true
@@ -112,9 +112,9 @@
       "openGraph": {
         "title": "enua 33/1 JGF | ab 6,90 €",
         "description": "enua 33/1 JGF von enua. THC: 33%, CBD: 1%. Sorte: Jungle Fumes. Preis ab 6,90 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/enua-331-jgf",
+        "url": "https://cannabisblueten.de/product/enua-331-jgf",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/enua-331-jgf-gbj8hg.jpeg"
       }
@@ -122,19 +122,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "enua",
-        "href": "https://weed.de/brand/enua"
+        "href": "https://cannabisblueten.de/brand/enua"
       },
       {
         "name": "enua 33/1 JGF",
-        "href": "https://weed.de/product/enua-331-jgf"
+        "href": "https://cannabisblueten.de/product/enua-331-jgf"
       }
     ],
     "schema": [
@@ -146,19 +146,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "enua 33/1 JGF",
-            "item": "https://weed.de/product/enua-331-jgf"
+            "item": "https://cannabisblueten.de/product/enua-331-jgf"
           }
         ]
       },
@@ -166,11 +166,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "enua 33/1 JGF",
+        "url": "https://cannabisblueten.de/product/enua-331-jgf",
         "brand": {
           "@type": "Brand",
           "name": "enua"
         },
-        "description": "THC: 33%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 33%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/enua-331-jgf",
+          "priceCurrency": "EUR",
+          "price": "6.90",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "6.90",
+            "maxPrice": "9.50",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

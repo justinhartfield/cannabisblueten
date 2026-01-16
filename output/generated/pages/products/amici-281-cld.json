@@ -108,7 +108,7 @@
     "meta": {
       "title": "Amici 28/1 CLD - Cansativa | ab 5,75 €",
       "description": "Amici 28/1 CLD von Cansativa. THC: 28%, CBD: 1%. Sorte: Clementine Dream. Preis ab 5,75 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/amici-281-cld",
+      "canonical": "https://cannabisblueten.de/product/amici-281-cld",
       "robots": {
         "index": true,
         "follow": true
@@ -116,9 +116,9 @@
       "openGraph": {
         "title": "Amici 28/1 CLD - Cansativa | ab 5,75 €",
         "description": "Amici 28/1 CLD von Cansativa. THC: 28%, CBD: 1%. Sorte: Clementine Dream. Preis ab 5,75 €. Preise vergleichen.",
-        "url": "https://weed.de/product/amici-281-cld",
+        "url": "https://cannabisblueten.de/product/amici-281-cld",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/amici-281-cld-74hg9d.png"
       }
@@ -126,19 +126,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cansativa",
-        "href": "https://weed.de/brand/cansativa"
+        "href": "https://cannabisblueten.de/brand/cansativa"
       },
       {
         "name": "Amici 28/1 CLD",
-        "href": "https://weed.de/product/amici-281-cld"
+        "href": "https://cannabisblueten.de/product/amici-281-cld"
       }
     ],
     "schema": [
@@ -150,19 +150,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Amici 28/1 CLD",
-            "item": "https://weed.de/product/amici-281-cld"
+            "item": "https://cannabisblueten.de/product/amici-281-cld"
           }
         ]
       },
@@ -170,11 +170,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Amici 28/1 CLD",
+        "url": "https://cannabisblueten.de/product/amici-281-cld",
         "brand": {
           "@type": "Brand",
           "name": "Cansativa"
         },
-        "description": "THC: 28%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 28%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/amici-281-cld",
+          "priceCurrency": "EUR",
+          "price": "5.75",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

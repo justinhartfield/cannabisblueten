@@ -65,7 +65,7 @@
     "meta": {
       "title": "bluetenpott.de - Cannabis Apotheke in Bochum",
       "description": "bluetenpott.de in Bochum. 61 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/bluetenpottde",
+      "canonical": "https://cannabisblueten.de/apotheke/bluetenpottde",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "bluetenpott.de - Cannabis Apotheke in Bochum",
         "description": "bluetenpott.de in Bochum. 61 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/bluetenpottde",
+        "url": "https://cannabisblueten.de/apotheke/bluetenpottde",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/pharmacies/bluetenpottde-bee8g7.png"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Bochum",
-        "href": "https://weed.de/cannabis-apotheke/bochum"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/bochum"
       },
       {
         "name": "bluetenpott.de",
-        "href": "https://weed.de/apotheke/bluetenpottde"
+        "href": "https://cannabisblueten.de/apotheke/bluetenpottde"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Bochum",
-            "item": "https://weed.de/cannabis-apotheke/bochum"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/bochum"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "bluetenpott.de",
-            "item": "https://weed.de/apotheke/bluetenpottde"
+            "item": "https://cannabisblueten.de/apotheke/bluetenpottde"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "bluetenpott.de",
-        "url": "https://weed.de/apotheke/bluetenpottde",
+        "url": "https://cannabisblueten.de/apotheke/bluetenpottde",
+        "description": "Cannabis Apotheke in Bochum. 61 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Weststraße 1",
@@ -142,8 +143,31 @@
           "addressRegion": "Nordrhein-Westfalen",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 51.481089,
+          "longitude": 7.1328966
+        },
         "telephone": "0232787173",
-        "email": "shop@bluetenpott.de"
+        "email": "shop@bluetenpott.de",
+        "sameAs": "Bluetenpott.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ]
       }
     ]
   },

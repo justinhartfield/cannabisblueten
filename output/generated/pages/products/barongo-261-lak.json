@@ -112,7 +112,7 @@
     "meta": {
       "title": "Barongo 26/1 LAK - WMG Pharma | ab 4,95 €",
       "description": "Barongo 26/1 LAK von WMG Pharma. THC: 26%, CBD: 1%. Sorte: Laker Kush. Preis ab 4,95 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/barongo-261-lak",
+      "canonical": "https://cannabisblueten.de/product/barongo-261-lak",
       "robots": {
         "index": true,
         "follow": true
@@ -120,9 +120,9 @@
       "openGraph": {
         "title": "Barongo 26/1 LAK - WMG Pharma | ab 4,95 €",
         "description": "Barongo 26/1 LAK von WMG Pharma. THC: 26%, CBD: 1%. Sorte: Laker Kush. Preis ab 4,95 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/barongo-261-lak",
+        "url": "https://cannabisblueten.de/product/barongo-261-lak",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/barongo-261-lak-dj2ge2.png"
       }
@@ -130,19 +130,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "WMG Pharma",
-        "href": "https://weed.de/brand/wmg-pharma"
+        "href": "https://cannabisblueten.de/brand/wmg-pharma"
       },
       {
         "name": "Barongo 26/1 LAK",
-        "href": "https://weed.de/product/barongo-261-lak"
+        "href": "https://cannabisblueten.de/product/barongo-261-lak"
       }
     ],
     "schema": [
@@ -154,19 +154,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Barongo 26/1 LAK",
-            "item": "https://weed.de/product/barongo-261-lak"
+            "item": "https://cannabisblueten.de/product/barongo-261-lak"
           }
         ]
       },
@@ -174,11 +174,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Barongo 26/1 LAK",
+        "url": "https://cannabisblueten.de/product/barongo-261-lak",
         "brand": {
           "@type": "Brand",
           "name": "WMG Pharma"
         },
-        "description": "THC: 26%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 26%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/barongo-261-lak",
+          "priceCurrency": "EUR",
+          "price": "4.95",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.95",
+            "maxPrice": "8.39",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

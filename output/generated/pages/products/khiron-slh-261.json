@@ -125,7 +125,7 @@
     "meta": {
       "title": "Khiron SLH 26/1 | ab 6,99 €",
       "description": "Khiron SLH 26/1 von Khiron. THC: 26%, CBD: 1%. Sorte: Super Lemon Haze. Preis ab 6,99 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/khiron-slh-261",
+      "canonical": "https://cannabisblueten.de/product/khiron-slh-261",
       "robots": {
         "index": true,
         "follow": true
@@ -133,28 +133,28 @@
       "openGraph": {
         "title": "Khiron SLH 26/1 | ab 6,99 €",
         "description": "Khiron SLH 26/1 von Khiron. THC: 26%, CBD: 1%. Sorte: Super Lemon Haze. Preis ab 6,99 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/khiron-slh-261",
+        "url": "https://cannabisblueten.de/product/khiron-slh-261",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Khiron",
-        "href": "https://weed.de/brand/khiron"
+        "href": "https://cannabisblueten.de/brand/khiron"
       },
       {
         "name": "Khiron SLH 26/1",
-        "href": "https://weed.de/product/khiron-slh-261"
+        "href": "https://cannabisblueten.de/product/khiron-slh-261"
       }
     ],
     "schema": [
@@ -166,19 +166,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Khiron SLH 26/1",
-            "item": "https://weed.de/product/khiron-slh-261"
+            "item": "https://cannabisblueten.de/product/khiron-slh-261"
           }
         ]
       },
@@ -186,11 +186,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Khiron SLH 26/1",
+        "url": "https://cannabisblueten.de/product/khiron-slh-261",
         "brand": {
           "@type": "Brand",
           "name": "Khiron"
         },
-        "description": "THC: 26%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 26%, CBD: 1%, Genetik: sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/khiron-slh-261",
+          "priceCurrency": "EUR",
+          "price": "6.99",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

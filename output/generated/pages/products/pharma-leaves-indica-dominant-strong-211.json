@@ -115,7 +115,7 @@
     "meta": {
       "title": "Pharma Leaves Indica dominant Strong 21/1 - California's ...",
       "description": "Pharma Leaves Indica dominant Strong 21/1 von California's Medical. THC: 20%, CBD: 1%. Sorte: Do-Si-Dos. Preis ab 3,95 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/pharma-leaves-indica-dominant-strong-211",
+      "canonical": "https://cannabisblueten.de/product/pharma-leaves-indica-dominant-strong-211",
       "robots": {
         "index": true,
         "follow": true
@@ -123,9 +123,9 @@
       "openGraph": {
         "title": "Pharma Leaves Indica dominant Strong 21/1 - California's ...",
         "description": "Pharma Leaves Indica dominant Strong 21/1 von California's Medical. THC: 20%, CBD: 1%. Sorte: Do-Si-Dos. Preis ab 3,95 €. Preise vergleichen.",
-        "url": "https://weed.de/product/pharma-leaves-indica-dominant-strong-211",
+        "url": "https://cannabisblueten.de/product/pharma-leaves-indica-dominant-strong-211",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/pharma-leaves-indica-dominant-strong-211-gfh8ij.png"
       }
@@ -133,19 +133,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "California's Medical",
-        "href": "https://weed.de/brand/california-s-medical"
+        "href": "https://cannabisblueten.de/brand/california-s-medical"
       },
       {
         "name": "Pharma Leaves Indica dominant Strong 21/1",
-        "href": "https://weed.de/product/pharma-leaves-indica-dominant-strong-211"
+        "href": "https://cannabisblueten.de/product/pharma-leaves-indica-dominant-strong-211"
       }
     ],
     "schema": [
@@ -157,19 +157,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Pharma Leaves Indica dominant Strong 21/1",
-            "item": "https://weed.de/product/pharma-leaves-indica-dominant-strong-211"
+            "item": "https://cannabisblueten.de/product/pharma-leaves-indica-dominant-strong-211"
           }
         ]
       },
@@ -177,11 +177,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Pharma Leaves Indica dominant Strong 21/1",
+        "url": "https://cannabisblueten.de/product/pharma-leaves-indica-dominant-strong-211",
         "brand": {
           "@type": "Brand",
           "name": "California's Medical"
         },
-        "description": "THC: 20%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 20%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/pharma-leaves-indica-dominant-strong-211",
+          "priceCurrency": "EUR",
+          "price": "3.95",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

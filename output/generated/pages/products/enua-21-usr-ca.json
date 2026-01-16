@@ -117,7 +117,7 @@
     "meta": {
       "title": "enua 20/1 USR CA | ab 3,49 €",
       "description": "enua 20/1 USR CA von enua. THC: 20%, CBD: 1%. Sorte: Ultra Sour. Preis ab 3,49 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/enua-21-usr-ca",
+      "canonical": "https://cannabisblueten.de/product/enua-21-usr-ca",
       "robots": {
         "index": true,
         "follow": true
@@ -125,28 +125,28 @@
       "openGraph": {
         "title": "enua 20/1 USR CA | ab 3,49 €",
         "description": "enua 20/1 USR CA von enua. THC: 20%, CBD: 1%. Sorte: Ultra Sour. Preis ab 3,49 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/enua-21-usr-ca",
+        "url": "https://cannabisblueten.de/product/enua-21-usr-ca",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "enua",
-        "href": "https://weed.de/brand/enua"
+        "href": "https://cannabisblueten.de/brand/enua"
       },
       {
         "name": "enua 20/1 USR CA",
-        "href": "https://weed.de/product/enua-21-usr-ca"
+        "href": "https://cannabisblueten.de/product/enua-21-usr-ca"
       }
     ],
     "schema": [
@@ -158,19 +158,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "enua 20/1 USR CA",
-            "item": "https://weed.de/product/enua-21-usr-ca"
+            "item": "https://cannabisblueten.de/product/enua-21-usr-ca"
           }
         ]
       },
@@ -178,11 +178,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "enua 20/1 USR CA",
+        "url": "https://cannabisblueten.de/product/enua-21-usr-ca",
         "brand": {
           "@type": "Brand",
           "name": "enua"
         },
-        "description": "THC: 20%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 20%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/enua-21-usr-ca",
+          "priceCurrency": "EUR",
+          "price": "3.49",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "3.49",
+            "maxPrice": "5.99",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

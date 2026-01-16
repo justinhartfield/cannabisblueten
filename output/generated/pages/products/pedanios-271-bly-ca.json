@@ -110,7 +110,7 @@
     "meta": {
       "title": "Pedanios 27/1 BLY-CA - Aurora | ab 6,25 €",
       "description": "Pedanios 27/1 BLY-CA von Aurora. THC: 27%, CBD: 1%. Sorte: Black Jelly. Preis ab 6,25 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/pedanios-271-bly-ca",
+      "canonical": "https://cannabisblueten.de/product/pedanios-271-bly-ca",
       "robots": {
         "index": true,
         "follow": true
@@ -118,9 +118,9 @@
       "openGraph": {
         "title": "Pedanios 27/1 BLY-CA - Aurora | ab 6,25 €",
         "description": "Pedanios 27/1 BLY-CA von Aurora. THC: 27%, CBD: 1%. Sorte: Black Jelly. Preis ab 6,25 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/pedanios-271-bly-ca",
+        "url": "https://cannabisblueten.de/product/pedanios-271-bly-ca",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/pedanios-271-bly-ca-i76c2g.png"
       }
@@ -128,19 +128,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Aurora",
-        "href": "https://weed.de/brand/aurora"
+        "href": "https://cannabisblueten.de/brand/aurora"
       },
       {
         "name": "Pedanios 27/1 BLY-CA",
-        "href": "https://weed.de/product/pedanios-271-bly-ca"
+        "href": "https://cannabisblueten.de/product/pedanios-271-bly-ca"
       }
     ],
     "schema": [
@@ -152,19 +152,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Pedanios 27/1 BLY-CA",
-            "item": "https://weed.de/product/pedanios-271-bly-ca"
+            "item": "https://cannabisblueten.de/product/pedanios-271-bly-ca"
           }
         ]
       },
@@ -172,11 +172,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Pedanios 27/1 BLY-CA",
+        "url": "https://cannabisblueten.de/product/pedanios-271-bly-ca",
         "brand": {
           "@type": "Brand",
           "name": "Aurora"
         },
-        "description": "THC: 27%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 27%, CBD: 1%, Genetik: sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/pedanios-271-bly-ca",
+          "priceCurrency": "EUR",
+          "price": "6.25",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "6.25",
+            "maxPrice": "14.30",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

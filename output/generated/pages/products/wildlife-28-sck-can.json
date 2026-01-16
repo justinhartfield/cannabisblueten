@@ -121,7 +121,7 @@
     "meta": {
       "title": "Wildlife 28 SCK CAN - Adrexpharma | ab 4,69 €",
       "description": "Wildlife 28 SCK CAN von Adrexpharma. THC: 26%, CBD: 1%. Sorte: Sun Country Kush. Preis ab 4,69 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/wildlife-28-sck-can",
+      "canonical": "https://cannabisblueten.de/product/wildlife-28-sck-can",
       "robots": {
         "index": true,
         "follow": true
@@ -129,28 +129,28 @@
       "openGraph": {
         "title": "Wildlife 28 SCK CAN - Adrexpharma | ab 4,69 €",
         "description": "Wildlife 28 SCK CAN von Adrexpharma. THC: 26%, CBD: 1%. Sorte: Sun Country Kush. Preis ab 4,69 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/wildlife-28-sck-can",
+        "url": "https://cannabisblueten.de/product/wildlife-28-sck-can",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Adrexpharma",
-        "href": "https://weed.de/brand/adrexpharma"
+        "href": "https://cannabisblueten.de/brand/adrexpharma"
       },
       {
         "name": "Wildlife 28 SCK CAN",
-        "href": "https://weed.de/product/wildlife-28-sck-can"
+        "href": "https://cannabisblueten.de/product/wildlife-28-sck-can"
       }
     ],
     "schema": [
@@ -162,19 +162,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Wildlife 28 SCK CAN",
-            "item": "https://weed.de/product/wildlife-28-sck-can"
+            "item": "https://cannabisblueten.de/product/wildlife-28-sck-can"
           }
         ]
       },
@@ -182,11 +182,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Wildlife 28 SCK CAN",
+        "url": "https://cannabisblueten.de/product/wildlife-28-sck-can",
         "brand": {
           "@type": "Brand",
           "name": "Adrexpharma"
         },
-        "description": "THC: 26%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 26%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/wildlife-28-sck-can",
+          "priceCurrency": "EUR",
+          "price": "4.69",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.69",
+            "maxPrice": "5.24",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

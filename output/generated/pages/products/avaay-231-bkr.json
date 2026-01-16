@@ -103,7 +103,7 @@
     "meta": {
       "title": "Avaay 23/1 BKR | ab 7,50 €",
       "description": "Avaay 23/1 BKR von Avaay. THC: 21.3%, CBD: 1%. Sorte: Black Krush. Preis ab 7,50 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/avaay-231-bkr",
+      "canonical": "https://cannabisblueten.de/product/avaay-231-bkr",
       "robots": {
         "index": true,
         "follow": true
@@ -111,9 +111,9 @@
       "openGraph": {
         "title": "Avaay 23/1 BKR | ab 7,50 €",
         "description": "Avaay 23/1 BKR von Avaay. THC: 21.3%, CBD: 1%. Sorte: Black Krush. Preis ab 7,50 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/avaay-231-bkr",
+        "url": "https://cannabisblueten.de/product/avaay-231-bkr",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/avaay-231-bkr-gdbc9d.png"
       }
@@ -121,19 +121,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Avaay",
-        "href": "https://weed.de/brand/avaay"
+        "href": "https://cannabisblueten.de/brand/avaay"
       },
       {
         "name": "Avaay 23/1 BKR",
-        "href": "https://weed.de/product/avaay-231-bkr"
+        "href": "https://cannabisblueten.de/product/avaay-231-bkr"
       }
     ],
     "schema": [
@@ -145,19 +145,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Avaay 23/1 BKR",
-            "item": "https://weed.de/product/avaay-231-bkr"
+            "item": "https://cannabisblueten.de/product/avaay-231-bkr"
           }
         ]
       },
@@ -165,11 +165,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Avaay 23/1 BKR",
+        "url": "https://cannabisblueten.de/product/avaay-231-bkr",
         "brand": {
           "@type": "Brand",
           "name": "Avaay"
         },
-        "description": "THC: 21.3%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 21.3%, CBD: 1%, Genetik: indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/avaay-231-bkr",
+          "priceCurrency": "EUR",
+          "price": "7.50",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

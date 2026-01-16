@@ -103,7 +103,7 @@
     "meta": {
       "title": "enua 25/1 SSV CA | ab 7,50 €",
       "description": "enua 25/1 SSV CA von enua. THC: 25%, CBD: 1%. Sorte: Sweet San Valley. Preis ab 7,50 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/enua-251-ssv-ca",
+      "canonical": "https://cannabisblueten.de/product/enua-251-ssv-ca",
       "robots": {
         "index": true,
         "follow": true
@@ -111,9 +111,9 @@
       "openGraph": {
         "title": "enua 25/1 SSV CA | ab 7,50 €",
         "description": "enua 25/1 SSV CA von enua. THC: 25%, CBD: 1%. Sorte: Sweet San Valley. Preis ab 7,50 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/enua-251-ssv-ca",
+        "url": "https://cannabisblueten.de/product/enua-251-ssv-ca",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/products/enua-251-ssv-ca-i4da3e.webp"
       }
@@ -121,19 +121,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "enua",
-        "href": "https://weed.de/brand/enua"
+        "href": "https://cannabisblueten.de/brand/enua"
       },
       {
         "name": "enua 25/1 SSV CA",
-        "href": "https://weed.de/product/enua-251-ssv-ca"
+        "href": "https://cannabisblueten.de/product/enua-251-ssv-ca"
       }
     ],
     "schema": [
@@ -145,19 +145,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "enua 25/1 SSV CA",
-            "item": "https://weed.de/product/enua-251-ssv-ca"
+            "item": "https://cannabisblueten.de/product/enua-251-ssv-ca"
           }
         ]
       },
@@ -165,11 +165,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "enua 25/1 SSV CA",
+        "url": "https://cannabisblueten.de/product/enua-251-ssv-ca",
         "brand": {
           "@type": "Brand",
           "name": "enua"
         },
-        "description": "THC: 25%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 25%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/enua-251-ssv-ca",
+          "priceCurrency": "EUR",
+          "price": "7.50",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

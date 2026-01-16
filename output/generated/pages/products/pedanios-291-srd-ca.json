@@ -107,7 +107,7 @@
     "meta": {
       "title": "Pedanios 29/1 SRD-CA - Aurora | ab 6,24 €",
       "description": "Pedanios 29/1 SRD-CA von Aurora. THC: 28.7%, CBD: 0.1%. Sorte: Sourdough. Preis ab 6,24 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/pedanios-291-srd-ca",
+      "canonical": "https://cannabisblueten.de/product/pedanios-291-srd-ca",
       "robots": {
         "index": true,
         "follow": true
@@ -115,9 +115,9 @@
       "openGraph": {
         "title": "Pedanios 29/1 SRD-CA - Aurora | ab 6,24 €",
         "description": "Pedanios 29/1 SRD-CA von Aurora. THC: 28.7%, CBD: 0.1%. Sorte: Sourdough. Preis ab 6,24 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/pedanios-291-srd-ca",
+        "url": "https://cannabisblueten.de/product/pedanios-291-srd-ca",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/pedanios-291-srd-ca-7j744i.png"
       }
@@ -125,19 +125,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Aurora",
-        "href": "https://weed.de/brand/aurora"
+        "href": "https://cannabisblueten.de/brand/aurora"
       },
       {
         "name": "Pedanios 29/1 SRD-CA",
-        "href": "https://weed.de/product/pedanios-291-srd-ca"
+        "href": "https://cannabisblueten.de/product/pedanios-291-srd-ca"
       }
     ],
     "schema": [
@@ -149,19 +149,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Pedanios 29/1 SRD-CA",
-            "item": "https://weed.de/product/pedanios-291-srd-ca"
+            "item": "https://cannabisblueten.de/product/pedanios-291-srd-ca"
           }
         ]
       },
@@ -169,11 +169,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Pedanios 29/1 SRD-CA",
+        "url": "https://cannabisblueten.de/product/pedanios-291-srd-ca",
         "brand": {
           "@type": "Brand",
           "name": "Aurora"
         },
-        "description": "THC: 28.7%, CBD: 0.1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 28.7%, CBD: 0.1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/pedanios-291-srd-ca",
+          "priceCurrency": "EUR",
+          "price": "6.24",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "6.24",
+            "maxPrice": "13.16",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

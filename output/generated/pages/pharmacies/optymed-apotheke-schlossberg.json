@@ -65,7 +65,7 @@
     "meta": {
       "title": "OPTYMED Apotheke Schlossberg - Cannabis Apotheke in Stephanskirchen",
       "description": "OPTYMED Apotheke Schlossberg in Stephanskirchen. 63 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/optymed-apotheke-schlossberg",
+      "canonical": "https://cannabisblueten.de/apotheke/optymed-apotheke-schlossberg",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "OPTYMED Apotheke Schlossberg - Cannabis Apotheke in Stephanskirchen",
         "description": "OPTYMED Apotheke Schlossberg in Stephanskirchen. 63 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/optymed-apotheke-schlossberg",
+        "url": "https://cannabisblueten.de/apotheke/optymed-apotheke-schlossberg",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/672f7c57c5ddecc369ae10ec-215977.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Stephanskirchen",
-        "href": "https://weed.de/cannabis-apotheke/stephanskirchen"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/stephanskirchen"
       },
       {
         "name": "OPTYMED Apotheke Schlossberg",
-        "href": "https://weed.de/apotheke/optymed-apotheke-schlossberg"
+        "href": "https://cannabisblueten.de/apotheke/optymed-apotheke-schlossberg"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Stephanskirchen",
-            "item": "https://weed.de/cannabis-apotheke/stephanskirchen"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/stephanskirchen"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "OPTYMED Apotheke Schlossberg",
-            "item": "https://weed.de/apotheke/optymed-apotheke-schlossberg"
+            "item": "https://cannabisblueten.de/apotheke/optymed-apotheke-schlossberg"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "OPTYMED Apotheke Schlossberg",
-        "url": "https://weed.de/apotheke/optymed-apotheke-schlossberg",
+        "url": "https://cannabisblueten.de/apotheke/optymed-apotheke-schlossberg",
+        "description": "Cannabis Apotheke in Stephanskirchen. 63 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Kuglmoosstraße 3A",
@@ -142,8 +143,36 @@
           "addressRegion": "Bayern",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 47.85744510000001,
+          "longitude": 12.1486549
+        },
         "telephone": "080314095283",
-        "email": "postfach@optyweed.de"
+        "email": "postfach@optyweed.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5.0",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
       }
     ]
   },

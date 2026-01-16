@@ -104,7 +104,7 @@
     "meta": {
       "title": "Luana 18/1 DGV - Cannamedical | ab 3,99 €",
       "description": "Luana 18/1 DGV von Cannamedical. THC: 18%, CBD: 1%. Sorte: Dougs Varin. Preis ab 3,99 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/luana-181-dgv",
+      "canonical": "https://cannabisblueten.de/product/luana-181-dgv",
       "robots": {
         "index": true,
         "follow": true
@@ -112,28 +112,28 @@
       "openGraph": {
         "title": "Luana 18/1 DGV - Cannamedical | ab 3,99 €",
         "description": "Luana 18/1 DGV von Cannamedical. THC: 18%, CBD: 1%. Sorte: Dougs Varin. Preis ab 3,99 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/luana-181-dgv",
+        "url": "https://cannabisblueten.de/product/luana-181-dgv",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cannamedical",
-        "href": "https://weed.de/brand/cannamedical"
+        "href": "https://cannabisblueten.de/brand/cannamedical"
       },
       {
         "name": "Luana 18/1 DGV",
-        "href": "https://weed.de/product/luana-181-dgv"
+        "href": "https://cannabisblueten.de/product/luana-181-dgv"
       }
     ],
     "schema": [
@@ -145,19 +145,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Luana 18/1 DGV",
-            "item": "https://weed.de/product/luana-181-dgv"
+            "item": "https://cannabisblueten.de/product/luana-181-dgv"
           }
         ]
       },
@@ -165,11 +165,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Luana 18/1 DGV",
+        "url": "https://cannabisblueten.de/product/luana-181-dgv",
         "brand": {
           "@type": "Brand",
           "name": "Cannamedical"
         },
-        "description": "THC: 18%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 18%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/luana-181-dgv",
+          "priceCurrency": "EUR",
+          "price": "3.99",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "3.99",
+            "maxPrice": "5.15",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

@@ -118,7 +118,7 @@
     "meta": {
       "title": "All Nations Pretty Smalls MD 21/1 - Cantourage | ab 4,90 €",
       "description": "All Nations Pretty Smalls MD 21/1 von Cantourage. THC: 21%, CBD: 1%. Sorte: Mac Daddy. Preis ab 4,90 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/all-nations-pretty-smalls-md-211-mac-daddy",
+      "canonical": "https://cannabisblueten.de/product/all-nations-pretty-smalls-md-211-mac-daddy",
       "robots": {
         "index": true,
         "follow": true
@@ -126,9 +126,9 @@
       "openGraph": {
         "title": "All Nations Pretty Smalls MD 21/1 - Cantourage | ab 4,90 €",
         "description": "All Nations Pretty Smalls MD 21/1 von Cantourage. THC: 21%, CBD: 1%. Sorte: Mac Daddy. Preis ab 4,90 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/all-nations-pretty-smalls-md-211-mac-daddy",
+        "url": "https://cannabisblueten.de/product/all-nations-pretty-smalls-md-211-mac-daddy",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/all-nations-pretty-smalls-md-211-mac-daddy-gbie16.png"
       }
@@ -136,19 +136,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cantourage",
-        "href": "https://weed.de/brand/cantourage"
+        "href": "https://cannabisblueten.de/brand/cantourage"
       },
       {
         "name": "All Nations Pretty Smalls MD 21/1",
-        "href": "https://weed.de/product/all-nations-pretty-smalls-md-211-mac-daddy"
+        "href": "https://cannabisblueten.de/product/all-nations-pretty-smalls-md-211-mac-daddy"
       }
     ],
     "schema": [
@@ -160,19 +160,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "All Nations Pretty Smalls MD 21/1",
-            "item": "https://weed.de/product/all-nations-pretty-smalls-md-211-mac-daddy"
+            "item": "https://cannabisblueten.de/product/all-nations-pretty-smalls-md-211-mac-daddy"
           }
         ]
       },
@@ -180,11 +180,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "All Nations Pretty Smalls MD 21/1",
+        "url": "https://cannabisblueten.de/product/all-nations-pretty-smalls-md-211-mac-daddy",
         "brand": {
           "@type": "Brand",
           "name": "Cantourage"
         },
-        "description": "THC: 21%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 21%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/all-nations-pretty-smalls-md-211-mac-daddy",
+          "priceCurrency": "EUR",
+          "price": "4.90",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.90",
+            "maxPrice": "7.29",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

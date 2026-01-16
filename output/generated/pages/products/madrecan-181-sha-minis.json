@@ -110,7 +110,7 @@
     "meta": {
       "title": "madrecan 18/1 SHA Minis - Remexian Pharma | ab 4,48 €",
       "description": "madrecan 18/1 SHA Minis von Remexian Pharma. THC: 18%, CBD: 1%. Sorte: Shark Attack. Preis ab 4,48 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/madrecan-181-sha-minis",
+      "canonical": "https://cannabisblueten.de/product/madrecan-181-sha-minis",
       "robots": {
         "index": true,
         "follow": true
@@ -118,28 +118,28 @@
       "openGraph": {
         "title": "madrecan 18/1 SHA Minis - Remexian Pharma | ab 4,48 €",
         "description": "madrecan 18/1 SHA Minis von Remexian Pharma. THC: 18%, CBD: 1%. Sorte: Shark Attack. Preis ab 4,48 €. Preise vergleichen.",
-        "url": "https://weed.de/product/madrecan-181-sha-minis",
+        "url": "https://cannabisblueten.de/product/madrecan-181-sha-minis",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Remexian Pharma",
-        "href": "https://weed.de/brand/remexian-pharma"
+        "href": "https://cannabisblueten.de/brand/remexian-pharma"
       },
       {
         "name": "madrecan 18/1 SHA Minis",
-        "href": "https://weed.de/product/madrecan-181-sha-minis"
+        "href": "https://cannabisblueten.de/product/madrecan-181-sha-minis"
       }
     ],
     "schema": [
@@ -151,19 +151,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "madrecan 18/1 SHA Minis",
-            "item": "https://weed.de/product/madrecan-181-sha-minis"
+            "item": "https://cannabisblueten.de/product/madrecan-181-sha-minis"
           }
         ]
       },
@@ -171,11 +171,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "madrecan 18/1 SHA Minis",
+        "url": "https://cannabisblueten.de/product/madrecan-181-sha-minis",
         "brand": {
           "@type": "Brand",
           "name": "Remexian Pharma"
         },
-        "description": "THC: 18%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 18%, CBD: 1%, Genetik: indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/madrecan-181-sha-minis",
+          "priceCurrency": "EUR",
+          "price": "4.48",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

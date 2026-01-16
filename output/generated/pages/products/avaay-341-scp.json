@@ -116,7 +116,7 @@
     "meta": {
       "title": "avaay 34/1 SCP - Avaay | ab 9,98 €",
       "description": "avaay 34/1 SCP von Avaay. THC: 34%, CBD: 1%. Sorte: Sour Cherry Punch. Preis ab 9,98 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/avaay-341-scp",
+      "canonical": "https://cannabisblueten.de/product/avaay-341-scp",
       "robots": {
         "index": true,
         "follow": true
@@ -124,9 +124,9 @@
       "openGraph": {
         "title": "avaay 34/1 SCP - Avaay | ab 9,98 €",
         "description": "avaay 34/1 SCP von Avaay. THC: 34%, CBD: 1%. Sorte: Sour Cherry Punch. Preis ab 9,98 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/avaay-341-scp",
+        "url": "https://cannabisblueten.de/product/avaay-341-scp",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/avaay-341-scp-ga8hc7.png"
       }
@@ -134,19 +134,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Avaay",
-        "href": "https://weed.de/brand/avaay"
+        "href": "https://cannabisblueten.de/brand/avaay"
       },
       {
         "name": "avaay 34/1 SCP",
-        "href": "https://weed.de/product/avaay-341-scp"
+        "href": "https://cannabisblueten.de/product/avaay-341-scp"
       }
     ],
     "schema": [
@@ -158,19 +158,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "avaay 34/1 SCP",
-            "item": "https://weed.de/product/avaay-341-scp"
+            "item": "https://cannabisblueten.de/product/avaay-341-scp"
           }
         ]
       },
@@ -178,11 +178,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "avaay 34/1 SCP",
+        "url": "https://cannabisblueten.de/product/avaay-341-scp",
         "brand": {
           "@type": "Brand",
           "name": "Avaay"
         },
-        "description": "THC: 34%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 34%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/avaay-341-scp",
+          "priceCurrency": "EUR",
+          "price": "9.98",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "9.98",
+            "maxPrice": "12.99",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

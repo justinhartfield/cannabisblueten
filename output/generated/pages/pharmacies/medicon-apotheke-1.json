@@ -65,7 +65,7 @@
     "meta": {
       "title": "Medicon Apotheke - Cannabis Apotheke in Stein",
       "description": "Medicon Apotheke in Stein. 35 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/medicon-apotheke-1",
+      "canonical": "https://cannabisblueten.de/apotheke/medicon-apotheke-1",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Medicon Apotheke - Cannabis Apotheke in Stein",
         "description": "Medicon Apotheke in Stein. 35 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/medicon-apotheke-1",
+        "url": "https://cannabisblueten.de/apotheke/medicon-apotheke-1",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/679a4d580171e2a5a8b73e58-9ehi93.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Stein",
-        "href": "https://weed.de/cannabis-apotheke/stein"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/stein"
       },
       {
         "name": "Medicon Apotheke",
-        "href": "https://weed.de/apotheke/medicon-apotheke-1"
+        "href": "https://cannabisblueten.de/apotheke/medicon-apotheke-1"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Stein",
-            "item": "https://weed.de/cannabis-apotheke/stein"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/stein"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Medicon Apotheke",
-            "item": "https://weed.de/apotheke/medicon-apotheke-1"
+            "item": "https://cannabisblueten.de/apotheke/medicon-apotheke-1"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Medicon Apotheke",
-        "url": "https://weed.de/apotheke/medicon-apotheke-1",
+        "url": "https://cannabisblueten.de/apotheke/medicon-apotheke-1",
+        "description": "Cannabis Apotheke in Stein. 35 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Forum 1",
@@ -142,8 +143,30 @@
           "addressRegion": "Bayern",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 49.41237040000001,
+          "longitude": 11.0127185
+        },
         "telephone": "09116601010",
-        "email": "labor.stein@medicon-apotheke.de"
+        "email": "labor.stein@medicon-apotheke.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ]
       }
     ]
   },

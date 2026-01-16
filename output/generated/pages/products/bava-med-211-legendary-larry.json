@@ -115,7 +115,7 @@
     "meta": {
       "title": "Bava Med 21/1 Legendary Larry - bava medical | ab 6,79 €",
       "description": "Bava Med 21/1 Legendary Larry von bava medical. THC: 21%, CBD: 1%. Sorte: Legendary Larry. Preis ab 6,79 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/bava-med-211-legendary-larry",
+      "canonical": "https://cannabisblueten.de/product/bava-med-211-legendary-larry",
       "robots": {
         "index": true,
         "follow": true
@@ -123,28 +123,28 @@
       "openGraph": {
         "title": "Bava Med 21/1 Legendary Larry - bava medical | ab 6,79 €",
         "description": "Bava Med 21/1 Legendary Larry von bava medical. THC: 21%, CBD: 1%. Sorte: Legendary Larry. Preis ab 6,79 €. Preise vergleichen.",
-        "url": "https://weed.de/product/bava-med-211-legendary-larry",
+        "url": "https://cannabisblueten.de/product/bava-med-211-legendary-larry",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "bava medical",
-        "href": "https://weed.de/brand/bava-medical"
+        "href": "https://cannabisblueten.de/brand/bava-medical"
       },
       {
         "name": "Bava Med 21/1 Legendary Larry",
-        "href": "https://weed.de/product/bava-med-211-legendary-larry"
+        "href": "https://cannabisblueten.de/product/bava-med-211-legendary-larry"
       }
     ],
     "schema": [
@@ -156,19 +156,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Bava Med 21/1 Legendary Larry",
-            "item": "https://weed.de/product/bava-med-211-legendary-larry"
+            "item": "https://cannabisblueten.de/product/bava-med-211-legendary-larry"
           }
         ]
       },
@@ -176,12 +176,23 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Bava Med 21/1 Legendary Larry",
+        "url": "https://cannabisblueten.de/product/bava-med-211-legendary-larry",
         "brand": {
           "@type": "Brand",
           "name": "bava medical"
         },
         "gtin13": [],
-        "description": "THC: 21%, CBD: 1%"
+        "sku": [],
+        "description": "Medizinisches Cannabis Produkt. THC: 21%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/bava-med-211-legendary-larry",
+          "priceCurrency": "EUR",
+          "price": "6.79",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

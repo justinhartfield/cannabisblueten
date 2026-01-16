@@ -104,7 +104,7 @@
     "meta": {
       "title": "31/1 Amici WC - Cansativa | ab 9,50 €",
       "description": "31/1 Amici WC von Cansativa. THC: 31%, CBD: 1%. Sorte: Wedding Cake. Preis ab 9,50 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/311-amici-wc",
+      "canonical": "https://cannabisblueten.de/product/311-amici-wc",
       "robots": {
         "index": true,
         "follow": true
@@ -112,28 +112,28 @@
       "openGraph": {
         "title": "31/1 Amici WC - Cansativa | ab 9,50 €",
         "description": "31/1 Amici WC von Cansativa. THC: 31%, CBD: 1%. Sorte: Wedding Cake. Preis ab 9,50 €. Preise vergleichen.",
-        "url": "https://weed.de/product/311-amici-wc",
+        "url": "https://cannabisblueten.de/product/311-amici-wc",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cansativa",
-        "href": "https://weed.de/brand/cansativa"
+        "href": "https://cannabisblueten.de/brand/cansativa"
       },
       {
         "name": "31/1 Amici WC",
-        "href": "https://weed.de/product/311-amici-wc"
+        "href": "https://cannabisblueten.de/product/311-amici-wc"
       }
     ],
     "schema": [
@@ -145,19 +145,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "31/1 Amici WC",
-            "item": "https://weed.de/product/311-amici-wc"
+            "item": "https://cannabisblueten.de/product/311-amici-wc"
           }
         ]
       },
@@ -165,11 +165,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "31/1 Amici WC",
+        "url": "https://cannabisblueten.de/product/311-amici-wc",
         "brand": {
           "@type": "Brand",
           "name": "Cansativa"
         },
-        "description": "THC: 31%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 31%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/311-amici-wc",
+          "priceCurrency": "EUR",
+          "price": "9.50",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

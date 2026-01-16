@@ -116,7 +116,7 @@
     "meta": {
       "title": "IMC GO THC23 | ab 4,99 €",
       "description": "IMC GO THC23 von IMC. THC: 23%, CBD: 1%. Sorte: Jokerz #53. Preis ab 4,99 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/imc-go-thc23",
+      "canonical": "https://cannabisblueten.de/product/imc-go-thc23",
       "robots": {
         "index": true,
         "follow": true
@@ -124,28 +124,28 @@
       "openGraph": {
         "title": "IMC GO THC23 | ab 4,99 €",
         "description": "IMC GO THC23 von IMC. THC: 23%, CBD: 1%. Sorte: Jokerz #53. Preis ab 4,99 €. Preise vergleichen.",
-        "url": "https://weed.de/product/imc-go-thc23",
+        "url": "https://cannabisblueten.de/product/imc-go-thc23",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "IMC",
-        "href": "https://weed.de/brand/imc"
+        "href": "https://cannabisblueten.de/brand/imc"
       },
       {
         "name": "IMC GO THC23",
-        "href": "https://weed.de/product/imc-go-thc23"
+        "href": "https://cannabisblueten.de/product/imc-go-thc23"
       }
     ],
     "schema": [
@@ -157,19 +157,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "IMC GO THC23",
-            "item": "https://weed.de/product/imc-go-thc23"
+            "item": "https://cannabisblueten.de/product/imc-go-thc23"
           }
         ]
       },
@@ -177,12 +177,23 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "IMC GO THC23",
+        "url": "https://cannabisblueten.de/product/imc-go-thc23",
         "brand": {
           "@type": "Brand",
           "name": "IMC"
         },
         "gtin13": [],
-        "description": "THC: 23%, CBD: 1%"
+        "sku": [],
+        "description": "Medizinisches Cannabis Produkt. THC: 23%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/imc-go-thc23",
+          "priceCurrency": "EUR",
+          "price": "4.99",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

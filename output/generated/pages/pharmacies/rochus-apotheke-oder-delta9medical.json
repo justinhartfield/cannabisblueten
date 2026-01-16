@@ -65,7 +65,7 @@
     "meta": {
       "title": "Rochus Apotheke | Delta9Medical - Cannabis Apotheke in Wangen im Allgäu",
       "description": "Rochus Apotheke | Delta9Medical in Wangen im Allgäu. 43 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/rochus-apotheke-oder-delta9medical",
+      "canonical": "https://cannabisblueten.de/apotheke/rochus-apotheke-oder-delta9medical",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Rochus Apotheke | Delta9Medical - Cannabis Apotheke in Wangen im Allgäu",
         "description": "Rochus Apotheke | Delta9Medical in Wangen im Allgäu. 43 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/rochus-apotheke-oder-delta9medical",
+        "url": "https://cannabisblueten.de/apotheke/rochus-apotheke-oder-delta9medical",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/67b5c89712de516bd9f64f36-3fcd78.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Wangen im Allgäu",
-        "href": "https://weed.de/cannabis-apotheke/wangen-im-allgaeu"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/wangen-im-allgaeu"
       },
       {
         "name": "Rochus Apotheke | Delta9Medical",
-        "href": "https://weed.de/apotheke/rochus-apotheke-oder-delta9medical"
+        "href": "https://cannabisblueten.de/apotheke/rochus-apotheke-oder-delta9medical"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Wangen im Allgäu",
-            "item": "https://weed.de/cannabis-apotheke/wangen-im-allgaeu"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/wangen-im-allgaeu"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Rochus Apotheke | Delta9Medical",
-            "item": "https://weed.de/apotheke/rochus-apotheke-oder-delta9medical"
+            "item": "https://cannabisblueten.de/apotheke/rochus-apotheke-oder-delta9medical"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Rochus Apotheke | Delta9Medical",
-        "url": "https://weed.de/apotheke/rochus-apotheke-oder-delta9medical",
+        "url": "https://cannabisblueten.de/apotheke/rochus-apotheke-oder-delta9medical",
+        "description": "Cannabis Apotheke in Wangen im Allgäu. 43 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Herrenstraße 22-24",
@@ -142,8 +143,36 @@
           "addressRegion": "Baden-Württemberg",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 47.6871677,
+          "longitude": 9.8341522
+        },
         "telephone": "0752221379",
-        "email": "info@delta9medical.de"
+        "email": "info@delta9medical.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5.0",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
       }
     ]
   },

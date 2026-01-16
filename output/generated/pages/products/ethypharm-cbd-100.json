@@ -78,7 +78,7 @@
     "meta": {
       "title": "Ethypharm CBD 100 | ab 26,35 €",
       "description": "Ethypharm CBD 100 von Ethypharm. THC: 0.28%, CBD: 9.5%. Preis ab 26,35 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/ethypharm-cbd-100",
+      "canonical": "https://cannabisblueten.de/product/ethypharm-cbd-100",
       "robots": {
         "index": true,
         "follow": true
@@ -86,28 +86,28 @@
       "openGraph": {
         "title": "Ethypharm CBD 100 | ab 26,35 €",
         "description": "Ethypharm CBD 100 von Ethypharm. THC: 0.28%, CBD: 9.5%. Preis ab 26,35 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/ethypharm-cbd-100",
+        "url": "https://cannabisblueten.de/product/ethypharm-cbd-100",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Ethypharm",
-        "href": "https://weed.de/brand/ethypharm"
+        "href": "https://cannabisblueten.de/brand/ethypharm"
       },
       {
         "name": "Ethypharm CBD 100",
-        "href": "https://weed.de/product/ethypharm-cbd-100"
+        "href": "https://cannabisblueten.de/product/ethypharm-cbd-100"
       }
     ],
     "schema": [
@@ -119,19 +119,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Ethypharm CBD 100",
-            "item": "https://weed.de/product/ethypharm-cbd-100"
+            "item": "https://cannabisblueten.de/product/ethypharm-cbd-100"
           }
         ]
       },
@@ -139,11 +139,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Ethypharm CBD 100",
+        "url": "https://cannabisblueten.de/product/ethypharm-cbd-100",
         "brand": {
           "@type": "Brand",
           "name": "Ethypharm"
         },
-        "description": "THC: 0.28%, CBD: 9.5%"
+        "description": "Medizinisches Cannabis Produkt. THC: 0.28%, CBD: 9.5%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/ethypharm-cbd-100",
+          "priceCurrency": "EUR",
+          "price": "26.35",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

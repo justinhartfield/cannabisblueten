@@ -65,7 +65,7 @@
     "meta": {
       "title": "Behring Apotheke - Cannabis Apotheke in Neuss",
       "description": "Behring Apotheke in Neuss. Lieferung & Abholung. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/behring-apotheke",
+      "canonical": "https://cannabisblueten.de/apotheke/behring-apotheke",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Behring Apotheke - Cannabis Apotheke in Neuss",
         "description": "Behring Apotheke in Neuss. Lieferung & Abholung. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/behring-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/behring-apotheke",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/67038957a10daade05025a7a-3a4238.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Neuss",
-        "href": "https://weed.de/cannabis-apotheke/neuss"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/neuss"
       },
       {
         "name": "Behring Apotheke",
-        "href": "https://weed.de/apotheke/behring-apotheke"
+        "href": "https://cannabisblueten.de/apotheke/behring-apotheke"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Neuss",
-            "item": "https://weed.de/cannabis-apotheke/neuss"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/neuss"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Behring Apotheke",
-            "item": "https://weed.de/apotheke/behring-apotheke"
+            "item": "https://cannabisblueten.de/apotheke/behring-apotheke"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Behring Apotheke",
-        "url": "https://weed.de/apotheke/behring-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/behring-apotheke",
+        "description": "Cannabis Apotheke in Neuss. 0 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Behringstraße 1",
@@ -142,8 +143,30 @@
           "addressRegion": "Nordrhein-Westfalen",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 51.18942999999999,
+          "longitude": 6.671320000000001
+        },
         "telephone": "02131984300",
-        "email": "cannabis@behring-apotheke.de"
+        "email": "cannabis@behring-apotheke.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ]
       }
     ]
   },

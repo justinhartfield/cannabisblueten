@@ -106,7 +106,7 @@
     "meta": {
       "title": "Mediprocan Simba 25/1 PP - mediproCan | ab 8,99 €",
       "description": "Mediprocan Simba 25/1 PP von mediproCan. THC: 25%, CBD: 1%. Sorte: Purple Panther. Preis ab 8,99 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/mediprocan-simba-251-pp",
+      "canonical": "https://cannabisblueten.de/product/mediprocan-simba-251-pp",
       "robots": {
         "index": true,
         "follow": true
@@ -114,28 +114,28 @@
       "openGraph": {
         "title": "Mediprocan Simba 25/1 PP - mediproCan | ab 8,99 €",
         "description": "Mediprocan Simba 25/1 PP von mediproCan. THC: 25%, CBD: 1%. Sorte: Purple Panther. Preis ab 8,99 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/mediprocan-simba-251-pp",
+        "url": "https://cannabisblueten.de/product/mediprocan-simba-251-pp",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "mediproCan",
-        "href": "https://weed.de/brand/mediprocan"
+        "href": "https://cannabisblueten.de/brand/mediprocan"
       },
       {
         "name": "Mediprocan Simba 25/1 PP",
-        "href": "https://weed.de/product/mediprocan-simba-251-pp"
+        "href": "https://cannabisblueten.de/product/mediprocan-simba-251-pp"
       }
     ],
     "schema": [
@@ -147,19 +147,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Mediprocan Simba 25/1 PP",
-            "item": "https://weed.de/product/mediprocan-simba-251-pp"
+            "item": "https://cannabisblueten.de/product/mediprocan-simba-251-pp"
           }
         ]
       },
@@ -167,11 +167,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Mediprocan Simba 25/1 PP",
+        "url": "https://cannabisblueten.de/product/mediprocan-simba-251-pp",
         "brand": {
           "@type": "Brand",
           "name": "mediproCan"
         },
-        "description": "THC: 25%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 25%, CBD: 1%, Genetik: indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/mediprocan-simba-251-pp",
+          "priceCurrency": "EUR",
+          "price": "8.99",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

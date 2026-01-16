@@ -109,7 +109,7 @@
     "meta": {
       "title": "Cannamedical Indica Forte MA C | ab 6,49 €",
       "description": "Cannamedical Indica Forte MA C von Cannamedical. THC: 25%, CBD: 1%. Sorte: Carmelita. Preis ab 6,49 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/cannamedical-indica-forte-ma-c",
+      "canonical": "https://cannabisblueten.de/product/cannamedical-indica-forte-ma-c",
       "robots": {
         "index": true,
         "follow": true
@@ -117,9 +117,9 @@
       "openGraph": {
         "title": "Cannamedical Indica Forte MA C | ab 6,49 €",
         "description": "Cannamedical Indica Forte MA C von Cannamedical. THC: 25%, CBD: 1%. Sorte: Carmelita. Preis ab 6,49 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/cannamedical-indica-forte-ma-c",
+        "url": "https://cannabisblueten.de/product/cannamedical-indica-forte-ma-c",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/cannamedical-indica-forte-ma-c-6233c4.png"
       }
@@ -127,19 +127,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cannamedical",
-        "href": "https://weed.de/brand/cannamedical"
+        "href": "https://cannabisblueten.de/brand/cannamedical"
       },
       {
         "name": "Cannamedical Indica Forte MA C",
-        "href": "https://weed.de/product/cannamedical-indica-forte-ma-c"
+        "href": "https://cannabisblueten.de/product/cannamedical-indica-forte-ma-c"
       }
     ],
     "schema": [
@@ -151,19 +151,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Cannamedical Indica Forte MA C",
-            "item": "https://weed.de/product/cannamedical-indica-forte-ma-c"
+            "item": "https://cannabisblueten.de/product/cannamedical-indica-forte-ma-c"
           }
         ]
       },
@@ -171,11 +171,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Cannamedical Indica Forte MA C",
+        "url": "https://cannabisblueten.de/product/cannamedical-indica-forte-ma-c",
         "brand": {
           "@type": "Brand",
           "name": "Cannamedical"
         },
-        "description": "THC: 25%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 25%, CBD: 1%, Genetik: indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/cannamedical-indica-forte-ma-c",
+          "priceCurrency": "EUR",
+          "price": "6.49",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "6.49",
+            "maxPrice": "15.47",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

@@ -113,7 +113,7 @@
     "meta": {
       "title": "Remexian 20/1 HCC PBB - Remexian Pharma | ab 2,98 €",
       "description": "Remexian 20/1 HCC PBB von Remexian Pharma. THC: 20%, CBD: 1%. Sorte: Peanut Butter Breath. Preis ab 2,98 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/remexian-21-hcc-pbb",
+      "canonical": "https://cannabisblueten.de/product/remexian-21-hcc-pbb",
       "robots": {
         "index": true,
         "follow": true
@@ -121,28 +121,28 @@
       "openGraph": {
         "title": "Remexian 20/1 HCC PBB - Remexian Pharma | ab 2,98 €",
         "description": "Remexian 20/1 HCC PBB von Remexian Pharma. THC: 20%, CBD: 1%. Sorte: Peanut Butter Breath. Preis ab 2,98 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/remexian-21-hcc-pbb",
+        "url": "https://cannabisblueten.de/product/remexian-21-hcc-pbb",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Remexian Pharma",
-        "href": "https://weed.de/brand/remexian-pharma"
+        "href": "https://cannabisblueten.de/brand/remexian-pharma"
       },
       {
         "name": "Remexian 20/1 HCC PBB",
-        "href": "https://weed.de/product/remexian-21-hcc-pbb"
+        "href": "https://cannabisblueten.de/product/remexian-21-hcc-pbb"
       }
     ],
     "schema": [
@@ -154,19 +154,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Remexian 20/1 HCC PBB",
-            "item": "https://weed.de/product/remexian-21-hcc-pbb"
+            "item": "https://cannabisblueten.de/product/remexian-21-hcc-pbb"
           }
         ]
       },
@@ -174,11 +174,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Remexian 20/1 HCC PBB",
+        "url": "https://cannabisblueten.de/product/remexian-21-hcc-pbb",
         "brand": {
           "@type": "Brand",
           "name": "Remexian Pharma"
         },
-        "description": "THC: 20%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 20%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/remexian-21-hcc-pbb",
+          "priceCurrency": "EUR",
+          "price": "2.98",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "2.98",
+            "maxPrice": "3.99",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

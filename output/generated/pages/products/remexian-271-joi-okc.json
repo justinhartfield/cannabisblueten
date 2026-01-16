@@ -105,7 +105,7 @@
     "meta": {
       "title": "Remexian 27/1 JOI OKC - Remexian Pharma | ab 8,50 €",
       "description": "Remexian 27/1 JOI OKC von Remexian Pharma. THC: 27%, CBD: 1%. Sorte: Orange Kush Cake. Preis ab 8,50 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/remexian-271-joi-okc",
+      "canonical": "https://cannabisblueten.de/product/remexian-271-joi-okc",
       "robots": {
         "index": true,
         "follow": true
@@ -113,28 +113,28 @@
       "openGraph": {
         "title": "Remexian 27/1 JOI OKC - Remexian Pharma | ab 8,50 €",
         "description": "Remexian 27/1 JOI OKC von Remexian Pharma. THC: 27%, CBD: 1%. Sorte: Orange Kush Cake. Preis ab 8,50 €. Preise vergleichen.",
-        "url": "https://weed.de/product/remexian-271-joi-okc",
+        "url": "https://cannabisblueten.de/product/remexian-271-joi-okc",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Remexian Pharma",
-        "href": "https://weed.de/brand/remexian-pharma"
+        "href": "https://cannabisblueten.de/brand/remexian-pharma"
       },
       {
         "name": "Remexian 27/1 JOI OKC",
-        "href": "https://weed.de/product/remexian-271-joi-okc"
+        "href": "https://cannabisblueten.de/product/remexian-271-joi-okc"
       }
     ],
     "schema": [
@@ -146,19 +146,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Remexian 27/1 JOI OKC",
-            "item": "https://weed.de/product/remexian-271-joi-okc"
+            "item": "https://cannabisblueten.de/product/remexian-271-joi-okc"
           }
         ]
       },
@@ -166,11 +166,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Remexian 27/1 JOI OKC",
+        "url": "https://cannabisblueten.de/product/remexian-271-joi-okc",
         "brand": {
           "@type": "Brand",
           "name": "Remexian Pharma"
         },
-        "description": "THC: 27%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 27%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/remexian-271-joi-okc",
+          "priceCurrency": "EUR",
+          "price": "8.50",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

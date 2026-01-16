@@ -108,7 +108,7 @@
     "meta": {
       "title": "Pedanios 26/1 EHD-CA - Aurora | ab 5,15 €",
       "description": "Pedanios 26/1 EHD-CA von Aurora. THC: 26.8%, CBD: 1%. Sorte: Electric Honeydew. Preis ab 5,15 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/pedanios-261-ehd-ca",
+      "canonical": "https://cannabisblueten.de/product/pedanios-261-ehd-ca",
       "robots": {
         "index": true,
         "follow": true
@@ -116,9 +116,9 @@
       "openGraph": {
         "title": "Pedanios 26/1 EHD-CA - Aurora | ab 5,15 €",
         "description": "Pedanios 26/1 EHD-CA von Aurora. THC: 26.8%, CBD: 1%. Sorte: Electric Honeydew. Preis ab 5,15 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/pedanios-261-ehd-ca",
+        "url": "https://cannabisblueten.de/product/pedanios-261-ehd-ca",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/pedanios-261-ehd-ca-24bi07.png"
       }
@@ -126,19 +126,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Aurora",
-        "href": "https://weed.de/brand/aurora"
+        "href": "https://cannabisblueten.de/brand/aurora"
       },
       {
         "name": "Pedanios 26/1 EHD-CA",
-        "href": "https://weed.de/product/pedanios-261-ehd-ca"
+        "href": "https://cannabisblueten.de/product/pedanios-261-ehd-ca"
       }
     ],
     "schema": [
@@ -150,19 +150,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Pedanios 26/1 EHD-CA",
-            "item": "https://weed.de/product/pedanios-261-ehd-ca"
+            "item": "https://cannabisblueten.de/product/pedanios-261-ehd-ca"
           }
         ]
       },
@@ -170,11 +170,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Pedanios 26/1 EHD-CA",
+        "url": "https://cannabisblueten.de/product/pedanios-261-ehd-ca",
         "brand": {
           "@type": "Brand",
           "name": "Aurora"
         },
-        "description": "THC: 26.8%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 26.8%, CBD: 1%, Genetik: sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/pedanios-261-ehd-ca",
+          "priceCurrency": "EUR",
+          "price": "5.15",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "5.15",
+            "maxPrice": "13.09",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

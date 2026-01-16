@@ -105,7 +105,7 @@
     "meta": {
       "title": "Demecan HS Light Drop 17/1 | ab 4,95 €",
       "description": "Demecan HS Light Drop 17/1 von Demecan. THC: 17%, CBD: 1%. Sorte: Santa Maria Golden x C99. Preis ab 4,95 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/demecan-hs-light-drop-171",
+      "canonical": "https://cannabisblueten.de/product/demecan-hs-light-drop-171",
       "robots": {
         "index": true,
         "follow": true
@@ -113,9 +113,9 @@
       "openGraph": {
         "title": "Demecan HS Light Drop 17/1 | ab 4,95 €",
         "description": "Demecan HS Light Drop 17/1 von Demecan. THC: 17%, CBD: 1%. Sorte: Santa Maria Golden x C99. Preis ab 4,95 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/demecan-hs-light-drop-171",
+        "url": "https://cannabisblueten.de/product/demecan-hs-light-drop-171",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/demecan-hs-light-drop-171-g684je.png"
       }
@@ -123,19 +123,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Demecan",
-        "href": "https://weed.de/brand/demecan"
+        "href": "https://cannabisblueten.de/brand/demecan"
       },
       {
         "name": "Demecan HS Light Drop 17/1",
-        "href": "https://weed.de/product/demecan-hs-light-drop-171"
+        "href": "https://cannabisblueten.de/product/demecan-hs-light-drop-171"
       }
     ],
     "schema": [
@@ -147,19 +147,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Demecan HS Light Drop 17/1",
-            "item": "https://weed.de/product/demecan-hs-light-drop-171"
+            "item": "https://cannabisblueten.de/product/demecan-hs-light-drop-171"
           }
         ]
       },
@@ -167,11 +167,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Demecan HS Light Drop 17/1",
+        "url": "https://cannabisblueten.de/product/demecan-hs-light-drop-171",
         "brand": {
           "@type": "Brand",
           "name": "Demecan"
         },
-        "description": "THC: 17%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 17%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/demecan-hs-light-drop-171",
+          "priceCurrency": "EUR",
+          "price": "4.95",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

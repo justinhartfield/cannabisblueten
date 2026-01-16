@@ -115,7 +115,7 @@
     "meta": {
       "title": "Cannamedical Cannabisextrakt THC10:CBD10 | ab 9,99 €",
       "description": "Cannamedical Cannabisextrakt THC10:CBD10 von Cannamedical. THC: 10%, CBD: 10%. Sorte: Legendary Larry. Preis ab 9,99 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/cannamedical-cannabisextrakt-thc10cbd10",
+      "canonical": "https://cannabisblueten.de/product/cannamedical-cannabisextrakt-thc10cbd10",
       "robots": {
         "index": true,
         "follow": true
@@ -123,9 +123,9 @@
       "openGraph": {
         "title": "Cannamedical Cannabisextrakt THC10:CBD10 | ab 9,99 €",
         "description": "Cannamedical Cannabisextrakt THC10:CBD10 von Cannamedical. THC: 10%, CBD: 10%. Sorte: Legendary Larry. Preis ab 9,99 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/cannamedical-cannabisextrakt-thc10cbd10",
+        "url": "https://cannabisblueten.de/product/cannamedical-cannabisextrakt-thc10cbd10",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/cannamedical-cannabisextrakt-thc10cbd10-a7c42e.png"
       }
@@ -133,19 +133,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cannamedical",
-        "href": "https://weed.de/brand/cannamedical"
+        "href": "https://cannabisblueten.de/brand/cannamedical"
       },
       {
         "name": "Cannamedical Cannabisextrakt THC10:CBD10",
-        "href": "https://weed.de/product/cannamedical-cannabisextrakt-thc10cbd10"
+        "href": "https://cannabisblueten.de/product/cannamedical-cannabisextrakt-thc10cbd10"
       }
     ],
     "schema": [
@@ -157,19 +157,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Cannamedical Cannabisextrakt THC10:CBD10",
-            "item": "https://weed.de/product/cannamedical-cannabisextrakt-thc10cbd10"
+            "item": "https://cannabisblueten.de/product/cannamedical-cannabisextrakt-thc10cbd10"
           }
         ]
       },
@@ -177,11 +177,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Cannamedical Cannabisextrakt THC10:CBD10",
+        "url": "https://cannabisblueten.de/product/cannamedical-cannabisextrakt-thc10cbd10",
         "brand": {
           "@type": "Brand",
           "name": "Cannamedical"
         },
-        "description": "THC: 10%, CBD: 10%"
+        "description": "Medizinisches Cannabis Produkt. THC: 10%, CBD: 10%, Genetik: indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/cannamedical-cannabisextrakt-thc10cbd10",
+          "priceCurrency": "EUR",
+          "price": "9.99",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

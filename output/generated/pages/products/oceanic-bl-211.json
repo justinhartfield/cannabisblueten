@@ -116,7 +116,7 @@
     "meta": {
       "title": "Oceanic BL 21/1 - Cantourage | ab 3,99 €",
       "description": "Oceanic BL 21/1 von Cantourage. THC: 21%, CBD: 1%. Sorte: Black Lavender. Preis ab 3,99 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/oceanic-bl-211",
+      "canonical": "https://cannabisblueten.de/product/oceanic-bl-211",
       "robots": {
         "index": true,
         "follow": true
@@ -124,9 +124,9 @@
       "openGraph": {
         "title": "Oceanic BL 21/1 - Cantourage | ab 3,99 €",
         "description": "Oceanic BL 21/1 von Cantourage. THC: 21%, CBD: 1%. Sorte: Black Lavender. Preis ab 3,99 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/oceanic-bl-211",
+        "url": "https://cannabisblueten.de/product/oceanic-bl-211",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/oceanic-bl-211-1057fa.png"
       }
@@ -134,19 +134,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cantourage",
-        "href": "https://weed.de/brand/cantourage"
+        "href": "https://cannabisblueten.de/brand/cantourage"
       },
       {
         "name": "Oceanic BL 21/1",
-        "href": "https://weed.de/product/oceanic-bl-211"
+        "href": "https://cannabisblueten.de/product/oceanic-bl-211"
       }
     ],
     "schema": [
@@ -158,19 +158,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Oceanic BL 21/1",
-            "item": "https://weed.de/product/oceanic-bl-211"
+            "item": "https://cannabisblueten.de/product/oceanic-bl-211"
           }
         ]
       },
@@ -178,11 +178,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Oceanic BL 21/1",
+        "url": "https://cannabisblueten.de/product/oceanic-bl-211",
         "brand": {
           "@type": "Brand",
           "name": "Cantourage"
         },
-        "description": "THC: 21%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 21%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/oceanic-bl-211",
+          "priceCurrency": "EUR",
+          "price": "3.99",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "3.99",
+            "maxPrice": "7.74",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

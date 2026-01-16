@@ -65,7 +65,7 @@
     "meta": {
       "title": "CannaRoKo | Robert-Koch-Apotheke Wolfen - Cannabis Apotheke in Bitterfeld-Wolfen",
       "description": "CannaRoKo | Robert-Koch-Apotheke Wolfen in Bitterfeld-Wolfen. 81 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/cannaroko-oder-robert-koch-apotheke-wolfen",
+      "canonical": "https://cannabisblueten.de/apotheke/cannaroko-oder-robert-koch-apotheke-wolfen",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "CannaRoKo | Robert-Koch-Apotheke Wolfen - Cannabis Apotheke in Bitterfeld-Wolfen",
         "description": "CannaRoKo | Robert-Koch-Apotheke Wolfen in Bitterfeld-Wolfen. 81 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/cannaroko-oder-robert-koch-apotheke-wolfen",
+        "url": "https://cannabisblueten.de/apotheke/cannaroko-oder-robert-koch-apotheke-wolfen",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/6825d08f3b53e391ab2380f1-8d4921.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Bitterfeld-Wolfen",
-        "href": "https://weed.de/cannabis-apotheke/bitterfeld-wolfen"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/bitterfeld-wolfen"
       },
       {
         "name": "CannaRoKo | Robert-Koch-Apotheke Wolfen",
-        "href": "https://weed.de/apotheke/cannaroko-oder-robert-koch-apotheke-wolfen"
+        "href": "https://cannabisblueten.de/apotheke/cannaroko-oder-robert-koch-apotheke-wolfen"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Bitterfeld-Wolfen",
-            "item": "https://weed.de/cannabis-apotheke/bitterfeld-wolfen"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/bitterfeld-wolfen"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "CannaRoKo | Robert-Koch-Apotheke Wolfen",
-            "item": "https://weed.de/apotheke/cannaroko-oder-robert-koch-apotheke-wolfen"
+            "item": "https://cannabisblueten.de/apotheke/cannaroko-oder-robert-koch-apotheke-wolfen"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "CannaRoKo | Robert-Koch-Apotheke Wolfen",
-        "url": "https://weed.de/apotheke/cannaroko-oder-robert-koch-apotheke-wolfen",
+        "url": "https://cannabisblueten.de/apotheke/cannaroko-oder-robert-koch-apotheke-wolfen",
+        "description": "Cannabis Apotheke in Bitterfeld-Wolfen. 81 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Robert-Koch-Straße 3",
@@ -142,8 +143,37 @@
           "addressRegion": "Sachsen-Anhalt",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 51.6624282,
+          "longitude": 12.2739896
+        },
         "telephone": "0349444128",
-        "email": "shop@cannaroko.shop"
+        "email": "shop@cannaroko.shop",
+        "sameAs": "https://cannaroko.shop",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5.0",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
       }
     ]
   },

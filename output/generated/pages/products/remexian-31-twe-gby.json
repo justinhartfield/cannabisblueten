@@ -104,7 +104,7 @@
     "meta": {
       "title": "Remexian 30/1 TWE GBY - Remexian Pharma | ab 3,97 €",
       "description": "Remexian 30/1 TWE GBY von Remexian Pharma. THC: 30%, CBD: 1%. Sorte: Gorilla Berry. Preis ab 3,97 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/remexian-31-twe-gby",
+      "canonical": "https://cannabisblueten.de/product/remexian-31-twe-gby",
       "robots": {
         "index": true,
         "follow": true
@@ -112,28 +112,28 @@
       "openGraph": {
         "title": "Remexian 30/1 TWE GBY - Remexian Pharma | ab 3,97 €",
         "description": "Remexian 30/1 TWE GBY von Remexian Pharma. THC: 30%, CBD: 1%. Sorte: Gorilla Berry. Preis ab 3,97 €. Preise vergleichen.",
-        "url": "https://weed.de/product/remexian-31-twe-gby",
+        "url": "https://cannabisblueten.de/product/remexian-31-twe-gby",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Remexian Pharma",
-        "href": "https://weed.de/brand/remexian-pharma"
+        "href": "https://cannabisblueten.de/brand/remexian-pharma"
       },
       {
         "name": "Remexian 30/1 TWE GBY",
-        "href": "https://weed.de/product/remexian-31-twe-gby"
+        "href": "https://cannabisblueten.de/product/remexian-31-twe-gby"
       }
     ],
     "schema": [
@@ -145,19 +145,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Remexian 30/1 TWE GBY",
-            "item": "https://weed.de/product/remexian-31-twe-gby"
+            "item": "https://cannabisblueten.de/product/remexian-31-twe-gby"
           }
         ]
       },
@@ -165,11 +165,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Remexian 30/1 TWE GBY",
+        "url": "https://cannabisblueten.de/product/remexian-31-twe-gby",
         "brand": {
           "@type": "Brand",
           "name": "Remexian Pharma"
         },
-        "description": "THC: 30%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 30%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/remexian-31-twe-gby",
+          "priceCurrency": "EUR",
+          "price": "3.97",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

@@ -111,7 +111,7 @@
     "meta": {
       "title": "Demecan Craft Magister 31:01 Black Marker | ab 10,79 €",
       "description": "Demecan Craft Magister 31:01 Black Marker von Demecan. THC: 32%, CBD: 1%. Sorte: Black Marker. Preis ab 10,79 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/demecan-craft-magister-311-black-marker",
+      "canonical": "https://cannabisblueten.de/product/demecan-craft-magister-311-black-marker",
       "robots": {
         "index": true,
         "follow": true
@@ -119,9 +119,9 @@
       "openGraph": {
         "title": "Demecan Craft Magister 31:01 Black Marker | ab 10,79 €",
         "description": "Demecan Craft Magister 31:01 Black Marker von Demecan. THC: 32%, CBD: 1%. Sorte: Black Marker. Preis ab 10,79 €. Preise vergleichen.",
-        "url": "https://weed.de/product/demecan-craft-magister-311-black-marker",
+        "url": "https://cannabisblueten.de/product/demecan-craft-magister-311-black-marker",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/demecan-craft-magister-311-black-marker-2g683f.png"
       }
@@ -129,19 +129,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Demecan",
-        "href": "https://weed.de/brand/demecan"
+        "href": "https://cannabisblueten.de/brand/demecan"
       },
       {
         "name": "Demecan Craft Magister 31:01 Black Marker",
-        "href": "https://weed.de/product/demecan-craft-magister-311-black-marker"
+        "href": "https://cannabisblueten.de/product/demecan-craft-magister-311-black-marker"
       }
     ],
     "schema": [
@@ -153,19 +153,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Demecan Craft Magister 31:01 Black Marker",
-            "item": "https://weed.de/product/demecan-craft-magister-311-black-marker"
+            "item": "https://cannabisblueten.de/product/demecan-craft-magister-311-black-marker"
           }
         ]
       },
@@ -173,11 +173,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Demecan Craft Magister 31:01 Black Marker",
+        "url": "https://cannabisblueten.de/product/demecan-craft-magister-311-black-marker",
         "brand": {
           "@type": "Brand",
           "name": "Demecan"
         },
-        "description": "THC: 32%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 32%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/demecan-craft-magister-311-black-marker",
+          "priceCurrency": "EUR",
+          "price": "10.79",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

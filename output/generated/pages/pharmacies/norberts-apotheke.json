@@ -65,7 +65,7 @@
     "meta": {
       "title": "Norbert's Apotheke - Cannabis Apotheke in Unterföhring",
       "description": "Norbert's Apotheke in Unterföhring. Lieferung & Abholung. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/norberts-apotheke",
+      "canonical": "https://cannabisblueten.de/apotheke/norberts-apotheke",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Norbert's Apotheke - Cannabis Apotheke in Unterföhring",
         "description": "Norbert's Apotheke in Unterföhring. Lieferung & Abholung. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/norberts-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/norberts-apotheke",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/68525d6e1102597aff2467e4-3177ge.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Unterföhring",
-        "href": "https://weed.de/cannabis-apotheke/unterfoehring"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/unterfoehring"
       },
       {
         "name": "Norbert's Apotheke",
-        "href": "https://weed.de/apotheke/norberts-apotheke"
+        "href": "https://cannabisblueten.de/apotheke/norberts-apotheke"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Unterföhring",
-            "item": "https://weed.de/cannabis-apotheke/unterfoehring"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/unterfoehring"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Norbert's Apotheke",
-            "item": "https://weed.de/apotheke/norberts-apotheke"
+            "item": "https://cannabisblueten.de/apotheke/norberts-apotheke"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Norbert's Apotheke",
-        "url": "https://weed.de/apotheke/norberts-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/norberts-apotheke",
+        "description": "Cannabis Apotheke in Unterföhring. 0 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Feringastraße",
@@ -142,8 +143,31 @@
           "addressRegion": "Bayern",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 48.1787177,
+          "longitude": 11.6341602
+        },
         "telephone": "0752969492",
-        "email": "norbert.biro@str8minds.com"
+        "email": "norbert.biro@str8minds.com",
+        "sameAs": "https://str8minds.com",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ]
       }
     ]
   },

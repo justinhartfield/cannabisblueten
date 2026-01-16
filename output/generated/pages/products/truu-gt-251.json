@@ -104,7 +104,7 @@
     "meta": {
       "title": "TRUU GT 25:01 - Demecan | ab 4,70 €",
       "description": "TRUU GT 25:01 von Demecan. THC: 25%, CBD: 1%. Sorte: Crumbled Lime. Preis ab 4,70 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/truu-gt-251",
+      "canonical": "https://cannabisblueten.de/product/truu-gt-251",
       "robots": {
         "index": true,
         "follow": true
@@ -112,9 +112,9 @@
       "openGraph": {
         "title": "TRUU GT 25:01 - Demecan | ab 4,70 €",
         "description": "TRUU GT 25:01 von Demecan. THC: 25%, CBD: 1%. Sorte: Crumbled Lime. Preis ab 4,70 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/truu-gt-251",
+        "url": "https://cannabisblueten.de/product/truu-gt-251",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/truu-gt-251-gd3i8g.png"
       }
@@ -122,19 +122,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Demecan",
-        "href": "https://weed.de/brand/demecan"
+        "href": "https://cannabisblueten.de/brand/demecan"
       },
       {
         "name": "TRUU GT 25:01",
-        "href": "https://weed.de/product/truu-gt-251"
+        "href": "https://cannabisblueten.de/product/truu-gt-251"
       }
     ],
     "schema": [
@@ -146,19 +146,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "TRUU GT 25:01",
-            "item": "https://weed.de/product/truu-gt-251"
+            "item": "https://cannabisblueten.de/product/truu-gt-251"
           }
         ]
       },
@@ -166,11 +166,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "TRUU GT 25:01",
+        "url": "https://cannabisblueten.de/product/truu-gt-251",
         "brand": {
           "@type": "Brand",
           "name": "Demecan"
         },
-        "description": "THC: 25%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 25%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/truu-gt-251",
+          "priceCurrency": "EUR",
+          "price": "4.70",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.70",
+            "maxPrice": "7.50",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

@@ -114,7 +114,7 @@
     "meta": {
       "title": "Luana 20/1 Tropicana Cookies - Cannamedical | ab 4,69 €",
       "description": "Luana 20/1 Tropicana Cookies von Cannamedical. THC: 20%, CBD: 1%. Sorte: Tropicana Cookies. Preis ab 4,69 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/luana-21-tropicana-cookies",
+      "canonical": "https://cannabisblueten.de/product/luana-21-tropicana-cookies",
       "robots": {
         "index": true,
         "follow": true
@@ -122,28 +122,28 @@
       "openGraph": {
         "title": "Luana 20/1 Tropicana Cookies - Cannamedical | ab 4,69 €",
         "description": "Luana 20/1 Tropicana Cookies von Cannamedical. THC: 20%, CBD: 1%. Sorte: Tropicana Cookies. Preis ab 4,69 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/luana-21-tropicana-cookies",
+        "url": "https://cannabisblueten.de/product/luana-21-tropicana-cookies",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cannamedical",
-        "href": "https://weed.de/brand/cannamedical"
+        "href": "https://cannabisblueten.de/brand/cannamedical"
       },
       {
         "name": "Luana 20/1 Tropicana Cookies",
-        "href": "https://weed.de/product/luana-21-tropicana-cookies"
+        "href": "https://cannabisblueten.de/product/luana-21-tropicana-cookies"
       }
     ],
     "schema": [
@@ -155,19 +155,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Luana 20/1 Tropicana Cookies",
-            "item": "https://weed.de/product/luana-21-tropicana-cookies"
+            "item": "https://cannabisblueten.de/product/luana-21-tropicana-cookies"
           }
         ]
       },
@@ -175,11 +175,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Luana 20/1 Tropicana Cookies",
+        "url": "https://cannabisblueten.de/product/luana-21-tropicana-cookies",
         "brand": {
           "@type": "Brand",
           "name": "Cannamedical"
         },
-        "description": "THC: 20%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 20%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/luana-21-tropicana-cookies",
+          "priceCurrency": "EUR",
+          "price": "4.69",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.69",
+            "maxPrice": "4.95",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

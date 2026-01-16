@@ -122,7 +122,7 @@
     "meta": {
       "title": "Tilray Craft Cannabisblüten THC25 PPV | ab 8,00 €",
       "description": "Tilray Craft Cannabisblüten THC25 PPV von Tilray. THC: 25%, CBD: 1%. Sorte: Platinum Pave. Preis ab 8,00 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/tilray-craft-cannabisblueten-thc25-ppv",
+      "canonical": "https://cannabisblueten.de/product/tilray-craft-cannabisblueten-thc25-ppv",
       "robots": {
         "index": true,
         "follow": true
@@ -130,9 +130,9 @@
       "openGraph": {
         "title": "Tilray Craft Cannabisblüten THC25 PPV | ab 8,00 €",
         "description": "Tilray Craft Cannabisblüten THC25 PPV von Tilray. THC: 25%, CBD: 1%. Sorte: Platinum Pave. Preis ab 8,00 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/tilray-craft-cannabisblueten-thc25-ppv",
+        "url": "https://cannabisblueten.de/product/tilray-craft-cannabisblueten-thc25-ppv",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/tilray-craft-cannabisblueten-thc25-ppv-3ahgc0.png"
       }
@@ -140,19 +140,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Tilray",
-        "href": "https://weed.de/brand/tilray"
+        "href": "https://cannabisblueten.de/brand/tilray"
       },
       {
         "name": "Tilray Craft Cannabisblüten THC25 PPV",
-        "href": "https://weed.de/product/tilray-craft-cannabisblueten-thc25-ppv"
+        "href": "https://cannabisblueten.de/product/tilray-craft-cannabisblueten-thc25-ppv"
       }
     ],
     "schema": [
@@ -164,19 +164,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Tilray Craft Cannabisblüten THC25 PPV",
-            "item": "https://weed.de/product/tilray-craft-cannabisblueten-thc25-ppv"
+            "item": "https://cannabisblueten.de/product/tilray-craft-cannabisblueten-thc25-ppv"
           }
         ]
       },
@@ -184,11 +184,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Tilray Craft Cannabisblüten THC25 PPV",
+        "url": "https://cannabisblueten.de/product/tilray-craft-cannabisblueten-thc25-ppv",
         "brand": {
           "@type": "Brand",
           "name": "Tilray"
         },
-        "description": "THC: 25%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 25%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/tilray-craft-cannabisblueten-thc25-ppv",
+          "priceCurrency": "EUR",
+          "price": "8.00",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "8.00",
+            "maxPrice": "9.90",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

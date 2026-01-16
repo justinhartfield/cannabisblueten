@@ -65,7 +65,7 @@
     "meta": {
       "title": "Oberländer Apotheke - Cannabis Apotheke in München",
       "description": "Oberländer Apotheke in München. 46 Cannabis Produkte. Abholung. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/oberlaender-apotheke",
+      "canonical": "https://cannabisblueten.de/apotheke/oberlaender-apotheke",
       "robots": {
         "index": true,
         "follow": true
@@ -73,28 +73,28 @@
       "openGraph": {
         "title": "Oberländer Apotheke - Cannabis Apotheke in München",
         "description": "Oberländer Apotheke in München. 46 Cannabis Produkte. Abholung. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/oberlaender-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/oberlaender-apotheke",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "München",
-        "href": "https://weed.de/cannabis-apotheke/muenchen"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/muenchen"
       },
       {
         "name": "Oberländer Apotheke",
-        "href": "https://weed.de/apotheke/oberlaender-apotheke"
+        "href": "https://cannabisblueten.de/apotheke/oberlaender-apotheke"
       }
     ],
     "schema": [
@@ -106,25 +106,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "München",
-            "item": "https://weed.de/cannabis-apotheke/muenchen"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/muenchen"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Oberländer Apotheke",
-            "item": "https://weed.de/apotheke/oberlaender-apotheke"
+            "item": "https://cannabisblueten.de/apotheke/oberlaender-apotheke"
           }
         ]
       },
@@ -132,7 +132,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Oberländer Apotheke",
-        "url": "https://weed.de/apotheke/oberlaender-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/oberlaender-apotheke",
+        "description": "Cannabis Apotheke in München. 46 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Daiserstraße 27",
@@ -141,8 +142,24 @@
           "addressRegion": "Bayern",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 48.119329,
+          "longitude": 11.544018
+        },
         "telephone": "089763756",
-        "email": "info@oberlaender-apotheke.de"
+        "email": "info@oberlaender-apotheke.de",
+        "sameAs": "https://www.xn--oberlnder-apotheke-ptb.de/",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ]
       }
     ]
   },

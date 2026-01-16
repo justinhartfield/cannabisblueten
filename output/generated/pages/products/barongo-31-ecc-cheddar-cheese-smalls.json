@@ -99,7 +99,7 @@
     "meta": {
       "title": "Barongo 30/1 ECC Cheddar Cheese smalls - WMG Pharma | ab ...",
       "description": "Barongo 30/1 ECC Cheddar Cheese smalls von WMG Pharma. THC: 30%, CBD: 1%. Sorte: Cheddar Cheese. Preis ab 4,99 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/barongo-31-ecc-cheddar-cheese-smalls",
+      "canonical": "https://cannabisblueten.de/product/barongo-31-ecc-cheddar-cheese-smalls",
       "robots": {
         "index": true,
         "follow": true
@@ -107,28 +107,28 @@
       "openGraph": {
         "title": "Barongo 30/1 ECC Cheddar Cheese smalls - WMG Pharma | ab ...",
         "description": "Barongo 30/1 ECC Cheddar Cheese smalls von WMG Pharma. THC: 30%, CBD: 1%. Sorte: Cheddar Cheese. Preis ab 4,99 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/barongo-31-ecc-cheddar-cheese-smalls",
+        "url": "https://cannabisblueten.de/product/barongo-31-ecc-cheddar-cheese-smalls",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "WMG Pharma",
-        "href": "https://weed.de/brand/wmg-pharma"
+        "href": "https://cannabisblueten.de/brand/wmg-pharma"
       },
       {
         "name": "Barongo 30/1 ECC Cheddar Cheese smalls",
-        "href": "https://weed.de/product/barongo-31-ecc-cheddar-cheese-smalls"
+        "href": "https://cannabisblueten.de/product/barongo-31-ecc-cheddar-cheese-smalls"
       }
     ],
     "schema": [
@@ -140,19 +140,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Barongo 30/1 ECC Cheddar Cheese smalls",
-            "item": "https://weed.de/product/barongo-31-ecc-cheddar-cheese-smalls"
+            "item": "https://cannabisblueten.de/product/barongo-31-ecc-cheddar-cheese-smalls"
           }
         ]
       },
@@ -160,11 +160,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Barongo 30/1 ECC Cheddar Cheese smalls",
+        "url": "https://cannabisblueten.de/product/barongo-31-ecc-cheddar-cheese-smalls",
         "brand": {
           "@type": "Brand",
           "name": "WMG Pharma"
         },
-        "description": "THC: 30%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 30%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/barongo-31-ecc-cheddar-cheese-smalls",
+          "priceCurrency": "EUR",
+          "price": "4.99",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

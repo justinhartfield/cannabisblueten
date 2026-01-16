@@ -102,7 +102,7 @@
     "meta": {
       "title": "Tikun Noga 27/1 - Dopiopharm | ab 5,93 €",
       "description": "Tikun Noga 27/1 von Dopiopharm. THC: 27%, CBD: 1%. Sorte: Noga. Preis ab 5,93 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/tikun-noga-271",
+      "canonical": "https://cannabisblueten.de/product/tikun-noga-271",
       "robots": {
         "index": true,
         "follow": true
@@ -110,9 +110,9 @@
       "openGraph": {
         "title": "Tikun Noga 27/1 - Dopiopharm | ab 5,93 €",
         "description": "Tikun Noga 27/1 von Dopiopharm. THC: 27%, CBD: 1%. Sorte: Noga. Preis ab 5,93 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/tikun-noga-271",
+        "url": "https://cannabisblueten.de/product/tikun-noga-271",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/tikun-noga-271-1eb67b.png"
       }
@@ -120,19 +120,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Dopiopharm",
-        "href": "https://weed.de/brand/dopiopharm"
+        "href": "https://cannabisblueten.de/brand/dopiopharm"
       },
       {
         "name": "Tikun Noga 27/1",
-        "href": "https://weed.de/product/tikun-noga-271"
+        "href": "https://cannabisblueten.de/product/tikun-noga-271"
       }
     ],
     "schema": [
@@ -144,19 +144,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Tikun Noga 27/1",
-            "item": "https://weed.de/product/tikun-noga-271"
+            "item": "https://cannabisblueten.de/product/tikun-noga-271"
           }
         ]
       },
@@ -164,11 +164,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Tikun Noga 27/1",
+        "url": "https://cannabisblueten.de/product/tikun-noga-271",
         "brand": {
           "@type": "Brand",
           "name": "Dopiopharm"
         },
-        "description": "THC: 27%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 27%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/tikun-noga-271",
+          "priceCurrency": "EUR",
+          "price": "5.93",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "5.93",
+            "maxPrice": "8.99",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

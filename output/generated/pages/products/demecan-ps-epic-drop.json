@@ -110,7 +110,7 @@
     "meta": {
       "title": "Demecan PS Epic Drop | ab 7,95 €",
       "description": "Demecan PS Epic Drop von Demecan. THC: 30%, CBD: 1%. Sorte: Fruit Punch. Preis ab 7,95 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/demecan-ps-epic-drop",
+      "canonical": "https://cannabisblueten.de/product/demecan-ps-epic-drop",
       "robots": {
         "index": true,
         "follow": true
@@ -118,9 +118,9 @@
       "openGraph": {
         "title": "Demecan PS Epic Drop | ab 7,95 €",
         "description": "Demecan PS Epic Drop von Demecan. THC: 30%, CBD: 1%. Sorte: Fruit Punch. Preis ab 7,95 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/demecan-ps-epic-drop",
+        "url": "https://cannabisblueten.de/product/demecan-ps-epic-drop",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/ps-epic-drop-8di362.png"
       }
@@ -128,19 +128,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Demecan",
-        "href": "https://weed.de/brand/demecan"
+        "href": "https://cannabisblueten.de/brand/demecan"
       },
       {
         "name": "Demecan PS Epic Drop",
-        "href": "https://weed.de/product/demecan-ps-epic-drop"
+        "href": "https://cannabisblueten.de/product/demecan-ps-epic-drop"
       }
     ],
     "schema": [
@@ -152,19 +152,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Demecan PS Epic Drop",
-            "item": "https://weed.de/product/demecan-ps-epic-drop"
+            "item": "https://cannabisblueten.de/product/demecan-ps-epic-drop"
           }
         ]
       },
@@ -172,11 +172,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Demecan PS Epic Drop",
+        "url": "https://cannabisblueten.de/product/demecan-ps-epic-drop",
         "brand": {
           "@type": "Brand",
           "name": "Demecan"
         },
-        "description": "THC: 30%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 30%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/demecan-ps-epic-drop",
+          "priceCurrency": "EUR",
+          "price": "7.95",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "7.95",
+            "maxPrice": "8.25",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

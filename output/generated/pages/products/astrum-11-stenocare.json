@@ -78,7 +78,7 @@
     "meta": {
       "title": "Adrex Astrum 10:10 Stenocare - Adrexpharma | ab 3,33 €",
       "description": "Adrex Astrum 10:10 Stenocare von Adrexpharma. THC: 10%, CBD: 10%. Preis ab 3,33 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/astrum-11-stenocare",
+      "canonical": "https://cannabisblueten.de/product/astrum-11-stenocare",
       "robots": {
         "index": true,
         "follow": true
@@ -86,9 +86,9 @@
       "openGraph": {
         "title": "Adrex Astrum 10:10 Stenocare - Adrexpharma | ab 3,33 €",
         "description": "Adrex Astrum 10:10 Stenocare von Adrexpharma. THC: 10%, CBD: 10%. Preis ab 3,33 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/astrum-11-stenocare",
+        "url": "https://cannabisblueten.de/product/astrum-11-stenocare",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/astrum-11-stenocare-ga6239.jpeg"
       }
@@ -96,19 +96,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Adrexpharma",
-        "href": "https://weed.de/brand/adrexpharma"
+        "href": "https://cannabisblueten.de/brand/adrexpharma"
       },
       {
         "name": "Adrex Astrum 10:10 Stenocare",
-        "href": "https://weed.de/product/astrum-11-stenocare"
+        "href": "https://cannabisblueten.de/product/astrum-11-stenocare"
       }
     ],
     "schema": [
@@ -120,19 +120,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Adrex Astrum 10:10 Stenocare",
-            "item": "https://weed.de/product/astrum-11-stenocare"
+            "item": "https://cannabisblueten.de/product/astrum-11-stenocare"
           }
         ]
       },
@@ -140,11 +140,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Adrex Astrum 10:10 Stenocare",
+        "url": "https://cannabisblueten.de/product/astrum-11-stenocare",
         "brand": {
           "@type": "Brand",
           "name": "Adrexpharma"
         },
-        "description": "THC: 10%, CBD: 10%"
+        "description": "Medizinisches Cannabis Produkt. THC: 10%, CBD: 10%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/astrum-11-stenocare",
+          "priceCurrency": "EUR",
+          "price": "3.33",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "3.33",
+            "maxPrice": "3.50",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

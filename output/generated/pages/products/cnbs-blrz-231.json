@@ -102,7 +102,7 @@
     "meta": {
       "title": "CNBS BLRZ 23/1 - Medical CNBS | ab 5,55 €",
       "description": "CNBS BLRZ 23/1 von Medical CNBS. THC: 23%, CBD: 1%. Sorte: Blue Ritz. Preis ab 5,55 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/cnbs-blrz-231",
+      "canonical": "https://cannabisblueten.de/product/cnbs-blrz-231",
       "robots": {
         "index": true,
         "follow": true
@@ -110,28 +110,28 @@
       "openGraph": {
         "title": "CNBS BLRZ 23/1 - Medical CNBS | ab 5,55 €",
         "description": "CNBS BLRZ 23/1 von Medical CNBS. THC: 23%, CBD: 1%. Sorte: Blue Ritz. Preis ab 5,55 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/cnbs-blrz-231",
+        "url": "https://cannabisblueten.de/product/cnbs-blrz-231",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Medical CNBS",
-        "href": "https://weed.de/brand/medical-cnbs"
+        "href": "https://cannabisblueten.de/brand/medical-cnbs"
       },
       {
         "name": "CNBS BLRZ 23/1",
-        "href": "https://weed.de/product/cnbs-blrz-231"
+        "href": "https://cannabisblueten.de/product/cnbs-blrz-231"
       }
     ],
     "schema": [
@@ -143,19 +143,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "CNBS BLRZ 23/1",
-            "item": "https://weed.de/product/cnbs-blrz-231"
+            "item": "https://cannabisblueten.de/product/cnbs-blrz-231"
           }
         ]
       },
@@ -163,11 +163,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "CNBS BLRZ 23/1",
+        "url": "https://cannabisblueten.de/product/cnbs-blrz-231",
         "brand": {
           "@type": "Brand",
           "name": "Medical CNBS"
         },
-        "description": "THC: 23%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 23%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/cnbs-blrz-231",
+          "priceCurrency": "EUR",
+          "price": "5.55",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "5.55",
+            "maxPrice": "6.31",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

@@ -65,7 +65,7 @@
     "meta": {
       "title": "Karolinger Apotheke Aachen - Cannabis Apotheke in Aachen",
       "description": "Karolinger Apotheke Aachen in Aachen. Lieferung & Abholung. Bewertung: 4.0/5. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/karolinger-apotheke",
+      "canonical": "https://cannabisblueten.de/apotheke/karolinger-apotheke",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Karolinger Apotheke Aachen - Cannabis Apotheke in Aachen",
         "description": "Karolinger Apotheke Aachen in Aachen. Lieferung & Abholung. Bewertung: 4.0/5. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/karolinger-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/karolinger-apotheke",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/689b3d1ed22fc2e63ce3bec8-a77236.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Aachen",
-        "href": "https://weed.de/cannabis-apotheke/aachen"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/aachen"
       },
       {
         "name": "Karolinger Apotheke Aachen",
-        "href": "https://weed.de/apotheke/karolinger-apotheke"
+        "href": "https://cannabisblueten.de/apotheke/karolinger-apotheke"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Aachen",
-            "item": "https://weed.de/cannabis-apotheke/aachen"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/aachen"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Karolinger Apotheke Aachen",
-            "item": "https://weed.de/apotheke/karolinger-apotheke"
+            "item": "https://cannabisblueten.de/apotheke/karolinger-apotheke"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Karolinger Apotheke Aachen",
-        "url": "https://weed.de/apotheke/karolinger-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/karolinger-apotheke",
+        "description": "Cannabis Apotheke in Aachen. 0 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Karlsgraben 15",
@@ -142,8 +143,37 @@
           "addressRegion": "Nordrhein-Westfalen",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 50.77298870000001,
+          "longitude": 6.076472
+        },
         "telephone": "+49241402626",
-        "email": "rezept@karolinger-apotheke.de"
+        "email": "rezept@karolinger-apotheke.de",
+        "sameAs": "https://www.karolinger-apotheke-aachen.de/",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.0",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
       }
     ]
   },

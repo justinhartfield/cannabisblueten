@@ -65,7 +65,7 @@
     "meta": {
       "title": "Medflower Collini-Apotheke - Cannabis Apotheke in Mannheim",
       "description": "Medflower Collini-Apotheke in Mannheim. 63 Cannabis Produkte. Lieferung & Abholung. Bewertung: 2.0/5. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/cannflos-apo",
+      "canonical": "https://cannabisblueten.de/apotheke/cannflos-apo",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Medflower Collini-Apotheke - Cannabis Apotheke in Mannheim",
         "description": "Medflower Collini-Apotheke in Mannheim. 63 Cannabis Produkte. Lieferung & Abholung. Bewertung: 2.0/5. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/cannflos-apo",
+        "url": "https://cannabisblueten.de/apotheke/cannflos-apo",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/644a5760e0a14de5cb4d9e0d-1b7098.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Mannheim",
-        "href": "https://weed.de/cannabis-apotheke/mannheim"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/mannheim"
       },
       {
         "name": "Medflower Collini-Apotheke",
-        "href": "https://weed.de/apotheke/cannflos-apo"
+        "href": "https://cannabisblueten.de/apotheke/cannflos-apo"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Mannheim",
-            "item": "https://weed.de/cannabis-apotheke/mannheim"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/mannheim"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Medflower Collini-Apotheke",
-            "item": "https://weed.de/apotheke/cannflos-apo"
+            "item": "https://cannabisblueten.de/apotheke/cannflos-apo"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Medflower Collini-Apotheke",
-        "url": "https://weed.de/apotheke/cannflos-apo",
+        "url": "https://cannabisblueten.de/apotheke/cannflos-apo",
+        "description": "Cannabis Apotheke in Mannheim. 63 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Collinistraße 11",
@@ -142,8 +143,37 @@
           "addressRegion": "Baden-Württemberg",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 49.4899342,
+          "longitude": 8.4795085
+        },
         "telephone": "032222001106",
-        "email": "info@collini-medflower.de"
+        "email": "info@collini-medflower.de",
+        "sameAs": "https://cannflos-apo.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "2.0",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
       }
     ]
   },

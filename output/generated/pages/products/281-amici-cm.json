@@ -102,7 +102,7 @@
     "meta": {
       "title": "28/1 Amici CM - Cansativa | ab 6,99 €",
       "description": "28/1 Amici CM von Cansativa. THC: 28%, CBD: 1%. Sorte: Cereal Milk. Preis ab 6,99 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/281-amici-cm",
+      "canonical": "https://cannabisblueten.de/product/281-amici-cm",
       "robots": {
         "index": true,
         "follow": true
@@ -110,9 +110,9 @@
       "openGraph": {
         "title": "28/1 Amici CM - Cansativa | ab 6,99 €",
         "description": "28/1 Amici CM von Cansativa. THC: 28%, CBD: 1%. Sorte: Cereal Milk. Preis ab 6,99 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/281-amici-cm",
+        "url": "https://cannabisblueten.de/product/281-amici-cm",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/281-amici-cm-i6aij5.png"
       }
@@ -120,19 +120,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cansativa",
-        "href": "https://weed.de/brand/cansativa"
+        "href": "https://cannabisblueten.de/brand/cansativa"
       },
       {
         "name": "28/1 Amici CM",
-        "href": "https://weed.de/product/281-amici-cm"
+        "href": "https://cannabisblueten.de/product/281-amici-cm"
       }
     ],
     "schema": [
@@ -144,19 +144,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "28/1 Amici CM",
-            "item": "https://weed.de/product/281-amici-cm"
+            "item": "https://cannabisblueten.de/product/281-amici-cm"
           }
         ]
       },
@@ -164,11 +164,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "28/1 Amici CM",
+        "url": "https://cannabisblueten.de/product/281-amici-cm",
         "brand": {
           "@type": "Brand",
           "name": "Cansativa"
         },
-        "description": "THC: 28%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 28%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/281-amici-cm",
+          "priceCurrency": "EUR",
+          "price": "6.99",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "6.99",
+            "maxPrice": "8.48",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

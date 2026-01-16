@@ -106,7 +106,7 @@
     "meta": {
       "title": "Beacon LI T26 - Adrexpharma | ab 4,40 €",
       "description": "Beacon LI T26 von Adrexpharma. THC: 26%, CBD: 1%. Sorte: Liquid Imagination. Preis ab 4,40 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/beacon-li-t26",
+      "canonical": "https://cannabisblueten.de/product/beacon-li-t26",
       "robots": {
         "index": true,
         "follow": true
@@ -114,9 +114,9 @@
       "openGraph": {
         "title": "Beacon LI T26 - Adrexpharma | ab 4,40 €",
         "description": "Beacon LI T26 von Adrexpharma. THC: 26%, CBD: 1%. Sorte: Liquid Imagination. Preis ab 4,40 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/beacon-li-t26",
+        "url": "https://cannabisblueten.de/product/beacon-li-t26",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/beacon-li-t26-fahc08.png"
       }
@@ -124,19 +124,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Adrexpharma",
-        "href": "https://weed.de/brand/adrexpharma"
+        "href": "https://cannabisblueten.de/brand/adrexpharma"
       },
       {
         "name": "Beacon LI T26",
-        "href": "https://weed.de/product/beacon-li-t26"
+        "href": "https://cannabisblueten.de/product/beacon-li-t26"
       }
     ],
     "schema": [
@@ -148,19 +148,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Beacon LI T26",
-            "item": "https://weed.de/product/beacon-li-t26"
+            "item": "https://cannabisblueten.de/product/beacon-li-t26"
           }
         ]
       },
@@ -168,11 +168,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Beacon LI T26",
+        "url": "https://cannabisblueten.de/product/beacon-li-t26",
         "brand": {
           "@type": "Brand",
           "name": "Adrexpharma"
         },
-        "description": "THC: 26%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 26%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/beacon-li-t26",
+          "priceCurrency": "EUR",
+          "price": "4.40",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.40",
+            "maxPrice": "6.50",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

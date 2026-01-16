@@ -100,7 +100,7 @@
     "meta": {
       "title": "IMC GDI THC25 GD | ab 3,79 €",
       "description": "IMC GDI THC25 GD von IMC. THC: 25%, CBD: 1%. Sorte: Grave Digger. Preis ab 3,79 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/imc-gdi-thc25-gd",
+      "canonical": "https://cannabisblueten.de/product/imc-gdi-thc25-gd",
       "robots": {
         "index": true,
         "follow": true
@@ -108,9 +108,9 @@
       "openGraph": {
         "title": "IMC GDI THC25 GD | ab 3,79 €",
         "description": "IMC GDI THC25 GD von IMC. THC: 25%, CBD: 1%. Sorte: Grave Digger. Preis ab 3,79 €. Preise vergleichen.",
-        "url": "https://weed.de/product/imc-gdi-thc25-gd",
+        "url": "https://cannabisblueten.de/product/imc-gdi-thc25-gd",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/imc-gdi-thc25-gd-i70if5.webp"
       }
@@ -118,19 +118,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "IMC",
-        "href": "https://weed.de/brand/imc"
+        "href": "https://cannabisblueten.de/brand/imc"
       },
       {
         "name": "IMC GDI THC25 GD",
-        "href": "https://weed.de/product/imc-gdi-thc25-gd"
+        "href": "https://cannabisblueten.de/product/imc-gdi-thc25-gd"
       }
     ],
     "schema": [
@@ -142,19 +142,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "IMC GDI THC25 GD",
-            "item": "https://weed.de/product/imc-gdi-thc25-gd"
+            "item": "https://cannabisblueten.de/product/imc-gdi-thc25-gd"
           }
         ]
       },
@@ -162,11 +162,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "IMC GDI THC25 GD",
+        "url": "https://cannabisblueten.de/product/imc-gdi-thc25-gd",
         "brand": {
           "@type": "Brand",
           "name": "IMC"
         },
-        "description": "THC: 25%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 25%, CBD: 1%, Genetik: indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/imc-gdi-thc25-gd",
+          "priceCurrency": "EUR",
+          "price": "3.79",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

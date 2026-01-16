@@ -118,7 +118,7 @@
     "meta": {
       "title": "MV RBP - Cantourage | ab 8,45 €",
       "description": "MV RBP von Cantourage. THC: 25%, CBD: 1%. Sorte: Rainbow Pie. Preis ab 8,45 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/mv-rbp",
+      "canonical": "https://cannabisblueten.de/product/mv-rbp",
       "robots": {
         "index": true,
         "follow": true
@@ -126,9 +126,9 @@
       "openGraph": {
         "title": "MV RBP - Cantourage | ab 8,45 €",
         "description": "MV RBP von Cantourage. THC: 25%, CBD: 1%. Sorte: Rainbow Pie. Preis ab 8,45 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/mv-rbp",
+        "url": "https://cannabisblueten.de/product/mv-rbp",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/products/mv-rbp-j51cd3.jpeg"
       }
@@ -136,19 +136,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cantourage",
-        "href": "https://weed.de/brand/cantourage"
+        "href": "https://cannabisblueten.de/brand/cantourage"
       },
       {
         "name": "MV RBP",
-        "href": "https://weed.de/product/mv-rbp"
+        "href": "https://cannabisblueten.de/product/mv-rbp"
       }
     ],
     "schema": [
@@ -160,19 +160,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "MV RBP",
-            "item": "https://weed.de/product/mv-rbp"
+            "item": "https://cannabisblueten.de/product/mv-rbp"
           }
         ]
       },
@@ -180,11 +180,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "MV RBP",
+        "url": "https://cannabisblueten.de/product/mv-rbp",
         "brand": {
           "@type": "Brand",
           "name": "Cantourage"
         },
-        "description": "THC: 25%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 25%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/mv-rbp",
+          "priceCurrency": "EUR",
+          "price": "8.45",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

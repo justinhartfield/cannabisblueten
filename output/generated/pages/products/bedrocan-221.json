@@ -104,7 +104,7 @@
     "meta": {
       "title": "Bedrocan 22/1 | ab 7,55 €",
       "description": "Bedrocan 22/1 von Bedrocan. THC: 22%, CBD: 1%. Sorte: Afina. Preis ab 7,55 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/bedrocan-221",
+      "canonical": "https://cannabisblueten.de/product/bedrocan-221",
       "robots": {
         "index": true,
         "follow": true
@@ -112,28 +112,28 @@
       "openGraph": {
         "title": "Bedrocan 22/1 | ab 7,55 €",
         "description": "Bedrocan 22/1 von Bedrocan. THC: 22%, CBD: 1%. Sorte: Afina. Preis ab 7,55 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/bedrocan-221",
+        "url": "https://cannabisblueten.de/product/bedrocan-221",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Bedrocan",
-        "href": "https://weed.de/brand/bedrocan"
+        "href": "https://cannabisblueten.de/brand/bedrocan"
       },
       {
         "name": "Bedrocan 22/1",
-        "href": "https://weed.de/product/bedrocan-221"
+        "href": "https://cannabisblueten.de/product/bedrocan-221"
       }
     ],
     "schema": [
@@ -145,19 +145,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Bedrocan 22/1",
-            "item": "https://weed.de/product/bedrocan-221"
+            "item": "https://cannabisblueten.de/product/bedrocan-221"
           }
         ]
       },
@@ -165,12 +165,29 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Bedrocan 22/1",
+        "url": "https://cannabisblueten.de/product/bedrocan-221",
         "brand": {
           "@type": "Brand",
           "name": "Bedrocan"
         },
         "gtin13": [],
-        "description": "THC: 22%, CBD: 1%"
+        "sku": [],
+        "description": "Medizinisches Cannabis Produkt. THC: 22%, CBD: 1%, Genetik: sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/bedrocan-221",
+          "priceCurrency": "EUR",
+          "price": "7.55",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "7.55",
+            "maxPrice": "10.49",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

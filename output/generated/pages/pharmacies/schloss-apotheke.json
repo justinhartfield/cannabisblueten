@@ -65,7 +65,7 @@
     "meta": {
       "title": "Schloss Apotheke / svapo.de - Cannabis Apotheke in Offenbach am Main",
       "description": "Schloss Apotheke / svapo.de in Offenbach am Main. 147 Cannabis Produkte. Lieferung & Abholung. Bewertung: 4.0/5. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/schloss-apotheke",
+      "canonical": "https://cannabisblueten.de/apotheke/schloss-apotheke",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Schloss Apotheke / svapo.de - Cannabis Apotheke in Offenbach am Main",
         "description": "Schloss Apotheke / svapo.de in Offenbach am Main. 147 Cannabis Produkte. Lieferung & Abholung. Bewertung: 4.0/5. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/schloss-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/schloss-apotheke",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/pharmacies/schloss-apotheke-ecfj8d.png"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Offenbach am Main",
-        "href": "https://weed.de/cannabis-apotheke/offenbach-am-main"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/offenbach-am-main"
       },
       {
         "name": "Schloss Apotheke / svapo.de",
-        "href": "https://weed.de/apotheke/schloss-apotheke"
+        "href": "https://cannabisblueten.de/apotheke/schloss-apotheke"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Offenbach am Main",
-            "item": "https://weed.de/cannabis-apotheke/offenbach-am-main"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/offenbach-am-main"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Schloss Apotheke / svapo.de",
-            "item": "https://weed.de/apotheke/schloss-apotheke"
+            "item": "https://cannabisblueten.de/apotheke/schloss-apotheke"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Schloss Apotheke / svapo.de",
-        "url": "https://weed.de/apotheke/schloss-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/schloss-apotheke",
+        "description": "Cannabis Apotheke in Offenbach am Main. 147 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Bürgeler Straße 35",
@@ -142,8 +143,37 @@
           "addressRegion": "Hessen",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 50.09563620000001,
+          "longitude": 8.776084299999999
+        },
         "telephone": "06960504047",
-        "email": "info@svapo.de"
+        "email": "info@svapo.de",
+        "sameAs": "https://www.svapo.de/",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.0",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
       }
     ]
   },

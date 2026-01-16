@@ -111,7 +111,7 @@
     "meta": {
       "title": "Cannamedical Balanced classic 8/8 | ab 16,70 €",
       "description": "Cannamedical Balanced classic 8/8 von Cannamedical. THC: 8%, CBD: 8%. Sorte: California Orange. Preis ab 16,70 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/cannamedical-balanced-classic-88",
+      "canonical": "https://cannabisblueten.de/product/cannamedical-balanced-classic-88",
       "robots": {
         "index": true,
         "follow": true
@@ -119,9 +119,9 @@
       "openGraph": {
         "title": "Cannamedical Balanced classic 8/8 | ab 16,70 €",
         "description": "Cannamedical Balanced classic 8/8 von Cannamedical. THC: 8%, CBD: 8%. Sorte: California Orange. Preis ab 16,70 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/cannamedical-balanced-classic-88",
+        "url": "https://cannabisblueten.de/product/cannamedical-balanced-classic-88",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/cannamedical-balanced-classic-88-07j6h9.png"
       }
@@ -129,19 +129,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cannamedical",
-        "href": "https://weed.de/brand/cannamedical"
+        "href": "https://cannabisblueten.de/brand/cannamedical"
       },
       {
         "name": "Cannamedical Balanced classic 8/8",
-        "href": "https://weed.de/product/cannamedical-balanced-classic-88"
+        "href": "https://cannabisblueten.de/product/cannamedical-balanced-classic-88"
       }
     ],
     "schema": [
@@ -153,19 +153,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Cannamedical Balanced classic 8/8",
-            "item": "https://weed.de/product/cannamedical-balanced-classic-88"
+            "item": "https://cannabisblueten.de/product/cannamedical-balanced-classic-88"
           }
         ]
       },
@@ -173,11 +173,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Cannamedical Balanced classic 8/8",
+        "url": "https://cannabisblueten.de/product/cannamedical-balanced-classic-88",
         "brand": {
           "@type": "Brand",
           "name": "Cannamedical"
         },
-        "description": "THC: 8%, CBD: 8%"
+        "description": "Medizinisches Cannabis Produkt. THC: 8%, CBD: 8%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/cannamedical-balanced-classic-88",
+          "priceCurrency": "EUR",
+          "price": "16.70",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

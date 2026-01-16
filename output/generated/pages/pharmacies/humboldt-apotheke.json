@@ -65,7 +65,7 @@
     "meta": {
       "title": "Humboldt Apotheke - Cannabis Apotheke in Berlin",
       "description": "Humboldt Apotheke in Berlin. 7 Cannabis Produkte. Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/humboldt-apotheke",
+      "canonical": "https://cannabisblueten.de/apotheke/humboldt-apotheke",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Humboldt Apotheke - Cannabis Apotheke in Berlin",
         "description": "Humboldt Apotheke in Berlin. 7 Cannabis Produkte. Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/humboldt-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/humboldt-apotheke",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/68f950c7a1562b9eee8edfec-8bae6c.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Berlin",
-        "href": "https://weed.de/cannabis-apotheke/berlin"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/berlin"
       },
       {
         "name": "Humboldt Apotheke",
-        "href": "https://weed.de/apotheke/humboldt-apotheke"
+        "href": "https://cannabisblueten.de/apotheke/humboldt-apotheke"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Berlin",
-            "item": "https://weed.de/cannabis-apotheke/berlin"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/berlin"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Humboldt Apotheke",
-            "item": "https://weed.de/apotheke/humboldt-apotheke"
+            "item": "https://cannabisblueten.de/apotheke/humboldt-apotheke"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Humboldt Apotheke",
-        "url": "https://weed.de/apotheke/humboldt-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/humboldt-apotheke",
+        "description": "Cannabis Apotheke in Berlin. 7 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Chausseestraße 7",
@@ -142,8 +143,29 @@
           "addressRegion": "Berlin",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 52.5281342,
+          "longitude": 13.3863209
+        },
         "telephone": "0302828790",
-        "email": "Humboldtapo@gmail.com"
+        "email": "Humboldtapo@gmail.com",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5.0",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
       }
     ]
   },

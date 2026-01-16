@@ -103,7 +103,7 @@
     "meta": {
       "title": "LOT 420 AB PT - Cantourage | ab 8,34 €",
       "description": "LOT 420 AB PT von Cantourage. THC: 26%, CBD: 1%. Sorte: Apples & Bananas. Preis ab 8,34 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/lot-42-ab-pt",
+      "canonical": "https://cannabisblueten.de/product/lot-42-ab-pt",
       "robots": {
         "index": true,
         "follow": true
@@ -111,9 +111,9 @@
       "openGraph": {
         "title": "LOT 420 AB PT - Cantourage | ab 8,34 €",
         "description": "LOT 420 AB PT von Cantourage. THC: 26%, CBD: 1%. Sorte: Apples & Bananas. Preis ab 8,34 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/lot-42-ab-pt",
+        "url": "https://cannabisblueten.de/product/lot-42-ab-pt",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/lot-42-ab-pt-84cahd.png"
       }
@@ -121,19 +121,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cantourage",
-        "href": "https://weed.de/brand/cantourage"
+        "href": "https://cannabisblueten.de/brand/cantourage"
       },
       {
         "name": "LOT 420 AB PT",
-        "href": "https://weed.de/product/lot-42-ab-pt"
+        "href": "https://cannabisblueten.de/product/lot-42-ab-pt"
       }
     ],
     "schema": [
@@ -145,19 +145,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "LOT 420 AB PT",
-            "item": "https://weed.de/product/lot-42-ab-pt"
+            "item": "https://cannabisblueten.de/product/lot-42-ab-pt"
           }
         ]
       },
@@ -165,12 +165,29 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "LOT 420 AB PT",
+        "url": "https://cannabisblueten.de/product/lot-42-ab-pt",
         "brand": {
           "@type": "Brand",
           "name": "Cantourage"
         },
         "gtin13": [],
-        "description": "THC: 26%, CBD: 1%"
+        "sku": [],
+        "description": "Medizinisches Cannabis Produkt. THC: 26%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/lot-42-ab-pt",
+          "priceCurrency": "EUR",
+          "price": "8.34",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "8.34",
+            "maxPrice": "9.60",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

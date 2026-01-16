@@ -115,7 +115,7 @@
     "meta": {
       "title": "Adrex 26 CKD CAN - Adrexpharma | ab 3,89 €",
       "description": "Adrex 26 CKD CAN von Adrexpharma. THC: 26%, CBD: 1%. Sorte: Cookie Dough. Preis ab 3,89 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/adrex-26-ckd-can",
+      "canonical": "https://cannabisblueten.de/product/adrex-26-ckd-can",
       "robots": {
         "index": true,
         "follow": true
@@ -123,9 +123,9 @@
       "openGraph": {
         "title": "Adrex 26 CKD CAN - Adrexpharma | ab 3,89 €",
         "description": "Adrex 26 CKD CAN von Adrexpharma. THC: 26%, CBD: 1%. Sorte: Cookie Dough. Preis ab 3,89 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/adrex-26-ckd-can",
+        "url": "https://cannabisblueten.de/product/adrex-26-ckd-can",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/adrex-26-ckd-can-hjag80.png"
       }
@@ -133,19 +133,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Adrexpharma",
-        "href": "https://weed.de/brand/adrexpharma"
+        "href": "https://cannabisblueten.de/brand/adrexpharma"
       },
       {
         "name": "Adrex 26 CKD CAN",
-        "href": "https://weed.de/product/adrex-26-ckd-can"
+        "href": "https://cannabisblueten.de/product/adrex-26-ckd-can"
       }
     ],
     "schema": [
@@ -157,19 +157,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Adrex 26 CKD CAN",
-            "item": "https://weed.de/product/adrex-26-ckd-can"
+            "item": "https://cannabisblueten.de/product/adrex-26-ckd-can"
           }
         ]
       },
@@ -177,11 +177,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Adrex 26 CKD CAN",
+        "url": "https://cannabisblueten.de/product/adrex-26-ckd-can",
         "brand": {
           "@type": "Brand",
           "name": "Adrexpharma"
         },
-        "description": "THC: 26%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 26%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/adrex-26-ckd-can",
+          "priceCurrency": "EUR",
+          "price": "3.89",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "3.89",
+            "maxPrice": "7.02",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

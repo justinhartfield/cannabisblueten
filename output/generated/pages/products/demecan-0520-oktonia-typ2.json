@@ -103,7 +103,7 @@
     "meta": {
       "title": "Demecan 05:20 Oktonia Typ2 | ab 10,59 €",
       "description": "Demecan 05:20 Oktonia Typ2 von Demecan. THC: 0.5%, CBD: 2%. Sorte: Orange Velvet. Preis ab 10,59 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/demecan-0520-oktonia-typ2",
+      "canonical": "https://cannabisblueten.de/product/demecan-0520-oktonia-typ2",
       "robots": {
         "index": true,
         "follow": true
@@ -111,9 +111,9 @@
       "openGraph": {
         "title": "Demecan 05:20 Oktonia Typ2 | ab 10,59 €",
         "description": "Demecan 05:20 Oktonia Typ2 von Demecan. THC: 0.5%, CBD: 2%. Sorte: Orange Velvet. Preis ab 10,59 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/demecan-0520-oktonia-typ2",
+        "url": "https://cannabisblueten.de/product/demecan-0520-oktonia-typ2",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/demecan-0520-oktonia-typ2-i7c2e4.png"
       }
@@ -121,19 +121,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Demecan",
-        "href": "https://weed.de/brand/demecan"
+        "href": "https://cannabisblueten.de/brand/demecan"
       },
       {
         "name": "Demecan 05:20 Oktonia Typ2",
-        "href": "https://weed.de/product/demecan-0520-oktonia-typ2"
+        "href": "https://cannabisblueten.de/product/demecan-0520-oktonia-typ2"
       }
     ],
     "schema": [
@@ -145,19 +145,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Demecan 05:20 Oktonia Typ2",
-            "item": "https://weed.de/product/demecan-0520-oktonia-typ2"
+            "item": "https://cannabisblueten.de/product/demecan-0520-oktonia-typ2"
           }
         ]
       },
@@ -165,11 +165,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Demecan 05:20 Oktonia Typ2",
+        "url": "https://cannabisblueten.de/product/demecan-0520-oktonia-typ2",
         "brand": {
           "@type": "Brand",
           "name": "Demecan"
         },
-        "description": "THC: 0.5%, CBD: 2%"
+        "description": "Medizinisches Cannabis Produkt. THC: 0.5%, CBD: 2%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/demecan-0520-oktonia-typ2",
+          "priceCurrency": "EUR",
+          "price": "10.59",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "10.59",
+            "maxPrice": "14.00",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

@@ -108,7 +108,7 @@
     "meta": {
       "title": "Canopy TCK 27 - Canopy Growth | ab 5,49 €",
       "description": "Canopy TCK 27 von Canopy Growth. THC: 28%, CBD: 0.5%. Sorte: Tiger Cake. Preis ab 5,49 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/canopy-tck-27",
+      "canonical": "https://cannabisblueten.de/product/canopy-tck-27",
       "robots": {
         "index": true,
         "follow": true
@@ -116,28 +116,28 @@
       "openGraph": {
         "title": "Canopy TCK 27 - Canopy Growth | ab 5,49 €",
         "description": "Canopy TCK 27 von Canopy Growth. THC: 28%, CBD: 0.5%. Sorte: Tiger Cake. Preis ab 5,49 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/canopy-tck-27",
+        "url": "https://cannabisblueten.de/product/canopy-tck-27",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Canopy Growth",
-        "href": "https://weed.de/brand/canopy-growth"
+        "href": "https://cannabisblueten.de/brand/canopy-growth"
       },
       {
         "name": "Canopy TCK 27",
-        "href": "https://weed.de/product/canopy-tck-27"
+        "href": "https://cannabisblueten.de/product/canopy-tck-27"
       }
     ],
     "schema": [
@@ -149,19 +149,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Canopy TCK 27",
-            "item": "https://weed.de/product/canopy-tck-27"
+            "item": "https://cannabisblueten.de/product/canopy-tck-27"
           }
         ]
       },
@@ -169,11 +169,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Canopy TCK 27",
+        "url": "https://cannabisblueten.de/product/canopy-tck-27",
         "brand": {
           "@type": "Brand",
           "name": "Canopy Growth"
         },
-        "description": "THC: 28%, CBD: 0.5%"
+        "description": "Medizinisches Cannabis Produkt. THC: 28%, CBD: 0.5%, Genetik: indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/canopy-tck-27",
+          "priceCurrency": "EUR",
+          "price": "5.49",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "5.49",
+            "maxPrice": "8.49",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

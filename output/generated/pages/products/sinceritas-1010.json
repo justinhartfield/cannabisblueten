@@ -78,7 +78,7 @@
     "meta": {
       "title": "Sinceritas 10/10 | ab 3,10 €",
       "description": "Sinceritas 10/10 von Sinceritas. THC: 1%, CBD: 1%. Preis ab 3,10 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/sinceritas-1010",
+      "canonical": "https://cannabisblueten.de/product/sinceritas-1010",
       "robots": {
         "index": true,
         "follow": true
@@ -86,28 +86,28 @@
       "openGraph": {
         "title": "Sinceritas 10/10 | ab 3,10 €",
         "description": "Sinceritas 10/10 von Sinceritas. THC: 1%, CBD: 1%. Preis ab 3,10 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/sinceritas-1010",
+        "url": "https://cannabisblueten.de/product/sinceritas-1010",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Sinceritas",
-        "href": "https://weed.de/brand/sinceritas"
+        "href": "https://cannabisblueten.de/brand/sinceritas"
       },
       {
         "name": "Sinceritas 10/10",
-        "href": "https://weed.de/product/sinceritas-1010"
+        "href": "https://cannabisblueten.de/product/sinceritas-1010"
       }
     ],
     "schema": [
@@ -119,19 +119,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Sinceritas 10/10",
-            "item": "https://weed.de/product/sinceritas-1010"
+            "item": "https://cannabisblueten.de/product/sinceritas-1010"
           }
         ]
       },
@@ -139,11 +139,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Sinceritas 10/10",
+        "url": "https://cannabisblueten.de/product/sinceritas-1010",
         "brand": {
           "@type": "Brand",
           "name": "Sinceritas"
         },
-        "description": "THC: 1%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 1%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/sinceritas-1010",
+          "priceCurrency": "EUR",
+          "price": "3.10",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "3.10",
+            "maxPrice": "9.93",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

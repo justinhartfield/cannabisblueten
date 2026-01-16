@@ -65,7 +65,7 @@
     "meta": {
       "title": "Cannasana - Cannabis Apotheke in Hohe Börde",
       "description": "Cannasana in Hohe Börde. 69 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/hirsch-apotheke-1",
+      "canonical": "https://cannabisblueten.de/apotheke/hirsch-apotheke-1",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Cannasana - Cannabis Apotheke in Hohe Börde",
         "description": "Cannasana in Hohe Börde. 69 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/hirsch-apotheke-1",
+        "url": "https://cannabisblueten.de/apotheke/hirsch-apotheke-1",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/67cb31cbbd3198ede44fbed1-47f04e.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Hohe Börde",
-        "href": "https://weed.de/cannabis-apotheke/hohe-boerde"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/hohe-boerde"
       },
       {
         "name": "Cannasana",
-        "href": "https://weed.de/apotheke/hirsch-apotheke-1"
+        "href": "https://cannabisblueten.de/apotheke/hirsch-apotheke-1"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Hohe Börde",
-            "item": "https://weed.de/cannabis-apotheke/hohe-boerde"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/hohe-boerde"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Cannasana",
-            "item": "https://weed.de/apotheke/hirsch-apotheke-1"
+            "item": "https://cannabisblueten.de/apotheke/hirsch-apotheke-1"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Cannasana",
-        "url": "https://weed.de/apotheke/hirsch-apotheke-1",
+        "url": "https://cannabisblueten.de/apotheke/hirsch-apotheke-1",
+        "description": "Cannabis Apotheke in Hohe Börde. 69 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Hohe Börde-Eichenbarleben, Deutschland",
@@ -142,8 +143,36 @@
           "addressRegion": "Sachsen-Anhalt",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 52.1667076,
+          "longitude": 11.4022893
+        },
         "telephone": "039206169995",
-        "email": "service@cannasana.de"
+        "email": "service@cannasana.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5.0",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
       }
     ]
   },

@@ -104,7 +104,7 @@
     "meta": {
       "title": "enua 22/1 BNM CA | ab 6,69 €",
       "description": "enua 22/1 BNM CA von enua. THC: 23%, CBD: 1%. Sorte: Banana Mints. Preis ab 6,69 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/enua-221-bnm-ca",
+      "canonical": "https://cannabisblueten.de/product/enua-221-bnm-ca",
       "robots": {
         "index": true,
         "follow": true
@@ -112,9 +112,9 @@
       "openGraph": {
         "title": "enua 22/1 BNM CA | ab 6,69 €",
         "description": "enua 22/1 BNM CA von enua. THC: 23%, CBD: 1%. Sorte: Banana Mints. Preis ab 6,69 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/enua-221-bnm-ca",
+        "url": "https://cannabisblueten.de/product/enua-221-bnm-ca",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/enua-221-bnm-ca-jb572e.png"
       }
@@ -122,19 +122,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "enua",
-        "href": "https://weed.de/brand/enua"
+        "href": "https://cannabisblueten.de/brand/enua"
       },
       {
         "name": "enua 22/1 BNM CA",
-        "href": "https://weed.de/product/enua-221-bnm-ca"
+        "href": "https://cannabisblueten.de/product/enua-221-bnm-ca"
       }
     ],
     "schema": [
@@ -146,19 +146,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "enua 22/1 BNM CA",
-            "item": "https://weed.de/product/enua-221-bnm-ca"
+            "item": "https://cannabisblueten.de/product/enua-221-bnm-ca"
           }
         ]
       },
@@ -166,11 +166,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "enua 22/1 BNM CA",
+        "url": "https://cannabisblueten.de/product/enua-221-bnm-ca",
         "brand": {
           "@type": "Brand",
           "name": "enua"
         },
-        "description": "THC: 23%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 23%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/enua-221-bnm-ca",
+          "priceCurrency": "EUR",
+          "price": "6.69",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "6.69",
+            "maxPrice": "8.49",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

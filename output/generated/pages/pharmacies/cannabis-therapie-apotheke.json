@@ -65,7 +65,7 @@
     "meta": {
       "title": "Cannabis-Therapie-Apotheke - Cannabis Apotheke in Seelze",
       "description": "Cannabis-Therapie-Apotheke in Seelze. Abholung. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/cannabis-therapie-apotheke",
+      "canonical": "https://cannabisblueten.de/apotheke/cannabis-therapie-apotheke",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Cannabis-Therapie-Apotheke - Cannabis Apotheke in Seelze",
         "description": "Cannabis-Therapie-Apotheke in Seelze. Abholung. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/cannabis-therapie-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/cannabis-therapie-apotheke",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/667d516e4cd3274d3245ce2c-4656d0.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Seelze",
-        "href": "https://weed.de/cannabis-apotheke/seelze"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/seelze"
       },
       {
         "name": "Cannabis-Therapie-Apotheke",
-        "href": "https://weed.de/apotheke/cannabis-therapie-apotheke"
+        "href": "https://cannabisblueten.de/apotheke/cannabis-therapie-apotheke"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Seelze",
-            "item": "https://weed.de/cannabis-apotheke/seelze"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/seelze"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Cannabis-Therapie-Apotheke",
-            "item": "https://weed.de/apotheke/cannabis-therapie-apotheke"
+            "item": "https://cannabisblueten.de/apotheke/cannabis-therapie-apotheke"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Cannabis-Therapie-Apotheke",
-        "url": "https://weed.de/apotheke/cannabis-therapie-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/cannabis-therapie-apotheke",
+        "description": "Cannabis Apotheke in Seelze. 0 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Seelze, Deutschland",
@@ -142,8 +143,23 @@
           "addressRegion": "Niedersachsen",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 52.3949194,
+          "longitude": 9.5939408
+        },
         "telephone": "051140069903",
-        "email": "loens-apotheke-letter@web.de"
+        "email": "loens-apotheke-letter@web.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ]
       }
     ]
   },

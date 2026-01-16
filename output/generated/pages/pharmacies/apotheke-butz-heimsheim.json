@@ -65,7 +65,7 @@
     "meta": {
       "title": "cannabis-apotheke-online.de - Cannabis Apotheke in Heimsheim",
       "description": "cannabis-apotheke-online.de in Heimsheim. Lieferung & Abholung. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/apotheke-butz-heimsheim",
+      "canonical": "https://cannabisblueten.de/apotheke/apotheke-butz-heimsheim",
       "robots": {
         "index": true,
         "follow": true
@@ -73,28 +73,28 @@
       "openGraph": {
         "title": "cannabis-apotheke-online.de - Cannabis Apotheke in Heimsheim",
         "description": "cannabis-apotheke-online.de in Heimsheim. Lieferung & Abholung. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/apotheke-butz-heimsheim",
+        "url": "https://cannabisblueten.de/apotheke/apotheke-butz-heimsheim",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Heimsheim",
-        "href": "https://weed.de/cannabis-apotheke/heimsheim"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/heimsheim"
       },
       {
         "name": "cannabis-apotheke-online.de",
-        "href": "https://weed.de/apotheke/apotheke-butz-heimsheim"
+        "href": "https://cannabisblueten.de/apotheke/apotheke-butz-heimsheim"
       }
     ],
     "schema": [
@@ -106,25 +106,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Heimsheim",
-            "item": "https://weed.de/cannabis-apotheke/heimsheim"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/heimsheim"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "cannabis-apotheke-online.de",
-            "item": "https://weed.de/apotheke/apotheke-butz-heimsheim"
+            "item": "https://cannabisblueten.de/apotheke/apotheke-butz-heimsheim"
           }
         ]
       },
@@ -132,7 +132,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "cannabis-apotheke-online.de",
-        "url": "https://weed.de/apotheke/apotheke-butz-heimsheim",
+        "url": "https://cannabisblueten.de/apotheke/apotheke-butz-heimsheim",
+        "description": "Cannabis Apotheke in Heimsheim. 0 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Heimsheim, Deutschland",
@@ -141,8 +142,30 @@
           "addressRegion": "Baden-Württemberg",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 48.8080814,
+          "longitude": 8.863622699999999
+        },
         "telephone": "07033469530",
-        "email": "info@cannabis-apotheke-online.de"
+        "email": "info@cannabis-apotheke-online.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ]
       }
     ]
   },

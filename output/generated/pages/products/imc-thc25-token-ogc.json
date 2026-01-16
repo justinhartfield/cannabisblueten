@@ -101,7 +101,7 @@
     "meta": {
       "title": "IMC THC25 Token OGC | ab 4,39 €",
       "description": "IMC THC25 Token OGC von IMC. THC: 25%, CBD: 1%. Sorte: OG Cheese. Preis ab 4,39 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/imc-thc25-token-ogc",
+      "canonical": "https://cannabisblueten.de/product/imc-thc25-token-ogc",
       "robots": {
         "index": true,
         "follow": true
@@ -109,28 +109,28 @@
       "openGraph": {
         "title": "IMC THC25 Token OGC | ab 4,39 €",
         "description": "IMC THC25 Token OGC von IMC. THC: 25%, CBD: 1%. Sorte: OG Cheese. Preis ab 4,39 €. Preise vergleichen.",
-        "url": "https://weed.de/product/imc-thc25-token-ogc",
+        "url": "https://cannabisblueten.de/product/imc-thc25-token-ogc",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "IMC",
-        "href": "https://weed.de/brand/imc"
+        "href": "https://cannabisblueten.de/brand/imc"
       },
       {
         "name": "IMC THC25 Token OGC",
-        "href": "https://weed.de/product/imc-thc25-token-ogc"
+        "href": "https://cannabisblueten.de/product/imc-thc25-token-ogc"
       }
     ],
     "schema": [
@@ -142,19 +142,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "IMC THC25 Token OGC",
-            "item": "https://weed.de/product/imc-thc25-token-ogc"
+            "item": "https://cannabisblueten.de/product/imc-thc25-token-ogc"
           }
         ]
       },
@@ -162,11 +162,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "IMC THC25 Token OGC",
+        "url": "https://cannabisblueten.de/product/imc-thc25-token-ogc",
         "brand": {
           "@type": "Brand",
           "name": "IMC"
         },
-        "description": "THC: 25%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 25%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/imc-thc25-token-ogc",
+          "priceCurrency": "EUR",
+          "price": "4.39",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

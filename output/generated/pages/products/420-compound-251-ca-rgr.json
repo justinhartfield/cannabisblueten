@@ -110,7 +110,7 @@
     "meta": {
       "title": "420 Compound 25/1 CA RGR - Four 20 Pharma | ab 9,09 €",
       "description": "420 Compound 25/1 CA RGR von Four 20 Pharma. THC: 25%, CBD: 1%. Sorte: Rose Gold Runtz. Preis ab 9,09 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/420-compound-251-ca-rgr",
+      "canonical": "https://cannabisblueten.de/product/420-compound-251-ca-rgr",
       "robots": {
         "index": true,
         "follow": true
@@ -118,9 +118,9 @@
       "openGraph": {
         "title": "420 Compound 25/1 CA RGR - Four 20 Pharma | ab 9,09 €",
         "description": "420 Compound 25/1 CA RGR von Four 20 Pharma. THC: 25%, CBD: 1%. Sorte: Rose Gold Runtz. Preis ab 9,09 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/420-compound-251-ca-rgr",
+        "url": "https://cannabisblueten.de/product/420-compound-251-ca-rgr",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/420-compound-251-ca-rgr-j8f8e7.jpeg"
       }
@@ -128,19 +128,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Four 20 Pharma",
-        "href": "https://weed.de/brand/four-20-pharma"
+        "href": "https://cannabisblueten.de/brand/four-20-pharma"
       },
       {
         "name": "420 Compound 25/1 CA RGR",
-        "href": "https://weed.de/product/420-compound-251-ca-rgr"
+        "href": "https://cannabisblueten.de/product/420-compound-251-ca-rgr"
       }
     ],
     "schema": [
@@ -152,19 +152,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "420 Compound 25/1 CA RGR",
-            "item": "https://weed.de/product/420-compound-251-ca-rgr"
+            "item": "https://cannabisblueten.de/product/420-compound-251-ca-rgr"
           }
         ]
       },
@@ -172,11 +172,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "420 Compound 25/1 CA RGR",
+        "url": "https://cannabisblueten.de/product/420-compound-251-ca-rgr",
         "brand": {
           "@type": "Brand",
           "name": "Four 20 Pharma"
         },
-        "description": "THC: 25%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 25%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/420-compound-251-ca-rgr",
+          "priceCurrency": "EUR",
+          "price": "9.09",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

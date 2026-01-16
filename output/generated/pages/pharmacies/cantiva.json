@@ -65,7 +65,7 @@
     "meta": {
       "title": "Cantiva - Cannabis Apotheke - Cannabis Apotheke in Ludwigsburg",
       "description": "Cantiva - Cannabis Apotheke in Ludwigsburg. 37 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/cantiva",
+      "canonical": "https://cannabisblueten.de/apotheke/cantiva",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Cantiva - Cannabis Apotheke - Cannabis Apotheke in Ludwigsburg",
         "description": "Cantiva - Cannabis Apotheke in Ludwigsburg. 37 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/cantiva",
+        "url": "https://cannabisblueten.de/apotheke/cantiva",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/68f27c3f6f96f912ff0b2a5f-j3j6gc.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Ludwigsburg",
-        "href": "https://weed.de/cannabis-apotheke/ludwigsburg"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/ludwigsburg"
       },
       {
         "name": "Cantiva - Cannabis Apotheke",
-        "href": "https://weed.de/apotheke/cantiva"
+        "href": "https://cannabisblueten.de/apotheke/cantiva"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Ludwigsburg",
-            "item": "https://weed.de/cannabis-apotheke/ludwigsburg"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/ludwigsburg"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Cantiva - Cannabis Apotheke",
-            "item": "https://weed.de/apotheke/cantiva"
+            "item": "https://cannabisblueten.de/apotheke/cantiva"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Cantiva - Cannabis Apotheke",
-        "url": "https://weed.de/apotheke/cantiva",
+        "url": "https://cannabisblueten.de/apotheke/cantiva",
+        "description": "Cannabis Apotheke in Ludwigsburg. 37 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Friedrichstraße 124-126",
@@ -142,8 +143,31 @@
           "addressRegion": "Baden-Württemberg",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 48.8889087,
+          "longitude": 9.2095178
+        },
         "telephone": "071411469900",
-        "email": "info@cantiva.de"
+        "email": "info@cantiva.de",
+        "sameAs": "cantiva.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ]
       }
     ]
   },

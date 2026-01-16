@@ -104,7 +104,7 @@
     "meta": {
       "title": "Cannamedical CM 24/1 | ab 6,19 €",
       "description": "Cannamedical CM 24/1 von Cannamedical. THC: 24%, CBD: 1%. Sorte: Rain. Preis ab 6,19 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/cannamedical-cm-241",
+      "canonical": "https://cannabisblueten.de/product/cannamedical-cm-241",
       "robots": {
         "index": true,
         "follow": true
@@ -112,28 +112,28 @@
       "openGraph": {
         "title": "Cannamedical CM 24/1 | ab 6,19 €",
         "description": "Cannamedical CM 24/1 von Cannamedical. THC: 24%, CBD: 1%. Sorte: Rain. Preis ab 6,19 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/cannamedical-cm-241",
+        "url": "https://cannabisblueten.de/product/cannamedical-cm-241",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cannamedical",
-        "href": "https://weed.de/brand/cannamedical"
+        "href": "https://cannabisblueten.de/brand/cannamedical"
       },
       {
         "name": "Cannamedical CM 24/1",
-        "href": "https://weed.de/product/cannamedical-cm-241"
+        "href": "https://cannabisblueten.de/product/cannamedical-cm-241"
       }
     ],
     "schema": [
@@ -145,19 +145,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Cannamedical CM 24/1",
-            "item": "https://weed.de/product/cannamedical-cm-241"
+            "item": "https://cannabisblueten.de/product/cannamedical-cm-241"
           }
         ]
       },
@@ -165,11 +165,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Cannamedical CM 24/1",
+        "url": "https://cannabisblueten.de/product/cannamedical-cm-241",
         "brand": {
           "@type": "Brand",
           "name": "Cannamedical"
         },
-        "description": "THC: 24%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 24%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/cannamedical-cm-241",
+          "priceCurrency": "EUR",
+          "price": "6.19",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "6.19",
+            "maxPrice": "7.45",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

@@ -103,7 +103,7 @@
     "meta": {
       "title": "Big Dreams 18/1 PSF DOB - Remexian Pharma | ab 5,94 €",
       "description": "Big Dreams 18/1 PSF DOB von Remexian Pharma. THC: 18%, CBD: 1%. Sorte: Donny Burger. Preis ab 5,94 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/big-dreams-181-psf-dob",
+      "canonical": "https://cannabisblueten.de/product/big-dreams-181-psf-dob",
       "robots": {
         "index": true,
         "follow": true
@@ -111,28 +111,28 @@
       "openGraph": {
         "title": "Big Dreams 18/1 PSF DOB - Remexian Pharma | ab 5,94 €",
         "description": "Big Dreams 18/1 PSF DOB von Remexian Pharma. THC: 18%, CBD: 1%. Sorte: Donny Burger. Preis ab 5,94 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/big-dreams-181-psf-dob",
+        "url": "https://cannabisblueten.de/product/big-dreams-181-psf-dob",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Remexian Pharma",
-        "href": "https://weed.de/brand/remexian-pharma"
+        "href": "https://cannabisblueten.de/brand/remexian-pharma"
       },
       {
         "name": "Big Dreams 18/1 PSF DOB",
-        "href": "https://weed.de/product/big-dreams-181-psf-dob"
+        "href": "https://cannabisblueten.de/product/big-dreams-181-psf-dob"
       }
     ],
     "schema": [
@@ -144,19 +144,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Big Dreams 18/1 PSF DOB",
-            "item": "https://weed.de/product/big-dreams-181-psf-dob"
+            "item": "https://cannabisblueten.de/product/big-dreams-181-psf-dob"
           }
         ]
       },
@@ -164,12 +164,23 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Big Dreams 18/1 PSF DOB",
+        "url": "https://cannabisblueten.de/product/big-dreams-181-psf-dob",
         "brand": {
           "@type": "Brand",
           "name": "Remexian Pharma"
         },
         "gtin13": [],
-        "description": "THC: 18%, CBD: 1%"
+        "sku": [],
+        "description": "Medizinisches Cannabis Produkt. THC: 18%, CBD: 1%, Genetik: indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/big-dreams-181-psf-dob",
+          "priceCurrency": "EUR",
+          "price": "5.94",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

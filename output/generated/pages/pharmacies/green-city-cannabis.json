@@ -65,7 +65,7 @@
     "meta": {
       "title": "Green City Cannabis - Cannabis Apotheke in Grünstadt",
       "description": "Green City Cannabis in Grünstadt. 62 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/green-city-cannabis",
+      "canonical": "https://cannabisblueten.de/apotheke/green-city-cannabis",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Green City Cannabis - Cannabis Apotheke in Grünstadt",
         "description": "Green City Cannabis in Grünstadt. 62 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/green-city-cannabis",
+        "url": "https://cannabisblueten.de/apotheke/green-city-cannabis",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/6839d8a2cad57574a9bf9c69-6g57j2.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Grünstadt",
-        "href": "https://weed.de/cannabis-apotheke/gruenstadt"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/gruenstadt"
       },
       {
         "name": "Green City Cannabis",
-        "href": "https://weed.de/apotheke/green-city-cannabis"
+        "href": "https://cannabisblueten.de/apotheke/green-city-cannabis"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Grünstadt",
-            "item": "https://weed.de/cannabis-apotheke/gruenstadt"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/gruenstadt"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Green City Cannabis",
-            "item": "https://weed.de/apotheke/green-city-cannabis"
+            "item": "https://cannabisblueten.de/apotheke/green-city-cannabis"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Green City Cannabis",
-        "url": "https://weed.de/apotheke/green-city-cannabis",
+        "url": "https://cannabisblueten.de/apotheke/green-city-cannabis",
+        "description": "Cannabis Apotheke in Grünstadt. 62 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Hauptstraße 16",
@@ -142,8 +143,31 @@
           "addressRegion": "Rheinland-Pfalz",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 49.5638709,
+          "longitude": 8.1642298
+        },
         "telephone": "06359919238",
-        "email": "shop@greencitycannabis.de"
+        "email": "shop@greencitycannabis.de",
+        "sameAs": "https://greencitycannabis.de/",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ]
       }
     ]
   },

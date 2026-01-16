@@ -65,7 +65,7 @@
     "meta": {
       "title": "ABC Apotheke am Werth - Cannabis Apotheke in Wuppertal",
       "description": "ABC Apotheke am Werth in Wuppertal. 72 Cannabis Produkte. Lieferung & Abholung. Bewertung: 3.3/5. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/abc-apotheke-am-werth",
+      "canonical": "https://cannabisblueten.de/apotheke/abc-apotheke-am-werth",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "ABC Apotheke am Werth - Cannabis Apotheke in Wuppertal",
         "description": "ABC Apotheke am Werth in Wuppertal. 72 Cannabis Produkte. Lieferung & Abholung. Bewertung: 3.3/5. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/abc-apotheke-am-werth",
+        "url": "https://cannabisblueten.de/apotheke/abc-apotheke-am-werth",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/pharmacies/643fd621204648008ec31eb2-317a1c.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Wuppertal",
-        "href": "https://weed.de/cannabis-apotheke/wuppertal"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/wuppertal"
       },
       {
         "name": "ABC Apotheke am Werth",
-        "href": "https://weed.de/apotheke/abc-apotheke-am-werth"
+        "href": "https://cannabisblueten.de/apotheke/abc-apotheke-am-werth"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Wuppertal",
-            "item": "https://weed.de/cannabis-apotheke/wuppertal"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/wuppertal"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "ABC Apotheke am Werth",
-            "item": "https://weed.de/apotheke/abc-apotheke-am-werth"
+            "item": "https://cannabisblueten.de/apotheke/abc-apotheke-am-werth"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "ABC Apotheke am Werth",
-        "url": "https://weed.de/apotheke/abc-apotheke-am-werth",
+        "url": "https://cannabisblueten.de/apotheke/abc-apotheke-am-werth",
+        "description": "Cannabis Apotheke in Wuppertal. 72 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Werth, 53",
@@ -142,8 +143,37 @@
           "addressRegion": "Nordrhein-Westfalen",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 51.2718268,
+          "longitude": 7.2014476
+        },
         "telephone": "004920125023028",
-        "email": "info@abc-apo.de"
+        "email": "info@abc-apo.de",
+        "sameAs": "https://abc-cannabis.de/",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "3.3",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
       }
     ]
   },

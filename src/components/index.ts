@@ -12,3 +12,4 @@ export { CitySearch } from './CitySearch';
 export { GermanyMap, prepareStateData } from './GermanyMap';
 export { ApothekeHubClient } from './ApothekeHubClient';
 export { CityMapClient } from './CityMapClient';
+export { HomeSearch } from './HomeSearch';

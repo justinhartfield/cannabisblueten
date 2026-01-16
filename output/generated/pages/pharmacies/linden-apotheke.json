@@ -65,7 +65,7 @@
     "meta": {
       "title": "KrautKurier (Linden Apotheke) - Cannabis Apotheke in Dortmund",
       "description": "KrautKurier (Linden Apotheke) in Dortmund. 55 Cannabis Produkte. Lieferung & Abholung. Bewertung: 3.4/5. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/linden-apotheke",
+      "canonical": "https://cannabisblueten.de/apotheke/linden-apotheke",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "KrautKurier (Linden Apotheke) - Cannabis Apotheke in Dortmund",
         "description": "KrautKurier (Linden Apotheke) in Dortmund. 55 Cannabis Produkte. Lieferung & Abholung. Bewertung: 3.4/5. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/linden-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/linden-apotheke",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/67505022b79af65608377f54-dada1d.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Dortmund",
-        "href": "https://weed.de/cannabis-apotheke/dortmund"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/dortmund"
       },
       {
         "name": "KrautKurier (Linden Apotheke)",
-        "href": "https://weed.de/apotheke/linden-apotheke"
+        "href": "https://cannabisblueten.de/apotheke/linden-apotheke"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Dortmund",
-            "item": "https://weed.de/cannabis-apotheke/dortmund"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/dortmund"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "KrautKurier (Linden Apotheke)",
-            "item": "https://weed.de/apotheke/linden-apotheke"
+            "item": "https://cannabisblueten.de/apotheke/linden-apotheke"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "KrautKurier (Linden Apotheke)",
-        "url": "https://weed.de/apotheke/linden-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/linden-apotheke",
+        "description": "Cannabis Apotheke in Dortmund. 55 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Kirchlinde, Dortmund, Deutschland",
@@ -142,8 +143,36 @@
           "addressRegion": "Nordrhein-Westfalen",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 51.52093199999999,
+          "longitude": 7.364143
+        },
         "telephone": "0231670704",
-        "email": "order@krautkurier.shop"
+        "email": "order@krautkurier.shop",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "3.4",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
       }
     ]
   },

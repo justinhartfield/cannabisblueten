@@ -65,7 +65,7 @@
     "meta": {
       "title": "Cannalles im Salzlandkreis - Cannabis Apotheke in Hecklingen",
       "description": "Cannalles im Salzlandkreis in Hecklingen. 22 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/cannalles",
+      "canonical": "https://cannabisblueten.de/apotheke/cannalles",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Cannalles im Salzlandkreis - Cannabis Apotheke in Hecklingen",
         "description": "Cannalles im Salzlandkreis in Hecklingen. 22 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/cannalles",
+        "url": "https://cannabisblueten.de/apotheke/cannalles",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/68679be5de9d8164b68127b4-36fb1d.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Hecklingen",
-        "href": "https://weed.de/cannabis-apotheke/hecklingen"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/hecklingen"
       },
       {
         "name": "Cannalles im Salzlandkreis",
-        "href": "https://weed.de/apotheke/cannalles"
+        "href": "https://cannabisblueten.de/apotheke/cannalles"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Hecklingen",
-            "item": "https://weed.de/cannabis-apotheke/hecklingen"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/hecklingen"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Cannalles im Salzlandkreis",
-            "item": "https://weed.de/apotheke/cannalles"
+            "item": "https://cannabisblueten.de/apotheke/cannalles"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Cannalles im Salzlandkreis",
-        "url": "https://weed.de/apotheke/cannalles",
+        "url": "https://cannabisblueten.de/apotheke/cannalles",
+        "description": "Cannabis Apotheke in Hecklingen. 22 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Hermann-Danz-Straße 76",
@@ -142,8 +143,37 @@
           "addressRegion": "Sachsen-Anhalt",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 51.8480628,
+          "longitude": 11.535989
+        },
         "telephone": "03925284258",
-        "email": "shop@cannalles.de"
+        "email": "shop@cannalles.de",
+        "sameAs": "cannalles.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5.0",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
       }
     ]
   },

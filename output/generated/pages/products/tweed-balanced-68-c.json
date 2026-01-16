@@ -104,7 +104,7 @@
     "meta": {
       "title": "Tweed Balanced 6/8 C - Canopy Growth | ab 9,75 €",
       "description": "Tweed Balanced 6/8 C von Canopy Growth. THC: 6%, CBD: 8%. Sorte: Caramel. Preis ab 9,75 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/tweed-balanced-68-c",
+      "canonical": "https://cannabisblueten.de/product/tweed-balanced-68-c",
       "robots": {
         "index": true,
         "follow": true
@@ -112,28 +112,28 @@
       "openGraph": {
         "title": "Tweed Balanced 6/8 C - Canopy Growth | ab 9,75 €",
         "description": "Tweed Balanced 6/8 C von Canopy Growth. THC: 6%, CBD: 8%. Sorte: Caramel. Preis ab 9,75 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/tweed-balanced-68-c",
+        "url": "https://cannabisblueten.de/product/tweed-balanced-68-c",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Canopy Growth",
-        "href": "https://weed.de/brand/canopy-growth"
+        "href": "https://cannabisblueten.de/brand/canopy-growth"
       },
       {
         "name": "Tweed Balanced 6/8 C",
-        "href": "https://weed.de/product/tweed-balanced-68-c"
+        "href": "https://cannabisblueten.de/product/tweed-balanced-68-c"
       }
     ],
     "schema": [
@@ -145,19 +145,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Tweed Balanced 6/8 C",
-            "item": "https://weed.de/product/tweed-balanced-68-c"
+            "item": "https://cannabisblueten.de/product/tweed-balanced-68-c"
           }
         ]
       },
@@ -165,11 +165,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Tweed Balanced 6/8 C",
+        "url": "https://cannabisblueten.de/product/tweed-balanced-68-c",
         "brand": {
           "@type": "Brand",
           "name": "Canopy Growth"
         },
-        "description": "THC: 6%, CBD: 8%"
+        "description": "Medizinisches Cannabis Produkt. THC: 6%, CBD: 8%, Genetik: indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/tweed-balanced-68-c",
+          "priceCurrency": "EUR",
+          "price": "9.75",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "9.75",
+            "maxPrice": "16.00",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

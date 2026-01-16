@@ -111,7 +111,7 @@
     "meta": {
       "title": "Xatepa - Tetra Pharm Technologies | ab 8,72 €",
       "description": "Xatepa von Tetra Pharm Technologies. THC: 8.3%, CBD: 8.3%. Sorte: Monster Bruce Banner. Preis ab 8,72 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/xetapa",
+      "canonical": "https://cannabisblueten.de/product/xetapa",
       "robots": {
         "index": true,
         "follow": true
@@ -119,9 +119,9 @@
       "openGraph": {
         "title": "Xatepa - Tetra Pharm Technologies | ab 8,72 €",
         "description": "Xatepa von Tetra Pharm Technologies. THC: 8.3%, CBD: 8.3%. Sorte: Monster Bruce Banner. Preis ab 8,72 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/xetapa",
+        "url": "https://cannabisblueten.de/product/xetapa",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/xetapa-98h68c.jpeg"
       }
@@ -129,19 +129,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Tetra Pharm Technologies",
-        "href": "https://weed.de/brand/tetra-pharm-technologies"
+        "href": "https://cannabisblueten.de/brand/tetra-pharm-technologies"
       },
       {
         "name": "Xatepa",
-        "href": "https://weed.de/product/xetapa"
+        "href": "https://cannabisblueten.de/product/xetapa"
       }
     ],
     "schema": [
@@ -153,19 +153,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Xatepa",
-            "item": "https://weed.de/product/xetapa"
+            "item": "https://cannabisblueten.de/product/xetapa"
           }
         ]
       },
@@ -173,11 +173,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Xatepa",
+        "url": "https://cannabisblueten.de/product/xetapa",
         "brand": {
           "@type": "Brand",
           "name": "Tetra Pharm Technologies"
         },
-        "description": "THC: 8.3%, CBD: 8.3%"
+        "description": "Medizinisches Cannabis Produkt. THC: 8.3%, CBD: 8.3%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/xetapa",
+          "priceCurrency": "EUR",
+          "price": "8.72",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

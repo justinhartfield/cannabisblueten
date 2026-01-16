@@ -78,7 +78,7 @@
     "meta": {
       "title": "NIMBUS VITA BALANCE 50:50 - Nimbus Health | ab 6,34 €",
       "description": "NIMBUS VITA BALANCE 50:50 von Nimbus Health. THC: 50%, CBD: 50%. Preis ab 6,34 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/nimbus-vita-balance-55",
+      "canonical": "https://cannabisblueten.de/product/nimbus-vita-balance-55",
       "robots": {
         "index": true,
         "follow": true
@@ -86,28 +86,28 @@
       "openGraph": {
         "title": "NIMBUS VITA BALANCE 50:50 - Nimbus Health | ab 6,34 €",
         "description": "NIMBUS VITA BALANCE 50:50 von Nimbus Health. THC: 50%, CBD: 50%. Preis ab 6,34 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/nimbus-vita-balance-55",
+        "url": "https://cannabisblueten.de/product/nimbus-vita-balance-55",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Nimbus Health",
-        "href": "https://weed.de/brand/nimbus-health"
+        "href": "https://cannabisblueten.de/brand/nimbus-health"
       },
       {
         "name": "NIMBUS VITA BALANCE 50:50",
-        "href": "https://weed.de/product/nimbus-vita-balance-55"
+        "href": "https://cannabisblueten.de/product/nimbus-vita-balance-55"
       }
     ],
     "schema": [
@@ -119,19 +119,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "NIMBUS VITA BALANCE 50:50",
-            "item": "https://weed.de/product/nimbus-vita-balance-55"
+            "item": "https://cannabisblueten.de/product/nimbus-vita-balance-55"
           }
         ]
       },
@@ -139,11 +139,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "NIMBUS VITA BALANCE 50:50",
+        "url": "https://cannabisblueten.de/product/nimbus-vita-balance-55",
         "brand": {
           "@type": "Brand",
           "name": "Nimbus Health"
         },
-        "description": "THC: 50%, CBD: 50%"
+        "description": "Medizinisches Cannabis Produkt. THC: 50%, CBD: 50%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/nimbus-vita-balance-55",
+          "priceCurrency": "EUR",
+          "price": "6.34",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "6.34",
+            "maxPrice": "10.30",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

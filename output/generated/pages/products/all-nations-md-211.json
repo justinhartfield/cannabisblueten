@@ -118,7 +118,7 @@
     "meta": {
       "title": "All Nations MD 21/1 - Cantourage | ab 5,99 €",
       "description": "All Nations MD 21/1 von Cantourage. THC: 21%, CBD: 1%. Sorte: Mac Daddy. Preis ab 5,99 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/all-nations-md-211",
+      "canonical": "https://cannabisblueten.de/product/all-nations-md-211",
       "robots": {
         "index": true,
         "follow": true
@@ -126,9 +126,9 @@
       "openGraph": {
         "title": "All Nations MD 21/1 - Cantourage | ab 5,99 €",
         "description": "All Nations MD 21/1 von Cantourage. THC: 21%, CBD: 1%. Sorte: Mac Daddy. Preis ab 5,99 €. Preise vergleichen.",
-        "url": "https://weed.de/product/all-nations-md-211",
+        "url": "https://cannabisblueten.de/product/all-nations-md-211",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/all-nations-md-211-c56j1i.webp"
       }
@@ -136,19 +136,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cantourage",
-        "href": "https://weed.de/brand/cantourage"
+        "href": "https://cannabisblueten.de/brand/cantourage"
       },
       {
         "name": "All Nations MD 21/1",
-        "href": "https://weed.de/product/all-nations-md-211"
+        "href": "https://cannabisblueten.de/product/all-nations-md-211"
       }
     ],
     "schema": [
@@ -160,19 +160,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "All Nations MD 21/1",
-            "item": "https://weed.de/product/all-nations-md-211"
+            "item": "https://cannabisblueten.de/product/all-nations-md-211"
           }
         ]
       },
@@ -180,11 +180,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "All Nations MD 21/1",
+        "url": "https://cannabisblueten.de/product/all-nations-md-211",
         "brand": {
           "@type": "Brand",
           "name": "Cantourage"
         },
-        "description": "THC: 21%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 21%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/all-nations-md-211",
+          "priceCurrency": "EUR",
+          "price": "5.99",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

@@ -104,7 +104,7 @@
     "meta": {
       "title": "Canify Cannabis Flos 23/1 CSF Ku. | ab 4,19 €",
       "description": "Canify Cannabis Flos 23/1 CSF Ku. von Canify. THC: 23%, CBD: 1%. Sorte: Carnez Citric. Preis ab 4,19 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/canify-cannabis-flos-231-csf-ku",
+      "canonical": "https://cannabisblueten.de/product/canify-cannabis-flos-231-csf-ku",
       "robots": {
         "index": true,
         "follow": true
@@ -112,9 +112,9 @@
       "openGraph": {
         "title": "Canify Cannabis Flos 23/1 CSF Ku. | ab 4,19 €",
         "description": "Canify Cannabis Flos 23/1 CSF Ku. von Canify. THC: 23%, CBD: 1%. Sorte: Carnez Citric. Preis ab 4,19 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/canify-cannabis-flos-231-csf-ku",
+        "url": "https://cannabisblueten.de/product/canify-cannabis-flos-231-csf-ku",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/canify-cannabis-flos-231-csf-ku-gf3c92.png"
       }
@@ -122,19 +122,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Canify",
-        "href": "https://weed.de/brand/canify"
+        "href": "https://cannabisblueten.de/brand/canify"
       },
       {
         "name": "Canify Cannabis Flos 23/1 CSF Ku.",
-        "href": "https://weed.de/product/canify-cannabis-flos-231-csf-ku"
+        "href": "https://cannabisblueten.de/product/canify-cannabis-flos-231-csf-ku"
       }
     ],
     "schema": [
@@ -146,19 +146,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Canify Cannabis Flos 23/1 CSF Ku.",
-            "item": "https://weed.de/product/canify-cannabis-flos-231-csf-ku"
+            "item": "https://cannabisblueten.de/product/canify-cannabis-flos-231-csf-ku"
           }
         ]
       },
@@ -166,11 +166,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Canify Cannabis Flos 23/1 CSF Ku.",
+        "url": "https://cannabisblueten.de/product/canify-cannabis-flos-231-csf-ku",
         "brand": {
           "@type": "Brand",
           "name": "Canify"
         },
-        "description": "THC: 23%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 23%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/canify-cannabis-flos-231-csf-ku",
+          "priceCurrency": "EUR",
+          "price": "4.19",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.19",
+            "maxPrice": "5.79",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

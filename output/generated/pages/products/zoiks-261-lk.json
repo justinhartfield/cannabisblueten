@@ -104,7 +104,7 @@
     "meta": {
       "title": "ZOIKS 26/1 LK - Avaay | ab 4,69 €",
       "description": "ZOIKS 26/1 LK von Avaay. THC: 26%, CBD: 1%. Sorte: OG Lime Kush. Preis ab 4,69 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/zoiks-261-lk",
+      "canonical": "https://cannabisblueten.de/product/zoiks-261-lk",
       "robots": {
         "index": true,
         "follow": true
@@ -112,9 +112,9 @@
       "openGraph": {
         "title": "ZOIKS 26/1 LK - Avaay | ab 4,69 €",
         "description": "ZOIKS 26/1 LK von Avaay. THC: 26%, CBD: 1%. Sorte: OG Lime Kush. Preis ab 4,69 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/zoiks-261-lk",
+        "url": "https://cannabisblueten.de/product/zoiks-261-lk",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/zoiks-261-lk-ji9e61.jpeg"
       }
@@ -122,19 +122,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Avaay",
-        "href": "https://weed.de/brand/avaay"
+        "href": "https://cannabisblueten.de/brand/avaay"
       },
       {
         "name": "ZOIKS 26/1 LK",
-        "href": "https://weed.de/product/zoiks-261-lk"
+        "href": "https://cannabisblueten.de/product/zoiks-261-lk"
       }
     ],
     "schema": [
@@ -146,19 +146,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "ZOIKS 26/1 LK",
-            "item": "https://weed.de/product/zoiks-261-lk"
+            "item": "https://cannabisblueten.de/product/zoiks-261-lk"
           }
         ]
       },
@@ -166,12 +166,23 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "ZOIKS 26/1 LK",
+        "url": "https://cannabisblueten.de/product/zoiks-261-lk",
         "brand": {
           "@type": "Brand",
           "name": "Avaay"
         },
         "gtin13": [],
-        "description": "THC: 26%, CBD: 1%"
+        "sku": [],
+        "description": "Medizinisches Cannabis Produkt. THC: 26%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/zoiks-261-lk",
+          "priceCurrency": "EUR",
+          "price": "4.69",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

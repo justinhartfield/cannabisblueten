@@ -105,7 +105,7 @@
     "meta": {
       "title": "CBD Sunshine coast - Cannamedical | ab 9,50 €",
       "description": "CBD Sunshine coast von Cannamedical. THC: 1%, CBD: 13%. Sorte: Eve. Preis ab 9,50 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/cbd-sunshine-coast",
+      "canonical": "https://cannabisblueten.de/product/cbd-sunshine-coast",
       "robots": {
         "index": true,
         "follow": true
@@ -113,28 +113,28 @@
       "openGraph": {
         "title": "CBD Sunshine coast - Cannamedical | ab 9,50 €",
         "description": "CBD Sunshine coast von Cannamedical. THC: 1%, CBD: 13%. Sorte: Eve. Preis ab 9,50 €. Preise vergleichen.",
-        "url": "https://weed.de/product/cbd-sunshine-coast",
+        "url": "https://cannabisblueten.de/product/cbd-sunshine-coast",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cannamedical",
-        "href": "https://weed.de/brand/cannamedical"
+        "href": "https://cannabisblueten.de/brand/cannamedical"
       },
       {
         "name": "CBD Sunshine coast",
-        "href": "https://weed.de/product/cbd-sunshine-coast"
+        "href": "https://cannabisblueten.de/product/cbd-sunshine-coast"
       }
     ],
     "schema": [
@@ -146,19 +146,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "CBD Sunshine coast",
-            "item": "https://weed.de/product/cbd-sunshine-coast"
+            "item": "https://cannabisblueten.de/product/cbd-sunshine-coast"
           }
         ]
       },
@@ -166,11 +166,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "CBD Sunshine coast",
+        "url": "https://cannabisblueten.de/product/cbd-sunshine-coast",
         "brand": {
           "@type": "Brand",
           "name": "Cannamedical"
         },
-        "description": "THC: 1%, CBD: 13%"
+        "description": "Medizinisches Cannabis Produkt. THC: 1%, CBD: 13%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/cbd-sunshine-coast",
+          "priceCurrency": "EUR",
+          "price": "9.50",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

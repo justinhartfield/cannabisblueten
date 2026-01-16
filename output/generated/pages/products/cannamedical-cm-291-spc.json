@@ -104,7 +104,7 @@
     "meta": {
       "title": "Cannamedical CM 29/1 SPC | ab 6,49 €",
       "description": "Cannamedical CM 29/1 SPC von Cannamedical. THC: 29%, CBD: 1%. Sorte: Space Cake. Preis ab 6,49 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/cannamedical-cm-291-spc",
+      "canonical": "https://cannabisblueten.de/product/cannamedical-cm-291-spc",
       "robots": {
         "index": true,
         "follow": true
@@ -112,9 +112,9 @@
       "openGraph": {
         "title": "Cannamedical CM 29/1 SPC | ab 6,49 €",
         "description": "Cannamedical CM 29/1 SPC von Cannamedical. THC: 29%, CBD: 1%. Sorte: Space Cake. Preis ab 6,49 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/cannamedical-cm-291-spc",
+        "url": "https://cannabisblueten.de/product/cannamedical-cm-291-spc",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/cannamedical-cm-291-spc-hb2gjf.png"
       }
@@ -122,19 +122,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cannamedical",
-        "href": "https://weed.de/brand/cannamedical"
+        "href": "https://cannabisblueten.de/brand/cannamedical"
       },
       {
         "name": "Cannamedical CM 29/1 SPC",
-        "href": "https://weed.de/product/cannamedical-cm-291-spc"
+        "href": "https://cannabisblueten.de/product/cannamedical-cm-291-spc"
       }
     ],
     "schema": [
@@ -146,19 +146,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Cannamedical CM 29/1 SPC",
-            "item": "https://weed.de/product/cannamedical-cm-291-spc"
+            "item": "https://cannabisblueten.de/product/cannamedical-cm-291-spc"
           }
         ]
       },
@@ -166,11 +166,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Cannamedical CM 29/1 SPC",
+        "url": "https://cannabisblueten.de/product/cannamedical-cm-291-spc",
         "brand": {
           "@type": "Brand",
           "name": "Cannamedical"
         },
-        "description": "THC: 29%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 29%, CBD: 1%, Genetik: indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/cannamedical-cm-291-spc",
+          "priceCurrency": "EUR",
+          "price": "6.49",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "6.49",
+            "maxPrice": "9.45",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

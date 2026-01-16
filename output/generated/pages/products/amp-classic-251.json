@@ -102,7 +102,7 @@
     "meta": {
       "title": "AMP Classic 25/1 | ab 3,97 €",
       "description": "AMP Classic 25/1 von AMP. THC: 25%, CBD: 1%. Sorte: Frosted Lemon Angel. Preis ab 3,97 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/amp-classic-251",
+      "canonical": "https://cannabisblueten.de/product/amp-classic-251",
       "robots": {
         "index": true,
         "follow": true
@@ -110,28 +110,28 @@
       "openGraph": {
         "title": "AMP Classic 25/1 | ab 3,97 €",
         "description": "AMP Classic 25/1 von AMP. THC: 25%, CBD: 1%. Sorte: Frosted Lemon Angel. Preis ab 3,97 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/amp-classic-251",
+        "url": "https://cannabisblueten.de/product/amp-classic-251",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "AMP",
-        "href": "https://weed.de/brand/amp"
+        "href": "https://cannabisblueten.de/brand/amp"
       },
       {
         "name": "AMP Classic 25/1",
-        "href": "https://weed.de/product/amp-classic-251"
+        "href": "https://cannabisblueten.de/product/amp-classic-251"
       }
     ],
     "schema": [
@@ -143,19 +143,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "AMP Classic 25/1",
-            "item": "https://weed.de/product/amp-classic-251"
+            "item": "https://cannabisblueten.de/product/amp-classic-251"
           }
         ]
       },
@@ -163,11 +163,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "AMP Classic 25/1",
+        "url": "https://cannabisblueten.de/product/amp-classic-251",
         "brand": {
           "@type": "Brand",
           "name": "AMP"
         },
-        "description": "THC: 25%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 25%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/amp-classic-251",
+          "priceCurrency": "EUR",
+          "price": "3.97",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "3.97",
+            "maxPrice": "10.65",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

@@ -119,7 +119,7 @@
     "meta": {
       "title": "420 COMPOUND 30/1 CA RPV - Four 20 Pharma | ab 7,99 €",
       "description": "420 COMPOUND 30/1 CA RPV von Four 20 Pharma. THC: 30%, CBD: 1%. Sorte: Rose Gold Pave. Preis ab 7,99 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/42-compound-31-ca-rpv",
+      "canonical": "https://cannabisblueten.de/product/42-compound-31-ca-rpv",
       "robots": {
         "index": true,
         "follow": true
@@ -127,9 +127,9 @@
       "openGraph": {
         "title": "420 COMPOUND 30/1 CA RPV - Four 20 Pharma | ab 7,99 €",
         "description": "420 COMPOUND 30/1 CA RPV von Four 20 Pharma. THC: 30%, CBD: 1%. Sorte: Rose Gold Pave. Preis ab 7,99 €. Preise vergleichen.",
-        "url": "https://weed.de/product/42-compound-31-ca-rpv",
+        "url": "https://cannabisblueten.de/product/42-compound-31-ca-rpv",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/42-compound-31-ca-rpv-diieif.jpeg"
       }
@@ -137,19 +137,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Four 20 Pharma",
-        "href": "https://weed.de/brand/four-20-pharma"
+        "href": "https://cannabisblueten.de/brand/four-20-pharma"
       },
       {
         "name": "420 COMPOUND 30/1 CA RPV",
-        "href": "https://weed.de/product/42-compound-31-ca-rpv"
+        "href": "https://cannabisblueten.de/product/42-compound-31-ca-rpv"
       }
     ],
     "schema": [
@@ -161,19 +161,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "420 COMPOUND 30/1 CA RPV",
-            "item": "https://weed.de/product/42-compound-31-ca-rpv"
+            "item": "https://cannabisblueten.de/product/42-compound-31-ca-rpv"
           }
         ]
       },
@@ -181,11 +181,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "420 COMPOUND 30/1 CA RPV",
+        "url": "https://cannabisblueten.de/product/42-compound-31-ca-rpv",
         "brand": {
           "@type": "Brand",
           "name": "Four 20 Pharma"
         },
-        "description": "THC: 30%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 30%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/42-compound-31-ca-rpv",
+          "priceCurrency": "EUR",
+          "price": "7.99",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

@@ -65,7 +65,7 @@
     "meta": {
       "title": "Sky Cannabis Wedding - Cannabis Apotheke in Berlin",
       "description": "Sky Cannabis Wedding in Berlin. 32 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/sky-cannabis-wedding",
+      "canonical": "https://cannabisblueten.de/apotheke/sky-cannabis-wedding",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Sky Cannabis Wedding - Cannabis Apotheke in Berlin",
         "description": "Sky Cannabis Wedding in Berlin. 32 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/sky-cannabis-wedding",
+        "url": "https://cannabisblueten.de/apotheke/sky-cannabis-wedding",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/689c731902e1d3e4bc89653d-67cbb8.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Berlin",
-        "href": "https://weed.de/cannabis-apotheke/berlin"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/berlin"
       },
       {
         "name": "Sky Cannabis Wedding",
-        "href": "https://weed.de/apotheke/sky-cannabis-wedding"
+        "href": "https://cannabisblueten.de/apotheke/sky-cannabis-wedding"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Berlin",
-            "item": "https://weed.de/cannabis-apotheke/berlin"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/berlin"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Sky Cannabis Wedding",
-            "item": "https://weed.de/apotheke/sky-cannabis-wedding"
+            "item": "https://cannabisblueten.de/apotheke/sky-cannabis-wedding"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Sky Cannabis Wedding",
-        "url": "https://weed.de/apotheke/sky-cannabis-wedding",
+        "url": "https://cannabisblueten.de/apotheke/sky-cannabis-wedding",
+        "description": "Cannabis Apotheke in Berlin. 32 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Müllerstraße 142",
@@ -142,8 +143,37 @@
           "addressRegion": "Berlin",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 52.548768,
+          "longitude": 13.3544256
+        },
         "telephone": "030232537420",
-        "email": "cannabis-wedding@sky-apotheke.de"
+        "email": "cannabis-wedding@sky-apotheke.de",
+        "sameAs": "https://www.sky-apotheke.de/",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5.0",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
       }
     ]
   },

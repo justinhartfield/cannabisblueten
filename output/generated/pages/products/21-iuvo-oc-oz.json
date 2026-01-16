@@ -108,7 +108,7 @@
     "meta": {
       "title": "20/1 IUVO OC Orange Z - Iuvo | ab 7,99 €",
       "description": "20/1 IUVO OC Orange Z von Iuvo. THC: 19.2%, CBD: 1%. Sorte: Orange Z. Preis ab 7,99 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/21-iuvo-oc-oz",
+      "canonical": "https://cannabisblueten.de/product/21-iuvo-oc-oz",
       "robots": {
         "index": true,
         "follow": true
@@ -116,9 +116,9 @@
       "openGraph": {
         "title": "20/1 IUVO OC Orange Z - Iuvo | ab 7,99 €",
         "description": "20/1 IUVO OC Orange Z von Iuvo. THC: 19.2%, CBD: 1%. Sorte: Orange Z. Preis ab 7,99 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/21-iuvo-oc-oz",
+        "url": "https://cannabisblueten.de/product/21-iuvo-oc-oz",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/21-iuvo-oc-oz-a9b7bb.png"
       }
@@ -126,19 +126,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Iuvo",
-        "href": "https://weed.de/brand/iuvo"
+        "href": "https://cannabisblueten.de/brand/iuvo"
       },
       {
         "name": "20/1 IUVO OC Orange Z",
-        "href": "https://weed.de/product/21-iuvo-oc-oz"
+        "href": "https://cannabisblueten.de/product/21-iuvo-oc-oz"
       }
     ],
     "schema": [
@@ -150,19 +150,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "20/1 IUVO OC Orange Z",
-            "item": "https://weed.de/product/21-iuvo-oc-oz"
+            "item": "https://cannabisblueten.de/product/21-iuvo-oc-oz"
           }
         ]
       },
@@ -170,11 +170,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "20/1 IUVO OC Orange Z",
+        "url": "https://cannabisblueten.de/product/21-iuvo-oc-oz",
         "brand": {
           "@type": "Brand",
           "name": "Iuvo"
         },
-        "description": "THC: 19.2%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 19.2%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/21-iuvo-oc-oz",
+          "priceCurrency": "EUR",
+          "price": "7.99",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

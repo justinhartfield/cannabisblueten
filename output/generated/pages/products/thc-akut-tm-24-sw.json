@@ -117,7 +117,7 @@
     "meta": {
       "title": "THC AKUT TM 24 SW - Bathera | ab 4,49 €",
       "description": "THC AKUT TM 24 SW von Bathera. THC: 25.1%, CBD: 1%. Sorte: Sweets. Preis ab 4,49 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/thc-akut-tm-24-sw",
+      "canonical": "https://cannabisblueten.de/product/thc-akut-tm-24-sw",
       "robots": {
         "index": true,
         "follow": true
@@ -125,28 +125,28 @@
       "openGraph": {
         "title": "THC AKUT TM 24 SW - Bathera | ab 4,49 €",
         "description": "THC AKUT TM 24 SW von Bathera. THC: 25.1%, CBD: 1%. Sorte: Sweets. Preis ab 4,49 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/thc-akut-tm-24-sw",
+        "url": "https://cannabisblueten.de/product/thc-akut-tm-24-sw",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Bathera",
-        "href": "https://weed.de/brand/bathera"
+        "href": "https://cannabisblueten.de/brand/bathera"
       },
       {
         "name": "THC AKUT TM 24 SW",
-        "href": "https://weed.de/product/thc-akut-tm-24-sw"
+        "href": "https://cannabisblueten.de/product/thc-akut-tm-24-sw"
       }
     ],
     "schema": [
@@ -158,19 +158,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "THC AKUT TM 24 SW",
-            "item": "https://weed.de/product/thc-akut-tm-24-sw"
+            "item": "https://cannabisblueten.de/product/thc-akut-tm-24-sw"
           }
         ]
       },
@@ -178,11 +178,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "THC AKUT TM 24 SW",
+        "url": "https://cannabisblueten.de/product/thc-akut-tm-24-sw",
         "brand": {
           "@type": "Brand",
           "name": "Bathera"
         },
-        "description": "THC: 25.1%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 25.1%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/thc-akut-tm-24-sw",
+          "priceCurrency": "EUR",
+          "price": "4.49",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.49",
+            "maxPrice": "4.99",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

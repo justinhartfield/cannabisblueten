@@ -105,7 +105,7 @@
     "meta": {
       "title": "avaay 24/1 Simple CRE - Avaay | ab 9,20 €",
       "description": "avaay 24/1 Simple CRE von Avaay. THC: 24%, CBD: 1%. Sorte: Creamy Kee's. Preis ab 9,20 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/avaay-241-simple-cre",
+      "canonical": "https://cannabisblueten.de/product/avaay-241-simple-cre",
       "robots": {
         "index": true,
         "follow": true
@@ -113,9 +113,9 @@
       "openGraph": {
         "title": "avaay 24/1 Simple CRE - Avaay | ab 9,20 €",
         "description": "avaay 24/1 Simple CRE von Avaay. THC: 24%, CBD: 1%. Sorte: Creamy Kee's. Preis ab 9,20 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/avaay-241-simple-cre",
+        "url": "https://cannabisblueten.de/product/avaay-241-simple-cre",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/avaay-241-simple-cre-icefe4.png"
       }
@@ -123,19 +123,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Avaay",
-        "href": "https://weed.de/brand/avaay"
+        "href": "https://cannabisblueten.de/brand/avaay"
       },
       {
         "name": "avaay 24/1 Simple CRE",
-        "href": "https://weed.de/product/avaay-241-simple-cre"
+        "href": "https://cannabisblueten.de/product/avaay-241-simple-cre"
       }
     ],
     "schema": [
@@ -147,19 +147,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "avaay 24/1 Simple CRE",
-            "item": "https://weed.de/product/avaay-241-simple-cre"
+            "item": "https://cannabisblueten.de/product/avaay-241-simple-cre"
           }
         ]
       },
@@ -167,11 +167,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "avaay 24/1 Simple CRE",
+        "url": "https://cannabisblueten.de/product/avaay-241-simple-cre",
         "brand": {
           "@type": "Brand",
           "name": "Avaay"
         },
-        "description": "THC: 24%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 24%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/avaay-241-simple-cre",
+          "priceCurrency": "EUR",
+          "price": "9.20",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

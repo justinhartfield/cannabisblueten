@@ -104,7 +104,7 @@
     "meta": {
       "title": "enua 22/1 BA CA | ab 4,29 €",
       "description": "enua 22/1 BA CA von enua. THC: 22%, CBD: 1%. Sorte: Busy Animal. Preis ab 4,29 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/enua-221-ba-ca",
+      "canonical": "https://cannabisblueten.de/product/enua-221-ba-ca",
       "robots": {
         "index": true,
         "follow": true
@@ -112,9 +112,9 @@
       "openGraph": {
         "title": "enua 22/1 BA CA | ab 4,29 €",
         "description": "enua 22/1 BA CA von enua. THC: 22%, CBD: 1%. Sorte: Busy Animal. Preis ab 4,29 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/enua-221-ba-ca",
+        "url": "https://cannabisblueten.de/product/enua-221-ba-ca",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/enua-221-ba-ca-jef5fj.webp"
       }
@@ -122,19 +122,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "enua",
-        "href": "https://weed.de/brand/enua"
+        "href": "https://cannabisblueten.de/brand/enua"
       },
       {
         "name": "enua 22/1 BA CA",
-        "href": "https://weed.de/product/enua-221-ba-ca"
+        "href": "https://cannabisblueten.de/product/enua-221-ba-ca"
       }
     ],
     "schema": [
@@ -146,19 +146,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "enua 22/1 BA CA",
-            "item": "https://weed.de/product/enua-221-ba-ca"
+            "item": "https://cannabisblueten.de/product/enua-221-ba-ca"
           }
         ]
       },
@@ -166,11 +166,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "enua 22/1 BA CA",
+        "url": "https://cannabisblueten.de/product/enua-221-ba-ca",
         "brand": {
           "@type": "Brand",
           "name": "enua"
         },
-        "description": "THC: 22%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 22%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/enua-221-ba-ca",
+          "priceCurrency": "EUR",
+          "price": "4.29",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.29",
+            "maxPrice": "7.85",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

@@ -65,7 +65,7 @@
     "meta": {
       "title": "Canpi - Cannabis Pilot - Cannabis Apotheke in Berlin",
       "description": "Canpi - Cannabis Pilot in Berlin. 44 Cannabis Produkte. Lieferung & Abholung. Bewertung: 4.3/5. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/canpi-cannabis-pilot",
+      "canonical": "https://cannabisblueten.de/apotheke/canpi-cannabis-pilot",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Canpi - Cannabis Pilot - Cannabis Apotheke in Berlin",
         "description": "Canpi - Cannabis Pilot in Berlin. 44 Cannabis Produkte. Lieferung & Abholung. Bewertung: 4.3/5. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/canpi-cannabis-pilot",
+        "url": "https://cannabisblueten.de/apotheke/canpi-cannabis-pilot",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/669eb5f5424252233bb8538e-hegg37.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Berlin",
-        "href": "https://weed.de/cannabis-apotheke/berlin"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/berlin"
       },
       {
         "name": "Canpi - Cannabis Pilot",
-        "href": "https://weed.de/apotheke/canpi-cannabis-pilot"
+        "href": "https://cannabisblueten.de/apotheke/canpi-cannabis-pilot"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Berlin",
-            "item": "https://weed.de/cannabis-apotheke/berlin"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/berlin"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Canpi - Cannabis Pilot",
-            "item": "https://weed.de/apotheke/canpi-cannabis-pilot"
+            "item": "https://cannabisblueten.de/apotheke/canpi-cannabis-pilot"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Canpi - Cannabis Pilot",
-        "url": "https://weed.de/apotheke/canpi-cannabis-pilot",
+        "url": "https://cannabisblueten.de/apotheke/canpi-cannabis-pilot",
+        "description": "Cannabis Apotheke in Berlin. 44 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Tempelhofer Damm 139",
@@ -142,8 +143,37 @@
           "addressRegion": "Berlin",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 52.46685,
+          "longitude": 13.38599
+        },
         "telephone": "+491636773711",
-        "email": "info@cannabispilot.de"
+        "email": "info@cannabispilot.de",
+        "sameAs": "www.cannabispilot.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.3",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
       }
     ]
   },

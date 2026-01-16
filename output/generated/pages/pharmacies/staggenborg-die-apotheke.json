@@ -65,7 +65,7 @@
     "meta": {
       "title": "Staggenborg die Apotheke - Cannabis Apotheke in Büdelsdorf",
       "description": "Staggenborg die Apotheke in Büdelsdorf. Abholung. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/staggenborg-die-apotheke",
+      "canonical": "https://cannabisblueten.de/apotheke/staggenborg-die-apotheke",
       "robots": {
         "index": true,
         "follow": true
@@ -73,28 +73,28 @@
       "openGraph": {
         "title": "Staggenborg die Apotheke - Cannabis Apotheke in Büdelsdorf",
         "description": "Staggenborg die Apotheke in Büdelsdorf. Abholung. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/staggenborg-die-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/staggenborg-die-apotheke",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Büdelsdorf",
-        "href": "https://weed.de/cannabis-apotheke/buedelsdorf"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/buedelsdorf"
       },
       {
         "name": "Staggenborg die Apotheke",
-        "href": "https://weed.de/apotheke/staggenborg-die-apotheke"
+        "href": "https://cannabisblueten.de/apotheke/staggenborg-die-apotheke"
       }
     ],
     "schema": [
@@ -106,25 +106,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Büdelsdorf",
-            "item": "https://weed.de/cannabis-apotheke/buedelsdorf"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/buedelsdorf"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Staggenborg die Apotheke",
-            "item": "https://weed.de/apotheke/staggenborg-die-apotheke"
+            "item": "https://cannabisblueten.de/apotheke/staggenborg-die-apotheke"
           }
         ]
       },
@@ -132,7 +132,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Staggenborg die Apotheke",
-        "url": "https://weed.de/apotheke/staggenborg-die-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/staggenborg-die-apotheke",
+        "description": "Cannabis Apotheke in Büdelsdorf. 0 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Am Ahlmannkai 2",
@@ -141,8 +142,23 @@
           "addressRegion": "Schleswig-Holstein",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 54.3111227,
+          "longitude": 9.662692
+        },
         "telephone": "04331697890",
-        "email": "Info@apo-buedelsdorf.de"
+        "email": "Info@apo-buedelsdorf.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ]
       }
     ]
   },

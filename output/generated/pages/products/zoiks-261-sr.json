@@ -104,7 +104,7 @@
     "meta": {
       "title": "Zoiks 26/1 SR - Avaay | ab 6,99 €",
       "description": "Zoiks 26/1 SR von Avaay. THC: 26%, CBD: 1%. Sorte: Space Rider. Preis ab 6,99 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/zoiks-261-sr",
+      "canonical": "https://cannabisblueten.de/product/zoiks-261-sr",
       "robots": {
         "index": true,
         "follow": true
@@ -112,9 +112,9 @@
       "openGraph": {
         "title": "Zoiks 26/1 SR - Avaay | ab 6,99 €",
         "description": "Zoiks 26/1 SR von Avaay. THC: 26%, CBD: 1%. Sorte: Space Rider. Preis ab 6,99 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/zoiks-261-sr",
+        "url": "https://cannabisblueten.de/product/zoiks-261-sr",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/zoiks-261-sr-effhb9.png"
       }
@@ -122,19 +122,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Avaay",
-        "href": "https://weed.de/brand/avaay"
+        "href": "https://cannabisblueten.de/brand/avaay"
       },
       {
         "name": "Zoiks 26/1 SR",
-        "href": "https://weed.de/product/zoiks-261-sr"
+        "href": "https://cannabisblueten.de/product/zoiks-261-sr"
       }
     ],
     "schema": [
@@ -146,19 +146,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Zoiks 26/1 SR",
-            "item": "https://weed.de/product/zoiks-261-sr"
+            "item": "https://cannabisblueten.de/product/zoiks-261-sr"
           }
         ]
       },
@@ -166,12 +166,29 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Zoiks 26/1 SR",
+        "url": "https://cannabisblueten.de/product/zoiks-261-sr",
         "brand": {
           "@type": "Brand",
           "name": "Avaay"
         },
         "gtin13": [],
-        "description": "THC: 26%, CBD: 1%"
+        "sku": [],
+        "description": "Medizinisches Cannabis Produkt. THC: 26%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/zoiks-261-sr",
+          "priceCurrency": "EUR",
+          "price": "6.99",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "6.99",
+            "maxPrice": "10.00",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

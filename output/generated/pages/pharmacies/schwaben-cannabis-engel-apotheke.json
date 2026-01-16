@@ -65,7 +65,7 @@
     "meta": {
       "title": "Schwaben Cannabis / Engel-Apotheke - Cannabis Apotheke in Mindelheim",
       "description": "Schwaben Cannabis / Engel-Apotheke in Mindelheim. 13 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/schwaben-cannabis-engel-apotheke",
+      "canonical": "https://cannabisblueten.de/apotheke/schwaben-cannabis-engel-apotheke",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Schwaben Cannabis / Engel-Apotheke - Cannabis Apotheke in Mindelheim",
         "description": "Schwaben Cannabis / Engel-Apotheke in Mindelheim. 13 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/schwaben-cannabis-engel-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/schwaben-cannabis-engel-apotheke",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/66f3d048d371ba12c192cf81-88ebi4.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Mindelheim",
-        "href": "https://weed.de/cannabis-apotheke/mindelheim"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/mindelheim"
       },
       {
         "name": "Schwaben Cannabis / Engel-Apotheke",
-        "href": "https://weed.de/apotheke/schwaben-cannabis-engel-apotheke"
+        "href": "https://cannabisblueten.de/apotheke/schwaben-cannabis-engel-apotheke"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Mindelheim",
-            "item": "https://weed.de/cannabis-apotheke/mindelheim"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/mindelheim"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Schwaben Cannabis / Engel-Apotheke",
-            "item": "https://weed.de/apotheke/schwaben-cannabis-engel-apotheke"
+            "item": "https://cannabisblueten.de/apotheke/schwaben-cannabis-engel-apotheke"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Schwaben Cannabis / Engel-Apotheke",
-        "url": "https://weed.de/apotheke/schwaben-cannabis-engel-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/schwaben-cannabis-engel-apotheke",
+        "description": "Cannabis Apotheke in Mindelheim. 13 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Maximilianstraße 55",
@@ -142,8 +143,30 @@
           "addressRegion": "Bayern",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 48.0461744,
+          "longitude": 10.4948841
+        },
         "telephone": "082617637460",
-        "email": "cannabis@engel-apotheke-mindelheim.de"
+        "email": "cannabis@engel-apotheke-mindelheim.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ]
       }
     ]
   },

@@ -108,7 +108,7 @@
     "meta": {
       "title": "Tilray THC 22 Spotlight Porto TM | ab 3,18 €",
       "description": "Tilray THC 22 Spotlight Porto TM von Tilray. THC: 22%, CBD: 1%. Sorte: Triangle Mints. Preis ab 3,18 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/tilray-thc-22-spotlight-porto-tm",
+      "canonical": "https://cannabisblueten.de/product/tilray-thc-22-spotlight-porto-tm",
       "robots": {
         "index": true,
         "follow": true
@@ -116,9 +116,9 @@
       "openGraph": {
         "title": "Tilray THC 22 Spotlight Porto TM | ab 3,18 €",
         "description": "Tilray THC 22 Spotlight Porto TM von Tilray. THC: 22%, CBD: 1%. Sorte: Triangle Mints. Preis ab 3,18 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/tilray-thc-22-spotlight-porto-tm",
+        "url": "https://cannabisblueten.de/product/tilray-thc-22-spotlight-porto-tm",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/tilray-thc-22-spotlight-porto-tm-7jid1h.png"
       }
@@ -126,19 +126,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Tilray",
-        "href": "https://weed.de/brand/tilray"
+        "href": "https://cannabisblueten.de/brand/tilray"
       },
       {
         "name": "Tilray THC 22 Spotlight Porto TM",
-        "href": "https://weed.de/product/tilray-thc-22-spotlight-porto-tm"
+        "href": "https://cannabisblueten.de/product/tilray-thc-22-spotlight-porto-tm"
       }
     ],
     "schema": [
@@ -150,19 +150,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Tilray THC 22 Spotlight Porto TM",
-            "item": "https://weed.de/product/tilray-thc-22-spotlight-porto-tm"
+            "item": "https://cannabisblueten.de/product/tilray-thc-22-spotlight-porto-tm"
           }
         ]
       },
@@ -170,11 +170,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Tilray THC 22 Spotlight Porto TM",
+        "url": "https://cannabisblueten.de/product/tilray-thc-22-spotlight-porto-tm",
         "brand": {
           "@type": "Brand",
           "name": "Tilray"
         },
-        "description": "THC: 22%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 22%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/tilray-thc-22-spotlight-porto-tm",
+          "priceCurrency": "EUR",
+          "price": "3.18",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "3.18",
+            "maxPrice": "11.99",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

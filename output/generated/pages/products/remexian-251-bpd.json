@@ -103,7 +103,7 @@
     "meta": {
       "title": "Remexian 25/1 BPD - Remexian Pharma | ab 4,80 €",
       "description": "Remexian 25/1 BPD von Remexian Pharma. THC: 25%, CBD: 1%. Sorte: Big Purple Dragon. Preis ab 4,80 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/remexian-251-bpd",
+      "canonical": "https://cannabisblueten.de/product/remexian-251-bpd",
       "robots": {
         "index": true,
         "follow": true
@@ -111,28 +111,28 @@
       "openGraph": {
         "title": "Remexian 25/1 BPD - Remexian Pharma | ab 4,80 €",
         "description": "Remexian 25/1 BPD von Remexian Pharma. THC: 25%, CBD: 1%. Sorte: Big Purple Dragon. Preis ab 4,80 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/remexian-251-bpd",
+        "url": "https://cannabisblueten.de/product/remexian-251-bpd",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Remexian Pharma",
-        "href": "https://weed.de/brand/remexian-pharma"
+        "href": "https://cannabisblueten.de/brand/remexian-pharma"
       },
       {
         "name": "Remexian 25/1 BPD",
-        "href": "https://weed.de/product/remexian-251-bpd"
+        "href": "https://cannabisblueten.de/product/remexian-251-bpd"
       }
     ],
     "schema": [
@@ -144,19 +144,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Remexian 25/1 BPD",
-            "item": "https://weed.de/product/remexian-251-bpd"
+            "item": "https://cannabisblueten.de/product/remexian-251-bpd"
           }
         ]
       },
@@ -164,11 +164,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Remexian 25/1 BPD",
+        "url": "https://cannabisblueten.de/product/remexian-251-bpd",
         "brand": {
           "@type": "Brand",
           "name": "Remexian Pharma"
         },
-        "description": "THC: 25%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 25%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/remexian-251-bpd",
+          "priceCurrency": "EUR",
+          "price": "4.80",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.80",
+            "maxPrice": "7.49",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

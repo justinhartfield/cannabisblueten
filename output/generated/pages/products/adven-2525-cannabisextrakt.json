@@ -84,7 +84,7 @@
     "meta": {
       "title": "Adven 25/25 Cannabisextrakt | ab 4,95 €",
       "description": "Adven 25/25 Cannabisextrakt von Adven. THC: 25%, CBD: 25%. Sorte: EMT 2. Preis ab 4,95 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/adven-2525-cannabisextrakt",
+      "canonical": "https://cannabisblueten.de/product/adven-2525-cannabisextrakt",
       "robots": {
         "index": true,
         "follow": true
@@ -92,28 +92,28 @@
       "openGraph": {
         "title": "Adven 25/25 Cannabisextrakt | ab 4,95 €",
         "description": "Adven 25/25 Cannabisextrakt von Adven. THC: 25%, CBD: 25%. Sorte: EMT 2. Preis ab 4,95 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/adven-2525-cannabisextrakt",
+        "url": "https://cannabisblueten.de/product/adven-2525-cannabisextrakt",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Adven",
-        "href": "https://weed.de/brand/adven"
+        "href": "https://cannabisblueten.de/brand/adven"
       },
       {
         "name": "Adven 25/25 Cannabisextrakt",
-        "href": "https://weed.de/product/adven-2525-cannabisextrakt"
+        "href": "https://cannabisblueten.de/product/adven-2525-cannabisextrakt"
       }
     ],
     "schema": [
@@ -125,19 +125,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Adven 25/25 Cannabisextrakt",
-            "item": "https://weed.de/product/adven-2525-cannabisextrakt"
+            "item": "https://cannabisblueten.de/product/adven-2525-cannabisextrakt"
           }
         ]
       },
@@ -145,11 +145,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Adven 25/25 Cannabisextrakt",
+        "url": "https://cannabisblueten.de/product/adven-2525-cannabisextrakt",
         "brand": {
           "@type": "Brand",
           "name": "Adven"
         },
-        "description": "THC: 25%, CBD: 25%"
+        "description": "Medizinisches Cannabis Produkt. THC: 25%, CBD: 25%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/adven-2525-cannabisextrakt",
+          "priceCurrency": "EUR",
+          "price": "4.95",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.95",
+            "maxPrice": "9.50",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

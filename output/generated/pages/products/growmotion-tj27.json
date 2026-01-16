@@ -118,7 +118,7 @@
     "meta": {
       "title": "GrowMotion TJ27 - alephSana | ab 8,99 €",
       "description": "GrowMotion TJ27 von alephSana. THC: 27%, CBD: 1%. Sorte: Tricho Jordan. Preis ab 8,99 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/growmotion-tj27",
+      "canonical": "https://cannabisblueten.de/product/growmotion-tj27",
       "robots": {
         "index": true,
         "follow": true
@@ -126,28 +126,28 @@
       "openGraph": {
         "title": "GrowMotion TJ27 - alephSana | ab 8,99 €",
         "description": "GrowMotion TJ27 von alephSana. THC: 27%, CBD: 1%. Sorte: Tricho Jordan. Preis ab 8,99 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/growmotion-tj27",
+        "url": "https://cannabisblueten.de/product/growmotion-tj27",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "alephSana",
-        "href": "https://weed.de/brand/alephsana"
+        "href": "https://cannabisblueten.de/brand/alephsana"
       },
       {
         "name": "GrowMotion TJ27",
-        "href": "https://weed.de/product/growmotion-tj27"
+        "href": "https://cannabisblueten.de/product/growmotion-tj27"
       }
     ],
     "schema": [
@@ -159,19 +159,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "GrowMotion TJ27",
-            "item": "https://weed.de/product/growmotion-tj27"
+            "item": "https://cannabisblueten.de/product/growmotion-tj27"
           }
         ]
       },
@@ -179,11 +179,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "GrowMotion TJ27",
+        "url": "https://cannabisblueten.de/product/growmotion-tj27",
         "brand": {
           "@type": "Brand",
           "name": "alephSana"
         },
-        "description": "THC: 27%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 27%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/growmotion-tj27",
+          "priceCurrency": "EUR",
+          "price": "8.99",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "8.99",
+            "maxPrice": "10.99",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

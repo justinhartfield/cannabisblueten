@@ -114,7 +114,7 @@
     "meta": {
       "title": "Madrecan 21/1 GOG - Remexian Pharma | ab 3,40 €",
       "description": "Madrecan 21/1 GOG von Remexian Pharma. THC: 21%, CBD: 1%. Sorte: Granddaddy OG. Preis ab 3,40 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/madrecan-211-gog",
+      "canonical": "https://cannabisblueten.de/product/madrecan-211-gog",
       "robots": {
         "index": true,
         "follow": true
@@ -122,28 +122,28 @@
       "openGraph": {
         "title": "Madrecan 21/1 GOG - Remexian Pharma | ab 3,40 €",
         "description": "Madrecan 21/1 GOG von Remexian Pharma. THC: 21%, CBD: 1%. Sorte: Granddaddy OG. Preis ab 3,40 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/madrecan-211-gog",
+        "url": "https://cannabisblueten.de/product/madrecan-211-gog",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Remexian Pharma",
-        "href": "https://weed.de/brand/remexian-pharma"
+        "href": "https://cannabisblueten.de/brand/remexian-pharma"
       },
       {
         "name": "Madrecan 21/1 GOG",
-        "href": "https://weed.de/product/madrecan-211-gog"
+        "href": "https://cannabisblueten.de/product/madrecan-211-gog"
       }
     ],
     "schema": [
@@ -155,19 +155,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Madrecan 21/1 GOG",
-            "item": "https://weed.de/product/madrecan-211-gog"
+            "item": "https://cannabisblueten.de/product/madrecan-211-gog"
           }
         ]
       },
@@ -175,11 +175,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Madrecan 21/1 GOG",
+        "url": "https://cannabisblueten.de/product/madrecan-211-gog",
         "brand": {
           "@type": "Brand",
           "name": "Remexian Pharma"
         },
-        "description": "THC: 21%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 21%, CBD: 1%, Genetik: indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/madrecan-211-gog",
+          "priceCurrency": "EUR",
+          "price": "3.40",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "3.40",
+            "maxPrice": "6.29",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

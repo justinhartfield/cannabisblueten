@@ -104,7 +104,7 @@
     "meta": {
       "title": "Avaay 22/1 PNK | ab 7,98 €",
       "description": "Avaay 22/1 PNK von Avaay. THC: 22%, CBD: 1%. Sorte: Pineapple Nuken. Preis ab 7,98 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/avaay-221-pnk",
+      "canonical": "https://cannabisblueten.de/product/avaay-221-pnk",
       "robots": {
         "index": true,
         "follow": true
@@ -112,9 +112,9 @@
       "openGraph": {
         "title": "Avaay 22/1 PNK | ab 7,98 €",
         "description": "Avaay 22/1 PNK von Avaay. THC: 22%, CBD: 1%. Sorte: Pineapple Nuken. Preis ab 7,98 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/avaay-221-pnk",
+        "url": "https://cannabisblueten.de/product/avaay-221-pnk",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/avaay-221-pnk-0410d5.png"
       }
@@ -122,19 +122,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Avaay",
-        "href": "https://weed.de/brand/avaay"
+        "href": "https://cannabisblueten.de/brand/avaay"
       },
       {
         "name": "Avaay 22/1 PNK",
-        "href": "https://weed.de/product/avaay-221-pnk"
+        "href": "https://cannabisblueten.de/product/avaay-221-pnk"
       }
     ],
     "schema": [
@@ -146,19 +146,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Avaay 22/1 PNK",
-            "item": "https://weed.de/product/avaay-221-pnk"
+            "item": "https://cannabisblueten.de/product/avaay-221-pnk"
           }
         ]
       },
@@ -166,12 +166,23 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Avaay 22/1 PNK",
+        "url": "https://cannabisblueten.de/product/avaay-221-pnk",
         "brand": {
           "@type": "Brand",
           "name": "Avaay"
         },
         "gtin13": [],
-        "description": "THC: 22%, CBD: 1%"
+        "sku": [],
+        "description": "Medizinisches Cannabis Produkt. THC: 22%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/avaay-221-pnk",
+          "priceCurrency": "EUR",
+          "price": "7.98",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

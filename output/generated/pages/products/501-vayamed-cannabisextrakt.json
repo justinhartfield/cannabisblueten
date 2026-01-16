@@ -84,7 +84,7 @@
     "meta": {
       "title": "50/1 Vayamed Cannabisextrakt | ab 15,49 €",
       "description": "50/1 Vayamed Cannabisextrakt von Vayamed. THC: 5%, CBD: 0.1%. Sorte: EMT 2. Preis ab 15,49 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/501-vayamed-cannabisextrakt",
+      "canonical": "https://cannabisblueten.de/product/501-vayamed-cannabisextrakt",
       "robots": {
         "index": true,
         "follow": true
@@ -92,9 +92,9 @@
       "openGraph": {
         "title": "50/1 Vayamed Cannabisextrakt | ab 15,49 €",
         "description": "50/1 Vayamed Cannabisextrakt von Vayamed. THC: 5%, CBD: 0.1%. Sorte: EMT 2. Preis ab 15,49 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/501-vayamed-cannabisextrakt",
+        "url": "https://cannabisblueten.de/product/501-vayamed-cannabisextrakt",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/501-vayamed-cannabisextrakt-g0g42h.png"
       }
@@ -102,19 +102,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Vayamed",
-        "href": "https://weed.de/brand/vayamed"
+        "href": "https://cannabisblueten.de/brand/vayamed"
       },
       {
         "name": "50/1 Vayamed Cannabisextrakt",
-        "href": "https://weed.de/product/501-vayamed-cannabisextrakt"
+        "href": "https://cannabisblueten.de/product/501-vayamed-cannabisextrakt"
       }
     ],
     "schema": [
@@ -126,19 +126,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "50/1 Vayamed Cannabisextrakt",
-            "item": "https://weed.de/product/501-vayamed-cannabisextrakt"
+            "item": "https://cannabisblueten.de/product/501-vayamed-cannabisextrakt"
           }
         ]
       },
@@ -146,11 +146,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "50/1 Vayamed Cannabisextrakt",
+        "url": "https://cannabisblueten.de/product/501-vayamed-cannabisextrakt",
         "brand": {
           "@type": "Brand",
           "name": "Vayamed"
         },
-        "description": "THC: 5%, CBD: 0.1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 5%, CBD: 0.1%, Genetik: indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/501-vayamed-cannabisextrakt",
+          "priceCurrency": "EUR",
+          "price": "15.49",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "15.49",
+            "maxPrice": "21.63",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

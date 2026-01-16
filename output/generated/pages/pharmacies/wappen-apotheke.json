@@ -65,7 +65,7 @@
     "meta": {
       "title": "Wappen Apotheke - Cannabis Apotheke in Düsseldorf",
       "description": "Wappen Apotheke in Düsseldorf. 18 Cannabis Produkte. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/wappen-apotheke",
+      "canonical": "https://cannabisblueten.de/apotheke/wappen-apotheke",
       "robots": {
         "index": true,
         "follow": true
@@ -73,28 +73,28 @@
       "openGraph": {
         "title": "Wappen Apotheke - Cannabis Apotheke in Düsseldorf",
         "description": "Wappen Apotheke in Düsseldorf. 18 Cannabis Produkte. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/wappen-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/wappen-apotheke",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Düsseldorf",
-        "href": "https://weed.de/cannabis-apotheke/duesseldorf"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/duesseldorf"
       },
       {
         "name": "Wappen Apotheke",
-        "href": "https://weed.de/apotheke/wappen-apotheke"
+        "href": "https://cannabisblueten.de/apotheke/wappen-apotheke"
       }
     ],
     "schema": [
@@ -106,25 +106,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Düsseldorf",
-            "item": "https://weed.de/cannabis-apotheke/duesseldorf"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/duesseldorf"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Wappen Apotheke",
-            "item": "https://weed.de/apotheke/wappen-apotheke"
+            "item": "https://cannabisblueten.de/apotheke/wappen-apotheke"
           }
         ]
       },
@@ -132,7 +132,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Wappen Apotheke",
-        "url": "https://weed.de/apotheke/wappen-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/wappen-apotheke",
+        "description": "Cannabis Apotheke in Düsseldorf. 18 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "40212 Düsseldorf-Stadtbezirk 1, Deutschland",
@@ -140,6 +141,12 @@
           "postalCode": "40212",
           "addressRegion": "Nordrhein-Westfalen",
           "addressCountry": "DE"
+        },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 51.22360339999999,
+          "longitude": 6.780529
         },
         "telephone": "0211325900",
         "email": "bestellung@cityflos.de"

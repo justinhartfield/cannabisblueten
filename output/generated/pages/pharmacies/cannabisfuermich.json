@@ -65,7 +65,7 @@
     "meta": {
       "title": "CannabisFürMich - Cannabis Apotheke in Landshut",
       "description": "CannabisFürMich in Landshut. 78 Cannabis Produkte. Lieferung & Abholung. Bewertung: 1.0/5. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/cannabisfuermich",
+      "canonical": "https://cannabisblueten.de/apotheke/cannabisfuermich",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "CannabisFürMich - Cannabis Apotheke in Landshut",
         "description": "CannabisFürMich in Landshut. 78 Cannabis Produkte. Lieferung & Abholung. Bewertung: 1.0/5. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/cannabisfuermich",
+        "url": "https://cannabisblueten.de/apotheke/cannabisfuermich",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/66ffee3a79ae4f662d4834dd-bc2h2f.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Landshut",
-        "href": "https://weed.de/cannabis-apotheke/landshut"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/landshut"
       },
       {
         "name": "CannabisFürMich",
-        "href": "https://weed.de/apotheke/cannabisfuermich"
+        "href": "https://cannabisblueten.de/apotheke/cannabisfuermich"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Landshut",
-            "item": "https://weed.de/cannabis-apotheke/landshut"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/landshut"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "CannabisFürMich",
-            "item": "https://weed.de/apotheke/cannabisfuermich"
+            "item": "https://cannabisblueten.de/apotheke/cannabisfuermich"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "CannabisFürMich",
-        "url": "https://weed.de/apotheke/cannabisfuermich",
+        "url": "https://cannabisblueten.de/apotheke/cannabisfuermich",
+        "description": "Cannabis Apotheke in Landshut. 78 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Fliederstraße 46",
@@ -142,8 +143,36 @@
           "addressRegion": "Bayern",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 48.55074579999999,
+          "longitude": 12.1300396
+        },
         "telephone": "087120662121",
-        "email": "bestellung@cannabisfuermich.de"
+        "email": "bestellung@cannabisfuermich.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "1.0",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
       }
     ]
   },

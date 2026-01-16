@@ -117,7 +117,7 @@
     "meta": {
       "title": "Drapalin 25/1 Cheesotho-Cannabisextrakt | ab 5,49 €",
       "description": "Drapalin 25/1 Cheesotho-Cannabisextrakt von Drapalin. THC: 25%, CBD: 1%. Sorte: Cheesotho. Preis ab 5,49 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/drapalin-251-cheesotho-cannabisextrakt",
+      "canonical": "https://cannabisblueten.de/product/drapalin-251-cheesotho-cannabisextrakt",
       "robots": {
         "index": true,
         "follow": true
@@ -125,28 +125,28 @@
       "openGraph": {
         "title": "Drapalin 25/1 Cheesotho-Cannabisextrakt | ab 5,49 €",
         "description": "Drapalin 25/1 Cheesotho-Cannabisextrakt von Drapalin. THC: 25%, CBD: 1%. Sorte: Cheesotho. Preis ab 5,49 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/drapalin-251-cheesotho-cannabisextrakt",
+        "url": "https://cannabisblueten.de/product/drapalin-251-cheesotho-cannabisextrakt",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Drapalin",
-        "href": "https://weed.de/brand/drapalin"
+        "href": "https://cannabisblueten.de/brand/drapalin"
       },
       {
         "name": "Drapalin 25/1 Cheesotho-Cannabisextrakt",
-        "href": "https://weed.de/product/drapalin-251-cheesotho-cannabisextrakt"
+        "href": "https://cannabisblueten.de/product/drapalin-251-cheesotho-cannabisextrakt"
       }
     ],
     "schema": [
@@ -158,19 +158,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Drapalin 25/1 Cheesotho-Cannabisextrakt",
-            "item": "https://weed.de/product/drapalin-251-cheesotho-cannabisextrakt"
+            "item": "https://cannabisblueten.de/product/drapalin-251-cheesotho-cannabisextrakt"
           }
         ]
       },
@@ -178,12 +178,23 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Drapalin 25/1 Cheesotho-Cannabisextrakt",
+        "url": "https://cannabisblueten.de/product/drapalin-251-cheesotho-cannabisextrakt",
         "brand": {
           "@type": "Brand",
           "name": "Drapalin"
         },
         "gtin13": [],
-        "description": "THC: 25%, CBD: 1%"
+        "sku": [],
+        "description": "Medizinisches Cannabis Produkt. THC: 25%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/drapalin-251-cheesotho-cannabisextrakt",
+          "priceCurrency": "EUR",
+          "price": "5.49",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

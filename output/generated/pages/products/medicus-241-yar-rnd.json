@@ -104,7 +104,7 @@
     "meta": {
       "title": "Medicus 24/1 YAR RND - Remexian Pharma | ab 3,99 €",
       "description": "Medicus 24/1 YAR RND von Remexian Pharma. THC: 24%, CBD: 1%. Sorte: Razzle n' Dazzle. Preis ab 3,99 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/medicus-241-yar-rnd",
+      "canonical": "https://cannabisblueten.de/product/medicus-241-yar-rnd",
       "robots": {
         "index": true,
         "follow": true
@@ -112,28 +112,28 @@
       "openGraph": {
         "title": "Medicus 24/1 YAR RND - Remexian Pharma | ab 3,99 €",
         "description": "Medicus 24/1 YAR RND von Remexian Pharma. THC: 24%, CBD: 1%. Sorte: Razzle n' Dazzle. Preis ab 3,99 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/medicus-241-yar-rnd",
+        "url": "https://cannabisblueten.de/product/medicus-241-yar-rnd",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Remexian Pharma",
-        "href": "https://weed.de/brand/remexian-pharma"
+        "href": "https://cannabisblueten.de/brand/remexian-pharma"
       },
       {
         "name": "Medicus 24/1 YAR RND",
-        "href": "https://weed.de/product/medicus-241-yar-rnd"
+        "href": "https://cannabisblueten.de/product/medicus-241-yar-rnd"
       }
     ],
     "schema": [
@@ -145,19 +145,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Medicus 24/1 YAR RND",
-            "item": "https://weed.de/product/medicus-241-yar-rnd"
+            "item": "https://cannabisblueten.de/product/medicus-241-yar-rnd"
           }
         ]
       },
@@ -165,11 +165,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Medicus 24/1 YAR RND",
+        "url": "https://cannabisblueten.de/product/medicus-241-yar-rnd",
         "brand": {
           "@type": "Brand",
           "name": "Remexian Pharma"
         },
-        "description": "THC: 24%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 24%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/medicus-241-yar-rnd",
+          "priceCurrency": "EUR",
+          "price": "3.99",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "3.99",
+            "maxPrice": "5.98",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

@@ -65,7 +65,7 @@
     "meta": {
       "title": "Schwarzwald Vital Apotheke - Cannabis Apotheke in Gaggenau",
       "description": "Schwarzwald Vital Apotheke in Gaggenau. 136 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/schwarzwald-vital-apotheke",
+      "canonical": "https://cannabisblueten.de/apotheke/schwarzwald-vital-apotheke",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Schwarzwald Vital Apotheke - Cannabis Apotheke in Gaggenau",
         "description": "Schwarzwald Vital Apotheke in Gaggenau. 136 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/schwarzwald-vital-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/schwarzwald-vital-apotheke",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/67a3389c04267dfcfbe8b174-6djha2.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Gaggenau",
-        "href": "https://weed.de/cannabis-apotheke/gaggenau"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/gaggenau"
       },
       {
         "name": "Schwarzwald Vital Apotheke",
-        "href": "https://weed.de/apotheke/schwarzwald-vital-apotheke"
+        "href": "https://cannabisblueten.de/apotheke/schwarzwald-vital-apotheke"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Gaggenau",
-            "item": "https://weed.de/cannabis-apotheke/gaggenau"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/gaggenau"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Schwarzwald Vital Apotheke",
-            "item": "https://weed.de/apotheke/schwarzwald-vital-apotheke"
+            "item": "https://cannabisblueten.de/apotheke/schwarzwald-vital-apotheke"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Schwarzwald Vital Apotheke",
-        "url": "https://weed.de/apotheke/schwarzwald-vital-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/schwarzwald-vital-apotheke",
+        "description": "Cannabis Apotheke in Gaggenau. 136 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Bismarckstraße 53",
@@ -142,8 +143,30 @@
           "addressRegion": "Baden-Württemberg",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 48.8039808,
+          "longitude": 8.3106426
+        },
         "telephone": "07225917690",
-        "email": "schwarzwald@vitalapo.de"
+        "email": "schwarzwald@vitalapo.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ]
       }
     ]
   },

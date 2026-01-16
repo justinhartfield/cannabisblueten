@@ -103,7 +103,7 @@
     "meta": {
       "title": "CannabisStada 25/1 | ab 9,99 €",
       "description": "CannabisStada 25/1 von Stada. THC: 25%, CBD: 1%. Sorte: Northern Lights. Preis ab 9,99 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/cannabisstada-251",
+      "canonical": "https://cannabisblueten.de/product/cannabisstada-251",
       "robots": {
         "index": true,
         "follow": true
@@ -111,28 +111,28 @@
       "openGraph": {
         "title": "CannabisStada 25/1 | ab 9,99 €",
         "description": "CannabisStada 25/1 von Stada. THC: 25%, CBD: 1%. Sorte: Northern Lights. Preis ab 9,99 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/cannabisstada-251",
+        "url": "https://cannabisblueten.de/product/cannabisstada-251",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Stada",
-        "href": "https://weed.de/brand/stada"
+        "href": "https://cannabisblueten.de/brand/stada"
       },
       {
         "name": "CannabisStada 25/1",
-        "href": "https://weed.de/product/cannabisstada-251"
+        "href": "https://cannabisblueten.de/product/cannabisstada-251"
       }
     ],
     "schema": [
@@ -144,19 +144,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "CannabisStada 25/1",
-            "item": "https://weed.de/product/cannabisstada-251"
+            "item": "https://cannabisblueten.de/product/cannabisstada-251"
           }
         ]
       },
@@ -164,12 +164,23 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "CannabisStada 25/1",
+        "url": "https://cannabisblueten.de/product/cannabisstada-251",
         "brand": {
           "@type": "Brand",
           "name": "Stada"
         },
         "gtin13": [],
-        "description": "THC: 25%, CBD: 1%"
+        "sku": [],
+        "description": "Medizinisches Cannabis Produkt. THC: 25%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/cannabisstada-251",
+          "priceCurrency": "EUR",
+          "price": "9.99",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

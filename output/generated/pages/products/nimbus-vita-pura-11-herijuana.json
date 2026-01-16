@@ -117,7 +117,7 @@
     "meta": {
       "title": "Nimbus Vita Pura 10:1 - Herijuana - Nimbus Health | ab 4,...",
       "description": "Nimbus Vita Pura 10:1 - Herijuana von Nimbus Health. THC: 10%, CBD: 1%. Sorte: Herijuana. Preis ab 4,37 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/nimbus-vita-pura-11-herijuana",
+      "canonical": "https://cannabisblueten.de/product/nimbus-vita-pura-11-herijuana",
       "robots": {
         "index": true,
         "follow": true
@@ -125,28 +125,28 @@
       "openGraph": {
         "title": "Nimbus Vita Pura 10:1 - Herijuana - Nimbus Health | ab 4,...",
         "description": "Nimbus Vita Pura 10:1 - Herijuana von Nimbus Health. THC: 10%, CBD: 1%. Sorte: Herijuana. Preis ab 4,37 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/nimbus-vita-pura-11-herijuana",
+        "url": "https://cannabisblueten.de/product/nimbus-vita-pura-11-herijuana",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Nimbus Health",
-        "href": "https://weed.de/brand/nimbus-health"
+        "href": "https://cannabisblueten.de/brand/nimbus-health"
       },
       {
         "name": "Nimbus Vita Pura 10:1 - Herijuana",
-        "href": "https://weed.de/product/nimbus-vita-pura-11-herijuana"
+        "href": "https://cannabisblueten.de/product/nimbus-vita-pura-11-herijuana"
       }
     ],
     "schema": [
@@ -158,19 +158,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Nimbus Vita Pura 10:1 - Herijuana",
-            "item": "https://weed.de/product/nimbus-vita-pura-11-herijuana"
+            "item": "https://cannabisblueten.de/product/nimbus-vita-pura-11-herijuana"
           }
         ]
       },
@@ -178,12 +178,23 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Nimbus Vita Pura 10:1 - Herijuana",
+        "url": "https://cannabisblueten.de/product/nimbus-vita-pura-11-herijuana",
         "brand": {
           "@type": "Brand",
           "name": "Nimbus Health"
         },
         "gtin13": [],
-        "description": "THC: 10%, CBD: 1%"
+        "sku": [],
+        "description": "Medizinisches Cannabis Produkt. THC: 10%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/nimbus-vita-pura-11-herijuana",
+          "priceCurrency": "EUR",
+          "price": "4.37",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

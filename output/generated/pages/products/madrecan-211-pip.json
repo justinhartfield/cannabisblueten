@@ -104,7 +104,7 @@
     "meta": {
       "title": "madrecan 21/1 PIP - Remexian Pharma | ab 3,75 €",
       "description": "madrecan 21/1 PIP von Remexian Pharma. THC: 21%, CBD: 1%. Sorte: Pineapple Purps. Preis ab 3,75 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/madrecan-211-pip",
+      "canonical": "https://cannabisblueten.de/product/madrecan-211-pip",
       "robots": {
         "index": true,
         "follow": true
@@ -112,9 +112,9 @@
       "openGraph": {
         "title": "madrecan 21/1 PIP - Remexian Pharma | ab 3,75 €",
         "description": "madrecan 21/1 PIP von Remexian Pharma. THC: 21%, CBD: 1%. Sorte: Pineapple Purps. Preis ab 3,75 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/madrecan-211-pip",
+        "url": "https://cannabisblueten.de/product/madrecan-211-pip",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/madrecan-211-pip-2jic81.webp"
       }
@@ -122,19 +122,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Remexian Pharma",
-        "href": "https://weed.de/brand/remexian-pharma"
+        "href": "https://cannabisblueten.de/brand/remexian-pharma"
       },
       {
         "name": "madrecan 21/1 PIP",
-        "href": "https://weed.de/product/madrecan-211-pip"
+        "href": "https://cannabisblueten.de/product/madrecan-211-pip"
       }
     ],
     "schema": [
@@ -146,19 +146,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "madrecan 21/1 PIP",
-            "item": "https://weed.de/product/madrecan-211-pip"
+            "item": "https://cannabisblueten.de/product/madrecan-211-pip"
           }
         ]
       },
@@ -166,11 +166,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "madrecan 21/1 PIP",
+        "url": "https://cannabisblueten.de/product/madrecan-211-pip",
         "brand": {
           "@type": "Brand",
           "name": "Remexian Pharma"
         },
-        "description": "THC: 21%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 21%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/madrecan-211-pip",
+          "priceCurrency": "EUR",
+          "price": "3.75",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "3.75",
+            "maxPrice": "4.29",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

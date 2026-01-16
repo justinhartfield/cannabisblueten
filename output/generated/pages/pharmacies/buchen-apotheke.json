@@ -65,7 +65,7 @@
     "meta": {
       "title": "Hanauer Cannabis Apotheke | Buchen-Apotheke - Cannabis Apotheke in Hanau",
       "description": "Hanauer Cannabis Apotheke | Buchen-Apotheke in Hanau. 32 Cannabis Produkte. Lieferung & Abholung. Bewertung: 3.5/5. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/buchen-apotheke",
+      "canonical": "https://cannabisblueten.de/apotheke/buchen-apotheke",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Hanauer Cannabis Apotheke | Buchen-Apotheke - Cannabis Apotheke in Hanau",
         "description": "Hanauer Cannabis Apotheke | Buchen-Apotheke in Hanau. 32 Cannabis Produkte. Lieferung & Abholung. Bewertung: 3.5/5. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/buchen-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/buchen-apotheke",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/pharmacies/666090c7e9f52afc5e7fa5b4-bf3icj.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Hanau",
-        "href": "https://weed.de/cannabis-apotheke/hanau"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/hanau"
       },
       {
         "name": "Hanauer Cannabis Apotheke | Buchen-Apotheke",
-        "href": "https://weed.de/apotheke/buchen-apotheke"
+        "href": "https://cannabisblueten.de/apotheke/buchen-apotheke"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Hanau",
-            "item": "https://weed.de/cannabis-apotheke/hanau"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/hanau"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Hanauer Cannabis Apotheke | Buchen-Apotheke",
-            "item": "https://weed.de/apotheke/buchen-apotheke"
+            "item": "https://cannabisblueten.de/apotheke/buchen-apotheke"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Hanauer Cannabis Apotheke | Buchen-Apotheke",
-        "url": "https://weed.de/apotheke/buchen-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/buchen-apotheke",
+        "description": "Cannabis Apotheke in Hanau. 32 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Hanau, Deutschland",
@@ -142,8 +143,37 @@
           "addressRegion": "Hessen",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 50.1264123,
+          "longitude": 8.9283105
+        },
         "telephone": "06181740911",
-        "email": "Shop@hanauer-cannabis-apotheke.de"
+        "email": "Shop@hanauer-cannabis-apotheke.de",
+        "sameAs": "https://hanauer-cannabis-apotheke.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "3.5",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
       }
     ]
   },

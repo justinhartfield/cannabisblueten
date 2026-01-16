@@ -78,7 +78,7 @@
     "meta": {
       "title": "Demecan 20/20 Oktonia Typ 1 | ab 10,67 €",
       "description": "Demecan 20/20 Oktonia Typ 1 von Demecan. THC: 20%, CBD: 20%. Preis ab 10,67 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/demecan-2020-oktonia",
+      "canonical": "https://cannabisblueten.de/product/demecan-2020-oktonia",
       "robots": {
         "index": true,
         "follow": true
@@ -86,28 +86,28 @@
       "openGraph": {
         "title": "Demecan 20/20 Oktonia Typ 1 | ab 10,67 €",
         "description": "Demecan 20/20 Oktonia Typ 1 von Demecan. THC: 20%, CBD: 20%. Preis ab 10,67 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/demecan-2020-oktonia",
+        "url": "https://cannabisblueten.de/product/demecan-2020-oktonia",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Demecan",
-        "href": "https://weed.de/brand/demecan"
+        "href": "https://cannabisblueten.de/brand/demecan"
       },
       {
         "name": "Demecan 20/20 Oktonia Typ 1",
-        "href": "https://weed.de/product/demecan-2020-oktonia"
+        "href": "https://cannabisblueten.de/product/demecan-2020-oktonia"
       }
     ],
     "schema": [
@@ -119,19 +119,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Demecan 20/20 Oktonia Typ 1",
-            "item": "https://weed.de/product/demecan-2020-oktonia"
+            "item": "https://cannabisblueten.de/product/demecan-2020-oktonia"
           }
         ]
       },
@@ -139,11 +139,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Demecan 20/20 Oktonia Typ 1",
+        "url": "https://cannabisblueten.de/product/demecan-2020-oktonia",
         "brand": {
           "@type": "Brand",
           "name": "Demecan"
         },
-        "description": "THC: 20%, CBD: 20%"
+        "description": "Medizinisches Cannabis Produkt. THC: 20%, CBD: 20%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/demecan-2020-oktonia",
+          "priceCurrency": "EUR",
+          "price": "10.67",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "10.67",
+            "maxPrice": "14.95",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

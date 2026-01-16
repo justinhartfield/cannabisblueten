@@ -65,7 +65,7 @@
     "meta": {
       "title": "Die Hanfapotheke - Cannabis Apotheke in Konstanz",
       "description": "Die Hanfapotheke in Konstanz. 108 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/die-hanfapotheke",
+      "canonical": "https://cannabisblueten.de/apotheke/die-hanfapotheke",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Die Hanfapotheke - Cannabis Apotheke in Konstanz",
         "description": "Die Hanfapotheke in Konstanz. 108 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/die-hanfapotheke",
+        "url": "https://cannabisblueten.de/apotheke/die-hanfapotheke",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/pharmacies/6440e832204648008ed5958e-41ib5c.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Konstanz",
-        "href": "https://weed.de/cannabis-apotheke/konstanz"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/konstanz"
       },
       {
         "name": "Die Hanfapotheke",
-        "href": "https://weed.de/apotheke/die-hanfapotheke"
+        "href": "https://cannabisblueten.de/apotheke/die-hanfapotheke"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Konstanz",
-            "item": "https://weed.de/cannabis-apotheke/konstanz"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/konstanz"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Die Hanfapotheke",
-            "item": "https://weed.de/apotheke/die-hanfapotheke"
+            "item": "https://cannabisblueten.de/apotheke/die-hanfapotheke"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Die Hanfapotheke",
-        "url": "https://weed.de/apotheke/die-hanfapotheke",
+        "url": "https://cannabisblueten.de/apotheke/die-hanfapotheke",
+        "description": "Cannabis Apotheke in Konstanz. 108 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Wessenbergstraße 28",
@@ -142,8 +143,37 @@
           "addressRegion": "Baden-Württemberg",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 47.6622634,
+          "longitude": 9.1749782
+        },
         "telephone": "49753127051",
-        "email": "info@apotheke-konstanz.de"
+        "email": "info@apotheke-konstanz.de",
+        "sameAs": "https://diehanfapotheke.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5.0",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
       }
     ]
   },

@@ -106,7 +106,7 @@
     "meta": {
       "title": "Good Supply Cannabisblüten THC28 SAC - Tilray | ab 5,99 €",
       "description": "Good Supply Cannabisblüten THC28 SAC von Tilray. THC: 28%, CBD: 1%. Sorte: Space Age Cake. Preis ab 5,99 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/good-supply-cannabisblueten-thc28-sac",
+      "canonical": "https://cannabisblueten.de/product/good-supply-cannabisblueten-thc28-sac",
       "robots": {
         "index": true,
         "follow": true
@@ -114,9 +114,9 @@
       "openGraph": {
         "title": "Good Supply Cannabisblüten THC28 SAC - Tilray | ab 5,99 €",
         "description": "Good Supply Cannabisblüten THC28 SAC von Tilray. THC: 28%, CBD: 1%. Sorte: Space Age Cake. Preis ab 5,99 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/good-supply-cannabisblueten-thc28-sac",
+        "url": "https://cannabisblueten.de/product/good-supply-cannabisblueten-thc28-sac",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/good-supply-cannabisblueten-thc28-sac-ga93db.png"
       }
@@ -124,19 +124,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Tilray",
-        "href": "https://weed.de/brand/tilray"
+        "href": "https://cannabisblueten.de/brand/tilray"
       },
       {
         "name": "Good Supply Cannabisblüten THC28 SAC",
-        "href": "https://weed.de/product/good-supply-cannabisblueten-thc28-sac"
+        "href": "https://cannabisblueten.de/product/good-supply-cannabisblueten-thc28-sac"
       }
     ],
     "schema": [
@@ -148,19 +148,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Good Supply Cannabisblüten THC28 SAC",
-            "item": "https://weed.de/product/good-supply-cannabisblueten-thc28-sac"
+            "item": "https://cannabisblueten.de/product/good-supply-cannabisblueten-thc28-sac"
           }
         ]
       },
@@ -168,11 +168,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Good Supply Cannabisblüten THC28 SAC",
+        "url": "https://cannabisblueten.de/product/good-supply-cannabisblueten-thc28-sac",
         "brand": {
           "@type": "Brand",
           "name": "Tilray"
         },
-        "description": "THC: 28%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 28%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/good-supply-cannabisblueten-thc28-sac",
+          "priceCurrency": "EUR",
+          "price": "5.99",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "5.99",
+            "maxPrice": "7.50",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

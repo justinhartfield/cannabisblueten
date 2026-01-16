@@ -65,7 +65,7 @@
     "meta": {
       "title": "Apotheke am Schillerplatz - Cannabis Apotheke in Müllheim im Markgräflerland",
       "description": "Apotheke am Schillerplatz in Müllheim im Markgräflerland. 53 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/apotheke-am-schillerplatz",
+      "canonical": "https://cannabisblueten.de/apotheke/apotheke-am-schillerplatz",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Apotheke am Schillerplatz - Cannabis Apotheke in Müllheim im Markgräflerland",
         "description": "Apotheke am Schillerplatz in Müllheim im Markgräflerland. 53 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/apotheke-am-schillerplatz",
+        "url": "https://cannabisblueten.de/apotheke/apotheke-am-schillerplatz",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/68fa85203a9b84079ffbf6c5-c73c82.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Müllheim im Markgräflerland",
-        "href": "https://weed.de/cannabis-apotheke/muellheim-im-markgraeflerland"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/muellheim-im-markgraeflerland"
       },
       {
         "name": "Apotheke am Schillerplatz",
-        "href": "https://weed.de/apotheke/apotheke-am-schillerplatz"
+        "href": "https://cannabisblueten.de/apotheke/apotheke-am-schillerplatz"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Müllheim im Markgräflerland",
-            "item": "https://weed.de/cannabis-apotheke/muellheim-im-markgraeflerland"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/muellheim-im-markgraeflerland"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Apotheke am Schillerplatz",
-            "item": "https://weed.de/apotheke/apotheke-am-schillerplatz"
+            "item": "https://cannabisblueten.de/apotheke/apotheke-am-schillerplatz"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Apotheke am Schillerplatz",
-        "url": "https://weed.de/apotheke/apotheke-am-schillerplatz",
+        "url": "https://cannabisblueten.de/apotheke/apotheke-am-schillerplatz",
+        "description": "Cannabis Apotheke in Müllheim im Markgräflerland. 53 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Werderstraße 23",
@@ -142,8 +143,31 @@
           "addressRegion": "Baden-Württemberg",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 47.8092345,
+          "longitude": 7.623752100000001
+        },
         "telephone": "0763112781",
-        "email": "cannabis@apotheke-am-schillerplatz.de"
+        "email": "cannabis@apotheke-am-schillerplatz.de",
+        "sameAs": "www.cannabis-suedbaden.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ]
       }
     ]
   },

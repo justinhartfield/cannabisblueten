@@ -117,7 +117,7 @@
     "meta": {
       "title": "Medican Heri - MediCann | ab 8,50 €",
       "description": "Medican Heri von MediCann. THC: 13%, CBD: 1%. Sorte: Herijuana. Preis ab 8,50 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/medican-heri-h",
+      "canonical": "https://cannabisblueten.de/product/medican-heri-h",
       "robots": {
         "index": true,
         "follow": true
@@ -125,28 +125,28 @@
       "openGraph": {
         "title": "Medican Heri - MediCann | ab 8,50 €",
         "description": "Medican Heri von MediCann. THC: 13%, CBD: 1%. Sorte: Herijuana. Preis ab 8,50 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/medican-heri-h",
+        "url": "https://cannabisblueten.de/product/medican-heri-h",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "MediCann",
-        "href": "https://weed.de/brand/medicann"
+        "href": "https://cannabisblueten.de/brand/medicann"
       },
       {
         "name": "Medican Heri",
-        "href": "https://weed.de/product/medican-heri-h"
+        "href": "https://cannabisblueten.de/product/medican-heri-h"
       }
     ],
     "schema": [
@@ -158,19 +158,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Medican Heri",
-            "item": "https://weed.de/product/medican-heri-h"
+            "item": "https://cannabisblueten.de/product/medican-heri-h"
           }
         ]
       },
@@ -178,12 +178,23 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Medican Heri",
+        "url": "https://cannabisblueten.de/product/medican-heri-h",
         "brand": {
           "@type": "Brand",
           "name": "MediCann"
         },
         "gtin13": [],
-        "description": "THC: 13%, CBD: 1%"
+        "sku": [],
+        "description": "Medizinisches Cannabis Produkt. THC: 13%, CBD: 1%, Genetik: indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/medican-heri-h",
+          "priceCurrency": "EUR",
+          "price": "8.50",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

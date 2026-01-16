@@ -103,7 +103,7 @@
     "meta": {
       "title": "Remexian 27/1 CRX GMO - Remexian Pharma | ab 5,99 €",
       "description": "Remexian 27/1 CRX GMO von Remexian Pharma. THC: 27%, CBD: 1%. Sorte: GMO Breath. Preis ab 5,99 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/remexian-271-crx-gmo",
+      "canonical": "https://cannabisblueten.de/product/remexian-271-crx-gmo",
       "robots": {
         "index": true,
         "follow": true
@@ -111,28 +111,28 @@
       "openGraph": {
         "title": "Remexian 27/1 CRX GMO - Remexian Pharma | ab 5,99 €",
         "description": "Remexian 27/1 CRX GMO von Remexian Pharma. THC: 27%, CBD: 1%. Sorte: GMO Breath. Preis ab 5,99 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/remexian-271-crx-gmo",
+        "url": "https://cannabisblueten.de/product/remexian-271-crx-gmo",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Remexian Pharma",
-        "href": "https://weed.de/brand/remexian-pharma"
+        "href": "https://cannabisblueten.de/brand/remexian-pharma"
       },
       {
         "name": "Remexian 27/1 CRX GMO",
-        "href": "https://weed.de/product/remexian-271-crx-gmo"
+        "href": "https://cannabisblueten.de/product/remexian-271-crx-gmo"
       }
     ],
     "schema": [
@@ -144,19 +144,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Remexian 27/1 CRX GMO",
-            "item": "https://weed.de/product/remexian-271-crx-gmo"
+            "item": "https://cannabisblueten.de/product/remexian-271-crx-gmo"
           }
         ]
       },
@@ -164,11 +164,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Remexian 27/1 CRX GMO",
+        "url": "https://cannabisblueten.de/product/remexian-271-crx-gmo",
         "brand": {
           "@type": "Brand",
           "name": "Remexian Pharma"
         },
-        "description": "THC: 27%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 27%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/remexian-271-crx-gmo",
+          "priceCurrency": "EUR",
+          "price": "5.99",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "5.99",
+            "maxPrice": "6.99",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

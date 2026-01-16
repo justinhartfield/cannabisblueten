@@ -78,7 +78,7 @@
     "meta": {
       "title": "Re Cannis Extrakt 3/3 - Fette Pharma GmbH | ab 7,00 €",
       "description": "Re Cannis Extrakt 3/3 von Fette Pharma GmbH. THC: 3%, CBD: 3%. Preis ab 7,00 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/re-cannis-extrakt-33",
+      "canonical": "https://cannabisblueten.de/product/re-cannis-extrakt-33",
       "robots": {
         "index": true,
         "follow": true
@@ -86,28 +86,28 @@
       "openGraph": {
         "title": "Re Cannis Extrakt 3/3 - Fette Pharma GmbH | ab 7,00 €",
         "description": "Re Cannis Extrakt 3/3 von Fette Pharma GmbH. THC: 3%, CBD: 3%. Preis ab 7,00 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/re-cannis-extrakt-33",
+        "url": "https://cannabisblueten.de/product/re-cannis-extrakt-33",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Fette Pharma GmbH",
-        "href": "https://weed.de/brand/fette-pharma-gmbh"
+        "href": "https://cannabisblueten.de/brand/fette-pharma-gmbh"
       },
       {
         "name": "Re Cannis Extrakt 3/3",
-        "href": "https://weed.de/product/re-cannis-extrakt-33"
+        "href": "https://cannabisblueten.de/product/re-cannis-extrakt-33"
       }
     ],
     "schema": [
@@ -119,19 +119,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Re Cannis Extrakt 3/3",
-            "item": "https://weed.de/product/re-cannis-extrakt-33"
+            "item": "https://cannabisblueten.de/product/re-cannis-extrakt-33"
           }
         ]
       },
@@ -139,11 +139,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Re Cannis Extrakt 3/3",
+        "url": "https://cannabisblueten.de/product/re-cannis-extrakt-33",
         "brand": {
           "@type": "Brand",
           "name": "Fette Pharma GmbH"
         },
-        "description": "THC: 3%, CBD: 3%"
+        "description": "Medizinisches Cannabis Produkt. THC: 3%, CBD: 3%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/re-cannis-extrakt-33",
+          "priceCurrency": "EUR",
+          "price": "7.00",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "7.00",
+            "maxPrice": "20.95",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

@@ -106,7 +106,7 @@
     "meta": {
       "title": "Tilray THC 22 Spotlight Porto FCC | ab 6,44 €",
       "description": "Tilray THC 22 Spotlight Porto FCC von Tilray. THC: 22%, CBD: 1%. Sorte: Frosted Cherry Cookies. Preis ab 6,44 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/tilray-thc-22-spotlight-porto-fcc",
+      "canonical": "https://cannabisblueten.de/product/tilray-thc-22-spotlight-porto-fcc",
       "robots": {
         "index": true,
         "follow": true
@@ -114,9 +114,9 @@
       "openGraph": {
         "title": "Tilray THC 22 Spotlight Porto FCC | ab 6,44 €",
         "description": "Tilray THC 22 Spotlight Porto FCC von Tilray. THC: 22%, CBD: 1%. Sorte: Frosted Cherry Cookies. Preis ab 6,44 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/tilray-thc-22-spotlight-porto-fcc",
+        "url": "https://cannabisblueten.de/product/tilray-thc-22-spotlight-porto-fcc",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/tilray-thc-22-spotlight-porto-fcc-i9j167.png"
       }
@@ -124,19 +124,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Tilray",
-        "href": "https://weed.de/brand/tilray"
+        "href": "https://cannabisblueten.de/brand/tilray"
       },
       {
         "name": "Tilray THC 22 Spotlight Porto FCC",
-        "href": "https://weed.de/product/tilray-thc-22-spotlight-porto-fcc"
+        "href": "https://cannabisblueten.de/product/tilray-thc-22-spotlight-porto-fcc"
       }
     ],
     "schema": [
@@ -148,19 +148,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Tilray THC 22 Spotlight Porto FCC",
-            "item": "https://weed.de/product/tilray-thc-22-spotlight-porto-fcc"
+            "item": "https://cannabisblueten.de/product/tilray-thc-22-spotlight-porto-fcc"
           }
         ]
       },
@@ -168,11 +168,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Tilray THC 22 Spotlight Porto FCC",
+        "url": "https://cannabisblueten.de/product/tilray-thc-22-spotlight-porto-fcc",
         "brand": {
           "@type": "Brand",
           "name": "Tilray"
         },
-        "description": "THC: 22%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 22%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/tilray-thc-22-spotlight-porto-fcc",
+          "priceCurrency": "EUR",
+          "price": "6.44",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "6.44",
+            "maxPrice": "8.50",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

@@ -104,7 +104,7 @@
     "meta": {
       "title": "IMC PF THC25 | ab 5,49 €",
       "description": "IMC PF THC25 von IMC. THC: 25%, CBD: 1%. Sorte: Purple Flame. Preis ab 5,49 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/imc-pf-thc25",
+      "canonical": "https://cannabisblueten.de/product/imc-pf-thc25",
       "robots": {
         "index": true,
         "follow": true
@@ -112,28 +112,28 @@
       "openGraph": {
         "title": "IMC PF THC25 | ab 5,49 €",
         "description": "IMC PF THC25 von IMC. THC: 25%, CBD: 1%. Sorte: Purple Flame. Preis ab 5,49 €. Preise vergleichen.",
-        "url": "https://weed.de/product/imc-pf-thc25",
+        "url": "https://cannabisblueten.de/product/imc-pf-thc25",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "IMC",
-        "href": "https://weed.de/brand/imc"
+        "href": "https://cannabisblueten.de/brand/imc"
       },
       {
         "name": "IMC PF THC25",
-        "href": "https://weed.de/product/imc-pf-thc25"
+        "href": "https://cannabisblueten.de/product/imc-pf-thc25"
       }
     ],
     "schema": [
@@ -145,19 +145,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "IMC PF THC25",
-            "item": "https://weed.de/product/imc-pf-thc25"
+            "item": "https://cannabisblueten.de/product/imc-pf-thc25"
           }
         ]
       },
@@ -165,11 +165,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "IMC PF THC25",
+        "url": "https://cannabisblueten.de/product/imc-pf-thc25",
         "brand": {
           "@type": "Brand",
           "name": "IMC"
         },
-        "description": "THC: 25%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 25%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/imc-pf-thc25",
+          "priceCurrency": "EUR",
+          "price": "5.49",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

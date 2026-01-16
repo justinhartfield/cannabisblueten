@@ -103,7 +103,7 @@
     "meta": {
       "title": "420 Evolution 27/1 CA WES - Four 20 Pharma | ab 5,71 €",
       "description": "420 Evolution 27/1 CA WES von Four 20 Pharma. THC: 27.3%, CBD: 1%. Sorte: Wedding Singer. Preis ab 5,71 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/420-evolution-271-ca-wes",
+      "canonical": "https://cannabisblueten.de/product/420-evolution-271-ca-wes",
       "robots": {
         "index": true,
         "follow": true
@@ -111,9 +111,9 @@
       "openGraph": {
         "title": "420 Evolution 27/1 CA WES - Four 20 Pharma | ab 5,71 €",
         "description": "420 Evolution 27/1 CA WES von Four 20 Pharma. THC: 27.3%, CBD: 1%. Sorte: Wedding Singer. Preis ab 5,71 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/420-evolution-271-ca-wes",
+        "url": "https://cannabisblueten.de/product/420-evolution-271-ca-wes",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/420-evolution-271-ca-wes-736c99.jpeg"
       }
@@ -121,19 +121,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Four 20 Pharma",
-        "href": "https://weed.de/brand/four-20-pharma"
+        "href": "https://cannabisblueten.de/brand/four-20-pharma"
       },
       {
         "name": "420 Evolution 27/1 CA WES",
-        "href": "https://weed.de/product/420-evolution-271-ca-wes"
+        "href": "https://cannabisblueten.de/product/420-evolution-271-ca-wes"
       }
     ],
     "schema": [
@@ -145,19 +145,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "420 Evolution 27/1 CA WES",
-            "item": "https://weed.de/product/420-evolution-271-ca-wes"
+            "item": "https://cannabisblueten.de/product/420-evolution-271-ca-wes"
           }
         ]
       },
@@ -165,11 +165,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "420 Evolution 27/1 CA WES",
+        "url": "https://cannabisblueten.de/product/420-evolution-271-ca-wes",
         "brand": {
           "@type": "Brand",
           "name": "Four 20 Pharma"
         },
-        "description": "THC: 27.3%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 27.3%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/420-evolution-271-ca-wes",
+          "priceCurrency": "EUR",
+          "price": "5.71",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "5.71",
+            "maxPrice": "6.90",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

@@ -106,7 +106,7 @@
     "meta": {
       "title": "MGF DR 26 - MGF Via Medical | ab 7,95 €",
       "description": "MGF DR 26 von MGF Via Medical. THC: 26%, CBD: 1%. Sorte: Dark Rainbow. Preis ab 7,95 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/mgf-dr-26",
+      "canonical": "https://cannabisblueten.de/product/mgf-dr-26",
       "robots": {
         "index": true,
         "follow": true
@@ -114,28 +114,28 @@
       "openGraph": {
         "title": "MGF DR 26 - MGF Via Medical | ab 7,95 €",
         "description": "MGF DR 26 von MGF Via Medical. THC: 26%, CBD: 1%. Sorte: Dark Rainbow. Preis ab 7,95 €. Preise vergleichen.",
-        "url": "https://weed.de/product/mgf-dr-26",
+        "url": "https://cannabisblueten.de/product/mgf-dr-26",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "MGF Via Medical",
-        "href": "https://weed.de/brand/mgf-via-medical"
+        "href": "https://cannabisblueten.de/brand/mgf-via-medical"
       },
       {
         "name": "MGF DR 26",
-        "href": "https://weed.de/product/mgf-dr-26"
+        "href": "https://cannabisblueten.de/product/mgf-dr-26"
       }
     ],
     "schema": [
@@ -147,19 +147,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "MGF DR 26",
-            "item": "https://weed.de/product/mgf-dr-26"
+            "item": "https://cannabisblueten.de/product/mgf-dr-26"
           }
         ]
       },
@@ -167,11 +167,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "MGF DR 26",
+        "url": "https://cannabisblueten.de/product/mgf-dr-26",
         "brand": {
           "@type": "Brand",
           "name": "MGF Via Medical"
         },
-        "description": "THC: 26%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 26%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/mgf-dr-26",
+          "priceCurrency": "EUR",
+          "price": "7.95",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

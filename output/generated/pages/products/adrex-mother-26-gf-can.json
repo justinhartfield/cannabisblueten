@@ -116,7 +116,7 @@
     "meta": {
       "title": "ADREX Mother 26 GF CAN - Adrexpharma | ab 5,99 €",
       "description": "ADREX Mother 26 GF CAN von Adrexpharma. THC: 26%, CBD: 1%. Sorte: Garlic Funk. Preis ab 5,99 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/adrex-mother-26-gf-can",
+      "canonical": "https://cannabisblueten.de/product/adrex-mother-26-gf-can",
       "robots": {
         "index": true,
         "follow": true
@@ -124,9 +124,9 @@
       "openGraph": {
         "title": "ADREX Mother 26 GF CAN - Adrexpharma | ab 5,99 €",
         "description": "ADREX Mother 26 GF CAN von Adrexpharma. THC: 26%, CBD: 1%. Sorte: Garlic Funk. Preis ab 5,99 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/adrex-mother-26-gf-can",
+        "url": "https://cannabisblueten.de/product/adrex-mother-26-gf-can",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/adrex-mother-26-gf-can-91eg85.jpeg"
       }
@@ -134,19 +134,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Adrexpharma",
-        "href": "https://weed.de/brand/adrexpharma"
+        "href": "https://cannabisblueten.de/brand/adrexpharma"
       },
       {
         "name": "ADREX Mother 26 GF CAN",
-        "href": "https://weed.de/product/adrex-mother-26-gf-can"
+        "href": "https://cannabisblueten.de/product/adrex-mother-26-gf-can"
       }
     ],
     "schema": [
@@ -158,19 +158,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "ADREX Mother 26 GF CAN",
-            "item": "https://weed.de/product/adrex-mother-26-gf-can"
+            "item": "https://cannabisblueten.de/product/adrex-mother-26-gf-can"
           }
         ]
       },
@@ -178,11 +178,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "ADREX Mother 26 GF CAN",
+        "url": "https://cannabisblueten.de/product/adrex-mother-26-gf-can",
         "brand": {
           "@type": "Brand",
           "name": "Adrexpharma"
         },
-        "description": "THC: 26%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 26%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/adrex-mother-26-gf-can",
+          "priceCurrency": "EUR",
+          "price": "5.99",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "5.99",
+            "maxPrice": "6.79",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

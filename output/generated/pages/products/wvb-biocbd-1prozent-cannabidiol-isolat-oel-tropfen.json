@@ -29,7 +29,7 @@
     "meta": {
       "title": "WVB BioCBD 10% Cannabidiol-Isolat Öl Tropfen - Wehling vo...",
       "description": "WVB BioCBD 10% Cannabidiol-Isolat Öl Tropfen von Wehling von Buttlar GmbH. THC: 1%, CBD: 10%. Preis ab 4,99 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/wvb-biocbd-1prozent-cannabidiol-isolat-oel-tropfen",
+      "canonical": "https://cannabisblueten.de/product/wvb-biocbd-1prozent-cannabidiol-isolat-oel-tropfen",
       "robots": {
         "index": true,
         "follow": true
@@ -37,28 +37,28 @@
       "openGraph": {
         "title": "WVB BioCBD 10% Cannabidiol-Isolat Öl Tropfen - Wehling vo...",
         "description": "WVB BioCBD 10% Cannabidiol-Isolat Öl Tropfen von Wehling von Buttlar GmbH. THC: 1%, CBD: 10%. Preis ab 4,99 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/wvb-biocbd-1prozent-cannabidiol-isolat-oel-tropfen",
+        "url": "https://cannabisblueten.de/product/wvb-biocbd-1prozent-cannabidiol-isolat-oel-tropfen",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Wehling von Buttlar GmbH",
-        "href": "https://weed.de/brand/wehling-von-buttlar-gmbh"
+        "href": "https://cannabisblueten.de/brand/wehling-von-buttlar-gmbh"
       },
       {
         "name": "WVB BioCBD 10% Cannabidiol-Isolat Öl Tropfen",
-        "href": "https://weed.de/product/wvb-biocbd-1prozent-cannabidiol-isolat-oel-tropfen"
+        "href": "https://cannabisblueten.de/product/wvb-biocbd-1prozent-cannabidiol-isolat-oel-tropfen"
       }
     ],
     "schema": [
@@ -70,19 +70,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "WVB BioCBD 10% Cannabidiol-Isolat Öl Tropfen",
-            "item": "https://weed.de/product/wvb-biocbd-1prozent-cannabidiol-isolat-oel-tropfen"
+            "item": "https://cannabisblueten.de/product/wvb-biocbd-1prozent-cannabidiol-isolat-oel-tropfen"
           }
         ]
       },
@@ -90,11 +90,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "WVB BioCBD 10% Cannabidiol-Isolat Öl Tropfen",
+        "url": "https://cannabisblueten.de/product/wvb-biocbd-1prozent-cannabidiol-isolat-oel-tropfen",
         "brand": {
           "@type": "Brand",
           "name": "Wehling von Buttlar GmbH"
         },
-        "description": "THC: 1%, CBD: 10%"
+        "description": "Medizinisches Cannabis Produkt. THC: 1%, CBD: 10%",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/wvb-biocbd-1prozent-cannabidiol-isolat-oel-tropfen",
+          "priceCurrency": "EUR",
+          "price": "4.99",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

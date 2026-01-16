@@ -129,7 +129,7 @@
     "meta": {
       "title": "Cannamedical Hybrid Classic URY WG | ab 6,99 €",
       "description": "Cannamedical Hybrid Classic URY WG von Cannamedical. THC: 20%, CBD: 1%. Sorte: White Gorilla. Preis ab 6,99 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/cannamedical-hybrid-classic-ury",
+      "canonical": "https://cannabisblueten.de/product/cannamedical-hybrid-classic-ury",
       "robots": {
         "index": true,
         "follow": true
@@ -137,9 +137,9 @@
       "openGraph": {
         "title": "Cannamedical Hybrid Classic URY WG | ab 6,99 €",
         "description": "Cannamedical Hybrid Classic URY WG von Cannamedical. THC: 20%, CBD: 1%. Sorte: White Gorilla. Preis ab 6,99 €. Preise vergleichen.",
-        "url": "https://weed.de/product/cannamedical-hybrid-classic-ury",
+        "url": "https://cannabisblueten.de/product/cannamedical-hybrid-classic-ury",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/cannamedical-hybrid-classic-ury-2i6ie0.png"
       }
@@ -147,19 +147,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cannamedical",
-        "href": "https://weed.de/brand/cannamedical"
+        "href": "https://cannabisblueten.de/brand/cannamedical"
       },
       {
         "name": "Cannamedical Hybrid Classic URY WG",
-        "href": "https://weed.de/product/cannamedical-hybrid-classic-ury"
+        "href": "https://cannabisblueten.de/product/cannamedical-hybrid-classic-ury"
       }
     ],
     "schema": [
@@ -171,19 +171,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Cannamedical Hybrid Classic URY WG",
-            "item": "https://weed.de/product/cannamedical-hybrid-classic-ury"
+            "item": "https://cannabisblueten.de/product/cannamedical-hybrid-classic-ury"
           }
         ]
       },
@@ -191,11 +191,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Cannamedical Hybrid Classic URY WG",
+        "url": "https://cannabisblueten.de/product/cannamedical-hybrid-classic-ury",
         "brand": {
           "@type": "Brand",
           "name": "Cannamedical"
         },
-        "description": "THC: 20%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 20%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/cannamedical-hybrid-classic-ury",
+          "priceCurrency": "EUR",
+          "price": "6.99",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

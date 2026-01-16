@@ -119,7 +119,7 @@
     "meta": {
       "title": "Ostara DT - Cantourage | ab 10,50 €",
       "description": "Ostara DT von Cantourage. THC: 29%, CBD: 1%. Sorte: Dirty Taxi. Preis ab 10,50 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/ostara-dt",
+      "canonical": "https://cannabisblueten.de/product/ostara-dt",
       "robots": {
         "index": true,
         "follow": true
@@ -127,9 +127,9 @@
       "openGraph": {
         "title": "Ostara DT - Cantourage | ab 10,50 €",
         "description": "Ostara DT von Cantourage. THC: 29%, CBD: 1%. Sorte: Dirty Taxi. Preis ab 10,50 €. Preise vergleichen.",
-        "url": "https://weed.de/product/ostara-dt",
+        "url": "https://cannabisblueten.de/product/ostara-dt",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/products/ostara-dt-22d2i1.jpeg"
       }
@@ -137,19 +137,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cantourage",
-        "href": "https://weed.de/brand/cantourage"
+        "href": "https://cannabisblueten.de/brand/cantourage"
       },
       {
         "name": "Ostara DT",
-        "href": "https://weed.de/product/ostara-dt"
+        "href": "https://cannabisblueten.de/product/ostara-dt"
       }
     ],
     "schema": [
@@ -161,19 +161,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Ostara DT",
-            "item": "https://weed.de/product/ostara-dt"
+            "item": "https://cannabisblueten.de/product/ostara-dt"
           }
         ]
       },
@@ -181,11 +181,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Ostara DT",
+        "url": "https://cannabisblueten.de/product/ostara-dt",
         "brand": {
           "@type": "Brand",
           "name": "Cantourage"
         },
-        "description": "THC: 29%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 29%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/ostara-dt",
+          "priceCurrency": "EUR",
+          "price": "10.50",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

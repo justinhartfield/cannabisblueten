@@ -51,7 +51,7 @@
     "meta": {
       "title": "Rats Apotheke | Cannabis Stralsund - Cannabis Apotheke in Stralsund",
       "description": "Rats Apotheke | Cannabis Stralsund in Stralsund. 20 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/rats-apotheke",
+      "canonical": "https://cannabisblueten.de/apotheke/rats-apotheke",
       "robots": {
         "index": true,
         "follow": true
@@ -59,9 +59,9 @@
       "openGraph": {
         "title": "Rats Apotheke | Cannabis Stralsund - Cannabis Apotheke in Stralsund",
         "description": "Rats Apotheke | Cannabis Stralsund in Stralsund. 20 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/rats-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/rats-apotheke",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/6871175ba95129ebfe70166b-i9fjg5.jpg"
       }
@@ -69,19 +69,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Stralsund",
-        "href": "https://weed.de/cannabis-apotheke/stralsund"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/stralsund"
       },
       {
         "name": "Rats Apotheke | Cannabis Stralsund",
-        "href": "https://weed.de/apotheke/rats-apotheke"
+        "href": "https://cannabisblueten.de/apotheke/rats-apotheke"
       }
     ],
     "schema": [
@@ -93,25 +93,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Stralsund",
-            "item": "https://weed.de/cannabis-apotheke/stralsund"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/stralsund"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Rats Apotheke | Cannabis Stralsund",
-            "item": "https://weed.de/apotheke/rats-apotheke"
+            "item": "https://cannabisblueten.de/apotheke/rats-apotheke"
           }
         ]
       },
@@ -119,7 +119,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Rats Apotheke | Cannabis Stralsund",
-        "url": "https://weed.de/apotheke/rats-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/rats-apotheke",
+        "description": "Cannabis Apotheke in Stralsund. 20 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Alter Markt 6",
@@ -128,8 +129,37 @@
           "addressRegion": "Mecklenburg-Vorpommern",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 54.3162308,
+          "longitude": 13.0896599
+        },
         "telephone": "03831298045",
-        "email": "post@apotheke-stralsund.de"
+        "email": "post@apotheke-stralsund.de",
+        "sameAs": "www.cannabis-stralsund.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5.0",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
       }
     ]
   },

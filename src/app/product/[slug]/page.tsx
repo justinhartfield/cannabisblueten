@@ -8,6 +8,7 @@
 
 import type { Metadata } from 'next';
 import Link from 'next/link';
+// Note: Using regular img tags for external weed.de images for reliability
 import type { ProductPageData } from '@/resolvers';
 import { Breadcrumbs } from '@/components';
 
@@ -24,6 +25,10 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const data = await getProductPageData(slug);
   if (!data) return { title: 'Product not found' };
 
+  const ogImage = data.product.imageUrl
+    ? { url: data.product.imageUrl, alt: `${data.product.name} - Medizinisches Cannabis Produkt` }
+    : { url: '/og-default.png', width: 1200, height: 630, alt: 'CannabisBlueten.de' };
+
   return {
     title: data.seo.meta.title,
     description: data.seo.meta.description,
@@ -36,7 +41,13 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       type: 'website',
       siteName: 'CannabisBlueten.de',
       locale: data.seo.meta.openGraph.locale,
-      images: data.product.imageUrl ? [data.product.imageUrl] : undefined,
+      images: [ogImage],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: data.seo.meta.openGraph.title,
+      description: data.seo.meta.openGraph.description,
+      images: [ogImage.url],
     },
   };
 }
@@ -170,12 +181,13 @@ export default async function ProductPage({ params }: PageProps) {
 
             {/* Product Image / Placeholder */}
             <div className="flex justify-center lg:justify-end">
-              <div className="glass-panel-solid rounded-3xl p-8 w-full max-w-md aspect-square flex items-center justify-center">
+              <div className="glass-panel-solid rounded-3xl p-8 w-full max-w-md aspect-square flex items-center justify-center relative overflow-hidden">
                 {data.product.imageUrl ? (
                   <img
                     src={data.product.imageUrl}
-                    alt={data.product.name}
-                    className="max-w-full max-h-full object-contain rounded-2xl"
+                    alt={`${data.product.name} - Medizinisches Cannabis Produkt`}
+                    className="w-full h-full object-contain rounded-2xl"
+                    loading="eager"
                   />
                 ) : (
                   <div className="text-center">

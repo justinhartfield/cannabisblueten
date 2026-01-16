@@ -106,7 +106,7 @@
     "meta": {
       "title": "Mother AIS CAN 22/1 - Adrexpharma | ab 3,97 €",
       "description": "Mother AIS CAN 22/1 von Adrexpharma. THC: 22%, CBD: 1%. Sorte: Apes in Space. Preis ab 3,97 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/mother-ais-can-221",
+      "canonical": "https://cannabisblueten.de/product/mother-ais-can-221",
       "robots": {
         "index": true,
         "follow": true
@@ -114,9 +114,9 @@
       "openGraph": {
         "title": "Mother AIS CAN 22/1 - Adrexpharma | ab 3,97 €",
         "description": "Mother AIS CAN 22/1 von Adrexpharma. THC: 22%, CBD: 1%. Sorte: Apes in Space. Preis ab 3,97 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/mother-ais-can-221",
+        "url": "https://cannabisblueten.de/product/mother-ais-can-221",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/mother-ais-can-221-i53j8h.png"
       }
@@ -124,19 +124,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Adrexpharma",
-        "href": "https://weed.de/brand/adrexpharma"
+        "href": "https://cannabisblueten.de/brand/adrexpharma"
       },
       {
         "name": "Mother AIS CAN 22/1",
-        "href": "https://weed.de/product/mother-ais-can-221"
+        "href": "https://cannabisblueten.de/product/mother-ais-can-221"
       }
     ],
     "schema": [
@@ -148,19 +148,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Mother AIS CAN 22/1",
-            "item": "https://weed.de/product/mother-ais-can-221"
+            "item": "https://cannabisblueten.de/product/mother-ais-can-221"
           }
         ]
       },
@@ -168,11 +168,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Mother AIS CAN 22/1",
+        "url": "https://cannabisblueten.de/product/mother-ais-can-221",
         "brand": {
           "@type": "Brand",
           "name": "Adrexpharma"
         },
-        "description": "THC: 22%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 22%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/mother-ais-can-221",
+          "priceCurrency": "EUR",
+          "price": "3.97",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "3.97",
+            "maxPrice": "6.69",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

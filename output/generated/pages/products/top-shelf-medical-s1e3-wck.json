@@ -113,7 +113,7 @@
     "meta": {
       "title": "Top Shelf Medical S1E3 WCK | ab 10,25 €",
       "description": "Top Shelf Medical S1E3 WCK von Top Shelf Medical. THC: 30%, CBD: 1%. Sorte: Wes’ Coast Kush. Preis ab 10,25 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/top-shelf-medical-s1e3-wck",
+      "canonical": "https://cannabisblueten.de/product/top-shelf-medical-s1e3-wck",
       "robots": {
         "index": true,
         "follow": true
@@ -121,28 +121,28 @@
       "openGraph": {
         "title": "Top Shelf Medical S1E3 WCK | ab 10,25 €",
         "description": "Top Shelf Medical S1E3 WCK von Top Shelf Medical. THC: 30%, CBD: 1%. Sorte: Wes’ Coast Kush. Preis ab 10,25 €. Preise vergleichen.",
-        "url": "https://weed.de/product/top-shelf-medical-s1e3-wck",
+        "url": "https://cannabisblueten.de/product/top-shelf-medical-s1e3-wck",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Top Shelf Medical",
-        "href": "https://weed.de/brand/top-shelf-medical"
+        "href": "https://cannabisblueten.de/brand/top-shelf-medical"
       },
       {
         "name": "Top Shelf Medical S1E3 WCK",
-        "href": "https://weed.de/product/top-shelf-medical-s1e3-wck"
+        "href": "https://cannabisblueten.de/product/top-shelf-medical-s1e3-wck"
       }
     ],
     "schema": [
@@ -154,19 +154,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Top Shelf Medical S1E3 WCK",
-            "item": "https://weed.de/product/top-shelf-medical-s1e3-wck"
+            "item": "https://cannabisblueten.de/product/top-shelf-medical-s1e3-wck"
           }
         ]
       },
@@ -174,11 +174,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Top Shelf Medical S1E3 WCK",
+        "url": "https://cannabisblueten.de/product/top-shelf-medical-s1e3-wck",
         "brand": {
           "@type": "Brand",
           "name": "Top Shelf Medical"
         },
-        "description": "THC: 30%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 30%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/top-shelf-medical-s1e3-wck",
+          "priceCurrency": "EUR",
+          "price": "10.25",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

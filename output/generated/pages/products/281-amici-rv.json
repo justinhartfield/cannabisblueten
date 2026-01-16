@@ -118,7 +118,7 @@
     "meta": {
       "title": "28/1 AMICI RV - Cansativa | ab 4,85 €",
       "description": "28/1 AMICI RV von Cansativa. THC: 28%, CBD: 1%. Sorte: Red Velvet. Preis ab 4,85 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/281-amici-rv",
+      "canonical": "https://cannabisblueten.de/product/281-amici-rv",
       "robots": {
         "index": true,
         "follow": true
@@ -126,9 +126,9 @@
       "openGraph": {
         "title": "28/1 AMICI RV - Cansativa | ab 4,85 €",
         "description": "28/1 AMICI RV von Cansativa. THC: 28%, CBD: 1%. Sorte: Red Velvet. Preis ab 4,85 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/281-amici-rv",
+        "url": "https://cannabisblueten.de/product/281-amici-rv",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/281-amici-rv-7a4eg2.jpeg"
       }
@@ -136,19 +136,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cansativa",
-        "href": "https://weed.de/brand/cansativa"
+        "href": "https://cannabisblueten.de/brand/cansativa"
       },
       {
         "name": "28/1 AMICI RV",
-        "href": "https://weed.de/product/281-amici-rv"
+        "href": "https://cannabisblueten.de/product/281-amici-rv"
       }
     ],
     "schema": [
@@ -160,19 +160,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "28/1 AMICI RV",
-            "item": "https://weed.de/product/281-amici-rv"
+            "item": "https://cannabisblueten.de/product/281-amici-rv"
           }
         ]
       },
@@ -180,11 +180,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "28/1 AMICI RV",
+        "url": "https://cannabisblueten.de/product/281-amici-rv",
         "brand": {
           "@type": "Brand",
           "name": "Cansativa"
         },
-        "description": "THC: 28%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 28%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/281-amici-rv",
+          "priceCurrency": "EUR",
+          "price": "4.85",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.85",
+            "maxPrice": "9.48",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

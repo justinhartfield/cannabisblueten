@@ -118,7 +118,7 @@
     "meta": {
       "title": "Greyscales FJ 26/1 Flapjacks - Cantourage | ab 4,75 €",
       "description": "Greyscales FJ 26/1 Flapjacks von Cantourage. THC: 26%, CBD: 1%. Sorte: Flap Jacks. Preis ab 4,75 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/greyscales-fj-261-flapjacks",
+      "canonical": "https://cannabisblueten.de/product/greyscales-fj-261-flapjacks",
       "robots": {
         "index": true,
         "follow": true
@@ -126,9 +126,9 @@
       "openGraph": {
         "title": "Greyscales FJ 26/1 Flapjacks - Cantourage | ab 4,75 €",
         "description": "Greyscales FJ 26/1 Flapjacks von Cantourage. THC: 26%, CBD: 1%. Sorte: Flap Jacks. Preis ab 4,75 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/greyscales-fj-261-flapjacks",
+        "url": "https://cannabisblueten.de/product/greyscales-fj-261-flapjacks",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/greyscales-fj-261-flapjacks-530jj2.png"
       }
@@ -136,19 +136,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cantourage",
-        "href": "https://weed.de/brand/cantourage"
+        "href": "https://cannabisblueten.de/brand/cantourage"
       },
       {
         "name": "Greyscales FJ 26/1 Flapjacks",
-        "href": "https://weed.de/product/greyscales-fj-261-flapjacks"
+        "href": "https://cannabisblueten.de/product/greyscales-fj-261-flapjacks"
       }
     ],
     "schema": [
@@ -160,19 +160,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Greyscales FJ 26/1 Flapjacks",
-            "item": "https://weed.de/product/greyscales-fj-261-flapjacks"
+            "item": "https://cannabisblueten.de/product/greyscales-fj-261-flapjacks"
           }
         ]
       },
@@ -180,11 +180,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Greyscales FJ 26/1 Flapjacks",
+        "url": "https://cannabisblueten.de/product/greyscales-fj-261-flapjacks",
         "brand": {
           "@type": "Brand",
           "name": "Cantourage"
         },
-        "description": "THC: 26%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 26%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/greyscales-fj-261-flapjacks",
+          "priceCurrency": "EUR",
+          "price": "4.75",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.75",
+            "maxPrice": "9.99",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

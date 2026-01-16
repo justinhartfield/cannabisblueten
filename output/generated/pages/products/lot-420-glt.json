@@ -117,7 +117,7 @@
     "meta": {
       "title": "LOT 420 GLT - Cantourage | ab 8,45 €",
       "description": "LOT 420 GLT von Cantourage. THC: 25%, CBD: 1%. Sorte: Gelato 33. Preis ab 8,45 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/lot-420-glt",
+      "canonical": "https://cannabisblueten.de/product/lot-420-glt",
       "robots": {
         "index": true,
         "follow": true
@@ -125,9 +125,9 @@
       "openGraph": {
         "title": "LOT 420 GLT - Cantourage | ab 8,45 €",
         "description": "LOT 420 GLT von Cantourage. THC: 25%, CBD: 1%. Sorte: Gelato 33. Preis ab 8,45 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/lot-420-glt",
+        "url": "https://cannabisblueten.de/product/lot-420-glt",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/lot-420-glt-ee1a7b.png"
       }
@@ -135,19 +135,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cantourage",
-        "href": "https://weed.de/brand/cantourage"
+        "href": "https://cannabisblueten.de/brand/cantourage"
       },
       {
         "name": "LOT 420 GLT",
-        "href": "https://weed.de/product/lot-420-glt"
+        "href": "https://cannabisblueten.de/product/lot-420-glt"
       }
     ],
     "schema": [
@@ -159,19 +159,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "LOT 420 GLT",
-            "item": "https://weed.de/product/lot-420-glt"
+            "item": "https://cannabisblueten.de/product/lot-420-glt"
           }
         ]
       },
@@ -179,11 +179,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "LOT 420 GLT",
+        "url": "https://cannabisblueten.de/product/lot-420-glt",
         "brand": {
           "@type": "Brand",
           "name": "Cantourage"
         },
-        "description": "THC: 25%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 25%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/lot-420-glt",
+          "priceCurrency": "EUR",
+          "price": "8.45",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "8.45",
+            "maxPrice": "10.99",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

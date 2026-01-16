@@ -108,7 +108,7 @@
     "meta": {
       "title": "Peace Naturals 31/1 GC | ab 4,63 €",
       "description": "Peace Naturals 31/1 GC von Peace Naturals. THC: 31%, CBD: 1%. Sorte: GMO. Preis ab 4,63 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/peace-naturals-311-gc",
+      "canonical": "https://cannabisblueten.de/product/peace-naturals-311-gc",
       "robots": {
         "index": true,
         "follow": true
@@ -116,28 +116,28 @@
       "openGraph": {
         "title": "Peace Naturals 31/1 GC | ab 4,63 €",
         "description": "Peace Naturals 31/1 GC von Peace Naturals. THC: 31%, CBD: 1%. Sorte: GMO. Preis ab 4,63 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/peace-naturals-311-gc",
+        "url": "https://cannabisblueten.de/product/peace-naturals-311-gc",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Peace Naturals",
-        "href": "https://weed.de/brand/peace-naturals"
+        "href": "https://cannabisblueten.de/brand/peace-naturals"
       },
       {
         "name": "Peace Naturals 31/1 GC",
-        "href": "https://weed.de/product/peace-naturals-311-gc"
+        "href": "https://cannabisblueten.de/product/peace-naturals-311-gc"
       }
     ],
     "schema": [
@@ -149,19 +149,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Peace Naturals 31/1 GC",
-            "item": "https://weed.de/product/peace-naturals-311-gc"
+            "item": "https://cannabisblueten.de/product/peace-naturals-311-gc"
           }
         ]
       },
@@ -169,11 +169,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Peace Naturals 31/1 GC",
+        "url": "https://cannabisblueten.de/product/peace-naturals-311-gc",
         "brand": {
           "@type": "Brand",
           "name": "Peace Naturals"
         },
-        "description": "THC: 31%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 31%, CBD: 1%, Genetik: indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/peace-naturals-311-gc",
+          "priceCurrency": "EUR",
+          "price": "4.63",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.63",
+            "maxPrice": "16.60",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

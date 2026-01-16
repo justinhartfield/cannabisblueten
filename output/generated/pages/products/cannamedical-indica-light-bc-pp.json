@@ -109,7 +109,7 @@
     "meta": {
       "title": "Cannamedical Indica Light BC PP | ab 4,99 €",
       "description": "Cannamedical Indica Light BC PP von Cannamedical. THC: 16.7%, CBD: 1%. Sorte: Purple Punch. Preis ab 4,99 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/cannamedical-indica-light-bc-pp",
+      "canonical": "https://cannabisblueten.de/product/cannamedical-indica-light-bc-pp",
       "robots": {
         "index": true,
         "follow": true
@@ -117,9 +117,9 @@
       "openGraph": {
         "title": "Cannamedical Indica Light BC PP | ab 4,99 €",
         "description": "Cannamedical Indica Light BC PP von Cannamedical. THC: 16.7%, CBD: 1%. Sorte: Purple Punch. Preis ab 4,99 €. Preise vergleichen.",
-        "url": "https://weed.de/product/cannamedical-indica-light-bc-pp",
+        "url": "https://cannabisblueten.de/product/cannamedical-indica-light-bc-pp",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/cannamedical-indica-light-bc-pp-939i84.png"
       }
@@ -127,19 +127,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cannamedical",
-        "href": "https://weed.de/brand/cannamedical"
+        "href": "https://cannabisblueten.de/brand/cannamedical"
       },
       {
         "name": "Cannamedical Indica Light BC PP",
-        "href": "https://weed.de/product/cannamedical-indica-light-bc-pp"
+        "href": "https://cannabisblueten.de/product/cannamedical-indica-light-bc-pp"
       }
     ],
     "schema": [
@@ -151,19 +151,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Cannamedical Indica Light BC PP",
-            "item": "https://weed.de/product/cannamedical-indica-light-bc-pp"
+            "item": "https://cannabisblueten.de/product/cannamedical-indica-light-bc-pp"
           }
         ]
       },
@@ -171,11 +171,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Cannamedical Indica Light BC PP",
+        "url": "https://cannabisblueten.de/product/cannamedical-indica-light-bc-pp",
         "brand": {
           "@type": "Brand",
           "name": "Cannamedical"
         },
-        "description": "THC: 16.7%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 16.7%, CBD: 1%, Genetik: indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/cannamedical-indica-light-bc-pp",
+          "priceCurrency": "EUR",
+          "price": "4.99",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

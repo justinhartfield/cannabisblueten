@@ -65,7 +65,7 @@
     "meta": {
       "title": "Apotheke an der Friedenseiche - Cannabis Apotheke in Hamburg",
       "description": "Apotheke an der Friedenseiche in Hamburg. 35 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/apotheke-an-der-friedenseiche",
+      "canonical": "https://cannabisblueten.de/apotheke/apotheke-an-der-friedenseiche",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Apotheke an der Friedenseiche - Cannabis Apotheke in Hamburg",
         "description": "Apotheke an der Friedenseiche in Hamburg. 35 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/apotheke-an-der-friedenseiche",
+        "url": "https://cannabisblueten.de/apotheke/apotheke-an-der-friedenseiche",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/681df2855103dc0234238074-e9116h.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Hamburg",
-        "href": "https://weed.de/cannabis-apotheke/hamburg"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/hamburg"
       },
       {
         "name": "Apotheke an der Friedenseiche",
-        "href": "https://weed.de/apotheke/apotheke-an-der-friedenseiche"
+        "href": "https://cannabisblueten.de/apotheke/apotheke-an-der-friedenseiche"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Hamburg",
-            "item": "https://weed.de/cannabis-apotheke/hamburg"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/hamburg"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Apotheke an der Friedenseiche",
-            "item": "https://weed.de/apotheke/apotheke-an-der-friedenseiche"
+            "item": "https://cannabisblueten.de/apotheke/apotheke-an-der-friedenseiche"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Apotheke an der Friedenseiche",
-        "url": "https://weed.de/apotheke/apotheke-an-der-friedenseiche",
+        "url": "https://cannabisblueten.de/apotheke/apotheke-an-der-friedenseiche",
+        "description": "Cannabis Apotheke in Hamburg. 35 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Eppendorfer Marktplatz",
@@ -142,8 +143,31 @@
           "addressRegion": "Hamburg",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 53.5932421,
+          "longitude": 9.9890978
+        },
         "telephone": "+4915561248980",
-        "email": "info@happyhanf.hamburg"
+        "email": "info@happyhanf.hamburg",
+        "sameAs": "https://happyhanf.hamburg/",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ]
       }
     ]
   },

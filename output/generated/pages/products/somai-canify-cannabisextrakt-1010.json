@@ -78,7 +78,7 @@
     "meta": {
       "title": "Somai Canify Cannabisextrakt 10:10 - Somai Pharmaceutical...",
       "description": "Somai Canify Cannabisextrakt 10:10 von Somai Pharmaceuticals. THC: 10%, CBD: 10%. Preis ab 2,90 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/somai-canify-cannabisextrakt-1010",
+      "canonical": "https://cannabisblueten.de/product/somai-canify-cannabisextrakt-1010",
       "robots": {
         "index": true,
         "follow": true
@@ -86,9 +86,9 @@
       "openGraph": {
         "title": "Somai Canify Cannabisextrakt 10:10 - Somai Pharmaceutical...",
         "description": "Somai Canify Cannabisextrakt 10:10 von Somai Pharmaceuticals. THC: 10%, CBD: 10%. Preis ab 2,90 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/somai-canify-cannabisextrakt-1010",
+        "url": "https://cannabisblueten.de/product/somai-canify-cannabisextrakt-1010",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/somai-canify-cannabisextrakt-1010-f6ddf5.jpeg"
       }
@@ -96,19 +96,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Somai Pharmaceuticals",
-        "href": "https://weed.de/brand/somai-pharmaceuticals"
+        "href": "https://cannabisblueten.de/brand/somai-pharmaceuticals"
       },
       {
         "name": "Somai Canify Cannabisextrakt 10:10",
-        "href": "https://weed.de/product/somai-canify-cannabisextrakt-1010"
+        "href": "https://cannabisblueten.de/product/somai-canify-cannabisextrakt-1010"
       }
     ],
     "schema": [
@@ -120,19 +120,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Somai Canify Cannabisextrakt 10:10",
-            "item": "https://weed.de/product/somai-canify-cannabisextrakt-1010"
+            "item": "https://cannabisblueten.de/product/somai-canify-cannabisextrakt-1010"
           }
         ]
       },
@@ -140,11 +140,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Somai Canify Cannabisextrakt 10:10",
+        "url": "https://cannabisblueten.de/product/somai-canify-cannabisextrakt-1010",
         "brand": {
           "@type": "Brand",
           "name": "Somai Pharmaceuticals"
         },
-        "description": "THC: 10%, CBD: 10%"
+        "description": "Medizinisches Cannabis Produkt. THC: 10%, CBD: 10%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/somai-canify-cannabisextrakt-1010",
+          "priceCurrency": "EUR",
+          "price": "2.90",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "2.90",
+            "maxPrice": "9.70",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

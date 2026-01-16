@@ -115,7 +115,7 @@
     "meta": {
       "title": "Canify Cannabis flos 18/1 LS Ku. DS | ab 4,69 €",
       "description": "Canify Cannabis flos 18/1 LS Ku. DS von Canify. THC: 18%, CBD: 1%. Sorte: Durban Sky. Preis ab 4,69 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/canify-cannabis-flos-181-ls-ku-ds",
+      "canonical": "https://cannabisblueten.de/product/canify-cannabis-flos-181-ls-ku-ds",
       "robots": {
         "index": true,
         "follow": true
@@ -123,9 +123,9 @@
       "openGraph": {
         "title": "Canify Cannabis flos 18/1 LS Ku. DS | ab 4,69 €",
         "description": "Canify Cannabis flos 18/1 LS Ku. DS von Canify. THC: 18%, CBD: 1%. Sorte: Durban Sky. Preis ab 4,69 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/canify-cannabis-flos-181-ls-ku-ds",
+        "url": "https://cannabisblueten.de/product/canify-cannabis-flos-181-ls-ku-ds",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/cannabis-flos-181-ls-ku-ds-dj2hfh.jpeg"
       }
@@ -133,19 +133,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Canify",
-        "href": "https://weed.de/brand/canify"
+        "href": "https://cannabisblueten.de/brand/canify"
       },
       {
         "name": "Canify Cannabis flos 18/1 LS Ku. DS",
-        "href": "https://weed.de/product/canify-cannabis-flos-181-ls-ku-ds"
+        "href": "https://cannabisblueten.de/product/canify-cannabis-flos-181-ls-ku-ds"
       }
     ],
     "schema": [
@@ -157,19 +157,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Canify Cannabis flos 18/1 LS Ku. DS",
-            "item": "https://weed.de/product/canify-cannabis-flos-181-ls-ku-ds"
+            "item": "https://cannabisblueten.de/product/canify-cannabis-flos-181-ls-ku-ds"
           }
         ]
       },
@@ -177,11 +177,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Canify Cannabis flos 18/1 LS Ku. DS",
+        "url": "https://cannabisblueten.de/product/canify-cannabis-flos-181-ls-ku-ds",
         "brand": {
           "@type": "Brand",
           "name": "Canify"
         },
-        "description": "THC: 18%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 18%, CBD: 1%, Genetik: sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/canify-cannabis-flos-181-ls-ku-ds",
+          "priceCurrency": "EUR",
+          "price": "4.69",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.69",
+            "maxPrice": "8.05",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

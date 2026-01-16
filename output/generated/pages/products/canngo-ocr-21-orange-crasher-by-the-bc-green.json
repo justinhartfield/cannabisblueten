@@ -117,7 +117,7 @@
     "meta": {
       "title": "CannGo OCR 20/1 Orange Crasher by The BC Green | ab 8,95 €",
       "description": "CannGo OCR 20/1 Orange Crasher by The BC Green von BC Green. THC: 20%, CBD: 1%. Sorte: Orange Crasher. Preis ab 8,95 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/canngo-ocr-21-orange-crasher-by-the-bc-green",
+      "canonical": "https://cannabisblueten.de/product/canngo-ocr-21-orange-crasher-by-the-bc-green",
       "robots": {
         "index": true,
         "follow": true
@@ -125,28 +125,28 @@
       "openGraph": {
         "title": "CannGo OCR 20/1 Orange Crasher by The BC Green | ab 8,95 €",
         "description": "CannGo OCR 20/1 Orange Crasher by The BC Green von BC Green. THC: 20%, CBD: 1%. Sorte: Orange Crasher. Preis ab 8,95 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/canngo-ocr-21-orange-crasher-by-the-bc-green",
+        "url": "https://cannabisblueten.de/product/canngo-ocr-21-orange-crasher-by-the-bc-green",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "BC Green",
-        "href": "https://weed.de/brand/bc-green"
+        "href": "https://cannabisblueten.de/brand/bc-green"
       },
       {
         "name": "CannGo OCR 20/1 Orange Crasher by The BC Green",
-        "href": "https://weed.de/product/canngo-ocr-21-orange-crasher-by-the-bc-green"
+        "href": "https://cannabisblueten.de/product/canngo-ocr-21-orange-crasher-by-the-bc-green"
       }
     ],
     "schema": [
@@ -158,19 +158,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "CannGo OCR 20/1 Orange Crasher by The BC Green",
-            "item": "https://weed.de/product/canngo-ocr-21-orange-crasher-by-the-bc-green"
+            "item": "https://cannabisblueten.de/product/canngo-ocr-21-orange-crasher-by-the-bc-green"
           }
         ]
       },
@@ -178,11 +178,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "CannGo OCR 20/1 Orange Crasher by The BC Green",
+        "url": "https://cannabisblueten.de/product/canngo-ocr-21-orange-crasher-by-the-bc-green",
         "brand": {
           "@type": "Brand",
           "name": "BC Green"
         },
-        "description": "THC: 20%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 20%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/canngo-ocr-21-orange-crasher-by-the-bc-green",
+          "priceCurrency": "EUR",
+          "price": "8.95",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

@@ -104,7 +104,7 @@
     "meta": {
       "title": "Bava Med 21/1 Gelato Pie - bava medical | ab 5,99 €",
       "description": "Bava Med 21/1 Gelato Pie von bava medical. THC: 21%, CBD: 1%. Sorte: Gelato Pie. Preis ab 5,99 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/bava-med-211-gelato-pie",
+      "canonical": "https://cannabisblueten.de/product/bava-med-211-gelato-pie",
       "robots": {
         "index": true,
         "follow": true
@@ -112,28 +112,28 @@
       "openGraph": {
         "title": "Bava Med 21/1 Gelato Pie - bava medical | ab 5,99 €",
         "description": "Bava Med 21/1 Gelato Pie von bava medical. THC: 21%, CBD: 1%. Sorte: Gelato Pie. Preis ab 5,99 €. Preise vergleichen.",
-        "url": "https://weed.de/product/bava-med-211-gelato-pie",
+        "url": "https://cannabisblueten.de/product/bava-med-211-gelato-pie",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "bava medical",
-        "href": "https://weed.de/brand/bava-medical"
+        "href": "https://cannabisblueten.de/brand/bava-medical"
       },
       {
         "name": "Bava Med 21/1 Gelato Pie",
-        "href": "https://weed.de/product/bava-med-211-gelato-pie"
+        "href": "https://cannabisblueten.de/product/bava-med-211-gelato-pie"
       }
     ],
     "schema": [
@@ -145,19 +145,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Bava Med 21/1 Gelato Pie",
-            "item": "https://weed.de/product/bava-med-211-gelato-pie"
+            "item": "https://cannabisblueten.de/product/bava-med-211-gelato-pie"
           }
         ]
       },
@@ -165,11 +165,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Bava Med 21/1 Gelato Pie",
+        "url": "https://cannabisblueten.de/product/bava-med-211-gelato-pie",
         "brand": {
           "@type": "Brand",
           "name": "bava medical"
         },
-        "description": "THC: 21%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 21%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/bava-med-211-gelato-pie",
+          "priceCurrency": "EUR",
+          "price": "5.99",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

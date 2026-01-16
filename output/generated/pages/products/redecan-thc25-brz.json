@@ -104,7 +104,7 @@
     "meta": {
       "title": "Redecan THC25 BRZ - Tilray | ab 3,69 €",
       "description": "Redecan THC25 BRZ von Tilray. THC: 25%, CBD: 1%. Sorte: Biscuit Rntz I. Preis ab 3,69 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/redecan-thc25-brz",
+      "canonical": "https://cannabisblueten.de/product/redecan-thc25-brz",
       "robots": {
         "index": true,
         "follow": true
@@ -112,9 +112,9 @@
       "openGraph": {
         "title": "Redecan THC25 BRZ - Tilray | ab 3,69 €",
         "description": "Redecan THC25 BRZ von Tilray. THC: 25%, CBD: 1%. Sorte: Biscuit Rntz I. Preis ab 3,69 €. Preise vergleichen.",
-        "url": "https://weed.de/product/redecan-thc25-brz",
+        "url": "https://cannabisblueten.de/product/redecan-thc25-brz",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/redecan-thc25-brz-60j8cf.webp"
       }
@@ -122,19 +122,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Tilray",
-        "href": "https://weed.de/brand/tilray"
+        "href": "https://cannabisblueten.de/brand/tilray"
       },
       {
         "name": "Redecan THC25 BRZ",
-        "href": "https://weed.de/product/redecan-thc25-brz"
+        "href": "https://cannabisblueten.de/product/redecan-thc25-brz"
       }
     ],
     "schema": [
@@ -146,19 +146,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Redecan THC25 BRZ",
-            "item": "https://weed.de/product/redecan-thc25-brz"
+            "item": "https://cannabisblueten.de/product/redecan-thc25-brz"
           }
         ]
       },
@@ -166,11 +166,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Redecan THC25 BRZ",
+        "url": "https://cannabisblueten.de/product/redecan-thc25-brz",
         "brand": {
           "@type": "Brand",
           "name": "Tilray"
         },
-        "description": "THC: 25%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 25%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/redecan-thc25-brz",
+          "priceCurrency": "EUR",
+          "price": "3.69",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

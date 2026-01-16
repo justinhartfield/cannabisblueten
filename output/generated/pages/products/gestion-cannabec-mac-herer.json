@@ -121,7 +121,7 @@
     "meta": {
       "title": "Gestion Cannabec Mac Herer - Cantourage | ab 4,20 €",
       "description": "Gestion Cannabec Mac Herer von Cantourage. THC: 20%, CBD: 1%. Sorte: Mac Herer. Preis ab 4,20 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/gestion-cannabec-mac-herer",
+      "canonical": "https://cannabisblueten.de/product/gestion-cannabec-mac-herer",
       "robots": {
         "index": true,
         "follow": true
@@ -129,9 +129,9 @@
       "openGraph": {
         "title": "Gestion Cannabec Mac Herer - Cantourage | ab 4,20 €",
         "description": "Gestion Cannabec Mac Herer von Cantourage. THC: 20%, CBD: 1%. Sorte: Mac Herer. Preis ab 4,20 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/gestion-cannabec-mac-herer",
+        "url": "https://cannabisblueten.de/product/gestion-cannabec-mac-herer",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/gestion-cannabec-mac-herer-f069a9.png"
       }
@@ -139,19 +139,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cantourage",
-        "href": "https://weed.de/brand/cantourage"
+        "href": "https://cannabisblueten.de/brand/cantourage"
       },
       {
         "name": "Gestion Cannabec Mac Herer",
-        "href": "https://weed.de/product/gestion-cannabec-mac-herer"
+        "href": "https://cannabisblueten.de/product/gestion-cannabec-mac-herer"
       }
     ],
     "schema": [
@@ -163,19 +163,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Gestion Cannabec Mac Herer",
-            "item": "https://weed.de/product/gestion-cannabec-mac-herer"
+            "item": "https://cannabisblueten.de/product/gestion-cannabec-mac-herer"
           }
         ]
       },
@@ -183,11 +183,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Gestion Cannabec Mac Herer",
+        "url": "https://cannabisblueten.de/product/gestion-cannabec-mac-herer",
         "brand": {
           "@type": "Brand",
           "name": "Cantourage"
         },
-        "description": "THC: 20%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 20%, CBD: 1%, Genetik: sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/gestion-cannabec-mac-herer",
+          "priceCurrency": "EUR",
+          "price": "4.20",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.20",
+            "maxPrice": "6.95",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

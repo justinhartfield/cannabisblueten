@@ -104,7 +104,7 @@
     "meta": {
       "title": "19/1 Nice FZK - Cansativa | ab 4,25 €",
       "description": "19/1 Nice FZK von Cansativa. THC: 19%, CBD: 1%. Sorte: Forbidden Zkittlez. Preis ab 4,25 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/191-nice-fzk",
+      "canonical": "https://cannabisblueten.de/product/191-nice-fzk",
       "robots": {
         "index": true,
         "follow": true
@@ -112,9 +112,9 @@
       "openGraph": {
         "title": "19/1 Nice FZK - Cansativa | ab 4,25 €",
         "description": "19/1 Nice FZK von Cansativa. THC: 19%, CBD: 1%. Sorte: Forbidden Zkittlez. Preis ab 4,25 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/191-nice-fzk",
+        "url": "https://cannabisblueten.de/product/191-nice-fzk",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/191-nice-fzk-bb5dcc.png"
       }
@@ -122,19 +122,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cansativa",
-        "href": "https://weed.de/brand/cansativa"
+        "href": "https://cannabisblueten.de/brand/cansativa"
       },
       {
         "name": "19/1 Nice FZK",
-        "href": "https://weed.de/product/191-nice-fzk"
+        "href": "https://cannabisblueten.de/product/191-nice-fzk"
       }
     ],
     "schema": [
@@ -146,19 +146,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "19/1 Nice FZK",
-            "item": "https://weed.de/product/191-nice-fzk"
+            "item": "https://cannabisblueten.de/product/191-nice-fzk"
           }
         ]
       },
@@ -166,11 +166,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "19/1 Nice FZK",
+        "url": "https://cannabisblueten.de/product/191-nice-fzk",
         "brand": {
           "@type": "Brand",
           "name": "Cansativa"
         },
-        "description": "THC: 19%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 19%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/191-nice-fzk",
+          "priceCurrency": "EUR",
+          "price": "4.25",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.25",
+            "maxPrice": "7.70",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

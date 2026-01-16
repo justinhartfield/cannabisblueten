@@ -116,7 +116,7 @@
     "meta": {
       "title": "GM Color of Space 26/1 - Deutsche Medizinalcannabis | ab ...",
       "description": "GM Color of Space 26/1 von Deutsche Medizinalcannabis. THC: 25.9%, CBD: 1%. Sorte: Apple Fritter. Preis ab 8,43 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/gm-color-of-space-261",
+      "canonical": "https://cannabisblueten.de/product/gm-color-of-space-261",
       "robots": {
         "index": true,
         "follow": true
@@ -124,28 +124,28 @@
       "openGraph": {
         "title": "GM Color of Space 26/1 - Deutsche Medizinalcannabis | ab ...",
         "description": "GM Color of Space 26/1 von Deutsche Medizinalcannabis. THC: 25.9%, CBD: 1%. Sorte: Apple Fritter. Preis ab 8,43 €. Preise vergleichen.",
-        "url": "https://weed.de/product/gm-color-of-space-261",
+        "url": "https://cannabisblueten.de/product/gm-color-of-space-261",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Deutsche Medizinalcannabis",
-        "href": "https://weed.de/brand/deutsche-medizinalcannabis"
+        "href": "https://cannabisblueten.de/brand/deutsche-medizinalcannabis"
       },
       {
         "name": "GM Color of Space 26/1",
-        "href": "https://weed.de/product/gm-color-of-space-261"
+        "href": "https://cannabisblueten.de/product/gm-color-of-space-261"
       }
     ],
     "schema": [
@@ -157,19 +157,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "GM Color of Space 26/1",
-            "item": "https://weed.de/product/gm-color-of-space-261"
+            "item": "https://cannabisblueten.de/product/gm-color-of-space-261"
           }
         ]
       },
@@ -177,12 +177,23 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "GM Color of Space 26/1",
+        "url": "https://cannabisblueten.de/product/gm-color-of-space-261",
         "brand": {
           "@type": "Brand",
           "name": "Deutsche Medizinalcannabis"
         },
         "gtin13": [],
-        "description": "THC: 25.9%, CBD: 1%"
+        "sku": [],
+        "description": "Medizinisches Cannabis Produkt. THC: 25.9%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/gm-color-of-space-261",
+          "priceCurrency": "EUR",
+          "price": "8.43",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

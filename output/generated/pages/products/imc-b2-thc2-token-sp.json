@@ -117,7 +117,7 @@
     "meta": {
       "title": "IMC B2 THC20 Token  SP | ab 3,25 €",
       "description": "IMC B2 THC20 Token  SP von IMC. THC: 20%, CBD: 1%. Sorte: Sour Splash. Preis ab 3,25 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/imc-b2-thc2-token-sp",
+      "canonical": "https://cannabisblueten.de/product/imc-b2-thc2-token-sp",
       "robots": {
         "index": true,
         "follow": true
@@ -125,28 +125,28 @@
       "openGraph": {
         "title": "IMC B2 THC20 Token  SP | ab 3,25 €",
         "description": "IMC B2 THC20 Token  SP von IMC. THC: 20%, CBD: 1%. Sorte: Sour Splash. Preis ab 3,25 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/imc-b2-thc2-token-sp",
+        "url": "https://cannabisblueten.de/product/imc-b2-thc2-token-sp",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "IMC",
-        "href": "https://weed.de/brand/imc"
+        "href": "https://cannabisblueten.de/brand/imc"
       },
       {
         "name": "IMC B2 THC20 Token  SP",
-        "href": "https://weed.de/product/imc-b2-thc2-token-sp"
+        "href": "https://cannabisblueten.de/product/imc-b2-thc2-token-sp"
       }
     ],
     "schema": [
@@ -158,19 +158,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "IMC B2 THC20 Token  SP",
-            "item": "https://weed.de/product/imc-b2-thc2-token-sp"
+            "item": "https://cannabisblueten.de/product/imc-b2-thc2-token-sp"
           }
         ]
       },
@@ -178,11 +178,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "IMC B2 THC20 Token  SP",
+        "url": "https://cannabisblueten.de/product/imc-b2-thc2-token-sp",
         "brand": {
           "@type": "Brand",
           "name": "IMC"
         },
-        "description": "THC: 20%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 20%, CBD: 1%, Genetik: sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/imc-b2-thc2-token-sp",
+          "priceCurrency": "EUR",
+          "price": "3.25",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "3.25",
+            "maxPrice": "5.90",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

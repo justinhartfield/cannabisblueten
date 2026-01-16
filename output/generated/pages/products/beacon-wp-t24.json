@@ -104,7 +104,7 @@
     "meta": {
       "title": "Beacon WP T24 - Adrexpharma | ab 5,15 €",
       "description": "Beacon WP T24 von Adrexpharma. THC: 24%, CBD: 1%. Sorte: Blueberry Pancakes. Preis ab 5,15 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/beacon-wp-t24",
+      "canonical": "https://cannabisblueten.de/product/beacon-wp-t24",
       "robots": {
         "index": true,
         "follow": true
@@ -112,9 +112,9 @@
       "openGraph": {
         "title": "Beacon WP T24 - Adrexpharma | ab 5,15 €",
         "description": "Beacon WP T24 von Adrexpharma. THC: 24%, CBD: 1%. Sorte: Blueberry Pancakes. Preis ab 5,15 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/beacon-wp-t24",
+        "url": "https://cannabisblueten.de/product/beacon-wp-t24",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/beacon-wp-t24-i1c1f5.png"
       }
@@ -122,19 +122,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Adrexpharma",
-        "href": "https://weed.de/brand/adrexpharma"
+        "href": "https://cannabisblueten.de/brand/adrexpharma"
       },
       {
         "name": "Beacon WP T24",
-        "href": "https://weed.de/product/beacon-wp-t24"
+        "href": "https://cannabisblueten.de/product/beacon-wp-t24"
       }
     ],
     "schema": [
@@ -146,19 +146,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Beacon WP T24",
-            "item": "https://weed.de/product/beacon-wp-t24"
+            "item": "https://cannabisblueten.de/product/beacon-wp-t24"
           }
         ]
       },
@@ -166,11 +166,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Beacon WP T24",
+        "url": "https://cannabisblueten.de/product/beacon-wp-t24",
         "brand": {
           "@type": "Brand",
           "name": "Adrexpharma"
         },
-        "description": "THC: 24%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 24%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/beacon-wp-t24",
+          "priceCurrency": "EUR",
+          "price": "5.15",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "5.15",
+            "maxPrice": "7.50",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

@@ -115,7 +115,7 @@
     "meta": {
       "title": "AMP ZEN RBX THC25 White Wedding Cake RBX | ab 5,00 €",
       "description": "AMP ZEN RBX THC25 White Wedding Cake RBX von AMP. THC: 24.1%, CBD: 1%. Sorte: Legendary Larry. Preis ab 5,00 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/amp-zen-rbx-thc25-white-wedding-cake-rbx",
+      "canonical": "https://cannabisblueten.de/product/amp-zen-rbx-thc25-white-wedding-cake-rbx",
       "robots": {
         "index": true,
         "follow": true
@@ -123,9 +123,9 @@
       "openGraph": {
         "title": "AMP ZEN RBX THC25 White Wedding Cake RBX | ab 5,00 €",
         "description": "AMP ZEN RBX THC25 White Wedding Cake RBX von AMP. THC: 24.1%, CBD: 1%. Sorte: Legendary Larry. Preis ab 5,00 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/amp-zen-rbx-thc25-white-wedding-cake-rbx",
+        "url": "https://cannabisblueten.de/product/amp-zen-rbx-thc25-white-wedding-cake-rbx",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/amp-zen-rbx-thc25-white-wedding-cake-rbx-351e4i.webp"
       }
@@ -133,19 +133,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "AMP",
-        "href": "https://weed.de/brand/amp"
+        "href": "https://cannabisblueten.de/brand/amp"
       },
       {
         "name": "AMP ZEN RBX THC25 White Wedding Cake RBX",
-        "href": "https://weed.de/product/amp-zen-rbx-thc25-white-wedding-cake-rbx"
+        "href": "https://cannabisblueten.de/product/amp-zen-rbx-thc25-white-wedding-cake-rbx"
       }
     ],
     "schema": [
@@ -157,19 +157,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "AMP ZEN RBX THC25 White Wedding Cake RBX",
-            "item": "https://weed.de/product/amp-zen-rbx-thc25-white-wedding-cake-rbx"
+            "item": "https://cannabisblueten.de/product/amp-zen-rbx-thc25-white-wedding-cake-rbx"
           }
         ]
       },
@@ -177,11 +177,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "AMP ZEN RBX THC25 White Wedding Cake RBX",
+        "url": "https://cannabisblueten.de/product/amp-zen-rbx-thc25-white-wedding-cake-rbx",
         "brand": {
           "@type": "Brand",
           "name": "AMP"
         },
-        "description": "THC: 24.1%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 24.1%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/amp-zen-rbx-thc25-white-wedding-cake-rbx",
+          "priceCurrency": "EUR",
+          "price": "5.00",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "5.00",
+            "maxPrice": "8.50",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

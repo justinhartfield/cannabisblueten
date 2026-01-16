@@ -106,7 +106,7 @@
     "meta": {
       "title": "101 C-Extrakt 50:0 - Heyday | ab 10,99 €",
       "description": "101 C-Extrakt 50:0 von Heyday. THC: 5%, CBD: 0%. Sorte: AK47. Preis ab 10,99 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/101-c-extrakt",
+      "canonical": "https://cannabisblueten.de/product/101-c-extrakt",
       "robots": {
         "index": true,
         "follow": true
@@ -114,28 +114,28 @@
       "openGraph": {
         "title": "101 C-Extrakt 50:0 - Heyday | ab 10,99 €",
         "description": "101 C-Extrakt 50:0 von Heyday. THC: 5%, CBD: 0%. Sorte: AK47. Preis ab 10,99 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/101-c-extrakt",
+        "url": "https://cannabisblueten.de/product/101-c-extrakt",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Heyday",
-        "href": "https://weed.de/brand/heyday"
+        "href": "https://cannabisblueten.de/brand/heyday"
       },
       {
         "name": "101 C-Extrakt 50:0",
-        "href": "https://weed.de/product/101-c-extrakt"
+        "href": "https://cannabisblueten.de/product/101-c-extrakt"
       }
     ],
     "schema": [
@@ -147,19 +147,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "101 C-Extrakt 50:0",
-            "item": "https://weed.de/product/101-c-extrakt"
+            "item": "https://cannabisblueten.de/product/101-c-extrakt"
           }
         ]
       },
@@ -167,11 +167,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "101 C-Extrakt 50:0",
+        "url": "https://cannabisblueten.de/product/101-c-extrakt",
         "brand": {
           "@type": "Brand",
           "name": "Heyday"
         },
-        "description": "THC: 5%, CBD: 0%"
+        "description": "Medizinisches Cannabis Produkt. THC: 5%, CBD: 0%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/101-c-extrakt",
+          "priceCurrency": "EUR",
+          "price": "10.99",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "10.99",
+            "maxPrice": "12.99",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

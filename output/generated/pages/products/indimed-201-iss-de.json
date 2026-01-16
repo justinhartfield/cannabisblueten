@@ -106,7 +106,7 @@
     "meta": {
       "title": "Indimed 20/1 ISS-DE - Aurora | ab 4,79 €",
       "description": "Indimed 20/1 ISS-DE von Aurora. THC: 20%, CBD: 1%. Sorte: Island Sweet Skunk. Preis ab 4,79 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/indimed-201-iss-de",
+      "canonical": "https://cannabisblueten.de/product/indimed-201-iss-de",
       "robots": {
         "index": true,
         "follow": true
@@ -114,9 +114,9 @@
       "openGraph": {
         "title": "Indimed 20/1 ISS-DE - Aurora | ab 4,79 €",
         "description": "Indimed 20/1 ISS-DE von Aurora. THC: 20%, CBD: 1%. Sorte: Island Sweet Skunk. Preis ab 4,79 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/indimed-201-iss-de",
+        "url": "https://cannabisblueten.de/product/indimed-201-iss-de",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/indimed-201-iss-de-f6b3i6.png"
       }
@@ -124,19 +124,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Aurora",
-        "href": "https://weed.de/brand/aurora"
+        "href": "https://cannabisblueten.de/brand/aurora"
       },
       {
         "name": "Indimed 20/1 ISS-DE",
-        "href": "https://weed.de/product/indimed-201-iss-de"
+        "href": "https://cannabisblueten.de/product/indimed-201-iss-de"
       }
     ],
     "schema": [
@@ -148,19 +148,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Indimed 20/1 ISS-DE",
-            "item": "https://weed.de/product/indimed-201-iss-de"
+            "item": "https://cannabisblueten.de/product/indimed-201-iss-de"
           }
         ]
       },
@@ -168,11 +168,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Indimed 20/1 ISS-DE",
+        "url": "https://cannabisblueten.de/product/indimed-201-iss-de",
         "brand": {
           "@type": "Brand",
           "name": "Aurora"
         },
-        "description": "THC: 20%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 20%, CBD: 1%, Genetik: sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/indimed-201-iss-de",
+          "priceCurrency": "EUR",
+          "price": "4.79",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.79",
+            "maxPrice": "9.50",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

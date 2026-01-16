@@ -65,7 +65,7 @@
     "meta": {
       "title": "farma-plus Apotheke am Bahnhof - Cannabis Apotheke in Illertissen",
       "description": "farma-plus Apotheke am Bahnhof in Illertissen. 8 Cannabis Produkte. Abholung. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/farma-plus-apotheke-am-bahnhof",
+      "canonical": "https://cannabisblueten.de/apotheke/farma-plus-apotheke-am-bahnhof",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "farma-plus Apotheke am Bahnhof - Cannabis Apotheke in Illertissen",
         "description": "farma-plus Apotheke am Bahnhof in Illertissen. 8 Cannabis Produkte. Abholung. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/farma-plus-apotheke-am-bahnhof",
+        "url": "https://cannabisblueten.de/apotheke/farma-plus-apotheke-am-bahnhof",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/68b548b7e0dda100e2d5df2d-0j1ahg.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Illertissen",
-        "href": "https://weed.de/cannabis-apotheke/illertissen"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/illertissen"
       },
       {
         "name": "farma-plus Apotheke am Bahnhof",
-        "href": "https://weed.de/apotheke/farma-plus-apotheke-am-bahnhof"
+        "href": "https://cannabisblueten.de/apotheke/farma-plus-apotheke-am-bahnhof"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Illertissen",
-            "item": "https://weed.de/cannabis-apotheke/illertissen"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/illertissen"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "farma-plus Apotheke am Bahnhof",
-            "item": "https://weed.de/apotheke/farma-plus-apotheke-am-bahnhof"
+            "item": "https://cannabisblueten.de/apotheke/farma-plus-apotheke-am-bahnhof"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "farma-plus Apotheke am Bahnhof",
-        "url": "https://weed.de/apotheke/farma-plus-apotheke-am-bahnhof",
+        "url": "https://cannabisblueten.de/apotheke/farma-plus-apotheke-am-bahnhof",
+        "description": "Cannabis Apotheke in Illertissen. 8 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Gustav-Stresemann-Straße 1",
@@ -142,8 +143,23 @@
           "addressRegion": "Bayern",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 48.22243109999999,
+          "longitude": 10.099309
+        },
         "telephone": "0730343904",
-        "email": "info@cannabis-apo-illertissen.de"
+        "email": "info@cannabis-apo-illertissen.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ]
       }
     ]
   },

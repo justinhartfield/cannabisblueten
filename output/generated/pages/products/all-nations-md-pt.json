@@ -118,7 +118,7 @@
     "meta": {
       "title": "All Nations MD PT - Cantourage | ab 7,74 €",
       "description": "All Nations MD PT von Cantourage. THC: 25%, CBD: 1%. Sorte: Mac Daddy. Preis ab 7,74 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/all-nations-md-pt",
+      "canonical": "https://cannabisblueten.de/product/all-nations-md-pt",
       "robots": {
         "index": true,
         "follow": true
@@ -126,9 +126,9 @@
       "openGraph": {
         "title": "All Nations MD PT - Cantourage | ab 7,74 €",
         "description": "All Nations MD PT von Cantourage. THC: 25%, CBD: 1%. Sorte: Mac Daddy. Preis ab 7,74 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/all-nations-md-pt",
+        "url": "https://cannabisblueten.de/product/all-nations-md-pt",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/all-nations-md-pt-gbf5c2.png"
       }
@@ -136,19 +136,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cantourage",
-        "href": "https://weed.de/brand/cantourage"
+        "href": "https://cannabisblueten.de/brand/cantourage"
       },
       {
         "name": "All Nations MD PT",
-        "href": "https://weed.de/product/all-nations-md-pt"
+        "href": "https://cannabisblueten.de/product/all-nations-md-pt"
       }
     ],
     "schema": [
@@ -160,19 +160,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "All Nations MD PT",
-            "item": "https://weed.de/product/all-nations-md-pt"
+            "item": "https://cannabisblueten.de/product/all-nations-md-pt"
           }
         ]
       },
@@ -180,11 +180,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "All Nations MD PT",
+        "url": "https://cannabisblueten.de/product/all-nations-md-pt",
         "brand": {
           "@type": "Brand",
           "name": "Cantourage"
         },
-        "description": "THC: 25%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 25%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/all-nations-md-pt",
+          "priceCurrency": "EUR",
+          "price": "7.74",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

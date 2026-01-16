@@ -65,7 +65,7 @@
     "meta": {
       "title": "Grastheke - Cannabis Apotheke in Neuss",
       "description": "Grastheke in Neuss. 91 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/grastheke",
+      "canonical": "https://cannabisblueten.de/apotheke/grastheke",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Grastheke - Cannabis Apotheke in Neuss",
         "description": "Grastheke in Neuss. 91 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/grastheke",
+        "url": "https://cannabisblueten.de/apotheke/grastheke",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/6899c58dd22fc2e63cde5c06-aa5e36.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Neuss",
-        "href": "https://weed.de/cannabis-apotheke/neuss"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/neuss"
       },
       {
         "name": "Grastheke",
-        "href": "https://weed.de/apotheke/grastheke"
+        "href": "https://cannabisblueten.de/apotheke/grastheke"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Neuss",
-            "item": "https://weed.de/cannabis-apotheke/neuss"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/neuss"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Grastheke",
-            "item": "https://weed.de/apotheke/grastheke"
+            "item": "https://cannabisblueten.de/apotheke/grastheke"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Grastheke",
-        "url": "https://weed.de/apotheke/grastheke",
+        "url": "https://cannabisblueten.de/apotheke/grastheke",
+        "description": "Cannabis Apotheke in Neuss. 91 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Alexianerplatz 1a",
@@ -142,8 +143,37 @@
           "addressRegion": "Nordrhein-Westfalen",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 51.189782,
+          "longitude": 6.703566899999999
+        },
         "telephone": "0213293968",
-        "email": "info@grastheke.de"
+        "email": "info@grastheke.de",
+        "sameAs": "www.grastheke.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5.0",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
       }
     ]
   },

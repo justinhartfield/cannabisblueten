@@ -108,7 +108,7 @@
     "meta": {
       "title": "Cannamedical Balanced Ultra AU Libras | ab 9,23 €",
       "description": "Cannamedical Balanced Ultra AU Libras von Cannamedical. THC: 11.6%, CBD: 12.8%. Sorte: Libras. Preis ab 9,23 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/cannamedical-balanced-ultra-au-libras",
+      "canonical": "https://cannabisblueten.de/product/cannamedical-balanced-ultra-au-libras",
       "robots": {
         "index": true,
         "follow": true
@@ -116,9 +116,9 @@
       "openGraph": {
         "title": "Cannamedical Balanced Ultra AU Libras | ab 9,23 €",
         "description": "Cannamedical Balanced Ultra AU Libras von Cannamedical. THC: 11.6%, CBD: 12.8%. Sorte: Libras. Preis ab 9,23 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/cannamedical-balanced-ultra-au-libras",
+        "url": "https://cannabisblueten.de/product/cannamedical-balanced-ultra-au-libras",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/cannamedical-balanced-ultra-au-libras-dg307i.png"
       }
@@ -126,19 +126,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cannamedical",
-        "href": "https://weed.de/brand/cannamedical"
+        "href": "https://cannabisblueten.de/brand/cannamedical"
       },
       {
         "name": "Cannamedical Balanced Ultra AU Libras",
-        "href": "https://weed.de/product/cannamedical-balanced-ultra-au-libras"
+        "href": "https://cannabisblueten.de/product/cannamedical-balanced-ultra-au-libras"
       }
     ],
     "schema": [
@@ -150,19 +150,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Cannamedical Balanced Ultra AU Libras",
-            "item": "https://weed.de/product/cannamedical-balanced-ultra-au-libras"
+            "item": "https://cannabisblueten.de/product/cannamedical-balanced-ultra-au-libras"
           }
         ]
       },
@@ -170,11 +170,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Cannamedical Balanced Ultra AU Libras",
+        "url": "https://cannabisblueten.de/product/cannamedical-balanced-ultra-au-libras",
         "brand": {
           "@type": "Brand",
           "name": "Cannamedical"
         },
-        "description": "THC: 11.6%, CBD: 12.8%"
+        "description": "Medizinisches Cannabis Produkt. THC: 11.6%, CBD: 12.8%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/cannamedical-balanced-ultra-au-libras",
+          "priceCurrency": "EUR",
+          "price": "9.23",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "9.23",
+            "maxPrice": "13.95",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

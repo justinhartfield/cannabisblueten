@@ -116,7 +116,7 @@
     "meta": {
       "title": "CannabiStada 50/25 CA | ab 19,99 €",
       "description": "CannabiStada 50/25 CA von Stada. THC: 5%, CBD: 2.5%. Sorte: GG4. Preis ab 19,99 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/cannabistada-5025-ca",
+      "canonical": "https://cannabisblueten.de/product/cannabistada-5025-ca",
       "robots": {
         "index": true,
         "follow": true
@@ -124,28 +124,28 @@
       "openGraph": {
         "title": "CannabiStada 50/25 CA | ab 19,99 €",
         "description": "CannabiStada 50/25 CA von Stada. THC: 5%, CBD: 2.5%. Sorte: GG4. Preis ab 19,99 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/cannabistada-5025-ca",
+        "url": "https://cannabisblueten.de/product/cannabistada-5025-ca",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Stada",
-        "href": "https://weed.de/brand/stada"
+        "href": "https://cannabisblueten.de/brand/stada"
       },
       {
         "name": "CannabiStada 50/25 CA",
-        "href": "https://weed.de/product/cannabistada-5025-ca"
+        "href": "https://cannabisblueten.de/product/cannabistada-5025-ca"
       }
     ],
     "schema": [
@@ -157,19 +157,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "CannabiStada 50/25 CA",
-            "item": "https://weed.de/product/cannabistada-5025-ca"
+            "item": "https://cannabisblueten.de/product/cannabistada-5025-ca"
           }
         ]
       },
@@ -177,11 +177,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "CannabiStada 50/25 CA",
+        "url": "https://cannabisblueten.de/product/cannabistada-5025-ca",
         "brand": {
           "@type": "Brand",
           "name": "Stada"
         },
-        "description": "THC: 5%, CBD: 2.5%"
+        "description": "Medizinisches Cannabis Produkt. THC: 5%, CBD: 2.5%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/cannabistada-5025-ca",
+          "priceCurrency": "EUR",
+          "price": "19.99",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "19.99",
+            "maxPrice": "35.58",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

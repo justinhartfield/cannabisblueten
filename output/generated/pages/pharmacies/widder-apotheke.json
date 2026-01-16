@@ -65,7 +65,7 @@
     "meta": {
       "title": "Widder Apotheke - Cannabis Apotheke in Wuppertal",
       "description": "Widder Apotheke in Wuppertal. 58 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/widder-apotheke",
+      "canonical": "https://cannabisblueten.de/apotheke/widder-apotheke",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Widder Apotheke - Cannabis Apotheke in Wuppertal",
         "description": "Widder Apotheke in Wuppertal. 58 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/widder-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/widder-apotheke",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/674db206a8088f0f33f1044f-e6gih0.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Wuppertal",
-        "href": "https://weed.de/cannabis-apotheke/wuppertal"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/wuppertal"
       },
       {
         "name": "Widder Apotheke",
-        "href": "https://weed.de/apotheke/widder-apotheke"
+        "href": "https://cannabisblueten.de/apotheke/widder-apotheke"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Wuppertal",
-            "item": "https://weed.de/cannabis-apotheke/wuppertal"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/wuppertal"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Widder Apotheke",
-            "item": "https://weed.de/apotheke/widder-apotheke"
+            "item": "https://cannabisblueten.de/apotheke/widder-apotheke"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Widder Apotheke",
-        "url": "https://weed.de/apotheke/widder-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/widder-apotheke",
+        "description": "Cannabis Apotheke in Wuppertal. 58 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Wittener Straße 13",
@@ -142,8 +143,30 @@
           "addressRegion": "Nordrhein-Westfalen",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 51.2866189,
+          "longitude": 7.230871
+        },
         "telephone": "0202645184",
-        "email": "shop@cannabis4wuppertal.de"
+        "email": "shop@cannabis4wuppertal.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ]
       }
     ]
   },

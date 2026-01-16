@@ -100,7 +100,7 @@
     "meta": {
       "title": "MediCann 19/1 MC Oro 21 | ab 4,30 €",
       "description": "MediCann 19/1 MC Oro 21 von MediCann. THC: 19%, CBD: 1%. Sorte: Duende. Preis ab 4,30 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/medicann-191-mc-oro-21",
+      "canonical": "https://cannabisblueten.de/product/medicann-191-mc-oro-21",
       "robots": {
         "index": true,
         "follow": true
@@ -108,28 +108,28 @@
       "openGraph": {
         "title": "MediCann 19/1 MC Oro 21 | ab 4,30 €",
         "description": "MediCann 19/1 MC Oro 21 von MediCann. THC: 19%, CBD: 1%. Sorte: Duende. Preis ab 4,30 €. Preise vergleichen.",
-        "url": "https://weed.de/product/medicann-191-mc-oro-21",
+        "url": "https://cannabisblueten.de/product/medicann-191-mc-oro-21",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "MediCann",
-        "href": "https://weed.de/brand/medicann"
+        "href": "https://cannabisblueten.de/brand/medicann"
       },
       {
         "name": "MediCann 19/1 MC Oro 21",
-        "href": "https://weed.de/product/medicann-191-mc-oro-21"
+        "href": "https://cannabisblueten.de/product/medicann-191-mc-oro-21"
       }
     ],
     "schema": [
@@ -141,19 +141,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "MediCann 19/1 MC Oro 21",
-            "item": "https://weed.de/product/medicann-191-mc-oro-21"
+            "item": "https://cannabisblueten.de/product/medicann-191-mc-oro-21"
           }
         ]
       },
@@ -161,11 +161,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "MediCann 19/1 MC Oro 21",
+        "url": "https://cannabisblueten.de/product/medicann-191-mc-oro-21",
         "brand": {
           "@type": "Brand",
           "name": "MediCann"
         },
-        "description": "THC: 19%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 19%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/medicann-191-mc-oro-21",
+          "priceCurrency": "EUR",
+          "price": "4.30",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

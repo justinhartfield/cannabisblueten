@@ -111,7 +111,7 @@
     "meta": {
       "title": "24/1 IUVO OC Triangle Queen - Iuvo | ab 6,99 €",
       "description": "24/1 IUVO OC Triangle Queen von Iuvo. THC: 23.2%, CBD: 1%. Sorte: Triangle Queen. Preis ab 6,99 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/241-iuvo-oc-triangle-queen",
+      "canonical": "https://cannabisblueten.de/product/241-iuvo-oc-triangle-queen",
       "robots": {
         "index": true,
         "follow": true
@@ -119,9 +119,9 @@
       "openGraph": {
         "title": "24/1 IUVO OC Triangle Queen - Iuvo | ab 6,99 €",
         "description": "24/1 IUVO OC Triangle Queen von Iuvo. THC: 23.2%, CBD: 1%. Sorte: Triangle Queen. Preis ab 6,99 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/241-iuvo-oc-triangle-queen",
+        "url": "https://cannabisblueten.de/product/241-iuvo-oc-triangle-queen",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/241-iuvo-oc-triangle-queen-3gh678.png"
       }
@@ -129,19 +129,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Iuvo",
-        "href": "https://weed.de/brand/iuvo"
+        "href": "https://cannabisblueten.de/brand/iuvo"
       },
       {
         "name": "24/1 IUVO OC Triangle Queen",
-        "href": "https://weed.de/product/241-iuvo-oc-triangle-queen"
+        "href": "https://cannabisblueten.de/product/241-iuvo-oc-triangle-queen"
       }
     ],
     "schema": [
@@ -153,19 +153,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "24/1 IUVO OC Triangle Queen",
-            "item": "https://weed.de/product/241-iuvo-oc-triangle-queen"
+            "item": "https://cannabisblueten.de/product/241-iuvo-oc-triangle-queen"
           }
         ]
       },
@@ -173,11 +173,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "24/1 IUVO OC Triangle Queen",
+        "url": "https://cannabisblueten.de/product/241-iuvo-oc-triangle-queen",
         "brand": {
           "@type": "Brand",
           "name": "Iuvo"
         },
-        "description": "THC: 23.2%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 23.2%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/241-iuvo-oc-triangle-queen",
+          "priceCurrency": "EUR",
+          "price": "6.99",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "6.99",
+            "maxPrice": "10.90",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

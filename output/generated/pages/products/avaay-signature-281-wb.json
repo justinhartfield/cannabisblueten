@@ -106,7 +106,7 @@
     "meta": {
       "title": "AVAAY Signature 28/1 WB - Vayamed | ab 8,47 €",
       "description": "AVAAY Signature 28/1 WB von Vayamed. THC: 28.2%, CBD: 0.1%. Sorte: Waffle Bites. Preis ab 8,47 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/avaay-signature-281-wb",
+      "canonical": "https://cannabisblueten.de/product/avaay-signature-281-wb",
       "robots": {
         "index": true,
         "follow": true
@@ -114,9 +114,9 @@
       "openGraph": {
         "title": "AVAAY Signature 28/1 WB - Vayamed | ab 8,47 €",
         "description": "AVAAY Signature 28/1 WB von Vayamed. THC: 28.2%, CBD: 0.1%. Sorte: Waffle Bites. Preis ab 8,47 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/avaay-signature-281-wb",
+        "url": "https://cannabisblueten.de/product/avaay-signature-281-wb",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/avaay-signature-281-wb-h2db22.png"
       }
@@ -124,19 +124,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Vayamed",
-        "href": "https://weed.de/brand/vayamed"
+        "href": "https://cannabisblueten.de/brand/vayamed"
       },
       {
         "name": "AVAAY Signature 28/1 WB",
-        "href": "https://weed.de/product/avaay-signature-281-wb"
+        "href": "https://cannabisblueten.de/product/avaay-signature-281-wb"
       }
     ],
     "schema": [
@@ -148,19 +148,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "AVAAY Signature 28/1 WB",
-            "item": "https://weed.de/product/avaay-signature-281-wb"
+            "item": "https://cannabisblueten.de/product/avaay-signature-281-wb"
           }
         ]
       },
@@ -168,11 +168,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "AVAAY Signature 28/1 WB",
+        "url": "https://cannabisblueten.de/product/avaay-signature-281-wb",
         "brand": {
           "@type": "Brand",
           "name": "Vayamed"
         },
-        "description": "THC: 28.2%, CBD: 0.1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 28.2%, CBD: 0.1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/avaay-signature-281-wb",
+          "priceCurrency": "EUR",
+          "price": "8.47",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "8.47",
+            "maxPrice": "11.25",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

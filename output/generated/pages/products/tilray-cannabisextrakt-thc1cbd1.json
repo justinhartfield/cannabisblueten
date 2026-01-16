@@ -78,7 +78,7 @@
     "meta": {
       "title": "Tilray Cannabisextrakt THC10:CBD10 | ab 4,00 €",
       "description": "Tilray Cannabisextrakt THC10:CBD10 von Tilray. THC: 10%, CBD: 10%. Preis ab 4,00 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/tilray-cannabisextrakt-thc1cbd1",
+      "canonical": "https://cannabisblueten.de/product/tilray-cannabisextrakt-thc1cbd1",
       "robots": {
         "index": true,
         "follow": true
@@ -86,9 +86,9 @@
       "openGraph": {
         "title": "Tilray Cannabisextrakt THC10:CBD10 | ab 4,00 €",
         "description": "Tilray Cannabisextrakt THC10:CBD10 von Tilray. THC: 10%, CBD: 10%. Preis ab 4,00 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/tilray-cannabisextrakt-thc1cbd1",
+        "url": "https://cannabisblueten.de/product/tilray-cannabisextrakt-thc1cbd1",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/tilray-cannabisextrakt-thc1cbd1-j20795.png"
       }
@@ -96,19 +96,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Tilray",
-        "href": "https://weed.de/brand/tilray"
+        "href": "https://cannabisblueten.de/brand/tilray"
       },
       {
         "name": "Tilray Cannabisextrakt THC10:CBD10",
-        "href": "https://weed.de/product/tilray-cannabisextrakt-thc1cbd1"
+        "href": "https://cannabisblueten.de/product/tilray-cannabisextrakt-thc1cbd1"
       }
     ],
     "schema": [
@@ -120,19 +120,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Tilray Cannabisextrakt THC10:CBD10",
-            "item": "https://weed.de/product/tilray-cannabisextrakt-thc1cbd1"
+            "item": "https://cannabisblueten.de/product/tilray-cannabisextrakt-thc1cbd1"
           }
         ]
       },
@@ -140,11 +140,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Tilray Cannabisextrakt THC10:CBD10",
+        "url": "https://cannabisblueten.de/product/tilray-cannabisextrakt-thc1cbd1",
         "brand": {
           "@type": "Brand",
           "name": "Tilray"
         },
-        "description": "THC: 10%, CBD: 10%"
+        "description": "Medizinisches Cannabis Produkt. THC: 10%, CBD: 10%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/tilray-cannabisextrakt-thc1cbd1",
+          "priceCurrency": "EUR",
+          "price": "4.00",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.00",
+            "maxPrice": "12.18",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

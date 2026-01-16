@@ -103,7 +103,7 @@
     "meta": {
       "title": "Cresco RSE 36/1 - Cantourage | ab 8,87 €",
       "description": "Cresco RSE 36/1 von Cantourage. THC: 36%, CBD: 1%. Sorte: Jack Black. Preis ab 8,87 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/cresco-rse-361",
+      "canonical": "https://cannabisblueten.de/product/cresco-rse-361",
       "robots": {
         "index": true,
         "follow": true
@@ -111,9 +111,9 @@
       "openGraph": {
         "title": "Cresco RSE 36/1 - Cantourage | ab 8,87 €",
         "description": "Cresco RSE 36/1 von Cantourage. THC: 36%, CBD: 1%. Sorte: Jack Black. Preis ab 8,87 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/cresco-rse-361",
+        "url": "https://cannabisblueten.de/product/cresco-rse-361",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/cresco-rse-361-78990j.png"
       }
@@ -121,19 +121,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cantourage",
-        "href": "https://weed.de/brand/cantourage"
+        "href": "https://cannabisblueten.de/brand/cantourage"
       },
       {
         "name": "Cresco RSE 36/1",
-        "href": "https://weed.de/product/cresco-rse-361"
+        "href": "https://cannabisblueten.de/product/cresco-rse-361"
       }
     ],
     "schema": [
@@ -145,19 +145,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Cresco RSE 36/1",
-            "item": "https://weed.de/product/cresco-rse-361"
+            "item": "https://cannabisblueten.de/product/cresco-rse-361"
           }
         ]
       },
@@ -165,11 +165,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Cresco RSE 36/1",
+        "url": "https://cannabisblueten.de/product/cresco-rse-361",
         "brand": {
           "@type": "Brand",
           "name": "Cantourage"
         },
-        "description": "THC: 36%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 36%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/cresco-rse-361",
+          "priceCurrency": "EUR",
+          "price": "8.87",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "8.87",
+            "maxPrice": "10.99",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

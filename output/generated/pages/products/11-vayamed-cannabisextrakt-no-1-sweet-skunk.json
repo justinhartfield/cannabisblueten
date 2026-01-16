@@ -101,7 +101,7 @@
     "meta": {
       "title": "10/10 Vayamed Cannabisextrakt No 1 (Sweet Skunk / | ab 6,...",
       "description": "10/10 Vayamed Cannabisextrakt No 1 (Sweet Skunk / von Vayamed. THC: 10%, CBD: 10%. Sorte: Sweet Skunk. Preis ab 6,34 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/11-vayamed-cannabisextrakt-no-1-sweet-skunk",
+      "canonical": "https://cannabisblueten.de/product/11-vayamed-cannabisextrakt-no-1-sweet-skunk",
       "robots": {
         "index": true,
         "follow": true
@@ -109,28 +109,28 @@
       "openGraph": {
         "title": "10/10 Vayamed Cannabisextrakt No 1 (Sweet Skunk / | ab 6,...",
         "description": "10/10 Vayamed Cannabisextrakt No 1 (Sweet Skunk / von Vayamed. THC: 10%, CBD: 10%. Sorte: Sweet Skunk. Preis ab 6,34 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/11-vayamed-cannabisextrakt-no-1-sweet-skunk",
+        "url": "https://cannabisblueten.de/product/11-vayamed-cannabisextrakt-no-1-sweet-skunk",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Vayamed",
-        "href": "https://weed.de/brand/vayamed"
+        "href": "https://cannabisblueten.de/brand/vayamed"
       },
       {
         "name": "10/10 Vayamed Cannabisextrakt No 1 (Sweet Skunk /",
-        "href": "https://weed.de/product/11-vayamed-cannabisextrakt-no-1-sweet-skunk"
+        "href": "https://cannabisblueten.de/product/11-vayamed-cannabisextrakt-no-1-sweet-skunk"
       }
     ],
     "schema": [
@@ -142,19 +142,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "10/10 Vayamed Cannabisextrakt No 1 (Sweet Skunk /",
-            "item": "https://weed.de/product/11-vayamed-cannabisextrakt-no-1-sweet-skunk"
+            "item": "https://cannabisblueten.de/product/11-vayamed-cannabisextrakt-no-1-sweet-skunk"
           }
         ]
       },
@@ -162,11 +162,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "10/10 Vayamed Cannabisextrakt No 1 (Sweet Skunk /",
+        "url": "https://cannabisblueten.de/product/11-vayamed-cannabisextrakt-no-1-sweet-skunk",
         "brand": {
           "@type": "Brand",
           "name": "Vayamed"
         },
-        "description": "THC: 10%, CBD: 10%"
+        "description": "Medizinisches Cannabis Produkt. THC: 10%, CBD: 10%, Genetik: sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/11-vayamed-cannabisextrakt-no-1-sweet-skunk",
+          "priceCurrency": "EUR",
+          "price": "6.34",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "6.34",
+            "maxPrice": "11.13",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

@@ -115,7 +115,7 @@
     "meta": {
       "title": "enua 25/1 BDO (Black Dolato) | ab 4,27 €",
       "description": "enua 25/1 BDO (Black Dolato) von enua. THC: 25%, CBD: 1%. Sorte: Black Dolato. Preis ab 4,27 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/enua-251-bdo-black-dolato",
+      "canonical": "https://cannabisblueten.de/product/enua-251-bdo-black-dolato",
       "robots": {
         "index": true,
         "follow": true
@@ -123,9 +123,9 @@
       "openGraph": {
         "title": "enua 25/1 BDO (Black Dolato) | ab 4,27 €",
         "description": "enua 25/1 BDO (Black Dolato) von enua. THC: 25%, CBD: 1%. Sorte: Black Dolato. Preis ab 4,27 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/enua-251-bdo-black-dolato",
+        "url": "https://cannabisblueten.de/product/enua-251-bdo-black-dolato",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/enua-251-bdo-black-dolato-j91jah.png"
       }
@@ -133,19 +133,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "enua",
-        "href": "https://weed.de/brand/enua"
+        "href": "https://cannabisblueten.de/brand/enua"
       },
       {
         "name": "enua 25/1 BDO (Black Dolato)",
-        "href": "https://weed.de/product/enua-251-bdo-black-dolato"
+        "href": "https://cannabisblueten.de/product/enua-251-bdo-black-dolato"
       }
     ],
     "schema": [
@@ -157,19 +157,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "enua 25/1 BDO (Black Dolato)",
-            "item": "https://weed.de/product/enua-251-bdo-black-dolato"
+            "item": "https://cannabisblueten.de/product/enua-251-bdo-black-dolato"
           }
         ]
       },
@@ -177,12 +177,29 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "enua 25/1 BDO (Black Dolato)",
+        "url": "https://cannabisblueten.de/product/enua-251-bdo-black-dolato",
         "brand": {
           "@type": "Brand",
           "name": "enua"
         },
         "gtin13": [],
-        "description": "THC: 25%, CBD: 1%"
+        "sku": [],
+        "description": "Medizinisches Cannabis Produkt. THC: 25%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/enua-251-bdo-black-dolato",
+          "priceCurrency": "EUR",
+          "price": "4.27",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.27",
+            "maxPrice": "7.50",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

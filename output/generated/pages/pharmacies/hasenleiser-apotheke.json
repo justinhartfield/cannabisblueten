@@ -65,7 +65,7 @@
     "meta": {
       "title": "Hasenleiser Apotheke - Cannabis Apotheke in Heidelberg",
       "description": "Hasenleiser Apotheke in Heidelberg. Abholung. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/hasenleiser-apotheke",
+      "canonical": "https://cannabisblueten.de/apotheke/hasenleiser-apotheke",
       "robots": {
         "index": true,
         "follow": true
@@ -73,28 +73,28 @@
       "openGraph": {
         "title": "Hasenleiser Apotheke - Cannabis Apotheke in Heidelberg",
         "description": "Hasenleiser Apotheke in Heidelberg. Abholung. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/hasenleiser-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/hasenleiser-apotheke",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Heidelberg",
-        "href": "https://weed.de/cannabis-apotheke/heidelberg"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/heidelberg"
       },
       {
         "name": "Hasenleiser Apotheke",
-        "href": "https://weed.de/apotheke/hasenleiser-apotheke"
+        "href": "https://cannabisblueten.de/apotheke/hasenleiser-apotheke"
       }
     ],
     "schema": [
@@ -106,25 +106,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Heidelberg",
-            "item": "https://weed.de/cannabis-apotheke/heidelberg"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/heidelberg"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Hasenleiser Apotheke",
-            "item": "https://weed.de/apotheke/hasenleiser-apotheke"
+            "item": "https://cannabisblueten.de/apotheke/hasenleiser-apotheke"
           }
         ]
       },
@@ -132,7 +132,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Hasenleiser Apotheke",
-        "url": "https://weed.de/apotheke/hasenleiser-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/hasenleiser-apotheke",
+        "description": "Cannabis Apotheke in Heidelberg. 0 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Freiburger Straße 21-23",
@@ -141,8 +142,23 @@
           "addressRegion": "Baden-Württemberg",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 49.37343809999999,
+          "longitude": 8.6802346
+        },
         "telephone": "06221303210",
-        "email": "info@hasenleiser-apotheke.com"
+        "email": "info@hasenleiser-apotheke.com",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ]
       }
     ]
   },

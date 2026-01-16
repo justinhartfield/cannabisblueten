@@ -104,7 +104,7 @@
     "meta": {
       "title": "Tilray THC 15 Spotlight Porto Sirius | ab 5,49 €",
       "description": "Tilray THC 15 Spotlight Porto Sirius von Tilray. THC: 15%, CBD: 1%. Sorte: Sirius. Preis ab 5,49 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/tilray-thc-15-spotlight-porto-sirius",
+      "canonical": "https://cannabisblueten.de/product/tilray-thc-15-spotlight-porto-sirius",
       "robots": {
         "index": true,
         "follow": true
@@ -112,9 +112,9 @@
       "openGraph": {
         "title": "Tilray THC 15 Spotlight Porto Sirius | ab 5,49 €",
         "description": "Tilray THC 15 Spotlight Porto Sirius von Tilray. THC: 15%, CBD: 1%. Sorte: Sirius. Preis ab 5,49 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/tilray-thc-15-spotlight-porto-sirius",
+        "url": "https://cannabisblueten.de/product/tilray-thc-15-spotlight-porto-sirius",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/tilray-thc-15-spotlight-porto-sirius-4861ic.png"
       }
@@ -122,19 +122,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Tilray",
-        "href": "https://weed.de/brand/tilray"
+        "href": "https://cannabisblueten.de/brand/tilray"
       },
       {
         "name": "Tilray THC 15 Spotlight Porto Sirius",
-        "href": "https://weed.de/product/tilray-thc-15-spotlight-porto-sirius"
+        "href": "https://cannabisblueten.de/product/tilray-thc-15-spotlight-porto-sirius"
       }
     ],
     "schema": [
@@ -146,19 +146,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Tilray THC 15 Spotlight Porto Sirius",
-            "item": "https://weed.de/product/tilray-thc-15-spotlight-porto-sirius"
+            "item": "https://cannabisblueten.de/product/tilray-thc-15-spotlight-porto-sirius"
           }
         ]
       },
@@ -166,11 +166,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Tilray THC 15 Spotlight Porto Sirius",
+        "url": "https://cannabisblueten.de/product/tilray-thc-15-spotlight-porto-sirius",
         "brand": {
           "@type": "Brand",
           "name": "Tilray"
         },
-        "description": "THC: 15%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 15%, CBD: 1%, Genetik: indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/tilray-thc-15-spotlight-porto-sirius",
+          "priceCurrency": "EUR",
+          "price": "5.49",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

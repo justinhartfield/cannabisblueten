@@ -116,7 +116,7 @@
     "meta": {
       "title": "Curaleaf Vape Kartusche (ohne Medical Grade Inhaler) - Fo...",
       "description": "Curaleaf Vape Kartusche (ohne Medical Grade Inhaler) von Four 20 Pharma. THC: 82%, CBD: 1%. Sorte: Wedding Pop Triangle. Preis ab 49,89 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/curaleaf-vape-kartusche-ohne-medical-grade-inhaler",
+      "canonical": "https://cannabisblueten.de/product/curaleaf-vape-kartusche-ohne-medical-grade-inhaler",
       "robots": {
         "index": true,
         "follow": true
@@ -124,9 +124,9 @@
       "openGraph": {
         "title": "Curaleaf Vape Kartusche (ohne Medical Grade Inhaler) - Fo...",
         "description": "Curaleaf Vape Kartusche (ohne Medical Grade Inhaler) von Four 20 Pharma. THC: 82%, CBD: 1%. Sorte: Wedding Pop Triangle. Preis ab 49,89 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/curaleaf-vape-kartusche-ohne-medical-grade-inhaler",
+        "url": "https://cannabisblueten.de/product/curaleaf-vape-kartusche-ohne-medical-grade-inhaler",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/curaleaf-vape-kartusche-ohne-medical-grade-inhaler-j0f99j.png"
       }
@@ -134,19 +134,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Four 20 Pharma",
-        "href": "https://weed.de/brand/four-20-pharma"
+        "href": "https://cannabisblueten.de/brand/four-20-pharma"
       },
       {
         "name": "Curaleaf Vape Kartusche (ohne Medical Grade Inhaler)",
-        "href": "https://weed.de/product/curaleaf-vape-kartusche-ohne-medical-grade-inhaler"
+        "href": "https://cannabisblueten.de/product/curaleaf-vape-kartusche-ohne-medical-grade-inhaler"
       }
     ],
     "schema": [
@@ -158,19 +158,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Curaleaf Vape Kartusche (ohne Medical Grade Inhaler)",
-            "item": "https://weed.de/product/curaleaf-vape-kartusche-ohne-medical-grade-inhaler"
+            "item": "https://cannabisblueten.de/product/curaleaf-vape-kartusche-ohne-medical-grade-inhaler"
           }
         ]
       },
@@ -178,11 +178,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Curaleaf Vape Kartusche (ohne Medical Grade Inhaler)",
+        "url": "https://cannabisblueten.de/product/curaleaf-vape-kartusche-ohne-medical-grade-inhaler",
         "brand": {
           "@type": "Brand",
           "name": "Four 20 Pharma"
         },
-        "description": "THC: 82%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 82%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/curaleaf-vape-kartusche-ohne-medical-grade-inhaler",
+          "priceCurrency": "EUR",
+          "price": "49.89",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "49.89",
+            "maxPrice": "49.90",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

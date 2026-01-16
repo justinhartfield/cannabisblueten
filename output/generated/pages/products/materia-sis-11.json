@@ -78,7 +78,7 @@
     "meta": {
       "title": "Materia SIS 10/10 | ab 2,29 €",
       "description": "Materia SIS 10/10 von Materia. THC: 10%, CBD: 10%. Preis ab 2,29 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/materia-sis-11",
+      "canonical": "https://cannabisblueten.de/product/materia-sis-11",
       "robots": {
         "index": true,
         "follow": true
@@ -86,28 +86,28 @@
       "openGraph": {
         "title": "Materia SIS 10/10 | ab 2,29 €",
         "description": "Materia SIS 10/10 von Materia. THC: 10%, CBD: 10%. Preis ab 2,29 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/materia-sis-11",
+        "url": "https://cannabisblueten.de/product/materia-sis-11",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Materia",
-        "href": "https://weed.de/brand/materia"
+        "href": "https://cannabisblueten.de/brand/materia"
       },
       {
         "name": "Materia SIS 10/10",
-        "href": "https://weed.de/product/materia-sis-11"
+        "href": "https://cannabisblueten.de/product/materia-sis-11"
       }
     ],
     "schema": [
@@ -119,19 +119,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Materia SIS 10/10",
-            "item": "https://weed.de/product/materia-sis-11"
+            "item": "https://cannabisblueten.de/product/materia-sis-11"
           }
         ]
       },
@@ -139,11 +139,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Materia SIS 10/10",
+        "url": "https://cannabisblueten.de/product/materia-sis-11",
         "brand": {
           "@type": "Brand",
           "name": "Materia"
         },
-        "description": "THC: 10%, CBD: 10%"
+        "description": "Medizinisches Cannabis Produkt. THC: 10%, CBD: 10%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/materia-sis-11",
+          "priceCurrency": "EUR",
+          "price": "2.29",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "2.29",
+            "maxPrice": "2.59",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

@@ -123,7 +123,7 @@
     "meta": {
       "title": "Huala 20/1 CA ALM - Four 20 Pharma | ab 3,95 €",
       "description": "Huala 20/1 CA ALM von Four 20 Pharma. THC: 20%, CBD: 1%. Sorte: Alien Mints. Preis ab 3,95 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/huala-21-ca-alm",
+      "canonical": "https://cannabisblueten.de/product/huala-21-ca-alm",
       "robots": {
         "index": true,
         "follow": true
@@ -131,9 +131,9 @@
       "openGraph": {
         "title": "Huala 20/1 CA ALM - Four 20 Pharma | ab 3,95 €",
         "description": "Huala 20/1 CA ALM von Four 20 Pharma. THC: 20%, CBD: 1%. Sorte: Alien Mints. Preis ab 3,95 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/huala-21-ca-alm",
+        "url": "https://cannabisblueten.de/product/huala-21-ca-alm",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/huala-21-ca-alm-f61e1b.jpeg"
       }
@@ -141,19 +141,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Four 20 Pharma",
-        "href": "https://weed.de/brand/four-20-pharma"
+        "href": "https://cannabisblueten.de/brand/four-20-pharma"
       },
       {
         "name": "Huala 20/1 CA ALM",
-        "href": "https://weed.de/product/huala-21-ca-alm"
+        "href": "https://cannabisblueten.de/product/huala-21-ca-alm"
       }
     ],
     "schema": [
@@ -165,19 +165,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Huala 20/1 CA ALM",
-            "item": "https://weed.de/product/huala-21-ca-alm"
+            "item": "https://cannabisblueten.de/product/huala-21-ca-alm"
           }
         ]
       },
@@ -185,11 +185,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Huala 20/1 CA ALM",
+        "url": "https://cannabisblueten.de/product/huala-21-ca-alm",
         "brand": {
           "@type": "Brand",
           "name": "Four 20 Pharma"
         },
-        "description": "THC: 20%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 20%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/huala-21-ca-alm",
+          "priceCurrency": "EUR",
+          "price": "3.95",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "3.95",
+            "maxPrice": "6.59",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

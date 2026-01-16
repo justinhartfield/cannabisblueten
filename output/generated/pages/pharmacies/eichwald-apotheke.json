@@ -65,7 +65,7 @@
     "meta": {
       "title": "Eichwald Apotheke - Cannabis Apotheke in Bad Wörishofen",
       "description": "Eichwald Apotheke in Bad Wörishofen. 35 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/eichwald-apotheke",
+      "canonical": "https://cannabisblueten.de/apotheke/eichwald-apotheke",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Eichwald Apotheke - Cannabis Apotheke in Bad Wörishofen",
         "description": "Eichwald Apotheke in Bad Wörishofen. 35 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/eichwald-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/eichwald-apotheke",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/pharmacies/eichwald-apotheke-2668ia.png"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Bad Wörishofen",
-        "href": "https://weed.de/cannabis-apotheke/bad-woerishofen"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/bad-woerishofen"
       },
       {
         "name": "Eichwald Apotheke",
-        "href": "https://weed.de/apotheke/eichwald-apotheke"
+        "href": "https://cannabisblueten.de/apotheke/eichwald-apotheke"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Bad Wörishofen",
-            "item": "https://weed.de/cannabis-apotheke/bad-woerishofen"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/bad-woerishofen"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Eichwald Apotheke",
-            "item": "https://weed.de/apotheke/eichwald-apotheke"
+            "item": "https://cannabisblueten.de/apotheke/eichwald-apotheke"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Eichwald Apotheke",
-        "url": "https://weed.de/apotheke/eichwald-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/eichwald-apotheke",
+        "description": "Cannabis Apotheke in Bad Wörishofen. 35 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Gärtnerweg 1A",
@@ -142,8 +143,30 @@
           "addressRegion": "Bayern",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 48.0074797,
+          "longitude": 10.5929263
+        },
         "telephone": "082475956",
-        "email": "mail@eichwald-apotheke.com"
+        "email": "mail@eichwald-apotheke.com",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ]
       }
     ]
   },

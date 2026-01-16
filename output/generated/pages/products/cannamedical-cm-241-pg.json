@@ -119,7 +119,7 @@
     "meta": {
       "title": "Cannamedical CM 24/1 PG | ab 4,99 €",
       "description": "Cannamedical CM 24/1 PG von Cannamedical. THC: 24%, CBD: 1%. Sorte: Platinum Grapes. Preis ab 4,99 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/cannamedical-cm-241-pg",
+      "canonical": "https://cannabisblueten.de/product/cannamedical-cm-241-pg",
       "robots": {
         "index": true,
         "follow": true
@@ -127,9 +127,9 @@
       "openGraph": {
         "title": "Cannamedical CM 24/1 PG | ab 4,99 €",
         "description": "Cannamedical CM 24/1 PG von Cannamedical. THC: 24%, CBD: 1%. Sorte: Platinum Grapes. Preis ab 4,99 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/cannamedical-cm-241-pg",
+        "url": "https://cannabisblueten.de/product/cannamedical-cm-241-pg",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/cannamedical-cm-241-pg-18a09j.png"
       }
@@ -137,19 +137,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cannamedical",
-        "href": "https://weed.de/brand/cannamedical"
+        "href": "https://cannabisblueten.de/brand/cannamedical"
       },
       {
         "name": "Cannamedical CM 24/1 PG",
-        "href": "https://weed.de/product/cannamedical-cm-241-pg"
+        "href": "https://cannabisblueten.de/product/cannamedical-cm-241-pg"
       }
     ],
     "schema": [
@@ -161,19 +161,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Cannamedical CM 24/1 PG",
-            "item": "https://weed.de/product/cannamedical-cm-241-pg"
+            "item": "https://cannabisblueten.de/product/cannamedical-cm-241-pg"
           }
         ]
       },
@@ -181,11 +181,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Cannamedical CM 24/1 PG",
+        "url": "https://cannabisblueten.de/product/cannamedical-cm-241-pg",
         "brand": {
           "@type": "Brand",
           "name": "Cannamedical"
         },
-        "description": "THC: 24%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 24%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/cannamedical-cm-241-pg",
+          "priceCurrency": "EUR",
+          "price": "4.99",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.99",
+            "maxPrice": "10.20",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

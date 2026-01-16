@@ -117,7 +117,7 @@
     "meta": {
       "title": "avaay Signature 19/1 MC - Avaay | ab 5,99 €",
       "description": "avaay Signature 19/1 MC von Avaay. THC: 19%, CBD: 1%. Sorte: Mandarin Cookies. Preis ab 5,99 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/avaay-signature-191-mc",
+      "canonical": "https://cannabisblueten.de/product/avaay-signature-191-mc",
       "robots": {
         "index": true,
         "follow": true
@@ -125,9 +125,9 @@
       "openGraph": {
         "title": "avaay Signature 19/1 MC - Avaay | ab 5,99 €",
         "description": "avaay Signature 19/1 MC von Avaay. THC: 19%, CBD: 1%. Sorte: Mandarin Cookies. Preis ab 5,99 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/avaay-signature-191-mc",
+        "url": "https://cannabisblueten.de/product/avaay-signature-191-mc",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/avaay-signature-191-mc-651abf.png"
       }
@@ -135,19 +135,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Avaay",
-        "href": "https://weed.de/brand/avaay"
+        "href": "https://cannabisblueten.de/brand/avaay"
       },
       {
         "name": "avaay Signature 19/1 MC",
-        "href": "https://weed.de/product/avaay-signature-191-mc"
+        "href": "https://cannabisblueten.de/product/avaay-signature-191-mc"
       }
     ],
     "schema": [
@@ -159,19 +159,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "avaay Signature 19/1 MC",
-            "item": "https://weed.de/product/avaay-signature-191-mc"
+            "item": "https://cannabisblueten.de/product/avaay-signature-191-mc"
           }
         ]
       },
@@ -179,12 +179,23 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "avaay Signature 19/1 MC",
+        "url": "https://cannabisblueten.de/product/avaay-signature-191-mc",
         "brand": {
           "@type": "Brand",
           "name": "Avaay"
         },
         "gtin13": [],
-        "description": "THC: 19%, CBD: 1%"
+        "sku": [],
+        "description": "Medizinisches Cannabis Produkt. THC: 19%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/avaay-signature-191-mc",
+          "priceCurrency": "EUR",
+          "price": "5.99",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

@@ -108,7 +108,7 @@
     "meta": {
       "title": "Buuo 26/1 RADIA - WMG Pharma | ab 5,26 €",
       "description": "Buuo 26/1 RADIA von WMG Pharma. THC: 26%, CBD: 1%. Sorte: Rainbow Lava Popstars. Preis ab 5,26 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/buuo-261-radia",
+      "canonical": "https://cannabisblueten.de/product/buuo-261-radia",
       "robots": {
         "index": true,
         "follow": true
@@ -116,9 +116,9 @@
       "openGraph": {
         "title": "Buuo 26/1 RADIA - WMG Pharma | ab 5,26 €",
         "description": "Buuo 26/1 RADIA von WMG Pharma. THC: 26%, CBD: 1%. Sorte: Rainbow Lava Popstars. Preis ab 5,26 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/buuo-261-radia",
+        "url": "https://cannabisblueten.de/product/buuo-261-radia",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/buuo-261-radia-78dfic.png"
       }
@@ -126,19 +126,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "WMG Pharma",
-        "href": "https://weed.de/brand/wmg-pharma"
+        "href": "https://cannabisblueten.de/brand/wmg-pharma"
       },
       {
         "name": "Buuo 26/1 RADIA",
-        "href": "https://weed.de/product/buuo-261-radia"
+        "href": "https://cannabisblueten.de/product/buuo-261-radia"
       }
     ],
     "schema": [
@@ -150,19 +150,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Buuo 26/1 RADIA",
-            "item": "https://weed.de/product/buuo-261-radia"
+            "item": "https://cannabisblueten.de/product/buuo-261-radia"
           }
         ]
       },
@@ -170,11 +170,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Buuo 26/1 RADIA",
+        "url": "https://cannabisblueten.de/product/buuo-261-radia",
         "brand": {
           "@type": "Brand",
           "name": "WMG Pharma"
         },
-        "description": "THC: 26%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 26%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/buuo-261-radia",
+          "priceCurrency": "EUR",
+          "price": "5.26",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "5.26",
+            "maxPrice": "9.34",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

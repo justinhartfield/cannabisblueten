@@ -104,7 +104,7 @@
     "meta": {
       "title": "Cannamedical THC850 Zkittlez, | ab 89,99 €",
       "description": "Cannamedical THC850 Zkittlez, von Cannamedical. THC: 85%, CBD: 1%. Sorte: Gorilla ZKittlez. Preis ab 89,99 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/cannamedical-thc85-zkittlez,",
+      "canonical": "https://cannabisblueten.de/product/cannamedical-thc85-zkittlez,",
       "robots": {
         "index": true,
         "follow": true
@@ -112,9 +112,9 @@
       "openGraph": {
         "title": "Cannamedical THC850 Zkittlez, | ab 89,99 €",
         "description": "Cannamedical THC850 Zkittlez, von Cannamedical. THC: 85%, CBD: 1%. Sorte: Gorilla ZKittlez. Preis ab 89,99 €. Preise vergleichen.",
-        "url": "https://weed.de/product/cannamedical-thc85-zkittlez,",
+        "url": "https://cannabisblueten.de/product/cannamedical-thc85-zkittlez,",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/cannamedical-thc85-zkittlez,-b1456a.png"
       }
@@ -122,19 +122,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cannamedical",
-        "href": "https://weed.de/brand/cannamedical"
+        "href": "https://cannabisblueten.de/brand/cannamedical"
       },
       {
         "name": "Cannamedical THC850 Zkittlez,",
-        "href": "https://weed.de/product/cannamedical-thc85-zkittlez,"
+        "href": "https://cannabisblueten.de/product/cannamedical-thc85-zkittlez,"
       }
     ],
     "schema": [
@@ -146,19 +146,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Cannamedical THC850 Zkittlez,",
-            "item": "https://weed.de/product/cannamedical-thc85-zkittlez,"
+            "item": "https://cannabisblueten.de/product/cannamedical-thc85-zkittlez,"
           }
         ]
       },
@@ -166,11 +166,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Cannamedical THC850 Zkittlez,",
+        "url": "https://cannabisblueten.de/product/cannamedical-thc85-zkittlez,",
         "brand": {
           "@type": "Brand",
           "name": "Cannamedical"
         },
-        "description": "THC: 85%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 85%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/cannamedical-thc85-zkittlez,",
+          "priceCurrency": "EUR",
+          "price": "89.99",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

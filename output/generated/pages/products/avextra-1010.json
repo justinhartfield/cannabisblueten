@@ -104,7 +104,7 @@
     "meta": {
       "title": "Avextra 10/10 | ab 2,79 €",
       "description": "Avextra 10/10 von Avextra. THC: 1%, CBD: 1%. Sorte: Jack Haze. Preis ab 2,79 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/avextra-1010",
+      "canonical": "https://cannabisblueten.de/product/avextra-1010",
       "robots": {
         "index": true,
         "follow": true
@@ -112,28 +112,28 @@
       "openGraph": {
         "title": "Avextra 10/10 | ab 2,79 €",
         "description": "Avextra 10/10 von Avextra. THC: 1%, CBD: 1%. Sorte: Jack Haze. Preis ab 2,79 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/avextra-1010",
+        "url": "https://cannabisblueten.de/product/avextra-1010",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Avextra",
-        "href": "https://weed.de/brand/avextra"
+        "href": "https://cannabisblueten.de/brand/avextra"
       },
       {
         "name": "Avextra 10/10",
-        "href": "https://weed.de/product/avextra-1010"
+        "href": "https://cannabisblueten.de/product/avextra-1010"
       }
     ],
     "schema": [
@@ -145,19 +145,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Avextra 10/10",
-            "item": "https://weed.de/product/avextra-1010"
+            "item": "https://cannabisblueten.de/product/avextra-1010"
           }
         ]
       },
@@ -165,11 +165,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Avextra 10/10",
+        "url": "https://cannabisblueten.de/product/avextra-1010",
         "brand": {
           "@type": "Brand",
           "name": "Avextra"
         },
-        "description": "THC: 1%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 1%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/avextra-1010",
+          "priceCurrency": "EUR",
+          "price": "2.79",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "2.79",
+            "maxPrice": "7.65",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

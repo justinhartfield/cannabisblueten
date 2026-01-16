@@ -114,7 +114,7 @@
     "meta": {
       "title": "Cookies 2.0 Hawaiian Rain 28/1 CAN - Cansativa | ab 9,61 €",
       "description": "Cookies 2.0 Hawaiian Rain 28/1 CAN von Cansativa. THC: 28%, CBD: 1%. Sorte: Hawaiian Rain. Preis ab 9,61 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/cookies-2-hawaiian-rain-281-can",
+      "canonical": "https://cannabisblueten.de/product/cookies-2-hawaiian-rain-281-can",
       "robots": {
         "index": true,
         "follow": true
@@ -122,9 +122,9 @@
       "openGraph": {
         "title": "Cookies 2.0 Hawaiian Rain 28/1 CAN - Cansativa | ab 9,61 €",
         "description": "Cookies 2.0 Hawaiian Rain 28/1 CAN von Cansativa. THC: 28%, CBD: 1%. Sorte: Hawaiian Rain. Preis ab 9,61 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/cookies-2-hawaiian-rain-281-can",
+        "url": "https://cannabisblueten.de/product/cookies-2-hawaiian-rain-281-can",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/cookies-2-hawaiian-rain-281-can-1a3hii.png"
       }
@@ -132,19 +132,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cansativa",
-        "href": "https://weed.de/brand/cansativa"
+        "href": "https://cannabisblueten.de/brand/cansativa"
       },
       {
         "name": "Cookies 2.0 Hawaiian Rain 28/1 CAN",
-        "href": "https://weed.de/product/cookies-2-hawaiian-rain-281-can"
+        "href": "https://cannabisblueten.de/product/cookies-2-hawaiian-rain-281-can"
       }
     ],
     "schema": [
@@ -156,19 +156,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Cookies 2.0 Hawaiian Rain 28/1 CAN",
-            "item": "https://weed.de/product/cookies-2-hawaiian-rain-281-can"
+            "item": "https://cannabisblueten.de/product/cookies-2-hawaiian-rain-281-can"
           }
         ]
       },
@@ -176,11 +176,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Cookies 2.0 Hawaiian Rain 28/1 CAN",
+        "url": "https://cannabisblueten.de/product/cookies-2-hawaiian-rain-281-can",
         "brand": {
           "@type": "Brand",
           "name": "Cansativa"
         },
-        "description": "THC: 28%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 28%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/cookies-2-hawaiian-rain-281-can",
+          "priceCurrency": "EUR",
+          "price": "9.61",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

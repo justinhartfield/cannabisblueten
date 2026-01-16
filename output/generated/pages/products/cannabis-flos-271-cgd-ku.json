@@ -117,7 +117,7 @@
     "meta": {
       "title": "Cannabis flos 27/1 CGD Ku. - Canify | ab 7,50 €",
       "description": "Cannabis flos 27/1 CGD Ku. von Canify. THC: 27%, CBD: 1%. Sorte: Cream Cake. Preis ab 7,50 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/cannabis-flos-271-cgd-ku",
+      "canonical": "https://cannabisblueten.de/product/cannabis-flos-271-cgd-ku",
       "robots": {
         "index": true,
         "follow": true
@@ -125,9 +125,9 @@
       "openGraph": {
         "title": "Cannabis flos 27/1 CGD Ku. - Canify | ab 7,50 €",
         "description": "Cannabis flos 27/1 CGD Ku. von Canify. THC: 27%, CBD: 1%. Sorte: Cream Cake. Preis ab 7,50 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/cannabis-flos-271-cgd-ku",
+        "url": "https://cannabisblueten.de/product/cannabis-flos-271-cgd-ku",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/cannabis-flos-271-cgd-ku-d15eg4.png"
       }
@@ -135,19 +135,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Canify",
-        "href": "https://weed.de/brand/canify"
+        "href": "https://cannabisblueten.de/brand/canify"
       },
       {
         "name": "Cannabis flos 27/1 CGD Ku.",
-        "href": "https://weed.de/product/cannabis-flos-271-cgd-ku"
+        "href": "https://cannabisblueten.de/product/cannabis-flos-271-cgd-ku"
       }
     ],
     "schema": [
@@ -159,19 +159,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Cannabis flos 27/1 CGD Ku.",
-            "item": "https://weed.de/product/cannabis-flos-271-cgd-ku"
+            "item": "https://cannabisblueten.de/product/cannabis-flos-271-cgd-ku"
           }
         ]
       },
@@ -179,11 +179,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Cannabis flos 27/1 CGD Ku.",
+        "url": "https://cannabisblueten.de/product/cannabis-flos-271-cgd-ku",
         "brand": {
           "@type": "Brand",
           "name": "Canify"
         },
-        "description": "THC: 27%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 27%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/cannabis-flos-271-cgd-ku",
+          "priceCurrency": "EUR",
+          "price": "7.50",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "7.50",
+            "maxPrice": "8.90",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

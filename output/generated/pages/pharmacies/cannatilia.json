@@ -58,7 +58,7 @@
     "meta": {
       "title": "Cannatilia - Cannabis Apotheke in Mühlhausen/Thüringen",
       "description": "Cannatilia in Mühlhausen/Thüringen. 22 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/cannatilia",
+      "canonical": "https://cannabisblueten.de/apotheke/cannatilia",
       "robots": {
         "index": true,
         "follow": true
@@ -66,9 +66,9 @@
       "openGraph": {
         "title": "Cannatilia - Cannabis Apotheke in Mühlhausen/Thüringen",
         "description": "Cannatilia in Mühlhausen/Thüringen. 22 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/cannatilia",
+        "url": "https://cannabisblueten.de/apotheke/cannatilia",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/685baaf9ad6bc5b2a6f7ef2c-be97h8.jpg"
       }
@@ -76,19 +76,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Mühlhausen/Thüringen",
-        "href": "https://weed.de/cannabis-apotheke/muehlhausen-thueringen"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/muehlhausen-thueringen"
       },
       {
         "name": "Cannatilia",
-        "href": "https://weed.de/apotheke/cannatilia"
+        "href": "https://cannabisblueten.de/apotheke/cannatilia"
       }
     ],
     "schema": [
@@ -100,25 +100,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Mühlhausen/Thüringen",
-            "item": "https://weed.de/cannabis-apotheke/muehlhausen-thueringen"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/muehlhausen-thueringen"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Cannatilia",
-            "item": "https://weed.de/apotheke/cannatilia"
+            "item": "https://cannabisblueten.de/apotheke/cannatilia"
           }
         ]
       },
@@ -126,7 +126,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Cannatilia",
-        "url": "https://weed.de/apotheke/cannatilia",
+        "url": "https://cannabisblueten.de/apotheke/cannatilia",
+        "description": "Cannabis Apotheke in Mühlhausen/Thüringen. 22 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Görmarstraße 54",
@@ -135,8 +136,31 @@
           "addressRegion": "Thüringen",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 51.209336,
+          "longitude": 10.4639851
+        },
         "telephone": "03601812560",
-        "email": "shop@cannatilia-flor.com"
+        "email": "shop@cannatilia-flor.com",
+        "sameAs": "https://cannatilia-flor.com",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ]
       }
     ]
   },

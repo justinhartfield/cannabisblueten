@@ -106,7 +106,7 @@
     "meta": {
       "title": "Demecan 27:01 MC Strong Drop | ab 8,99 €",
       "description": "Demecan 27:01 MC Strong Drop von Demecan. THC: 26%, CBD: 1%. Sorte: Zkittlez x Sherb Bx1 x Permanent Marker. Preis ab 8,99 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/demecan-271-mc-strong-drop",
+      "canonical": "https://cannabisblueten.de/product/demecan-271-mc-strong-drop",
       "robots": {
         "index": true,
         "follow": true
@@ -114,9 +114,9 @@
       "openGraph": {
         "title": "Demecan 27:01 MC Strong Drop | ab 8,99 €",
         "description": "Demecan 27:01 MC Strong Drop von Demecan. THC: 26%, CBD: 1%. Sorte: Zkittlez x Sherb Bx1 x Permanent Marker. Preis ab 8,99 €. Preise vergleichen.",
-        "url": "https://weed.de/product/demecan-271-mc-strong-drop",
+        "url": "https://cannabisblueten.de/product/demecan-271-mc-strong-drop",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/demecan-271-mc-strong-drop-68e8dd.png"
       }
@@ -124,19 +124,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Demecan",
-        "href": "https://weed.de/brand/demecan"
+        "href": "https://cannabisblueten.de/brand/demecan"
       },
       {
         "name": "Demecan 27:01 MC Strong Drop",
-        "href": "https://weed.de/product/demecan-271-mc-strong-drop"
+        "href": "https://cannabisblueten.de/product/demecan-271-mc-strong-drop"
       }
     ],
     "schema": [
@@ -148,19 +148,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Demecan 27:01 MC Strong Drop",
-            "item": "https://weed.de/product/demecan-271-mc-strong-drop"
+            "item": "https://cannabisblueten.de/product/demecan-271-mc-strong-drop"
           }
         ]
       },
@@ -168,11 +168,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Demecan 27:01 MC Strong Drop",
+        "url": "https://cannabisblueten.de/product/demecan-271-mc-strong-drop",
         "brand": {
           "@type": "Brand",
           "name": "Demecan"
         },
-        "description": "THC: 26%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 26%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/demecan-271-mc-strong-drop",
+          "priceCurrency": "EUR",
+          "price": "8.99",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

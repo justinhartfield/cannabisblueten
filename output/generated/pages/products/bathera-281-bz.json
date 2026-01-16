@@ -117,7 +117,7 @@
     "meta": {
       "title": "Bathera 28/1 BZ | ab 7,40 €",
       "description": "Bathera 28/1 BZ von Bathera. THC: 28%, CBD: 1%. Sorte: Blue Z. Preis ab 7,40 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/bathera-281-bz",
+      "canonical": "https://cannabisblueten.de/product/bathera-281-bz",
       "robots": {
         "index": true,
         "follow": true
@@ -125,28 +125,28 @@
       "openGraph": {
         "title": "Bathera 28/1 BZ | ab 7,40 €",
         "description": "Bathera 28/1 BZ von Bathera. THC: 28%, CBD: 1%. Sorte: Blue Z. Preis ab 7,40 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/bathera-281-bz",
+        "url": "https://cannabisblueten.de/product/bathera-281-bz",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Bathera",
-        "href": "https://weed.de/brand/bathera"
+        "href": "https://cannabisblueten.de/brand/bathera"
       },
       {
         "name": "Bathera 28/1 BZ",
-        "href": "https://weed.de/product/bathera-281-bz"
+        "href": "https://cannabisblueten.de/product/bathera-281-bz"
       }
     ],
     "schema": [
@@ -158,19 +158,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Bathera 28/1 BZ",
-            "item": "https://weed.de/product/bathera-281-bz"
+            "item": "https://cannabisblueten.de/product/bathera-281-bz"
           }
         ]
       },
@@ -178,11 +178,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Bathera 28/1 BZ",
+        "url": "https://cannabisblueten.de/product/bathera-281-bz",
         "brand": {
           "@type": "Brand",
           "name": "Bathera"
         },
-        "description": "THC: 28%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 28%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/bathera-281-bz",
+          "priceCurrency": "EUR",
+          "price": "7.40",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "7.40",
+            "maxPrice": "12.50",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

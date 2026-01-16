@@ -110,7 +110,7 @@
     "meta": {
       "title": "IMC THC22 T06 | ab 3,94 €",
       "description": "IMC THC22 T06 von IMC. THC: 22%, CBD: 1%. Sorte: Black Russian. Preis ab 3,94 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/imc-thc22-t06",
+      "canonical": "https://cannabisblueten.de/product/imc-thc22-t06",
       "robots": {
         "index": true,
         "follow": true
@@ -118,28 +118,28 @@
       "openGraph": {
         "title": "IMC THC22 T06 | ab 3,94 €",
         "description": "IMC THC22 T06 von IMC. THC: 22%, CBD: 1%. Sorte: Black Russian. Preis ab 3,94 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/imc-thc22-t06",
+        "url": "https://cannabisblueten.de/product/imc-thc22-t06",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "IMC",
-        "href": "https://weed.de/brand/imc"
+        "href": "https://cannabisblueten.de/brand/imc"
       },
       {
         "name": "IMC THC22 T06",
-        "href": "https://weed.de/product/imc-thc22-t06"
+        "href": "https://cannabisblueten.de/product/imc-thc22-t06"
       }
     ],
     "schema": [
@@ -151,19 +151,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "IMC THC22 T06",
-            "item": "https://weed.de/product/imc-thc22-t06"
+            "item": "https://cannabisblueten.de/product/imc-thc22-t06"
           }
         ]
       },
@@ -171,11 +171,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "IMC THC22 T06",
+        "url": "https://cannabisblueten.de/product/imc-thc22-t06",
         "brand": {
           "@type": "Brand",
           "name": "IMC"
         },
-        "description": "THC: 22%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 22%, CBD: 1%, Genetik: indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/imc-thc22-t06",
+          "priceCurrency": "EUR",
+          "price": "3.94",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "3.94",
+            "maxPrice": "8.00",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

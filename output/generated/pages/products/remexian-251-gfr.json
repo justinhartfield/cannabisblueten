@@ -109,7 +109,7 @@
     "meta": {
       "title": "Remexian 25/1 GFR - Remexian Pharma | ab 4,80 €",
       "description": "Remexian 25/1 GFR von Remexian Pharma. THC: 25%, CBD: 1%. Sorte: Godfather OG x Schroll Medical. Preis ab 4,80 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/remexian-251-gfr",
+      "canonical": "https://cannabisblueten.de/product/remexian-251-gfr",
       "robots": {
         "index": true,
         "follow": true
@@ -117,28 +117,28 @@
       "openGraph": {
         "title": "Remexian 25/1 GFR - Remexian Pharma | ab 4,80 €",
         "description": "Remexian 25/1 GFR von Remexian Pharma. THC: 25%, CBD: 1%. Sorte: Godfather OG x Schroll Medical. Preis ab 4,80 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/remexian-251-gfr",
+        "url": "https://cannabisblueten.de/product/remexian-251-gfr",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Remexian Pharma",
-        "href": "https://weed.de/brand/remexian-pharma"
+        "href": "https://cannabisblueten.de/brand/remexian-pharma"
       },
       {
         "name": "Remexian 25/1 GFR",
-        "href": "https://weed.de/product/remexian-251-gfr"
+        "href": "https://cannabisblueten.de/product/remexian-251-gfr"
       }
     ],
     "schema": [
@@ -150,19 +150,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Remexian 25/1 GFR",
-            "item": "https://weed.de/product/remexian-251-gfr"
+            "item": "https://cannabisblueten.de/product/remexian-251-gfr"
           }
         ]
       },
@@ -170,11 +170,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Remexian 25/1 GFR",
+        "url": "https://cannabisblueten.de/product/remexian-251-gfr",
         "brand": {
           "@type": "Brand",
           "name": "Remexian Pharma"
         },
-        "description": "THC: 25%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 25%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/remexian-251-gfr",
+          "priceCurrency": "EUR",
+          "price": "4.80",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.80",
+            "maxPrice": "6.28",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

@@ -102,7 +102,7 @@
     "meta": {
       "title": "Cannamedical Indica classic DK LK | ab 4,65 €",
       "description": "Cannamedical Indica classic DK LK von Cannamedical. THC: 19.2%, CBD: 1%. Sorte: Lemon Krash. Preis ab 4,65 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/cannamedical-indica-classic-dk-lk",
+      "canonical": "https://cannabisblueten.de/product/cannamedical-indica-classic-dk-lk",
       "robots": {
         "index": true,
         "follow": true
@@ -110,9 +110,9 @@
       "openGraph": {
         "title": "Cannamedical Indica classic DK LK | ab 4,65 €",
         "description": "Cannamedical Indica classic DK LK von Cannamedical. THC: 19.2%, CBD: 1%. Sorte: Lemon Krash. Preis ab 4,65 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/cannamedical-indica-classic-dk-lk",
+        "url": "https://cannabisblueten.de/product/cannamedical-indica-classic-dk-lk",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/cannamedical-indica-classic-dk-lk-fdafi7.png"
       }
@@ -120,19 +120,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cannamedical",
-        "href": "https://weed.de/brand/cannamedical"
+        "href": "https://cannabisblueten.de/brand/cannamedical"
       },
       {
         "name": "Cannamedical Indica classic DK LK",
-        "href": "https://weed.de/product/cannamedical-indica-classic-dk-lk"
+        "href": "https://cannabisblueten.de/product/cannamedical-indica-classic-dk-lk"
       }
     ],
     "schema": [
@@ -144,19 +144,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Cannamedical Indica classic DK LK",
-            "item": "https://weed.de/product/cannamedical-indica-classic-dk-lk"
+            "item": "https://cannabisblueten.de/product/cannamedical-indica-classic-dk-lk"
           }
         ]
       },
@@ -164,11 +164,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Cannamedical Indica classic DK LK",
+        "url": "https://cannabisblueten.de/product/cannamedical-indica-classic-dk-lk",
         "brand": {
           "@type": "Brand",
           "name": "Cannamedical"
         },
-        "description": "THC: 19.2%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 19.2%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/cannamedical-indica-classic-dk-lk",
+          "priceCurrency": "EUR",
+          "price": "4.65",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.65",
+            "maxPrice": "8.35",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

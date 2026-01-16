@@ -113,7 +113,7 @@
     "meta": {
       "title": "BG 15 YG COL - Adrexpharma | ab 2,99 €",
       "description": "BG 15 YG COL von Adrexpharma. THC: 15%, CBD: 1%. Sorte: Y Griega. Preis ab 2,99 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/bg-15-yg-col-y-griega",
+      "canonical": "https://cannabisblueten.de/product/bg-15-yg-col-y-griega",
       "robots": {
         "index": true,
         "follow": true
@@ -121,9 +121,9 @@
       "openGraph": {
         "title": "BG 15 YG COL - Adrexpharma | ab 2,99 €",
         "description": "BG 15 YG COL von Adrexpharma. THC: 15%, CBD: 1%. Sorte: Y Griega. Preis ab 2,99 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/bg-15-yg-col-y-griega",
+        "url": "https://cannabisblueten.de/product/bg-15-yg-col-y-griega",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/bg-15-yg-col-y-griega-a0d96c.jpeg"
       }
@@ -131,19 +131,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Adrexpharma",
-        "href": "https://weed.de/brand/adrexpharma"
+        "href": "https://cannabisblueten.de/brand/adrexpharma"
       },
       {
         "name": "BG 15 YG COL",
-        "href": "https://weed.de/product/bg-15-yg-col-y-griega"
+        "href": "https://cannabisblueten.de/product/bg-15-yg-col-y-griega"
       }
     ],
     "schema": [
@@ -155,19 +155,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "BG 15 YG COL",
-            "item": "https://weed.de/product/bg-15-yg-col-y-griega"
+            "item": "https://cannabisblueten.de/product/bg-15-yg-col-y-griega"
           }
         ]
       },
@@ -175,11 +175,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "BG 15 YG COL",
+        "url": "https://cannabisblueten.de/product/bg-15-yg-col-y-griega",
         "brand": {
           "@type": "Brand",
           "name": "Adrexpharma"
         },
-        "description": "THC: 15%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 15%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/bg-15-yg-col-y-griega",
+          "priceCurrency": "EUR",
+          "price": "2.99",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "2.99",
+            "maxPrice": "3.99",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

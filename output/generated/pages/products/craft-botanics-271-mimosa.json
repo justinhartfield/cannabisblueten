@@ -108,7 +108,7 @@
     "meta": {
       "title": "Craft Botanics 27/1 Mimosa - Montu Group | ab 8,99 €",
       "description": "Craft Botanics 27/1 Mimosa von Montu Group. THC: 28.1%, CBD: 1%. Sorte: Mimosa. Preis ab 8,99 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/craft-botanics-271-mimosa",
+      "canonical": "https://cannabisblueten.de/product/craft-botanics-271-mimosa",
       "robots": {
         "index": true,
         "follow": true
@@ -116,9 +116,9 @@
       "openGraph": {
         "title": "Craft Botanics 27/1 Mimosa - Montu Group | ab 8,99 €",
         "description": "Craft Botanics 27/1 Mimosa von Montu Group. THC: 28.1%, CBD: 1%. Sorte: Mimosa. Preis ab 8,99 €. Preise vergleichen.",
-        "url": "https://weed.de/product/craft-botanics-271-mimosa",
+        "url": "https://cannabisblueten.de/product/craft-botanics-271-mimosa",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/craft-botanics-271-mimosa-eed76g.png"
       }
@@ -126,19 +126,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Montu Group",
-        "href": "https://weed.de/brand/montu-group"
+        "href": "https://cannabisblueten.de/brand/montu-group"
       },
       {
         "name": "Craft Botanics 27/1 Mimosa",
-        "href": "https://weed.de/product/craft-botanics-271-mimosa"
+        "href": "https://cannabisblueten.de/product/craft-botanics-271-mimosa"
       }
     ],
     "schema": [
@@ -150,19 +150,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Craft Botanics 27/1 Mimosa",
-            "item": "https://weed.de/product/craft-botanics-271-mimosa"
+            "item": "https://cannabisblueten.de/product/craft-botanics-271-mimosa"
           }
         ]
       },
@@ -170,11 +170,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Craft Botanics 27/1 Mimosa",
+        "url": "https://cannabisblueten.de/product/craft-botanics-271-mimosa",
         "brand": {
           "@type": "Brand",
           "name": "Montu Group"
         },
-        "description": "THC: 28.1%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 28.1%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/craft-botanics-271-mimosa",
+          "priceCurrency": "EUR",
+          "price": "8.99",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

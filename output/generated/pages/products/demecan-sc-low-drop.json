@@ -118,7 +118,7 @@
     "meta": {
       "title": "Demecan SC Low Drop | ab 6,49 €",
       "description": "Demecan SC Low Drop von Demecan. THC: 17%, CBD: 1%. Sorte: Vanilla Ice. Preis ab 6,49 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/demecan-sc-low-drop",
+      "canonical": "https://cannabisblueten.de/product/demecan-sc-low-drop",
       "robots": {
         "index": true,
         "follow": true
@@ -126,9 +126,9 @@
       "openGraph": {
         "title": "Demecan SC Low Drop | ab 6,49 €",
         "description": "Demecan SC Low Drop von Demecan. THC: 17%, CBD: 1%. Sorte: Vanilla Ice. Preis ab 6,49 €. Preise vergleichen.",
-        "url": "https://weed.de/product/demecan-sc-low-drop",
+        "url": "https://cannabisblueten.de/product/demecan-sc-low-drop",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/demecan-sc-low-drop-922f71.png"
       }
@@ -136,19 +136,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Demecan",
-        "href": "https://weed.de/brand/demecan"
+        "href": "https://cannabisblueten.de/brand/demecan"
       },
       {
         "name": "Demecan SC Low Drop",
-        "href": "https://weed.de/product/demecan-sc-low-drop"
+        "href": "https://cannabisblueten.de/product/demecan-sc-low-drop"
       }
     ],
     "schema": [
@@ -160,19 +160,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Demecan SC Low Drop",
-            "item": "https://weed.de/product/demecan-sc-low-drop"
+            "item": "https://cannabisblueten.de/product/demecan-sc-low-drop"
           }
         ]
       },
@@ -180,11 +180,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Demecan SC Low Drop",
+        "url": "https://cannabisblueten.de/product/demecan-sc-low-drop",
         "brand": {
           "@type": "Brand",
           "name": "Demecan"
         },
-        "description": "THC: 17%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 17%, CBD: 1%, Genetik: indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/demecan-sc-low-drop",
+          "priceCurrency": "EUR",
+          "price": "6.49",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

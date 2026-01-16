@@ -107,7 +107,7 @@
     "meta": {
       "title": "Social Choice 15/1 AUR LDO - Remexian Pharma | ab 3,94 €",
       "description": "Social Choice 15/1 AUR LDO von Remexian Pharma. THC: 15%, CBD: 1%. Sorte: Lemon Diamond OG. Preis ab 3,94 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/social-choice-151-aur-ldo",
+      "canonical": "https://cannabisblueten.de/product/social-choice-151-aur-ldo",
       "robots": {
         "index": true,
         "follow": true
@@ -115,28 +115,28 @@
       "openGraph": {
         "title": "Social Choice 15/1 AUR LDO - Remexian Pharma | ab 3,94 €",
         "description": "Social Choice 15/1 AUR LDO von Remexian Pharma. THC: 15%, CBD: 1%. Sorte: Lemon Diamond OG. Preis ab 3,94 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/social-choice-151-aur-ldo",
+        "url": "https://cannabisblueten.de/product/social-choice-151-aur-ldo",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Remexian Pharma",
-        "href": "https://weed.de/brand/remexian-pharma"
+        "href": "https://cannabisblueten.de/brand/remexian-pharma"
       },
       {
         "name": "Social Choice 15/1 AUR LDO",
-        "href": "https://weed.de/product/social-choice-151-aur-ldo"
+        "href": "https://cannabisblueten.de/product/social-choice-151-aur-ldo"
       }
     ],
     "schema": [
@@ -148,19 +148,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Social Choice 15/1 AUR LDO",
-            "item": "https://weed.de/product/social-choice-151-aur-ldo"
+            "item": "https://cannabisblueten.de/product/social-choice-151-aur-ldo"
           }
         ]
       },
@@ -168,11 +168,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Social Choice 15/1 AUR LDO",
+        "url": "https://cannabisblueten.de/product/social-choice-151-aur-ldo",
         "brand": {
           "@type": "Brand",
           "name": "Remexian Pharma"
         },
-        "description": "THC: 15%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 15%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/social-choice-151-aur-ldo",
+          "priceCurrency": "EUR",
+          "price": "3.94",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

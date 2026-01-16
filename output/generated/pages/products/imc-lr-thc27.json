@@ -113,7 +113,7 @@
     "meta": {
       "title": "IMC LR THC27 | ab 3,89 €",
       "description": "IMC LR THC27 von IMC. THC: 27%, CBD: 1%. Sorte: Limonetti Rhino. Preis ab 3,89 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/imc-lr-thc27",
+      "canonical": "https://cannabisblueten.de/product/imc-lr-thc27",
       "robots": {
         "index": true,
         "follow": true
@@ -121,28 +121,28 @@
       "openGraph": {
         "title": "IMC LR THC27 | ab 3,89 €",
         "description": "IMC LR THC27 von IMC. THC: 27%, CBD: 1%. Sorte: Limonetti Rhino. Preis ab 3,89 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/imc-lr-thc27",
+        "url": "https://cannabisblueten.de/product/imc-lr-thc27",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "IMC",
-        "href": "https://weed.de/brand/imc"
+        "href": "https://cannabisblueten.de/brand/imc"
       },
       {
         "name": "IMC LR THC27",
-        "href": "https://weed.de/product/imc-lr-thc27"
+        "href": "https://cannabisblueten.de/product/imc-lr-thc27"
       }
     ],
     "schema": [
@@ -154,19 +154,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "IMC LR THC27",
-            "item": "https://weed.de/product/imc-lr-thc27"
+            "item": "https://cannabisblueten.de/product/imc-lr-thc27"
           }
         ]
       },
@@ -174,11 +174,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "IMC LR THC27",
+        "url": "https://cannabisblueten.de/product/imc-lr-thc27",
         "brand": {
           "@type": "Brand",
           "name": "IMC"
         },
-        "description": "THC: 27%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 27%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/imc-lr-thc27",
+          "priceCurrency": "EUR",
+          "price": "3.89",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "3.89",
+            "maxPrice": "5.49",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

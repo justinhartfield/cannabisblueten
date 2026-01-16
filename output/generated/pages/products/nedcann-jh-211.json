@@ -104,7 +104,7 @@
     "meta": {
       "title": "Nedcann JH 21/01 - California's Medical | ab 7,73 €",
       "description": "Nedcann JH 21/01 von California's Medical. THC: 21%, CBD: 1%. Sorte: Jack Herer. Preis ab 7,73 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/nedcann-jh-211",
+      "canonical": "https://cannabisblueten.de/product/nedcann-jh-211",
       "robots": {
         "index": true,
         "follow": true
@@ -112,28 +112,28 @@
       "openGraph": {
         "title": "Nedcann JH 21/01 - California's Medical | ab 7,73 €",
         "description": "Nedcann JH 21/01 von California's Medical. THC: 21%, CBD: 1%. Sorte: Jack Herer. Preis ab 7,73 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/nedcann-jh-211",
+        "url": "https://cannabisblueten.de/product/nedcann-jh-211",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "California's Medical",
-        "href": "https://weed.de/brand/california-s-medical"
+        "href": "https://cannabisblueten.de/brand/california-s-medical"
       },
       {
         "name": "Nedcann JH 21/01",
-        "href": "https://weed.de/product/nedcann-jh-211"
+        "href": "https://cannabisblueten.de/product/nedcann-jh-211"
       }
     ],
     "schema": [
@@ -145,19 +145,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Nedcann JH 21/01",
-            "item": "https://weed.de/product/nedcann-jh-211"
+            "item": "https://cannabisblueten.de/product/nedcann-jh-211"
           }
         ]
       },
@@ -165,11 +165,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Nedcann JH 21/01",
+        "url": "https://cannabisblueten.de/product/nedcann-jh-211",
         "brand": {
           "@type": "Brand",
           "name": "California's Medical"
         },
-        "description": "THC: 21%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 21%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/nedcann-jh-211",
+          "priceCurrency": "EUR",
+          "price": "7.73",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

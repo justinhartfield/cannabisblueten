@@ -116,7 +116,7 @@
     "meta": {
       "title": "Bathera 25/1 GF | ab 6,49 €",
       "description": "Bathera 25/1 GF von Bathera. THC: 23%, CBD: 1%. Sorte: Garlic Funk. Preis ab 6,49 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/bathera-251-gf",
+      "canonical": "https://cannabisblueten.de/product/bathera-251-gf",
       "robots": {
         "index": true,
         "follow": true
@@ -124,28 +124,28 @@
       "openGraph": {
         "title": "Bathera 25/1 GF | ab 6,49 €",
         "description": "Bathera 25/1 GF von Bathera. THC: 23%, CBD: 1%. Sorte: Garlic Funk. Preis ab 6,49 €. Preise vergleichen.",
-        "url": "https://weed.de/product/bathera-251-gf",
+        "url": "https://cannabisblueten.de/product/bathera-251-gf",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Bathera",
-        "href": "https://weed.de/brand/bathera"
+        "href": "https://cannabisblueten.de/brand/bathera"
       },
       {
         "name": "Bathera 25/1 GF",
-        "href": "https://weed.de/product/bathera-251-gf"
+        "href": "https://cannabisblueten.de/product/bathera-251-gf"
       }
     ],
     "schema": [
@@ -157,19 +157,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Bathera 25/1 GF",
-            "item": "https://weed.de/product/bathera-251-gf"
+            "item": "https://cannabisblueten.de/product/bathera-251-gf"
           }
         ]
       },
@@ -177,12 +177,23 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Bathera 25/1 GF",
+        "url": "https://cannabisblueten.de/product/bathera-251-gf",
         "brand": {
           "@type": "Brand",
           "name": "Bathera"
         },
         "gtin13": [],
-        "description": "THC: 23%, CBD: 1%"
+        "sku": [],
+        "description": "Medizinisches Cannabis Produkt. THC: 23%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/bathera-251-gf",
+          "priceCurrency": "EUR",
+          "price": "6.49",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

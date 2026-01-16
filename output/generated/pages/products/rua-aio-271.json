@@ -108,7 +108,7 @@
     "meta": {
       "title": "Rua Aio 27/1 - Rua Bioscience | ab 5,39 €",
       "description": "Rua Aio 27/1 von Rua Bioscience. THC: 27%, CBD: 1%. Sorte: 8 Ball Kush. Preis ab 5,39 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/rua-aio-271",
+      "canonical": "https://cannabisblueten.de/product/rua-aio-271",
       "robots": {
         "index": true,
         "follow": true
@@ -116,28 +116,28 @@
       "openGraph": {
         "title": "Rua Aio 27/1 - Rua Bioscience | ab 5,39 €",
         "description": "Rua Aio 27/1 von Rua Bioscience. THC: 27%, CBD: 1%. Sorte: 8 Ball Kush. Preis ab 5,39 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/rua-aio-271",
+        "url": "https://cannabisblueten.de/product/rua-aio-271",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Rua Bioscience",
-        "href": "https://weed.de/brand/rua-bioscience"
+        "href": "https://cannabisblueten.de/brand/rua-bioscience"
       },
       {
         "name": "Rua Aio 27/1",
-        "href": "https://weed.de/product/rua-aio-271"
+        "href": "https://cannabisblueten.de/product/rua-aio-271"
       }
     ],
     "schema": [
@@ -149,19 +149,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Rua Aio 27/1",
-            "item": "https://weed.de/product/rua-aio-271"
+            "item": "https://cannabisblueten.de/product/rua-aio-271"
           }
         ]
       },
@@ -169,11 +169,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Rua Aio 27/1",
+        "url": "https://cannabisblueten.de/product/rua-aio-271",
         "brand": {
           "@type": "Brand",
           "name": "Rua Bioscience"
         },
-        "description": "THC: 27%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 27%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/rua-aio-271",
+          "priceCurrency": "EUR",
+          "price": "5.39",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "5.39",
+            "maxPrice": "7.90",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

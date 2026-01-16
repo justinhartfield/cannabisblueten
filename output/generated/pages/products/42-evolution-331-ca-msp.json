@@ -104,7 +104,7 @@
     "meta": {
       "title": "420 EVOLUTION 33/1 CA MSP - Four 20 Pharma | ab 7,99 €",
       "description": "420 EVOLUTION 33/1 CA MSP von Four 20 Pharma. THC: 33%, CBD: 1%. Sorte: Masterpiece. Preis ab 7,99 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/42-evolution-331-ca-msp",
+      "canonical": "https://cannabisblueten.de/product/42-evolution-331-ca-msp",
       "robots": {
         "index": true,
         "follow": true
@@ -112,9 +112,9 @@
       "openGraph": {
         "title": "420 EVOLUTION 33/1 CA MSP - Four 20 Pharma | ab 7,99 €",
         "description": "420 EVOLUTION 33/1 CA MSP von Four 20 Pharma. THC: 33%, CBD: 1%. Sorte: Masterpiece. Preis ab 7,99 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/42-evolution-331-ca-msp",
+        "url": "https://cannabisblueten.de/product/42-evolution-331-ca-msp",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/42-evolution-331-ca-msp-ic6gh9.jpeg"
       }
@@ -122,19 +122,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Four 20 Pharma",
-        "href": "https://weed.de/brand/four-20-pharma"
+        "href": "https://cannabisblueten.de/brand/four-20-pharma"
       },
       {
         "name": "420 EVOLUTION 33/1 CA MSP",
-        "href": "https://weed.de/product/42-evolution-331-ca-msp"
+        "href": "https://cannabisblueten.de/product/42-evolution-331-ca-msp"
       }
     ],
     "schema": [
@@ -146,19 +146,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "420 EVOLUTION 33/1 CA MSP",
-            "item": "https://weed.de/product/42-evolution-331-ca-msp"
+            "item": "https://cannabisblueten.de/product/42-evolution-331-ca-msp"
           }
         ]
       },
@@ -166,11 +166,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "420 EVOLUTION 33/1 CA MSP",
+        "url": "https://cannabisblueten.de/product/42-evolution-331-ca-msp",
         "brand": {
           "@type": "Brand",
           "name": "Four 20 Pharma"
         },
-        "description": "THC: 33%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 33%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/42-evolution-331-ca-msp",
+          "priceCurrency": "EUR",
+          "price": "7.99",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

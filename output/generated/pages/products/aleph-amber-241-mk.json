@@ -108,7 +108,7 @@
     "meta": {
       "title": "Aleph amber 24/1 MK - alephSana | ab 6,59 €",
       "description": "Aleph amber 24/1 MK von alephSana. THC: 25.3%, CBD: 1%. Sorte: Mango Kush. Preis ab 6,59 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/aleph-amber-241-mk",
+      "canonical": "https://cannabisblueten.de/product/aleph-amber-241-mk",
       "robots": {
         "index": true,
         "follow": true
@@ -116,9 +116,9 @@
       "openGraph": {
         "title": "Aleph amber 24/1 MK - alephSana | ab 6,59 €",
         "description": "Aleph amber 24/1 MK von alephSana. THC: 25.3%, CBD: 1%. Sorte: Mango Kush. Preis ab 6,59 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/aleph-amber-241-mk",
+        "url": "https://cannabisblueten.de/product/aleph-amber-241-mk",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/aleph-amber-241-mk-d12ahh.jpeg"
       }
@@ -126,19 +126,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "alephSana",
-        "href": "https://weed.de/brand/alephsana"
+        "href": "https://cannabisblueten.de/brand/alephsana"
       },
       {
         "name": "Aleph amber 24/1 MK",
-        "href": "https://weed.de/product/aleph-amber-241-mk"
+        "href": "https://cannabisblueten.de/product/aleph-amber-241-mk"
       }
     ],
     "schema": [
@@ -150,19 +150,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Aleph amber 24/1 MK",
-            "item": "https://weed.de/product/aleph-amber-241-mk"
+            "item": "https://cannabisblueten.de/product/aleph-amber-241-mk"
           }
         ]
       },
@@ -170,11 +170,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Aleph amber 24/1 MK",
+        "url": "https://cannabisblueten.de/product/aleph-amber-241-mk",
         "brand": {
           "@type": "Brand",
           "name": "alephSana"
         },
-        "description": "THC: 25.3%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 25.3%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/aleph-amber-241-mk",
+          "priceCurrency": "EUR",
+          "price": "6.59",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "6.59",
+            "maxPrice": "9.93",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

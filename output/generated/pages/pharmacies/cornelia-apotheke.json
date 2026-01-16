@@ -65,7 +65,7 @@
     "meta": {
       "title": "Cornelia Apotheke - Cannabis Apotheke in Berlin",
       "description": "Cornelia Apotheke in Berlin. Lieferung & Abholung. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/cornelia-apotheke",
+      "canonical": "https://cannabisblueten.de/apotheke/cornelia-apotheke",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Cornelia Apotheke - Cannabis Apotheke in Berlin",
         "description": "Cornelia Apotheke in Berlin. Lieferung & Abholung. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/cornelia-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/cornelia-apotheke",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/6842d5c36e38acf7a71f1cd7-52bige.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Berlin",
-        "href": "https://weed.de/cannabis-apotheke/berlin"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/berlin"
       },
       {
         "name": "Cornelia Apotheke",
-        "href": "https://weed.de/apotheke/cornelia-apotheke"
+        "href": "https://cannabisblueten.de/apotheke/cornelia-apotheke"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Berlin",
-            "item": "https://weed.de/cannabis-apotheke/berlin"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/berlin"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Cornelia Apotheke",
-            "item": "https://weed.de/apotheke/cornelia-apotheke"
+            "item": "https://cannabisblueten.de/apotheke/cornelia-apotheke"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Cornelia Apotheke",
-        "url": "https://weed.de/apotheke/cornelia-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/cornelia-apotheke",
+        "description": "Cannabis Apotheke in Berlin. 0 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Konstanzer Straße 4",
@@ -142,8 +143,31 @@
           "addressRegion": "Berlin",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 52.49829099999999,
+          "longitude": 13.3118097
+        },
         "telephone": "0308834431",
-        "email": "bestellungen@berlin-leaf.de"
+        "email": "bestellungen@berlin-leaf.de",
+        "sameAs": "https://berlin-leaf.de/",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ]
       }
     ]
   },

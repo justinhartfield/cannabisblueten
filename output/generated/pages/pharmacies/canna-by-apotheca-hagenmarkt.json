@@ -65,7 +65,7 @@
     "meta": {
       "title": "Canna by apotheca (Hagenmarkt) - Cannabis Apotheke in Braunschweig",
       "description": "Canna by apotheca (Hagenmarkt) in Braunschweig. 13 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/canna-by-apotheca-hagenmarkt",
+      "canonical": "https://cannabisblueten.de/apotheke/canna-by-apotheca-hagenmarkt",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Canna by apotheca (Hagenmarkt) - Cannabis Apotheke in Braunschweig",
         "description": "Canna by apotheca (Hagenmarkt) in Braunschweig. 13 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/canna-by-apotheca-hagenmarkt",
+        "url": "https://cannabisblueten.de/apotheke/canna-by-apotheca-hagenmarkt",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/68a5e8d1d4a0ecc8cef2767b-e166ed.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Braunschweig",
-        "href": "https://weed.de/cannabis-apotheke/braunschweig"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/braunschweig"
       },
       {
         "name": "Canna by apotheca (Hagenmarkt)",
-        "href": "https://weed.de/apotheke/canna-by-apotheca-hagenmarkt"
+        "href": "https://cannabisblueten.de/apotheke/canna-by-apotheca-hagenmarkt"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Braunschweig",
-            "item": "https://weed.de/cannabis-apotheke/braunschweig"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/braunschweig"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Canna by apotheca (Hagenmarkt)",
-            "item": "https://weed.de/apotheke/canna-by-apotheca-hagenmarkt"
+            "item": "https://cannabisblueten.de/apotheke/canna-by-apotheca-hagenmarkt"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Canna by apotheca (Hagenmarkt)",
-        "url": "https://weed.de/apotheke/canna-by-apotheca-hagenmarkt",
+        "url": "https://cannabisblueten.de/apotheke/canna-by-apotheca-hagenmarkt",
+        "description": "Cannabis Apotheke in Braunschweig. 13 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Hagenmarkt 19-20",
@@ -142,8 +143,37 @@
           "addressRegion": "Niedersachsen",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 52.2679438,
+          "longitude": 10.5242905
+        },
         "telephone": "053148119015",
-        "email": "cannabis@apotheca.de"
+        "email": "cannabis@apotheca.de",
+        "sameAs": "https://cannabis.apotheca.de/",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5.0",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
       }
     ]
   },

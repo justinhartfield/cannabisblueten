@@ -114,7 +114,7 @@
     "meta": {
       "title": "Cannamedical Hybrid Classic WC | ab 4,95 €",
       "description": "Cannamedical Hybrid Classic WC von Cannamedical. THC: 20%, CBD: 1%. Sorte: Waffle Cone #2. Preis ab 4,95 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/cannamedical-hybrid-classic-wc",
+      "canonical": "https://cannabisblueten.de/product/cannamedical-hybrid-classic-wc",
       "robots": {
         "index": true,
         "follow": true
@@ -122,9 +122,9 @@
       "openGraph": {
         "title": "Cannamedical Hybrid Classic WC | ab 4,95 €",
         "description": "Cannamedical Hybrid Classic WC von Cannamedical. THC: 20%, CBD: 1%. Sorte: Waffle Cone #2. Preis ab 4,95 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/cannamedical-hybrid-classic-wc",
+        "url": "https://cannabisblueten.de/product/cannamedical-hybrid-classic-wc",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/cannamedical-hybrid-classic-wc-bh8fc8.png"
       }
@@ -132,19 +132,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cannamedical",
-        "href": "https://weed.de/brand/cannamedical"
+        "href": "https://cannabisblueten.de/brand/cannamedical"
       },
       {
         "name": "Cannamedical Hybrid Classic WC",
-        "href": "https://weed.de/product/cannamedical-hybrid-classic-wc"
+        "href": "https://cannabisblueten.de/product/cannamedical-hybrid-classic-wc"
       }
     ],
     "schema": [
@@ -156,19 +156,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Cannamedical Hybrid Classic WC",
-            "item": "https://weed.de/product/cannamedical-hybrid-classic-wc"
+            "item": "https://cannabisblueten.de/product/cannamedical-hybrid-classic-wc"
           }
         ]
       },
@@ -176,11 +176,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Cannamedical Hybrid Classic WC",
+        "url": "https://cannabisblueten.de/product/cannamedical-hybrid-classic-wc",
         "brand": {
           "@type": "Brand",
           "name": "Cannamedical"
         },
-        "description": "THC: 20%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 20%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/cannamedical-hybrid-classic-wc",
+          "priceCurrency": "EUR",
+          "price": "4.95",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.95",
+            "maxPrice": "14.28",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

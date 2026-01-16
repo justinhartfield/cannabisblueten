@@ -115,7 +115,7 @@
     "meta": {
       "title": "Cannamedical Indica Light URY CS | ab 5,29 €",
       "description": "Cannamedical Indica Light URY CS von Cannamedical. THC: 16.5%, CBD: 1%. Sorte: Cheddar Skunk. Preis ab 5,29 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/cannamedical-indica-light-ury-cs",
+      "canonical": "https://cannabisblueten.de/product/cannamedical-indica-light-ury-cs",
       "robots": {
         "index": true,
         "follow": true
@@ -123,9 +123,9 @@
       "openGraph": {
         "title": "Cannamedical Indica Light URY CS | ab 5,29 €",
         "description": "Cannamedical Indica Light URY CS von Cannamedical. THC: 16.5%, CBD: 1%. Sorte: Cheddar Skunk. Preis ab 5,29 €. Preise vergleichen.",
-        "url": "https://weed.de/product/cannamedical-indica-light-ury-cs",
+        "url": "https://cannabisblueten.de/product/cannamedical-indica-light-ury-cs",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/cannamedical-indica-light-ury-cs-da84i8.png"
       }
@@ -133,19 +133,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cannamedical",
-        "href": "https://weed.de/brand/cannamedical"
+        "href": "https://cannabisblueten.de/brand/cannamedical"
       },
       {
         "name": "Cannamedical Indica Light URY CS",
-        "href": "https://weed.de/product/cannamedical-indica-light-ury-cs"
+        "href": "https://cannabisblueten.de/product/cannamedical-indica-light-ury-cs"
       }
     ],
     "schema": [
@@ -157,19 +157,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Cannamedical Indica Light URY CS",
-            "item": "https://weed.de/product/cannamedical-indica-light-ury-cs"
+            "item": "https://cannabisblueten.de/product/cannamedical-indica-light-ury-cs"
           }
         ]
       },
@@ -177,12 +177,23 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Cannamedical Indica Light URY CS",
+        "url": "https://cannabisblueten.de/product/cannamedical-indica-light-ury-cs",
         "brand": {
           "@type": "Brand",
           "name": "Cannamedical"
         },
         "gtin13": [],
-        "description": "THC: 16.5%, CBD: 1%"
+        "sku": [],
+        "description": "Medizinisches Cannabis Produkt. THC: 16.5%, CBD: 1%, Genetik: indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/cannamedical-indica-light-ury-cs",
+          "priceCurrency": "EUR",
+          "price": "5.29",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

@@ -65,7 +65,7 @@
     "meta": {
       "title": "Klindwort-Apotheken OHG - Cannabis Apotheke in Bad Schwartau",
       "description": "Klindwort-Apotheken OHG in Bad Schwartau. Lieferung & Abholung. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/klindwort-apotheken-ohg",
+      "canonical": "https://cannabisblueten.de/apotheke/klindwort-apotheken-ohg",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Klindwort-Apotheken OHG - Cannabis Apotheke in Bad Schwartau",
         "description": "Klindwort-Apotheken OHG in Bad Schwartau. Lieferung & Abholung. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/klindwort-apotheken-ohg",
+        "url": "https://cannabisblueten.de/apotheke/klindwort-apotheken-ohg",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/67b5a05fcb8ef120e0d177de-ce0a38.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Bad Schwartau",
-        "href": "https://weed.de/cannabis-apotheke/bad-schwartau"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/bad-schwartau"
       },
       {
         "name": "Klindwort-Apotheken OHG",
-        "href": "https://weed.de/apotheke/klindwort-apotheken-ohg"
+        "href": "https://cannabisblueten.de/apotheke/klindwort-apotheken-ohg"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Bad Schwartau",
-            "item": "https://weed.de/cannabis-apotheke/bad-schwartau"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/bad-schwartau"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Klindwort-Apotheken OHG",
-            "item": "https://weed.de/apotheke/klindwort-apotheken-ohg"
+            "item": "https://cannabisblueten.de/apotheke/klindwort-apotheken-ohg"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Klindwort-Apotheken OHG",
-        "url": "https://weed.de/apotheke/klindwort-apotheken-ohg",
+        "url": "https://cannabisblueten.de/apotheke/klindwort-apotheken-ohg",
+        "description": "Cannabis Apotheke in Bad Schwartau. 0 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Lübecker Straße 18-20",
@@ -142,8 +143,30 @@
           "addressRegion": "Schleswig-Holstein",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 53.91745599999999,
+          "longitude": 10.6979466
+        },
         "telephone": "04512925011",
-        "email": "apo1@klindwort.de"
+        "email": "apo1@klindwort.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ]
       }
     ]
   },

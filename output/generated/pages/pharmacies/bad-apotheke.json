@@ -65,7 +65,7 @@
     "meta": {
       "title": "CannaFortuna - Cannabis Apotheke in Aue-Bad Schlema",
       "description": "CannaFortuna in Aue-Bad Schlema. 3 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/bad-apotheke",
+      "canonical": "https://cannabisblueten.de/apotheke/bad-apotheke",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "CannaFortuna - Cannabis Apotheke in Aue-Bad Schlema",
         "description": "CannaFortuna in Aue-Bad Schlema. 3 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/bad-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/bad-apotheke",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/686619e4f1f7c84b1d01211d-ia5h68.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Aue-Bad Schlema",
-        "href": "https://weed.de/cannabis-apotheke/aue-bad-schlema"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/aue-bad-schlema"
       },
       {
         "name": "CannaFortuna",
-        "href": "https://weed.de/apotheke/bad-apotheke"
+        "href": "https://cannabisblueten.de/apotheke/bad-apotheke"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Aue-Bad Schlema",
-            "item": "https://weed.de/cannabis-apotheke/aue-bad-schlema"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/aue-bad-schlema"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "CannaFortuna",
-            "item": "https://weed.de/apotheke/bad-apotheke"
+            "item": "https://cannabisblueten.de/apotheke/bad-apotheke"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "CannaFortuna",
-        "url": "https://weed.de/apotheke/bad-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/bad-apotheke",
+        "description": "Cannabis Apotheke in Aue-Bad Schlema. 3 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Am Kurpark 11",
@@ -142,8 +143,37 @@
           "addressRegion": "Sachsen",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 50.5998107,
+          "longitude": 12.6596802
+        },
         "telephone": "0377222528",
-        "email": "info@cannafortuna.de"
+        "email": "info@cannafortuna.de",
+        "sameAs": "www.cannafortuna.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5.0",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
       }
     ]
   },

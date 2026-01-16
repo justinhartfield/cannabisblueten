@@ -104,7 +104,7 @@
     "meta": {
       "title": "N!CE 25/1 RAM - Cansativa | ab 10,50 €",
       "description": "N!CE 25/1 RAM von Cansativa. THC: 25%, CBD: 1%. Sorte: Rainbow Amnesia. Preis ab 10,50 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/nce-251-ram",
+      "canonical": "https://cannabisblueten.de/product/nce-251-ram",
       "robots": {
         "index": true,
         "follow": true
@@ -112,9 +112,9 @@
       "openGraph": {
         "title": "N!CE 25/1 RAM - Cansativa | ab 10,50 €",
         "description": "N!CE 25/1 RAM von Cansativa. THC: 25%, CBD: 1%. Sorte: Rainbow Amnesia. Preis ab 10,50 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/nce-251-ram",
+        "url": "https://cannabisblueten.de/product/nce-251-ram",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/nce-251-ram-cf95ig.png"
       }
@@ -122,19 +122,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cansativa",
-        "href": "https://weed.de/brand/cansativa"
+        "href": "https://cannabisblueten.de/brand/cansativa"
       },
       {
         "name": "N!CE 25/1 RAM",
-        "href": "https://weed.de/product/nce-251-ram"
+        "href": "https://cannabisblueten.de/product/nce-251-ram"
       }
     ],
     "schema": [
@@ -146,19 +146,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "N!CE 25/1 RAM",
-            "item": "https://weed.de/product/nce-251-ram"
+            "item": "https://cannabisblueten.de/product/nce-251-ram"
           }
         ]
       },
@@ -166,11 +166,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "N!CE 25/1 RAM",
+        "url": "https://cannabisblueten.de/product/nce-251-ram",
         "brand": {
           "@type": "Brand",
           "name": "Cansativa"
         },
-        "description": "THC: 25%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 25%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/nce-251-ram",
+          "priceCurrency": "EUR",
+          "price": "10.50",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

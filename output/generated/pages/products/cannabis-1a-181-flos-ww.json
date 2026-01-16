@@ -104,7 +104,7 @@
     "meta": {
       "title": "Cannabis 1A 18/1 Flos WW - Vayamed | ab 5,59 €",
       "description": "Cannabis 1A 18/1 Flos WW von Vayamed. THC: 18%, CBD: 1%. Sorte: White Widow. Preis ab 5,59 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/cannabis-1a-181-flos-ww",
+      "canonical": "https://cannabisblueten.de/product/cannabis-1a-181-flos-ww",
       "robots": {
         "index": true,
         "follow": true
@@ -112,28 +112,28 @@
       "openGraph": {
         "title": "Cannabis 1A 18/1 Flos WW - Vayamed | ab 5,59 €",
         "description": "Cannabis 1A 18/1 Flos WW von Vayamed. THC: 18%, CBD: 1%. Sorte: White Widow. Preis ab 5,59 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/cannabis-1a-181-flos-ww",
+        "url": "https://cannabisblueten.de/product/cannabis-1a-181-flos-ww",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Vayamed",
-        "href": "https://weed.de/brand/vayamed"
+        "href": "https://cannabisblueten.de/brand/vayamed"
       },
       {
         "name": "Cannabis 1A 18/1 Flos WW",
-        "href": "https://weed.de/product/cannabis-1a-181-flos-ww"
+        "href": "https://cannabisblueten.de/product/cannabis-1a-181-flos-ww"
       }
     ],
     "schema": [
@@ -145,19 +145,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Cannabis 1A 18/1 Flos WW",
-            "item": "https://weed.de/product/cannabis-1a-181-flos-ww"
+            "item": "https://cannabisblueten.de/product/cannabis-1a-181-flos-ww"
           }
         ]
       },
@@ -165,11 +165,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Cannabis 1A 18/1 Flos WW",
+        "url": "https://cannabisblueten.de/product/cannabis-1a-181-flos-ww",
         "brand": {
           "@type": "Brand",
           "name": "Vayamed"
         },
-        "description": "THC: 18%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 18%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/cannabis-1a-181-flos-ww",
+          "priceCurrency": "EUR",
+          "price": "5.59",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

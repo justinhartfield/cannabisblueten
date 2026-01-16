@@ -104,7 +104,7 @@
     "meta": {
       "title": "Tilray Craft Cannabisblüten THC22 CCC | ab 6,66 €",
       "description": "Tilray Craft Cannabisblüten THC22 CCC von Tilray. THC: 22%, CBD: 1%. Sorte: Cherry Cheesecake. Preis ab 6,66 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/tilray-craft-cannabisblueten-thc22-ccc",
+      "canonical": "https://cannabisblueten.de/product/tilray-craft-cannabisblueten-thc22-ccc",
       "robots": {
         "index": true,
         "follow": true
@@ -112,9 +112,9 @@
       "openGraph": {
         "title": "Tilray Craft Cannabisblüten THC22 CCC | ab 6,66 €",
         "description": "Tilray Craft Cannabisblüten THC22 CCC von Tilray. THC: 22%, CBD: 1%. Sorte: Cherry Cheesecake. Preis ab 6,66 €. Preise vergleichen.",
-        "url": "https://weed.de/product/tilray-craft-cannabisblueten-thc22-ccc",
+        "url": "https://cannabisblueten.de/product/tilray-craft-cannabisblueten-thc22-ccc",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/tilray-craft-cannabisblueten-thc22-ccc-5g1295.png"
       }
@@ -122,19 +122,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Tilray",
-        "href": "https://weed.de/brand/tilray"
+        "href": "https://cannabisblueten.de/brand/tilray"
       },
       {
         "name": "Tilray Craft Cannabisblüten THC22 CCC",
-        "href": "https://weed.de/product/tilray-craft-cannabisblueten-thc22-ccc"
+        "href": "https://cannabisblueten.de/product/tilray-craft-cannabisblueten-thc22-ccc"
       }
     ],
     "schema": [
@@ -146,19 +146,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Tilray Craft Cannabisblüten THC22 CCC",
-            "item": "https://weed.de/product/tilray-craft-cannabisblueten-thc22-ccc"
+            "item": "https://cannabisblueten.de/product/tilray-craft-cannabisblueten-thc22-ccc"
           }
         ]
       },
@@ -166,11 +166,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Tilray Craft Cannabisblüten THC22 CCC",
+        "url": "https://cannabisblueten.de/product/tilray-craft-cannabisblueten-thc22-ccc",
         "brand": {
           "@type": "Brand",
           "name": "Tilray"
         },
-        "description": "THC: 22%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 22%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/tilray-craft-cannabisblueten-thc22-ccc",
+          "priceCurrency": "EUR",
+          "price": "6.66",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

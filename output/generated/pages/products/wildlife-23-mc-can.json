@@ -117,7 +117,7 @@
     "meta": {
       "title": "Wildlife 23 MC CAN - Adrexpharma | ab 4,33 €",
       "description": "Wildlife 23 MC CAN von Adrexpharma. THC: 22%, CBD: 1%. Sorte: Mandarin Cookies. Preis ab 4,33 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/wildlife-23-mc-can",
+      "canonical": "https://cannabisblueten.de/product/wildlife-23-mc-can",
       "robots": {
         "index": true,
         "follow": true
@@ -125,28 +125,28 @@
       "openGraph": {
         "title": "Wildlife 23 MC CAN - Adrexpharma | ab 4,33 €",
         "description": "Wildlife 23 MC CAN von Adrexpharma. THC: 22%, CBD: 1%. Sorte: Mandarin Cookies. Preis ab 4,33 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/wildlife-23-mc-can",
+        "url": "https://cannabisblueten.de/product/wildlife-23-mc-can",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Adrexpharma",
-        "href": "https://weed.de/brand/adrexpharma"
+        "href": "https://cannabisblueten.de/brand/adrexpharma"
       },
       {
         "name": "Wildlife 23 MC CAN",
-        "href": "https://weed.de/product/wildlife-23-mc-can"
+        "href": "https://cannabisblueten.de/product/wildlife-23-mc-can"
       }
     ],
     "schema": [
@@ -158,19 +158,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Wildlife 23 MC CAN",
-            "item": "https://weed.de/product/wildlife-23-mc-can"
+            "item": "https://cannabisblueten.de/product/wildlife-23-mc-can"
           }
         ]
       },
@@ -178,11 +178,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Wildlife 23 MC CAN",
+        "url": "https://cannabisblueten.de/product/wildlife-23-mc-can",
         "brand": {
           "@type": "Brand",
           "name": "Adrexpharma"
         },
-        "description": "THC: 22%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 22%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/wildlife-23-mc-can",
+          "priceCurrency": "EUR",
+          "price": "4.33",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.33",
+            "maxPrice": "4.88",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

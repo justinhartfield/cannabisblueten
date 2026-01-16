@@ -65,7 +65,7 @@
     "meta": {
       "title": "Kosmas-Apotheke - Cannabis Apotheke in Münster",
       "description": "Kosmas-Apotheke in Münster. Abholung. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/kosmas-apotheke-ohg",
+      "canonical": "https://cannabisblueten.de/apotheke/kosmas-apotheke-ohg",
       "robots": {
         "index": true,
         "follow": true
@@ -73,28 +73,28 @@
       "openGraph": {
         "title": "Kosmas-Apotheke - Cannabis Apotheke in Münster",
         "description": "Kosmas-Apotheke in Münster. Abholung. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/kosmas-apotheke-ohg",
+        "url": "https://cannabisblueten.de/apotheke/kosmas-apotheke-ohg",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Münster",
-        "href": "https://weed.de/cannabis-apotheke/muenster"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/muenster"
       },
       {
         "name": "Kosmas-Apotheke",
-        "href": "https://weed.de/apotheke/kosmas-apotheke-ohg"
+        "href": "https://cannabisblueten.de/apotheke/kosmas-apotheke-ohg"
       }
     ],
     "schema": [
@@ -106,25 +106,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Münster",
-            "item": "https://weed.de/cannabis-apotheke/muenster"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/muenster"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Kosmas-Apotheke",
-            "item": "https://weed.de/apotheke/kosmas-apotheke-ohg"
+            "item": "https://cannabisblueten.de/apotheke/kosmas-apotheke-ohg"
           }
         ]
       },
@@ -132,7 +132,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Kosmas-Apotheke",
-        "url": "https://weed.de/apotheke/kosmas-apotheke-ohg",
+        "url": "https://cannabisblueten.de/apotheke/kosmas-apotheke-ohg",
+        "description": "Cannabis Apotheke in Münster. 0 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Clemens-August-Platz 12",
@@ -141,8 +142,24 @@
           "addressRegion": "Nordrhein-Westfalen",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 51.9606649,
+          "longitude": 7.6261347
+        },
         "telephone": "+49251626632",
-        "email": "kosmas-apo@t-online.de"
+        "email": "kosmas-apo@t-online.de",
+        "sameAs": "https://www.kosmas-apotheke.com/",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ]
       }
     ]
   },

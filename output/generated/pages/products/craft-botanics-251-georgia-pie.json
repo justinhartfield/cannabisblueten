@@ -104,7 +104,7 @@
     "meta": {
       "title": "Craft Botanics 25/1 Georgia Pie - Montu Group | ab 8,90 €",
       "description": "Craft Botanics 25/1 Georgia Pie von Montu Group. THC: 25.5%, CBD: 1%. Sorte: Georgia Pie. Preis ab 8,90 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/craft-botanics-251-georgia-pie",
+      "canonical": "https://cannabisblueten.de/product/craft-botanics-251-georgia-pie",
       "robots": {
         "index": true,
         "follow": true
@@ -112,9 +112,9 @@
       "openGraph": {
         "title": "Craft Botanics 25/1 Georgia Pie - Montu Group | ab 8,90 €",
         "description": "Craft Botanics 25/1 Georgia Pie von Montu Group. THC: 25.5%, CBD: 1%. Sorte: Georgia Pie. Preis ab 8,90 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/craft-botanics-251-georgia-pie",
+        "url": "https://cannabisblueten.de/product/craft-botanics-251-georgia-pie",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/craft-botanics-251-georgia-pie-487j12.png"
       }
@@ -122,19 +122,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Montu Group",
-        "href": "https://weed.de/brand/montu-group"
+        "href": "https://cannabisblueten.de/brand/montu-group"
       },
       {
         "name": "Craft Botanics 25/1 Georgia Pie",
-        "href": "https://weed.de/product/craft-botanics-251-georgia-pie"
+        "href": "https://cannabisblueten.de/product/craft-botanics-251-georgia-pie"
       }
     ],
     "schema": [
@@ -146,19 +146,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Craft Botanics 25/1 Georgia Pie",
-            "item": "https://weed.de/product/craft-botanics-251-georgia-pie"
+            "item": "https://cannabisblueten.de/product/craft-botanics-251-georgia-pie"
           }
         ]
       },
@@ -166,11 +166,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Craft Botanics 25/1 Georgia Pie",
+        "url": "https://cannabisblueten.de/product/craft-botanics-251-georgia-pie",
         "brand": {
           "@type": "Brand",
           "name": "Montu Group"
         },
-        "description": "THC: 25.5%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 25.5%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/craft-botanics-251-georgia-pie",
+          "priceCurrency": "EUR",
+          "price": "8.90",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "8.90",
+            "maxPrice": "8.99",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

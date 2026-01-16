@@ -102,7 +102,7 @@
     "meta": {
       "title": "A+ KINEO SPIRIT NO.1 25/1 - Kineo Medical | ab 4,99 €",
       "description": "A+ KINEO SPIRIT NO.1 25/1 von Kineo Medical. THC: 25%, CBD: 1%. Sorte: Muel Fuel. Preis ab 4,99 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/a-kineo-spirit-no1-251",
+      "canonical": "https://cannabisblueten.de/product/a-kineo-spirit-no1-251",
       "robots": {
         "index": true,
         "follow": true
@@ -110,9 +110,9 @@
       "openGraph": {
         "title": "A+ KINEO SPIRIT NO.1 25/1 - Kineo Medical | ab 4,99 €",
         "description": "A+ KINEO SPIRIT NO.1 25/1 von Kineo Medical. THC: 25%, CBD: 1%. Sorte: Muel Fuel. Preis ab 4,99 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/a-kineo-spirit-no1-251",
+        "url": "https://cannabisblueten.de/product/a-kineo-spirit-no1-251",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/a-kineo-spirit-no1-251-dje986.webp"
       }
@@ -120,19 +120,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Kineo Medical",
-        "href": "https://weed.de/brand/kineo-medical"
+        "href": "https://cannabisblueten.de/brand/kineo-medical"
       },
       {
         "name": "A+ KINEO SPIRIT NO.1 25/1",
-        "href": "https://weed.de/product/a-kineo-spirit-no1-251"
+        "href": "https://cannabisblueten.de/product/a-kineo-spirit-no1-251"
       }
     ],
     "schema": [
@@ -144,19 +144,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "A+ KINEO SPIRIT NO.1 25/1",
-            "item": "https://weed.de/product/a-kineo-spirit-no1-251"
+            "item": "https://cannabisblueten.de/product/a-kineo-spirit-no1-251"
           }
         ]
       },
@@ -164,11 +164,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "A+ KINEO SPIRIT NO.1 25/1",
+        "url": "https://cannabisblueten.de/product/a-kineo-spirit-no1-251",
         "brand": {
           "@type": "Brand",
           "name": "Kineo Medical"
         },
-        "description": "THC: 25%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 25%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/a-kineo-spirit-no1-251",
+          "priceCurrency": "EUR",
+          "price": "4.99",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.99",
+            "maxPrice": "5.83",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

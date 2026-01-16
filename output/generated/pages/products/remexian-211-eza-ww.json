@@ -102,7 +102,7 @@
     "meta": {
       "title": "Remexian 21/1 EZA WW - Remexian Pharma | ab 3,45 €",
       "description": "Remexian 21/1 EZA WW von Remexian Pharma. THC: 21%, CBD: 1%. Sorte: White Rhino. Preis ab 3,45 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/remexian-211-eza-ww",
+      "canonical": "https://cannabisblueten.de/product/remexian-211-eza-ww",
       "robots": {
         "index": true,
         "follow": true
@@ -110,28 +110,28 @@
       "openGraph": {
         "title": "Remexian 21/1 EZA WW - Remexian Pharma | ab 3,45 €",
         "description": "Remexian 21/1 EZA WW von Remexian Pharma. THC: 21%, CBD: 1%. Sorte: White Rhino. Preis ab 3,45 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/remexian-211-eza-ww",
+        "url": "https://cannabisblueten.de/product/remexian-211-eza-ww",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Remexian Pharma",
-        "href": "https://weed.de/brand/remexian-pharma"
+        "href": "https://cannabisblueten.de/brand/remexian-pharma"
       },
       {
         "name": "Remexian 21/1 EZA WW",
-        "href": "https://weed.de/product/remexian-211-eza-ww"
+        "href": "https://cannabisblueten.de/product/remexian-211-eza-ww"
       }
     ],
     "schema": [
@@ -143,19 +143,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Remexian 21/1 EZA WW",
-            "item": "https://weed.de/product/remexian-211-eza-ww"
+            "item": "https://cannabisblueten.de/product/remexian-211-eza-ww"
           }
         ]
       },
@@ -163,11 +163,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Remexian 21/1 EZA WW",
+        "url": "https://cannabisblueten.de/product/remexian-211-eza-ww",
         "brand": {
           "@type": "Brand",
           "name": "Remexian Pharma"
         },
-        "description": "THC: 21%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 21%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/remexian-211-eza-ww",
+          "priceCurrency": "EUR",
+          "price": "3.45",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "3.45",
+            "maxPrice": "4.20",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

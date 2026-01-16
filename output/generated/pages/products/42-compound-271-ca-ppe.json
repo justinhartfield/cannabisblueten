@@ -122,7 +122,7 @@
     "meta": {
       "title": "420 Compound 27/1 CA PPE - Four 20 Pharma | ab 6,39 €",
       "description": "420 Compound 27/1 CA PPE von Four 20 Pharma. THC: 27%, CBD: 1%. Sorte: Platinum Pave. Preis ab 6,39 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/42-compound-271-ca-ppe",
+      "canonical": "https://cannabisblueten.de/product/42-compound-271-ca-ppe",
       "robots": {
         "index": true,
         "follow": true
@@ -130,9 +130,9 @@
       "openGraph": {
         "title": "420 Compound 27/1 CA PPE - Four 20 Pharma | ab 6,39 €",
         "description": "420 Compound 27/1 CA PPE von Four 20 Pharma. THC: 27%, CBD: 1%. Sorte: Platinum Pave. Preis ab 6,39 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/42-compound-271-ca-ppe",
+        "url": "https://cannabisblueten.de/product/42-compound-271-ca-ppe",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/42-compound-271-ca-ppe-aj8big.png"
       }
@@ -140,19 +140,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Four 20 Pharma",
-        "href": "https://weed.de/brand/four-20-pharma"
+        "href": "https://cannabisblueten.de/brand/four-20-pharma"
       },
       {
         "name": "420 Compound 27/1 CA PPE",
-        "href": "https://weed.de/product/42-compound-271-ca-ppe"
+        "href": "https://cannabisblueten.de/product/42-compound-271-ca-ppe"
       }
     ],
     "schema": [
@@ -164,19 +164,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "420 Compound 27/1 CA PPE",
-            "item": "https://weed.de/product/42-compound-271-ca-ppe"
+            "item": "https://cannabisblueten.de/product/42-compound-271-ca-ppe"
           }
         ]
       },
@@ -184,11 +184,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "420 Compound 27/1 CA PPE",
+        "url": "https://cannabisblueten.de/product/42-compound-271-ca-ppe",
         "brand": {
           "@type": "Brand",
           "name": "Four 20 Pharma"
         },
-        "description": "THC: 27%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 27%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/42-compound-271-ca-ppe",
+          "priceCurrency": "EUR",
+          "price": "6.39",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "6.39",
+            "maxPrice": "8.49",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

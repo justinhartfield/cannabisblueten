@@ -122,7 +122,7 @@
     "meta": {
       "title": "ZOIKS 22/1 SF - Vayamed | ab 4,46 €",
       "description": "ZOIKS 22/1 SF von Vayamed. THC: 22%, CBD: 1%. Sorte: Sour Flare. Preis ab 4,46 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/zoiks-221-sf",
+      "canonical": "https://cannabisblueten.de/product/zoiks-221-sf",
       "robots": {
         "index": true,
         "follow": true
@@ -130,28 +130,28 @@
       "openGraph": {
         "title": "ZOIKS 22/1 SF - Vayamed | ab 4,46 €",
         "description": "ZOIKS 22/1 SF von Vayamed. THC: 22%, CBD: 1%. Sorte: Sour Flare. Preis ab 4,46 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/zoiks-221-sf",
+        "url": "https://cannabisblueten.de/product/zoiks-221-sf",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Vayamed",
-        "href": "https://weed.de/brand/vayamed"
+        "href": "https://cannabisblueten.de/brand/vayamed"
       },
       {
         "name": "ZOIKS 22/1 SF",
-        "href": "https://weed.de/product/zoiks-221-sf"
+        "href": "https://cannabisblueten.de/product/zoiks-221-sf"
       }
     ],
     "schema": [
@@ -163,19 +163,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "ZOIKS 22/1 SF",
-            "item": "https://weed.de/product/zoiks-221-sf"
+            "item": "https://cannabisblueten.de/product/zoiks-221-sf"
           }
         ]
       },
@@ -183,11 +183,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "ZOIKS 22/1 SF",
+        "url": "https://cannabisblueten.de/product/zoiks-221-sf",
         "brand": {
           "@type": "Brand",
           "name": "Vayamed"
         },
-        "description": "THC: 22%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 22%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/zoiks-221-sf",
+          "priceCurrency": "EUR",
+          "price": "4.46",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.46",
+            "maxPrice": "6.75",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

@@ -102,7 +102,7 @@
     "meta": {
       "title": "Remexian 21/1 IRC EDG - Remexian Pharma | ab 3,95 €",
       "description": "Remexian 21/1 IRC EDG von Remexian Pharma. THC: 21%, CBD: 1%. Sorte: End Game. Preis ab 3,95 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/remexian-211-irc-edg",
+      "canonical": "https://cannabisblueten.de/product/remexian-211-irc-edg",
       "robots": {
         "index": true,
         "follow": true
@@ -110,28 +110,28 @@
       "openGraph": {
         "title": "Remexian 21/1 IRC EDG - Remexian Pharma | ab 3,95 €",
         "description": "Remexian 21/1 IRC EDG von Remexian Pharma. THC: 21%, CBD: 1%. Sorte: End Game. Preis ab 3,95 €. Preise vergleichen.",
-        "url": "https://weed.de/product/remexian-211-irc-edg",
+        "url": "https://cannabisblueten.de/product/remexian-211-irc-edg",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Remexian Pharma",
-        "href": "https://weed.de/brand/remexian-pharma"
+        "href": "https://cannabisblueten.de/brand/remexian-pharma"
       },
       {
         "name": "Remexian 21/1 IRC EDG",
-        "href": "https://weed.de/product/remexian-211-irc-edg"
+        "href": "https://cannabisblueten.de/product/remexian-211-irc-edg"
       }
     ],
     "schema": [
@@ -143,19 +143,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Remexian 21/1 IRC EDG",
-            "item": "https://weed.de/product/remexian-211-irc-edg"
+            "item": "https://cannabisblueten.de/product/remexian-211-irc-edg"
           }
         ]
       },
@@ -163,11 +163,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Remexian 21/1 IRC EDG",
+        "url": "https://cannabisblueten.de/product/remexian-211-irc-edg",
         "brand": {
           "@type": "Brand",
           "name": "Remexian Pharma"
         },
-        "description": "THC: 21%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 21%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/remexian-211-irc-edg",
+          "priceCurrency": "EUR",
+          "price": "3.95",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

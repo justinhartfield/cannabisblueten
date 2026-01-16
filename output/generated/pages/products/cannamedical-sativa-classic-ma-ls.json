@@ -118,7 +118,7 @@
     "meta": {
       "title": "Cannamedical Sativa Classic MA LS | ab 6,99 €",
       "description": "Cannamedical Sativa Classic MA LS von Cannamedical. THC: 20%, CBD: 1%. Sorte: Lemon Slushie. Preis ab 6,99 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/cannamedical-sativa-classic-ma-ls",
+      "canonical": "https://cannabisblueten.de/product/cannamedical-sativa-classic-ma-ls",
       "robots": {
         "index": true,
         "follow": true
@@ -126,9 +126,9 @@
       "openGraph": {
         "title": "Cannamedical Sativa Classic MA LS | ab 6,99 €",
         "description": "Cannamedical Sativa Classic MA LS von Cannamedical. THC: 20%, CBD: 1%. Sorte: Lemon Slushie. Preis ab 6,99 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/cannamedical-sativa-classic-ma-ls",
+        "url": "https://cannabisblueten.de/product/cannamedical-sativa-classic-ma-ls",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/cannamedical-sativa-classic-ma-ls-d8fj73.png"
       }
@@ -136,19 +136,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cannamedical",
-        "href": "https://weed.de/brand/cannamedical"
+        "href": "https://cannabisblueten.de/brand/cannamedical"
       },
       {
         "name": "Cannamedical Sativa Classic MA LS",
-        "href": "https://weed.de/product/cannamedical-sativa-classic-ma-ls"
+        "href": "https://cannabisblueten.de/product/cannamedical-sativa-classic-ma-ls"
       }
     ],
     "schema": [
@@ -160,19 +160,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Cannamedical Sativa Classic MA LS",
-            "item": "https://weed.de/product/cannamedical-sativa-classic-ma-ls"
+            "item": "https://cannabisblueten.de/product/cannamedical-sativa-classic-ma-ls"
           }
         ]
       },
@@ -180,11 +180,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Cannamedical Sativa Classic MA LS",
+        "url": "https://cannabisblueten.de/product/cannamedical-sativa-classic-ma-ls",
         "brand": {
           "@type": "Brand",
           "name": "Cannamedical"
         },
-        "description": "THC: 20%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 20%, CBD: 1%, Genetik: sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/cannamedical-sativa-classic-ma-ls",
+          "priceCurrency": "EUR",
+          "price": "6.99",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "6.99",
+            "maxPrice": "10.90",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

@@ -109,7 +109,7 @@
     "meta": {
       "title": "Dirty Zprite/24 - MGF Via Medical | ab 7,79 €",
       "description": "Dirty Zprite/24 von MGF Via Medical. THC: 24%, CBD: 1%. Sorte: Dirty Zprite. Preis ab 7,79 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/dirty-zprite24",
+      "canonical": "https://cannabisblueten.de/product/dirty-zprite24",
       "robots": {
         "index": true,
         "follow": true
@@ -117,9 +117,9 @@
       "openGraph": {
         "title": "Dirty Zprite/24 - MGF Via Medical | ab 7,79 €",
         "description": "Dirty Zprite/24 von MGF Via Medical. THC: 24%, CBD: 1%. Sorte: Dirty Zprite. Preis ab 7,79 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/dirty-zprite24",
+        "url": "https://cannabisblueten.de/product/dirty-zprite24",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/dirty-zprite24-a68cai.webp"
       }
@@ -127,19 +127,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "MGF Via Medical",
-        "href": "https://weed.de/brand/mgf-via-medical"
+        "href": "https://cannabisblueten.de/brand/mgf-via-medical"
       },
       {
         "name": "Dirty Zprite/24",
-        "href": "https://weed.de/product/dirty-zprite24"
+        "href": "https://cannabisblueten.de/product/dirty-zprite24"
       }
     ],
     "schema": [
@@ -151,19 +151,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Dirty Zprite/24",
-            "item": "https://weed.de/product/dirty-zprite24"
+            "item": "https://cannabisblueten.de/product/dirty-zprite24"
           }
         ]
       },
@@ -171,11 +171,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Dirty Zprite/24",
+        "url": "https://cannabisblueten.de/product/dirty-zprite24",
         "brand": {
           "@type": "Brand",
           "name": "MGF Via Medical"
         },
-        "description": "THC: 24%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 24%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/dirty-zprite24",
+          "priceCurrency": "EUR",
+          "price": "7.79",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "7.79",
+            "maxPrice": "9.99",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

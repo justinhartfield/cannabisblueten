@@ -104,7 +104,7 @@
     "meta": {
       "title": "Pharma Leaves Indica Plain 20 - Pharmaleaves  | ab 3,95 €",
       "description": "Pharma Leaves Indica Plain 20 von Pharmaleaves . THC: 20%, CBD: 1%. Sorte: Chocolate Mint. Preis ab 3,95 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/pharma-leaves-indica-plain-2",
+      "canonical": "https://cannabisblueten.de/product/pharma-leaves-indica-plain-2",
       "robots": {
         "index": true,
         "follow": true
@@ -112,9 +112,9 @@
       "openGraph": {
         "title": "Pharma Leaves Indica Plain 20 - Pharmaleaves  | ab 3,95 €",
         "description": "Pharma Leaves Indica Plain 20 von Pharmaleaves . THC: 20%, CBD: 1%. Sorte: Chocolate Mint. Preis ab 3,95 €. Preise vergleichen.",
-        "url": "https://weed.de/product/pharma-leaves-indica-plain-2",
+        "url": "https://cannabisblueten.de/product/pharma-leaves-indica-plain-2",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/pharma-leaves-indica-plain-2-ajdh94.png"
       }
@@ -122,19 +122,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Pharmaleaves ",
-        "href": "https://weed.de/brand/pharmaleaves"
+        "href": "https://cannabisblueten.de/brand/pharmaleaves"
       },
       {
         "name": "Pharma Leaves Indica Plain 20",
-        "href": "https://weed.de/product/pharma-leaves-indica-plain-2"
+        "href": "https://cannabisblueten.de/product/pharma-leaves-indica-plain-2"
       }
     ],
     "schema": [
@@ -146,19 +146,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Pharma Leaves Indica Plain 20",
-            "item": "https://weed.de/product/pharma-leaves-indica-plain-2"
+            "item": "https://cannabisblueten.de/product/pharma-leaves-indica-plain-2"
           }
         ]
       },
@@ -166,11 +166,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Pharma Leaves Indica Plain 20",
+        "url": "https://cannabisblueten.de/product/pharma-leaves-indica-plain-2",
         "brand": {
           "@type": "Brand",
           "name": "Pharmaleaves "
         },
-        "description": "THC: 20%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 20%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/pharma-leaves-indica-plain-2",
+          "priceCurrency": "EUR",
+          "price": "3.95",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

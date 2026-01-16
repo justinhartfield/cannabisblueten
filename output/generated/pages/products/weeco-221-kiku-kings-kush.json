@@ -104,7 +104,7 @@
     "meta": {
       "title": "Weeco 22/1 KIKU Kings Kush | ab 2,99 €",
       "description": "Weeco 22/1 KIKU Kings Kush von Weeco. THC: 22%, CBD: 1%. Sorte: Kings Kush. Preis ab 2,99 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/weeco-221-kiku-kings-kush",
+      "canonical": "https://cannabisblueten.de/product/weeco-221-kiku-kings-kush",
       "robots": {
         "index": true,
         "follow": true
@@ -112,28 +112,28 @@
       "openGraph": {
         "title": "Weeco 22/1 KIKU Kings Kush | ab 2,99 €",
         "description": "Weeco 22/1 KIKU Kings Kush von Weeco. THC: 22%, CBD: 1%. Sorte: Kings Kush. Preis ab 2,99 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/weeco-221-kiku-kings-kush",
+        "url": "https://cannabisblueten.de/product/weeco-221-kiku-kings-kush",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Weeco",
-        "href": "https://weed.de/brand/weeco"
+        "href": "https://cannabisblueten.de/brand/weeco"
       },
       {
         "name": "Weeco 22/1 KIKU Kings Kush",
-        "href": "https://weed.de/product/weeco-221-kiku-kings-kush"
+        "href": "https://cannabisblueten.de/product/weeco-221-kiku-kings-kush"
       }
     ],
     "schema": [
@@ -145,19 +145,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Weeco 22/1 KIKU Kings Kush",
-            "item": "https://weed.de/product/weeco-221-kiku-kings-kush"
+            "item": "https://cannabisblueten.de/product/weeco-221-kiku-kings-kush"
           }
         ]
       },
@@ -165,11 +165,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Weeco 22/1 KIKU Kings Kush",
+        "url": "https://cannabisblueten.de/product/weeco-221-kiku-kings-kush",
         "brand": {
           "@type": "Brand",
           "name": "Weeco"
         },
-        "description": "THC: 22%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 22%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/weeco-221-kiku-kings-kush",
+          "priceCurrency": "EUR",
+          "price": "2.99",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "2.99",
+            "maxPrice": "5.95",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

@@ -99,7 +99,7 @@
     "meta": {
       "title": "J.R.Strain Sudz 27/1 - Cantourage | ab 10,10 €",
       "description": "J.R.Strain Sudz 27/1 von Cantourage. THC: 27%, CBD: 1%. Sorte: Sudz. Preis ab 10,10 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/jrstrain-sudz-271",
+      "canonical": "https://cannabisblueten.de/product/jrstrain-sudz-271",
       "robots": {
         "index": true,
         "follow": true
@@ -107,9 +107,9 @@
       "openGraph": {
         "title": "J.R.Strain Sudz 27/1 - Cantourage | ab 10,10 €",
         "description": "J.R.Strain Sudz 27/1 von Cantourage. THC: 27%, CBD: 1%. Sorte: Sudz. Preis ab 10,10 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/jrstrain-sudz-271",
+        "url": "https://cannabisblueten.de/product/jrstrain-sudz-271",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/jrstrain-sudz-271-36j907.png"
       }
@@ -117,19 +117,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cantourage",
-        "href": "https://weed.de/brand/cantourage"
+        "href": "https://cannabisblueten.de/brand/cantourage"
       },
       {
         "name": "J.R.Strain Sudz 27/1",
-        "href": "https://weed.de/product/jrstrain-sudz-271"
+        "href": "https://cannabisblueten.de/product/jrstrain-sudz-271"
       }
     ],
     "schema": [
@@ -141,19 +141,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "J.R.Strain Sudz 27/1",
-            "item": "https://weed.de/product/jrstrain-sudz-271"
+            "item": "https://cannabisblueten.de/product/jrstrain-sudz-271"
           }
         ]
       },
@@ -161,11 +161,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "J.R.Strain Sudz 27/1",
+        "url": "https://cannabisblueten.de/product/jrstrain-sudz-271",
         "brand": {
           "@type": "Brand",
           "name": "Cantourage"
         },
-        "description": "THC: 27%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 27%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/jrstrain-sudz-271",
+          "priceCurrency": "EUR",
+          "price": "10.10",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

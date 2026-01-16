@@ -104,7 +104,7 @@
     "meta": {
       "title": "aleph Ruby 24/1 Kosher Tangie - alephSana | ab 3,99 €",
       "description": "aleph Ruby 24/1 Kosher Tangie von alephSana. THC: 24%, CBD: 1%. Sorte: Kosher Tangie. Preis ab 3,99 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/aleph-ruby-241-kosher-tangie",
+      "canonical": "https://cannabisblueten.de/product/aleph-ruby-241-kosher-tangie",
       "robots": {
         "index": true,
         "follow": true
@@ -112,9 +112,9 @@
       "openGraph": {
         "title": "aleph Ruby 24/1 Kosher Tangie - alephSana | ab 3,99 €",
         "description": "aleph Ruby 24/1 Kosher Tangie von alephSana. THC: 24%, CBD: 1%. Sorte: Kosher Tangie. Preis ab 3,99 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/aleph-ruby-241-kosher-tangie",
+        "url": "https://cannabisblueten.de/product/aleph-ruby-241-kosher-tangie",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/aleph-ruby-241-kosher-tangie-6b1010.png"
       }
@@ -122,19 +122,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "alephSana",
-        "href": "https://weed.de/brand/alephsana"
+        "href": "https://cannabisblueten.de/brand/alephsana"
       },
       {
         "name": "aleph Ruby 24/1 Kosher Tangie",
-        "href": "https://weed.de/product/aleph-ruby-241-kosher-tangie"
+        "href": "https://cannabisblueten.de/product/aleph-ruby-241-kosher-tangie"
       }
     ],
     "schema": [
@@ -146,19 +146,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "aleph Ruby 24/1 Kosher Tangie",
-            "item": "https://weed.de/product/aleph-ruby-241-kosher-tangie"
+            "item": "https://cannabisblueten.de/product/aleph-ruby-241-kosher-tangie"
           }
         ]
       },
@@ -166,11 +166,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "aleph Ruby 24/1 Kosher Tangie",
+        "url": "https://cannabisblueten.de/product/aleph-ruby-241-kosher-tangie",
         "brand": {
           "@type": "Brand",
           "name": "alephSana"
         },
-        "description": "THC: 24%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 24%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/aleph-ruby-241-kosher-tangie",
+          "priceCurrency": "EUR",
+          "price": "3.99",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "3.99",
+            "maxPrice": "6.49",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

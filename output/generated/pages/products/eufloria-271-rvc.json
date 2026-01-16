@@ -126,7 +126,7 @@
     "meta": {
       "title": "Eufloria 27/1 RVC - Remexian Pharma | ab 5,89 €",
       "description": "Eufloria 27/1 RVC von Remexian Pharma. THC: 26%, CBD: 1%. Sorte: Red Velvet Cake. Preis ab 5,89 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/eufloria-271-rvc",
+      "canonical": "https://cannabisblueten.de/product/eufloria-271-rvc",
       "robots": {
         "index": true,
         "follow": true
@@ -134,28 +134,28 @@
       "openGraph": {
         "title": "Eufloria 27/1 RVC - Remexian Pharma | ab 5,89 €",
         "description": "Eufloria 27/1 RVC von Remexian Pharma. THC: 26%, CBD: 1%. Sorte: Red Velvet Cake. Preis ab 5,89 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/eufloria-271-rvc",
+        "url": "https://cannabisblueten.de/product/eufloria-271-rvc",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Remexian Pharma",
-        "href": "https://weed.de/brand/remexian-pharma"
+        "href": "https://cannabisblueten.de/brand/remexian-pharma"
       },
       {
         "name": "Eufloria 27/1 RVC",
-        "href": "https://weed.de/product/eufloria-271-rvc"
+        "href": "https://cannabisblueten.de/product/eufloria-271-rvc"
       }
     ],
     "schema": [
@@ -167,19 +167,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Eufloria 27/1 RVC",
-            "item": "https://weed.de/product/eufloria-271-rvc"
+            "item": "https://cannabisblueten.de/product/eufloria-271-rvc"
           }
         ]
       },
@@ -187,11 +187,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Eufloria 27/1 RVC",
+        "url": "https://cannabisblueten.de/product/eufloria-271-rvc",
         "brand": {
           "@type": "Brand",
           "name": "Remexian Pharma"
         },
-        "description": "THC: 26%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 26%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/eufloria-271-rvc",
+          "priceCurrency": "EUR",
+          "price": "5.89",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "5.89",
+            "maxPrice": "7.99",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

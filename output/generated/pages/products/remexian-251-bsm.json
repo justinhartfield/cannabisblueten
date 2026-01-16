@@ -106,7 +106,7 @@
     "meta": {
       "title": "Remexian 25/1 BSM - Remexian Pharma | ab 4,99 €",
       "description": "Remexian 25/1 BSM von Remexian Pharma. THC: 25%, CBD: 1%. Sorte: Biscotti Mintz. Preis ab 4,99 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/remexian-251-bsm",
+      "canonical": "https://cannabisblueten.de/product/remexian-251-bsm",
       "robots": {
         "index": true,
         "follow": true
@@ -114,28 +114,28 @@
       "openGraph": {
         "title": "Remexian 25/1 BSM - Remexian Pharma | ab 4,99 €",
         "description": "Remexian 25/1 BSM von Remexian Pharma. THC: 25%, CBD: 1%. Sorte: Biscotti Mintz. Preis ab 4,99 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/remexian-251-bsm",
+        "url": "https://cannabisblueten.de/product/remexian-251-bsm",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Remexian Pharma",
-        "href": "https://weed.de/brand/remexian-pharma"
+        "href": "https://cannabisblueten.de/brand/remexian-pharma"
       },
       {
         "name": "Remexian 25/1 BSM",
-        "href": "https://weed.de/product/remexian-251-bsm"
+        "href": "https://cannabisblueten.de/product/remexian-251-bsm"
       }
     ],
     "schema": [
@@ -147,19 +147,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Remexian 25/1 BSM",
-            "item": "https://weed.de/product/remexian-251-bsm"
+            "item": "https://cannabisblueten.de/product/remexian-251-bsm"
           }
         ]
       },
@@ -167,11 +167,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Remexian 25/1 BSM",
+        "url": "https://cannabisblueten.de/product/remexian-251-bsm",
         "brand": {
           "@type": "Brand",
           "name": "Remexian Pharma"
         },
-        "description": "THC: 25%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 25%, CBD: 1%, Genetik: sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/remexian-251-bsm",
+          "priceCurrency": "EUR",
+          "price": "4.99",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.99",
+            "maxPrice": "5.83",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

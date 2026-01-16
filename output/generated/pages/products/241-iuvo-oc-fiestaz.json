@@ -123,7 +123,7 @@
     "meta": {
       "title": "24/1 IUVO OC Fiestaz - Iuvo | ab 7,99 €",
       "description": "24/1 IUVO OC Fiestaz von Iuvo. THC: 25%, CBD: 1%. Sorte: Fiestaz. Preis ab 7,99 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/241-iuvo-oc-fiestaz",
+      "canonical": "https://cannabisblueten.de/product/241-iuvo-oc-fiestaz",
       "robots": {
         "index": true,
         "follow": true
@@ -131,9 +131,9 @@
       "openGraph": {
         "title": "24/1 IUVO OC Fiestaz - Iuvo | ab 7,99 €",
         "description": "24/1 IUVO OC Fiestaz von Iuvo. THC: 25%, CBD: 1%. Sorte: Fiestaz. Preis ab 7,99 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/241-iuvo-oc-fiestaz",
+        "url": "https://cannabisblueten.de/product/241-iuvo-oc-fiestaz",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/241-iuvo-oc-fiestaz-5c71f7.png"
       }
@@ -141,19 +141,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Iuvo",
-        "href": "https://weed.de/brand/iuvo"
+        "href": "https://cannabisblueten.de/brand/iuvo"
       },
       {
         "name": "24/1 IUVO OC Fiestaz",
-        "href": "https://weed.de/product/241-iuvo-oc-fiestaz"
+        "href": "https://cannabisblueten.de/product/241-iuvo-oc-fiestaz"
       }
     ],
     "schema": [
@@ -165,19 +165,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "24/1 IUVO OC Fiestaz",
-            "item": "https://weed.de/product/241-iuvo-oc-fiestaz"
+            "item": "https://cannabisblueten.de/product/241-iuvo-oc-fiestaz"
           }
         ]
       },
@@ -185,11 +185,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "24/1 IUVO OC Fiestaz",
+        "url": "https://cannabisblueten.de/product/241-iuvo-oc-fiestaz",
         "brand": {
           "@type": "Brand",
           "name": "Iuvo"
         },
-        "description": "THC: 25%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 25%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/241-iuvo-oc-fiestaz",
+          "priceCurrency": "EUR",
+          "price": "7.99",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "7.99",
+            "maxPrice": "12.50",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

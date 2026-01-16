@@ -111,7 +111,7 @@
     "meta": {
       "title": "Demecan RF Lean Drop 22/1 | ab 5,49 €",
       "description": "Demecan RF Lean Drop 22/1 von Demecan. THC: 22%, CBD: 1%. Sorte: Gastro Pop. Preis ab 5,49 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/demecan-rf-lean-drop-221",
+      "canonical": "https://cannabisblueten.de/product/demecan-rf-lean-drop-221",
       "robots": {
         "index": true,
         "follow": true
@@ -119,9 +119,9 @@
       "openGraph": {
         "title": "Demecan RF Lean Drop 22/1 | ab 5,49 €",
         "description": "Demecan RF Lean Drop 22/1 von Demecan. THC: 22%, CBD: 1%. Sorte: Gastro Pop. Preis ab 5,49 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/demecan-rf-lean-drop-221",
+        "url": "https://cannabisblueten.de/product/demecan-rf-lean-drop-221",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/demecan-rf-lean-drop-221-dhj4d1.png"
       }
@@ -129,19 +129,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Demecan",
-        "href": "https://weed.de/brand/demecan"
+        "href": "https://cannabisblueten.de/brand/demecan"
       },
       {
         "name": "Demecan RF Lean Drop 22/1",
-        "href": "https://weed.de/product/demecan-rf-lean-drop-221"
+        "href": "https://cannabisblueten.de/product/demecan-rf-lean-drop-221"
       }
     ],
     "schema": [
@@ -153,19 +153,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Demecan RF Lean Drop 22/1",
-            "item": "https://weed.de/product/demecan-rf-lean-drop-221"
+            "item": "https://cannabisblueten.de/product/demecan-rf-lean-drop-221"
           }
         ]
       },
@@ -173,11 +173,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Demecan RF Lean Drop 22/1",
+        "url": "https://cannabisblueten.de/product/demecan-rf-lean-drop-221",
         "brand": {
           "@type": "Brand",
           "name": "Demecan"
         },
-        "description": "THC: 22%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 22%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/demecan-rf-lean-drop-221",
+          "priceCurrency": "EUR",
+          "price": "5.49",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

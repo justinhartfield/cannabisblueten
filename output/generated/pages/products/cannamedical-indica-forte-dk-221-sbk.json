@@ -113,7 +113,7 @@
     "meta": {
       "title": "Cannamedical Indica Forte DK 24/1 SBK | ab 6,00 €",
       "description": "Cannamedical Indica Forte DK 24/1 SBK von Cannamedical. THC: 24%, CBD: 1%. Sorte: Sky Berry Kush. Preis ab 6,00 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/cannamedical-indica-forte-dk-221-sbk",
+      "canonical": "https://cannabisblueten.de/product/cannamedical-indica-forte-dk-221-sbk",
       "robots": {
         "index": true,
         "follow": true
@@ -121,9 +121,9 @@
       "openGraph": {
         "title": "Cannamedical Indica Forte DK 24/1 SBK | ab 6,00 €",
         "description": "Cannamedical Indica Forte DK 24/1 SBK von Cannamedical. THC: 24%, CBD: 1%. Sorte: Sky Berry Kush. Preis ab 6,00 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/cannamedical-indica-forte-dk-221-sbk",
+        "url": "https://cannabisblueten.de/product/cannamedical-indica-forte-dk-221-sbk",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/cannamedical-indica-forte-dk-221-sbk-1e8dbj.png"
       }
@@ -131,19 +131,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cannamedical",
-        "href": "https://weed.de/brand/cannamedical"
+        "href": "https://cannabisblueten.de/brand/cannamedical"
       },
       {
         "name": "Cannamedical Indica Forte DK 24/1 SBK",
-        "href": "https://weed.de/product/cannamedical-indica-forte-dk-221-sbk"
+        "href": "https://cannabisblueten.de/product/cannamedical-indica-forte-dk-221-sbk"
       }
     ],
     "schema": [
@@ -155,19 +155,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Cannamedical Indica Forte DK 24/1 SBK",
-            "item": "https://weed.de/product/cannamedical-indica-forte-dk-221-sbk"
+            "item": "https://cannabisblueten.de/product/cannamedical-indica-forte-dk-221-sbk"
           }
         ]
       },
@@ -175,11 +175,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Cannamedical Indica Forte DK 24/1 SBK",
+        "url": "https://cannabisblueten.de/product/cannamedical-indica-forte-dk-221-sbk",
         "brand": {
           "@type": "Brand",
           "name": "Cannamedical"
         },
-        "description": "THC: 24%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 24%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/cannamedical-indica-forte-dk-221-sbk",
+          "priceCurrency": "EUR",
+          "price": "6.00",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "6.00",
+            "maxPrice": "7.40",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

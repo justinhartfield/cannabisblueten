@@ -116,7 +116,7 @@
     "meta": {
       "title": "enua 30/1 SBD CA | ab 7,48 €",
       "description": "enua 30/1 SBD CA von enua. THC: 30%, CBD: 1%. Sorte: Strawberry Diesel. Preis ab 7,48 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/enua-31-sbd-ca",
+      "canonical": "https://cannabisblueten.de/product/enua-31-sbd-ca",
       "robots": {
         "index": true,
         "follow": true
@@ -124,9 +124,9 @@
       "openGraph": {
         "title": "enua 30/1 SBD CA | ab 7,48 €",
         "description": "enua 30/1 SBD CA von enua. THC: 30%, CBD: 1%. Sorte: Strawberry Diesel. Preis ab 7,48 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/enua-31-sbd-ca",
+        "url": "https://cannabisblueten.de/product/enua-31-sbd-ca",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/enua-31-sbd-ca-g73h0j.webp"
       }
@@ -134,19 +134,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "enua",
-        "href": "https://weed.de/brand/enua"
+        "href": "https://cannabisblueten.de/brand/enua"
       },
       {
         "name": "enua 30/1 SBD CA",
-        "href": "https://weed.de/product/enua-31-sbd-ca"
+        "href": "https://cannabisblueten.de/product/enua-31-sbd-ca"
       }
     ],
     "schema": [
@@ -158,19 +158,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "enua 30/1 SBD CA",
-            "item": "https://weed.de/product/enua-31-sbd-ca"
+            "item": "https://cannabisblueten.de/product/enua-31-sbd-ca"
           }
         ]
       },
@@ -178,11 +178,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "enua 30/1 SBD CA",
+        "url": "https://cannabisblueten.de/product/enua-31-sbd-ca",
         "brand": {
           "@type": "Brand",
           "name": "enua"
         },
-        "description": "THC: 30%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 30%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/enua-31-sbd-ca",
+          "priceCurrency": "EUR",
+          "price": "7.48",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "7.48",
+            "maxPrice": "8.65",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

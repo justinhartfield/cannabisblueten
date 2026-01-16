@@ -104,7 +104,7 @@
     "meta": {
       "title": "Tilray THC 18 Spotlight Porto PK | ab 2,99 €",
       "description": "Tilray THC 18 Spotlight Porto PK von Tilray. THC: 18%, CBD: 1%. Sorte: Pink Kush. Preis ab 2,99 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/tilray-thc-18-spotlight-porto-pk",
+      "canonical": "https://cannabisblueten.de/product/tilray-thc-18-spotlight-porto-pk",
       "robots": {
         "index": true,
         "follow": true
@@ -112,9 +112,9 @@
       "openGraph": {
         "title": "Tilray THC 18 Spotlight Porto PK | ab 2,99 €",
         "description": "Tilray THC 18 Spotlight Porto PK von Tilray. THC: 18%, CBD: 1%. Sorte: Pink Kush. Preis ab 2,99 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/tilray-thc-18-spotlight-porto-pk",
+        "url": "https://cannabisblueten.de/product/tilray-thc-18-spotlight-porto-pk",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/tilray-thc-18-spotlight-porto-pk-0c77db.jpeg"
       }
@@ -122,19 +122,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Tilray",
-        "href": "https://weed.de/brand/tilray"
+        "href": "https://cannabisblueten.de/brand/tilray"
       },
       {
         "name": "Tilray THC 18 Spotlight Porto PK",
-        "href": "https://weed.de/product/tilray-thc-18-spotlight-porto-pk"
+        "href": "https://cannabisblueten.de/product/tilray-thc-18-spotlight-porto-pk"
       }
     ],
     "schema": [
@@ -146,19 +146,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Tilray THC 18 Spotlight Porto PK",
-            "item": "https://weed.de/product/tilray-thc-18-spotlight-porto-pk"
+            "item": "https://cannabisblueten.de/product/tilray-thc-18-spotlight-porto-pk"
           }
         ]
       },
@@ -166,11 +166,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Tilray THC 18 Spotlight Porto PK",
+        "url": "https://cannabisblueten.de/product/tilray-thc-18-spotlight-porto-pk",
         "brand": {
           "@type": "Brand",
           "name": "Tilray"
         },
-        "description": "THC: 18%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 18%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/tilray-thc-18-spotlight-porto-pk",
+          "priceCurrency": "EUR",
+          "price": "2.99",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "2.99",
+            "maxPrice": "12.45",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

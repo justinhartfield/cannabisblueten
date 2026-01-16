@@ -120,7 +120,7 @@
     "meta": {
       "title": "Remexian 30/1 MTL FRF - Remexian Pharma | ab 5,94 €",
       "description": "Remexian 30/1 MTL FRF von Remexian Pharma. THC: 30%, CBD: 1%. Sorte: Frosted Flakes. Preis ab 5,94 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/remexian-31-mtl-frf",
+      "canonical": "https://cannabisblueten.de/product/remexian-31-mtl-frf",
       "robots": {
         "index": true,
         "follow": true
@@ -128,28 +128,28 @@
       "openGraph": {
         "title": "Remexian 30/1 MTL FRF - Remexian Pharma | ab 5,94 €",
         "description": "Remexian 30/1 MTL FRF von Remexian Pharma. THC: 30%, CBD: 1%. Sorte: Frosted Flakes. Preis ab 5,94 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/remexian-31-mtl-frf",
+        "url": "https://cannabisblueten.de/product/remexian-31-mtl-frf",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Remexian Pharma",
-        "href": "https://weed.de/brand/remexian-pharma"
+        "href": "https://cannabisblueten.de/brand/remexian-pharma"
       },
       {
         "name": "Remexian 30/1 MTL FRF",
-        "href": "https://weed.de/product/remexian-31-mtl-frf"
+        "href": "https://cannabisblueten.de/product/remexian-31-mtl-frf"
       }
     ],
     "schema": [
@@ -161,19 +161,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Remexian 30/1 MTL FRF",
-            "item": "https://weed.de/product/remexian-31-mtl-frf"
+            "item": "https://cannabisblueten.de/product/remexian-31-mtl-frf"
           }
         ]
       },
@@ -181,11 +181,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Remexian 30/1 MTL FRF",
+        "url": "https://cannabisblueten.de/product/remexian-31-mtl-frf",
         "brand": {
           "@type": "Brand",
           "name": "Remexian Pharma"
         },
-        "description": "THC: 30%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 30%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/remexian-31-mtl-frf",
+          "priceCurrency": "EUR",
+          "price": "5.94",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "5.94",
+            "maxPrice": "8.39",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

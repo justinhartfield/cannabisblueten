@@ -65,7 +65,7 @@
     "meta": {
       "title": "Apotheke an den 3 Hasen - Cannabis Apotheke in Oberursel (Taunus)",
       "description": "Apotheke an den 3 Hasen in Oberursel (Taunus). 19 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/apotheke-an-den-3-hasen",
+      "canonical": "https://cannabisblueten.de/apotheke/apotheke-an-den-3-hasen",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Apotheke an den 3 Hasen - Cannabis Apotheke in Oberursel (Taunus)",
         "description": "Apotheke an den 3 Hasen in Oberursel (Taunus). 19 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/apotheke-an-den-3-hasen",
+        "url": "https://cannabisblueten.de/apotheke/apotheke-an-den-3-hasen",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/6953ff2e29eb6c8615d494cd-b4cbgg.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Oberursel (Taunus)",
-        "href": "https://weed.de/cannabis-apotheke/oberursel-taunus"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/oberursel-taunus"
       },
       {
         "name": "Apotheke an den 3 Hasen",
-        "href": "https://weed.de/apotheke/apotheke-an-den-3-hasen"
+        "href": "https://cannabisblueten.de/apotheke/apotheke-an-den-3-hasen"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Oberursel (Taunus)",
-            "item": "https://weed.de/cannabis-apotheke/oberursel-taunus"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/oberursel-taunus"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Apotheke an den 3 Hasen",
-            "item": "https://weed.de/apotheke/apotheke-an-den-3-hasen"
+            "item": "https://cannabisblueten.de/apotheke/apotheke-an-den-3-hasen"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Apotheke an den 3 Hasen",
-        "url": "https://weed.de/apotheke/apotheke-an-den-3-hasen",
+        "url": "https://cannabisblueten.de/apotheke/apotheke-an-den-3-hasen",
+        "description": "Cannabis Apotheke in Oberursel (Taunus). 19 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "An den Drei Hasen 12",
@@ -142,8 +143,30 @@
           "addressRegion": "Hessen",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 50.20416909999999,
+          "longitude": 8.5955008
+        },
         "telephone": "06171286960",
-        "email": "shop@m-cannabis.de"
+        "email": "shop@m-cannabis.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ]
       }
     ]
   },

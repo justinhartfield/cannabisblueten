@@ -115,7 +115,7 @@
     "meta": {
       "title": "VOP 23/1 Marios Selection - YouCann GmbH | ab 5,99 €",
       "description": "VOP 23/1 Marios Selection von YouCann GmbH. THC: 23%, CBD: 1%. Sorte: Lemonatti. Preis ab 5,99 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/vop-231-marios-selection",
+      "canonical": "https://cannabisblueten.de/product/vop-231-marios-selection",
       "robots": {
         "index": true,
         "follow": true
@@ -123,9 +123,9 @@
       "openGraph": {
         "title": "VOP 23/1 Marios Selection - YouCann GmbH | ab 5,99 €",
         "description": "VOP 23/1 Marios Selection von YouCann GmbH. THC: 23%, CBD: 1%. Sorte: Lemonatti. Preis ab 5,99 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/vop-231-marios-selection",
+        "url": "https://cannabisblueten.de/product/vop-231-marios-selection",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/vop-231-marios-selection-da676c.png"
       }
@@ -133,19 +133,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "YouCann GmbH",
-        "href": "https://weed.de/brand/youcann-gmbh"
+        "href": "https://cannabisblueten.de/brand/youcann-gmbh"
       },
       {
         "name": "VOP 23/1 Marios Selection",
-        "href": "https://weed.de/product/vop-231-marios-selection"
+        "href": "https://cannabisblueten.de/product/vop-231-marios-selection"
       }
     ],
     "schema": [
@@ -157,19 +157,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "VOP 23/1 Marios Selection",
-            "item": "https://weed.de/product/vop-231-marios-selection"
+            "item": "https://cannabisblueten.de/product/vop-231-marios-selection"
           }
         ]
       },
@@ -177,11 +177,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "VOP 23/1 Marios Selection",
+        "url": "https://cannabisblueten.de/product/vop-231-marios-selection",
         "brand": {
           "@type": "Brand",
           "name": "YouCann GmbH"
         },
-        "description": "THC: 23%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 23%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/vop-231-marios-selection",
+          "priceCurrency": "EUR",
+          "price": "5.99",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "5.99",
+            "maxPrice": "6.50",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

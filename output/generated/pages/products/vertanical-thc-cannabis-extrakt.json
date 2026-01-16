@@ -78,7 +78,7 @@
     "meta": {
       "title": "Vertanical THC Cannabis Extrakt | ab 20,58 €",
       "description": "Vertanical THC Cannabis Extrakt von Vertanical. THC: 5%, CBD: 0.1%. Preis ab 20,58 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/vertanical-thc-cannabis-extrakt",
+      "canonical": "https://cannabisblueten.de/product/vertanical-thc-cannabis-extrakt",
       "robots": {
         "index": true,
         "follow": true
@@ -86,28 +86,28 @@
       "openGraph": {
         "title": "Vertanical THC Cannabis Extrakt | ab 20,58 €",
         "description": "Vertanical THC Cannabis Extrakt von Vertanical. THC: 5%, CBD: 0.1%. Preis ab 20,58 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/vertanical-thc-cannabis-extrakt",
+        "url": "https://cannabisblueten.de/product/vertanical-thc-cannabis-extrakt",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Vertanical",
-        "href": "https://weed.de/brand/vertanical"
+        "href": "https://cannabisblueten.de/brand/vertanical"
       },
       {
         "name": "Vertanical THC Cannabis Extrakt",
-        "href": "https://weed.de/product/vertanical-thc-cannabis-extrakt"
+        "href": "https://cannabisblueten.de/product/vertanical-thc-cannabis-extrakt"
       }
     ],
     "schema": [
@@ -119,19 +119,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Vertanical THC Cannabis Extrakt",
-            "item": "https://weed.de/product/vertanical-thc-cannabis-extrakt"
+            "item": "https://cannabisblueten.de/product/vertanical-thc-cannabis-extrakt"
           }
         ]
       },
@@ -139,11 +139,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Vertanical THC Cannabis Extrakt",
+        "url": "https://cannabisblueten.de/product/vertanical-thc-cannabis-extrakt",
         "brand": {
           "@type": "Brand",
           "name": "Vertanical"
         },
-        "description": "THC: 5%, CBD: 0.1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 5%, CBD: 0.1%, Genetik: sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/vertanical-thc-cannabis-extrakt",
+          "priceCurrency": "EUR",
+          "price": "20.58",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "20.58",
+            "maxPrice": "27.00",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

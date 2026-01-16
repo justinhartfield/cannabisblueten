@@ -6,11 +6,21 @@
  */
 
 import type { Metadata } from 'next';
+import { Manrope } from 'next/font/google';
 import Script from 'next/script';
 import './globals.css';
 import { Navigation } from '@/components/Navigation';
 import { Footer } from '@/components/Footer';
 import { NoiseOverlay } from '@/components/NoiseOverlay';
+
+// Optimize font loading with next/font
+// Only load essential weights for better performance
+const manrope = Manrope({
+  subsets: ['latin'],
+  weight: ['400', '500', '600', '700'],
+  display: 'swap',
+  variable: '--font-manrope',
+});
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://cannabisblueten.de'),
@@ -37,6 +47,18 @@ export const metadata: Metadata = {
     type: 'website',
     locale: 'de_DE',
     siteName: 'CannabisBlueten.de',
+    images: [
+      {
+        url: '/og-default.png',
+        width: 1200,
+        height: 630,
+        alt: 'CannabisBlueten.de - Medizinisches Cannabis Deutschland',
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    images: ['/og-default.png'],
   },
 };
 
@@ -46,20 +68,12 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="de" className="scroll-smooth">
+    <html lang="de" className={`scroll-smooth ${manrope.variable}`}>
       <head>
-        {/* Preconnect to Google Fonts */}
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
-        {/* Manrope Font */}
-        <link
-          href="https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap"
-          rel="stylesheet"
-        />
         <link rel="icon" href="/favicon.ico" sizes="any" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </head>
-      <body className="min-h-screen flex flex-col font-sans">
+      <body className={`min-h-screen flex flex-col ${manrope.className}`}>
         {/* Noise Overlay */}
         <NoiseOverlay />
 
@@ -72,11 +86,10 @@ export default function RootLayout({
         {/* Footer */}
         <Footer />
 
-        {/* Alpine.js - Loaded at the end for interactivity */}
+        {/* Alpine.js - Loaded after page becomes interactive */}
         <Script
           src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"
-          strategy="beforeInteractive"
-          defer
+          strategy="afterInteractive"
         />
       </body>
     </html>

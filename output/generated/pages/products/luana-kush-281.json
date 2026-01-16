@@ -102,7 +102,7 @@
     "meta": {
       "title": "Luana Kush 28/1 - Cannamedical | ab 5,29 €",
       "description": "Luana Kush 28/1 von Cannamedical. THC: 28%, CBD: 1%. Sorte: Hippie Kush. Preis ab 5,29 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/luana-kush-281",
+      "canonical": "https://cannabisblueten.de/product/luana-kush-281",
       "robots": {
         "index": true,
         "follow": true
@@ -110,28 +110,28 @@
       "openGraph": {
         "title": "Luana Kush 28/1 - Cannamedical | ab 5,29 €",
         "description": "Luana Kush 28/1 von Cannamedical. THC: 28%, CBD: 1%. Sorte: Hippie Kush. Preis ab 5,29 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/luana-kush-281",
+        "url": "https://cannabisblueten.de/product/luana-kush-281",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cannamedical",
-        "href": "https://weed.de/brand/cannamedical"
+        "href": "https://cannabisblueten.de/brand/cannamedical"
       },
       {
         "name": "Luana Kush 28/1",
-        "href": "https://weed.de/product/luana-kush-281"
+        "href": "https://cannabisblueten.de/product/luana-kush-281"
       }
     ],
     "schema": [
@@ -143,19 +143,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Luana Kush 28/1",
-            "item": "https://weed.de/product/luana-kush-281"
+            "item": "https://cannabisblueten.de/product/luana-kush-281"
           }
         ]
       },
@@ -163,11 +163,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Luana Kush 28/1",
+        "url": "https://cannabisblueten.de/product/luana-kush-281",
         "brand": {
           "@type": "Brand",
           "name": "Cannamedical"
         },
-        "description": "THC: 28%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 28%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/luana-kush-281",
+          "priceCurrency": "EUR",
+          "price": "5.29",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "5.29",
+            "maxPrice": "6.99",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

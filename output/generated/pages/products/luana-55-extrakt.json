@@ -29,7 +29,7 @@
     "meta": {
       "title": "Luana 50:50 Extrakt - Cannamedical | ab 4,53 €",
       "description": "Luana 50:50 Extrakt von Cannamedical. THC: 50%, CBD: 50%. Preis ab 4,53 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/luana-55-extrakt",
+      "canonical": "https://cannabisblueten.de/product/luana-55-extrakt",
       "robots": {
         "index": true,
         "follow": true
@@ -37,9 +37,9 @@
       "openGraph": {
         "title": "Luana 50:50 Extrakt - Cannamedical | ab 4,53 €",
         "description": "Luana 50:50 Extrakt von Cannamedical. THC: 50%, CBD: 50%. Preis ab 4,53 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/luana-55-extrakt",
+        "url": "https://cannabisblueten.de/product/luana-55-extrakt",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/luana-55-extrakt-aif4ag.jpeg"
       }
@@ -47,19 +47,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cannamedical",
-        "href": "https://weed.de/brand/cannamedical"
+        "href": "https://cannabisblueten.de/brand/cannamedical"
       },
       {
         "name": "Luana 50:50 Extrakt",
-        "href": "https://weed.de/product/luana-55-extrakt"
+        "href": "https://cannabisblueten.de/product/luana-55-extrakt"
       }
     ],
     "schema": [
@@ -71,19 +71,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Luana 50:50 Extrakt",
-            "item": "https://weed.de/product/luana-55-extrakt"
+            "item": "https://cannabisblueten.de/product/luana-55-extrakt"
           }
         ]
       },
@@ -91,11 +91,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Luana 50:50 Extrakt",
+        "url": "https://cannabisblueten.de/product/luana-55-extrakt",
         "brand": {
           "@type": "Brand",
           "name": "Cannamedical"
         },
-        "description": "THC: 50%, CBD: 50%"
+        "description": "Medizinisches Cannabis Produkt. THC: 50%, CBD: 50%",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/luana-55-extrakt",
+          "priceCurrency": "EUR",
+          "price": "4.53",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.53",
+            "maxPrice": "5.99",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

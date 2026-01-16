@@ -119,7 +119,7 @@
     "meta": {
       "title": "Blackbird Hybrid Intense - Cantourage | ab 6,99 €",
       "description": "Blackbird Hybrid Intense von Cantourage. THC: 25%, CBD: 1%. Sorte: Wedding Crasher. Preis ab 6,99 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/blackbird-hybrid-intense",
+      "canonical": "https://cannabisblueten.de/product/blackbird-hybrid-intense",
       "robots": {
         "index": true,
         "follow": true
@@ -127,9 +127,9 @@
       "openGraph": {
         "title": "Blackbird Hybrid Intense - Cantourage | ab 6,99 €",
         "description": "Blackbird Hybrid Intense von Cantourage. THC: 25%, CBD: 1%. Sorte: Wedding Crasher. Preis ab 6,99 €. Preise vergleichen.",
-        "url": "https://weed.de/product/blackbird-hybrid-intense",
+        "url": "https://cannabisblueten.de/product/blackbird-hybrid-intense",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/blackbird-hybrid-intense-d467h2.png"
       }
@@ -137,19 +137,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cantourage",
-        "href": "https://weed.de/brand/cantourage"
+        "href": "https://cannabisblueten.de/brand/cantourage"
       },
       {
         "name": "Blackbird Hybrid Intense",
-        "href": "https://weed.de/product/blackbird-hybrid-intense"
+        "href": "https://cannabisblueten.de/product/blackbird-hybrid-intense"
       }
     ],
     "schema": [
@@ -161,19 +161,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Blackbird Hybrid Intense",
-            "item": "https://weed.de/product/blackbird-hybrid-intense"
+            "item": "https://cannabisblueten.de/product/blackbird-hybrid-intense"
           }
         ]
       },
@@ -181,11 +181,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Blackbird Hybrid Intense",
+        "url": "https://cannabisblueten.de/product/blackbird-hybrid-intense",
         "brand": {
           "@type": "Brand",
           "name": "Cantourage"
         },
-        "description": "THC: 25%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 25%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/blackbird-hybrid-intense",
+          "priceCurrency": "EUR",
+          "price": "6.99",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

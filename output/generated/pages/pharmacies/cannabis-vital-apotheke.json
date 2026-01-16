@@ -65,7 +65,7 @@
     "meta": {
       "title": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim) - Cannabis Apotheke in Hattersheim am Main",
       "description": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim) in Hattersheim am Main. 188 Cannabis Produkte. Lieferung & Abholung. Bewertung: 4.6/5. Jetzt P...",
-      "canonical": "https://weed.de/apotheke/cannabis-vital-apotheke",
+      "canonical": "https://cannabisblueten.de/apotheke/cannabis-vital-apotheke",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim) - Cannabis Apotheke in Hattersheim am Main",
         "description": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim) in Hattersheim am Main. 188 Cannabis Produkte. Lieferung & Abholung. Bewertung: 4.6/5. Jetzt P...",
-        "url": "https://weed.de/apotheke/cannabis-vital-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/cannabis-vital-apotheke",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/67730f61b31b9da9c1101fff-d7i7a5.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Hattersheim am Main",
-        "href": "https://weed.de/cannabis-apotheke/hattersheim-am-main"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/hattersheim-am-main"
       },
       {
         "name": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
-        "href": "https://weed.de/apotheke/cannabis-vital-apotheke"
+        "href": "https://cannabisblueten.de/apotheke/cannabis-vital-apotheke"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Hattersheim am Main",
-            "item": "https://weed.de/cannabis-apotheke/hattersheim-am-main"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/hattersheim-am-main"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
-            "item": "https://weed.de/apotheke/cannabis-vital-apotheke"
+            "item": "https://cannabisblueten.de/apotheke/cannabis-vital-apotheke"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Cannabis Vital Apotheke (Rosen Apotheke im Center Hattersheim)",
-        "url": "https://weed.de/apotheke/cannabis-vital-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/cannabis-vital-apotheke",
+        "description": "Cannabis Apotheke in Hattersheim am Main. 188 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Untertorstraße 13",
@@ -142,8 +143,36 @@
           "addressRegion": "Hessen",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 50.06652,
+          "longitude": 8.49123
+        },
         "telephone": "061909753292",
-        "email": "info@cannabisvitalapotheke.de"
+        "email": "info@cannabisvitalapotheke.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
       }
     ]
   },

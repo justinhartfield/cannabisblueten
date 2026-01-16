@@ -132,7 +132,7 @@
     "meta": {
       "title": "Cannamedical Sativa forte  NM CL | ab 9,99 €",
       "description": "Cannamedical Sativa forte  NM CL von Cannamedical. THC: 24%, CBD: 1%. Sorte: Candyland. Preis ab 9,99 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/cannamedical-sativa-forte-nm",
+      "canonical": "https://cannabisblueten.de/product/cannamedical-sativa-forte-nm",
       "robots": {
         "index": true,
         "follow": true
@@ -140,9 +140,9 @@
       "openGraph": {
         "title": "Cannamedical Sativa forte  NM CL | ab 9,99 €",
         "description": "Cannamedical Sativa forte  NM CL von Cannamedical. THC: 24%, CBD: 1%. Sorte: Candyland. Preis ab 9,99 €. Preise vergleichen.",
-        "url": "https://weed.de/product/cannamedical-sativa-forte-nm",
+        "url": "https://cannabisblueten.de/product/cannamedical-sativa-forte-nm",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/cannamedical-sativa-forte-nm-aeff25.png"
       }
@@ -150,19 +150,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cannamedical",
-        "href": "https://weed.de/brand/cannamedical"
+        "href": "https://cannabisblueten.de/brand/cannamedical"
       },
       {
         "name": "Cannamedical Sativa forte  NM CL",
-        "href": "https://weed.de/product/cannamedical-sativa-forte-nm"
+        "href": "https://cannabisblueten.de/product/cannamedical-sativa-forte-nm"
       }
     ],
     "schema": [
@@ -174,19 +174,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Cannamedical Sativa forte  NM CL",
-            "item": "https://weed.de/product/cannamedical-sativa-forte-nm"
+            "item": "https://cannabisblueten.de/product/cannamedical-sativa-forte-nm"
           }
         ]
       },
@@ -194,12 +194,23 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Cannamedical Sativa forte  NM CL",
+        "url": "https://cannabisblueten.de/product/cannamedical-sativa-forte-nm",
         "brand": {
           "@type": "Brand",
           "name": "Cannamedical"
         },
         "gtin13": [],
-        "description": "THC: 24%, CBD: 1%"
+        "sku": [],
+        "description": "Medizinisches Cannabis Produkt. THC: 24%, CBD: 1%, Genetik: sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/cannamedical-sativa-forte-nm",
+          "priceCurrency": "EUR",
+          "price": "9.99",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

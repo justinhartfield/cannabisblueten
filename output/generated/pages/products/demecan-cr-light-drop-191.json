@@ -102,7 +102,7 @@
     "meta": {
       "title": "Demecan CR Light Drop 19:1 | ab 3,57 €",
       "description": "Demecan CR Light Drop 19:1 von Demecan. THC: 19%, CBD: 1%. Sorte: White Fondant. Preis ab 3,57 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/demecan-cr-light-drop-191",
+      "canonical": "https://cannabisblueten.de/product/demecan-cr-light-drop-191",
       "robots": {
         "index": true,
         "follow": true
@@ -110,9 +110,9 @@
       "openGraph": {
         "title": "Demecan CR Light Drop 19:1 | ab 3,57 €",
         "description": "Demecan CR Light Drop 19:1 von Demecan. THC: 19%, CBD: 1%. Sorte: White Fondant. Preis ab 3,57 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/demecan-cr-light-drop-191",
+        "url": "https://cannabisblueten.de/product/demecan-cr-light-drop-191",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/demecan-cr-light-drop-191-hh7h3g.png"
       }
@@ -120,19 +120,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Demecan",
-        "href": "https://weed.de/brand/demecan"
+        "href": "https://cannabisblueten.de/brand/demecan"
       },
       {
         "name": "Demecan CR Light Drop 19:1",
-        "href": "https://weed.de/product/demecan-cr-light-drop-191"
+        "href": "https://cannabisblueten.de/product/demecan-cr-light-drop-191"
       }
     ],
     "schema": [
@@ -144,19 +144,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Demecan CR Light Drop 19:1",
-            "item": "https://weed.de/product/demecan-cr-light-drop-191"
+            "item": "https://cannabisblueten.de/product/demecan-cr-light-drop-191"
           }
         ]
       },
@@ -164,11 +164,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Demecan CR Light Drop 19:1",
+        "url": "https://cannabisblueten.de/product/demecan-cr-light-drop-191",
         "brand": {
           "@type": "Brand",
           "name": "Demecan"
         },
-        "description": "THC: 19%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 19%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/demecan-cr-light-drop-191",
+          "priceCurrency": "EUR",
+          "price": "3.57",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

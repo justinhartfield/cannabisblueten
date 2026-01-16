@@ -65,7 +65,7 @@
     "meta": {
       "title": "1A Apoweed - Cannabis Apotheke in Bochum",
       "description": "1A Apoweed in Bochum. 64 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/1a-apoweed",
+      "canonical": "https://cannabisblueten.de/apotheke/1a-apoweed",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "1A Apoweed - Cannabis Apotheke in Bochum",
         "description": "1A Apoweed in Bochum. 64 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/1a-apoweed",
+        "url": "https://cannabisblueten.de/apotheke/1a-apoweed",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/693a9a5cf5544fcc4ce86159-2gf900.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Bochum",
-        "href": "https://weed.de/cannabis-apotheke/bochum"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/bochum"
       },
       {
         "name": "1A Apoweed",
-        "href": "https://weed.de/apotheke/1a-apoweed"
+        "href": "https://cannabisblueten.de/apotheke/1a-apoweed"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Bochum",
-            "item": "https://weed.de/cannabis-apotheke/bochum"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/bochum"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "1A Apoweed",
-            "item": "https://weed.de/apotheke/1a-apoweed"
+            "item": "https://cannabisblueten.de/apotheke/1a-apoweed"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "1A Apoweed",
-        "url": "https://weed.de/apotheke/1a-apoweed",
+        "url": "https://cannabisblueten.de/apotheke/1a-apoweed",
+        "description": "Cannabis Apotheke in Bochum. 64 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Herner Straße 349",
@@ -142,8 +143,36 @@
           "addressRegion": "Nordrhein-Westfalen",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 51.5088716,
+          "longitude": 7.210687999999999
+        },
         "telephone": "0234538657",
-        "email": "info@1apoweed.de"
+        "email": "info@1apoweed.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5.0",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
       }
     ]
   },

@@ -65,7 +65,7 @@
     "meta": {
       "title": "Apotheke am Rathaus Lichtenberg - Cannabis Apotheke in Berlin",
       "description": "Apotheke am Rathaus Lichtenberg in Berlin. 4 Cannabis Produkte. Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/apotheke-am-rathaus-lichtenberg",
+      "canonical": "https://cannabisblueten.de/apotheke/apotheke-am-rathaus-lichtenberg",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Apotheke am Rathaus Lichtenberg - Cannabis Apotheke in Berlin",
         "description": "Apotheke am Rathaus Lichtenberg in Berlin. 4 Cannabis Produkte. Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/apotheke-am-rathaus-lichtenberg",
+        "url": "https://cannabisblueten.de/apotheke/apotheke-am-rathaus-lichtenberg",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/68ff4a8e55496c85b50892cf-f24555.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Berlin",
-        "href": "https://weed.de/cannabis-apotheke/berlin"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/berlin"
       },
       {
         "name": "Apotheke am Rathaus Lichtenberg",
-        "href": "https://weed.de/apotheke/apotheke-am-rathaus-lichtenberg"
+        "href": "https://cannabisblueten.de/apotheke/apotheke-am-rathaus-lichtenberg"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Berlin",
-            "item": "https://weed.de/cannabis-apotheke/berlin"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/berlin"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Apotheke am Rathaus Lichtenberg",
-            "item": "https://weed.de/apotheke/apotheke-am-rathaus-lichtenberg"
+            "item": "https://cannabisblueten.de/apotheke/apotheke-am-rathaus-lichtenberg"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Apotheke am Rathaus Lichtenberg",
-        "url": "https://weed.de/apotheke/apotheke-am-rathaus-lichtenberg",
+        "url": "https://cannabisblueten.de/apotheke/apotheke-am-rathaus-lichtenberg",
+        "description": "Cannabis Apotheke in Berlin. 4 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Möllendorffstraße 111",
@@ -142,8 +143,30 @@
           "addressRegion": "Berlin",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 52.5161755,
+          "longitude": 13.4787077
+        },
         "telephone": "0305594768",
-        "email": "apothekelichtenberg@t-online.de"
+        "email": "apothekelichtenberg@t-online.de",
+        "sameAs": "https://www.apo-am-rathaus-lichtenberg.de/",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5.0",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
       }
     ]
   },

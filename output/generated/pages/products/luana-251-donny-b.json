@@ -101,7 +101,7 @@
     "meta": {
       "title": "Luana 25/1 Donny B - Cannamedical | ab 4,40 €",
       "description": "Luana 25/1 Donny B von Cannamedical. THC: 25%, CBD: 1%. Sorte: Bunatic. Preis ab 4,40 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/luana-251-donny-b",
+      "canonical": "https://cannabisblueten.de/product/luana-251-donny-b",
       "robots": {
         "index": true,
         "follow": true
@@ -109,9 +109,9 @@
       "openGraph": {
         "title": "Luana 25/1 Donny B - Cannamedical | ab 4,40 €",
         "description": "Luana 25/1 Donny B von Cannamedical. THC: 25%, CBD: 1%. Sorte: Bunatic. Preis ab 4,40 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/luana-251-donny-b",
+        "url": "https://cannabisblueten.de/product/luana-251-donny-b",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/luana-251-donny-b-e6ggah.png"
       }
@@ -119,19 +119,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cannamedical",
-        "href": "https://weed.de/brand/cannamedical"
+        "href": "https://cannabisblueten.de/brand/cannamedical"
       },
       {
         "name": "Luana 25/1 Donny B",
-        "href": "https://weed.de/product/luana-251-donny-b"
+        "href": "https://cannabisblueten.de/product/luana-251-donny-b"
       }
     ],
     "schema": [
@@ -143,19 +143,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Luana 25/1 Donny B",
-            "item": "https://weed.de/product/luana-251-donny-b"
+            "item": "https://cannabisblueten.de/product/luana-251-donny-b"
           }
         ]
       },
@@ -163,11 +163,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Luana 25/1 Donny B",
+        "url": "https://cannabisblueten.de/product/luana-251-donny-b",
         "brand": {
           "@type": "Brand",
           "name": "Cannamedical"
         },
-        "description": "THC: 25%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 25%, CBD: 1%, Genetik: indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/luana-251-donny-b",
+          "priceCurrency": "EUR",
+          "price": "4.40",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.40",
+            "maxPrice": "6.50",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

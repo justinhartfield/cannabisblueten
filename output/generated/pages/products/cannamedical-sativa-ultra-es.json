@@ -104,7 +104,7 @@
     "meta": {
       "title": "Cannamedical Sativa ultra ES | ab 5,98 €",
       "description": "Cannamedical Sativa ultra ES von Cannamedical. THC: 31%, CBD: 1%. Sorte: Nova. Preis ab 5,98 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/cannamedical-sativa-ultra-es",
+      "canonical": "https://cannabisblueten.de/product/cannamedical-sativa-ultra-es",
       "robots": {
         "index": true,
         "follow": true
@@ -112,9 +112,9 @@
       "openGraph": {
         "title": "Cannamedical Sativa ultra ES | ab 5,98 €",
         "description": "Cannamedical Sativa ultra ES von Cannamedical. THC: 31%, CBD: 1%. Sorte: Nova. Preis ab 5,98 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/cannamedical-sativa-ultra-es",
+        "url": "https://cannabisblueten.de/product/cannamedical-sativa-ultra-es",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/cannamedical-sativa-ultra-es-6ch67e.png"
       }
@@ -122,19 +122,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cannamedical",
-        "href": "https://weed.de/brand/cannamedical"
+        "href": "https://cannabisblueten.de/brand/cannamedical"
       },
       {
         "name": "Cannamedical Sativa ultra ES",
-        "href": "https://weed.de/product/cannamedical-sativa-ultra-es"
+        "href": "https://cannabisblueten.de/product/cannamedical-sativa-ultra-es"
       }
     ],
     "schema": [
@@ -146,19 +146,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Cannamedical Sativa ultra ES",
-            "item": "https://weed.de/product/cannamedical-sativa-ultra-es"
+            "item": "https://cannabisblueten.de/product/cannamedical-sativa-ultra-es"
           }
         ]
       },
@@ -166,11 +166,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Cannamedical Sativa ultra ES",
+        "url": "https://cannabisblueten.de/product/cannamedical-sativa-ultra-es",
         "brand": {
           "@type": "Brand",
           "name": "Cannamedical"
         },
-        "description": "THC: 31%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 31%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/cannamedical-sativa-ultra-es",
+          "priceCurrency": "EUR",
+          "price": "5.98",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "5.98",
+            "maxPrice": "9.52",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

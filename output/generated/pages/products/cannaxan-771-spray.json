@@ -104,7 +104,7 @@
     "meta": {
       "title": "Cannaxan 771 Spray - CannaXan | ab 14,43 €",
       "description": "Cannaxan 771 Spray von CannaXan. THC: 6.7%, CBD: 0.1%. Sorte: Jack Herer. Preis ab 14,43 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/cannaxan-771-spray",
+      "canonical": "https://cannabisblueten.de/product/cannaxan-771-spray",
       "robots": {
         "index": true,
         "follow": true
@@ -112,28 +112,28 @@
       "openGraph": {
         "title": "Cannaxan 771 Spray - CannaXan | ab 14,43 €",
         "description": "Cannaxan 771 Spray von CannaXan. THC: 6.7%, CBD: 0.1%. Sorte: Jack Herer. Preis ab 14,43 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/cannaxan-771-spray",
+        "url": "https://cannabisblueten.de/product/cannaxan-771-spray",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "CannaXan",
-        "href": "https://weed.de/brand/cannaxan"
+        "href": "https://cannabisblueten.de/brand/cannaxan"
       },
       {
         "name": "Cannaxan 771 Spray",
-        "href": "https://weed.de/product/cannaxan-771-spray"
+        "href": "https://cannabisblueten.de/product/cannaxan-771-spray"
       }
     ],
     "schema": [
@@ -145,19 +145,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Cannaxan 771 Spray",
-            "item": "https://weed.de/product/cannaxan-771-spray"
+            "item": "https://cannabisblueten.de/product/cannaxan-771-spray"
           }
         ]
       },
@@ -165,11 +165,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Cannaxan 771 Spray",
+        "url": "https://cannabisblueten.de/product/cannaxan-771-spray",
         "brand": {
           "@type": "Brand",
           "name": "CannaXan"
         },
-        "description": "THC: 6.7%, CBD: 0.1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 6.7%, CBD: 0.1%, Genetik: sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/cannaxan-771-spray",
+          "priceCurrency": "EUR",
+          "price": "14.43",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "14.43",
+            "maxPrice": "15.00",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

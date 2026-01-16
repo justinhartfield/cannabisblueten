@@ -103,7 +103,7 @@
     "meta": {
       "title": "Demecan Typ 2 | ab 5,33 €",
       "description": "Demecan Typ 2 von Demecan. THC: 16%, CBD: 1%. Sorte: Orange Velvet. Preis ab 5,33 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/demecan-typ-2",
+      "canonical": "https://cannabisblueten.de/product/demecan-typ-2",
       "robots": {
         "index": true,
         "follow": true
@@ -111,9 +111,9 @@
       "openGraph": {
         "title": "Demecan Typ 2 | ab 5,33 €",
         "description": "Demecan Typ 2 von Demecan. THC: 16%, CBD: 1%. Sorte: Orange Velvet. Preis ab 5,33 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/demecan-typ-2",
+        "url": "https://cannabisblueten.de/product/demecan-typ-2",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/products/demecan-typ-2-gia9ej.png"
       }
@@ -121,19 +121,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Demecan",
-        "href": "https://weed.de/brand/demecan"
+        "href": "https://cannabisblueten.de/brand/demecan"
       },
       {
         "name": "Demecan Typ 2",
-        "href": "https://weed.de/product/demecan-typ-2"
+        "href": "https://cannabisblueten.de/product/demecan-typ-2"
       }
     ],
     "schema": [
@@ -145,19 +145,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Demecan Typ 2",
-            "item": "https://weed.de/product/demecan-typ-2"
+            "item": "https://cannabisblueten.de/product/demecan-typ-2"
           }
         ]
       },
@@ -165,11 +165,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Demecan Typ 2",
+        "url": "https://cannabisblueten.de/product/demecan-typ-2",
         "brand": {
           "@type": "Brand",
           "name": "Demecan"
         },
-        "description": "THC: 16%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 16%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/demecan-typ-2",
+          "priceCurrency": "EUR",
+          "price": "5.33",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "5.33",
+            "maxPrice": "7.95",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

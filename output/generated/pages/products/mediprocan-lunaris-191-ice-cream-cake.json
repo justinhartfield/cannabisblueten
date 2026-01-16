@@ -116,7 +116,7 @@
     "meta": {
       "title": "mediproCan Lunaris 19/1 Ice Cream Cake | ab 4,49 €",
       "description": "mediproCan Lunaris 19/1 Ice Cream Cake von mediproCan. THC: 19%, CBD: 1%. Sorte: Ice Cream Cake. Preis ab 4,49 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/mediprocan-lunaris-191-ice-cream-cake",
+      "canonical": "https://cannabisblueten.de/product/mediprocan-lunaris-191-ice-cream-cake",
       "robots": {
         "index": true,
         "follow": true
@@ -124,28 +124,28 @@
       "openGraph": {
         "title": "mediproCan Lunaris 19/1 Ice Cream Cake | ab 4,49 €",
         "description": "mediproCan Lunaris 19/1 Ice Cream Cake von mediproCan. THC: 19%, CBD: 1%. Sorte: Ice Cream Cake. Preis ab 4,49 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/mediprocan-lunaris-191-ice-cream-cake",
+        "url": "https://cannabisblueten.de/product/mediprocan-lunaris-191-ice-cream-cake",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "mediproCan",
-        "href": "https://weed.de/brand/mediprocan"
+        "href": "https://cannabisblueten.de/brand/mediprocan"
       },
       {
         "name": "mediproCan Lunaris 19/1 Ice Cream Cake",
-        "href": "https://weed.de/product/mediprocan-lunaris-191-ice-cream-cake"
+        "href": "https://cannabisblueten.de/product/mediprocan-lunaris-191-ice-cream-cake"
       }
     ],
     "schema": [
@@ -157,19 +157,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "mediproCan Lunaris 19/1 Ice Cream Cake",
-            "item": "https://weed.de/product/mediprocan-lunaris-191-ice-cream-cake"
+            "item": "https://cannabisblueten.de/product/mediprocan-lunaris-191-ice-cream-cake"
           }
         ]
       },
@@ -177,11 +177,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "mediproCan Lunaris 19/1 Ice Cream Cake",
+        "url": "https://cannabisblueten.de/product/mediprocan-lunaris-191-ice-cream-cake",
         "brand": {
           "@type": "Brand",
           "name": "mediproCan"
         },
-        "description": "THC: 19%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 19%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/mediprocan-lunaris-191-ice-cream-cake",
+          "priceCurrency": "EUR",
+          "price": "4.49",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.49",
+            "maxPrice": "6.60",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

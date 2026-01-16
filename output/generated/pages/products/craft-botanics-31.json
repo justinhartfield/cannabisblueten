@@ -120,7 +120,7 @@
     "meta": {
       "title": "Craft Botanics 30/1 - Montu Group | ab 9,00 €",
       "description": "Craft Botanics 30/1 von Montu Group. THC: 27%, CBD: 1%. Sorte: White Runtz. Preis ab 9,00 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/craft-botanics-31",
+      "canonical": "https://cannabisblueten.de/product/craft-botanics-31",
       "robots": {
         "index": true,
         "follow": true
@@ -128,9 +128,9 @@
       "openGraph": {
         "title": "Craft Botanics 30/1 - Montu Group | ab 9,00 €",
         "description": "Craft Botanics 30/1 von Montu Group. THC: 27%, CBD: 1%. Sorte: White Runtz. Preis ab 9,00 €. Preise vergleichen.",
-        "url": "https://weed.de/product/craft-botanics-31",
+        "url": "https://cannabisblueten.de/product/craft-botanics-31",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/craft-botanics-31-eag6ag.webp"
       }
@@ -138,19 +138,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Montu Group",
-        "href": "https://weed.de/brand/montu-group"
+        "href": "https://cannabisblueten.de/brand/montu-group"
       },
       {
         "name": "Craft Botanics 30/1",
-        "href": "https://weed.de/product/craft-botanics-31"
+        "href": "https://cannabisblueten.de/product/craft-botanics-31"
       }
     ],
     "schema": [
@@ -162,19 +162,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Craft Botanics 30/1",
-            "item": "https://weed.de/product/craft-botanics-31"
+            "item": "https://cannabisblueten.de/product/craft-botanics-31"
           }
         ]
       },
@@ -182,11 +182,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Craft Botanics 30/1",
+        "url": "https://cannabisblueten.de/product/craft-botanics-31",
         "brand": {
           "@type": "Brand",
           "name": "Montu Group"
         },
-        "description": "THC: 27%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 27%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/craft-botanics-31",
+          "priceCurrency": "EUR",
+          "price": "9.00",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

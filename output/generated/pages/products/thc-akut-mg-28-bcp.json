@@ -103,7 +103,7 @@
     "meta": {
       "title": "THC AKUT MG 28 BCP - Bathera | ab 4,98 €",
       "description": "THC AKUT MG 28 BCP von Bathera. THC: 25%, CBD: 1%. Sorte: Black Cherry Punch. Preis ab 4,98 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/thc-akut-mg-28-bcp",
+      "canonical": "https://cannabisblueten.de/product/thc-akut-mg-28-bcp",
       "robots": {
         "index": true,
         "follow": true
@@ -111,28 +111,28 @@
       "openGraph": {
         "title": "THC AKUT MG 28 BCP - Bathera | ab 4,98 €",
         "description": "THC AKUT MG 28 BCP von Bathera. THC: 25%, CBD: 1%. Sorte: Black Cherry Punch. Preis ab 4,98 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/thc-akut-mg-28-bcp",
+        "url": "https://cannabisblueten.de/product/thc-akut-mg-28-bcp",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Bathera",
-        "href": "https://weed.de/brand/bathera"
+        "href": "https://cannabisblueten.de/brand/bathera"
       },
       {
         "name": "THC AKUT MG 28 BCP",
-        "href": "https://weed.de/product/thc-akut-mg-28-bcp"
+        "href": "https://cannabisblueten.de/product/thc-akut-mg-28-bcp"
       }
     ],
     "schema": [
@@ -144,19 +144,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "THC AKUT MG 28 BCP",
-            "item": "https://weed.de/product/thc-akut-mg-28-bcp"
+            "item": "https://cannabisblueten.de/product/thc-akut-mg-28-bcp"
           }
         ]
       },
@@ -164,11 +164,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "THC AKUT MG 28 BCP",
+        "url": "https://cannabisblueten.de/product/thc-akut-mg-28-bcp",
         "brand": {
           "@type": "Brand",
           "name": "Bathera"
         },
-        "description": "THC: 25%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 25%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/thc-akut-mg-28-bcp",
+          "priceCurrency": "EUR",
+          "price": "4.98",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.98",
+            "maxPrice": "7.38",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

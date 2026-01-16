@@ -118,7 +118,7 @@
     "meta": {
       "title": "Demecan SC Low Drop Creamy Kee´s | ab 4,25 €",
       "description": "Demecan SC Low Drop Creamy Kee´s von Demecan. THC: 16%, CBD: 1%. Sorte: Creamy Kees No. 5. Preis ab 4,25 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/demecan-sc-low-drop-creamy-kee´s",
+      "canonical": "https://cannabisblueten.de/product/demecan-sc-low-drop-creamy-kee´s",
       "robots": {
         "index": true,
         "follow": true
@@ -126,9 +126,9 @@
       "openGraph": {
         "title": "Demecan SC Low Drop Creamy Kee´s | ab 4,25 €",
         "description": "Demecan SC Low Drop Creamy Kee´s von Demecan. THC: 16%, CBD: 1%. Sorte: Creamy Kees No. 5. Preis ab 4,25 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/demecan-sc-low-drop-creamy-kee´s",
+        "url": "https://cannabisblueten.de/product/demecan-sc-low-drop-creamy-kee´s",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/demecan-sc-low-drop-creamy-kee´s-h5b484.png"
       }
@@ -136,19 +136,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Demecan",
-        "href": "https://weed.de/brand/demecan"
+        "href": "https://cannabisblueten.de/brand/demecan"
       },
       {
         "name": "Demecan SC Low Drop Creamy Kee´s",
-        "href": "https://weed.de/product/demecan-sc-low-drop-creamy-kee´s"
+        "href": "https://cannabisblueten.de/product/demecan-sc-low-drop-creamy-kee´s"
       }
     ],
     "schema": [
@@ -160,19 +160,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Demecan SC Low Drop Creamy Kee´s",
-            "item": "https://weed.de/product/demecan-sc-low-drop-creamy-kee´s"
+            "item": "https://cannabisblueten.de/product/demecan-sc-low-drop-creamy-kee´s"
           }
         ]
       },
@@ -180,11 +180,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Demecan SC Low Drop Creamy Kee´s",
+        "url": "https://cannabisblueten.de/product/demecan-sc-low-drop-creamy-kee´s",
         "brand": {
           "@type": "Brand",
           "name": "Demecan"
         },
-        "description": "THC: 16%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 16%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/demecan-sc-low-drop-creamy-kee´s",
+          "priceCurrency": "EUR",
+          "price": "4.25",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

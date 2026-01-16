@@ -102,7 +102,7 @@
     "meta": {
       "title": "Bathera 23/1 PMM | ab 5,45 €",
       "description": "Bathera 23/1 PMM von Bathera. THC: 23%, CBD: 1%. Sorte: Permanent Midnight. Preis ab 5,45 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/bathera-231-pmm",
+      "canonical": "https://cannabisblueten.de/product/bathera-231-pmm",
       "robots": {
         "index": true,
         "follow": true
@@ -110,28 +110,28 @@
       "openGraph": {
         "title": "Bathera 23/1 PMM | ab 5,45 €",
         "description": "Bathera 23/1 PMM von Bathera. THC: 23%, CBD: 1%. Sorte: Permanent Midnight. Preis ab 5,45 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/bathera-231-pmm",
+        "url": "https://cannabisblueten.de/product/bathera-231-pmm",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Bathera",
-        "href": "https://weed.de/brand/bathera"
+        "href": "https://cannabisblueten.de/brand/bathera"
       },
       {
         "name": "Bathera 23/1 PMM",
-        "href": "https://weed.de/product/bathera-231-pmm"
+        "href": "https://cannabisblueten.de/product/bathera-231-pmm"
       }
     ],
     "schema": [
@@ -143,19 +143,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Bathera 23/1 PMM",
-            "item": "https://weed.de/product/bathera-231-pmm"
+            "item": "https://cannabisblueten.de/product/bathera-231-pmm"
           }
         ]
       },
@@ -163,11 +163,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Bathera 23/1 PMM",
+        "url": "https://cannabisblueten.de/product/bathera-231-pmm",
         "brand": {
           "@type": "Brand",
           "name": "Bathera"
         },
-        "description": "THC: 23%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 23%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/bathera-231-pmm",
+          "priceCurrency": "EUR",
+          "price": "5.45",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "5.45",
+            "maxPrice": "8.39",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

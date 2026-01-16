@@ -104,7 +104,7 @@
     "meta": {
       "title": "HUALA 22/1 UK WTR - Four 20 Pharma | ab 3,83 €",
       "description": "HUALA 22/1 UK WTR von Four 20 Pharma. THC: 22%, CBD: 1%. Sorte: Waffle Truffle. Preis ab 3,83 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/huala-221-uk-wtr",
+      "canonical": "https://cannabisblueten.de/product/huala-221-uk-wtr",
       "robots": {
         "index": true,
         "follow": true
@@ -112,9 +112,9 @@
       "openGraph": {
         "title": "HUALA 22/1 UK WTR - Four 20 Pharma | ab 3,83 €",
         "description": "HUALA 22/1 UK WTR von Four 20 Pharma. THC: 22%, CBD: 1%. Sorte: Waffle Truffle. Preis ab 3,83 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/huala-221-uk-wtr",
+        "url": "https://cannabisblueten.de/product/huala-221-uk-wtr",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/huala-221-uk-wtr-bjcde4.jpeg"
       }
@@ -122,19 +122,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Four 20 Pharma",
-        "href": "https://weed.de/brand/four-20-pharma"
+        "href": "https://cannabisblueten.de/brand/four-20-pharma"
       },
       {
         "name": "HUALA 22/1 UK WTR",
-        "href": "https://weed.de/product/huala-221-uk-wtr"
+        "href": "https://cannabisblueten.de/product/huala-221-uk-wtr"
       }
     ],
     "schema": [
@@ -146,19 +146,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "HUALA 22/1 UK WTR",
-            "item": "https://weed.de/product/huala-221-uk-wtr"
+            "item": "https://cannabisblueten.de/product/huala-221-uk-wtr"
           }
         ]
       },
@@ -166,11 +166,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "HUALA 22/1 UK WTR",
+        "url": "https://cannabisblueten.de/product/huala-221-uk-wtr",
         "brand": {
           "@type": "Brand",
           "name": "Four 20 Pharma"
         },
-        "description": "THC: 22%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 22%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/huala-221-uk-wtr",
+          "priceCurrency": "EUR",
+          "price": "3.83",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "3.83",
+            "maxPrice": "6.75",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

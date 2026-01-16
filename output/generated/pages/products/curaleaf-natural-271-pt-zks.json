@@ -115,7 +115,7 @@
     "meta": {
       "title": "Curaleaf Natural 27/1 PT ZKS - Four 20 Pharma | ab 4,69 €",
       "description": "Curaleaf Natural 27/1 PT ZKS von Four 20 Pharma. THC: 27%, CBD: 1%. Sorte: Zookies. Preis ab 4,69 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/curaleaf-natural-271-pt-zks",
+      "canonical": "https://cannabisblueten.de/product/curaleaf-natural-271-pt-zks",
       "robots": {
         "index": true,
         "follow": true
@@ -123,9 +123,9 @@
       "openGraph": {
         "title": "Curaleaf Natural 27/1 PT ZKS - Four 20 Pharma | ab 4,69 €",
         "description": "Curaleaf Natural 27/1 PT ZKS von Four 20 Pharma. THC: 27%, CBD: 1%. Sorte: Zookies. Preis ab 4,69 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/curaleaf-natural-271-pt-zks",
+        "url": "https://cannabisblueten.de/product/curaleaf-natural-271-pt-zks",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/curaleaf-natural-271-pt-zks-cb5hde.jpeg"
       }
@@ -133,19 +133,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Four 20 Pharma",
-        "href": "https://weed.de/brand/four-20-pharma"
+        "href": "https://cannabisblueten.de/brand/four-20-pharma"
       },
       {
         "name": "Curaleaf Natural 27/1 PT ZKS",
-        "href": "https://weed.de/product/curaleaf-natural-271-pt-zks"
+        "href": "https://cannabisblueten.de/product/curaleaf-natural-271-pt-zks"
       }
     ],
     "schema": [
@@ -157,19 +157,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Curaleaf Natural 27/1 PT ZKS",
-            "item": "https://weed.de/product/curaleaf-natural-271-pt-zks"
+            "item": "https://cannabisblueten.de/product/curaleaf-natural-271-pt-zks"
           }
         ]
       },
@@ -177,11 +177,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Curaleaf Natural 27/1 PT ZKS",
+        "url": "https://cannabisblueten.de/product/curaleaf-natural-271-pt-zks",
         "brand": {
           "@type": "Brand",
           "name": "Four 20 Pharma"
         },
-        "description": "THC: 27%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 27%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/curaleaf-natural-271-pt-zks",
+          "priceCurrency": "EUR",
+          "price": "4.69",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

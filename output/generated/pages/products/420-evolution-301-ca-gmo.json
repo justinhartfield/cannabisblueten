@@ -108,7 +108,7 @@
     "meta": {
       "title": "420 EVOLUTION 30/1 CA GMO - Four 20 Pharma | ab 4,75 €",
       "description": "420 EVOLUTION 30/1 CA GMO von Four 20 Pharma. THC: 29.4%, CBD: 1%. Sorte: GMO. Preis ab 4,75 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/420-evolution-301-ca-gmo",
+      "canonical": "https://cannabisblueten.de/product/420-evolution-301-ca-gmo",
       "robots": {
         "index": true,
         "follow": true
@@ -116,9 +116,9 @@
       "openGraph": {
         "title": "420 EVOLUTION 30/1 CA GMO - Four 20 Pharma | ab 4,75 €",
         "description": "420 EVOLUTION 30/1 CA GMO von Four 20 Pharma. THC: 29.4%, CBD: 1%. Sorte: GMO. Preis ab 4,75 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/420-evolution-301-ca-gmo",
+        "url": "https://cannabisblueten.de/product/420-evolution-301-ca-gmo",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/420-evolution-301-ca-gmo-3bh2ei.jpeg"
       }
@@ -126,19 +126,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Four 20 Pharma",
-        "href": "https://weed.de/brand/four-20-pharma"
+        "href": "https://cannabisblueten.de/brand/four-20-pharma"
       },
       {
         "name": "420 EVOLUTION 30/1 CA GMO",
-        "href": "https://weed.de/product/420-evolution-301-ca-gmo"
+        "href": "https://cannabisblueten.de/product/420-evolution-301-ca-gmo"
       }
     ],
     "schema": [
@@ -150,19 +150,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "420 EVOLUTION 30/1 CA GMO",
-            "item": "https://weed.de/product/420-evolution-301-ca-gmo"
+            "item": "https://cannabisblueten.de/product/420-evolution-301-ca-gmo"
           }
         ]
       },
@@ -170,11 +170,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "420 EVOLUTION 30/1 CA GMO",
+        "url": "https://cannabisblueten.de/product/420-evolution-301-ca-gmo",
         "brand": {
           "@type": "Brand",
           "name": "Four 20 Pharma"
         },
-        "description": "THC: 29.4%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 29.4%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/420-evolution-301-ca-gmo",
+          "priceCurrency": "EUR",
+          "price": "4.75",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.75",
+            "maxPrice": "10.49",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

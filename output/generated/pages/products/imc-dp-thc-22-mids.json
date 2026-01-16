@@ -102,7 +102,7 @@
     "meta": {
       "title": "IMC DP THC 22 MIDS | ab 3,09 €",
       "description": "IMC DP THC 22 MIDS von IMC. THC: 21%, CBD: 1%. Sorte: Plum x OG Kush. Preis ab 3,09 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/imc-dp-thc-22-mids",
+      "canonical": "https://cannabisblueten.de/product/imc-dp-thc-22-mids",
       "robots": {
         "index": true,
         "follow": true
@@ -110,9 +110,9 @@
       "openGraph": {
         "title": "IMC DP THC 22 MIDS | ab 3,09 €",
         "description": "IMC DP THC 22 MIDS von IMC. THC: 21%, CBD: 1%. Sorte: Plum x OG Kush. Preis ab 3,09 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/imc-dp-thc-22-mids",
+        "url": "https://cannabisblueten.de/product/imc-dp-thc-22-mids",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/imc-dp-thc-22-mids-deep-plum-89f2bj.webp"
       }
@@ -120,19 +120,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "IMC",
-        "href": "https://weed.de/brand/imc"
+        "href": "https://cannabisblueten.de/brand/imc"
       },
       {
         "name": "IMC DP THC 22 MIDS",
-        "href": "https://weed.de/product/imc-dp-thc-22-mids"
+        "href": "https://cannabisblueten.de/product/imc-dp-thc-22-mids"
       }
     ],
     "schema": [
@@ -144,19 +144,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "IMC DP THC 22 MIDS",
-            "item": "https://weed.de/product/imc-dp-thc-22-mids"
+            "item": "https://cannabisblueten.de/product/imc-dp-thc-22-mids"
           }
         ]
       },
@@ -164,11 +164,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "IMC DP THC 22 MIDS",
+        "url": "https://cannabisblueten.de/product/imc-dp-thc-22-mids",
         "brand": {
           "@type": "Brand",
           "name": "IMC"
         },
-        "description": "THC: 21%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 21%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/imc-dp-thc-22-mids",
+          "priceCurrency": "EUR",
+          "price": "3.09",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "3.09",
+            "maxPrice": "6.20",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

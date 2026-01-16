@@ -135,7 +135,7 @@
     "meta": {
       "title": "madrecan 24/1 MDR - Remexian Pharma | ab 5,69 €",
       "description": "madrecan 24/1 MDR von Remexian Pharma. THC: 26%, CBD: 0.1%. Sorte: Mac Driver. Preis ab 5,69 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/madrecan-241-mdr",
+      "canonical": "https://cannabisblueten.de/product/madrecan-241-mdr",
       "robots": {
         "index": true,
         "follow": true
@@ -143,28 +143,28 @@
       "openGraph": {
         "title": "madrecan 24/1 MDR - Remexian Pharma | ab 5,69 €",
         "description": "madrecan 24/1 MDR von Remexian Pharma. THC: 26%, CBD: 0.1%. Sorte: Mac Driver. Preis ab 5,69 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/madrecan-241-mdr",
+        "url": "https://cannabisblueten.de/product/madrecan-241-mdr",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Remexian Pharma",
-        "href": "https://weed.de/brand/remexian-pharma"
+        "href": "https://cannabisblueten.de/brand/remexian-pharma"
       },
       {
         "name": "madrecan 24/1 MDR",
-        "href": "https://weed.de/product/madrecan-241-mdr"
+        "href": "https://cannabisblueten.de/product/madrecan-241-mdr"
       }
     ],
     "schema": [
@@ -176,19 +176,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "madrecan 24/1 MDR",
-            "item": "https://weed.de/product/madrecan-241-mdr"
+            "item": "https://cannabisblueten.de/product/madrecan-241-mdr"
           }
         ]
       },
@@ -196,11 +196,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "madrecan 24/1 MDR",
+        "url": "https://cannabisblueten.de/product/madrecan-241-mdr",
         "brand": {
           "@type": "Brand",
           "name": "Remexian Pharma"
         },
-        "description": "THC: 26%, CBD: 0.1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 26%, CBD: 0.1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/madrecan-241-mdr",
+          "priceCurrency": "EUR",
+          "price": "5.69",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "5.69",
+            "maxPrice": "6.65",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

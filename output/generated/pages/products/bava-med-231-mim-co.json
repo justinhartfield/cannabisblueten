@@ -104,7 +104,7 @@
     "meta": {
       "title": "Bava Med 23/1 MIM - CO - bava medical | ab 5,47 €",
       "description": "Bava Med 23/1 MIM - CO von bava medical. THC: 23%, CBD: 1%. Sorte: Mimosa Cookies. Preis ab 5,47 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/bava-med-231-mim-co",
+      "canonical": "https://cannabisblueten.de/product/bava-med-231-mim-co",
       "robots": {
         "index": true,
         "follow": true
@@ -112,28 +112,28 @@
       "openGraph": {
         "title": "Bava Med 23/1 MIM - CO - bava medical | ab 5,47 €",
         "description": "Bava Med 23/1 MIM - CO von bava medical. THC: 23%, CBD: 1%. Sorte: Mimosa Cookies. Preis ab 5,47 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/bava-med-231-mim-co",
+        "url": "https://cannabisblueten.de/product/bava-med-231-mim-co",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "bava medical",
-        "href": "https://weed.de/brand/bava-medical"
+        "href": "https://cannabisblueten.de/brand/bava-medical"
       },
       {
         "name": "Bava Med 23/1 MIM - CO",
-        "href": "https://weed.de/product/bava-med-231-mim-co"
+        "href": "https://cannabisblueten.de/product/bava-med-231-mim-co"
       }
     ],
     "schema": [
@@ -145,19 +145,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Bava Med 23/1 MIM - CO",
-            "item": "https://weed.de/product/bava-med-231-mim-co"
+            "item": "https://cannabisblueten.de/product/bava-med-231-mim-co"
           }
         ]
       },
@@ -165,11 +165,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Bava Med 23/1 MIM - CO",
+        "url": "https://cannabisblueten.de/product/bava-med-231-mim-co",
         "brand": {
           "@type": "Brand",
           "name": "bava medical"
         },
-        "description": "THC: 23%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 23%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/bava-med-231-mim-co",
+          "priceCurrency": "EUR",
+          "price": "5.47",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

@@ -65,7 +65,7 @@
     "meta": {
       "title": "Bussicann - die starken Apotheken - Cannabis Apotheke in Ahlen",
       "description": "Bussicann - die starken Apotheken in Ahlen. 67 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/bussmanns-barbara-apotheke",
+      "canonical": "https://cannabisblueten.de/apotheke/bussmanns-barbara-apotheke",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Bussicann - die starken Apotheken - Cannabis Apotheke in Ahlen",
         "description": "Bussicann - die starken Apotheken in Ahlen. 67 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/bussmanns-barbara-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/bussmanns-barbara-apotheke",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/67cb2202bd3198ede44f98f3-c71009.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Ahlen",
-        "href": "https://weed.de/cannabis-apotheke/ahlen"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/ahlen"
       },
       {
         "name": "Bussicann - die starken Apotheken",
-        "href": "https://weed.de/apotheke/bussmanns-barbara-apotheke"
+        "href": "https://cannabisblueten.de/apotheke/bussmanns-barbara-apotheke"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Ahlen",
-            "item": "https://weed.de/cannabis-apotheke/ahlen"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/ahlen"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Bussicann - die starken Apotheken",
-            "item": "https://weed.de/apotheke/bussmanns-barbara-apotheke"
+            "item": "https://cannabisblueten.de/apotheke/bussmanns-barbara-apotheke"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Bussicann - die starken Apotheken",
-        "url": "https://weed.de/apotheke/bussmanns-barbara-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/bussmanns-barbara-apotheke",
+        "description": "Cannabis Apotheke in Ahlen. 67 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Gebrüder-Kerkmann-Platz 4",
@@ -142,8 +143,37 @@
           "addressRegion": "Nordrhein-Westfalen",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 51.76211199999999,
+          "longitude": 7.898737400000001
+        },
         "telephone": "023828888822",
-        "email": "bussicann@die-starken-apotheken.de"
+        "email": "bussicann@die-starken-apotheken.de",
+        "sameAs": "www.bussicann.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5.0",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
       }
     ]
   },

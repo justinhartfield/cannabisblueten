@@ -65,7 +65,7 @@
     "meta": {
       "title": "Falken-Apotheke - Cannabis Apotheke in Sankt Augustin",
       "description": "Falken-Apotheke in Sankt Augustin. 11 Cannabis Produkte. Lieferung & Abholung. Bewertung: 4.5/5. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/falken-apotheke-3",
+      "canonical": "https://cannabisblueten.de/apotheke/falken-apotheke-3",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Falken-Apotheke - Cannabis Apotheke in Sankt Augustin",
         "description": "Falken-Apotheke in Sankt Augustin. 11 Cannabis Produkte. Lieferung & Abholung. Bewertung: 4.5/5. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/falken-apotheke-3",
+        "url": "https://cannabisblueten.de/apotheke/falken-apotheke-3",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/678e7b880ef647aa40ea4ee9-hf0f34.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Sankt Augustin",
-        "href": "https://weed.de/cannabis-apotheke/sankt-augustin"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/sankt-augustin"
       },
       {
         "name": "Falken-Apotheke",
-        "href": "https://weed.de/apotheke/falken-apotheke-3"
+        "href": "https://cannabisblueten.de/apotheke/falken-apotheke-3"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Sankt Augustin",
-            "item": "https://weed.de/cannabis-apotheke/sankt-augustin"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/sankt-augustin"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Falken-Apotheke",
-            "item": "https://weed.de/apotheke/falken-apotheke-3"
+            "item": "https://cannabisblueten.de/apotheke/falken-apotheke-3"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Falken-Apotheke",
-        "url": "https://weed.de/apotheke/falken-apotheke-3",
+        "url": "https://cannabisblueten.de/apotheke/falken-apotheke-3",
+        "description": "Cannabis Apotheke in Sankt Augustin. 11 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Sankt Augustin, Deutschland",
@@ -142,8 +143,37 @@
           "addressRegion": "Nordrhein-Westfalen",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 50.773458,
+          "longitude": 7.185113699999999
+        },
         "telephone": "02241203216",
-        "email": "info@falkengras.de"
+        "email": "info@falkengras.de",
+        "sameAs": "www.falkengras.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
       }
     ]
   },

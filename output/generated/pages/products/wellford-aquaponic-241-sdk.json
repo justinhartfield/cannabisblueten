@@ -118,7 +118,7 @@
     "meta": {
       "title": "Wellford Aquaponic 24/1 SDK - Therismos | ab 5,39 €",
       "description": "Wellford Aquaponic 24/1 SDK von Therismos. THC: 24%, CBD: 1%. Sorte: Sensi Double Kush. Preis ab 5,39 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/wellford-aquaponic-241-sdk",
+      "canonical": "https://cannabisblueten.de/product/wellford-aquaponic-241-sdk",
       "robots": {
         "index": true,
         "follow": true
@@ -126,9 +126,9 @@
       "openGraph": {
         "title": "Wellford Aquaponic 24/1 SDK - Therismos | ab 5,39 €",
         "description": "Wellford Aquaponic 24/1 SDK von Therismos. THC: 24%, CBD: 1%. Sorte: Sensi Double Kush. Preis ab 5,39 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/wellford-aquaponic-241-sdk",
+        "url": "https://cannabisblueten.de/product/wellford-aquaponic-241-sdk",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/wellford-aquaponic-241-sdk-ee6488.png"
       }
@@ -136,19 +136,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Therismos",
-        "href": "https://weed.de/brand/therismos"
+        "href": "https://cannabisblueten.de/brand/therismos"
       },
       {
         "name": "Wellford Aquaponic 24/1 SDK",
-        "href": "https://weed.de/product/wellford-aquaponic-241-sdk"
+        "href": "https://cannabisblueten.de/product/wellford-aquaponic-241-sdk"
       }
     ],
     "schema": [
@@ -160,19 +160,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Wellford Aquaponic 24/1 SDK",
-            "item": "https://weed.de/product/wellford-aquaponic-241-sdk"
+            "item": "https://cannabisblueten.de/product/wellford-aquaponic-241-sdk"
           }
         ]
       },
@@ -180,12 +180,29 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Wellford Aquaponic 24/1 SDK",
+        "url": "https://cannabisblueten.de/product/wellford-aquaponic-241-sdk",
         "brand": {
           "@type": "Brand",
           "name": "Therismos"
         },
         "gtin13": [],
-        "description": "THC: 24%, CBD: 1%"
+        "sku": [],
+        "description": "Medizinisches Cannabis Produkt. THC: 24%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/wellford-aquaponic-241-sdk",
+          "priceCurrency": "EUR",
+          "price": "5.39",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "5.39",
+            "maxPrice": "7.50",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

@@ -106,7 +106,7 @@
     "meta": {
       "title": "Somai Cannabisextrakt Mint 25:25 - Somai Pharmaceuticals ...",
       "description": "Somai Cannabisextrakt Mint 25:25 von Somai Pharmaceuticals. THC: 2.5%, CBD: 2.5%. Sorte: Master Kush. Preis ab 4,75 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/somai-cannabisextrakt-mint-2525",
+      "canonical": "https://cannabisblueten.de/product/somai-cannabisextrakt-mint-2525",
       "robots": {
         "index": true,
         "follow": true
@@ -114,28 +114,28 @@
       "openGraph": {
         "title": "Somai Cannabisextrakt Mint 25:25 - Somai Pharmaceuticals ...",
         "description": "Somai Cannabisextrakt Mint 25:25 von Somai Pharmaceuticals. THC: 2.5%, CBD: 2.5%. Sorte: Master Kush. Preis ab 4,75 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/somai-cannabisextrakt-mint-2525",
+        "url": "https://cannabisblueten.de/product/somai-cannabisextrakt-mint-2525",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Somai Pharmaceuticals",
-        "href": "https://weed.de/brand/somai-pharmaceuticals"
+        "href": "https://cannabisblueten.de/brand/somai-pharmaceuticals"
       },
       {
         "name": "Somai Cannabisextrakt Mint 25:25",
-        "href": "https://weed.de/product/somai-cannabisextrakt-mint-2525"
+        "href": "https://cannabisblueten.de/product/somai-cannabisextrakt-mint-2525"
       }
     ],
     "schema": [
@@ -147,19 +147,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Somai Cannabisextrakt Mint 25:25",
-            "item": "https://weed.de/product/somai-cannabisextrakt-mint-2525"
+            "item": "https://cannabisblueten.de/product/somai-cannabisextrakt-mint-2525"
           }
         ]
       },
@@ -167,11 +167,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Somai Cannabisextrakt Mint 25:25",
+        "url": "https://cannabisblueten.de/product/somai-cannabisextrakt-mint-2525",
         "brand": {
           "@type": "Brand",
           "name": "Somai Pharmaceuticals"
         },
-        "description": "THC: 2.5%, CBD: 2.5%"
+        "description": "Medizinisches Cannabis Produkt. THC: 2.5%, CBD: 2.5%, Genetik: indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/somai-cannabisextrakt-mint-2525",
+          "priceCurrency": "EUR",
+          "price": "4.75",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.75",
+            "maxPrice": "7.55",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

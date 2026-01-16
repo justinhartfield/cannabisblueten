@@ -78,7 +78,7 @@
     "meta": {
       "title": "Dronabinol-Lösung CAN 25 mg/ml - Grünhorn | ab 5,50 €",
       "description": "Dronabinol-Lösung CAN 25 mg/ml von Grünhorn. THC: 25%, CBD: 0.1%. Preis ab 5,50 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/olige-dronabinollosung-25mgml-nrf-228",
+      "canonical": "https://cannabisblueten.de/product/olige-dronabinollosung-25mgml-nrf-228",
       "robots": {
         "index": true,
         "follow": true
@@ -86,28 +86,28 @@
       "openGraph": {
         "title": "Dronabinol-Lösung CAN 25 mg/ml - Grünhorn | ab 5,50 €",
         "description": "Dronabinol-Lösung CAN 25 mg/ml von Grünhorn. THC: 25%, CBD: 0.1%. Preis ab 5,50 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/olige-dronabinollosung-25mgml-nrf-228",
+        "url": "https://cannabisblueten.de/product/olige-dronabinollosung-25mgml-nrf-228",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Grünhorn",
-        "href": "https://weed.de/brand/gruenhorn"
+        "href": "https://cannabisblueten.de/brand/gruenhorn"
       },
       {
         "name": "Dronabinol-Lösung CAN 25 mg/ml",
-        "href": "https://weed.de/product/olige-dronabinollosung-25mgml-nrf-228"
+        "href": "https://cannabisblueten.de/product/olige-dronabinollosung-25mgml-nrf-228"
       }
     ],
     "schema": [
@@ -119,19 +119,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Dronabinol-Lösung CAN 25 mg/ml",
-            "item": "https://weed.de/product/olige-dronabinollosung-25mgml-nrf-228"
+            "item": "https://cannabisblueten.de/product/olige-dronabinollosung-25mgml-nrf-228"
           }
         ]
       },
@@ -139,11 +139,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Dronabinol-Lösung CAN 25 mg/ml",
+        "url": "https://cannabisblueten.de/product/olige-dronabinollosung-25mgml-nrf-228",
         "brand": {
           "@type": "Brand",
           "name": "Grünhorn"
         },
-        "description": "THC: 25%, CBD: 0.1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 25%, CBD: 0.1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/olige-dronabinollosung-25mgml-nrf-228",
+          "priceCurrency": "EUR",
+          "price": "5.50",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "5.50",
+            "maxPrice": "18.00",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

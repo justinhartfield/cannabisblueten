@@ -104,7 +104,7 @@
     "meta": {
       "title": "enua 22/1 EG CA | ab 4,19 €",
       "description": "enua 22/1 EG CA von enua. THC: 22%, CBD: 1%. Sorte: Electric Grapefruit. Preis ab 4,19 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/enua-221-eg-ca",
+      "canonical": "https://cannabisblueten.de/product/enua-221-eg-ca",
       "robots": {
         "index": true,
         "follow": true
@@ -112,9 +112,9 @@
       "openGraph": {
         "title": "enua 22/1 EG CA | ab 4,19 €",
         "description": "enua 22/1 EG CA von enua. THC: 22%, CBD: 1%. Sorte: Electric Grapefruit. Preis ab 4,19 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/enua-221-eg-ca",
+        "url": "https://cannabisblueten.de/product/enua-221-eg-ca",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/products/enua-221-eg-ca-040069.png"
       }
@@ -122,19 +122,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "enua",
-        "href": "https://weed.de/brand/enua"
+        "href": "https://cannabisblueten.de/brand/enua"
       },
       {
         "name": "enua 22/1 EG CA",
-        "href": "https://weed.de/product/enua-221-eg-ca"
+        "href": "https://cannabisblueten.de/product/enua-221-eg-ca"
       }
     ],
     "schema": [
@@ -146,19 +146,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "enua 22/1 EG CA",
-            "item": "https://weed.de/product/enua-221-eg-ca"
+            "item": "https://cannabisblueten.de/product/enua-221-eg-ca"
           }
         ]
       },
@@ -166,11 +166,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "enua 22/1 EG CA",
+        "url": "https://cannabisblueten.de/product/enua-221-eg-ca",
         "brand": {
           "@type": "Brand",
           "name": "enua"
         },
-        "description": "THC: 22%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 22%, CBD: 1%, Genetik: sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/enua-221-eg-ca",
+          "priceCurrency": "EUR",
+          "price": "4.19",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.19",
+            "maxPrice": "5.99",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

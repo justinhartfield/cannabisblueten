@@ -107,7 +107,7 @@
     "meta": {
       "title": "Canify Cannabis flos 23/1 PRT Ku. | ab 6,89 €",
       "description": "Canify Cannabis flos 23/1 PRT Ku. von Canify. THC: 23%, CBD: 1%. Sorte: Strawberry Banana. Preis ab 6,89 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/canify-cannabis-flos-231-prt-ku",
+      "canonical": "https://cannabisblueten.de/product/canify-cannabis-flos-231-prt-ku",
       "robots": {
         "index": true,
         "follow": true
@@ -115,28 +115,28 @@
       "openGraph": {
         "title": "Canify Cannabis flos 23/1 PRT Ku. | ab 6,89 €",
         "description": "Canify Cannabis flos 23/1 PRT Ku. von Canify. THC: 23%, CBD: 1%. Sorte: Strawberry Banana. Preis ab 6,89 €. Preise vergleichen.",
-        "url": "https://weed.de/product/canify-cannabis-flos-231-prt-ku",
+        "url": "https://cannabisblueten.de/product/canify-cannabis-flos-231-prt-ku",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Canify",
-        "href": "https://weed.de/brand/canify"
+        "href": "https://cannabisblueten.de/brand/canify"
       },
       {
         "name": "Canify Cannabis flos 23/1 PRT Ku.",
-        "href": "https://weed.de/product/canify-cannabis-flos-231-prt-ku"
+        "href": "https://cannabisblueten.de/product/canify-cannabis-flos-231-prt-ku"
       }
     ],
     "schema": [
@@ -148,19 +148,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Canify Cannabis flos 23/1 PRT Ku.",
-            "item": "https://weed.de/product/canify-cannabis-flos-231-prt-ku"
+            "item": "https://cannabisblueten.de/product/canify-cannabis-flos-231-prt-ku"
           }
         ]
       },
@@ -168,11 +168,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Canify Cannabis flos 23/1 PRT Ku.",
+        "url": "https://cannabisblueten.de/product/canify-cannabis-flos-231-prt-ku",
         "brand": {
           "@type": "Brand",
           "name": "Canify"
         },
-        "description": "THC: 23%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 23%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/canify-cannabis-flos-231-prt-ku",
+          "priceCurrency": "EUR",
+          "price": "6.89",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

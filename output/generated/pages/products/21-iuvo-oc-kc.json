@@ -106,7 +106,7 @@
     "meta": {
       "title": "20/1 IUVO OC Killer Cupcake - Iuvo | ab 5,89 €",
       "description": "20/1 IUVO OC Killer Cupcake von Iuvo. THC: 20.5%, CBD: 1%. Sorte: Killer Cupcake. Preis ab 5,89 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/21-iuvo-oc-kc",
+      "canonical": "https://cannabisblueten.de/product/21-iuvo-oc-kc",
       "robots": {
         "index": true,
         "follow": true
@@ -114,9 +114,9 @@
       "openGraph": {
         "title": "20/1 IUVO OC Killer Cupcake - Iuvo | ab 5,89 €",
         "description": "20/1 IUVO OC Killer Cupcake von Iuvo. THC: 20.5%, CBD: 1%. Sorte: Killer Cupcake. Preis ab 5,89 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/21-iuvo-oc-kc",
+        "url": "https://cannabisblueten.de/product/21-iuvo-oc-kc",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/21-iuvo-oc-kc-086g58.png"
       }
@@ -124,19 +124,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Iuvo",
-        "href": "https://weed.de/brand/iuvo"
+        "href": "https://cannabisblueten.de/brand/iuvo"
       },
       {
         "name": "20/1 IUVO OC Killer Cupcake",
-        "href": "https://weed.de/product/21-iuvo-oc-kc"
+        "href": "https://cannabisblueten.de/product/21-iuvo-oc-kc"
       }
     ],
     "schema": [
@@ -148,19 +148,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "20/1 IUVO OC Killer Cupcake",
-            "item": "https://weed.de/product/21-iuvo-oc-kc"
+            "item": "https://cannabisblueten.de/product/21-iuvo-oc-kc"
           }
         ]
       },
@@ -168,11 +168,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "20/1 IUVO OC Killer Cupcake",
+        "url": "https://cannabisblueten.de/product/21-iuvo-oc-kc",
         "brand": {
           "@type": "Brand",
           "name": "Iuvo"
         },
-        "description": "THC: 20.5%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 20.5%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/21-iuvo-oc-kc",
+          "priceCurrency": "EUR",
+          "price": "5.89",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "5.89",
+            "maxPrice": "9.06",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

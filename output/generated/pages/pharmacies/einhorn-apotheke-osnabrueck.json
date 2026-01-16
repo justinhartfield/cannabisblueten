@@ -65,7 +65,7 @@
     "meta": {
       "title": "Einhorn-Apotheke am Heger Tor Osnabrück - Cannabis Apotheke in Osnabrück",
       "description": "Einhorn-Apotheke am Heger Tor Osnabrück in Osnabrück. 17 Cannabis Produkte. Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/einhorn-apotheke-osnabrueck",
+      "canonical": "https://cannabisblueten.de/apotheke/einhorn-apotheke-osnabrueck",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Einhorn-Apotheke am Heger Tor Osnabrück - Cannabis Apotheke in Osnabrück",
         "description": "Einhorn-Apotheke am Heger Tor Osnabrück in Osnabrück. 17 Cannabis Produkte. Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/einhorn-apotheke-osnabrueck",
+        "url": "https://cannabisblueten.de/apotheke/einhorn-apotheke-osnabrueck",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/682227d89e769e560dfb44c8-b2h6i6.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Osnabrück",
-        "href": "https://weed.de/cannabis-apotheke/osnabrueck"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/osnabrueck"
       },
       {
         "name": "Einhorn-Apotheke am Heger Tor Osnabrück",
-        "href": "https://weed.de/apotheke/einhorn-apotheke-osnabrueck"
+        "href": "https://cannabisblueten.de/apotheke/einhorn-apotheke-osnabrueck"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Osnabrück",
-            "item": "https://weed.de/cannabis-apotheke/osnabrueck"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/osnabrueck"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Einhorn-Apotheke am Heger Tor Osnabrück",
-            "item": "https://weed.de/apotheke/einhorn-apotheke-osnabrueck"
+            "item": "https://cannabisblueten.de/apotheke/einhorn-apotheke-osnabrueck"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Einhorn-Apotheke am Heger Tor Osnabrück",
-        "url": "https://weed.de/apotheke/einhorn-apotheke-osnabrueck",
+        "url": "https://cannabisblueten.de/apotheke/einhorn-apotheke-osnabrueck",
+        "description": "Cannabis Apotheke in Osnabrück. 17 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Lotter Straße 5",
@@ -142,8 +143,30 @@
           "addressRegion": "Niedersachsen",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 52.275461,
+          "longitude": 8.037575799999999
+        },
         "telephone": "05414097400",
-        "email": "info@osnacan.de"
+        "email": "info@osnacan.de",
+        "sameAs": "https://www.einhorn-apotheke-os.de/medizinisches-cannabis-in-osnabrueck-einhorn-apotheke/",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5.0",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
       }
     ]
   },

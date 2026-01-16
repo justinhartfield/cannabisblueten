@@ -104,7 +104,7 @@
     "meta": {
       "title": "Aurora 1/16 VSP-CA | ab 7,99 €",
       "description": "Aurora 1/16 VSP-CA von Aurora. THC: 1%, CBD: 16%. Sorte: Vespera. Preis ab 7,99 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/aurora-116-vsp-ca",
+      "canonical": "https://cannabisblueten.de/product/aurora-116-vsp-ca",
       "robots": {
         "index": true,
         "follow": true
@@ -112,28 +112,28 @@
       "openGraph": {
         "title": "Aurora 1/16 VSP-CA | ab 7,99 €",
         "description": "Aurora 1/16 VSP-CA von Aurora. THC: 1%, CBD: 16%. Sorte: Vespera. Preis ab 7,99 €. Preise vergleichen.",
-        "url": "https://weed.de/product/aurora-116-vsp-ca",
+        "url": "https://cannabisblueten.de/product/aurora-116-vsp-ca",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Aurora",
-        "href": "https://weed.de/brand/aurora"
+        "href": "https://cannabisblueten.de/brand/aurora"
       },
       {
         "name": "Aurora 1/16 VSP-CA",
-        "href": "https://weed.de/product/aurora-116-vsp-ca"
+        "href": "https://cannabisblueten.de/product/aurora-116-vsp-ca"
       }
     ],
     "schema": [
@@ -145,19 +145,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Aurora 1/16 VSP-CA",
-            "item": "https://weed.de/product/aurora-116-vsp-ca"
+            "item": "https://cannabisblueten.de/product/aurora-116-vsp-ca"
           }
         ]
       },
@@ -165,12 +165,23 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Aurora 1/16 VSP-CA",
+        "url": "https://cannabisblueten.de/product/aurora-116-vsp-ca",
         "brand": {
           "@type": "Brand",
           "name": "Aurora"
         },
         "gtin13": [],
-        "description": "THC: 1%, CBD: 16%"
+        "sku": [],
+        "description": "Medizinisches Cannabis Produkt. THC: 1%, CBD: 16%, Genetik: indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/aurora-116-vsp-ca",
+          "priceCurrency": "EUR",
+          "price": "7.99",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

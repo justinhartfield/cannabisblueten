@@ -96,7 +96,7 @@
     "meta": {
       "title": "Wellford Luma 26/1 ZA SHR - Therismos | ab 4,99 €",
       "description": "Wellford Luma 26/1 ZA SHR von Therismos. THC: 26%, CBD: 1%. Sorte: Sherbert Runtz. Preis ab 4,99 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/wellford-luma-261-za-shr",
+      "canonical": "https://cannabisblueten.de/product/wellford-luma-261-za-shr",
       "robots": {
         "index": true,
         "follow": true
@@ -104,9 +104,9 @@
       "openGraph": {
         "title": "Wellford Luma 26/1 ZA SHR - Therismos | ab 4,99 €",
         "description": "Wellford Luma 26/1 ZA SHR von Therismos. THC: 26%, CBD: 1%. Sorte: Sherbert Runtz. Preis ab 4,99 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/wellford-luma-261-za-shr",
+        "url": "https://cannabisblueten.de/product/wellford-luma-261-za-shr",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/wellford-luma-261-za-shr-52igce.png"
       }
@@ -114,19 +114,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Therismos",
-        "href": "https://weed.de/brand/therismos"
+        "href": "https://cannabisblueten.de/brand/therismos"
       },
       {
         "name": "Wellford Luma 26/1 ZA SHR",
-        "href": "https://weed.de/product/wellford-luma-261-za-shr"
+        "href": "https://cannabisblueten.de/product/wellford-luma-261-za-shr"
       }
     ],
     "schema": [
@@ -138,19 +138,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Wellford Luma 26/1 ZA SHR",
-            "item": "https://weed.de/product/wellford-luma-261-za-shr"
+            "item": "https://cannabisblueten.de/product/wellford-luma-261-za-shr"
           }
         ]
       },
@@ -158,11 +158,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Wellford Luma 26/1 ZA SHR",
+        "url": "https://cannabisblueten.de/product/wellford-luma-261-za-shr",
         "brand": {
           "@type": "Brand",
           "name": "Therismos"
         },
-        "description": "THC: 26%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 26%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/wellford-luma-261-za-shr",
+          "priceCurrency": "EUR",
+          "price": "4.99",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.99",
+            "maxPrice": "8.80",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

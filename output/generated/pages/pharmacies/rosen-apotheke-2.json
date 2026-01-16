@@ -65,7 +65,7 @@
     "meta": {
       "title": "Rosen-Apotheke (SativaMedics) - Cannabis Apotheke in Neuwied",
       "description": "Rosen-Apotheke (SativaMedics) in Neuwied. 50 Cannabis Produkte. Lieferung & Abholung. Bewertung: 4.0/5. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/rosen-apotheke-2",
+      "canonical": "https://cannabisblueten.de/apotheke/rosen-apotheke-2",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Rosen-Apotheke (SativaMedics) - Cannabis Apotheke in Neuwied",
         "description": "Rosen-Apotheke (SativaMedics) in Neuwied. 50 Cannabis Produkte. Lieferung & Abholung. Bewertung: 4.0/5. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/rosen-apotheke-2",
+        "url": "https://cannabisblueten.de/apotheke/rosen-apotheke-2",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/67e2e3fd518927b0e38758e9-f3hcjj.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Neuwied",
-        "href": "https://weed.de/cannabis-apotheke/neuwied"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/neuwied"
       },
       {
         "name": "Rosen-Apotheke (SativaMedics)",
-        "href": "https://weed.de/apotheke/rosen-apotheke-2"
+        "href": "https://cannabisblueten.de/apotheke/rosen-apotheke-2"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Neuwied",
-            "item": "https://weed.de/cannabis-apotheke/neuwied"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/neuwied"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Rosen-Apotheke (SativaMedics)",
-            "item": "https://weed.de/apotheke/rosen-apotheke-2"
+            "item": "https://cannabisblueten.de/apotheke/rosen-apotheke-2"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Rosen-Apotheke (SativaMedics)",
-        "url": "https://weed.de/apotheke/rosen-apotheke-2",
+        "url": "https://cannabisblueten.de/apotheke/rosen-apotheke-2",
+        "description": "Cannabis Apotheke in Neuwied. 50 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Neuwied, 56564 Neuwied, Deutschland",
@@ -142,8 +143,36 @@
           "addressRegion": "Rheinland-Pfalz",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 50.4312613,
+          "longitude": 7.473253799999998
+        },
         "telephone": "026319593517",
-        "email": "shop@sativamedics.de"
+        "email": "shop@sativamedics.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.0",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
       }
     ]
   },

@@ -104,7 +104,7 @@
     "meta": {
       "title": "Bava Med 21/1 Original Blitz - bava medical | ab 3,95 €",
       "description": "Bava Med 21/1 Original Blitz von bava medical. THC: 21%, CBD: 0.1%. Sorte: Original Blitz. Preis ab 3,95 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/bava-med-211-original-blitz",
+      "canonical": "https://cannabisblueten.de/product/bava-med-211-original-blitz",
       "robots": {
         "index": true,
         "follow": true
@@ -112,28 +112,28 @@
       "openGraph": {
         "title": "Bava Med 21/1 Original Blitz - bava medical | ab 3,95 €",
         "description": "Bava Med 21/1 Original Blitz von bava medical. THC: 21%, CBD: 0.1%. Sorte: Original Blitz. Preis ab 3,95 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/bava-med-211-original-blitz",
+        "url": "https://cannabisblueten.de/product/bava-med-211-original-blitz",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "bava medical",
-        "href": "https://weed.de/brand/bava-medical"
+        "href": "https://cannabisblueten.de/brand/bava-medical"
       },
       {
         "name": "Bava Med 21/1 Original Blitz",
-        "href": "https://weed.de/product/bava-med-211-original-blitz"
+        "href": "https://cannabisblueten.de/product/bava-med-211-original-blitz"
       }
     ],
     "schema": [
@@ -145,19 +145,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Bava Med 21/1 Original Blitz",
-            "item": "https://weed.de/product/bava-med-211-original-blitz"
+            "item": "https://cannabisblueten.de/product/bava-med-211-original-blitz"
           }
         ]
       },
@@ -165,11 +165,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Bava Med 21/1 Original Blitz",
+        "url": "https://cannabisblueten.de/product/bava-med-211-original-blitz",
         "brand": {
           "@type": "Brand",
           "name": "bava medical"
         },
-        "description": "THC: 21%, CBD: 0.1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 21%, CBD: 0.1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/bava-med-211-original-blitz",
+          "priceCurrency": "EUR",
+          "price": "3.95",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "3.95",
+            "maxPrice": "4.95",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

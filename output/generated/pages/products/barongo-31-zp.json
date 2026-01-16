@@ -116,7 +116,7 @@
     "meta": {
       "title": "BARONGO 30/1 ZP - WMG Pharma | ab 5,85 €",
       "description": "BARONGO 30/1 ZP von WMG Pharma. THC: 30%, CBD: 1%. Sorte: Zesty Parm. Preis ab 5,85 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/barongo-31-zp",
+      "canonical": "https://cannabisblueten.de/product/barongo-31-zp",
       "robots": {
         "index": true,
         "follow": true
@@ -124,9 +124,9 @@
       "openGraph": {
         "title": "BARONGO 30/1 ZP - WMG Pharma | ab 5,85 €",
         "description": "BARONGO 30/1 ZP von WMG Pharma. THC: 30%, CBD: 1%. Sorte: Zesty Parm. Preis ab 5,85 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/barongo-31-zp",
+        "url": "https://cannabisblueten.de/product/barongo-31-zp",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/barongo-31-zp-hjadc3.png"
       }
@@ -134,19 +134,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "WMG Pharma",
-        "href": "https://weed.de/brand/wmg-pharma"
+        "href": "https://cannabisblueten.de/brand/wmg-pharma"
       },
       {
         "name": "BARONGO 30/1 ZP",
-        "href": "https://weed.de/product/barongo-31-zp"
+        "href": "https://cannabisblueten.de/product/barongo-31-zp"
       }
     ],
     "schema": [
@@ -158,19 +158,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "BARONGO 30/1 ZP",
-            "item": "https://weed.de/product/barongo-31-zp"
+            "item": "https://cannabisblueten.de/product/barongo-31-zp"
           }
         ]
       },
@@ -178,11 +178,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "BARONGO 30/1 ZP",
+        "url": "https://cannabisblueten.de/product/barongo-31-zp",
         "brand": {
           "@type": "Brand",
           "name": "WMG Pharma"
         },
-        "description": "THC: 30%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 30%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/barongo-31-zp",
+          "priceCurrency": "EUR",
+          "price": "5.85",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "5.85",
+            "maxPrice": "8.90",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

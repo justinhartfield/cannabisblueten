@@ -113,7 +113,7 @@
     "meta": {
       "title": "Remexian WTF 24/1 MIC SGC - Remexian Pharma | ab 4,99 €",
       "description": "Remexian WTF 24/1 MIC SGC von Remexian Pharma. THC: 24%, CBD: 1%. Sorte: Sugar Cookie. Preis ab 4,99 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/remexian-wtf-241-mic-sgc-sugar-cookies",
+      "canonical": "https://cannabisblueten.de/product/remexian-wtf-241-mic-sgc-sugar-cookies",
       "robots": {
         "index": true,
         "follow": true
@@ -121,28 +121,28 @@
       "openGraph": {
         "title": "Remexian WTF 24/1 MIC SGC - Remexian Pharma | ab 4,99 €",
         "description": "Remexian WTF 24/1 MIC SGC von Remexian Pharma. THC: 24%, CBD: 1%. Sorte: Sugar Cookie. Preis ab 4,99 €. Preise vergleichen.",
-        "url": "https://weed.de/product/remexian-wtf-241-mic-sgc-sugar-cookies",
+        "url": "https://cannabisblueten.de/product/remexian-wtf-241-mic-sgc-sugar-cookies",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Remexian Pharma",
-        "href": "https://weed.de/brand/remexian-pharma"
+        "href": "https://cannabisblueten.de/brand/remexian-pharma"
       },
       {
         "name": "Remexian WTF 24/1 MIC SGC",
-        "href": "https://weed.de/product/remexian-wtf-241-mic-sgc-sugar-cookies"
+        "href": "https://cannabisblueten.de/product/remexian-wtf-241-mic-sgc-sugar-cookies"
       }
     ],
     "schema": [
@@ -154,19 +154,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Remexian WTF 24/1 MIC SGC",
-            "item": "https://weed.de/product/remexian-wtf-241-mic-sgc-sugar-cookies"
+            "item": "https://cannabisblueten.de/product/remexian-wtf-241-mic-sgc-sugar-cookies"
           }
         ]
       },
@@ -174,11 +174,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Remexian WTF 24/1 MIC SGC",
+        "url": "https://cannabisblueten.de/product/remexian-wtf-241-mic-sgc-sugar-cookies",
         "brand": {
           "@type": "Brand",
           "name": "Remexian Pharma"
         },
-        "description": "THC: 24%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 24%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/remexian-wtf-241-mic-sgc-sugar-cookies",
+          "priceCurrency": "EUR",
+          "price": "4.99",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

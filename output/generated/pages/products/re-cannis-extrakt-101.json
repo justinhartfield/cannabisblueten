@@ -78,7 +78,7 @@
     "meta": {
       "title": "Re Cannis Extrakt 10/1 - Fette Pharma GmbH | ab 45,95 €",
       "description": "Re Cannis Extrakt 10/1 von Fette Pharma GmbH. THC: 10%, CBD: 1%. Preis ab 45,95 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/re-cannis-extrakt-101",
+      "canonical": "https://cannabisblueten.de/product/re-cannis-extrakt-101",
       "robots": {
         "index": true,
         "follow": true
@@ -86,28 +86,28 @@
       "openGraph": {
         "title": "Re Cannis Extrakt 10/1 - Fette Pharma GmbH | ab 45,95 €",
         "description": "Re Cannis Extrakt 10/1 von Fette Pharma GmbH. THC: 10%, CBD: 1%. Preis ab 45,95 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/re-cannis-extrakt-101",
+        "url": "https://cannabisblueten.de/product/re-cannis-extrakt-101",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Fette Pharma GmbH",
-        "href": "https://weed.de/brand/fette-pharma-gmbh"
+        "href": "https://cannabisblueten.de/brand/fette-pharma-gmbh"
       },
       {
         "name": "Re Cannis Extrakt 10/1",
-        "href": "https://weed.de/product/re-cannis-extrakt-101"
+        "href": "https://cannabisblueten.de/product/re-cannis-extrakt-101"
       }
     ],
     "schema": [
@@ -119,19 +119,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Re Cannis Extrakt 10/1",
-            "item": "https://weed.de/product/re-cannis-extrakt-101"
+            "item": "https://cannabisblueten.de/product/re-cannis-extrakt-101"
           }
         ]
       },
@@ -139,11 +139,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Re Cannis Extrakt 10/1",
+        "url": "https://cannabisblueten.de/product/re-cannis-extrakt-101",
         "brand": {
           "@type": "Brand",
           "name": "Fette Pharma GmbH"
         },
-        "description": "THC: 10%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 10%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/re-cannis-extrakt-101",
+          "priceCurrency": "EUR",
+          "price": "45.95",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

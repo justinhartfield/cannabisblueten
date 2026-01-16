@@ -65,7 +65,7 @@
     "meta": {
       "title": "Ahorn Medics - Cannabis Apotheke in Mörfelden-Walldorf",
       "description": "Ahorn Medics in Mörfelden-Walldorf. 50 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/ahorn-medics",
+      "canonical": "https://cannabisblueten.de/apotheke/ahorn-medics",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Ahorn Medics - Cannabis Apotheke in Mörfelden-Walldorf",
         "description": "Ahorn Medics in Mörfelden-Walldorf. 50 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/ahorn-medics",
+        "url": "https://cannabisblueten.de/apotheke/ahorn-medics",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/6814ca71edc6362219accda6-c88785.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Mörfelden-Walldorf",
-        "href": "https://weed.de/cannabis-apotheke/moerfelden-walldorf"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/moerfelden-walldorf"
       },
       {
         "name": "Ahorn Medics",
-        "href": "https://weed.de/apotheke/ahorn-medics"
+        "href": "https://cannabisblueten.de/apotheke/ahorn-medics"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Mörfelden-Walldorf",
-            "item": "https://weed.de/cannabis-apotheke/moerfelden-walldorf"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/moerfelden-walldorf"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Ahorn Medics",
-            "item": "https://weed.de/apotheke/ahorn-medics"
+            "item": "https://cannabisblueten.de/apotheke/ahorn-medics"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Ahorn Medics",
-        "url": "https://weed.de/apotheke/ahorn-medics",
+        "url": "https://cannabisblueten.de/apotheke/ahorn-medics",
+        "description": "Cannabis Apotheke in Mörfelden-Walldorf. 50 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Bahnhofstraße 6 - 8",
@@ -142,8 +143,31 @@
           "addressRegion": "Hessen",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 49.9762899,
+          "longitude": 8.567444799999999
+        },
         "telephone": "061054556640",
-        "email": "shop@ahornmedics.de"
+        "email": "shop@ahornmedics.de",
+        "sameAs": "https://ahornmedics.de/",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ]
       }
     ]
   },

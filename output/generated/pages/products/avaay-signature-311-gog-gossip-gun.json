@@ -112,7 +112,7 @@
     "meta": {
       "title": "avaay Signature 31/1 GOG Gossip Gun - Avaay | ab 7,97 €",
       "description": "avaay Signature 31/1 GOG Gossip Gun von Avaay. THC: 31%, CBD: 1%. Sorte: Gossip Gun. Preis ab 7,97 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/avaay-signature-311-gog-gossip-gun",
+      "canonical": "https://cannabisblueten.de/product/avaay-signature-311-gog-gossip-gun",
       "robots": {
         "index": true,
         "follow": true
@@ -120,9 +120,9 @@
       "openGraph": {
         "title": "avaay Signature 31/1 GOG Gossip Gun - Avaay | ab 7,97 €",
         "description": "avaay Signature 31/1 GOG Gossip Gun von Avaay. THC: 31%, CBD: 1%. Sorte: Gossip Gun. Preis ab 7,97 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/avaay-signature-311-gog-gossip-gun",
+        "url": "https://cannabisblueten.de/product/avaay-signature-311-gog-gossip-gun",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/avaay-signature-311-gog-gossip-gun-9g2gb3.png"
       }
@@ -130,19 +130,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Avaay",
-        "href": "https://weed.de/brand/avaay"
+        "href": "https://cannabisblueten.de/brand/avaay"
       },
       {
         "name": "avaay Signature 31/1 GOG Gossip Gun",
-        "href": "https://weed.de/product/avaay-signature-311-gog-gossip-gun"
+        "href": "https://cannabisblueten.de/product/avaay-signature-311-gog-gossip-gun"
       }
     ],
     "schema": [
@@ -154,19 +154,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "avaay Signature 31/1 GOG Gossip Gun",
-            "item": "https://weed.de/product/avaay-signature-311-gog-gossip-gun"
+            "item": "https://cannabisblueten.de/product/avaay-signature-311-gog-gossip-gun"
           }
         ]
       },
@@ -174,11 +174,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "avaay Signature 31/1 GOG Gossip Gun",
+        "url": "https://cannabisblueten.de/product/avaay-signature-311-gog-gossip-gun",
         "brand": {
           "@type": "Brand",
           "name": "Avaay"
         },
-        "description": "THC: 31%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 31%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/avaay-signature-311-gog-gossip-gun",
+          "priceCurrency": "EUR",
+          "price": "7.97",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "7.97",
+            "maxPrice": "12.95",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

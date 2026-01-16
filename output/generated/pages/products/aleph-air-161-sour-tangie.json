@@ -104,7 +104,7 @@
     "meta": {
       "title": "aleph air 16/1 Sour Tangie - alephSana | ab 3,59 €",
       "description": "aleph air 16/1 Sour Tangie von alephSana. THC: 16%, CBD: 1%. Sorte: Sour Tangie. Preis ab 3,59 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/aleph-air-161-sour-tangie",
+      "canonical": "https://cannabisblueten.de/product/aleph-air-161-sour-tangie",
       "robots": {
         "index": true,
         "follow": true
@@ -112,9 +112,9 @@
       "openGraph": {
         "title": "aleph air 16/1 Sour Tangie - alephSana | ab 3,59 €",
         "description": "aleph air 16/1 Sour Tangie von alephSana. THC: 16%, CBD: 1%. Sorte: Sour Tangie. Preis ab 3,59 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/aleph-air-161-sour-tangie",
+        "url": "https://cannabisblueten.de/product/aleph-air-161-sour-tangie",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/aleph-air-161-sour-tangie-h1fabe.webp"
       }
@@ -122,19 +122,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "alephSana",
-        "href": "https://weed.de/brand/alephsana"
+        "href": "https://cannabisblueten.de/brand/alephsana"
       },
       {
         "name": "aleph air 16/1 Sour Tangie",
-        "href": "https://weed.de/product/aleph-air-161-sour-tangie"
+        "href": "https://cannabisblueten.de/product/aleph-air-161-sour-tangie"
       }
     ],
     "schema": [
@@ -146,19 +146,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "aleph air 16/1 Sour Tangie",
-            "item": "https://weed.de/product/aleph-air-161-sour-tangie"
+            "item": "https://cannabisblueten.de/product/aleph-air-161-sour-tangie"
           }
         ]
       },
@@ -166,11 +166,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "aleph air 16/1 Sour Tangie",
+        "url": "https://cannabisblueten.de/product/aleph-air-161-sour-tangie",
         "brand": {
           "@type": "Brand",
           "name": "alephSana"
         },
-        "description": "THC: 16%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 16%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/aleph-air-161-sour-tangie",
+          "priceCurrency": "EUR",
+          "price": "3.59",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "3.59",
+            "maxPrice": "4.45",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

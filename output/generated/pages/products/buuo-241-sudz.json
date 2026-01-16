@@ -99,7 +99,7 @@
     "meta": {
       "title": "Buuo 24/1 Sudz - WMG Pharma | ab 5,75 €",
       "description": "Buuo 24/1 Sudz von WMG Pharma. THC: 24%, CBD: 1%. Sorte: Sudz. Preis ab 5,75 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/buuo-241-sudz",
+      "canonical": "https://cannabisblueten.de/product/buuo-241-sudz",
       "robots": {
         "index": true,
         "follow": true
@@ -107,9 +107,9 @@
       "openGraph": {
         "title": "Buuo 24/1 Sudz - WMG Pharma | ab 5,75 €",
         "description": "Buuo 24/1 Sudz von WMG Pharma. THC: 24%, CBD: 1%. Sorte: Sudz. Preis ab 5,75 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/buuo-241-sudz",
+        "url": "https://cannabisblueten.de/product/buuo-241-sudz",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/buuo-241-sudz-a0dgfj.png"
       }
@@ -117,19 +117,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "WMG Pharma",
-        "href": "https://weed.de/brand/wmg-pharma"
+        "href": "https://cannabisblueten.de/brand/wmg-pharma"
       },
       {
         "name": "Buuo 24/1 Sudz",
-        "href": "https://weed.de/product/buuo-241-sudz"
+        "href": "https://cannabisblueten.de/product/buuo-241-sudz"
       }
     ],
     "schema": [
@@ -141,19 +141,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Buuo 24/1 Sudz",
-            "item": "https://weed.de/product/buuo-241-sudz"
+            "item": "https://cannabisblueten.de/product/buuo-241-sudz"
           }
         ]
       },
@@ -161,11 +161,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Buuo 24/1 Sudz",
+        "url": "https://cannabisblueten.de/product/buuo-241-sudz",
         "brand": {
           "@type": "Brand",
           "name": "WMG Pharma"
         },
-        "description": "THC: 24%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 24%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/buuo-241-sudz",
+          "priceCurrency": "EUR",
+          "price": "5.75",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

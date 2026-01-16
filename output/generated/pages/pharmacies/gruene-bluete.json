@@ -65,7 +65,7 @@
     "meta": {
       "title": "Grüne Blüte - Cannabis Apotheke in Markkleeberg",
       "description": "Grüne Blüte in Markkleeberg. 60 Cannabis Produkte. Lieferung & Abholung. Bewertung: 1.0/5. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/gruene-bluete",
+      "canonical": "https://cannabisblueten.de/apotheke/gruene-bluete",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Grüne Blüte - Cannabis Apotheke in Markkleeberg",
         "description": "Grüne Blüte in Markkleeberg. 60 Cannabis Produkte. Lieferung & Abholung. Bewertung: 1.0/5. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/gruene-bluete",
+        "url": "https://cannabisblueten.de/apotheke/gruene-bluete",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/68591468bd9b69ff07e1ea7a-6g3ga7.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Markkleeberg",
-        "href": "https://weed.de/cannabis-apotheke/markkleeberg"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/markkleeberg"
       },
       {
         "name": "Grüne Blüte",
-        "href": "https://weed.de/apotheke/gruene-bluete"
+        "href": "https://cannabisblueten.de/apotheke/gruene-bluete"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Markkleeberg",
-            "item": "https://weed.de/cannabis-apotheke/markkleeberg"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/markkleeberg"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Grüne Blüte",
-            "item": "https://weed.de/apotheke/gruene-bluete"
+            "item": "https://cannabisblueten.de/apotheke/gruene-bluete"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Grüne Blüte",
-        "url": "https://weed.de/apotheke/gruene-bluete",
+        "url": "https://cannabisblueten.de/apotheke/gruene-bluete",
+        "description": "Cannabis Apotheke in Markkleeberg. 60 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Magdeborner Straße 14",
@@ -142,8 +143,37 @@
           "addressRegion": "Sachsen",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 51.2811916,
+          "longitude": 12.4258181
+        },
         "telephone": "03492723100",
-        "email": "service@gruenebluete.de"
+        "email": "service@gruenebluete.de",
+        "sameAs": "https://gruenebluete.de/",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "1.0",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
       }
     ]
   },

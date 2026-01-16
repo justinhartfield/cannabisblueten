@@ -65,7 +65,7 @@
     "meta": {
       "title": "Klindwort Apotheke im LUV - Cannabis Apotheke in Lübeck",
       "description": "Klindwort Apotheke im LUV in Lübeck. Abholung. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/klindwort-apotheke-im-luv",
+      "canonical": "https://cannabisblueten.de/apotheke/klindwort-apotheke-im-luv",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Klindwort Apotheke im LUV - Cannabis Apotheke in Lübeck",
         "description": "Klindwort Apotheke im LUV in Lübeck. Abholung. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/klindwort-apotheke-im-luv",
+        "url": "https://cannabisblueten.de/apotheke/klindwort-apotheke-im-luv",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/67e2771941a42f858b6a50d7-6j49da.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Lübeck",
-        "href": "https://weed.de/cannabis-apotheke/luebeck"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/luebeck"
       },
       {
         "name": "Klindwort Apotheke im LUV",
-        "href": "https://weed.de/apotheke/klindwort-apotheke-im-luv"
+        "href": "https://cannabisblueten.de/apotheke/klindwort-apotheke-im-luv"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Lübeck",
-            "item": "https://weed.de/cannabis-apotheke/luebeck"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/luebeck"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Klindwort Apotheke im LUV",
-            "item": "https://weed.de/apotheke/klindwort-apotheke-im-luv"
+            "item": "https://cannabisblueten.de/apotheke/klindwort-apotheke-im-luv"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Klindwort Apotheke im LUV",
-        "url": "https://weed.de/apotheke/klindwort-apotheke-im-luv",
+        "url": "https://cannabisblueten.de/apotheke/klindwort-apotheke-im-luv",
+        "description": "Cannabis Apotheke in Lübeck. 0 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Dänischburger Landstraße 81",
@@ -142,8 +143,23 @@
           "addressRegion": "Schleswig-Holstein",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 53.9118702,
+          "longitude": 10.7332298
+        },
         "telephone": "04512925090",
-        "email": "apo5@klindwort.de"
+        "email": "apo5@klindwort.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ]
       }
     ]
   },

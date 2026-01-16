@@ -103,7 +103,7 @@
     "meta": {
       "title": "Cannamedical Sativa Classic NM AA | ab 7,80 €",
       "description": "Cannamedical Sativa Classic NM AA von Cannamedical. THC: 18.8%, CBD: 1%. Sorte: Amsterdam Amnesia. Preis ab 7,80 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/cannamedical-sativa-classic-nm-aa",
+      "canonical": "https://cannabisblueten.de/product/cannamedical-sativa-classic-nm-aa",
       "robots": {
         "index": true,
         "follow": true
@@ -111,9 +111,9 @@
       "openGraph": {
         "title": "Cannamedical Sativa Classic NM AA | ab 7,80 €",
         "description": "Cannamedical Sativa Classic NM AA von Cannamedical. THC: 18.8%, CBD: 1%. Sorte: Amsterdam Amnesia. Preis ab 7,80 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/cannamedical-sativa-classic-nm-aa",
+        "url": "https://cannabisblueten.de/product/cannamedical-sativa-classic-nm-aa",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/cannamedical-sativa-classic-nm-aa-6jhb85.png"
       }
@@ -121,19 +121,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cannamedical",
-        "href": "https://weed.de/brand/cannamedical"
+        "href": "https://cannabisblueten.de/brand/cannamedical"
       },
       {
         "name": "Cannamedical Sativa Classic NM AA",
-        "href": "https://weed.de/product/cannamedical-sativa-classic-nm-aa"
+        "href": "https://cannabisblueten.de/product/cannamedical-sativa-classic-nm-aa"
       }
     ],
     "schema": [
@@ -145,19 +145,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Cannamedical Sativa Classic NM AA",
-            "item": "https://weed.de/product/cannamedical-sativa-classic-nm-aa"
+            "item": "https://cannabisblueten.de/product/cannamedical-sativa-classic-nm-aa"
           }
         ]
       },
@@ -165,11 +165,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Cannamedical Sativa Classic NM AA",
+        "url": "https://cannabisblueten.de/product/cannamedical-sativa-classic-nm-aa",
         "brand": {
           "@type": "Brand",
           "name": "Cannamedical"
         },
-        "description": "THC: 18.8%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 18.8%, CBD: 1%, Genetik: sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/cannamedical-sativa-classic-nm-aa",
+          "priceCurrency": "EUR",
+          "price": "7.80",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "7.80",
+            "maxPrice": "9.95",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

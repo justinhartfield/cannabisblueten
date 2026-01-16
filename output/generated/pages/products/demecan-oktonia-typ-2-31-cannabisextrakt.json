@@ -103,7 +103,7 @@
     "meta": {
       "title": "Demecan Oktonia Typ 2 30:01 (Cannabisextrakt) | ab 10,67 €",
       "description": "Demecan Oktonia Typ 2 30:01 (Cannabisextrakt) von Demecan. THC: 30%, CBD: 1%. Sorte: Orange Velvet. Preis ab 10,67 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/demecan-oktonia-typ-2-31-cannabisextrakt",
+      "canonical": "https://cannabisblueten.de/product/demecan-oktonia-typ-2-31-cannabisextrakt",
       "robots": {
         "index": true,
         "follow": true
@@ -111,9 +111,9 @@
       "openGraph": {
         "title": "Demecan Oktonia Typ 2 30:01 (Cannabisextrakt) | ab 10,67 €",
         "description": "Demecan Oktonia Typ 2 30:01 (Cannabisextrakt) von Demecan. THC: 30%, CBD: 1%. Sorte: Orange Velvet. Preis ab 10,67 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/demecan-oktonia-typ-2-31-cannabisextrakt",
+        "url": "https://cannabisblueten.de/product/demecan-oktonia-typ-2-31-cannabisextrakt",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/products/demecan-oktonia-typ-2-31-cannabisextrakt-bdb7df.png"
       }
@@ -121,19 +121,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Demecan",
-        "href": "https://weed.de/brand/demecan"
+        "href": "https://cannabisblueten.de/brand/demecan"
       },
       {
         "name": "Demecan Oktonia Typ 2 30:01 (Cannabisextrakt)",
-        "href": "https://weed.de/product/demecan-oktonia-typ-2-31-cannabisextrakt"
+        "href": "https://cannabisblueten.de/product/demecan-oktonia-typ-2-31-cannabisextrakt"
       }
     ],
     "schema": [
@@ -145,19 +145,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Demecan Oktonia Typ 2 30:01 (Cannabisextrakt)",
-            "item": "https://weed.de/product/demecan-oktonia-typ-2-31-cannabisextrakt"
+            "item": "https://cannabisblueten.de/product/demecan-oktonia-typ-2-31-cannabisextrakt"
           }
         ]
       },
@@ -165,11 +165,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Demecan Oktonia Typ 2 30:01 (Cannabisextrakt)",
+        "url": "https://cannabisblueten.de/product/demecan-oktonia-typ-2-31-cannabisextrakt",
         "brand": {
           "@type": "Brand",
           "name": "Demecan"
         },
-        "description": "THC: 30%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 30%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/demecan-oktonia-typ-2-31-cannabisextrakt",
+          "priceCurrency": "EUR",
+          "price": "10.67",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "10.67",
+            "maxPrice": "11.66",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

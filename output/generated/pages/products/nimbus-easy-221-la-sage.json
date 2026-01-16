@@ -117,7 +117,7 @@
     "meta": {
       "title": "Nimbus easy 22/1 La Sage - Nimbus Health | ab 3,99 €",
       "description": "Nimbus easy 22/1 La Sage von Nimbus Health. THC: 22%, CBD: 1%. Sorte: La Sage. Preis ab 3,99 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/nimbus-easy-221-la-sage",
+      "canonical": "https://cannabisblueten.de/product/nimbus-easy-221-la-sage",
       "robots": {
         "index": true,
         "follow": true
@@ -125,9 +125,9 @@
       "openGraph": {
         "title": "Nimbus easy 22/1 La Sage - Nimbus Health | ab 3,99 €",
         "description": "Nimbus easy 22/1 La Sage von Nimbus Health. THC: 22%, CBD: 1%. Sorte: La Sage. Preis ab 3,99 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/nimbus-easy-221-la-sage",
+        "url": "https://cannabisblueten.de/product/nimbus-easy-221-la-sage",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/nimbus-easy-221-la-sage-jg67jb.png"
       }
@@ -135,19 +135,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Nimbus Health",
-        "href": "https://weed.de/brand/nimbus-health"
+        "href": "https://cannabisblueten.de/brand/nimbus-health"
       },
       {
         "name": "Nimbus easy 22/1 La Sage",
-        "href": "https://weed.de/product/nimbus-easy-221-la-sage"
+        "href": "https://cannabisblueten.de/product/nimbus-easy-221-la-sage"
       }
     ],
     "schema": [
@@ -159,19 +159,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Nimbus easy 22/1 La Sage",
-            "item": "https://weed.de/product/nimbus-easy-221-la-sage"
+            "item": "https://cannabisblueten.de/product/nimbus-easy-221-la-sage"
           }
         ]
       },
@@ -179,11 +179,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Nimbus easy 22/1 La Sage",
+        "url": "https://cannabisblueten.de/product/nimbus-easy-221-la-sage",
         "brand": {
           "@type": "Brand",
           "name": "Nimbus Health"
         },
-        "description": "THC: 22%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 22%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/nimbus-easy-221-la-sage",
+          "priceCurrency": "EUR",
+          "price": "3.99",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "3.99",
+            "maxPrice": "8.99",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

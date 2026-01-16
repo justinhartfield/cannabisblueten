@@ -116,7 +116,7 @@
     "meta": {
       "title": "Remexian 30/1 PGR MSH - Remexian Pharma | ab 4,99 €",
       "description": "Remexian 30/1 PGR MSH von Remexian Pharma. THC: 31.7%, CBD: 1%. Sorte: Mint Smash. Preis ab 4,99 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/remexian-31-pgr-msh",
+      "canonical": "https://cannabisblueten.de/product/remexian-31-pgr-msh",
       "robots": {
         "index": true,
         "follow": true
@@ -124,28 +124,28 @@
       "openGraph": {
         "title": "Remexian 30/1 PGR MSH - Remexian Pharma | ab 4,99 €",
         "description": "Remexian 30/1 PGR MSH von Remexian Pharma. THC: 31.7%, CBD: 1%. Sorte: Mint Smash. Preis ab 4,99 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/remexian-31-pgr-msh",
+        "url": "https://cannabisblueten.de/product/remexian-31-pgr-msh",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Remexian Pharma",
-        "href": "https://weed.de/brand/remexian-pharma"
+        "href": "https://cannabisblueten.de/brand/remexian-pharma"
       },
       {
         "name": "Remexian 30/1 PGR MSH",
-        "href": "https://weed.de/product/remexian-31-pgr-msh"
+        "href": "https://cannabisblueten.de/product/remexian-31-pgr-msh"
       }
     ],
     "schema": [
@@ -157,19 +157,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Remexian 30/1 PGR MSH",
-            "item": "https://weed.de/product/remexian-31-pgr-msh"
+            "item": "https://cannabisblueten.de/product/remexian-31-pgr-msh"
           }
         ]
       },
@@ -177,11 +177,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Remexian 30/1 PGR MSH",
+        "url": "https://cannabisblueten.de/product/remexian-31-pgr-msh",
         "brand": {
           "@type": "Brand",
           "name": "Remexian Pharma"
         },
-        "description": "THC: 31.7%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 31.7%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/remexian-31-pgr-msh",
+          "priceCurrency": "EUR",
+          "price": "4.99",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.99",
+            "maxPrice": "9.00",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

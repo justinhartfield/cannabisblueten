@@ -110,7 +110,7 @@
     "meta": {
       "title": "Avaay 30/1 JFP | ab 7,69 €",
       "description": "Avaay 30/1 JFP von Avaay. THC: 30%, CBD: 1%. Sorte: Jet Fuel Pie. Preis ab 7,69 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/avaay-31-jfp",
+      "canonical": "https://cannabisblueten.de/product/avaay-31-jfp",
       "robots": {
         "index": true,
         "follow": true
@@ -118,9 +118,9 @@
       "openGraph": {
         "title": "Avaay 30/1 JFP | ab 7,69 €",
         "description": "Avaay 30/1 JFP von Avaay. THC: 30%, CBD: 1%. Sorte: Jet Fuel Pie. Preis ab 7,69 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/avaay-31-jfp",
+        "url": "https://cannabisblueten.de/product/avaay-31-jfp",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/avaay-31-jfp-dabb07.png"
       }
@@ -128,19 +128,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Avaay",
-        "href": "https://weed.de/brand/avaay"
+        "href": "https://cannabisblueten.de/brand/avaay"
       },
       {
         "name": "Avaay 30/1 JFP",
-        "href": "https://weed.de/product/avaay-31-jfp"
+        "href": "https://cannabisblueten.de/product/avaay-31-jfp"
       }
     ],
     "schema": [
@@ -152,19 +152,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Avaay 30/1 JFP",
-            "item": "https://weed.de/product/avaay-31-jfp"
+            "item": "https://cannabisblueten.de/product/avaay-31-jfp"
           }
         ]
       },
@@ -172,11 +172,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Avaay 30/1 JFP",
+        "url": "https://cannabisblueten.de/product/avaay-31-jfp",
         "brand": {
           "@type": "Brand",
           "name": "Avaay"
         },
-        "description": "THC: 30%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 30%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/avaay-31-jfp",
+          "priceCurrency": "EUR",
+          "price": "7.69",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "7.69",
+            "maxPrice": "9.95",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

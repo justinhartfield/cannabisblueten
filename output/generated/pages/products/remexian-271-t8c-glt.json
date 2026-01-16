@@ -115,7 +115,7 @@
     "meta": {
       "title": "Remexian 27/1 T8C GLT - Remexian Pharma | ab 4,99 €",
       "description": "Remexian 27/1 T8C GLT von Remexian Pharma. THC: 27%, CBD: 1%. Sorte: Gelato. Preis ab 4,99 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/remexian-271-t8c-glt",
+      "canonical": "https://cannabisblueten.de/product/remexian-271-t8c-glt",
       "robots": {
         "index": true,
         "follow": true
@@ -123,28 +123,28 @@
       "openGraph": {
         "title": "Remexian 27/1 T8C GLT - Remexian Pharma | ab 4,99 €",
         "description": "Remexian 27/1 T8C GLT von Remexian Pharma. THC: 27%, CBD: 1%. Sorte: Gelato. Preis ab 4,99 €. Preise vergleichen.",
-        "url": "https://weed.de/product/remexian-271-t8c-glt",
+        "url": "https://cannabisblueten.de/product/remexian-271-t8c-glt",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Remexian Pharma",
-        "href": "https://weed.de/brand/remexian-pharma"
+        "href": "https://cannabisblueten.de/brand/remexian-pharma"
       },
       {
         "name": "Remexian 27/1 T8C GLT",
-        "href": "https://weed.de/product/remexian-271-t8c-glt"
+        "href": "https://cannabisblueten.de/product/remexian-271-t8c-glt"
       }
     ],
     "schema": [
@@ -156,19 +156,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Remexian 27/1 T8C GLT",
-            "item": "https://weed.de/product/remexian-271-t8c-glt"
+            "item": "https://cannabisblueten.de/product/remexian-271-t8c-glt"
           }
         ]
       },
@@ -176,11 +176,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Remexian 27/1 T8C GLT",
+        "url": "https://cannabisblueten.de/product/remexian-271-t8c-glt",
         "brand": {
           "@type": "Brand",
           "name": "Remexian Pharma"
         },
-        "description": "THC: 27%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 27%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/remexian-271-t8c-glt",
+          "priceCurrency": "EUR",
+          "price": "4.99",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

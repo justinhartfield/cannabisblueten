@@ -118,7 +118,7 @@
     "meta": {
       "title": "enua 33/1 QKZ CA | ab 7,55 €",
       "description": "enua 33/1 QKZ CA von enua. THC: 33%, CBD: 1%. Sorte: Fight Club. Preis ab 7,55 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/enua-331-qkz-ca",
+      "canonical": "https://cannabisblueten.de/product/enua-331-qkz-ca",
       "robots": {
         "index": true,
         "follow": true
@@ -126,28 +126,28 @@
       "openGraph": {
         "title": "enua 33/1 QKZ CA | ab 7,55 €",
         "description": "enua 33/1 QKZ CA von enua. THC: 33%, CBD: 1%. Sorte: Fight Club. Preis ab 7,55 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/enua-331-qkz-ca",
+        "url": "https://cannabisblueten.de/product/enua-331-qkz-ca",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "enua",
-        "href": "https://weed.de/brand/enua"
+        "href": "https://cannabisblueten.de/brand/enua"
       },
       {
         "name": "enua 33/1 QKZ CA",
-        "href": "https://weed.de/product/enua-331-qkz-ca"
+        "href": "https://cannabisblueten.de/product/enua-331-qkz-ca"
       }
     ],
     "schema": [
@@ -159,19 +159,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "enua 33/1 QKZ CA",
-            "item": "https://weed.de/product/enua-331-qkz-ca"
+            "item": "https://cannabisblueten.de/product/enua-331-qkz-ca"
           }
         ]
       },
@@ -179,11 +179,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "enua 33/1 QKZ CA",
+        "url": "https://cannabisblueten.de/product/enua-331-qkz-ca",
         "brand": {
           "@type": "Brand",
           "name": "enua"
         },
-        "description": "THC: 33%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 33%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/enua-331-qkz-ca",
+          "priceCurrency": "EUR",
+          "price": "7.55",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "7.55",
+            "maxPrice": "8.99",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

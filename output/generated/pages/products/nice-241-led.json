@@ -115,7 +115,7 @@
     "meta": {
       "title": "NICE 24/1 LED - Cansativa | ab 4,38 €",
       "description": "NICE 24/1 LED von Cansativa. THC: 24%, CBD: 1%. Sorte: Legendary Larry. Preis ab 4,38 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/nice-241-led",
+      "canonical": "https://cannabisblueten.de/product/nice-241-led",
       "robots": {
         "index": true,
         "follow": true
@@ -123,9 +123,9 @@
       "openGraph": {
         "title": "NICE 24/1 LED - Cansativa | ab 4,38 €",
         "description": "NICE 24/1 LED von Cansativa. THC: 24%, CBD: 1%. Sorte: Legendary Larry. Preis ab 4,38 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/nice-241-led",
+        "url": "https://cannabisblueten.de/product/nice-241-led",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/nice-241-led-0jbc7j.png"
       }
@@ -133,19 +133,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cansativa",
-        "href": "https://weed.de/brand/cansativa"
+        "href": "https://cannabisblueten.de/brand/cansativa"
       },
       {
         "name": "NICE 24/1 LED",
-        "href": "https://weed.de/product/nice-241-led"
+        "href": "https://cannabisblueten.de/product/nice-241-led"
       }
     ],
     "schema": [
@@ -157,19 +157,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "NICE 24/1 LED",
-            "item": "https://weed.de/product/nice-241-led"
+            "item": "https://cannabisblueten.de/product/nice-241-led"
           }
         ]
       },
@@ -177,11 +177,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "NICE 24/1 LED",
+        "url": "https://cannabisblueten.de/product/nice-241-led",
         "brand": {
           "@type": "Brand",
           "name": "Cansativa"
         },
-        "description": "THC: 24%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 24%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/nice-241-led",
+          "priceCurrency": "EUR",
+          "price": "4.38",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.38",
+            "maxPrice": "6.99",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

@@ -65,7 +65,7 @@
     "meta": {
       "title": "Apotheke zum goldenen Anker - Cannabis Apotheke in Berlin",
       "description": "Apotheke zum goldenen Anker in Berlin. 7 Cannabis Produkte. Abholung. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/apotheke-zum-goldenen-anker",
+      "canonical": "https://cannabisblueten.de/apotheke/apotheke-zum-goldenen-anker",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Apotheke zum goldenen Anker - Cannabis Apotheke in Berlin",
         "description": "Apotheke zum goldenen Anker in Berlin. 7 Cannabis Produkte. Abholung. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/apotheke-zum-goldenen-anker",
+        "url": "https://cannabisblueten.de/apotheke/apotheke-zum-goldenen-anker",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/68ff4c2455496c85b508d8a4-4bg8ad.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Berlin",
-        "href": "https://weed.de/cannabis-apotheke/berlin"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/berlin"
       },
       {
         "name": "Apotheke zum goldenen Anker",
-        "href": "https://weed.de/apotheke/apotheke-zum-goldenen-anker"
+        "href": "https://cannabisblueten.de/apotheke/apotheke-zum-goldenen-anker"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Berlin",
-            "item": "https://weed.de/cannabis-apotheke/berlin"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/berlin"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Apotheke zum goldenen Anker",
-            "item": "https://weed.de/apotheke/apotheke-zum-goldenen-anker"
+            "item": "https://cannabisblueten.de/apotheke/apotheke-zum-goldenen-anker"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Apotheke zum goldenen Anker",
-        "url": "https://weed.de/apotheke/apotheke-zum-goldenen-anker",
+        "url": "https://cannabisblueten.de/apotheke/apotheke-zum-goldenen-anker",
+        "description": "Cannabis Apotheke in Berlin. 7 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Lenaustraße 19",
@@ -142,8 +143,24 @@
           "addressRegion": "Berlin",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 52.4905135,
+          "longitude": 13.4283145
+        },
         "telephone": "0306232496",
-        "email": "apo-goldeneranker@hotmail.de"
+        "email": "apo-goldeneranker@hotmail.de",
+        "sameAs": "https://www.apo-goldenenanker.de/",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ]
       }
     ]
   },

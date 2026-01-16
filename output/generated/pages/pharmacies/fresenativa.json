@@ -65,7 +65,7 @@
     "meta": {
       "title": "Fresenativa - Cannabis Apotheke in Hinte",
       "description": "Fresenativa in Hinte. 16 Cannabis Produkte. Abholung. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/fresenativa",
+      "canonical": "https://cannabisblueten.de/apotheke/fresenativa",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Fresenativa - Cannabis Apotheke in Hinte",
         "description": "Fresenativa in Hinte. 16 Cannabis Produkte. Abholung. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/fresenativa",
+        "url": "https://cannabisblueten.de/apotheke/fresenativa",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/690887bbf43e17c633f7be82-b4j6fe.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Hinte",
-        "href": "https://weed.de/cannabis-apotheke/hinte"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/hinte"
       },
       {
         "name": "Fresenativa",
-        "href": "https://weed.de/apotheke/fresenativa"
+        "href": "https://cannabisblueten.de/apotheke/fresenativa"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Hinte",
-            "item": "https://weed.de/cannabis-apotheke/hinte"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/hinte"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Fresenativa",
-            "item": "https://weed.de/apotheke/fresenativa"
+            "item": "https://cannabisblueten.de/apotheke/fresenativa"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Fresenativa",
-        "url": "https://weed.de/apotheke/fresenativa",
+        "url": "https://cannabisblueten.de/apotheke/fresenativa",
+        "description": "Cannabis Apotheke in Hinte. 16 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Hans-Böckler-Allee 126",
@@ -142,8 +143,24 @@
           "addressRegion": "Niedersachsen",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 53.4100888,
+          "longitude": 7.1977102
+        },
         "telephone": "049258077",
-        "email": "cannabis@fresena-apotheke.de"
+        "email": "cannabis@fresena-apotheke.de",
+        "sameAs": "www.fresenativa.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ]
       }
     ]
   },

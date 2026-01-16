@@ -102,7 +102,7 @@
     "meta": {
       "title": "Barongo 28/1 Cali Motion - WMG Pharma | ab 6,98 €",
       "description": "Barongo 28/1 Cali Motion von WMG Pharma. THC: 28%, CBD: 1%. Sorte: LA Animal. Preis ab 6,98 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/barongo-281-cali-motion",
+      "canonical": "https://cannabisblueten.de/product/barongo-281-cali-motion",
       "robots": {
         "index": true,
         "follow": true
@@ -110,9 +110,9 @@
       "openGraph": {
         "title": "Barongo 28/1 Cali Motion - WMG Pharma | ab 6,98 €",
         "description": "Barongo 28/1 Cali Motion von WMG Pharma. THC: 28%, CBD: 1%. Sorte: LA Animal. Preis ab 6,98 €. Preise vergleichen.",
-        "url": "https://weed.de/product/barongo-281-cali-motion",
+        "url": "https://cannabisblueten.de/product/barongo-281-cali-motion",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/barongo-281-cali-motion-hj3j7g.webp"
       }
@@ -120,19 +120,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "WMG Pharma",
-        "href": "https://weed.de/brand/wmg-pharma"
+        "href": "https://cannabisblueten.de/brand/wmg-pharma"
       },
       {
         "name": "Barongo 28/1 Cali Motion",
-        "href": "https://weed.de/product/barongo-281-cali-motion"
+        "href": "https://cannabisblueten.de/product/barongo-281-cali-motion"
       }
     ],
     "schema": [
@@ -144,19 +144,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Barongo 28/1 Cali Motion",
-            "item": "https://weed.de/product/barongo-281-cali-motion"
+            "item": "https://cannabisblueten.de/product/barongo-281-cali-motion"
           }
         ]
       },
@@ -164,11 +164,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Barongo 28/1 Cali Motion",
+        "url": "https://cannabisblueten.de/product/barongo-281-cali-motion",
         "brand": {
           "@type": "Brand",
           "name": "WMG Pharma"
         },
-        "description": "THC: 28%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 28%, CBD: 1%, Genetik: indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/barongo-281-cali-motion",
+          "priceCurrency": "EUR",
+          "price": "6.98",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

@@ -104,7 +104,7 @@
     "meta": {
       "title": "Cannamedical Hybrid Forte 22/1 NM | ab 5,89 €",
       "description": "Cannamedical Hybrid Forte 22/1 NM von Cannamedical. THC: 22%, CBD: 1%. Sorte: Gorilla ZKittlez. Preis ab 5,89 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/cannamedical-hybrid-forte-nm",
+      "canonical": "https://cannabisblueten.de/product/cannamedical-hybrid-forte-nm",
       "robots": {
         "index": true,
         "follow": true
@@ -112,9 +112,9 @@
       "openGraph": {
         "title": "Cannamedical Hybrid Forte 22/1 NM | ab 5,89 €",
         "description": "Cannamedical Hybrid Forte 22/1 NM von Cannamedical. THC: 22%, CBD: 1%. Sorte: Gorilla ZKittlez. Preis ab 5,89 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/cannamedical-hybrid-forte-nm",
+        "url": "https://cannabisblueten.de/product/cannamedical-hybrid-forte-nm",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/cannamedical-hybrid-forte-nm-e755ai.png"
       }
@@ -122,19 +122,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cannamedical",
-        "href": "https://weed.de/brand/cannamedical"
+        "href": "https://cannabisblueten.de/brand/cannamedical"
       },
       {
         "name": "Cannamedical Hybrid Forte 22/1 NM",
-        "href": "https://weed.de/product/cannamedical-hybrid-forte-nm"
+        "href": "https://cannabisblueten.de/product/cannamedical-hybrid-forte-nm"
       }
     ],
     "schema": [
@@ -146,19 +146,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Cannamedical Hybrid Forte 22/1 NM",
-            "item": "https://weed.de/product/cannamedical-hybrid-forte-nm"
+            "item": "https://cannabisblueten.de/product/cannamedical-hybrid-forte-nm"
           }
         ]
       },
@@ -166,11 +166,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Cannamedical Hybrid Forte 22/1 NM",
+        "url": "https://cannabisblueten.de/product/cannamedical-hybrid-forte-nm",
         "brand": {
           "@type": "Brand",
           "name": "Cannamedical"
         },
-        "description": "THC: 22%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 22%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/cannamedical-hybrid-forte-nm",
+          "priceCurrency": "EUR",
+          "price": "5.89",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "5.89",
+            "maxPrice": "10.99",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

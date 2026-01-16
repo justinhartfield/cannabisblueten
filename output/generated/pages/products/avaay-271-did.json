@@ -115,7 +115,7 @@
     "meta": {
       "title": "avaay 27/1 DID - Avaay | ab 6,79 €",
       "description": "avaay 27/1 DID von Avaay. THC: 27%, CBD: 1%. Sorte: Do-Si-Dos. Preis ab 6,79 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/avaay-271-did",
+      "canonical": "https://cannabisblueten.de/product/avaay-271-did",
       "robots": {
         "index": true,
         "follow": true
@@ -123,9 +123,9 @@
       "openGraph": {
         "title": "avaay 27/1 DID - Avaay | ab 6,79 €",
         "description": "avaay 27/1 DID von Avaay. THC: 27%, CBD: 1%. Sorte: Do-Si-Dos. Preis ab 6,79 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/avaay-271-did",
+        "url": "https://cannabisblueten.de/product/avaay-271-did",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/avaay-271-did-664h07.png"
       }
@@ -133,19 +133,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Avaay",
-        "href": "https://weed.de/brand/avaay"
+        "href": "https://cannabisblueten.de/brand/avaay"
       },
       {
         "name": "avaay 27/1 DID",
-        "href": "https://weed.de/product/avaay-271-did"
+        "href": "https://cannabisblueten.de/product/avaay-271-did"
       }
     ],
     "schema": [
@@ -157,19 +157,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "avaay 27/1 DID",
-            "item": "https://weed.de/product/avaay-271-did"
+            "item": "https://cannabisblueten.de/product/avaay-271-did"
           }
         ]
       },
@@ -177,11 +177,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "avaay 27/1 DID",
+        "url": "https://cannabisblueten.de/product/avaay-271-did",
         "brand": {
           "@type": "Brand",
           "name": "Avaay"
         },
-        "description": "THC: 27%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 27%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/avaay-271-did",
+          "priceCurrency": "EUR",
+          "price": "6.79",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "6.79",
+            "maxPrice": "9.95",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

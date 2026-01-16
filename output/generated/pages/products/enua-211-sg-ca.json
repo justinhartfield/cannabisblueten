@@ -128,7 +128,7 @@
     "meta": {
       "title": "enua 21/1 SG CA | ab 8,99 €",
       "description": "enua 21/1 SG CA von enua. THC: 21%, CBD: 1%. Sorte: Sherbert Glue. Preis ab 8,99 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/enua-211-sg-ca",
+      "canonical": "https://cannabisblueten.de/product/enua-211-sg-ca",
       "robots": {
         "index": true,
         "follow": true
@@ -136,28 +136,28 @@
       "openGraph": {
         "title": "enua 21/1 SG CA | ab 8,99 €",
         "description": "enua 21/1 SG CA von enua. THC: 21%, CBD: 1%. Sorte: Sherbert Glue. Preis ab 8,99 €. Preise vergleichen.",
-        "url": "https://weed.de/product/enua-211-sg-ca",
+        "url": "https://cannabisblueten.de/product/enua-211-sg-ca",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "enua",
-        "href": "https://weed.de/brand/enua"
+        "href": "https://cannabisblueten.de/brand/enua"
       },
       {
         "name": "enua 21/1 SG CA",
-        "href": "https://weed.de/product/enua-211-sg-ca"
+        "href": "https://cannabisblueten.de/product/enua-211-sg-ca"
       }
     ],
     "schema": [
@@ -169,19 +169,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "enua 21/1 SG CA",
-            "item": "https://weed.de/product/enua-211-sg-ca"
+            "item": "https://cannabisblueten.de/product/enua-211-sg-ca"
           }
         ]
       },
@@ -189,12 +189,23 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "enua 21/1 SG CA",
+        "url": "https://cannabisblueten.de/product/enua-211-sg-ca",
         "brand": {
           "@type": "Brand",
           "name": "enua"
         },
         "gtin13": [],
-        "description": "THC: 21%, CBD: 1%"
+        "sku": [],
+        "description": "Medizinisches Cannabis Produkt. THC: 21%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/enua-211-sg-ca",
+          "priceCurrency": "EUR",
+          "price": "8.99",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

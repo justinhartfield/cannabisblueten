@@ -119,7 +119,7 @@
     "meta": {
       "title": "Cannamedical CM 28/1 DM | ab 6,49 €",
       "description": "Cannamedical CM 28/1 DM von Cannamedical. THC: 28%, CBD: 1%. Sorte: Diamond Mints. Preis ab 6,49 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/cannamedical-cm-281-dm",
+      "canonical": "https://cannabisblueten.de/product/cannamedical-cm-281-dm",
       "robots": {
         "index": true,
         "follow": true
@@ -127,9 +127,9 @@
       "openGraph": {
         "title": "Cannamedical CM 28/1 DM | ab 6,49 €",
         "description": "Cannamedical CM 28/1 DM von Cannamedical. THC: 28%, CBD: 1%. Sorte: Diamond Mints. Preis ab 6,49 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/cannamedical-cm-281-dm",
+        "url": "https://cannabisblueten.de/product/cannamedical-cm-281-dm",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/cannamedical-cm-281-dm-98fee3.png"
       }
@@ -137,19 +137,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cannamedical",
-        "href": "https://weed.de/brand/cannamedical"
+        "href": "https://cannabisblueten.de/brand/cannamedical"
       },
       {
         "name": "Cannamedical CM 28/1 DM",
-        "href": "https://weed.de/product/cannamedical-cm-281-dm"
+        "href": "https://cannabisblueten.de/product/cannamedical-cm-281-dm"
       }
     ],
     "schema": [
@@ -161,19 +161,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Cannamedical CM 28/1 DM",
-            "item": "https://weed.de/product/cannamedical-cm-281-dm"
+            "item": "https://cannabisblueten.de/product/cannamedical-cm-281-dm"
           }
         ]
       },
@@ -181,11 +181,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Cannamedical CM 28/1 DM",
+        "url": "https://cannabisblueten.de/product/cannamedical-cm-281-dm",
         "brand": {
           "@type": "Brand",
           "name": "Cannamedical"
         },
-        "description": "THC: 28%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 28%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/cannamedical-cm-281-dm",
+          "priceCurrency": "EUR",
+          "price": "6.49",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "6.49",
+            "maxPrice": "14.28",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

@@ -65,7 +65,7 @@
     "meta": {
       "title": "Marienhuana Apotheke - Cannabis Apotheke in Karlsruhe",
       "description": "Marienhuana Apotheke in Karlsruhe. 43 Cannabis Produkte. Lieferung & Abholung. Bewertung: 3.0/5. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/marienhuana-apotheke",
+      "canonical": "https://cannabisblueten.de/apotheke/marienhuana-apotheke",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Marienhuana Apotheke - Cannabis Apotheke in Karlsruhe",
         "description": "Marienhuana Apotheke in Karlsruhe. 43 Cannabis Produkte. Lieferung & Abholung. Bewertung: 3.0/5. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/marienhuana-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/marienhuana-apotheke",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/66b87ec5b180f5750faaaaa1-fcd452.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Karlsruhe",
-        "href": "https://weed.de/cannabis-apotheke/karlsruhe"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/karlsruhe"
       },
       {
         "name": "Marienhuana Apotheke",
-        "href": "https://weed.de/apotheke/marienhuana-apotheke"
+        "href": "https://cannabisblueten.de/apotheke/marienhuana-apotheke"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Karlsruhe",
-            "item": "https://weed.de/cannabis-apotheke/karlsruhe"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/karlsruhe"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Marienhuana Apotheke",
-            "item": "https://weed.de/apotheke/marienhuana-apotheke"
+            "item": "https://cannabisblueten.de/apotheke/marienhuana-apotheke"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Marienhuana Apotheke",
-        "url": "https://weed.de/apotheke/marienhuana-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/marienhuana-apotheke",
+        "description": "Cannabis Apotheke in Karlsruhe. 43 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Marienstraße 43",
@@ -142,8 +143,37 @@
           "addressRegion": "Baden-Württemberg",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 49.00132439999999,
+          "longitude": 8.4083611
+        },
         "telephone": "0721389325",
-        "email": "Cannabis@marienhuana.de"
+        "email": "Cannabis@marienhuana.de",
+        "sameAs": "https://marienhuana.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "3.0",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
       }
     ]
   },

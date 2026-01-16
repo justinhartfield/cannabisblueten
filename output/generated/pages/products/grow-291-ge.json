@@ -114,7 +114,7 @@
     "meta": {
       "title": "GROW 29/1 GE - Nimbus Health | ab 5,95 €",
       "description": "GROW 29/1 GE von Nimbus Health. THC: 29%, CBD: 1%. Sorte: Gelato Sherbert. Preis ab 5,95 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/grow-291-ge",
+      "canonical": "https://cannabisblueten.de/product/grow-291-ge",
       "robots": {
         "index": true,
         "follow": true
@@ -122,28 +122,28 @@
       "openGraph": {
         "title": "GROW 29/1 GE - Nimbus Health | ab 5,95 €",
         "description": "GROW 29/1 GE von Nimbus Health. THC: 29%, CBD: 1%. Sorte: Gelato Sherbert. Preis ab 5,95 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/grow-291-ge",
+        "url": "https://cannabisblueten.de/product/grow-291-ge",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Nimbus Health",
-        "href": "https://weed.de/brand/nimbus-health"
+        "href": "https://cannabisblueten.de/brand/nimbus-health"
       },
       {
         "name": "GROW 29/1 GE",
-        "href": "https://weed.de/product/grow-291-ge"
+        "href": "https://cannabisblueten.de/product/grow-291-ge"
       }
     ],
     "schema": [
@@ -155,19 +155,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "GROW 29/1 GE",
-            "item": "https://weed.de/product/grow-291-ge"
+            "item": "https://cannabisblueten.de/product/grow-291-ge"
           }
         ]
       },
@@ -175,11 +175,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "GROW 29/1 GE",
+        "url": "https://cannabisblueten.de/product/grow-291-ge",
         "brand": {
           "@type": "Brand",
           "name": "Nimbus Health"
         },
-        "description": "THC: 29%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 29%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/grow-291-ge",
+          "priceCurrency": "EUR",
+          "price": "5.95",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

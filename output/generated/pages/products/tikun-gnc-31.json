@@ -103,7 +103,7 @@
     "meta": {
       "title": "Tikun GNC 30/1 - Dopiopharm | ab 8,95 €",
       "description": "Tikun GNC 30/1 von Dopiopharm. THC: 30%, CBD: 1%. Sorte: Grapes & Cream. Preis ab 8,95 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/tikun-gnc-31",
+      "canonical": "https://cannabisblueten.de/product/tikun-gnc-31",
       "robots": {
         "index": true,
         "follow": true
@@ -111,9 +111,9 @@
       "openGraph": {
         "title": "Tikun GNC 30/1 - Dopiopharm | ab 8,95 €",
         "description": "Tikun GNC 30/1 von Dopiopharm. THC: 30%, CBD: 1%. Sorte: Grapes & Cream. Preis ab 8,95 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/tikun-gnc-31",
+        "url": "https://cannabisblueten.de/product/tikun-gnc-31",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/tikun-gnc-31-7ee796.png"
       }
@@ -121,19 +121,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Dopiopharm",
-        "href": "https://weed.de/brand/dopiopharm"
+        "href": "https://cannabisblueten.de/brand/dopiopharm"
       },
       {
         "name": "Tikun GNC 30/1",
-        "href": "https://weed.de/product/tikun-gnc-31"
+        "href": "https://cannabisblueten.de/product/tikun-gnc-31"
       }
     ],
     "schema": [
@@ -145,19 +145,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Tikun GNC 30/1",
-            "item": "https://weed.de/product/tikun-gnc-31"
+            "item": "https://cannabisblueten.de/product/tikun-gnc-31"
           }
         ]
       },
@@ -165,11 +165,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Tikun GNC 30/1",
+        "url": "https://cannabisblueten.de/product/tikun-gnc-31",
         "brand": {
           "@type": "Brand",
           "name": "Dopiopharm"
         },
-        "description": "THC: 30%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 30%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/tikun-gnc-31",
+          "priceCurrency": "EUR",
+          "price": "8.95",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "8.95",
+            "maxPrice": "11.50",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

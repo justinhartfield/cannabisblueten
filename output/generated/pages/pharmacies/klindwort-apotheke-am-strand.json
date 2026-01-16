@@ -65,7 +65,7 @@
     "meta": {
       "title": "Klindwort Apotheke am Strand - Cannabis Apotheke in Timmendorfer Strand",
       "description": "Klindwort Apotheke am Strand in Timmendorfer Strand. Lieferung & Abholung. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/klindwort-apotheke-am-strand",
+      "canonical": "https://cannabisblueten.de/apotheke/klindwort-apotheke-am-strand",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Klindwort Apotheke am Strand - Cannabis Apotheke in Timmendorfer Strand",
         "description": "Klindwort Apotheke am Strand in Timmendorfer Strand. Lieferung & Abholung. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/klindwort-apotheke-am-strand",
+        "url": "https://cannabisblueten.de/apotheke/klindwort-apotheke-am-strand",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/6798ec4a7f7ecab1ce634c97-aai69e.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Timmendorfer Strand",
-        "href": "https://weed.de/cannabis-apotheke/timmendorfer-strand"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/timmendorfer-strand"
       },
       {
         "name": "Klindwort Apotheke am Strand",
-        "href": "https://weed.de/apotheke/klindwort-apotheke-am-strand"
+        "href": "https://cannabisblueten.de/apotheke/klindwort-apotheke-am-strand"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Timmendorfer Strand",
-            "item": "https://weed.de/cannabis-apotheke/timmendorfer-strand"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/timmendorfer-strand"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Klindwort Apotheke am Strand",
-            "item": "https://weed.de/apotheke/klindwort-apotheke-am-strand"
+            "item": "https://cannabisblueten.de/apotheke/klindwort-apotheke-am-strand"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Klindwort Apotheke am Strand",
-        "url": "https://weed.de/apotheke/klindwort-apotheke-am-strand",
+        "url": "https://cannabisblueten.de/apotheke/klindwort-apotheke-am-strand",
+        "description": "Cannabis Apotheke in Timmendorfer Strand. 0 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Strandallee 94A",
@@ -142,8 +143,30 @@
           "addressRegion": "Schleswig-Holstein",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 53.9971003,
+          "longitude": 10.7830089
+        },
         "telephone": "04503889040",
-        "email": "apo4@klindwort.de"
+        "email": "apo4@klindwort.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ]
       }
     ]
   },

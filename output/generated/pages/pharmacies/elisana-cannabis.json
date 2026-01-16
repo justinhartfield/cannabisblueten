@@ -65,7 +65,7 @@
     "meta": {
       "title": "Elisana-Cannabis - Cannabis Apotheke in Gelsenkirchen",
       "description": "Elisana-Cannabis in Gelsenkirchen. 42 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/elisana-cannabis",
+      "canonical": "https://cannabisblueten.de/apotheke/elisana-cannabis",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Elisana-Cannabis - Cannabis Apotheke in Gelsenkirchen",
         "description": "Elisana-Cannabis in Gelsenkirchen. 42 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/elisana-cannabis",
+        "url": "https://cannabisblueten.de/apotheke/elisana-cannabis",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/688b807150ac87e4054af87a-7hdbf9.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Gelsenkirchen",
-        "href": "https://weed.de/cannabis-apotheke/gelsenkirchen"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/gelsenkirchen"
       },
       {
         "name": "Elisana-Cannabis",
-        "href": "https://weed.de/apotheke/elisana-cannabis"
+        "href": "https://cannabisblueten.de/apotheke/elisana-cannabis"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Gelsenkirchen",
-            "item": "https://weed.de/cannabis-apotheke/gelsenkirchen"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/gelsenkirchen"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Elisana-Cannabis",
-            "item": "https://weed.de/apotheke/elisana-cannabis"
+            "item": "https://cannabisblueten.de/apotheke/elisana-cannabis"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Elisana-Cannabis",
-        "url": "https://weed.de/apotheke/elisana-cannabis",
+        "url": "https://cannabisblueten.de/apotheke/elisana-cannabis",
+        "description": "Cannabis Apotheke in Gelsenkirchen. 42 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Urbanusstraße 7",
@@ -142,8 +143,37 @@
           "addressRegion": "Nordrhein-Westfalen",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 51.57697959999999,
+          "longitude": 7.0510651
+        },
         "telephone": "020930330",
-        "email": "buer@elisana.de"
+        "email": "buer@elisana.de",
+        "sameAs": "elisana-cannabis.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5.0",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
       }
     ]
   },

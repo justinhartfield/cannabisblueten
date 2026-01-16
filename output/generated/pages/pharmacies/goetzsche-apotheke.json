@@ -65,7 +65,7 @@
     "meta": {
       "title": "Oberschwaben Cannabis Goetzsche Apotheke - Cannabis Apotheke in Ostrach",
       "description": "Oberschwaben Cannabis Goetzsche Apotheke in Ostrach. 24 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/goetzsche-apotheke",
+      "canonical": "https://cannabisblueten.de/apotheke/goetzsche-apotheke",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Oberschwaben Cannabis Goetzsche Apotheke - Cannabis Apotheke in Ostrach",
         "description": "Oberschwaben Cannabis Goetzsche Apotheke in Ostrach. 24 Cannabis Produkte. Lieferung & Abholung. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/goetzsche-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/goetzsche-apotheke",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/678521e503d18a5ef3b0617b-5g1a1c.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Ostrach",
-        "href": "https://weed.de/cannabis-apotheke/ostrach"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/ostrach"
       },
       {
         "name": "Oberschwaben Cannabis Goetzsche Apotheke",
-        "href": "https://weed.de/apotheke/goetzsche-apotheke"
+        "href": "https://cannabisblueten.de/apotheke/goetzsche-apotheke"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Ostrach",
-            "item": "https://weed.de/cannabis-apotheke/ostrach"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/ostrach"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Oberschwaben Cannabis Goetzsche Apotheke",
-            "item": "https://weed.de/apotheke/goetzsche-apotheke"
+            "item": "https://cannabisblueten.de/apotheke/goetzsche-apotheke"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Oberschwaben Cannabis Goetzsche Apotheke",
-        "url": "https://weed.de/apotheke/goetzsche-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/goetzsche-apotheke",
+        "description": "Cannabis Apotheke in Ostrach. 24 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Sigmaringer Straße 8",
@@ -142,8 +143,30 @@
           "addressRegion": "Baden-Württemberg",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 47.9547912,
+          "longitude": 9.3810057
+        },
         "telephone": "07585615",
-        "email": "cannabis@goetzsche-apotheke.de"
+        "email": "cannabis@goetzsche-apotheke.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ]
       }
     ]
   },

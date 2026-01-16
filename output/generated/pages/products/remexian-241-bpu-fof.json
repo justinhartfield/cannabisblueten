@@ -107,7 +107,7 @@
     "meta": {
       "title": "Remexian 24/1 BPU FOF - Remexian Pharma | ab 3,95 €",
       "description": "Remexian 24/1 BPU FOF von Remexian Pharma. THC: 24%, CBD: 1%. Sorte: Face of Fire. Preis ab 3,95 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/remexian-241-bpu-fof",
+      "canonical": "https://cannabisblueten.de/product/remexian-241-bpu-fof",
       "robots": {
         "index": true,
         "follow": true
@@ -115,28 +115,28 @@
       "openGraph": {
         "title": "Remexian 24/1 BPU FOF - Remexian Pharma | ab 3,95 €",
         "description": "Remexian 24/1 BPU FOF von Remexian Pharma. THC: 24%, CBD: 1%. Sorte: Face of Fire. Preis ab 3,95 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/remexian-241-bpu-fof",
+        "url": "https://cannabisblueten.de/product/remexian-241-bpu-fof",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Remexian Pharma",
-        "href": "https://weed.de/brand/remexian-pharma"
+        "href": "https://cannabisblueten.de/brand/remexian-pharma"
       },
       {
         "name": "Remexian 24/1 BPU FOF",
-        "href": "https://weed.de/product/remexian-241-bpu-fof"
+        "href": "https://cannabisblueten.de/product/remexian-241-bpu-fof"
       }
     ],
     "schema": [
@@ -148,19 +148,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Remexian 24/1 BPU FOF",
-            "item": "https://weed.de/product/remexian-241-bpu-fof"
+            "item": "https://cannabisblueten.de/product/remexian-241-bpu-fof"
           }
         ]
       },
@@ -168,11 +168,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Remexian 24/1 BPU FOF",
+        "url": "https://cannabisblueten.de/product/remexian-241-bpu-fof",
         "brand": {
           "@type": "Brand",
           "name": "Remexian Pharma"
         },
-        "description": "THC: 24%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 24%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/remexian-241-bpu-fof",
+          "priceCurrency": "EUR",
+          "price": "3.95",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "3.95",
+            "maxPrice": "4.99",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

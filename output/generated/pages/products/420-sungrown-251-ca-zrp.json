@@ -105,7 +105,7 @@
     "meta": {
       "title": "420 Sungrown 25/1 CA ZRP - Four 20 Pharma | ab 8,49 €",
       "description": "420 Sungrown 25/1 CA ZRP von Four 20 Pharma. THC: 25%, CBD: 1%. Sorte: Zour Apple. Preis ab 8,49 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/420-sungrown-251-ca-zrp",
+      "canonical": "https://cannabisblueten.de/product/420-sungrown-251-ca-zrp",
       "robots": {
         "index": true,
         "follow": true
@@ -113,9 +113,9 @@
       "openGraph": {
         "title": "420 Sungrown 25/1 CA ZRP - Four 20 Pharma | ab 8,49 €",
         "description": "420 Sungrown 25/1 CA ZRP von Four 20 Pharma. THC: 25%, CBD: 1%. Sorte: Zour Apple. Preis ab 8,49 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/420-sungrown-251-ca-zrp",
+        "url": "https://cannabisblueten.de/product/420-sungrown-251-ca-zrp",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/420-sungrown-251-ca-zrp-aje8ae.jpeg"
       }
@@ -123,19 +123,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Four 20 Pharma",
-        "href": "https://weed.de/brand/four-20-pharma"
+        "href": "https://cannabisblueten.de/brand/four-20-pharma"
       },
       {
         "name": "420 Sungrown 25/1 CA ZRP",
-        "href": "https://weed.de/product/420-sungrown-251-ca-zrp"
+        "href": "https://cannabisblueten.de/product/420-sungrown-251-ca-zrp"
       }
     ],
     "schema": [
@@ -147,19 +147,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "420 Sungrown 25/1 CA ZRP",
-            "item": "https://weed.de/product/420-sungrown-251-ca-zrp"
+            "item": "https://cannabisblueten.de/product/420-sungrown-251-ca-zrp"
           }
         ]
       },
@@ -167,11 +167,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "420 Sungrown 25/1 CA ZRP",
+        "url": "https://cannabisblueten.de/product/420-sungrown-251-ca-zrp",
         "brand": {
           "@type": "Brand",
           "name": "Four 20 Pharma"
         },
-        "description": "THC: 25%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 25%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/420-sungrown-251-ca-zrp",
+          "priceCurrency": "EUR",
+          "price": "8.49",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

@@ -104,7 +104,7 @@
     "meta": {
       "title": "IMC PF THC21 Smalls | ab 4,99 €",
       "description": "IMC PF THC21 Smalls von IMC. THC: 21%, CBD: 1%. Sorte: Purple Flame. Preis ab 4,99 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/imc-pf-thc21-smalls",
+      "canonical": "https://cannabisblueten.de/product/imc-pf-thc21-smalls",
       "robots": {
         "index": true,
         "follow": true
@@ -112,28 +112,28 @@
       "openGraph": {
         "title": "IMC PF THC21 Smalls | ab 4,99 €",
         "description": "IMC PF THC21 Smalls von IMC. THC: 21%, CBD: 1%. Sorte: Purple Flame. Preis ab 4,99 €. Preise vergleichen.",
-        "url": "https://weed.de/product/imc-pf-thc21-smalls",
+        "url": "https://cannabisblueten.de/product/imc-pf-thc21-smalls",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "IMC",
-        "href": "https://weed.de/brand/imc"
+        "href": "https://cannabisblueten.de/brand/imc"
       },
       {
         "name": "IMC PF THC21 Smalls",
-        "href": "https://weed.de/product/imc-pf-thc21-smalls"
+        "href": "https://cannabisblueten.de/product/imc-pf-thc21-smalls"
       }
     ],
     "schema": [
@@ -145,19 +145,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "IMC PF THC21 Smalls",
-            "item": "https://weed.de/product/imc-pf-thc21-smalls"
+            "item": "https://cannabisblueten.de/product/imc-pf-thc21-smalls"
           }
         ]
       },
@@ -165,11 +165,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "IMC PF THC21 Smalls",
+        "url": "https://cannabisblueten.de/product/imc-pf-thc21-smalls",
         "brand": {
           "@type": "Brand",
           "name": "IMC"
         },
-        "description": "THC: 21%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 21%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/imc-pf-thc21-smalls",
+          "priceCurrency": "EUR",
+          "price": "4.99",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

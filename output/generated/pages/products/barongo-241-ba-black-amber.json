@@ -121,7 +121,7 @@
     "meta": {
       "title": "Barongo 24/1 BA - Black Amber - WMG Pharma | ab 4,99 €",
       "description": "Barongo 24/1 BA - Black Amber von WMG Pharma. THC: 24%, CBD: 1%. Sorte: Black Amber. Preis ab 4,99 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/barongo-241-ba-black-amber",
+      "canonical": "https://cannabisblueten.de/product/barongo-241-ba-black-amber",
       "robots": {
         "index": true,
         "follow": true
@@ -129,9 +129,9 @@
       "openGraph": {
         "title": "Barongo 24/1 BA - Black Amber - WMG Pharma | ab 4,99 €",
         "description": "Barongo 24/1 BA - Black Amber von WMG Pharma. THC: 24%, CBD: 1%. Sorte: Black Amber. Preis ab 4,99 €. Preise vergleichen.",
-        "url": "https://weed.de/product/barongo-241-ba-black-amber",
+        "url": "https://cannabisblueten.de/product/barongo-241-ba-black-amber",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/barongo-241-ba-black-amber-0h7b05.png"
       }
@@ -139,19 +139,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "WMG Pharma",
-        "href": "https://weed.de/brand/wmg-pharma"
+        "href": "https://cannabisblueten.de/brand/wmg-pharma"
       },
       {
         "name": "Barongo 24/1 BA - Black Amber",
-        "href": "https://weed.de/product/barongo-241-ba-black-amber"
+        "href": "https://cannabisblueten.de/product/barongo-241-ba-black-amber"
       }
     ],
     "schema": [
@@ -163,19 +163,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Barongo 24/1 BA - Black Amber",
-            "item": "https://weed.de/product/barongo-241-ba-black-amber"
+            "item": "https://cannabisblueten.de/product/barongo-241-ba-black-amber"
           }
         ]
       },
@@ -183,12 +183,23 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Barongo 24/1 BA - Black Amber",
+        "url": "https://cannabisblueten.de/product/barongo-241-ba-black-amber",
         "brand": {
           "@type": "Brand",
           "name": "WMG Pharma"
         },
         "gtin13": [],
-        "description": "THC: 24%, CBD: 1%"
+        "sku": [],
+        "description": "Medizinisches Cannabis Produkt. THC: 24%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/barongo-241-ba-black-amber",
+          "priceCurrency": "EUR",
+          "price": "4.99",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

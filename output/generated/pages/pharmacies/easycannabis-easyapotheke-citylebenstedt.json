@@ -65,7 +65,7 @@
     "meta": {
       "title": "EasyCannabis easyApotheke CityLebenstedt - Cannabis Apotheke in Salzgitter",
       "description": "EasyCannabis easyApotheke CityLebenstedt in Salzgitter. 42 Cannabis Produkte. Lieferung & Abholung. Bewertung: 3.6/5. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/easycannabis-easyapotheke-citylebenstedt",
+      "canonical": "https://cannabisblueten.de/apotheke/easycannabis-easyapotheke-citylebenstedt",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "EasyCannabis easyApotheke CityLebenstedt - Cannabis Apotheke in Salzgitter",
         "description": "EasyCannabis easyApotheke CityLebenstedt in Salzgitter. 42 Cannabis Produkte. Lieferung & Abholung. Bewertung: 3.6/5. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/easycannabis-easyapotheke-citylebenstedt",
+        "url": "https://cannabisblueten.de/apotheke/easycannabis-easyapotheke-citylebenstedt",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/6790cad9ac80cc91188b2e49-f9j89d.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Salzgitter",
-        "href": "https://weed.de/cannabis-apotheke/salzgitter"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/salzgitter"
       },
       {
         "name": "EasyCannabis easyApotheke CityLebenstedt",
-        "href": "https://weed.de/apotheke/easycannabis-easyapotheke-citylebenstedt"
+        "href": "https://cannabisblueten.de/apotheke/easycannabis-easyapotheke-citylebenstedt"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Salzgitter",
-            "item": "https://weed.de/cannabis-apotheke/salzgitter"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/salzgitter"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "EasyCannabis easyApotheke CityLebenstedt",
-            "item": "https://weed.de/apotheke/easycannabis-easyapotheke-citylebenstedt"
+            "item": "https://cannabisblueten.de/apotheke/easycannabis-easyapotheke-citylebenstedt"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "EasyCannabis easyApotheke CityLebenstedt",
-        "url": "https://weed.de/apotheke/easycannabis-easyapotheke-citylebenstedt",
+        "url": "https://cannabisblueten.de/apotheke/easycannabis-easyapotheke-citylebenstedt",
+        "description": "Cannabis Apotheke in Salzgitter. 42 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "In den Blumentriften 2",
@@ -142,8 +143,36 @@
           "addressRegion": "Niedersachsen",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 52.1535638,
+          "longitude": 10.3312079
+        },
         "telephone": "05341812940",
-        "email": "info@easycannabis.de"
+        "email": "info@easycannabis.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "3.6",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
       }
     ]
   },

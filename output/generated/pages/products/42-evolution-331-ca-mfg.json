@@ -102,7 +102,7 @@
     "meta": {
       "title": "420 Evolution 33/1 CA MFG - Four 20 Pharma | ab 7,54 €",
       "description": "420 Evolution 33/1 CA MFG von Four 20 Pharma. THC: 31%, CBD: 1%. Sorte: Modified Grapes. Preis ab 7,54 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/42-evolution-331-ca-mfg",
+      "canonical": "https://cannabisblueten.de/product/42-evolution-331-ca-mfg",
       "robots": {
         "index": true,
         "follow": true
@@ -110,9 +110,9 @@
       "openGraph": {
         "title": "420 Evolution 33/1 CA MFG - Four 20 Pharma | ab 7,54 €",
         "description": "420 Evolution 33/1 CA MFG von Four 20 Pharma. THC: 31%, CBD: 1%. Sorte: Modified Grapes. Preis ab 7,54 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/42-evolution-331-ca-mfg",
+        "url": "https://cannabisblueten.de/product/42-evolution-331-ca-mfg",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/42-evolution-331-ca-mfg-57f9i3.jpeg"
       }
@@ -120,19 +120,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Four 20 Pharma",
-        "href": "https://weed.de/brand/four-20-pharma"
+        "href": "https://cannabisblueten.de/brand/four-20-pharma"
       },
       {
         "name": "420 Evolution 33/1 CA MFG",
-        "href": "https://weed.de/product/42-evolution-331-ca-mfg"
+        "href": "https://cannabisblueten.de/product/42-evolution-331-ca-mfg"
       }
     ],
     "schema": [
@@ -144,19 +144,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "420 Evolution 33/1 CA MFG",
-            "item": "https://weed.de/product/42-evolution-331-ca-mfg"
+            "item": "https://cannabisblueten.de/product/42-evolution-331-ca-mfg"
           }
         ]
       },
@@ -164,11 +164,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "420 Evolution 33/1 CA MFG",
+        "url": "https://cannabisblueten.de/product/42-evolution-331-ca-mfg",
         "brand": {
           "@type": "Brand",
           "name": "Four 20 Pharma"
         },
-        "description": "THC: 31%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 31%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/42-evolution-331-ca-mfg",
+          "priceCurrency": "EUR",
+          "price": "7.54",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

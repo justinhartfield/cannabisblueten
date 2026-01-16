@@ -104,7 +104,7 @@
     "meta": {
       "title": "Bedrocan - Jack Herer, Afina | ab 8,49 €",
       "description": "Bedrocan - Jack Herer, Afina von Bedrocan. THC: 22%, CBD: 1%. Sorte: Jack Herer. Preis ab 8,49 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/bedrocan-jack-herer,-afina",
+      "canonical": "https://cannabisblueten.de/product/bedrocan-jack-herer,-afina",
       "robots": {
         "index": true,
         "follow": true
@@ -112,28 +112,28 @@
       "openGraph": {
         "title": "Bedrocan - Jack Herer, Afina | ab 8,49 €",
         "description": "Bedrocan - Jack Herer, Afina von Bedrocan. THC: 22%, CBD: 1%. Sorte: Jack Herer. Preis ab 8,49 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/bedrocan-jack-herer,-afina",
+        "url": "https://cannabisblueten.de/product/bedrocan-jack-herer,-afina",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Bedrocan",
-        "href": "https://weed.de/brand/bedrocan"
+        "href": "https://cannabisblueten.de/brand/bedrocan"
       },
       {
         "name": "Bedrocan - Jack Herer, Afina",
-        "href": "https://weed.de/product/bedrocan-jack-herer,-afina"
+        "href": "https://cannabisblueten.de/product/bedrocan-jack-herer,-afina"
       }
     ],
     "schema": [
@@ -145,19 +145,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Bedrocan - Jack Herer, Afina",
-            "item": "https://weed.de/product/bedrocan-jack-herer,-afina"
+            "item": "https://cannabisblueten.de/product/bedrocan-jack-herer,-afina"
           }
         ]
       },
@@ -165,11 +165,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Bedrocan - Jack Herer, Afina",
+        "url": "https://cannabisblueten.de/product/bedrocan-jack-herer,-afina",
         "brand": {
           "@type": "Brand",
           "name": "Bedrocan"
         },
-        "description": "THC: 22%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 22%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/bedrocan-jack-herer,-afina",
+          "priceCurrency": "EUR",
+          "price": "8.49",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "8.49",
+            "maxPrice": "9.95",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

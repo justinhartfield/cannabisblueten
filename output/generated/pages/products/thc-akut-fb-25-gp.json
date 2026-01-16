@@ -107,7 +107,7 @@
     "meta": {
       "title": "THC AKUT FB 25 GP - Bathera | ab 6,45 €",
       "description": "THC AKUT FB 25 GP von Bathera. THC: 25%, CBD: 1%. Sorte: Gary Payton. Preis ab 6,45 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/thc-akut-fb-25-gp",
+      "canonical": "https://cannabisblueten.de/product/thc-akut-fb-25-gp",
       "robots": {
         "index": true,
         "follow": true
@@ -115,28 +115,28 @@
       "openGraph": {
         "title": "THC AKUT FB 25 GP - Bathera | ab 6,45 €",
         "description": "THC AKUT FB 25 GP von Bathera. THC: 25%, CBD: 1%. Sorte: Gary Payton. Preis ab 6,45 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/thc-akut-fb-25-gp",
+        "url": "https://cannabisblueten.de/product/thc-akut-fb-25-gp",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Bathera",
-        "href": "https://weed.de/brand/bathera"
+        "href": "https://cannabisblueten.de/brand/bathera"
       },
       {
         "name": "THC AKUT FB 25 GP",
-        "href": "https://weed.de/product/thc-akut-fb-25-gp"
+        "href": "https://cannabisblueten.de/product/thc-akut-fb-25-gp"
       }
     ],
     "schema": [
@@ -148,19 +148,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "THC AKUT FB 25 GP",
-            "item": "https://weed.de/product/thc-akut-fb-25-gp"
+            "item": "https://cannabisblueten.de/product/thc-akut-fb-25-gp"
           }
         ]
       },
@@ -168,11 +168,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "THC AKUT FB 25 GP",
+        "url": "https://cannabisblueten.de/product/thc-akut-fb-25-gp",
         "brand": {
           "@type": "Brand",
           "name": "Bathera"
         },
-        "description": "THC: 25%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 25%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/thc-akut-fb-25-gp",
+          "priceCurrency": "EUR",
+          "price": "6.45",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "6.45",
+            "maxPrice": "6.50",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

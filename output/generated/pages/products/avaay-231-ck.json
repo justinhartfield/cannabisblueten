@@ -112,7 +112,7 @@
     "meta": {
       "title": "Avaay 23/1 CK - Vayamed | ab 5,95 €",
       "description": "Avaay 23/1 CK von Vayamed. THC: 23%, CBD: 1%. Sorte: Critical Kush. Preis ab 5,95 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/avaay-231-ck",
+      "canonical": "https://cannabisblueten.de/product/avaay-231-ck",
       "robots": {
         "index": true,
         "follow": true
@@ -120,9 +120,9 @@
       "openGraph": {
         "title": "Avaay 23/1 CK - Vayamed | ab 5,95 €",
         "description": "Avaay 23/1 CK von Vayamed. THC: 23%, CBD: 1%. Sorte: Critical Kush. Preis ab 5,95 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/avaay-231-ck",
+        "url": "https://cannabisblueten.de/product/avaay-231-ck",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/avaay-231-ck-d58f4g.png"
       }
@@ -130,19 +130,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Vayamed",
-        "href": "https://weed.de/brand/vayamed"
+        "href": "https://cannabisblueten.de/brand/vayamed"
       },
       {
         "name": "Avaay 23/1 CK",
-        "href": "https://weed.de/product/avaay-231-ck"
+        "href": "https://cannabisblueten.de/product/avaay-231-ck"
       }
     ],
     "schema": [
@@ -154,19 +154,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Avaay 23/1 CK",
-            "item": "https://weed.de/product/avaay-231-ck"
+            "item": "https://cannabisblueten.de/product/avaay-231-ck"
           }
         ]
       },
@@ -174,11 +174,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Avaay 23/1 CK",
+        "url": "https://cannabisblueten.de/product/avaay-231-ck",
         "brand": {
           "@type": "Brand",
           "name": "Vayamed"
         },
-        "description": "THC: 23%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 23%, CBD: 1%, Genetik: indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/avaay-231-ck",
+          "priceCurrency": "EUR",
+          "price": "5.95",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "5.95",
+            "maxPrice": "8.60",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

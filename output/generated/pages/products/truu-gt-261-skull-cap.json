@@ -122,7 +122,7 @@
     "meta": {
       "title": "TRUU GT 26/01 Skull Cap - Demecan | ab 5,47 €",
       "description": "TRUU GT 26/01 Skull Cap von Demecan. THC: 26%, CBD: 1%. Sorte: Skull cap. Preis ab 5,47 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/truu-gt-261-skull-cap",
+      "canonical": "https://cannabisblueten.de/product/truu-gt-261-skull-cap",
       "robots": {
         "index": true,
         "follow": true
@@ -130,9 +130,9 @@
       "openGraph": {
         "title": "TRUU GT 26/01 Skull Cap - Demecan | ab 5,47 €",
         "description": "TRUU GT 26/01 Skull Cap von Demecan. THC: 26%, CBD: 1%. Sorte: Skull cap. Preis ab 5,47 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/truu-gt-261-skull-cap",
+        "url": "https://cannabisblueten.de/product/truu-gt-261-skull-cap",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/truu-gt-261-skull-cap-d22faf.png"
       }
@@ -140,19 +140,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Demecan",
-        "href": "https://weed.de/brand/demecan"
+        "href": "https://cannabisblueten.de/brand/demecan"
       },
       {
         "name": "TRUU GT 26/01 Skull Cap",
-        "href": "https://weed.de/product/truu-gt-261-skull-cap"
+        "href": "https://cannabisblueten.de/product/truu-gt-261-skull-cap"
       }
     ],
     "schema": [
@@ -164,19 +164,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "TRUU GT 26/01 Skull Cap",
-            "item": "https://weed.de/product/truu-gt-261-skull-cap"
+            "item": "https://cannabisblueten.de/product/truu-gt-261-skull-cap"
           }
         ]
       },
@@ -184,11 +184,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "TRUU GT 26/01 Skull Cap",
+        "url": "https://cannabisblueten.de/product/truu-gt-261-skull-cap",
         "brand": {
           "@type": "Brand",
           "name": "Demecan"
         },
-        "description": "THC: 26%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 26%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/truu-gt-261-skull-cap",
+          "priceCurrency": "EUR",
+          "price": "5.47",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "5.47",
+            "maxPrice": "5.99",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

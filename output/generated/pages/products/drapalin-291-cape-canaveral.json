@@ -106,7 +106,7 @@
     "meta": {
       "title": "Drapalin 29/1 Cape Canaveral | ab 5,85 €",
       "description": "Drapalin 29/1 Cape Canaveral von Drapalin. THC: 29%, CBD: 1%. Sorte: Girl Scout Cookies x Mandarin Sunset. Preis ab 5,85 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/drapalin-291-cape-canaveral",
+      "canonical": "https://cannabisblueten.de/product/drapalin-291-cape-canaveral",
       "robots": {
         "index": true,
         "follow": true
@@ -114,9 +114,9 @@
       "openGraph": {
         "title": "Drapalin 29/1 Cape Canaveral | ab 5,85 €",
         "description": "Drapalin 29/1 Cape Canaveral von Drapalin. THC: 29%, CBD: 1%. Sorte: Girl Scout Cookies x Mandarin Sunset. Preis ab 5,85 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/drapalin-291-cape-canaveral",
+        "url": "https://cannabisblueten.de/product/drapalin-291-cape-canaveral",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/drapalin-291-cape-canaveral-27bbeb.png"
       }
@@ -124,19 +124,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Drapalin",
-        "href": "https://weed.de/brand/drapalin"
+        "href": "https://cannabisblueten.de/brand/drapalin"
       },
       {
         "name": "Drapalin 29/1 Cape Canaveral",
-        "href": "https://weed.de/product/drapalin-291-cape-canaveral"
+        "href": "https://cannabisblueten.de/product/drapalin-291-cape-canaveral"
       }
     ],
     "schema": [
@@ -148,19 +148,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Drapalin 29/1 Cape Canaveral",
-            "item": "https://weed.de/product/drapalin-291-cape-canaveral"
+            "item": "https://cannabisblueten.de/product/drapalin-291-cape-canaveral"
           }
         ]
       },
@@ -168,11 +168,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Drapalin 29/1 Cape Canaveral",
+        "url": "https://cannabisblueten.de/product/drapalin-291-cape-canaveral",
         "brand": {
           "@type": "Brand",
           "name": "Drapalin"
         },
-        "description": "THC: 29%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 29%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/drapalin-291-cape-canaveral",
+          "priceCurrency": "EUR",
+          "price": "5.85",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "5.85",
+            "maxPrice": "13.50",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

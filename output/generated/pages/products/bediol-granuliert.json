@@ -120,7 +120,7 @@
     "meta": {
       "title": "Bediol (granuliert) - Bedrocan | ab 12,49 €",
       "description": "Bediol (granuliert) von Bedrocan. THC: 6%, CBD: 8%. Sorte: Elida. Preis ab 12,49 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/bediol-granuliert",
+      "canonical": "https://cannabisblueten.de/product/bediol-granuliert",
       "robots": {
         "index": true,
         "follow": true
@@ -128,28 +128,28 @@
       "openGraph": {
         "title": "Bediol (granuliert) - Bedrocan | ab 12,49 €",
         "description": "Bediol (granuliert) von Bedrocan. THC: 6%, CBD: 8%. Sorte: Elida. Preis ab 12,49 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/bediol-granuliert",
+        "url": "https://cannabisblueten.de/product/bediol-granuliert",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Bedrocan",
-        "href": "https://weed.de/brand/bedrocan"
+        "href": "https://cannabisblueten.de/brand/bedrocan"
       },
       {
         "name": "Bediol (granuliert)",
-        "href": "https://weed.de/product/bediol-granuliert"
+        "href": "https://cannabisblueten.de/product/bediol-granuliert"
       }
     ],
     "schema": [
@@ -161,19 +161,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Bediol (granuliert)",
-            "item": "https://weed.de/product/bediol-granuliert"
+            "item": "https://cannabisblueten.de/product/bediol-granuliert"
           }
         ]
       },
@@ -181,11 +181,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Bediol (granuliert)",
+        "url": "https://cannabisblueten.de/product/bediol-granuliert",
         "brand": {
           "@type": "Brand",
           "name": "Bedrocan"
         },
-        "description": "THC: 6%, CBD: 8%"
+        "description": "Medizinisches Cannabis Produkt. THC: 6%, CBD: 8%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/bediol-granuliert",
+          "priceCurrency": "EUR",
+          "price": "12.49",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "12.49",
+            "maxPrice": "15.80",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

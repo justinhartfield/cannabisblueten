@@ -102,7 +102,7 @@
     "meta": {
       "title": "Soma OG 22/1 GG - canymed | ab 7,62 €",
       "description": "Soma OG 22/1 GG von canymed. THC: 22%, CBD: 1%. Sorte: Gorilla Glue. Preis ab 7,62 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/soma-og-221-gg",
+      "canonical": "https://cannabisblueten.de/product/soma-og-221-gg",
       "robots": {
         "index": true,
         "follow": true
@@ -110,9 +110,9 @@
       "openGraph": {
         "title": "Soma OG 22/1 GG - canymed | ab 7,62 €",
         "description": "Soma OG 22/1 GG von canymed. THC: 22%, CBD: 1%. Sorte: Gorilla Glue. Preis ab 7,62 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/soma-og-221-gg",
+        "url": "https://cannabisblueten.de/product/soma-og-221-gg",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/soma-og-221-gg-8592he.png"
       }
@@ -120,19 +120,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "canymed",
-        "href": "https://weed.de/brand/canymed"
+        "href": "https://cannabisblueten.de/brand/canymed"
       },
       {
         "name": "Soma OG 22/1 GG",
-        "href": "https://weed.de/product/soma-og-221-gg"
+        "href": "https://cannabisblueten.de/product/soma-og-221-gg"
       }
     ],
     "schema": [
@@ -144,19 +144,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Soma OG 22/1 GG",
-            "item": "https://weed.de/product/soma-og-221-gg"
+            "item": "https://cannabisblueten.de/product/soma-og-221-gg"
           }
         ]
       },
@@ -164,11 +164,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Soma OG 22/1 GG",
+        "url": "https://cannabisblueten.de/product/soma-og-221-gg",
         "brand": {
           "@type": "Brand",
           "name": "canymed"
         },
-        "description": "THC: 22%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 22%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/soma-og-221-gg",
+          "priceCurrency": "EUR",
+          "price": "7.62",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "7.62",
+            "maxPrice": "8.95",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

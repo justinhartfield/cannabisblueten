@@ -104,7 +104,7 @@
     "meta": {
       "title": "HiSociety 27/1 NLL - Cantourage | ab 4,99 €",
       "description": "HiSociety 27/1 NLL von Cantourage. THC: 27%, CBD: 1%. Sorte: OKDK XX. Preis ab 4,99 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/hisociety-271-nll",
+      "canonical": "https://cannabisblueten.de/product/hisociety-271-nll",
       "robots": {
         "index": true,
         "follow": true
@@ -112,9 +112,9 @@
       "openGraph": {
         "title": "HiSociety 27/1 NLL - Cantourage | ab 4,99 €",
         "description": "HiSociety 27/1 NLL von Cantourage. THC: 27%, CBD: 1%. Sorte: OKDK XX. Preis ab 4,99 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/hisociety-271-nll",
+        "url": "https://cannabisblueten.de/product/hisociety-271-nll",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/hisociety-271-nll-di1af0.png"
       }
@@ -122,19 +122,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cantourage",
-        "href": "https://weed.de/brand/cantourage"
+        "href": "https://cannabisblueten.de/brand/cantourage"
       },
       {
         "name": "HiSociety 27/1 NLL",
-        "href": "https://weed.de/product/hisociety-271-nll"
+        "href": "https://cannabisblueten.de/product/hisociety-271-nll"
       }
     ],
     "schema": [
@@ -146,19 +146,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "HiSociety 27/1 NLL",
-            "item": "https://weed.de/product/hisociety-271-nll"
+            "item": "https://cannabisblueten.de/product/hisociety-271-nll"
           }
         ]
       },
@@ -166,11 +166,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "HiSociety 27/1 NLL",
+        "url": "https://cannabisblueten.de/product/hisociety-271-nll",
         "brand": {
           "@type": "Brand",
           "name": "Cantourage"
         },
-        "description": "THC: 27%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 27%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/hisociety-271-nll",
+          "priceCurrency": "EUR",
+          "price": "4.99",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.99",
+            "maxPrice": "7.49",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

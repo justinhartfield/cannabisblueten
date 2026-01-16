@@ -116,7 +116,7 @@
     "meta": {
       "title": "NOC AS 23 - NOC Pharma GmbH | ab 4,99 €",
       "description": "NOC AS 23 von NOC Pharma GmbH. THC: 23%, CBD: 1%. Sorte: Amnesia Kush x Sherbert Sockher. Preis ab 4,99 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/noc-as-23",
+      "canonical": "https://cannabisblueten.de/product/noc-as-23",
       "robots": {
         "index": true,
         "follow": true
@@ -124,9 +124,9 @@
       "openGraph": {
         "title": "NOC AS 23 - NOC Pharma GmbH | ab 4,99 €",
         "description": "NOC AS 23 von NOC Pharma GmbH. THC: 23%, CBD: 1%. Sorte: Amnesia Kush x Sherbert Sockher. Preis ab 4,99 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/noc-as-23",
+        "url": "https://cannabisblueten.de/product/noc-as-23",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/noc-as-23-b4h891.jpeg"
       }
@@ -134,19 +134,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "NOC Pharma GmbH",
-        "href": "https://weed.de/brand/noc-pharma-gmbh"
+        "href": "https://cannabisblueten.de/brand/noc-pharma-gmbh"
       },
       {
         "name": "NOC AS 23",
-        "href": "https://weed.de/product/noc-as-23"
+        "href": "https://cannabisblueten.de/product/noc-as-23"
       }
     ],
     "schema": [
@@ -158,19 +158,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "NOC AS 23",
-            "item": "https://weed.de/product/noc-as-23"
+            "item": "https://cannabisblueten.de/product/noc-as-23"
           }
         ]
       },
@@ -178,11 +178,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "NOC AS 23",
+        "url": "https://cannabisblueten.de/product/noc-as-23",
         "brand": {
           "@type": "Brand",
           "name": "NOC Pharma GmbH"
         },
-        "description": "THC: 23%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 23%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/noc-as-23",
+          "priceCurrency": "EUR",
+          "price": "4.99",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.99",
+            "maxPrice": "8.99",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

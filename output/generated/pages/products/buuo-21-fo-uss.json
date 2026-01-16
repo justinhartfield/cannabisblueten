@@ -117,7 +117,7 @@
     "meta": {
       "title": "Buuo 20/1 FO USS - WMG Pharma | ab 2,98 €",
       "description": "Buuo 20/1 FO USS von WMG Pharma. THC: 20%, CBD: 1%. Sorte: Ultra Sour. Preis ab 2,98 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/buuo-21-fo-uss",
+      "canonical": "https://cannabisblueten.de/product/buuo-21-fo-uss",
       "robots": {
         "index": true,
         "follow": true
@@ -125,9 +125,9 @@
       "openGraph": {
         "title": "Buuo 20/1 FO USS - WMG Pharma | ab 2,98 €",
         "description": "Buuo 20/1 FO USS von WMG Pharma. THC: 20%, CBD: 1%. Sorte: Ultra Sour. Preis ab 2,98 €. Preise vergleichen.",
-        "url": "https://weed.de/product/buuo-21-fo-uss",
+        "url": "https://cannabisblueten.de/product/buuo-21-fo-uss",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/buuo-21-fo-uss-4i7dc7.webp"
       }
@@ -135,19 +135,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "WMG Pharma",
-        "href": "https://weed.de/brand/wmg-pharma"
+        "href": "https://cannabisblueten.de/brand/wmg-pharma"
       },
       {
         "name": "Buuo 20/1 FO USS",
-        "href": "https://weed.de/product/buuo-21-fo-uss"
+        "href": "https://cannabisblueten.de/product/buuo-21-fo-uss"
       }
     ],
     "schema": [
@@ -159,19 +159,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Buuo 20/1 FO USS",
-            "item": "https://weed.de/product/buuo-21-fo-uss"
+            "item": "https://cannabisblueten.de/product/buuo-21-fo-uss"
           }
         ]
       },
@@ -179,11 +179,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Buuo 20/1 FO USS",
+        "url": "https://cannabisblueten.de/product/buuo-21-fo-uss",
         "brand": {
           "@type": "Brand",
           "name": "WMG Pharma"
         },
-        "description": "THC: 20%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 20%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/buuo-21-fo-uss",
+          "priceCurrency": "EUR",
+          "price": "2.98",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

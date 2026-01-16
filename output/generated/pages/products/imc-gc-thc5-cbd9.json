@@ -121,7 +121,7 @@
     "meta": {
       "title": "IMC GC THC5 CBD9 | ab 4,49 €",
       "description": "IMC GC THC5 CBD9 von IMC. THC: 5%, CBD: 9%. Sorte: Green Crack. Preis ab 4,49 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/imc-gc-thc5-cbd9",
+      "canonical": "https://cannabisblueten.de/product/imc-gc-thc5-cbd9",
       "robots": {
         "index": true,
         "follow": true
@@ -129,28 +129,28 @@
       "openGraph": {
         "title": "IMC GC THC5 CBD9 | ab 4,49 €",
         "description": "IMC GC THC5 CBD9 von IMC. THC: 5%, CBD: 9%. Sorte: Green Crack. Preis ab 4,49 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/imc-gc-thc5-cbd9",
+        "url": "https://cannabisblueten.de/product/imc-gc-thc5-cbd9",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "IMC",
-        "href": "https://weed.de/brand/imc"
+        "href": "https://cannabisblueten.de/brand/imc"
       },
       {
         "name": "IMC GC THC5 CBD9",
-        "href": "https://weed.de/product/imc-gc-thc5-cbd9"
+        "href": "https://cannabisblueten.de/product/imc-gc-thc5-cbd9"
       }
     ],
     "schema": [
@@ -162,19 +162,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "IMC GC THC5 CBD9",
-            "item": "https://weed.de/product/imc-gc-thc5-cbd9"
+            "item": "https://cannabisblueten.de/product/imc-gc-thc5-cbd9"
           }
         ]
       },
@@ -182,11 +182,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "IMC GC THC5 CBD9",
+        "url": "https://cannabisblueten.de/product/imc-gc-thc5-cbd9",
         "brand": {
           "@type": "Brand",
           "name": "IMC"
         },
-        "description": "THC: 5%, CBD: 9%"
+        "description": "Medizinisches Cannabis Produkt. THC: 5%, CBD: 9%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/imc-gc-thc5-cbd9",
+          "priceCurrency": "EUR",
+          "price": "4.49",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.49",
+            "maxPrice": "7.50",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

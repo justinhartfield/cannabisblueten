@@ -65,7 +65,7 @@
     "meta": {
       "title": "Insel Apotheke - Cannabis Apotheke in Neu-Ulm",
       "description": "Insel Apotheke in Neu-Ulm. Lieferung & Abholung. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/insel-apotheke",
+      "canonical": "https://cannabisblueten.de/apotheke/insel-apotheke",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Insel Apotheke - Cannabis Apotheke in Neu-Ulm",
         "description": "Insel Apotheke in Neu-Ulm. Lieferung & Abholung. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/insel-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/insel-apotheke",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/6752c74ddc3e9014fe0050c2-3j907e.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Neu-Ulm",
-        "href": "https://weed.de/cannabis-apotheke/neu-ulm"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/neu-ulm"
       },
       {
         "name": "Insel Apotheke",
-        "href": "https://weed.de/apotheke/insel-apotheke"
+        "href": "https://cannabisblueten.de/apotheke/insel-apotheke"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Neu-Ulm",
-            "item": "https://weed.de/cannabis-apotheke/neu-ulm"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/neu-ulm"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Insel Apotheke",
-            "item": "https://weed.de/apotheke/insel-apotheke"
+            "item": "https://cannabisblueten.de/apotheke/insel-apotheke"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Insel Apotheke",
-        "url": "https://weed.de/apotheke/insel-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/insel-apotheke",
+        "description": "Cannabis Apotheke in Neu-Ulm. 0 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Marienstraße 1",
@@ -142,8 +143,30 @@
           "addressRegion": "Bayern",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 48.394713,
+          "longitude": 9.997242
+        },
         "telephone": "073182882",
-        "email": "rezeptur@inselapo.de"
+        "email": "rezeptur@inselapo.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ]
       }
     ]
   },

@@ -110,7 +110,7 @@
     "meta": {
       "title": "187 Cannabisflower PPP THC22 CLASSICS - 187 Marry Jane | ...",
       "description": "187 Cannabisflower PPP THC22 CLASSICS von 187 Marry Jane. THC: 22%, CBD: 1%. Sorte: LX - Phantasia Purp - 187 SWEEDZ. Preis ab 6,89 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/187-cannabisflower-ppp-thc22-classics",
+      "canonical": "https://cannabisblueten.de/product/187-cannabisflower-ppp-thc22-classics",
       "robots": {
         "index": true,
         "follow": true
@@ -118,9 +118,9 @@
       "openGraph": {
         "title": "187 Cannabisflower PPP THC22 CLASSICS - 187 Marry Jane | ...",
         "description": "187 Cannabisflower PPP THC22 CLASSICS von 187 Marry Jane. THC: 22%, CBD: 1%. Sorte: LX - Phantasia Purp - 187 SWEEDZ. Preis ab 6,89 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/187-cannabisflower-ppp-thc22-classics",
+        "url": "https://cannabisblueten.de/product/187-cannabisflower-ppp-thc22-classics",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/187-cannabisflower-ppp-thc22-classics-6dejf1.png"
       }
@@ -128,19 +128,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "187 Marry Jane",
-        "href": "https://weed.de/brand/187-marry-jane"
+        "href": "https://cannabisblueten.de/brand/187-marry-jane"
       },
       {
         "name": "187 Cannabisflower PPP THC22 CLASSICS",
-        "href": "https://weed.de/product/187-cannabisflower-ppp-thc22-classics"
+        "href": "https://cannabisblueten.de/product/187-cannabisflower-ppp-thc22-classics"
       }
     ],
     "schema": [
@@ -152,19 +152,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "187 Cannabisflower PPP THC22 CLASSICS",
-            "item": "https://weed.de/product/187-cannabisflower-ppp-thc22-classics"
+            "item": "https://cannabisblueten.de/product/187-cannabisflower-ppp-thc22-classics"
           }
         ]
       },
@@ -172,11 +172,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "187 Cannabisflower PPP THC22 CLASSICS",
+        "url": "https://cannabisblueten.de/product/187-cannabisflower-ppp-thc22-classics",
         "brand": {
           "@type": "Brand",
           "name": "187 Marry Jane"
         },
-        "description": "THC: 22%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 22%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/187-cannabisflower-ppp-thc22-classics",
+          "priceCurrency": "EUR",
+          "price": "6.89",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "6.89",
+            "maxPrice": "7.99",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

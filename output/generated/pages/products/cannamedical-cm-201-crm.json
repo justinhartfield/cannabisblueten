@@ -118,7 +118,7 @@
     "meta": {
       "title": "Cannamedical CM 20/1 CRM | ab 5,49 €",
       "description": "Cannamedical CM 20/1 CRM von Cannamedical. THC: 21.3%, CBD: 1%. Sorte: Creamy Kees No. 5. Preis ab 5,49 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/cannamedical-cm-201-crm",
+      "canonical": "https://cannabisblueten.de/product/cannamedical-cm-201-crm",
       "robots": {
         "index": true,
         "follow": true
@@ -126,9 +126,9 @@
       "openGraph": {
         "title": "Cannamedical CM 20/1 CRM | ab 5,49 €",
         "description": "Cannamedical CM 20/1 CRM von Cannamedical. THC: 21.3%, CBD: 1%. Sorte: Creamy Kees No. 5. Preis ab 5,49 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/cannamedical-cm-201-crm",
+        "url": "https://cannabisblueten.de/product/cannamedical-cm-201-crm",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/cannamedical-cm-201-crm-e2560g.png"
       }
@@ -136,19 +136,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cannamedical",
-        "href": "https://weed.de/brand/cannamedical"
+        "href": "https://cannabisblueten.de/brand/cannamedical"
       },
       {
         "name": "Cannamedical CM 20/1 CRM",
-        "href": "https://weed.de/product/cannamedical-cm-201-crm"
+        "href": "https://cannabisblueten.de/product/cannamedical-cm-201-crm"
       }
     ],
     "schema": [
@@ -160,19 +160,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Cannamedical CM 20/1 CRM",
-            "item": "https://weed.de/product/cannamedical-cm-201-crm"
+            "item": "https://cannabisblueten.de/product/cannamedical-cm-201-crm"
           }
         ]
       },
@@ -180,11 +180,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Cannamedical CM 20/1 CRM",
+        "url": "https://cannabisblueten.de/product/cannamedical-cm-201-crm",
         "brand": {
           "@type": "Brand",
           "name": "Cannamedical"
         },
-        "description": "THC: 21.3%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 21.3%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/cannamedical-cm-201-crm",
+          "priceCurrency": "EUR",
+          "price": "5.49",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "5.49",
+            "maxPrice": "7.99",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

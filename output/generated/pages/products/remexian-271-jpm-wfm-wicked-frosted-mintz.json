@@ -104,7 +104,7 @@
     "meta": {
       "title": "Remexian 27/1 JPM WFM Wicked Frosted Mintz - Remexian Pha...",
       "description": "Remexian 27/1 JPM WFM Wicked Frosted Mintz von Remexian Pharma. THC: 27%, CBD: 1%. Sorte: Wicked Frosted Mintz. Preis ab 3,97 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/remexian-271-jpm-wfm-wicked-frosted-mintz",
+      "canonical": "https://cannabisblueten.de/product/remexian-271-jpm-wfm-wicked-frosted-mintz",
       "robots": {
         "index": true,
         "follow": true
@@ -112,28 +112,28 @@
       "openGraph": {
         "title": "Remexian 27/1 JPM WFM Wicked Frosted Mintz - Remexian Pha...",
         "description": "Remexian 27/1 JPM WFM Wicked Frosted Mintz von Remexian Pharma. THC: 27%, CBD: 1%. Sorte: Wicked Frosted Mintz. Preis ab 3,97 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/remexian-271-jpm-wfm-wicked-frosted-mintz",
+        "url": "https://cannabisblueten.de/product/remexian-271-jpm-wfm-wicked-frosted-mintz",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Remexian Pharma",
-        "href": "https://weed.de/brand/remexian-pharma"
+        "href": "https://cannabisblueten.de/brand/remexian-pharma"
       },
       {
         "name": "Remexian 27/1 JPM WFM Wicked Frosted Mintz",
-        "href": "https://weed.de/product/remexian-271-jpm-wfm-wicked-frosted-mintz"
+        "href": "https://cannabisblueten.de/product/remexian-271-jpm-wfm-wicked-frosted-mintz"
       }
     ],
     "schema": [
@@ -145,19 +145,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Remexian 27/1 JPM WFM Wicked Frosted Mintz",
-            "item": "https://weed.de/product/remexian-271-jpm-wfm-wicked-frosted-mintz"
+            "item": "https://cannabisblueten.de/product/remexian-271-jpm-wfm-wicked-frosted-mintz"
           }
         ]
       },
@@ -165,11 +165,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Remexian 27/1 JPM WFM Wicked Frosted Mintz",
+        "url": "https://cannabisblueten.de/product/remexian-271-jpm-wfm-wicked-frosted-mintz",
         "brand": {
           "@type": "Brand",
           "name": "Remexian Pharma"
         },
-        "description": "THC: 27%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 27%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/remexian-271-jpm-wfm-wicked-frosted-mintz",
+          "priceCurrency": "EUR",
+          "price": "3.97",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "3.97",
+            "maxPrice": "7.95",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

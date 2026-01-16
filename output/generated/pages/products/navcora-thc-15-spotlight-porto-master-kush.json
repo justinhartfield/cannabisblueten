@@ -106,7 +106,7 @@
     "meta": {
       "title": "Navcora THC 15 Spotlight Porto Master Kush - Tilray | ab ...",
       "description": "Navcora THC 15 Spotlight Porto Master Kush von Tilray. THC: 15%, CBD: 1%. Sorte: Master Kush. Preis ab 6,54 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/navcora-thc-15-spotlight-porto-master-kush",
+      "canonical": "https://cannabisblueten.de/product/navcora-thc-15-spotlight-porto-master-kush",
       "robots": {
         "index": true,
         "follow": true
@@ -114,9 +114,9 @@
       "openGraph": {
         "title": "Navcora THC 15 Spotlight Porto Master Kush - Tilray | ab ...",
         "description": "Navcora THC 15 Spotlight Porto Master Kush von Tilray. THC: 15%, CBD: 1%. Sorte: Master Kush. Preis ab 6,54 €. Preise vergleichen.",
-        "url": "https://weed.de/product/navcora-thc-15-spotlight-porto-master-kush",
+        "url": "https://cannabisblueten.de/product/navcora-thc-15-spotlight-porto-master-kush",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/navcora-thc-15-spotlight-porto-master-kush-295683.png"
       }
@@ -124,19 +124,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Tilray",
-        "href": "https://weed.de/brand/tilray"
+        "href": "https://cannabisblueten.de/brand/tilray"
       },
       {
         "name": "Navcora THC 15 Spotlight Porto Master Kush",
-        "href": "https://weed.de/product/navcora-thc-15-spotlight-porto-master-kush"
+        "href": "https://cannabisblueten.de/product/navcora-thc-15-spotlight-porto-master-kush"
       }
     ],
     "schema": [
@@ -148,19 +148,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Navcora THC 15 Spotlight Porto Master Kush",
-            "item": "https://weed.de/product/navcora-thc-15-spotlight-porto-master-kush"
+            "item": "https://cannabisblueten.de/product/navcora-thc-15-spotlight-porto-master-kush"
           }
         ]
       },
@@ -168,11 +168,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Navcora THC 15 Spotlight Porto Master Kush",
+        "url": "https://cannabisblueten.de/product/navcora-thc-15-spotlight-porto-master-kush",
         "brand": {
           "@type": "Brand",
           "name": "Tilray"
         },
-        "description": "THC: 15%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 15%, CBD: 1%, Genetik: indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/navcora-thc-15-spotlight-porto-master-kush",
+          "priceCurrency": "EUR",
+          "price": "6.54",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

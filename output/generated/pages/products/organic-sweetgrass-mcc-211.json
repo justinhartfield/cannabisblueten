@@ -104,7 +104,7 @@
     "meta": {
       "title": "Organic Sweetgrass MCC 21/1 - Cantourage | ab 4,47 €",
       "description": "Organic Sweetgrass MCC 21/1 von Cantourage. THC: 21%, CBD: 1%. Sorte: Mint Chocolate Chip. Preis ab 4,47 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/organic-sweetgrass-mcc-211",
+      "canonical": "https://cannabisblueten.de/product/organic-sweetgrass-mcc-211",
       "robots": {
         "index": true,
         "follow": true
@@ -112,9 +112,9 @@
       "openGraph": {
         "title": "Organic Sweetgrass MCC 21/1 - Cantourage | ab 4,47 €",
         "description": "Organic Sweetgrass MCC 21/1 von Cantourage. THC: 21%, CBD: 1%. Sorte: Mint Chocolate Chip. Preis ab 4,47 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/organic-sweetgrass-mcc-211",
+        "url": "https://cannabisblueten.de/product/organic-sweetgrass-mcc-211",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/organic-sweetgrass-mcc-211-fcc1j5.png"
       }
@@ -122,19 +122,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cantourage",
-        "href": "https://weed.de/brand/cantourage"
+        "href": "https://cannabisblueten.de/brand/cantourage"
       },
       {
         "name": "Organic Sweetgrass MCC 21/1",
-        "href": "https://weed.de/product/organic-sweetgrass-mcc-211"
+        "href": "https://cannabisblueten.de/product/organic-sweetgrass-mcc-211"
       }
     ],
     "schema": [
@@ -146,19 +146,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Organic Sweetgrass MCC 21/1",
-            "item": "https://weed.de/product/organic-sweetgrass-mcc-211"
+            "item": "https://cannabisblueten.de/product/organic-sweetgrass-mcc-211"
           }
         ]
       },
@@ -166,11 +166,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Organic Sweetgrass MCC 21/1",
+        "url": "https://cannabisblueten.de/product/organic-sweetgrass-mcc-211",
         "brand": {
           "@type": "Brand",
           "name": "Cantourage"
         },
-        "description": "THC: 21%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 21%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/organic-sweetgrass-mcc-211",
+          "priceCurrency": "EUR",
+          "price": "4.47",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.47",
+            "maxPrice": "6.99",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

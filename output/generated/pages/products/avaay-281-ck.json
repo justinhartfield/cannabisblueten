@@ -112,7 +112,7 @@
     "meta": {
       "title": "avaay 28/1 CK - Avaay | ab 6,39 €",
       "description": "avaay 28/1 CK von Avaay. THC: 28%, CBD: 1%. Sorte: Critical Kush. Preis ab 6,39 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/avaay-281-ck",
+      "canonical": "https://cannabisblueten.de/product/avaay-281-ck",
       "robots": {
         "index": true,
         "follow": true
@@ -120,9 +120,9 @@
       "openGraph": {
         "title": "avaay 28/1 CK - Avaay | ab 6,39 €",
         "description": "avaay 28/1 CK von Avaay. THC: 28%, CBD: 1%. Sorte: Critical Kush. Preis ab 6,39 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/avaay-281-ck",
+        "url": "https://cannabisblueten.de/product/avaay-281-ck",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/avaay-281-ck-83hhbj.png"
       }
@@ -130,19 +130,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Avaay",
-        "href": "https://weed.de/brand/avaay"
+        "href": "https://cannabisblueten.de/brand/avaay"
       },
       {
         "name": "avaay 28/1 CK",
-        "href": "https://weed.de/product/avaay-281-ck"
+        "href": "https://cannabisblueten.de/product/avaay-281-ck"
       }
     ],
     "schema": [
@@ -154,19 +154,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "avaay 28/1 CK",
-            "item": "https://weed.de/product/avaay-281-ck"
+            "item": "https://cannabisblueten.de/product/avaay-281-ck"
           }
         ]
       },
@@ -174,11 +174,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "avaay 28/1 CK",
+        "url": "https://cannabisblueten.de/product/avaay-281-ck",
         "brand": {
           "@type": "Brand",
           "name": "Avaay"
         },
-        "description": "THC: 28%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 28%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/avaay-281-ck",
+          "priceCurrency": "EUR",
+          "price": "6.39",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "6.39",
+            "maxPrice": "9.99",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

@@ -102,7 +102,7 @@
     "meta": {
       "title": "IMC PPMK THC20 | ab 2,98 €",
       "description": "IMC PPMK THC20 von IMC. THC: 20%, CBD: 1%. Sorte: Mountain Kush. Preis ab 2,98 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/imc-ppmk-thc2",
+      "canonical": "https://cannabisblueten.de/product/imc-ppmk-thc2",
       "robots": {
         "index": true,
         "follow": true
@@ -110,28 +110,28 @@
       "openGraph": {
         "title": "IMC PPMK THC20 | ab 2,98 €",
         "description": "IMC PPMK THC20 von IMC. THC: 20%, CBD: 1%. Sorte: Mountain Kush. Preis ab 2,98 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/imc-ppmk-thc2",
+        "url": "https://cannabisblueten.de/product/imc-ppmk-thc2",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "IMC",
-        "href": "https://weed.de/brand/imc"
+        "href": "https://cannabisblueten.de/brand/imc"
       },
       {
         "name": "IMC PPMK THC20",
-        "href": "https://weed.de/product/imc-ppmk-thc2"
+        "href": "https://cannabisblueten.de/product/imc-ppmk-thc2"
       }
     ],
     "schema": [
@@ -143,19 +143,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "IMC PPMK THC20",
-            "item": "https://weed.de/product/imc-ppmk-thc2"
+            "item": "https://cannabisblueten.de/product/imc-ppmk-thc2"
           }
         ]
       },
@@ -163,11 +163,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "IMC PPMK THC20",
+        "url": "https://cannabisblueten.de/product/imc-ppmk-thc2",
         "brand": {
           "@type": "Brand",
           "name": "IMC"
         },
-        "description": "THC: 20%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 20%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/imc-ppmk-thc2",
+          "priceCurrency": "EUR",
+          "price": "2.98",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "2.98",
+            "maxPrice": "5.99",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

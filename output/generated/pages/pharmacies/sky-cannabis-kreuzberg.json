@@ -65,7 +65,7 @@
     "meta": {
       "title": "Sky Cannabis Kreuzberg - Cannabis Apotheke in Berlin",
       "description": "Sky Cannabis Kreuzberg in Berlin. 26 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/sky-cannabis-kreuzberg",
+      "canonical": "https://cannabisblueten.de/apotheke/sky-cannabis-kreuzberg",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Sky Cannabis Kreuzberg - Cannabis Apotheke in Berlin",
         "description": "Sky Cannabis Kreuzberg in Berlin. 26 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/sky-cannabis-kreuzberg",
+        "url": "https://cannabisblueten.de/apotheke/sky-cannabis-kreuzberg",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/pharmacies/sky-cannabis-kreuzberg-d41efa.jpeg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Berlin",
-        "href": "https://weed.de/cannabis-apotheke/berlin"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/berlin"
       },
       {
         "name": "Sky Cannabis Kreuzberg",
-        "href": "https://weed.de/apotheke/sky-cannabis-kreuzberg"
+        "href": "https://cannabisblueten.de/apotheke/sky-cannabis-kreuzberg"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Berlin",
-            "item": "https://weed.de/cannabis-apotheke/berlin"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/berlin"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Sky Cannabis Kreuzberg",
-            "item": "https://weed.de/apotheke/sky-cannabis-kreuzberg"
+            "item": "https://cannabisblueten.de/apotheke/sky-cannabis-kreuzberg"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Sky Cannabis Kreuzberg",
-        "url": "https://weed.de/apotheke/sky-cannabis-kreuzberg",
+        "url": "https://cannabisblueten.de/apotheke/sky-cannabis-kreuzberg",
+        "description": "Cannabis Apotheke in Berlin. 26 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Bergmannstraße 5",
@@ -142,8 +143,37 @@
           "addressRegion": "Berlin",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 52.48970689999999,
+          "longitude": 13.3886365
+        },
         "telephone": "30232537430",
-        "email": "cannabis-kreuzberg@sky-apotheke.de"
+        "email": "cannabis-kreuzberg@sky-apotheke.de",
+        "sameAs": "https://www.sky-apotheke.de/",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5.0",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
       }
     ]
   },

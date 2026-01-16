@@ -115,7 +115,7 @@
     "meta": {
       "title": "Sibanax 24/1 GMO Zkittlez - Heyday | ab 5,99 €",
       "description": "Sibanax 24/1 GMO Zkittlez von Heyday. THC: 24%, CBD: 1%. Sorte: GMO Zkittlez. Preis ab 5,99 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/sibanax-241-gmo-zkittlez",
+      "canonical": "https://cannabisblueten.de/product/sibanax-241-gmo-zkittlez",
       "robots": {
         "index": true,
         "follow": true
@@ -123,28 +123,28 @@
       "openGraph": {
         "title": "Sibanax 24/1 GMO Zkittlez - Heyday | ab 5,99 €",
         "description": "Sibanax 24/1 GMO Zkittlez von Heyday. THC: 24%, CBD: 1%. Sorte: GMO Zkittlez. Preis ab 5,99 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/sibanax-241-gmo-zkittlez",
+        "url": "https://cannabisblueten.de/product/sibanax-241-gmo-zkittlez",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Heyday",
-        "href": "https://weed.de/brand/heyday"
+        "href": "https://cannabisblueten.de/brand/heyday"
       },
       {
         "name": "Sibanax 24/1 GMO Zkittlez",
-        "href": "https://weed.de/product/sibanax-241-gmo-zkittlez"
+        "href": "https://cannabisblueten.de/product/sibanax-241-gmo-zkittlez"
       }
     ],
     "schema": [
@@ -156,19 +156,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Sibanax 24/1 GMO Zkittlez",
-            "item": "https://weed.de/product/sibanax-241-gmo-zkittlez"
+            "item": "https://cannabisblueten.de/product/sibanax-241-gmo-zkittlez"
           }
         ]
       },
@@ -176,11 +176,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Sibanax 24/1 GMO Zkittlez",
+        "url": "https://cannabisblueten.de/product/sibanax-241-gmo-zkittlez",
         "brand": {
           "@type": "Brand",
           "name": "Heyday"
         },
-        "description": "THC: 24%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 24%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/sibanax-241-gmo-zkittlez",
+          "priceCurrency": "EUR",
+          "price": "5.99",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "5.99",
+            "maxPrice": "7.39",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

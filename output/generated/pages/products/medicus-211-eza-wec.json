@@ -104,7 +104,7 @@
     "meta": {
       "title": "Medicus 21/1 EZA WEC - Remexian Pharma | ab 3,99 €",
       "description": "Medicus 21/1 EZA WEC von Remexian Pharma. THC: 21%, CBD: 1%. Sorte: Wedding Cake. Preis ab 3,99 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/medicus-211-eza-wec",
+      "canonical": "https://cannabisblueten.de/product/medicus-211-eza-wec",
       "robots": {
         "index": true,
         "follow": true
@@ -112,28 +112,28 @@
       "openGraph": {
         "title": "Medicus 21/1 EZA WEC - Remexian Pharma | ab 3,99 €",
         "description": "Medicus 21/1 EZA WEC von Remexian Pharma. THC: 21%, CBD: 1%. Sorte: Wedding Cake. Preis ab 3,99 €. Preise vergleichen.",
-        "url": "https://weed.de/product/medicus-211-eza-wec",
+        "url": "https://cannabisblueten.de/product/medicus-211-eza-wec",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Remexian Pharma",
-        "href": "https://weed.de/brand/remexian-pharma"
+        "href": "https://cannabisblueten.de/brand/remexian-pharma"
       },
       {
         "name": "Medicus 21/1 EZA WEC",
-        "href": "https://weed.de/product/medicus-211-eza-wec"
+        "href": "https://cannabisblueten.de/product/medicus-211-eza-wec"
       }
     ],
     "schema": [
@@ -145,19 +145,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Medicus 21/1 EZA WEC",
-            "item": "https://weed.de/product/medicus-211-eza-wec"
+            "item": "https://cannabisblueten.de/product/medicus-211-eza-wec"
           }
         ]
       },
@@ -165,11 +165,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Medicus 21/1 EZA WEC",
+        "url": "https://cannabisblueten.de/product/medicus-211-eza-wec",
         "brand": {
           "@type": "Brand",
           "name": "Remexian Pharma"
         },
-        "description": "THC: 21%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 21%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/medicus-211-eza-wec",
+          "priceCurrency": "EUR",
+          "price": "3.99",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

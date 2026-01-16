@@ -114,7 +114,7 @@
     "meta": {
       "title": "Cannabisextrakt Aurora THC 25 - Cannovum Health | ab 11,50 €",
       "description": "Cannabisextrakt Aurora THC 25 von Cannovum Health. THC: 25%, CBD: 1%. Sorte: LA Confidential. Preis ab 11,50 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/cannabisextrakt-aurora-thc-25",
+      "canonical": "https://cannabisblueten.de/product/cannabisextrakt-aurora-thc-25",
       "robots": {
         "index": true,
         "follow": true
@@ -122,28 +122,28 @@
       "openGraph": {
         "title": "Cannabisextrakt Aurora THC 25 - Cannovum Health | ab 11,50 €",
         "description": "Cannabisextrakt Aurora THC 25 von Cannovum Health. THC: 25%, CBD: 1%. Sorte: LA Confidential. Preis ab 11,50 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/cannabisextrakt-aurora-thc-25",
+        "url": "https://cannabisblueten.de/product/cannabisextrakt-aurora-thc-25",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cannovum Health",
-        "href": "https://weed.de/brand/cannovum-health"
+        "href": "https://cannabisblueten.de/brand/cannovum-health"
       },
       {
         "name": "Cannabisextrakt Aurora THC 25",
-        "href": "https://weed.de/product/cannabisextrakt-aurora-thc-25"
+        "href": "https://cannabisblueten.de/product/cannabisextrakt-aurora-thc-25"
       }
     ],
     "schema": [
@@ -155,19 +155,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Cannabisextrakt Aurora THC 25",
-            "item": "https://weed.de/product/cannabisextrakt-aurora-thc-25"
+            "item": "https://cannabisblueten.de/product/cannabisextrakt-aurora-thc-25"
           }
         ]
       },
@@ -175,12 +175,23 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Cannabisextrakt Aurora THC 25",
+        "url": "https://cannabisblueten.de/product/cannabisextrakt-aurora-thc-25",
         "brand": {
           "@type": "Brand",
           "name": "Cannovum Health"
         },
         "gtin13": [],
-        "description": "THC: 25%, CBD: 1%"
+        "sku": [],
+        "description": "Medizinisches Cannabis Produkt. THC: 25%, CBD: 1%, Genetik: indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/cannabisextrakt-aurora-thc-25",
+          "priceCurrency": "EUR",
+          "price": "11.50",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

@@ -104,7 +104,7 @@
     "meta": {
       "title": "Demecan Core JM7 28:01 | ab 5,85 €",
       "description": "Demecan Core JM7 28:01 von Demecan. THC: 28%, CBD: 1%. Sorte: Jelly Mints. Preis ab 5,85 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/demecan-core-jm7-281",
+      "canonical": "https://cannabisblueten.de/product/demecan-core-jm7-281",
       "robots": {
         "index": true,
         "follow": true
@@ -112,9 +112,9 @@
       "openGraph": {
         "title": "Demecan Core JM7 28:01 | ab 5,85 €",
         "description": "Demecan Core JM7 28:01 von Demecan. THC: 28%, CBD: 1%. Sorte: Jelly Mints. Preis ab 5,85 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/demecan-core-jm7-281",
+        "url": "https://cannabisblueten.de/product/demecan-core-jm7-281",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/demecan-core-jm7-281-85c7c4.jpeg"
       }
@@ -122,19 +122,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Demecan",
-        "href": "https://weed.de/brand/demecan"
+        "href": "https://cannabisblueten.de/brand/demecan"
       },
       {
         "name": "Demecan Core JM7 28:01",
-        "href": "https://weed.de/product/demecan-core-jm7-281"
+        "href": "https://cannabisblueten.de/product/demecan-core-jm7-281"
       }
     ],
     "schema": [
@@ -146,19 +146,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Demecan Core JM7 28:01",
-            "item": "https://weed.de/product/demecan-core-jm7-281"
+            "item": "https://cannabisblueten.de/product/demecan-core-jm7-281"
           }
         ]
       },
@@ -166,11 +166,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Demecan Core JM7 28:01",
+        "url": "https://cannabisblueten.de/product/demecan-core-jm7-281",
         "brand": {
           "@type": "Brand",
           "name": "Demecan"
         },
-        "description": "THC: 28%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 28%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/demecan-core-jm7-281",
+          "priceCurrency": "EUR",
+          "price": "5.85",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "5.85",
+            "maxPrice": "12.00",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

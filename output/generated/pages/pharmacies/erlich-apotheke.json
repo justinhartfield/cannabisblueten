@@ -65,7 +65,7 @@
     "meta": {
       "title": "Cannovia (=by Erlich Apotheke) - Cannabis Apotheke in Speyer",
       "description": "Cannovia (=by Erlich Apotheke) in Speyer. 10 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/erlich-apotheke",
+      "canonical": "https://cannabisblueten.de/apotheke/erlich-apotheke",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Cannovia (=by Erlich Apotheke) - Cannabis Apotheke in Speyer",
         "description": "Cannovia (=by Erlich Apotheke) in Speyer. 10 Cannabis Produkte. Lieferung & Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/erlich-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/erlich-apotheke",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/66d866575d495b613670193d-736ej0.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Speyer",
-        "href": "https://weed.de/cannabis-apotheke/speyer"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/speyer"
       },
       {
         "name": "Cannovia (=by Erlich Apotheke)",
-        "href": "https://weed.de/apotheke/erlich-apotheke"
+        "href": "https://cannabisblueten.de/apotheke/erlich-apotheke"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Speyer",
-            "item": "https://weed.de/cannabis-apotheke/speyer"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/speyer"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Cannovia (=by Erlich Apotheke)",
-            "item": "https://weed.de/apotheke/erlich-apotheke"
+            "item": "https://cannabisblueten.de/apotheke/erlich-apotheke"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Cannovia (=by Erlich Apotheke)",
-        "url": "https://weed.de/apotheke/erlich-apotheke",
+        "url": "https://cannabisblueten.de/apotheke/erlich-apotheke",
+        "description": "Cannabis Apotheke in Speyer. 10 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Fünfkirchener Weg 3",
@@ -142,8 +143,37 @@
           "addressRegion": "Rheinland-Pfalz",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 49.3272531,
+          "longitude": 8.4189331
+        },
         "telephone": "06232490699",
-        "email": "post@cannovia.de"
+        "email": "post@cannovia.de",
+        "sameAs": "https://cannovia.de/",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5.0",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
       }
     ]
   },

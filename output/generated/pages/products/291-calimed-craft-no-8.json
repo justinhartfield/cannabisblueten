@@ -105,7 +105,7 @@
     "meta": {
       "title": "29/01 Calimed craft No. 8 - California's Medical | ab 6,49 €",
       "description": "29/01 Calimed craft No. 8 von California's Medical. THC: 29%, CBD: 1%. Sorte: Apples & Bananas x Jealousy. Preis ab 6,49 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/291-calimed-craft-no-8",
+      "canonical": "https://cannabisblueten.de/product/291-calimed-craft-no-8",
       "robots": {
         "index": true,
         "follow": true
@@ -113,9 +113,9 @@
       "openGraph": {
         "title": "29/01 Calimed craft No. 8 - California's Medical | ab 6,49 €",
         "description": "29/01 Calimed craft No. 8 von California's Medical. THC: 29%, CBD: 1%. Sorte: Apples & Bananas x Jealousy. Preis ab 6,49 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/291-calimed-craft-no-8",
+        "url": "https://cannabisblueten.de/product/291-calimed-craft-no-8",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/291-calimed-craft-no-8-6b724h.webp"
       }
@@ -123,19 +123,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "California's Medical",
-        "href": "https://weed.de/brand/california-s-medical"
+        "href": "https://cannabisblueten.de/brand/california-s-medical"
       },
       {
         "name": "29/01 Calimed craft No. 8",
-        "href": "https://weed.de/product/291-calimed-craft-no-8"
+        "href": "https://cannabisblueten.de/product/291-calimed-craft-no-8"
       }
     ],
     "schema": [
@@ -147,19 +147,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "29/01 Calimed craft No. 8",
-            "item": "https://weed.de/product/291-calimed-craft-no-8"
+            "item": "https://cannabisblueten.de/product/291-calimed-craft-no-8"
           }
         ]
       },
@@ -167,11 +167,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "29/01 Calimed craft No. 8",
+        "url": "https://cannabisblueten.de/product/291-calimed-craft-no-8",
         "brand": {
           "@type": "Brand",
           "name": "California's Medical"
         },
-        "description": "THC: 29%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 29%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/291-calimed-craft-no-8",
+          "priceCurrency": "EUR",
+          "price": "6.49",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "6.49",
+            "maxPrice": "8.56",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

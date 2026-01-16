@@ -104,7 +104,7 @@
     "meta": {
       "title": "Huala 22/1 CA BTR - Four 20 Pharma | ab 4,04 €",
       "description": "Huala 22/1 CA BTR von Four 20 Pharma. THC: 22%, CBD: 1%. Sorte: Black Triangle. Preis ab 4,04 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/huala-221-ca-btr",
+      "canonical": "https://cannabisblueten.de/product/huala-221-ca-btr",
       "robots": {
         "index": true,
         "follow": true
@@ -112,9 +112,9 @@
       "openGraph": {
         "title": "Huala 22/1 CA BTR - Four 20 Pharma | ab 4,04 €",
         "description": "Huala 22/1 CA BTR von Four 20 Pharma. THC: 22%, CBD: 1%. Sorte: Black Triangle. Preis ab 4,04 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/huala-221-ca-btr",
+        "url": "https://cannabisblueten.de/product/huala-221-ca-btr",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/huala-221-ca-btr-2e00ib.jpeg"
       }
@@ -122,19 +122,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Four 20 Pharma",
-        "href": "https://weed.de/brand/four-20-pharma"
+        "href": "https://cannabisblueten.de/brand/four-20-pharma"
       },
       {
         "name": "Huala 22/1 CA BTR",
-        "href": "https://weed.de/product/huala-221-ca-btr"
+        "href": "https://cannabisblueten.de/product/huala-221-ca-btr"
       }
     ],
     "schema": [
@@ -146,19 +146,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Huala 22/1 CA BTR",
-            "item": "https://weed.de/product/huala-221-ca-btr"
+            "item": "https://cannabisblueten.de/product/huala-221-ca-btr"
           }
         ]
       },
@@ -166,11 +166,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Huala 22/1 CA BTR",
+        "url": "https://cannabisblueten.de/product/huala-221-ca-btr",
         "brand": {
           "@type": "Brand",
           "name": "Four 20 Pharma"
         },
-        "description": "THC: 22%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 22%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/huala-221-ca-btr",
+          "priceCurrency": "EUR",
+          "price": "4.04",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.04",
+            "maxPrice": "6.99",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

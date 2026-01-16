@@ -65,7 +65,7 @@
     "meta": {
       "title": "Cannalles im Harz - Cannabis Apotheke in Thale",
       "description": "Cannalles im Harz in Thale. 22 Cannabis Produkte. Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/apotheke-am-markt",
+      "canonical": "https://cannabisblueten.de/apotheke/apotheke-am-markt",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Cannalles im Harz - Cannabis Apotheke in Thale",
         "description": "Cannalles im Harz in Thale. 22 Cannabis Produkte. Abholung. Bewertung: 5.0/5. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/apotheke-am-markt",
+        "url": "https://cannabisblueten.de/apotheke/apotheke-am-markt",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/68d660d8d693a725ccf307de-a5b7hh.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Thale",
-        "href": "https://weed.de/cannabis-apotheke/thale"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/thale"
       },
       {
         "name": "Cannalles im Harz",
-        "href": "https://weed.de/apotheke/apotheke-am-markt"
+        "href": "https://cannabisblueten.de/apotheke/apotheke-am-markt"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Thale",
-            "item": "https://weed.de/cannabis-apotheke/thale"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/thale"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Cannalles im Harz",
-            "item": "https://weed.de/apotheke/apotheke-am-markt"
+            "item": "https://cannabisblueten.de/apotheke/apotheke-am-markt"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Cannalles im Harz",
-        "url": "https://weed.de/apotheke/apotheke-am-markt",
+        "url": "https://cannabisblueten.de/apotheke/apotheke-am-markt",
+        "description": "Cannabis Apotheke in Thale. 22 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Schleifenbachstraße 2",
@@ -142,8 +143,30 @@
           "addressRegion": "Sachsen-Anhalt",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 51.756225,
+          "longitude": 11.0418354
+        },
         "telephone": "039472637",
-        "email": "shop@cannalles.de"
+        "email": "shop@cannalles.de",
+        "sameAs": "www.cannalles.de",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5.0",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
       }
     ]
   },

@@ -113,7 +113,7 @@
     "meta": {
       "title": "Remexian 27/1 RAS GRT - Remexian Pharma | ab 3,94 €",
       "description": "Remexian 27/1 RAS GRT von Remexian Pharma. THC: 27%, CBD: 1%. Sorte: Green Thunder. Preis ab 3,94 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/remexian-271-ras-grt",
+      "canonical": "https://cannabisblueten.de/product/remexian-271-ras-grt",
       "robots": {
         "index": true,
         "follow": true
@@ -121,28 +121,28 @@
       "openGraph": {
         "title": "Remexian 27/1 RAS GRT - Remexian Pharma | ab 3,94 €",
         "description": "Remexian 27/1 RAS GRT von Remexian Pharma. THC: 27%, CBD: 1%. Sorte: Green Thunder. Preis ab 3,94 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/remexian-271-ras-grt",
+        "url": "https://cannabisblueten.de/product/remexian-271-ras-grt",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Remexian Pharma",
-        "href": "https://weed.de/brand/remexian-pharma"
+        "href": "https://cannabisblueten.de/brand/remexian-pharma"
       },
       {
         "name": "Remexian 27/1 RAS GRT",
-        "href": "https://weed.de/product/remexian-271-ras-grt"
+        "href": "https://cannabisblueten.de/product/remexian-271-ras-grt"
       }
     ],
     "schema": [
@@ -154,19 +154,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Remexian 27/1 RAS GRT",
-            "item": "https://weed.de/product/remexian-271-ras-grt"
+            "item": "https://cannabisblueten.de/product/remexian-271-ras-grt"
           }
         ]
       },
@@ -174,11 +174,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Remexian 27/1 RAS GRT",
+        "url": "https://cannabisblueten.de/product/remexian-271-ras-grt",
         "brand": {
           "@type": "Brand",
           "name": "Remexian Pharma"
         },
-        "description": "THC: 27%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 27%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/remexian-271-ras-grt",
+          "priceCurrency": "EUR",
+          "price": "3.94",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "3.94",
+            "maxPrice": "5.99",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

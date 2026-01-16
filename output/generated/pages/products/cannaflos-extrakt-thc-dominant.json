@@ -78,7 +78,7 @@
     "meta": {
       "title": "Cannaflos Extrakt THC dominant - Cannaflos GmbH | ab 145,...",
       "description": "Cannaflos Extrakt THC dominant von Cannaflos GmbH. THC: 25%, CBD: 1%. Preis ab 145,95 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/cannaflos-extrakt-thc-dominant",
+      "canonical": "https://cannabisblueten.de/product/cannaflos-extrakt-thc-dominant",
       "robots": {
         "index": true,
         "follow": true
@@ -86,28 +86,28 @@
       "openGraph": {
         "title": "Cannaflos Extrakt THC dominant - Cannaflos GmbH | ab 145,...",
         "description": "Cannaflos Extrakt THC dominant von Cannaflos GmbH. THC: 25%, CBD: 1%. Preis ab 145,95 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/cannaflos-extrakt-thc-dominant",
+        "url": "https://cannabisblueten.de/product/cannaflos-extrakt-thc-dominant",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cannaflos GmbH",
-        "href": "https://weed.de/brand/cannaflos-gmbh"
+        "href": "https://cannabisblueten.de/brand/cannaflos-gmbh"
       },
       {
         "name": "Cannaflos Extrakt THC dominant",
-        "href": "https://weed.de/product/cannaflos-extrakt-thc-dominant"
+        "href": "https://cannabisblueten.de/product/cannaflos-extrakt-thc-dominant"
       }
     ],
     "schema": [
@@ -119,19 +119,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Cannaflos Extrakt THC dominant",
-            "item": "https://weed.de/product/cannaflos-extrakt-thc-dominant"
+            "item": "https://cannabisblueten.de/product/cannaflos-extrakt-thc-dominant"
           }
         ]
       },
@@ -139,11 +139,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Cannaflos Extrakt THC dominant",
+        "url": "https://cannabisblueten.de/product/cannaflos-extrakt-thc-dominant",
         "brand": {
           "@type": "Brand",
           "name": "Cannaflos GmbH"
         },
-        "description": "THC: 25%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 25%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/cannaflos-extrakt-thc-dominant",
+          "priceCurrency": "EUR",
+          "price": "145.95",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

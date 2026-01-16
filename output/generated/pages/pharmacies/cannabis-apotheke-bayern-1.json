@@ -65,7 +65,7 @@
     "meta": {
       "title": "Cannabis Apotheke Bayern - Cannabis Apotheke in Schweinfurt",
       "description": "Cannabis Apotheke Bayern in Schweinfurt. 193 Cannabis Produkte. Lieferung & Abholung. Bewertung: 2.5/5. Jetzt Preise vergleichen.",
-      "canonical": "https://weed.de/apotheke/cannabis-apotheke-bayern-1",
+      "canonical": "https://cannabisblueten.de/apotheke/cannabis-apotheke-bayern-1",
       "robots": {
         "index": true,
         "follow": true
@@ -73,9 +73,9 @@
       "openGraph": {
         "title": "Cannabis Apotheke Bayern - Cannabis Apotheke in Schweinfurt",
         "description": "Cannabis Apotheke Bayern in Schweinfurt. 193 Cannabis Produkte. Lieferung & Abholung. Bewertung: 2.5/5. Jetzt Preise vergleichen.",
-        "url": "https://weed.de/apotheke/cannabis-apotheke-bayern-1",
+        "url": "https://cannabisblueten.de/apotheke/cannabis-apotheke-bayern-1",
         "type": "website",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.dehttps://cdn.weed.de/pharmacies/675daa3272288092ec68f3ab-168c92.jpg"
       }
@@ -83,19 +83,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Cannabis Apotheke",
-        "href": "https://weed.de/cannabis-apotheke"
+        "href": "https://cannabisblueten.de/cannabis-apotheke"
       },
       {
         "name": "Schweinfurt",
-        "href": "https://weed.de/cannabis-apotheke/schweinfurt"
+        "href": "https://cannabisblueten.de/cannabis-apotheke/schweinfurt"
       },
       {
         "name": "Cannabis Apotheke Bayern",
-        "href": "https://weed.de/apotheke/cannabis-apotheke-bayern-1"
+        "href": "https://cannabisblueten.de/apotheke/cannabis-apotheke-bayern-1"
       }
     ],
     "schema": [
@@ -107,25 +107,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cannabis Apotheke",
-            "item": "https://weed.de/cannabis-apotheke"
+            "item": "https://cannabisblueten.de/cannabis-apotheke"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Schweinfurt",
-            "item": "https://weed.de/cannabis-apotheke/schweinfurt"
+            "item": "https://cannabisblueten.de/cannabis-apotheke/schweinfurt"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Cannabis Apotheke Bayern",
-            "item": "https://weed.de/apotheke/cannabis-apotheke-bayern-1"
+            "item": "https://cannabisblueten.de/apotheke/cannabis-apotheke-bayern-1"
           }
         ]
       },
@@ -133,7 +133,8 @@
         "@context": "https://schema.org",
         "@type": "Pharmacy",
         "name": "Cannabis Apotheke Bayern",
-        "url": "https://weed.de/apotheke/cannabis-apotheke-bayern-1",
+        "url": "https://cannabisblueten.de/apotheke/cannabis-apotheke-bayern-1",
+        "description": "Cannabis Apotheke in Schweinfurt. 193 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Schrammstraße 5",
@@ -142,8 +143,36 @@
           "addressRegion": "Bayern",
           "addressCountry": "DE"
         },
+        "priceRange": "€€",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 50.0399523,
+          "longitude": 10.2250999
+        },
         "telephone": "09721977320",
-        "email": "support@cannabisapotheke.bayern"
+        "email": "support@cannabisapotheke.bayern",
+        "makesOffer": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Versand"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Abholung vor Ort"
+            }
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "2.5",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
       }
     ]
   },

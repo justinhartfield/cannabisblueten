@@ -101,7 +101,7 @@
     "meta": {
       "title": "420 Compound CA 30/1 BER - Four 20 Pharma | ab 6,89 €",
       "description": "420 Compound CA 30/1 BER von Four 20 Pharma. THC: 30%, CBD: 1%. Sorte: Berlin Berries. Preis ab 6,89 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/42-compound-31-ber",
+      "canonical": "https://cannabisblueten.de/product/42-compound-31-ber",
       "robots": {
         "index": true,
         "follow": true
@@ -109,9 +109,9 @@
       "openGraph": {
         "title": "420 Compound CA 30/1 BER - Four 20 Pharma | ab 6,89 €",
         "description": "420 Compound CA 30/1 BER von Four 20 Pharma. THC: 30%, CBD: 1%. Sorte: Berlin Berries. Preis ab 6,89 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/42-compound-31-ber",
+        "url": "https://cannabisblueten.de/product/42-compound-31-ber",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/42-compound-31-ber-e0eih5.jpeg"
       }
@@ -119,19 +119,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Four 20 Pharma",
-        "href": "https://weed.de/brand/four-20-pharma"
+        "href": "https://cannabisblueten.de/brand/four-20-pharma"
       },
       {
         "name": "420 Compound CA 30/1 BER",
-        "href": "https://weed.de/product/42-compound-31-ber"
+        "href": "https://cannabisblueten.de/product/42-compound-31-ber"
       }
     ],
     "schema": [
@@ -143,19 +143,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "420 Compound CA 30/1 BER",
-            "item": "https://weed.de/product/42-compound-31-ber"
+            "item": "https://cannabisblueten.de/product/42-compound-31-ber"
           }
         ]
       },
@@ -163,11 +163,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "420 Compound CA 30/1 BER",
+        "url": "https://cannabisblueten.de/product/42-compound-31-ber",
         "brand": {
           "@type": "Brand",
           "name": "Four 20 Pharma"
         },
-        "description": "THC: 30%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 30%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/42-compound-31-ber",
+          "priceCurrency": "EUR",
+          "price": "6.89",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "6.89",
+            "maxPrice": "8.50",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

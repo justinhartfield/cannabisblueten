@@ -78,7 +78,7 @@
     "meta": {
       "title": "Somai Canify Cannabisextrakt 25:25 - Somai Pharmaceutical...",
       "description": "Somai Canify Cannabisextrakt 25:25 von Somai Pharmaceuticals. THC: 2.5%, CBD: 2.5%. Preis ab 11,99 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/somai-canify-cannabisextrakt-25-25",
+      "canonical": "https://cannabisblueten.de/product/somai-canify-cannabisextrakt-25-25",
       "robots": {
         "index": true,
         "follow": true
@@ -86,9 +86,9 @@
       "openGraph": {
         "title": "Somai Canify Cannabisextrakt 25:25 - Somai Pharmaceutical...",
         "description": "Somai Canify Cannabisextrakt 25:25 von Somai Pharmaceuticals. THC: 2.5%, CBD: 2.5%. Preis ab 11,99 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/somai-canify-cannabisextrakt-25-25",
+        "url": "https://cannabisblueten.de/product/somai-canify-cannabisextrakt-25-25",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/somai-canify-cannabisextrakt-2525-259292.webp"
       }
@@ -96,19 +96,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Somai Pharmaceuticals",
-        "href": "https://weed.de/brand/somai-pharmaceuticals"
+        "href": "https://cannabisblueten.de/brand/somai-pharmaceuticals"
       },
       {
         "name": "Somai Canify Cannabisextrakt 25:25",
-        "href": "https://weed.de/product/somai-canify-cannabisextrakt-25-25"
+        "href": "https://cannabisblueten.de/product/somai-canify-cannabisextrakt-25-25"
       }
     ],
     "schema": [
@@ -120,19 +120,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Somai Canify Cannabisextrakt 25:25",
-            "item": "https://weed.de/product/somai-canify-cannabisextrakt-25-25"
+            "item": "https://cannabisblueten.de/product/somai-canify-cannabisextrakt-25-25"
           }
         ]
       },
@@ -140,11 +140,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Somai Canify Cannabisextrakt 25:25",
+        "url": "https://cannabisblueten.de/product/somai-canify-cannabisextrakt-25-25",
         "brand": {
           "@type": "Brand",
           "name": "Somai Pharmaceuticals"
         },
-        "description": "THC: 2.5%, CBD: 2.5%"
+        "description": "Medizinisches Cannabis Produkt. THC: 2.5%, CBD: 2.5%, Genetik: indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/somai-canify-cannabisextrakt-25-25",
+          "priceCurrency": "EUR",
+          "price": "11.99",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

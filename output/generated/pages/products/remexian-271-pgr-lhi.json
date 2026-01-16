@@ -114,7 +114,7 @@
     "meta": {
       "title": "Remexian 27/1 PGR LHI - Remexian Pharma | ab 4,59 €",
       "description": "Remexian 27/1 PGR LHI von Remexian Pharma. THC: 26.6%, CBD: 1%. Sorte: Lemon Hill. Preis ab 4,59 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/remexian-271-pgr-lhi",
+      "canonical": "https://cannabisblueten.de/product/remexian-271-pgr-lhi",
       "robots": {
         "index": true,
         "follow": true
@@ -122,28 +122,28 @@
       "openGraph": {
         "title": "Remexian 27/1 PGR LHI - Remexian Pharma | ab 4,59 €",
         "description": "Remexian 27/1 PGR LHI von Remexian Pharma. THC: 26.6%, CBD: 1%. Sorte: Lemon Hill. Preis ab 4,59 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/remexian-271-pgr-lhi",
+        "url": "https://cannabisblueten.de/product/remexian-271-pgr-lhi",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Remexian Pharma",
-        "href": "https://weed.de/brand/remexian-pharma"
+        "href": "https://cannabisblueten.de/brand/remexian-pharma"
       },
       {
         "name": "Remexian 27/1 PGR LHI",
-        "href": "https://weed.de/product/remexian-271-pgr-lhi"
+        "href": "https://cannabisblueten.de/product/remexian-271-pgr-lhi"
       }
     ],
     "schema": [
@@ -155,19 +155,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Remexian 27/1 PGR LHI",
-            "item": "https://weed.de/product/remexian-271-pgr-lhi"
+            "item": "https://cannabisblueten.de/product/remexian-271-pgr-lhi"
           }
         ]
       },
@@ -175,11 +175,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Remexian 27/1 PGR LHI",
+        "url": "https://cannabisblueten.de/product/remexian-271-pgr-lhi",
         "brand": {
           "@type": "Brand",
           "name": "Remexian Pharma"
         },
-        "description": "THC: 26.6%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 26.6%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/remexian-271-pgr-lhi",
+          "priceCurrency": "EUR",
+          "price": "4.59",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

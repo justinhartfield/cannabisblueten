@@ -115,7 +115,7 @@
     "meta": {
       "title": "Bathera 28/1 FC | ab 4,99 €",
       "description": "Bathera 28/1 FC von Bathera. THC: 28%, CBD: 1%. Sorte: Fine Cookies. Preis ab 4,99 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/bathera-281-fc",
+      "canonical": "https://cannabisblueten.de/product/bathera-281-fc",
       "robots": {
         "index": true,
         "follow": true
@@ -123,28 +123,28 @@
       "openGraph": {
         "title": "Bathera 28/1 FC | ab 4,99 €",
         "description": "Bathera 28/1 FC von Bathera. THC: 28%, CBD: 1%. Sorte: Fine Cookies. Preis ab 4,99 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/bathera-281-fc",
+        "url": "https://cannabisblueten.de/product/bathera-281-fc",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Bathera",
-        "href": "https://weed.de/brand/bathera"
+        "href": "https://cannabisblueten.de/brand/bathera"
       },
       {
         "name": "Bathera 28/1 FC",
-        "href": "https://weed.de/product/bathera-281-fc"
+        "href": "https://cannabisblueten.de/product/bathera-281-fc"
       }
     ],
     "schema": [
@@ -156,19 +156,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Bathera 28/1 FC",
-            "item": "https://weed.de/product/bathera-281-fc"
+            "item": "https://cannabisblueten.de/product/bathera-281-fc"
           }
         ]
       },
@@ -176,11 +176,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Bathera 28/1 FC",
+        "url": "https://cannabisblueten.de/product/bathera-281-fc",
         "brand": {
           "@type": "Brand",
           "name": "Bathera"
         },
-        "description": "THC: 28%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 28%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/bathera-281-fc",
+          "priceCurrency": "EUR",
+          "price": "4.99",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.99",
+            "maxPrice": "7.90",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

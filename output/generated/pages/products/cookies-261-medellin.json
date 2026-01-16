@@ -117,7 +117,7 @@
     "meta": {
       "title": "Cookies 26/1 Medellin - Cansativa | ab 8,29 €",
       "description": "Cookies 26/1 Medellin von Cansativa. THC: 26%, CBD: 1%. Sorte: Medellin. Preis ab 8,29 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/cookies-261-medellin",
+      "canonical": "https://cannabisblueten.de/product/cookies-261-medellin",
       "robots": {
         "index": true,
         "follow": true
@@ -125,9 +125,9 @@
       "openGraph": {
         "title": "Cookies 26/1 Medellin - Cansativa | ab 8,29 €",
         "description": "Cookies 26/1 Medellin von Cansativa. THC: 26%, CBD: 1%. Sorte: Medellin. Preis ab 8,29 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/cookies-261-medellin",
+        "url": "https://cannabisblueten.de/product/cookies-261-medellin",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/cookies-261-medellin-ge08jf.png"
       }
@@ -135,19 +135,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cansativa",
-        "href": "https://weed.de/brand/cansativa"
+        "href": "https://cannabisblueten.de/brand/cansativa"
       },
       {
         "name": "Cookies 26/1 Medellin",
-        "href": "https://weed.de/product/cookies-261-medellin"
+        "href": "https://cannabisblueten.de/product/cookies-261-medellin"
       }
     ],
     "schema": [
@@ -159,19 +159,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Cookies 26/1 Medellin",
-            "item": "https://weed.de/product/cookies-261-medellin"
+            "item": "https://cannabisblueten.de/product/cookies-261-medellin"
           }
         ]
       },
@@ -179,12 +179,29 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Cookies 26/1 Medellin",
+        "url": "https://cannabisblueten.de/product/cookies-261-medellin",
         "brand": {
           "@type": "Brand",
           "name": "Cansativa"
         },
         "gtin13": [],
-        "description": "THC: 26%, CBD: 1%"
+        "sku": [],
+        "description": "Medizinisches Cannabis Produkt. THC: 26%, CBD: 1%, Genetik: indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/cookies-261-medellin",
+          "priceCurrency": "EUR",
+          "price": "8.29",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "8.29",
+            "maxPrice": "9.49",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

@@ -103,7 +103,7 @@
     "meta": {
       "title": "Cannamedical Sativa Forte NM AA | ab 8,39 €",
       "description": "Cannamedical Sativa Forte NM AA von Cannamedical. THC: 24%, CBD: 1%. Sorte: Amsterdam Amnesia. Preis ab 8,39 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/cannamedical-sativa-forte-nm-aa",
+      "canonical": "https://cannabisblueten.de/product/cannamedical-sativa-forte-nm-aa",
       "robots": {
         "index": true,
         "follow": true
@@ -111,9 +111,9 @@
       "openGraph": {
         "title": "Cannamedical Sativa Forte NM AA | ab 8,39 €",
         "description": "Cannamedical Sativa Forte NM AA von Cannamedical. THC: 24%, CBD: 1%. Sorte: Amsterdam Amnesia. Preis ab 8,39 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/cannamedical-sativa-forte-nm-aa",
+        "url": "https://cannabisblueten.de/product/cannamedical-sativa-forte-nm-aa",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/cannamedical-sativa-forte-nm-amsterdam-amnesia-3gebig.png"
       }
@@ -121,19 +121,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cannamedical",
-        "href": "https://weed.de/brand/cannamedical"
+        "href": "https://cannabisblueten.de/brand/cannamedical"
       },
       {
         "name": "Cannamedical Sativa Forte NM AA",
-        "href": "https://weed.de/product/cannamedical-sativa-forte-nm-aa"
+        "href": "https://cannabisblueten.de/product/cannamedical-sativa-forte-nm-aa"
       }
     ],
     "schema": [
@@ -145,19 +145,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Cannamedical Sativa Forte NM AA",
-            "item": "https://weed.de/product/cannamedical-sativa-forte-nm-aa"
+            "item": "https://cannabisblueten.de/product/cannamedical-sativa-forte-nm-aa"
           }
         ]
       },
@@ -165,11 +165,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Cannamedical Sativa Forte NM AA",
+        "url": "https://cannabisblueten.de/product/cannamedical-sativa-forte-nm-aa",
         "brand": {
           "@type": "Brand",
           "name": "Cannamedical"
         },
-        "description": "THC: 24%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 24%, CBD: 1%, Genetik: sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/cannamedical-sativa-forte-nm-aa",
+          "priceCurrency": "EUR",
+          "price": "8.39",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "8.39",
+            "maxPrice": "12.95",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

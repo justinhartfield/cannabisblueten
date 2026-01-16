@@ -103,7 +103,7 @@
     "meta": {
       "title": "Cannamedical CM 23/1 MC | ab 4,99 €",
       "description": "Cannamedical CM 23/1 MC von Cannamedical. THC: 22%, CBD: 1%. Sorte: Mandarine Cookies. Preis ab 4,99 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/cannamedical-cm-231-mc",
+      "canonical": "https://cannabisblueten.de/product/cannamedical-cm-231-mc",
       "robots": {
         "index": true,
         "follow": true
@@ -111,9 +111,9 @@
       "openGraph": {
         "title": "Cannamedical CM 23/1 MC | ab 4,99 €",
         "description": "Cannamedical CM 23/1 MC von Cannamedical. THC: 22%, CBD: 1%. Sorte: Mandarine Cookies. Preis ab 4,99 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/cannamedical-cm-231-mc",
+        "url": "https://cannabisblueten.de/product/cannamedical-cm-231-mc",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/cannamedical-cm-231-mc-j8j074.png"
       }
@@ -121,19 +121,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cannamedical",
-        "href": "https://weed.de/brand/cannamedical"
+        "href": "https://cannabisblueten.de/brand/cannamedical"
       },
       {
         "name": "Cannamedical CM 23/1 MC",
-        "href": "https://weed.de/product/cannamedical-cm-231-mc"
+        "href": "https://cannabisblueten.de/product/cannamedical-cm-231-mc"
       }
     ],
     "schema": [
@@ -145,19 +145,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Cannamedical CM 23/1 MC",
-            "item": "https://weed.de/product/cannamedical-cm-231-mc"
+            "item": "https://cannabisblueten.de/product/cannamedical-cm-231-mc"
           }
         ]
       },
@@ -165,11 +165,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Cannamedical CM 23/1 MC",
+        "url": "https://cannabisblueten.de/product/cannamedical-cm-231-mc",
         "brand": {
           "@type": "Brand",
           "name": "Cannamedical"
         },
-        "description": "THC: 22%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 22%, CBD: 1%, Genetik: hybrid_sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/cannamedical-cm-231-mc",
+          "priceCurrency": "EUR",
+          "price": "4.99",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.99",
+            "maxPrice": "8.79",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

@@ -107,7 +107,7 @@
     "meta": {
       "title": "N!CE 27/1 SB - Cantourage | ab 8,48 €",
       "description": "N!CE 27/1 SB von Cantourage. THC: 26.9%, CBD: 0.1%. Sorte: Strawberry Banana. Preis ab 8,48 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/nce-271-sb",
+      "canonical": "https://cannabisblueten.de/product/nce-271-sb",
       "robots": {
         "index": true,
         "follow": true
@@ -115,28 +115,28 @@
       "openGraph": {
         "title": "N!CE 27/1 SB - Cantourage | ab 8,48 €",
         "description": "N!CE 27/1 SB von Cantourage. THC: 26.9%, CBD: 0.1%. Sorte: Strawberry Banana. Preis ab 8,48 €. Preise vergleichen.",
-        "url": "https://weed.de/product/nce-271-sb",
+        "url": "https://cannabisblueten.de/product/nce-271-sb",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cantourage",
-        "href": "https://weed.de/brand/cantourage"
+        "href": "https://cannabisblueten.de/brand/cantourage"
       },
       {
         "name": "N!CE 27/1 SB",
-        "href": "https://weed.de/product/nce-271-sb"
+        "href": "https://cannabisblueten.de/product/nce-271-sb"
       }
     ],
     "schema": [
@@ -148,19 +148,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "N!CE 27/1 SB",
-            "item": "https://weed.de/product/nce-271-sb"
+            "item": "https://cannabisblueten.de/product/nce-271-sb"
           }
         ]
       },
@@ -168,11 +168,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "N!CE 27/1 SB",
+        "url": "https://cannabisblueten.de/product/nce-271-sb",
         "brand": {
           "@type": "Brand",
           "name": "Cantourage"
         },
-        "description": "THC: 26.9%, CBD: 0.1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 26.9%, CBD: 0.1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/nce-271-sb",
+          "priceCurrency": "EUR",
+          "price": "8.48",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

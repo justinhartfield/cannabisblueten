@@ -118,7 +118,7 @@
     "meta": {
       "title": "NICE 30/1 MS - Cansativa | ab 4,59 €",
       "description": "NICE 30/1 MS von Cansativa. THC: 30%, CBD: 1%. Sorte: Munson. Preis ab 4,59 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/nice-31-ms",
+      "canonical": "https://cannabisblueten.de/product/nice-31-ms",
       "robots": {
         "index": true,
         "follow": true
@@ -126,28 +126,28 @@
       "openGraph": {
         "title": "NICE 30/1 MS - Cansativa | ab 4,59 €",
         "description": "NICE 30/1 MS von Cansativa. THC: 30%, CBD: 1%. Sorte: Munson. Preis ab 4,59 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/nice-31-ms",
+        "url": "https://cannabisblueten.de/product/nice-31-ms",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cansativa",
-        "href": "https://weed.de/brand/cansativa"
+        "href": "https://cannabisblueten.de/brand/cansativa"
       },
       {
         "name": "NICE 30/1 MS",
-        "href": "https://weed.de/product/nice-31-ms"
+        "href": "https://cannabisblueten.de/product/nice-31-ms"
       }
     ],
     "schema": [
@@ -159,19 +159,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "NICE 30/1 MS",
-            "item": "https://weed.de/product/nice-31-ms"
+            "item": "https://cannabisblueten.de/product/nice-31-ms"
           }
         ]
       },
@@ -179,11 +179,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "NICE 30/1 MS",
+        "url": "https://cannabisblueten.de/product/nice-31-ms",
         "brand": {
           "@type": "Brand",
           "name": "Cansativa"
         },
-        "description": "THC: 30%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 30%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/nice-31-ms",
+          "priceCurrency": "EUR",
+          "price": "4.59",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.59",
+            "maxPrice": "5.95",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

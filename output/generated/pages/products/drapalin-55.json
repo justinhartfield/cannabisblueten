@@ -104,7 +104,7 @@
     "meta": {
       "title": "Drapalin 5/50 | ab 4,17 €",
       "description": "Drapalin 5/50 von Drapalin. THC: 5%, CBD: 50%. Sorte: M Runtz. Preis ab 4,17 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/drapalin-55",
+      "canonical": "https://cannabisblueten.de/product/drapalin-55",
       "robots": {
         "index": true,
         "follow": true
@@ -112,9 +112,9 @@
       "openGraph": {
         "title": "Drapalin 5/50 | ab 4,17 €",
         "description": "Drapalin 5/50 von Drapalin. THC: 5%, CBD: 50%. Sorte: M Runtz. Preis ab 4,17 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/drapalin-55",
+        "url": "https://cannabisblueten.de/product/drapalin-55",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/drapalin-55-5g02h3.png"
       }
@@ -122,19 +122,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Drapalin",
-        "href": "https://weed.de/brand/drapalin"
+        "href": "https://cannabisblueten.de/brand/drapalin"
       },
       {
         "name": "Drapalin 5/50",
-        "href": "https://weed.de/product/drapalin-55"
+        "href": "https://cannabisblueten.de/product/drapalin-55"
       }
     ],
     "schema": [
@@ -146,19 +146,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Drapalin 5/50",
-            "item": "https://weed.de/product/drapalin-55"
+            "item": "https://cannabisblueten.de/product/drapalin-55"
           }
         ]
       },
@@ -166,11 +166,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Drapalin 5/50",
+        "url": "https://cannabisblueten.de/product/drapalin-55",
         "brand": {
           "@type": "Brand",
           "name": "Drapalin"
         },
-        "description": "THC: 5%, CBD: 50%"
+        "description": "Medizinisches Cannabis Produkt. THC: 5%, CBD: 50%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/drapalin-55",
+          "priceCurrency": "EUR",
+          "price": "4.17",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "4.17",
+            "maxPrice": "9.95",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

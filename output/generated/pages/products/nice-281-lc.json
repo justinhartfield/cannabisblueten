@@ -127,7 +127,7 @@
     "meta": {
       "title": "Nice 28/1 LC - Cansativa | ab 6,30 €",
       "description": "Nice 28/1 LC von Cansativa. THC: 28%, CBD: 1%. Sorte: Lemon Cookies. Preis ab 6,30 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/nice-281-lc",
+      "canonical": "https://cannabisblueten.de/product/nice-281-lc",
       "robots": {
         "index": true,
         "follow": true
@@ -135,9 +135,9 @@
       "openGraph": {
         "title": "Nice 28/1 LC - Cansativa | ab 6,30 €",
         "description": "Nice 28/1 LC von Cansativa. THC: 28%, CBD: 1%. Sorte: Lemon Cookies. Preis ab 6,30 €. Preise vergleichen.",
-        "url": "https://weed.de/product/nice-281-lc",
+        "url": "https://cannabisblueten.de/product/nice-281-lc",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/nice-281-lc-6h4h58.png"
       }
@@ -145,19 +145,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cansativa",
-        "href": "https://weed.de/brand/cansativa"
+        "href": "https://cannabisblueten.de/brand/cansativa"
       },
       {
         "name": "Nice 28/1 LC",
-        "href": "https://weed.de/product/nice-281-lc"
+        "href": "https://cannabisblueten.de/product/nice-281-lc"
       }
     ],
     "schema": [
@@ -169,19 +169,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Nice 28/1 LC",
-            "item": "https://weed.de/product/nice-281-lc"
+            "item": "https://cannabisblueten.de/product/nice-281-lc"
           }
         ]
       },
@@ -189,11 +189,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Nice 28/1 LC",
+        "url": "https://cannabisblueten.de/product/nice-281-lc",
         "brand": {
           "@type": "Brand",
           "name": "Cansativa"
         },
-        "description": "THC: 28%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 28%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/nice-281-lc",
+          "priceCurrency": "EUR",
+          "price": "6.30",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

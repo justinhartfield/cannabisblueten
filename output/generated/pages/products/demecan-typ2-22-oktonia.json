@@ -103,7 +103,7 @@
     "meta": {
       "title": "DEMECAN Typ2 20:20 Oktonia - Demecan | ab 13,20 €",
       "description": "DEMECAN Typ2 20:20 Oktonia von Demecan. THC: 20%, CBD: 20%. Sorte: Orange Velvet. Preis ab 13,20 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/demecan-typ2-22-oktonia",
+      "canonical": "https://cannabisblueten.de/product/demecan-typ2-22-oktonia",
       "robots": {
         "index": true,
         "follow": true
@@ -111,9 +111,9 @@
       "openGraph": {
         "title": "DEMECAN Typ2 20:20 Oktonia - Demecan | ab 13,20 €",
         "description": "DEMECAN Typ2 20:20 Oktonia von Demecan. THC: 20%, CBD: 20%. Sorte: Orange Velvet. Preis ab 13,20 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/demecan-typ2-22-oktonia",
+        "url": "https://cannabisblueten.de/product/demecan-typ2-22-oktonia",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/demecan-typ-2-22-oktonia-206jbe.png"
       }
@@ -121,19 +121,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Demecan",
-        "href": "https://weed.de/brand/demecan"
+        "href": "https://cannabisblueten.de/brand/demecan"
       },
       {
         "name": "DEMECAN Typ2 20:20 Oktonia",
-        "href": "https://weed.de/product/demecan-typ2-22-oktonia"
+        "href": "https://cannabisblueten.de/product/demecan-typ2-22-oktonia"
       }
     ],
     "schema": [
@@ -145,19 +145,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "DEMECAN Typ2 20:20 Oktonia",
-            "item": "https://weed.de/product/demecan-typ2-22-oktonia"
+            "item": "https://cannabisblueten.de/product/demecan-typ2-22-oktonia"
           }
         ]
       },
@@ -165,11 +165,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "DEMECAN Typ2 20:20 Oktonia",
+        "url": "https://cannabisblueten.de/product/demecan-typ2-22-oktonia",
         "brand": {
           "@type": "Brand",
           "name": "Demecan"
         },
-        "description": "THC: 20%, CBD: 20%"
+        "description": "Medizinisches Cannabis Produkt. THC: 20%, CBD: 20%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/demecan-typ2-22-oktonia",
+          "priceCurrency": "EUR",
+          "price": "13.20",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "13.20",
+            "maxPrice": "14.95",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

@@ -119,7 +119,7 @@
     "meta": {
       "title": "Khiron GP 30/1 | ab 7,83 €",
       "description": "Khiron GP 30/1 von Khiron. THC: 30%, CBD: 1%. Sorte: El Gordo. Preis ab 7,83 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/khiron-gp-31",
+      "canonical": "https://cannabisblueten.de/product/khiron-gp-31",
       "robots": {
         "index": true,
         "follow": true
@@ -127,28 +127,28 @@
       "openGraph": {
         "title": "Khiron GP 30/1 | ab 7,83 €",
         "description": "Khiron GP 30/1 von Khiron. THC: 30%, CBD: 1%. Sorte: El Gordo. Preis ab 7,83 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/khiron-gp-31",
+        "url": "https://cannabisblueten.de/product/khiron-gp-31",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Khiron",
-        "href": "https://weed.de/brand/khiron"
+        "href": "https://cannabisblueten.de/brand/khiron"
       },
       {
         "name": "Khiron GP 30/1",
-        "href": "https://weed.de/product/khiron-gp-31"
+        "href": "https://cannabisblueten.de/product/khiron-gp-31"
       }
     ],
     "schema": [
@@ -160,19 +160,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Khiron GP 30/1",
-            "item": "https://weed.de/product/khiron-gp-31"
+            "item": "https://cannabisblueten.de/product/khiron-gp-31"
           }
         ]
       },
@@ -180,11 +180,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Khiron GP 30/1",
+        "url": "https://cannabisblueten.de/product/khiron-gp-31",
         "brand": {
           "@type": "Brand",
           "name": "Khiron"
         },
-        "description": "THC: 30%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 30%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/khiron-gp-31",
+          "priceCurrency": "EUR",
+          "price": "7.83",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "7.83",
+            "maxPrice": "9.50",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

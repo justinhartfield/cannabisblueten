@@ -113,7 +113,7 @@
     "meta": {
       "title": "Soma OG 30/1 FG GOG Indica - canymed | ab 8,24 €",
       "description": "Soma OG 30/1 FG GOG Indica von canymed. THC: 30%, CBD: 1%. Sorte: Ghost OG. Preis ab 8,24 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/soma-og-31-fg-gog-indica",
+      "canonical": "https://cannabisblueten.de/product/soma-og-31-fg-gog-indica",
       "robots": {
         "index": true,
         "follow": true
@@ -121,9 +121,9 @@
       "openGraph": {
         "title": "Soma OG 30/1 FG GOG Indica - canymed | ab 8,24 €",
         "description": "Soma OG 30/1 FG GOG Indica von canymed. THC: 30%, CBD: 1%. Sorte: Ghost OG. Preis ab 8,24 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/soma-og-31-fg-gog-indica",
+        "url": "https://cannabisblueten.de/product/soma-og-31-fg-gog-indica",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/soma-og-31-fg-gog-indica-9f01bc.png"
       }
@@ -131,19 +131,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "canymed",
-        "href": "https://weed.de/brand/canymed"
+        "href": "https://cannabisblueten.de/brand/canymed"
       },
       {
         "name": "Soma OG 30/1 FG GOG Indica",
-        "href": "https://weed.de/product/soma-og-31-fg-gog-indica"
+        "href": "https://cannabisblueten.de/product/soma-og-31-fg-gog-indica"
       }
     ],
     "schema": [
@@ -155,19 +155,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Soma OG 30/1 FG GOG Indica",
-            "item": "https://weed.de/product/soma-og-31-fg-gog-indica"
+            "item": "https://cannabisblueten.de/product/soma-og-31-fg-gog-indica"
           }
         ]
       },
@@ -175,11 +175,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Soma OG 30/1 FG GOG Indica",
+        "url": "https://cannabisblueten.de/product/soma-og-31-fg-gog-indica",
         "brand": {
           "@type": "Brand",
           "name": "canymed"
         },
-        "description": "THC: 30%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 30%, CBD: 1%, Genetik: hybrid_indica",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/soma-og-31-fg-gog-indica",
+          "priceCurrency": "EUR",
+          "price": "8.24",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

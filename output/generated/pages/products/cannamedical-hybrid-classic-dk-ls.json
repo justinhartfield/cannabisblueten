@@ -103,7 +103,7 @@
     "meta": {
       "title": "Cannamedical Hybrid Classic DK LS | ab 5,39 €",
       "description": "Cannamedical Hybrid Classic DK LS von Cannamedical. THC: 20%, CBD: 1%. Sorte: Lemon Skunk. Preis ab 5,39 €. Preise vergleichen.",
-      "canonical": "https://weed.de/product/cannamedical-hybrid-classic-dk-ls",
+      "canonical": "https://cannabisblueten.de/product/cannamedical-hybrid-classic-dk-ls",
       "robots": {
         "index": true,
         "follow": true
@@ -111,9 +111,9 @@
       "openGraph": {
         "title": "Cannamedical Hybrid Classic DK LS | ab 5,39 €",
         "description": "Cannamedical Hybrid Classic DK LS von Cannamedical. THC: 20%, CBD: 1%. Sorte: Lemon Skunk. Preis ab 5,39 €. Preise vergleichen.",
-        "url": "https://weed.de/product/cannamedical-hybrid-classic-dk-ls",
+        "url": "https://cannabisblueten.de/product/cannamedical-hybrid-classic-dk-ls",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE",
         "image": "https://weed.de/products/cannamedical-hybrid-classic-dk-ls-2e28g2.png"
       }
@@ -121,19 +121,19 @@
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Cannamedical",
-        "href": "https://weed.de/brand/cannamedical"
+        "href": "https://cannabisblueten.de/brand/cannamedical"
       },
       {
         "name": "Cannamedical Hybrid Classic DK LS",
-        "href": "https://weed.de/product/cannamedical-hybrid-classic-dk-ls"
+        "href": "https://cannabisblueten.de/product/cannamedical-hybrid-classic-dk-ls"
       }
     ],
     "schema": [
@@ -145,19 +145,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Cannamedical Hybrid Classic DK LS",
-            "item": "https://weed.de/product/cannamedical-hybrid-classic-dk-ls"
+            "item": "https://cannabisblueten.de/product/cannamedical-hybrid-classic-dk-ls"
           }
         ]
       },
@@ -165,11 +165,21 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Cannamedical Hybrid Classic DK LS",
+        "url": "https://cannabisblueten.de/product/cannamedical-hybrid-classic-dk-ls",
         "brand": {
           "@type": "Brand",
           "name": "Cannamedical"
         },
-        "description": "THC: 20%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 20%, CBD: 1%, Genetik: sativa",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/cannamedical-hybrid-classic-dk-ls",
+          "priceCurrency": "EUR",
+          "price": "5.39",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition"
+        }
       }
     ]
   },

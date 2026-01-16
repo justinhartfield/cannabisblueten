@@ -104,7 +104,7 @@
     "meta": {
       "title": "Cannabistada 22/1 WAP - Stada | ab 7,29 €",
       "description": "Cannabistada 22/1 WAP von Stada. THC: 22%, CBD: 1%. Sorte: Wappa. Preis ab 7,29 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/cannabistada-221-wap",
+      "canonical": "https://cannabisblueten.de/product/cannabistada-221-wap",
       "robots": {
         "index": true,
         "follow": true
@@ -112,28 +112,28 @@
       "openGraph": {
         "title": "Cannabistada 22/1 WAP - Stada | ab 7,29 €",
         "description": "Cannabistada 22/1 WAP von Stada. THC: 22%, CBD: 1%. Sorte: Wappa. Preis ab 7,29 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/cannabistada-221-wap",
+        "url": "https://cannabisblueten.de/product/cannabistada-221-wap",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "Stada",
-        "href": "https://weed.de/brand/stada"
+        "href": "https://cannabisblueten.de/brand/stada"
       },
       {
         "name": "Cannabistada 22/1 WAP",
-        "href": "https://weed.de/product/cannabistada-221-wap"
+        "href": "https://cannabisblueten.de/product/cannabistada-221-wap"
       }
     ],
     "schema": [
@@ -145,19 +145,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Cannabistada 22/1 WAP",
-            "item": "https://weed.de/product/cannabistada-221-wap"
+            "item": "https://cannabisblueten.de/product/cannabistada-221-wap"
           }
         ]
       },
@@ -165,12 +165,29 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Cannabistada 22/1 WAP",
+        "url": "https://cannabisblueten.de/product/cannabistada-221-wap",
         "brand": {
           "@type": "Brand",
           "name": "Stada"
         },
         "gtin13": [],
-        "description": "THC: 22%, CBD: 1%"
+        "sku": [],
+        "description": "Medizinisches Cannabis Produkt. THC: 22%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/cannabistada-221-wap",
+          "priceCurrency": "EUR",
+          "price": "7.29",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "7.29",
+            "maxPrice": "12.80",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },

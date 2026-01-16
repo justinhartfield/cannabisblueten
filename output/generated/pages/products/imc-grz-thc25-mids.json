@@ -104,7 +104,7 @@
     "meta": {
       "title": "IMC GRZ THC25 MIDS | ab 3,57 €",
       "description": "IMC GRZ THC25 MIDS von IMC. THC: 25%, CBD: 1%. Sorte: Jungle Pop. Preis ab 3,57 €. Jetzt verfügbar.",
-      "canonical": "https://weed.de/product/imc-grz-thc25-mids",
+      "canonical": "https://cannabisblueten.de/product/imc-grz-thc25-mids",
       "robots": {
         "index": true,
         "follow": true
@@ -112,28 +112,28 @@
       "openGraph": {
         "title": "IMC GRZ THC25 MIDS | ab 3,57 €",
         "description": "IMC GRZ THC25 MIDS von IMC. THC: 25%, CBD: 1%. Sorte: Jungle Pop. Preis ab 3,57 €. Jetzt verfügbar.",
-        "url": "https://weed.de/product/imc-grz-thc25-mids",
+        "url": "https://cannabisblueten.de/product/imc-grz-thc25-mids",
         "type": "product",
-        "siteName": "Weed.de",
+        "siteName": "CannabisBlueten.de",
         "locale": "de_DE"
       }
     },
     "breadcrumbs": [
       {
         "name": "Home",
-        "href": "https://weed.de"
+        "href": "https://cannabisblueten.de"
       },
       {
         "name": "Produkte",
-        "href": "https://weed.de/products"
+        "href": "https://cannabisblueten.de/products"
       },
       {
         "name": "IMC",
-        "href": "https://weed.de/brand/imc"
+        "href": "https://cannabisblueten.de/brand/imc"
       },
       {
         "name": "IMC GRZ THC25 MIDS",
-        "href": "https://weed.de/product/imc-grz-thc25-mids"
+        "href": "https://cannabisblueten.de/product/imc-grz-thc25-mids"
       }
     ],
     "schema": [
@@ -145,19 +145,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://weed.de"
+            "item": "https://cannabisblueten.de"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Produkte",
-            "item": "https://weed.de/products"
+            "item": "https://cannabisblueten.de/products"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "IMC GRZ THC25 MIDS",
-            "item": "https://weed.de/product/imc-grz-thc25-mids"
+            "item": "https://cannabisblueten.de/product/imc-grz-thc25-mids"
           }
         ]
       },
@@ -165,11 +165,27 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "IMC GRZ THC25 MIDS",
+        "url": "https://cannabisblueten.de/product/imc-grz-thc25-mids",
         "brand": {
           "@type": "Brand",
           "name": "IMC"
         },
-        "description": "THC: 25%, CBD: 1%"
+        "description": "Medizinisches Cannabis Produkt. THC: 25%, CBD: 1%, Genetik: hybrid",
+        "category": "Medizinisches Cannabis",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cannabisblueten.de/product/imc-grz-thc25-mids",
+          "priceCurrency": "EUR",
+          "price": "3.57",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": "3.57",
+            "maxPrice": "8.50",
+            "priceCurrency": "EUR"
+          }
+        }
       }
     ]
   },
