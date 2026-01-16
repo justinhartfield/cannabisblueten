@@ -29,7 +29,7 @@
       "slug": "florians-vital-apotheke",
       "name": "Florians Vital Apotheke",
       "cityName": "Esslingen am Neckar",
-      "productCount": 248,
+      "productCount": 241,
       "hasDelivery": true
     },
     {
@@ -43,14 +43,14 @@
       "slug": "karlchengras",
       "name": "Karlchengras (Karl-Apotheke)",
       "cityName": "Karlsruhe",
-      "productCount": 189,
+      "productCount": 190,
       "hasDelivery": true
     },
     {
       "slug": "idris-apotheke-oder-3leafs",
       "name": "Idris Apotheke | 3Leafs",
       "cityName": "Weinheim",
-      "productCount": 148,
+      "productCount": 149,
       "hasDelivery": true
     },
     {
@@ -61,6 +61,55 @@
       "hasDelivery": true
     }
   ],
+  "products": [
+    {
+      "productName": "NICE 26/1 BL",
+      "price": 999,
+      "priceFormatted": "9,99 €",
+      "priceCategory": "high",
+      "rank": 166,
+      "marketMin": 378,
+      "marketMax": 999,
+      "marketAvg": 647
+    },
+    {
+      "productName": "Mediprocan Lunaris 23/1 LC",
+      "price": 799,
+      "priceFormatted": "7,99 €",
+      "priceCategory": "high",
+      "rank": 473,
+      "marketMin": 345,
+      "marketMax": 799,
+      "marketAvg": 480
+    },
+    {
+      "productName": "28/1 Amici GB Godberry",
+      "price": 899,
+      "priceFormatted": "8,99 €",
+      "priceCategory": "high",
+      "rank": 488,
+      "marketMin": 475,
+      "marketMax": 899,
+      "marketAvg": 662
+    },
+    {
+      "productName": "Barongo 28/1 DR",
+      "price": 799,
+      "priceFormatted": "7,99 €",
+      "priceCategory": "average",
+      "rank": 648,
+      "marketMin": 495,
+      "marketMax": 1012,
+      "marketAvg": 662
+    }
+  ],
+  "pricingStats": {
+    "avgPrice": 874,
+    "minPrice": 799,
+    "maxPrice": 999,
+    "excellentCount": 0,
+    "goodCount": 0
+  },
   "seo": {
     "meta": {
       "title": "Apotheke am Storchenturm - Cannabis Apotheke in Lahr/Schwarzwald",

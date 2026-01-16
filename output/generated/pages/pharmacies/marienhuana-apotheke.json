@@ -29,7 +29,7 @@
       "slug": "karlchengras",
       "name": "Karlchengras (Karl-Apotheke)",
       "cityName": "Karlsruhe",
-      "productCount": 189,
+      "productCount": 190,
       "hasDelivery": true
     },
     {
@@ -57,10 +57,139 @@
       "slug": "florians-vital-apotheke",
       "name": "Florians Vital Apotheke",
       "cityName": "Esslingen am Neckar",
-      "productCount": 248,
+      "productCount": 241,
       "hasDelivery": true
     }
   ],
+  "products": [
+    {
+      "productName": "Supreme 18/1 WMG Pharma",
+      "price": 810,
+      "priceFormatted": "8,10 €",
+      "priceCategory": "excellent",
+      "rank": 1,
+      "marketMin": 810,
+      "marketMax": 900,
+      "marketAvg": 869
+    },
+    {
+      "productName": "Re Cannis 21/1",
+      "price": 1195,
+      "priceFormatted": "11,95 €",
+      "priceCategory": "average",
+      "rank": 1,
+      "marketMin": 1195,
+      "marketMax": 1195,
+      "marketAvg": 1195
+    },
+    {
+      "productName": "enua 20/1 ABG CA",
+      "price": 595,
+      "priceFormatted": "5,95 €",
+      "priceCategory": "excellent",
+      "rank": 1,
+      "marketMin": 595,
+      "marketMax": 699,
+      "marketAvg": 647
+    },
+    {
+      "productName": "enua 20/1 BA CA",
+      "price": 545,
+      "priceFormatted": "5,45 €",
+      "priceCategory": "average",
+      "rank": 26,
+      "marketMin": 500,
+      "marketMax": 585,
+      "marketAvg": 546
+    },
+    {
+      "productName": "enua 22/1 BNM CA",
+      "price": 745,
+      "priceFormatted": "7,45 €",
+      "priceCategory": "average",
+      "rank": 31,
+      "marketMin": 669,
+      "marketMax": 849,
+      "marketAvg": 756
+    },
+    {
+      "productName": "enua 25/1 RS11",
+      "price": 695,
+      "priceFormatted": "6,95 €",
+      "priceCategory": "high",
+      "rank": 56,
+      "marketMin": 519,
+      "marketMax": 695,
+      "marketAvg": 638
+    },
+    {
+      "productName": "Tilray THC 18 Spotlight Porto PK",
+      "price": 1245,
+      "priceFormatted": "12,45 €",
+      "priceCategory": "high",
+      "rank": 91,
+      "marketMin": 299,
+      "marketMax": 1245,
+      "marketAvg": 665
+    },
+    {
+      "productName": "enua 20/1 DB CA",
+      "price": 510,
+      "priceFormatted": "5,10 €",
+      "priceCategory": "average",
+      "rank": 104,
+      "marketMin": 299,
+      "marketMax": 598,
+      "marketAvg": 469
+    },
+    {
+      "productName": "enua 25/1 GMO CA",
+      "price": 645,
+      "priceFormatted": "6,45 €",
+      "priceCategory": "average",
+      "rank": 104,
+      "marketMin": 409,
+      "marketMax": 833,
+      "marketAvg": 633
+    },
+    {
+      "productName": "Aurora 22/1 DHZ-CA",
+      "price": 945,
+      "priceFormatted": "9,45 €",
+      "priceCategory": "average",
+      "rank": 181,
+      "marketMin": 625,
+      "marketMax": 1050,
+      "marketAvg": 871
+    },
+    {
+      "productName": "IMC THC 20 T01 HK",
+      "price": 1195,
+      "priceFormatted": "11,95 €",
+      "priceCategory": "high",
+      "rank": 507,
+      "marketMin": 273,
+      "marketMax": 1250,
+      "marketAvg": 735
+    },
+    {
+      "productName": "Pedanios 29/1 SRD-CA",
+      "price": 730,
+      "priceFormatted": "7,30 €",
+      "priceCategory": "excellent",
+      "rank": 700,
+      "marketMin": 596,
+      "marketMax": 1316,
+      "marketAvg": 789
+    }
+  ],
+  "pricingStats": {
+    "avgPrice": 851,
+    "minPrice": 510,
+    "maxPrice": 1295,
+    "excellentCount": 3,
+    "goodCount": 0
+  },
   "seo": {
     "meta": {
       "title": "Marienhuana Apotheke - Cannabis Apotheke in Karlsruhe",

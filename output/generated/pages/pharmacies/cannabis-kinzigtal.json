@@ -29,7 +29,7 @@
       "slug": "florians-vital-apotheke",
       "name": "Florians Vital Apotheke",
       "cityName": "Esslingen am Neckar",
-      "productCount": 248,
+      "productCount": 241,
       "hasDelivery": true
     },
     {
@@ -43,14 +43,14 @@
       "slug": "karlchengras",
       "name": "Karlchengras (Karl-Apotheke)",
       "cityName": "Karlsruhe",
-      "productCount": 189,
+      "productCount": 190,
       "hasDelivery": true
     },
     {
       "slug": "idris-apotheke-oder-3leafs",
       "name": "Idris Apotheke | 3Leafs",
       "cityName": "Weinheim",
-      "productCount": 148,
+      "productCount": 149,
       "hasDelivery": true
     },
     {
@@ -61,6 +61,135 @@
       "hasDelivery": true
     }
   ],
+  "products": [
+    {
+      "productName": "Wellford Aquaponic 24/1 SDK",
+      "price": 495,
+      "priceFormatted": "4,95 €",
+      "priceCategory": "excellent",
+      "rank": 1,
+      "marketMin": 495,
+      "marketMax": 955,
+      "marketAvg": 632
+    },
+    {
+      "productName": "N!CE 26/1 LC",
+      "price": 599,
+      "priceFormatted": "5,99 €",
+      "priceCategory": "excellent",
+      "rank": 1,
+      "marketMin": 599,
+      "marketMax": 1500,
+      "marketAvg": 821
+    },
+    {
+      "productName": "Wellford Aquaponic 23/1 PIK",
+      "price": 485,
+      "priceFormatted": "4,85 €",
+      "priceCategory": "excellent",
+      "rank": 3,
+      "marketMin": 437,
+      "marketMax": 950,
+      "marketAvg": 650
+    },
+    {
+      "productName": "Wellford Aquaponic 26/1 QSG",
+      "price": 545,
+      "priceFormatted": "5,45 €",
+      "priceCategory": "excellent",
+      "rank": 4,
+      "marketMin": 519,
+      "marketMax": 800,
+      "marketAvg": 634
+    },
+    {
+      "productName": "Weeco Duke 24/1 PR",
+      "price": 449,
+      "priceFormatted": "4,49 €",
+      "priceCategory": "excellent",
+      "rank": 9,
+      "marketMin": 448,
+      "marketMax": 875,
+      "marketAvg": 583
+    },
+    {
+      "productName": "Wellford Peak 30/1 CA SPR",
+      "price": 645,
+      "priceFormatted": "6,45 €",
+      "priceCategory": "excellent",
+      "rank": 25,
+      "marketMin": 612,
+      "marketMax": 890,
+      "marketAvg": 730
+    },
+    {
+      "productName": "Wellford Aquaponic 23/1 GTH",
+      "price": 669,
+      "priceFormatted": "6,69 €",
+      "priceCategory": "average",
+      "rank": 45,
+      "marketMin": 432,
+      "marketMax": 770,
+      "marketAvg": 688
+    },
+    {
+      "productName": "Soma OG 32/1 PF",
+      "price": 779,
+      "priceFormatted": "7,79 €",
+      "priceCategory": "average",
+      "rank": 74,
+      "marketMin": 699,
+      "marketMax": 898,
+      "marketAvg": 784
+    },
+    {
+      "productName": "Wellford Luma 24/1 ZA SOC",
+      "price": 549,
+      "priceFormatted": "5,49 €",
+      "priceCategory": "average",
+      "rank": 82,
+      "marketMin": 449,
+      "marketMax": 699,
+      "marketAvg": 580
+    },
+    {
+      "productName": "Cannamedical Hybrid Forte 24/1 NM GZ",
+      "price": 649,
+      "priceFormatted": "6,49 €",
+      "priceCategory": "excellent",
+      "rank": 109,
+      "marketMin": 567,
+      "marketMax": 1468,
+      "marketAvg": 874
+    },
+    {
+      "productName": "ZOIKS 22/1 SF",
+      "price": 519,
+      "priceFormatted": "5,19 €",
+      "priceCategory": "average",
+      "rank": 126,
+      "marketMin": 446,
+      "marketMax": 675,
+      "marketAvg": 542
+    },
+    {
+      "productName": "NICE 20/1 WSU",
+      "price": 499,
+      "priceFormatted": "4,99 €",
+      "priceCategory": "average",
+      "rank": 130,
+      "marketMin": 395,
+      "marketMax": 750,
+      "marketAvg": 472
+    }
+  ],
+  "pricingStats": {
+    "avgPrice": 638,
+    "minPrice": 449,
+    "maxPrice": 939,
+    "excellentCount": 12,
+    "goodCount": 0
+  },
   "seo": {
     "meta": {
       "title": "Cannabis Kinzigtal - Cannabis Apotheke in Wolfach",

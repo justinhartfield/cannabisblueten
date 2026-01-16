@@ -36,7 +36,7 @@
       "slug": "cannibo",
       "name": "Cannibo (Bahnhof Apotheke)",
       "cityName": "Bonn",
-      "productCount": 96,
+      "productCount": 95,
       "hasDelivery": true
     },
     {
@@ -61,6 +61,135 @@
       "hasDelivery": true
     }
   ],
+  "products": [
+    {
+      "productName": "Vayamed 12/8 CAN",
+      "price": 765,
+      "priceFormatted": "7,65 €",
+      "priceCategory": "excellent",
+      "rank": 1,
+      "marketMin": 765,
+      "marketMax": 769,
+      "marketAvg": 767
+    },
+    {
+      "productName": "Herbasana Colombiana 20:01",
+      "price": 480,
+      "priceFormatted": "4,80 €",
+      "priceCategory": "excellent",
+      "rank": 19,
+      "marketMin": 470,
+      "marketMax": 569,
+      "marketAvg": 488
+    },
+    {
+      "productName": "LOT 420 GLOC",
+      "price": 995,
+      "priceFormatted": "9,95 €",
+      "priceCategory": "average",
+      "rank": 25,
+      "marketMin": 920,
+      "marketMax": 1090,
+      "marketAvg": 978
+    },
+    {
+      "productName": "THC AKUT TM 24 SW",
+      "price": 489,
+      "priceFormatted": "4,89 €",
+      "priceCategory": "average",
+      "rank": 31,
+      "marketMin": 449,
+      "marketMax": 499,
+      "marketAvg": 489
+    },
+    {
+      "productName": "enua 22/1 USR CA Smalls Ultra Sour",
+      "price": 595,
+      "priceFormatted": "5,95 €",
+      "priceCategory": "average",
+      "rank": 36,
+      "marketMin": 399,
+      "marketMax": 860,
+      "marketAvg": 643
+    },
+    {
+      "productName": "BC Green 25/1 SCK",
+      "price": 575,
+      "priceFormatted": "5,75 €",
+      "priceCategory": "average",
+      "rank": 38,
+      "marketMin": 399,
+      "marketMax": 799,
+      "marketAvg": 622
+    },
+    {
+      "productName": "BC Green HGH 25/1",
+      "price": 585,
+      "priceFormatted": "5,85 €",
+      "priceCategory": "excellent",
+      "rank": 40,
+      "marketMin": 499,
+      "marketMax": 1250,
+      "marketAvg": 683
+    },
+    {
+      "productName": "Vayamed Day 19/1 TNG",
+      "price": 795,
+      "priceFormatted": "7,95 €",
+      "priceCategory": "average",
+      "rank": 66,
+      "marketMin": 590,
+      "marketMax": 969,
+      "marketAvg": 771
+    },
+    {
+      "productName": "THC AKUT TM 24",
+      "price": 469,
+      "priceFormatted": "4,69 €",
+      "priceCategory": "high",
+      "rank": 68,
+      "marketMin": 399,
+      "marketMax": 479,
+      "marketAvg": 450
+    },
+    {
+      "productName": "Vayamed Night 19/1 PYC",
+      "price": 795,
+      "priceFormatted": "7,95 €",
+      "priceCategory": "average",
+      "rank": 69,
+      "marketMin": 590,
+      "marketMax": 850,
+      "marketAvg": 769
+    },
+    {
+      "productName": "enua 20/1 JFG CA",
+      "price": 495,
+      "priceFormatted": "4,95 €",
+      "priceCategory": "average",
+      "rank": 80,
+      "marketMin": 399,
+      "marketMax": 666,
+      "marketAvg": 493
+    },
+    {
+      "productName": "Nimbus easy 22/1 J",
+      "price": 495,
+      "priceFormatted": "4,95 €",
+      "priceCategory": "average",
+      "rank": 104,
+      "marketMin": 398,
+      "marketMax": 739,
+      "marketAvg": 562
+    }
+  ],
+  "pricingStats": {
+    "avgPrice": 674,
+    "minPrice": 420,
+    "maxPrice": 1050,
+    "excellentCount": 4,
+    "goodCount": 0
+  },
   "seo": {
     "meta": {
       "title": "Apotheke im medizinischen Zentrum Bonn - Cannabis Apotheke in Bonn",

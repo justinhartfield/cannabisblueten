@@ -36,7 +36,7 @@
       "slug": "augusta-apotheke",
       "name": "Augusta Apotheke",
       "cityName": "Augsburg",
-      "productCount": 100,
+      "productCount": 101,
       "hasDelivery": true
     },
     {
@@ -61,6 +61,135 @@
       "hasDelivery": false
     }
   ],
+  "products": [
+    {
+      "productName": "AMP Classic 25/1",
+      "price": 397,
+      "priceFormatted": "3,97 €",
+      "priceCategory": "excellent",
+      "rank": 1,
+      "marketMin": 397,
+      "marketMax": 1065,
+      "marketAvg": 742
+    },
+    {
+      "productName": "MAC 1+",
+      "price": 578,
+      "priceFormatted": "5,78 €",
+      "priceCategory": "excellent",
+      "rank": 1,
+      "marketMin": 578,
+      "marketMax": 1069,
+      "marketAvg": 725
+    },
+    {
+      "productName": "Cannamedical CM 30/1 DM",
+      "price": 778,
+      "priceFormatted": "7,78 €",
+      "priceCategory": "excellent",
+      "rank": 1,
+      "marketMin": 778,
+      "marketMax": 999,
+      "marketAvg": 873
+    },
+    {
+      "productName": "madrecan 18/1 MDR",
+      "price": 678,
+      "priceFormatted": "6,78 €",
+      "priceCategory": "excellent",
+      "rank": 1,
+      "marketMin": 678,
+      "marketMax": 759,
+      "marketAvg": 722
+    },
+    {
+      "productName": "RUA AIO 30/1",
+      "price": 578,
+      "priceFormatted": "5,78 €",
+      "priceCategory": "excellent",
+      "rank": 1,
+      "marketMin": 578,
+      "marketMax": 965,
+      "marketAvg": 772
+    },
+    {
+      "productName": "Demecan Core SKYGLOW 25:01",
+      "price": 476,
+      "priceFormatted": "4,76 €",
+      "priceCategory": "excellent",
+      "rank": 1,
+      "marketMin": 476,
+      "marketMax": 940,
+      "marketAvg": 886
+    },
+    {
+      "productName": "Avaay 34/1 MIM",
+      "price": 833,
+      "priceFormatted": "8,33 €",
+      "priceCategory": "average",
+      "rank": 1,
+      "marketMin": 833,
+      "marketMax": 833,
+      "marketAvg": 833
+    },
+    {
+      "productName": "Cannamedical Indica Forte DK CKP",
+      "price": 476,
+      "priceFormatted": "4,76 €",
+      "priceCategory": "excellent",
+      "rank": 1,
+      "marketMin": 476,
+      "marketMax": 955,
+      "marketAvg": 616
+    },
+    {
+      "productName": "Nimbus easy 30/1 La Sage",
+      "price": 587,
+      "priceFormatted": "5,87 €",
+      "priceCategory": "excellent",
+      "rank": 1,
+      "marketMin": 587,
+      "marketMax": 1236,
+      "marketAvg": 780
+    },
+    {
+      "productName": "Materia GH 27/1",
+      "price": 684,
+      "priceFormatted": "6,84 €",
+      "priceCategory": "excellent",
+      "rank": 1,
+      "marketMin": 684,
+      "marketMax": 850,
+      "marketAvg": 772
+    },
+    {
+      "productName": "Remexian 30/1 MTL WCK",
+      "price": 576,
+      "priceFormatted": "5,76 €",
+      "priceCategory": "excellent",
+      "rank": 1,
+      "marketMin": 576,
+      "marketMax": 799,
+      "marketAvg": 712
+    },
+    {
+      "productName": "Mother AIS CAN 22/1",
+      "price": 397,
+      "priceFormatted": "3,97 €",
+      "priceCategory": "excellent",
+      "rank": 1,
+      "marketMin": 397,
+      "marketMax": 699,
+      "marketAvg": 573
+    }
+  ],
+  "pricingStats": {
+    "avgPrice": 625,
+    "minPrice": 268,
+    "maxPrice": 1371,
+    "excellentCount": 137,
+    "goodCount": 0
+  },
   "seo": {
     "meta": {
       "title": "Cannabisapo24 - Cannabis Apotheke in Augsburg",

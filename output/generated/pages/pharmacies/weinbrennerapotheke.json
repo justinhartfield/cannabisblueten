@@ -29,7 +29,7 @@
       "slug": "karlchengras",
       "name": "Karlchengras (Karl-Apotheke)",
       "cityName": "Karlsruhe",
-      "productCount": 189,
+      "productCount": 190,
       "hasDelivery": true
     },
     {
@@ -57,10 +57,139 @@
       "slug": "florians-vital-apotheke",
       "name": "Florians Vital Apotheke",
       "cityName": "Esslingen am Neckar",
-      "productCount": 248,
+      "productCount": 241,
       "hasDelivery": true
     }
   ],
+  "products": [
+    {
+      "productName": "Cannamedical Sativa forte Venomz Eve",
+      "price": 555,
+      "priceFormatted": "5,55 €",
+      "priceCategory": "excellent",
+      "rank": 1,
+      "marketMin": 555,
+      "marketMax": 1009,
+      "marketAvg": 836
+    },
+    {
+      "productName": "enua 20/1 CDG CA",
+      "price": 595,
+      "priceFormatted": "5,95 €",
+      "priceCategory": "excellent",
+      "rank": 1,
+      "marketMin": 595,
+      "marketMax": 702,
+      "marketAvg": 662
+    },
+    {
+      "productName": "Avaay Signature 23/1 WB",
+      "price": 675,
+      "priceFormatted": "6,75 €",
+      "priceCategory": "excellent",
+      "rank": 1,
+      "marketMin": 675,
+      "marketMax": 895,
+      "marketAvg": 791
+    },
+    {
+      "productName": "Eufloria 24/1 BAN",
+      "price": 595,
+      "priceFormatted": "5,95 €",
+      "priceCategory": "excellent",
+      "rank": 1,
+      "marketMin": 595,
+      "marketMax": 800,
+      "marketAvg": 698
+    },
+    {
+      "productName": "Luana Kush 20/1",
+      "price": 395,
+      "priceFormatted": "3,95 €",
+      "priceCategory": "excellent",
+      "rank": 1,
+      "marketMin": 395,
+      "marketMax": 599,
+      "marketAvg": 513
+    },
+    {
+      "productName": "Cannamedical Hybrid Forte DK 22/1",
+      "price": 555,
+      "priceFormatted": "5,55 €",
+      "priceCategory": "average",
+      "rank": 11,
+      "marketMin": 449,
+      "marketMax": 599,
+      "marketAvg": 556
+    },
+    {
+      "productName": "Demecan PG Epic Drop 30:1",
+      "price": 775,
+      "priceFormatted": "7,75 €",
+      "priceCategory": "excellent",
+      "rank": 19,
+      "marketMin": 770,
+      "marketMax": 990,
+      "marketAvg": 876
+    },
+    {
+      "productName": "Cannamedical CM 23/1 MC",
+      "price": 855,
+      "priceFormatted": "8,55 €",
+      "priceCategory": "high",
+      "rank": 31,
+      "marketMin": 499,
+      "marketMax": 879,
+      "marketAvg": 744
+    },
+    {
+      "productName": "Gestion Cannabec Mac Herer",
+      "price": 445,
+      "priceFormatted": "4,45 €",
+      "priceCategory": "excellent",
+      "rank": 55,
+      "marketMin": 420,
+      "marketMax": 695,
+      "marketAvg": 500
+    },
+    {
+      "productName": "Avaay 29/1 CP",
+      "price": 775,
+      "priceFormatted": "7,75 €",
+      "priceCategory": "excellent",
+      "rank": 56,
+      "marketMin": 738,
+      "marketMax": 1095,
+      "marketAvg": 868
+    },
+    {
+      "productName": "Canify Cannabis flos 8/9 LS Ku.",
+      "price": 755,
+      "priceFormatted": "7,55 €",
+      "priceCategory": "average",
+      "rank": 59,
+      "marketMin": 675,
+      "marketMax": 1050,
+      "marketAvg": 823
+    },
+    {
+      "productName": "ZOIKS 22/1 SF",
+      "price": 495,
+      "priceFormatted": "4,95 €",
+      "priceCategory": "average",
+      "rank": 69,
+      "marketMin": 446,
+      "marketMax": 675,
+      "marketAvg": 542
+    }
+  ],
+  "pricingStats": {
+    "avgPrice": 670,
+    "minPrice": 395,
+    "maxPrice": 955,
+    "excellentCount": 14,
+    "goodCount": 0
+  },
   "seo": {
     "meta": {
       "title": "Weinbrennerapotheke - Cannabis Apotheke in Karlsruhe",

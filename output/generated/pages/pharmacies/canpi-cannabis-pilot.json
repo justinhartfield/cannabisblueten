@@ -50,7 +50,7 @@
       "slug": "jiroo",
       "name": "jiroo",
       "cityName": "Berlin",
-      "productCount": 58,
+      "productCount": 57,
       "hasDelivery": true
     },
     {
@@ -61,6 +61,135 @@
       "hasDelivery": true
     }
   ],
+  "products": [
+    {
+      "productName": "Demecan SC Light Drop 19:01",
+      "price": 499,
+      "priceFormatted": "4,99 €",
+      "priceCategory": "average",
+      "rank": 1,
+      "marketMin": 499,
+      "marketMax": 499,
+      "marketAvg": 499
+    },
+    {
+      "productName": "187 Cannabisflower 24 K THC25",
+      "price": 779,
+      "priceFormatted": "7,79 €",
+      "priceCategory": "average",
+      "rank": 2,
+      "marketMin": 729,
+      "marketMax": 899,
+      "marketAvg": 782
+    },
+    {
+      "productName": "187 Cannabisflower SUB THC20",
+      "price": 779,
+      "priceFormatted": "7,79 €",
+      "priceCategory": "high",
+      "rank": 2,
+      "marketMin": 729,
+      "marketMax": 779,
+      "marketAvg": 779
+    },
+    {
+      "productName": "187 Cannabisflowers BSCT THC22",
+      "price": 779,
+      "priceFormatted": "7,79 €",
+      "priceCategory": "high",
+      "rank": 2,
+      "marketMin": 729,
+      "marketMax": 779,
+      "marketAvg": 779
+    },
+    {
+      "productName": "Aleph purple 26/1",
+      "price": 870,
+      "priceFormatted": "8,70 €",
+      "priceCategory": "high",
+      "rank": 5,
+      "marketMin": 689,
+      "marketMax": 870,
+      "marketAvg": 849
+    },
+    {
+      "productName": "BOTANICS Golden Ace 20/1",
+      "price": 699,
+      "priceFormatted": "6,99 €",
+      "priceCategory": "average",
+      "rank": 9,
+      "marketMin": 599,
+      "marketMax": 801,
+      "marketAvg": 732
+    },
+    {
+      "productName": "GrowMotion SBC24",
+      "price": 899,
+      "priceFormatted": "8,99 €",
+      "priceCategory": "excellent",
+      "rank": 10,
+      "marketMin": 849,
+      "marketMax": 1199,
+      "marketAvg": 962
+    },
+    {
+      "productName": "187 Cannabisflower PPP THC22",
+      "price": 779,
+      "priceFormatted": "7,79 €",
+      "priceCategory": "average",
+      "rank": 10,
+      "marketMin": 699,
+      "marketMax": 899,
+      "marketAvg": 786
+    },
+    {
+      "productName": "GrowMotion TJ27",
+      "price": 999,
+      "priceFormatted": "9,99 €",
+      "priceCategory": "average",
+      "rank": 26,
+      "marketMin": 899,
+      "marketMax": 1199,
+      "marketAvg": 1004
+    },
+    {
+      "productName": "Remexian 27/1 GCC THZ",
+      "price": 700,
+      "priceFormatted": "7,00 €",
+      "priceCategory": "average",
+      "rank": 31,
+      "marketMin": 599,
+      "marketMax": 799,
+      "marketAvg": 717
+    },
+    {
+      "productName": "madrecan 24/1 GB9",
+      "price": 550,
+      "priceFormatted": "5,50 €",
+      "priceCategory": "high",
+      "rank": 31,
+      "marketMin": 449,
+      "marketMax": 550,
+      "marketAvg": 517
+    },
+    {
+      "productName": "AVAAY 25/1 CRE",
+      "price": 999,
+      "priceFormatted": "9,99 €",
+      "priceCategory": "high",
+      "rank": 32,
+      "marketMin": 549,
+      "marketMax": 999,
+      "marketAvg": 982
+    }
+  ],
+  "pricingStats": {
+    "avgPrice": 786,
+    "minPrice": 499,
+    "maxPrice": 1200,
+    "excellentCount": 2,
+    "goodCount": 0
+  },
   "seo": {
     "meta": {
       "title": "Canpi - Cannabis Pilot - Cannabis Apotheke in Berlin",

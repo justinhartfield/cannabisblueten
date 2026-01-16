@@ -43,14 +43,14 @@
       "slug": "pharmablute",
       "name": "PharmaBlüte",
       "cityName": "Mainz",
-      "productCount": 126,
+      "productCount": 125,
       "hasDelivery": true
     },
     {
       "slug": "cannabis4me",
       "name": "cannabis4me",
       "cityName": "Bad Neuenahr-Ahrweiler",
-      "productCount": 89,
+      "productCount": 91,
       "hasDelivery": true
     },
     {
@@ -61,6 +61,135 @@
       "hasDelivery": true
     }
   ],
+  "products": [
+    {
+      "productName": "CannabiStada GAB 25",
+      "price": 790,
+      "priceFormatted": "7,90 €",
+      "priceCategory": "average",
+      "rank": 27,
+      "marketMin": 445,
+      "marketMax": 1280,
+      "marketAvg": 882
+    },
+    {
+      "productName": "BC Green HGH 25/1",
+      "price": 548,
+      "priceFormatted": "5,48 €",
+      "priceCategory": "excellent",
+      "rank": 31,
+      "marketMin": 499,
+      "marketMax": 1250,
+      "marketAvg": 683
+    },
+    {
+      "productName": "Demecan Core Golden Horizon 31:01",
+      "price": 674,
+      "priceFormatted": "6,74 €",
+      "priceCategory": "excellent",
+      "rank": 45,
+      "marketMin": 645,
+      "marketMax": 995,
+      "marketAvg": 807
+    },
+    {
+      "productName": "PHCANN Exotics 30/1 Black Amber",
+      "price": 849,
+      "priceFormatted": "8,49 €",
+      "priceCategory": "high",
+      "rank": 61,
+      "marketMin": 645,
+      "marketMax": 849,
+      "marketAvg": 696
+    },
+    {
+      "productName": "420  EVOLUTION 27/1 CA BUL",
+      "price": 699,
+      "priceFormatted": "6,99 €",
+      "priceCategory": "average",
+      "rank": 79,
+      "marketMin": 499,
+      "marketMax": 799,
+      "marketAvg": 676
+    },
+    {
+      "productName": "IMC BM THC26 Selected",
+      "price": 599,
+      "priceFormatted": "5,99 €",
+      "priceCategory": "average",
+      "rank": 114,
+      "marketMin": 419,
+      "marketMax": 920,
+      "marketAvg": 571
+    },
+    {
+      "productName": "BOTANICS Golden Ace 24/1",
+      "price": 699,
+      "priceFormatted": "6,99 €",
+      "priceCategory": "average",
+      "rank": 117,
+      "marketMin": 619,
+      "marketMax": 875,
+      "marketAvg": 730
+    },
+    {
+      "productName": "Demecan PG Epic Drop 30:1",
+      "price": 820,
+      "priceFormatted": "8,20 €",
+      "priceCategory": "average",
+      "rank": 133,
+      "marketMin": 770,
+      "marketMax": 990,
+      "marketAvg": 876
+    },
+    {
+      "productName": "Nimbus easy 22/1 J",
+      "price": 499,
+      "priceFormatted": "4,99 €",
+      "priceCategory": "average",
+      "rank": 136,
+      "marketMin": 398,
+      "marketMax": 739,
+      "marketAvg": 562
+    },
+    {
+      "productName": "Nimbus easy 30/1 La Sage",
+      "price": 649,
+      "priceFormatted": "6,49 €",
+      "priceCategory": "excellent",
+      "rank": 144,
+      "marketMin": 587,
+      "marketMax": 1236,
+      "marketAvg": 780
+    },
+    {
+      "productName": "Demecan Craft D-Jungle 28:01",
+      "price": 999,
+      "priceFormatted": "9,99 €",
+      "priceCategory": "average",
+      "rank": 144,
+      "marketMin": 618,
+      "marketMax": 1130,
+      "marketAvg": 856
+    },
+    {
+      "productName": "Canify Cannabis flos 27/1 CGD Ku.",
+      "price": 745,
+      "priceFormatted": "7,45 €",
+      "priceCategory": "high",
+      "rank": 163,
+      "marketMin": 478,
+      "marketMax": 799,
+      "marketAvg": 636
+    }
+  ],
+  "pricingStats": {
+    "avgPrice": 838,
+    "minPrice": 499,
+    "maxPrice": 1149,
+    "excellentCount": 6,
+    "goodCount": 0
+  },
   "seo": {
     "meta": {
       "title": "Apotheke am Kornmarkt - Cannabis Apotheke in Trier",

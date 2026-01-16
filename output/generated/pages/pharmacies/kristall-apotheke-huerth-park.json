@@ -43,7 +43,7 @@
       "slug": "cannabis-apotheke-essen-glocken-apotheke",
       "name": "Cannabis Apotheke Essen (Glocken Apotheke)",
       "cityName": "Essen",
-      "productCount": 174,
+      "productCount": 180,
       "hasDelivery": true
     },
     {
@@ -61,6 +61,55 @@
       "hasDelivery": true
     }
   ],
+  "products": [
+    {
+      "productName": "Remexian 21/1 CHR BCO",
+      "price": 480,
+      "priceFormatted": "4,80 €",
+      "priceCategory": "average",
+      "rank": 28,
+      "marketMin": 369,
+      "marketMax": 585,
+      "marketAvg": 525
+    },
+    {
+      "productName": "Remexian 27/1 TWE OGD",
+      "price": 499,
+      "priceFormatted": "4,99 €",
+      "priceCategory": "average",
+      "rank": 88,
+      "marketMin": 449,
+      "marketMax": 695,
+      "marketAvg": 561
+    },
+    {
+      "productName": "Nimbus easy 30/1 La Sage",
+      "price": 620,
+      "priceFormatted": "6,20 €",
+      "priceCategory": "excellent",
+      "rank": 114,
+      "marketMin": 587,
+      "marketMax": 1236,
+      "marketAvg": 780
+    },
+    {
+      "productName": "Luana Electric 28/1",
+      "price": 575,
+      "priceFormatted": "5,75 €",
+      "priceCategory": "average",
+      "rank": 372,
+      "marketMin": 479,
+      "marketMax": 699,
+      "marketAvg": 574
+    }
+  ],
+  "pricingStats": {
+    "avgPrice": 544,
+    "minPrice": 480,
+    "maxPrice": 620,
+    "excellentCount": 1,
+    "goodCount": 0
+  },
   "seo": {
     "meta": {
       "title": "Kristall Apotheke Hürth Park - Cannabis Apotheke in Hürth",

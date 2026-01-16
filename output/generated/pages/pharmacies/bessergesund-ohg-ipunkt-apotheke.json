@@ -43,7 +43,7 @@
       "slug": "augusta-apotheke",
       "name": "Augusta Apotheke",
       "cityName": "Augsburg",
-      "productCount": 100,
+      "productCount": 101,
       "hasDelivery": true
     },
     {
@@ -61,6 +61,135 @@
       "hasDelivery": false
     }
   ],
+  "products": [
+    {
+      "productName": "Greyscales HF 27/1",
+      "price": 845,
+      "priceFormatted": "8,45 €",
+      "priceCategory": "average",
+      "rank": 4,
+      "marketMin": 799,
+      "marketMax": 960,
+      "marketAvg": 870
+    },
+    {
+      "productName": "All Nations MD",
+      "price": 659,
+      "priceFormatted": "6,59 €",
+      "priceCategory": "excellent",
+      "rank": 21,
+      "marketMin": 650,
+      "marketMax": 770,
+      "marketAvg": 693
+    },
+    {
+      "productName": "Truth Holdings LH 29/1",
+      "price": 715,
+      "priceFormatted": "7,15 €",
+      "priceCategory": "excellent",
+      "rank": 31,
+      "marketMin": 668,
+      "marketMax": 1050,
+      "marketAvg": 759
+    },
+    {
+      "productName": "LOT 420 AB 25/1",
+      "price": 839,
+      "priceFormatted": "8,39 €",
+      "priceCategory": "average",
+      "rank": 73,
+      "marketMin": 647,
+      "marketMax": 965,
+      "marketAvg": 866
+    },
+    {
+      "productName": "Oceanic BC 25/1",
+      "price": 594,
+      "priceFormatted": "5,94 €",
+      "priceCategory": "average",
+      "rank": 100,
+      "marketMin": 479,
+      "marketMax": 798,
+      "marketAvg": 603
+    },
+    {
+      "productName": "Aurora 22/1 DHZ-CA",
+      "price": 899,
+      "priceFormatted": "8,99 €",
+      "priceCategory": "average",
+      "rank": 121,
+      "marketMin": 625,
+      "marketMax": 1050,
+      "marketAvg": 871
+    },
+    {
+      "productName": "All Nations FG 25/1",
+      "price": 714,
+      "priceFormatted": "7,14 €",
+      "priceCategory": "average",
+      "rank": 165,
+      "marketMin": 399,
+      "marketMax": 899,
+      "marketAvg": 656
+    },
+    {
+      "productName": "Green Karat MG 28/1",
+      "price": 768,
+      "priceFormatted": "7,68 €",
+      "priceCategory": "average",
+      "rank": 186,
+      "marketMin": 649,
+      "marketMax": 950,
+      "marketAvg": 804
+    },
+    {
+      "productName": "Roxton Air BD 25/1",
+      "price": 549,
+      "priceFormatted": "5,49 €",
+      "priceCategory": "average",
+      "rank": 189,
+      "marketMin": 425,
+      "marketMax": 595,
+      "marketAvg": 515
+    },
+    {
+      "productName": "LOT 420 OC",
+      "price": 797,
+      "priceFormatted": "7,97 €",
+      "priceCategory": "excellent",
+      "rank": 191,
+      "marketMin": 745,
+      "marketMax": 1131,
+      "marketAvg": 880
+    },
+    {
+      "productName": "All Nations GM 25/1 MD",
+      "price": 595,
+      "priceFormatted": "5,95 €",
+      "priceCategory": "average",
+      "rank": 193,
+      "marketMin": 453,
+      "marketMax": 920,
+      "marketAvg": 638
+    },
+    {
+      "productName": "MAC 1+",
+      "price": 644,
+      "priceFormatted": "6,44 €",
+      "priceCategory": "excellent",
+      "rank": 197,
+      "marketMin": 578,
+      "marketMax": 1069,
+      "marketAvg": 725
+    }
+  ],
+  "pricingStats": {
+    "avgPrice": 702,
+    "minPrice": 549,
+    "maxPrice": 899,
+    "excellentCount": 7,
+    "goodCount": 0
+  },
   "seo": {
     "meta": {
       "title": "bessergesund OHG ipunkt Apotheke - Cannabis Apotheke in Augsburg",

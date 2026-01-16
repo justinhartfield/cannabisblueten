@@ -36,7 +36,7 @@
       "slug": "florians-vital-apotheke",
       "name": "Florians Vital Apotheke",
       "cityName": "Esslingen am Neckar",
-      "productCount": 248,
+      "productCount": 241,
       "hasDelivery": true
     },
     {
@@ -50,17 +50,116 @@
       "slug": "karlchengras",
       "name": "Karlchengras (Karl-Apotheke)",
       "cityName": "Karlsruhe",
-      "productCount": 189,
+      "productCount": 190,
       "hasDelivery": true
     },
     {
       "slug": "idris-apotheke-oder-3leafs",
       "name": "Idris Apotheke | 3Leafs",
       "cityName": "Weinheim",
-      "productCount": 148,
+      "productCount": 149,
       "hasDelivery": true
     }
   ],
+  "products": [
+    {
+      "productName": "Cannabis flos Bedrocan CYM",
+      "price": 999,
+      "priceFormatted": "9,99 €",
+      "priceCategory": "average",
+      "rank": 1,
+      "marketMin": 999,
+      "marketMax": 999,
+      "marketAvg": 999
+    },
+    {
+      "productName": "avaay 26/1 SCP",
+      "price": 899,
+      "priceFormatted": "8,99 €",
+      "priceCategory": "high",
+      "rank": 24,
+      "marketMin": 699,
+      "marketMax": 899,
+      "marketAvg": 814
+    },
+    {
+      "productName": "IMC THC 20 T01 HK",
+      "price": 650,
+      "priceFormatted": "6,50 €",
+      "priceCategory": "average",
+      "rank": 210,
+      "marketMin": 273,
+      "marketMax": 1250,
+      "marketAvg": 735
+    },
+    {
+      "productName": "Daily Special 21/1 LEM",
+      "price": 699,
+      "priceFormatted": "6,99 €",
+      "priceCategory": "high",
+      "rank": 310,
+      "marketMin": 477,
+      "marketMax": 699,
+      "marketAvg": 553
+    },
+    {
+      "productName": "enua 30/1 JGF",
+      "price": 999,
+      "priceFormatted": "9,99 €",
+      "priceCategory": "high",
+      "rank": 712,
+      "marketMin": 549,
+      "marketMax": 999,
+      "marketAvg": 699
+    },
+    {
+      "productName": "Pedanios 29/1 SRD-CA",
+      "price": 799,
+      "priceFormatted": "7,99 €",
+      "priceCategory": "average",
+      "rank": 1250,
+      "marketMin": 596,
+      "marketMax": 1316,
+      "marketAvg": 789
+    },
+    {
+      "productName": "Pedanios 26/1 EHD-CA",
+      "price": 750,
+      "priceFormatted": "7,50 €",
+      "priceCategory": "average",
+      "rank": 1852,
+      "marketMin": 476,
+      "marketMax": 1309,
+      "marketAvg": 682
+    },
+    {
+      "productName": "enua 22/1 CA JFG",
+      "price": 699,
+      "priceFormatted": "6,99 €",
+      "priceCategory": "average",
+      "rank": 2060,
+      "marketMin": 368,
+      "marketMax": 899,
+      "marketAvg": 551
+    },
+    {
+      "productName": "Pedanios 31/1 COS-CA",
+      "price": 1099,
+      "priceFormatted": "10,99 €",
+      "priceCategory": "average",
+      "rank": 2156,
+      "marketMin": 679,
+      "marketMax": 2140,
+      "marketAvg": 910
+    }
+  ],
+  "pricingStats": {
+    "avgPrice": 844,
+    "minPrice": 650,
+    "maxPrice": 1099,
+    "excellentCount": 0,
+    "goodCount": 0
+  },
   "seo": {
     "meta": {
       "title": "Uhlberg Apotheke - Cannabis Apotheke in Filderstadt",

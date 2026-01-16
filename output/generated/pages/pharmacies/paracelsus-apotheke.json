@@ -29,7 +29,7 @@
       "slug": "florians-vital-apotheke",
       "name": "Florians Vital Apotheke",
       "cityName": "Esslingen am Neckar",
-      "productCount": 248,
+      "productCount": 241,
       "hasDelivery": true
     },
     {
@@ -43,14 +43,14 @@
       "slug": "karlchengras",
       "name": "Karlchengras (Karl-Apotheke)",
       "cityName": "Karlsruhe",
-      "productCount": 189,
+      "productCount": 190,
       "hasDelivery": true
     },
     {
       "slug": "idris-apotheke-oder-3leafs",
       "name": "Idris Apotheke | 3Leafs",
       "cityName": "Weinheim",
-      "productCount": 148,
+      "productCount": 149,
       "hasDelivery": true
     },
     {
@@ -61,6 +61,135 @@
       "hasDelivery": true
     }
   ],
+  "products": [
+    {
+      "productName": "Tilray THC 22 Spotlight Porto SD",
+      "price": 665,
+      "priceFormatted": "6,65 €",
+      "priceCategory": "average",
+      "rank": 1,
+      "marketMin": 665,
+      "marketMax": 665,
+      "marketAvg": 665
+    },
+    {
+      "productName": "Tilray THC 15 Spotlight Porto Blueberry",
+      "price": 745,
+      "priceFormatted": "7,45 €",
+      "priceCategory": "average",
+      "rank": 1,
+      "marketMin": 745,
+      "marketMax": 745,
+      "marketAvg": 745
+    },
+    {
+      "productName": "Tilray THC 18 Spotlight Porto MK",
+      "price": 689,
+      "priceFormatted": "6,89 €",
+      "priceCategory": "high",
+      "rank": 14,
+      "marketMin": 545,
+      "marketMax": 689,
+      "marketAvg": 646
+    },
+    {
+      "productName": "Enua 25/1 WCK CA",
+      "price": 759,
+      "priceFormatted": "7,59 €",
+      "priceCategory": "high",
+      "rank": 32,
+      "marketMin": 580,
+      "marketMax": 759,
+      "marketAvg": 669
+    },
+    {
+      "productName": "enua 20/1 ABG CA",
+      "price": 699,
+      "priceFormatted": "6,99 €",
+      "priceCategory": "high",
+      "rank": 41,
+      "marketMin": 595,
+      "marketMax": 699,
+      "marketAvg": 647
+    },
+    {
+      "productName": "Remexian 27/1 HMA CDC",
+      "price": 869,
+      "priceFormatted": "8,69 €",
+      "priceCategory": "average",
+      "rank": 49,
+      "marketMin": 789,
+      "marketMax": 895,
+      "marketAvg": 831
+    },
+    {
+      "productName": "Remexian 24/1 CKE FLV",
+      "price": 725,
+      "priceFormatted": "7,25 €",
+      "priceCategory": "high",
+      "rank": 54,
+      "marketMin": 399,
+      "marketMax": 795,
+      "marketAvg": 691
+    },
+    {
+      "productName": "Tilray THC 15 Spotlight Porto MK",
+      "price": 495,
+      "priceFormatted": "4,95 €",
+      "priceCategory": "high",
+      "rank": 61,
+      "marketMin": 385,
+      "marketMax": 495,
+      "marketAvg": 425
+    },
+    {
+      "productName": "Weeco 20/1 FLA",
+      "price": 578,
+      "priceFormatted": "5,78 €",
+      "priceCategory": "average",
+      "rank": 61,
+      "marketMin": 479,
+      "marketMax": 675,
+      "marketAvg": 563
+    },
+    {
+      "productName": "enua 20/1 DB CA",
+      "price": 489,
+      "priceFormatted": "4,89 €",
+      "priceCategory": "average",
+      "rank": 62,
+      "marketMin": 299,
+      "marketMax": 598,
+      "marketAvg": 469
+    },
+    {
+      "productName": "Tilray THC 22 Spotlight Porto W",
+      "price": 750,
+      "priceFormatted": "7,50 €",
+      "priceCategory": "average",
+      "rank": 67,
+      "marketMin": 550,
+      "marketMax": 1071,
+      "marketAvg": 815
+    },
+    {
+      "productName": "enua 27/1 STP CA",
+      "price": 829,
+      "priceFormatted": "8,29 €",
+      "priceCategory": "high",
+      "rank": 76,
+      "marketMin": 599,
+      "marketMax": 829,
+      "marketAvg": 744
+    }
+  ],
+  "pricingStats": {
+    "avgPrice": 746,
+    "minPrice": 489,
+    "maxPrice": 1099,
+    "excellentCount": 0,
+    "goodCount": 0
+  },
   "seo": {
     "meta": {
       "title": "Paracelsus Apotheke - Cannabis Apotheke in Keltern",

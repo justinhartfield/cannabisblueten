@@ -43,7 +43,7 @@
       "slug": "florians-vital-apotheke",
       "name": "Florians Vital Apotheke",
       "cityName": "Esslingen am Neckar",
-      "productCount": 248,
+      "productCount": 241,
       "hasDelivery": true
     },
     {
@@ -57,10 +57,39 @@
       "slug": "karlchengras",
       "name": "Karlchengras (Karl-Apotheke)",
       "cityName": "Karlsruhe",
-      "productCount": 189,
+      "productCount": 190,
       "hasDelivery": true
     }
   ],
+  "products": [
+    {
+      "productName": "Pedanios 22/1",
+      "price": 990,
+      "priceFormatted": "9,90 €",
+      "priceCategory": "average",
+      "rank": 1062,
+      "marketMin": 590,
+      "marketMax": 1902,
+      "marketAvg": 856
+    },
+    {
+      "productName": "Bedrocan Cannabis Flos 22/1 Afina",
+      "price": 1180,
+      "priceFormatted": "11,80 €",
+      "priceCategory": "average",
+      "rank": 1929,
+      "marketMin": 429,
+      "marketMax": 2116,
+      "marketAvg": 905
+    }
+  ],
+  "pricingStats": {
+    "avgPrice": 1085,
+    "minPrice": 990,
+    "maxPrice": 1180,
+    "excellentCount": 0,
+    "goodCount": 0
+  },
   "seo": {
     "meta": {
       "title": "Bernhardus Apotheke - Cannabis Apotheke in Baden-Baden",

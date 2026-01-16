@@ -29,7 +29,7 @@
       "slug": "karlchengras",
       "name": "Karlchengras (Karl-Apotheke)",
       "cityName": "Karlsruhe",
-      "productCount": 189,
+      "productCount": 190,
       "hasDelivery": true
     },
     {
@@ -57,10 +57,139 @@
       "slug": "florians-vital-apotheke",
       "name": "Florians Vital Apotheke",
       "cityName": "Esslingen am Neckar",
-      "productCount": 248,
+      "productCount": 241,
       "hasDelivery": true
     }
   ],
+  "products": [
+    {
+      "productName": "Tilray THC25",
+      "price": 1250,
+      "priceFormatted": "12,50 €",
+      "priceCategory": "average",
+      "rank": 1,
+      "marketMin": 1250,
+      "marketMax": 1250,
+      "marketAvg": 1250
+    },
+    {
+      "productName": "Medican Heri",
+      "price": 850,
+      "priceFormatted": "8,50 €",
+      "priceCategory": "average",
+      "rank": 1,
+      "marketMin": 850,
+      "marketMax": 850,
+      "marketAvg": 850
+    },
+    {
+      "productName": "Bathera 25/1 FC",
+      "price": 750,
+      "priceFormatted": "7,50 €",
+      "priceCategory": "excellent",
+      "rank": 1,
+      "marketMin": 750,
+      "marketMax": 1100,
+      "marketAvg": 867
+    },
+    {
+      "productName": "Materia AND 16/1",
+      "price": 550,
+      "priceFormatted": "5,50 €",
+      "priceCategory": "average",
+      "rank": 1,
+      "marketMin": 550,
+      "marketMax": 550,
+      "marketAvg": 550
+    },
+    {
+      "productName": "Remexian 21/1 ALL GSC",
+      "price": 650,
+      "priceFormatted": "6,50 €",
+      "priceCategory": "high",
+      "rank": 25,
+      "marketMin": 419,
+      "marketMax": 650,
+      "marketAvg": 517
+    },
+    {
+      "productName": "Materia GH 27/1",
+      "price": 750,
+      "priceFormatted": "7,50 €",
+      "priceCategory": "average",
+      "rank": 31,
+      "marketMin": 684,
+      "marketMax": 850,
+      "marketAvg": 772
+    },
+    {
+      "productName": "THC AKUT FB 25 GP",
+      "price": 650,
+      "priceFormatted": "6,50 €",
+      "priceCategory": "average",
+      "rank": 40,
+      "marketMin": 600,
+      "marketMax": 695,
+      "marketAvg": 650
+    },
+    {
+      "productName": "BG 15 KRK Day COL",
+      "price": 450,
+      "priceFormatted": "4,50 €",
+      "priceCategory": "high",
+      "rank": 50,
+      "marketMin": 330,
+      "marketMax": 450,
+      "marketAvg": 421
+    },
+    {
+      "productName": "Materia KMZ 22/1",
+      "price": 750,
+      "priceFormatted": "7,50 €",
+      "priceCategory": "high",
+      "rank": 60,
+      "marketMin": 599,
+      "marketMax": 750,
+      "marketAvg": 694
+    },
+    {
+      "productName": "IMC GP5 THC28 Selected IBP",
+      "price": 650,
+      "priceFormatted": "6,50 €",
+      "priceCategory": "high",
+      "rank": 62,
+      "marketMin": 629,
+      "marketMax": 650,
+      "marketAvg": 645
+    },
+    {
+      "productName": "BG 18 PBH COL",
+      "price": 500,
+      "priceFormatted": "5,00 €",
+      "priceCategory": "high",
+      "rank": 64,
+      "marketMin": 299,
+      "marketMax": 500,
+      "marketAvg": 475
+    },
+    {
+      "productName": "madrecan 21/1 DGV",
+      "price": 500,
+      "priceFormatted": "5,00 €",
+      "priceCategory": "high",
+      "rank": 69,
+      "marketMin": 390,
+      "marketMax": 500,
+      "marketAvg": 455
+    }
+  ],
+  "pricingStats": {
+    "avgPrice": 749,
+    "minPrice": 450,
+    "maxPrice": 1250,
+    "excellentCount": 7,
+    "goodCount": 0
+  },
   "seo": {
     "meta": {
       "title": "Rhein-Apotheke im Ärztehaus Mühlburg - Cannabis Apotheke in Karlsruhe",

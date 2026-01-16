@@ -43,14 +43,14 @@
       "slug": "pharmablute",
       "name": "PharmaBlüte",
       "cityName": "Mainz",
-      "productCount": 126,
+      "productCount": 125,
       "hasDelivery": true
     },
     {
       "slug": "cannabis4me",
       "name": "cannabis4me",
       "cityName": "Bad Neuenahr-Ahrweiler",
-      "productCount": 89,
+      "productCount": 91,
       "hasDelivery": true
     },
     {
@@ -61,6 +61,135 @@
       "hasDelivery": false
     }
   ],
+  "products": [
+    {
+      "productName": "19/1 Nice FZK",
+      "price": 425,
+      "priceFormatted": "4,25 €",
+      "priceCategory": "excellent",
+      "rank": 1,
+      "marketMin": 425,
+      "marketMax": 770,
+      "marketAvg": 559
+    },
+    {
+      "productName": "enua 30/1 SSV CA",
+      "price": 698,
+      "priceFormatted": "6,98 €",
+      "priceCategory": "excellent",
+      "rank": 1,
+      "marketMin": 698,
+      "marketMax": 945,
+      "marketAvg": 751
+    },
+    {
+      "productName": "MediCann 21/1 MC Oro 21 Duende",
+      "price": 430,
+      "priceFormatted": "4,30 €",
+      "priceCategory": "average",
+      "rank": 16,
+      "marketMin": 368,
+      "marketMax": 670,
+      "marketAvg": 512
+    },
+    {
+      "productName": "Demecan Typ 2",
+      "price": 535,
+      "priceFormatted": "5,35 €",
+      "priceCategory": "excellent",
+      "rank": 27,
+      "marketMin": 499,
+      "marketMax": 795,
+      "marketAvg": 662
+    },
+    {
+      "productName": "Herbasana La Santa 20:01",
+      "price": 376,
+      "priceFormatted": "3,76 €",
+      "priceCategory": "excellent",
+      "rank": 31,
+      "marketMin": 349,
+      "marketMax": 769,
+      "marketAvg": 495
+    },
+    {
+      "productName": "MAC 1+",
+      "price": 590,
+      "priceFormatted": "5,90 €",
+      "priceCategory": "excellent",
+      "rank": 35,
+      "marketMin": 578,
+      "marketMax": 1069,
+      "marketAvg": 725
+    },
+    {
+      "productName": "IMC 1/14",
+      "price": 649,
+      "priceFormatted": "6,49 €",
+      "priceCategory": "excellent",
+      "rank": 42,
+      "marketMin": 529,
+      "marketMax": 1300,
+      "marketAvg": 762
+    },
+    {
+      "productName": "Organic Sweetgrass MCC 21/1",
+      "price": 465,
+      "priceFormatted": "4,65 €",
+      "priceCategory": "excellent",
+      "rank": 53,
+      "marketMin": 447,
+      "marketMax": 699,
+      "marketAvg": 546
+    },
+    {
+      "productName": "Cannamedical Sativa Classic NM AA",
+      "price": 855,
+      "priceFormatted": "8,55 €",
+      "priceCategory": "average",
+      "rank": 55,
+      "marketMin": 780,
+      "marketMax": 995,
+      "marketAvg": 929
+    },
+    {
+      "productName": "enua 27/1 SBD CA",
+      "price": 720,
+      "priceFormatted": "7,20 €",
+      "priceCategory": "average",
+      "rank": 57,
+      "marketMin": 559,
+      "marketMax": 809,
+      "marketAvg": 725
+    },
+    {
+      "productName": "Organic Sweetgrass JJ 25/1",
+      "price": 595,
+      "priceFormatted": "5,95 €",
+      "priceCategory": "excellent",
+      "rank": 78,
+      "marketMin": 579,
+      "marketMax": 799,
+      "marketAvg": 676
+    },
+    {
+      "productName": "ZOIKS 22/1 MOC",
+      "price": 450,
+      "priceFormatted": "4,50 €",
+      "priceCategory": "excellent",
+      "rank": 79,
+      "marketMin": 395,
+      "marketMax": 869,
+      "marketAvg": 516
+    }
+  ],
+  "pricingStats": {
+    "avgPrice": 669,
+    "minPrice": 376,
+    "maxPrice": 985,
+    "excellentCount": 16,
+    "goodCount": 0
+  },
   "seo": {
     "meta": {
       "title": "Eifel-Cannabis (Adler-Apotheke) - Cannabis Apotheke in Mendig",

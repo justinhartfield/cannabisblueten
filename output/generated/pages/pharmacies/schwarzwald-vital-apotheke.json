@@ -29,7 +29,7 @@
       "slug": "florians-vital-apotheke",
       "name": "Florians Vital Apotheke",
       "cityName": "Esslingen am Neckar",
-      "productCount": 248,
+      "productCount": 241,
       "hasDelivery": true
     },
     {
@@ -43,14 +43,14 @@
       "slug": "karlchengras",
       "name": "Karlchengras (Karl-Apotheke)",
       "cityName": "Karlsruhe",
-      "productCount": 189,
+      "productCount": 190,
       "hasDelivery": true
     },
     {
       "slug": "idris-apotheke-oder-3leafs",
       "name": "Idris Apotheke | 3Leafs",
       "cityName": "Weinheim",
-      "productCount": 148,
+      "productCount": 149,
       "hasDelivery": true
     },
     {
@@ -61,6 +61,135 @@
       "hasDelivery": true
     }
   ],
+  "products": [
+    {
+      "productName": "Weeco 20/1 FLA",
+      "price": 479,
+      "priceFormatted": "4,79 €",
+      "priceCategory": "excellent",
+      "rank": 1,
+      "marketMin": 479,
+      "marketMax": 675,
+      "marketAvg": 563
+    },
+    {
+      "productName": "Mother 26 CTBX",
+      "price": 649,
+      "priceFormatted": "6,49 €",
+      "priceCategory": "excellent",
+      "rank": 1,
+      "marketMin": 649,
+      "marketMax": 745,
+      "marketAvg": 691
+    },
+    {
+      "productName": "Cannamedical Balanced light 6/10",
+      "price": 997,
+      "priceFormatted": "9,97 €",
+      "priceCategory": "excellent",
+      "rank": 1,
+      "marketMin": 997,
+      "marketMax": 1075,
+      "marketAvg": 1038
+    },
+    {
+      "productName": "Curaleaf Natural 27/1 PT WPT",
+      "price": 549,
+      "priceFormatted": "5,49 €",
+      "priceCategory": "average",
+      "rank": 2,
+      "marketMin": 475,
+      "marketMax": 699,
+      "marketAvg": 563
+    },
+    {
+      "productName": "420 Evolution 22/1 CA MMI",
+      "price": 498,
+      "priceFormatted": "4,98 €",
+      "priceCategory": "high",
+      "rank": 3,
+      "marketMin": 476,
+      "marketMax": 499,
+      "marketAvg": 497
+    },
+    {
+      "productName": "420 Natural 17/1 CA TRP",
+      "price": 599,
+      "priceFormatted": "5,99 €",
+      "priceCategory": "excellent",
+      "rank": 5,
+      "marketMin": 540,
+      "marketMax": 949,
+      "marketAvg": 753
+    },
+    {
+      "productName": "HUALA 22/1 CA CBG",
+      "price": 398,
+      "priceFormatted": "3,98 €",
+      "priceCategory": "excellent",
+      "rank": 11,
+      "marketMin": 396,
+      "marketMax": 685,
+      "marketAvg": 529
+    },
+    {
+      "productName": "enua 30/1 STP CA",
+      "price": 699,
+      "priceFormatted": "6,99 €",
+      "priceCategory": "average",
+      "rank": 12,
+      "marketMin": 599,
+      "marketMax": 950,
+      "marketAvg": 809
+    },
+    {
+      "productName": "Tikun Midnight 10/14",
+      "price": 869,
+      "priceFormatted": "8,69 €",
+      "priceCategory": "excellent",
+      "rank": 13,
+      "marketMin": 773,
+      "marketMax": 1400,
+      "marketAvg": 1026
+    },
+    {
+      "productName": "420 Natural 20/1 CA GG4",
+      "price": 596,
+      "priceFormatted": "5,96 €",
+      "priceCategory": "excellent",
+      "rank": 18,
+      "marketMin": 553,
+      "marketMax": 950,
+      "marketAvg": 717
+    },
+    {
+      "productName": "420 Evolution 25/1 CA PCH Peach Chementine",
+      "price": 498,
+      "priceFormatted": "4,98 €",
+      "priceCategory": "excellent",
+      "rank": 20,
+      "marketMin": 439,
+      "marketMax": 1300,
+      "marketAvg": 687
+    },
+    {
+      "productName": "Canopy Bakerstreet 20",
+      "price": 449,
+      "priceFormatted": "4,49 €",
+      "priceCategory": "excellent",
+      "rank": 25,
+      "marketMin": 369,
+      "marketMax": 1350,
+      "marketAvg": 708
+    }
+  ],
+  "pricingStats": {
+    "avgPrice": 680,
+    "minPrice": 349,
+    "maxPrice": 1149,
+    "excellentCount": 38,
+    "goodCount": 0
+  },
   "seo": {
     "meta": {
       "title": "Schwarzwald Vital Apotheke - Cannabis Apotheke in Gaggenau",

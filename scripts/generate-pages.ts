@@ -30,6 +30,7 @@ import {
   resolveTerpenePage,
   resolveTerpenesHubPage,
   type ResolverConfig,
+  type PharmacyInventoryData,
 } from '../src/resolvers';
 import {
   generateSitemaps,
@@ -78,6 +79,7 @@ async function main() {
   console.log(`      Strains:    ${data.strains.length}`);
   console.log(`      Pharmacies: ${data.pharmacies.length}`);
   console.log(`      Products:   ${data.products.length}`);
+  console.log(`      Inventory:  ${data.stats.inventory.totalRecords} records (${data.stats.inventory.pharmaciesWithProducts} pharmacies)`);
 
   // ==========================================================================
   // PHASE 2: Build Entity Graph
@@ -172,15 +174,32 @@ async function main() {
 
   // Pharmacy pages
   console.log('   → Resolving pharmacy pages...');
+
+  // Convert pharmacy inventory to the format expected by the resolver
+  const pharmacyInventoryMap = new Map<string, PharmacyInventoryData>();
+  for (const [slug, pharmacyProducts] of data.pharmacyInventory) {
+    pharmacyInventoryMap.set(slug, {
+      products: pharmacyProducts.products.map(p => ({
+        productName: p.productName,
+        price: p.price,
+        priceCategory: p.priceCategory,
+        rank: p.rank,
+        marketMin: p.marketMin,
+        marketMax: p.marketMax,
+        marketAvg: p.marketAvg,
+      })),
+    });
+  }
+
   const indexablePharmacies = Array.from(graph.pharmacies.values()).filter(p => p.isIndexable);
   for (const pharmacy of indexablePharmacies) {
-    const pageData = resolvePharmacyPage(graph, pharmacy.slug, RESOLVER_CONFIG);
+    const pageData = resolvePharmacyPage(graph, pharmacy.slug, RESOLVER_CONFIG, pharmacyInventoryMap);
     if (pageData) {
       writeJson(path.join(PAGES_DIR, 'pharmacies', `${pharmacy.slug}.json`), pageData);
       pageStats.pharmacies++;
     }
   }
-  console.log(`      ✅ ${pageStats.pharmacies} pharmacy pages`);
+  console.log(`      ✅ ${pageStats.pharmacies} pharmacy pages (${pharmacyInventoryMap.size} with inventory data)`);
 
   // Brand pages
   console.log('   → Resolving brand pages...');

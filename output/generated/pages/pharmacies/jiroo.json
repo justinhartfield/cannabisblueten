@@ -14,7 +14,7 @@
     "website": "https://jiroo.de",
     "phone": "0307430466630",
     "email": "kontakt@jiroo.de",
-    "productCount": 58,
+    "productCount": 57,
     "rating": 2.6,
     "ratingCount": 5,
     "imageUrl": "https://weed.de/pharmacies/64510b95015091f87bc7017a-27144a.jpg"
@@ -61,10 +61,139 @@
       "hasDelivery": true
     }
   ],
+  "products": [
+    {
+      "productName": "24/1 IUVO OC Tropical Orange",
+      "price": 775,
+      "priceFormatted": "7,75 €",
+      "priceCategory": "excellent",
+      "rank": 1,
+      "marketMin": 775,
+      "marketMax": 1250,
+      "marketAvg": 1121
+    },
+    {
+      "productName": "HiSociety 24/1 CAN DEB",
+      "price": 599,
+      "priceFormatted": "5,99 €",
+      "priceCategory": "average",
+      "rank": 1,
+      "marketMin": 599,
+      "marketMax": 599,
+      "marketAvg": 599
+    },
+    {
+      "productName": "NICE 20/1 VC",
+      "price": 375,
+      "priceFormatted": "3,75 €",
+      "priceCategory": "high",
+      "rank": 3,
+      "marketMin": 348,
+      "marketMax": 375,
+      "marketAvg": 366
+    },
+    {
+      "productName": "enua 25/1 JFG CA",
+      "price": 455,
+      "priceFormatted": "4,55 €",
+      "priceCategory": "average",
+      "rank": 6,
+      "marketMin": 379,
+      "marketMax": 699,
+      "marketAvg": 635
+    },
+    {
+      "productName": "Zoiks 26/1 SR",
+      "price": 699,
+      "priceFormatted": "6,99 €",
+      "priceCategory": "average",
+      "rank": 44,
+      "marketMin": 495,
+      "marketMax": 1000,
+      "marketAvg": 588
+    },
+    {
+      "productName": "Remexian 21/1 IRC OCO",
+      "price": 450,
+      "priceFormatted": "4,50 €",
+      "priceCategory": "average",
+      "rank": 54,
+      "marketMin": 288,
+      "marketMax": 499,
+      "marketAvg": 379
+    },
+    {
+      "productName": "Avaay Signature 23/1 WB",
+      "price": 795,
+      "priceFormatted": "7,95 €",
+      "priceCategory": "average",
+      "rank": 96,
+      "marketMin": 675,
+      "marketMax": 895,
+      "marketAvg": 791
+    },
+    {
+      "productName": "20/1 IUVO OC Killer Cupcake",
+      "price": 775,
+      "priceFormatted": "7,75 €",
+      "priceCategory": "average",
+      "rank": 133,
+      "marketMin": 589,
+      "marketMax": 949,
+      "marketAvg": 794
+    },
+    {
+      "productName": "Soma OG 32/1 PF",
+      "price": 845,
+      "priceFormatted": "8,45 €",
+      "priceCategory": "average",
+      "rank": 135,
+      "marketMin": 699,
+      "marketMax": 898,
+      "marketAvg": 784
+    },
+    {
+      "productName": "Demecan Craft Cali 26:01",
+      "price": 845,
+      "priceFormatted": "8,45 €",
+      "priceCategory": "average",
+      "rank": 141,
+      "marketMin": 777,
+      "marketMax": 999,
+      "marketAvg": 876
+    },
+    {
+      "productName": "All Nations LT 25/1",
+      "price": 695,
+      "priceFormatted": "6,95 €",
+      "priceCategory": "average",
+      "rank": 150,
+      "marketMin": 594,
+      "marketMax": 890,
+      "marketAvg": 744
+    },
+    {
+      "productName": "Medical Saints 18/1 ACB",
+      "price": 395,
+      "priceFormatted": "3,95 €",
+      "priceCategory": "average",
+      "rank": 155,
+      "marketMin": 298,
+      "marketMax": 500,
+      "marketAvg": 415
+    }
+  ],
+  "pricingStats": {
+    "avgPrice": 682,
+    "minPrice": 375,
+    "maxPrice": 995,
+    "excellentCount": 8,
+    "goodCount": 0
+  },
   "seo": {
     "meta": {
       "title": "jiroo - Cannabis Apotheke in Berlin",
-      "description": "jiroo in Berlin. 58 Cannabis Produkte. Lieferung & Abholung. Bewertung: 2.6/5. Jetzt Preise vergleichen.",
+      "description": "jiroo in Berlin. 57 Cannabis Produkte. Lieferung & Abholung. Bewertung: 2.6/5. Jetzt Preise vergleichen.",
       "canonical": "https://cannabisblueten.de/apotheke/jiroo",
       "robots": {
         "index": true,
@@ -72,7 +201,7 @@
       },
       "openGraph": {
         "title": "jiroo - Cannabis Apotheke in Berlin",
-        "description": "jiroo in Berlin. 58 Cannabis Produkte. Lieferung & Abholung. Bewertung: 2.6/5. Jetzt Preise vergleichen.",
+        "description": "jiroo in Berlin. 57 Cannabis Produkte. Lieferung & Abholung. Bewertung: 2.6/5. Jetzt Preise vergleichen.",
         "url": "https://cannabisblueten.de/apotheke/jiroo",
         "type": "website",
         "siteName": "CannabisBlueten.de",
@@ -134,7 +263,7 @@
         "@type": "Pharmacy",
         "name": "jiroo",
         "url": "https://cannabisblueten.de/apotheke/jiroo",
-        "description": "Cannabis Apotheke in Berlin. 58 medizinische Cannabis Produkte verfügbar.",
+        "description": "Cannabis Apotheke in Berlin. 57 medizinische Cannabis Produkte verfügbar.",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Mariendorfer Damm 165",

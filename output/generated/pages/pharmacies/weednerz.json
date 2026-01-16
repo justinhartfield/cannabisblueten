@@ -26,13 +26,6 @@
   },
   "nearbyPharmacies": [
     {
-      "slug": "cannabis-apotheken-engelmann",
-      "name": "Cannabis Apotheken Dr. Engelmann",
-      "cityName": "Brühl",
-      "productCount": 47,
-      "hasDelivery": true
-    },
-    {
       "slug": "kurfuersten-apotheke",
       "name": "Kurfürsten Apotheke",
       "cityName": "Brühl",
@@ -40,10 +33,17 @@
       "hasDelivery": true
     },
     {
+      "slug": "cannabis-apotheken-engelmann",
+      "name": "Cannabis Apotheken Dr. Engelmann",
+      "cityName": "Brühl",
+      "productCount": 46,
+      "hasDelivery": true
+    },
+    {
       "slug": "florians-vital-apotheke",
       "name": "Florians Vital Apotheke",
       "cityName": "Esslingen am Neckar",
-      "productCount": 248,
+      "productCount": 241,
       "hasDelivery": true
     },
     {
@@ -57,10 +57,49 @@
       "slug": "karlchengras",
       "name": "Karlchengras (Karl-Apotheke)",
       "cityName": "Karlsruhe",
-      "productCount": 189,
+      "productCount": 190,
       "hasDelivery": true
     }
   ],
+  "products": [
+    {
+      "productName": "Nimbus EASY 22/1",
+      "price": 550,
+      "priceFormatted": "5,50 €",
+      "priceCategory": "high",
+      "rank": 53,
+      "marketMin": 399,
+      "marketMax": 550,
+      "marketAvg": 468
+    },
+    {
+      "productName": "GROW MO 27 G-Modo",
+      "price": 695,
+      "priceFormatted": "6,95 €",
+      "priceCategory": "average",
+      "rank": 66,
+      "marketMin": 476,
+      "marketMax": 850,
+      "marketAvg": 676
+    },
+    {
+      "productName": "enua 27/1 PSZ CA",
+      "price": 990,
+      "priceFormatted": "9,90 €",
+      "priceCategory": "average",
+      "rank": 263,
+      "marketMin": 687,
+      "marketMax": 1149,
+      "marketAvg": 839
+    }
+  ],
+  "pricingStats": {
+    "avgPrice": 745,
+    "minPrice": 550,
+    "maxPrice": 990,
+    "excellentCount": 0,
+    "goodCount": 0
+  },
   "seo": {
     "meta": {
       "title": "Weednerz - Cannabis Apotheke in Brühl",
@@ -172,14 +211,14 @@
     },
     "nearbyPharmacies": [
       {
-        "href": "/apotheke/cannabis-apotheken-engelmann",
-        "text": "Cannabis Apotheken Dr. Engelmann",
-        "title": "Cannabis Apotheken Dr. Engelmann in Brühl"
-      },
-      {
         "href": "/apotheke/kurfuersten-apotheke",
         "text": "Kurfürsten Apotheke",
         "title": "Kurfürsten Apotheke in Brühl"
+      },
+      {
+        "href": "/apotheke/cannabis-apotheken-engelmann",
+        "text": "Cannabis Apotheken Dr. Engelmann",
+        "title": "Cannabis Apotheken Dr. Engelmann in Brühl"
       },
       {
         "href": "/apotheke/florians-vital-apotheke",

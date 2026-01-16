@@ -36,7 +36,7 @@
       "slug": "florians-vital-apotheke",
       "name": "Florians Vital Apotheke",
       "cityName": "Esslingen am Neckar",
-      "productCount": 248,
+      "productCount": 241,
       "hasDelivery": true
     },
     {
@@ -50,17 +50,116 @@
       "slug": "karlchengras",
       "name": "Karlchengras (Karl-Apotheke)",
       "cityName": "Karlsruhe",
-      "productCount": 189,
+      "productCount": 190,
       "hasDelivery": true
     },
     {
       "slug": "idris-apotheke-oder-3leafs",
       "name": "Idris Apotheke | 3Leafs",
       "cityName": "Weinheim",
-      "productCount": 148,
+      "productCount": 149,
       "hasDelivery": true
     }
   ],
+  "products": [
+    {
+      "productName": "420 Evolution 33/1 CA PCH",
+      "price": 1250,
+      "priceFormatted": "12,50 €",
+      "priceCategory": "average",
+      "rank": 1,
+      "marketMin": 1250,
+      "marketMax": 1250,
+      "marketAvg": 1250
+    },
+    {
+      "productName": "BLKMKT LAW THC25",
+      "price": 798,
+      "priceFormatted": "7,98 €",
+      "priceCategory": "high",
+      "rank": 87,
+      "marketMin": 535,
+      "marketMax": 798,
+      "marketAvg": 650
+    },
+    {
+      "productName": "420 Evolution 25/1 CA PLD",
+      "price": 750,
+      "priceFormatted": "7,50 €",
+      "priceCategory": "average",
+      "rank": 186,
+      "marketMin": 589,
+      "marketMax": 895,
+      "marketAvg": 716
+    },
+    {
+      "productName": "IMC Gum THC26",
+      "price": 750,
+      "priceFormatted": "7,50 €",
+      "priceCategory": "high",
+      "rank": 246,
+      "marketMin": 350,
+      "marketMax": 799,
+      "marketAvg": 586
+    },
+    {
+      "productName": "IMC TR7 THC25",
+      "price": 665,
+      "priceFormatted": "6,65 €",
+      "priceCategory": "average",
+      "rank": 368,
+      "marketMin": 497,
+      "marketMax": 890,
+      "marketAvg": 600
+    },
+    {
+      "productName": "IMC BCP1 THC25",
+      "price": 750,
+      "priceFormatted": "7,50 €",
+      "priceCategory": "average",
+      "rank": 407,
+      "marketMin": 400,
+      "marketMax": 890,
+      "marketAvg": 595
+    },
+    {
+      "productName": "AVAAY Signature 28/1 WB",
+      "price": 983,
+      "priceFormatted": "9,83 €",
+      "priceCategory": "average",
+      "rank": 756,
+      "marketMin": 824,
+      "marketMax": 1125,
+      "marketAvg": 968
+    },
+    {
+      "productName": "Avaay Signature 34/1 OGC",
+      "price": 1185,
+      "priceFormatted": "11,85 €",
+      "priceCategory": "average",
+      "rank": 976,
+      "marketMin": 799,
+      "marketMax": 1445,
+      "marketAvg": 1065
+    },
+    {
+      "productName": "ZOIKS 26/1 TG",
+      "price": 705,
+      "priceFormatted": "7,05 €",
+      "priceCategory": "average",
+      "rank": 2462,
+      "marketMin": 423,
+      "marketMax": 790,
+      "marketAvg": 581
+    }
+  ],
+  "pricingStats": {
+    "avgPrice": 871,
+    "minPrice": 665,
+    "maxPrice": 1250,
+    "excellentCount": 0,
+    "goodCount": 0
+  },
   "seo": {
     "meta": {
       "title": "Aeskulap-Apotheke - Cannabis Apotheke in Freiburg im Breisgau",

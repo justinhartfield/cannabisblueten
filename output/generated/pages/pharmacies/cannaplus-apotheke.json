@@ -36,7 +36,7 @@
       "slug": "augusta-apotheke",
       "name": "Augusta Apotheke",
       "cityName": "Augsburg",
-      "productCount": 100,
+      "productCount": 101,
       "hasDelivery": true
     },
     {
@@ -61,6 +61,135 @@
       "hasDelivery": false
     }
   ],
+  "products": [
+    {
+      "productName": "Weeco 20/1",
+      "price": 579,
+      "priceFormatted": "5,79 €",
+      "priceCategory": "average",
+      "rank": 1,
+      "marketMin": 579,
+      "marketMax": 579,
+      "marketAvg": 579
+    },
+    {
+      "productName": "Canopy Bakerstreet 20",
+      "price": 369,
+      "priceFormatted": "3,69 €",
+      "priceCategory": "excellent",
+      "rank": 1,
+      "marketMin": 369,
+      "marketMax": 1350,
+      "marketAvg": 708
+    },
+    {
+      "productName": "Cannabis 1A 16/1",
+      "price": 420,
+      "priceFormatted": "4,20 €",
+      "priceCategory": "excellent",
+      "rank": 1,
+      "marketMin": 420,
+      "marketMax": 790,
+      "marketAvg": 575
+    },
+    {
+      "productName": "Remexian 30/1 PRT MTP",
+      "price": 528,
+      "priceFormatted": "5,28 €",
+      "priceCategory": "excellent",
+      "rank": 1,
+      "marketMin": 528,
+      "marketMax": 830,
+      "marketAvg": 621
+    },
+    {
+      "productName": "Peace Naturals 29/1 GC",
+      "price": 570,
+      "priceFormatted": "5,70 €",
+      "priceCategory": "excellent",
+      "rank": 1,
+      "marketMin": 570,
+      "marketMax": 1080,
+      "marketAvg": 667
+    },
+    {
+      "productName": "420 EVOLUTION 27/1 CA MMI",
+      "price": 599,
+      "priceFormatted": "5,99 €",
+      "priceCategory": "excellent",
+      "rank": 1,
+      "marketMin": 599,
+      "marketMax": 995,
+      "marketAvg": 905
+    },
+    {
+      "productName": "Mediprocan Lunaris 23/1 P",
+      "price": 399,
+      "priceFormatted": "3,99 €",
+      "priceCategory": "excellent",
+      "rank": 1,
+      "marketMin": 399,
+      "marketMax": 850,
+      "marketAvg": 527
+    },
+    {
+      "productName": "Bava Med 21/1 Pineapple Express",
+      "price": 479,
+      "priceFormatted": "4,79 €",
+      "priceCategory": "excellent",
+      "rank": 1,
+      "marketMin": 479,
+      "marketMax": 600,
+      "marketAvg": 589
+    },
+    {
+      "productName": "Remexian 30/1 JOI OKC",
+      "price": 795,
+      "priceFormatted": "7,95 €",
+      "priceCategory": "average",
+      "rank": 1,
+      "marketMin": 795,
+      "marketMax": 795,
+      "marketAvg": 795
+    },
+    {
+      "productName": "Barongo 30/1 KM",
+      "price": 599,
+      "priceFormatted": "5,99 €",
+      "priceCategory": "average",
+      "rank": 1,
+      "marketMin": 599,
+      "marketMax": 599,
+      "marketAvg": 599
+    },
+    {
+      "productName": "IMC THC 21 RWT",
+      "price": 379,
+      "priceFormatted": "3,79 €",
+      "priceCategory": "excellent",
+      "rank": 1,
+      "marketMin": 379,
+      "marketMax": 389,
+      "marketAvg": 388
+    },
+    {
+      "productName": "Tikun CAP J 31/1",
+      "price": 729,
+      "priceFormatted": "7,29 €",
+      "priceCategory": "excellent",
+      "rank": 1,
+      "marketMin": 729,
+      "marketMax": 1404,
+      "marketAvg": 890
+    }
+  ],
+  "pricingStats": {
+    "avgPrice": 550,
+    "minPrice": 274,
+    "maxPrice": 949,
+    "excellentCount": 129,
+    "goodCount": 0
+  },
   "seo": {
     "meta": {
       "title": "Cannaplus Apotheke - Cannabis Apotheke in Augsburg",

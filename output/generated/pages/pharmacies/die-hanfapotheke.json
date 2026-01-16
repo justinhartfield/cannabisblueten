@@ -29,7 +29,7 @@
       "slug": "florians-vital-apotheke",
       "name": "Florians Vital Apotheke",
       "cityName": "Esslingen am Neckar",
-      "productCount": 248,
+      "productCount": 241,
       "hasDelivery": true
     },
     {
@@ -43,14 +43,14 @@
       "slug": "karlchengras",
       "name": "Karlchengras (Karl-Apotheke)",
       "cityName": "Karlsruhe",
-      "productCount": 189,
+      "productCount": 190,
       "hasDelivery": true
     },
     {
       "slug": "idris-apotheke-oder-3leafs",
       "name": "Idris Apotheke | 3Leafs",
       "cityName": "Weinheim",
-      "productCount": 148,
+      "productCount": 149,
       "hasDelivery": true
     },
     {
@@ -61,6 +61,135 @@
       "hasDelivery": true
     }
   ],
+  "products": [
+    {
+      "productName": "AMP Classic 18/1",
+      "price": 900,
+      "priceFormatted": "9,00 €",
+      "priceCategory": "average",
+      "rank": 1,
+      "marketMin": 900,
+      "marketMax": 900,
+      "marketAvg": 900
+    },
+    {
+      "productName": "Cookies 22/1 Medellin",
+      "price": 1050,
+      "priceFormatted": "10,50 €",
+      "priceCategory": "average",
+      "rank": 1,
+      "marketMin": 1050,
+      "marketMax": 1050,
+      "marketAvg": 1050
+    },
+    {
+      "productName": "Mediprocan African Ruby 20/1 M",
+      "price": 620,
+      "priceFormatted": "6,20 €",
+      "priceCategory": "average",
+      "rank": 1,
+      "marketMin": 620,
+      "marketMax": 620,
+      "marketAvg": 620
+    },
+    {
+      "productName": "Remexian 21/1 TEN BAN",
+      "price": 850,
+      "priceFormatted": "8,50 €",
+      "priceCategory": "average",
+      "rank": 1,
+      "marketMin": 850,
+      "marketMax": 850,
+      "marketAvg": 850
+    },
+    {
+      "productName": "Barrocas PMK 26/1 Premium",
+      "price": 1400,
+      "priceFormatted": "14,00 €",
+      "priceCategory": "average",
+      "rank": 1,
+      "marketMin": 1400,
+      "marketMax": 1400,
+      "marketAvg": 1400
+    },
+    {
+      "productName": "N!CE 25/1 RAM",
+      "price": 1050,
+      "priceFormatted": "10,50 €",
+      "priceCategory": "average",
+      "rank": 1,
+      "marketMin": 1050,
+      "marketMax": 1050,
+      "marketAvg": 1050
+    },
+    {
+      "productName": "Cookies 29/1 MD",
+      "price": 890,
+      "priceFormatted": "8,90 €",
+      "priceCategory": "average",
+      "rank": 1,
+      "marketMin": 890,
+      "marketMax": 890,
+      "marketAvg": 890
+    },
+    {
+      "productName": "Bava Med 29/1 MON - BU",
+      "price": 850,
+      "priceFormatted": "8,50 €",
+      "priceCategory": "high",
+      "rank": 3,
+      "marketMin": 578,
+      "marketMax": 850,
+      "marketAvg": 833
+    },
+    {
+      "productName": "Remexian 30/1 PGR MSH",
+      "price": 900,
+      "priceFormatted": "9,00 €",
+      "priceCategory": "high",
+      "rank": 6,
+      "marketMin": 499,
+      "marketMax": 900,
+      "marketAvg": 868
+    },
+    {
+      "productName": "Remexian 30/1 HCC GGL",
+      "price": 1200,
+      "priceFormatted": "12,00 €",
+      "priceCategory": "high",
+      "rank": 7,
+      "marketMin": 779,
+      "marketMax": 1200,
+      "marketAvg": 1130
+    },
+    {
+      "productName": "Cannamedical Balanced classic 8/8",
+      "price": 1670,
+      "priceFormatted": "16,70 €",
+      "priceCategory": "high",
+      "rank": 9,
+      "marketMin": 1099,
+      "marketMax": 1670,
+      "marketAvg": 1565
+    },
+    {
+      "productName": "AlephSana rose 16/1 TH",
+      "price": 900,
+      "priceFormatted": "9,00 €",
+      "priceCategory": "high",
+      "rank": 10,
+      "marketMin": 499,
+      "marketMax": 900,
+      "marketAvg": 807
+    }
+  ],
+  "pricingStats": {
+    "avgPrice": 974,
+    "minPrice": 600,
+    "maxPrice": 1890,
+    "excellentCount": 1,
+    "goodCount": 0
+  },
   "seo": {
     "meta": {
       "title": "Die Hanfapotheke - Cannabis Apotheke in Konstanz",

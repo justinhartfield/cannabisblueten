@@ -603,6 +603,17 @@ export function resolveCityPage(
 // PHARMACY PAGE DATA
 // =============================================================================
 
+export interface PharmacyProductItem {
+  productName: string;
+  price: number; // cents per gram
+  priceFormatted: string;
+  priceCategory: 'excellent' | 'good' | 'average' | 'high' | 'unknown';
+  rank: number;
+  marketMin: number;
+  marketMax: number;
+  marketAvg: number;
+}
+
 export interface PharmacyPageData {
   pharmacy: {
     slug: string;
@@ -636,6 +647,14 @@ export interface PharmacyPageData {
     productCount: number;
     hasDelivery: boolean;
   }>;
+  products: PharmacyProductItem[];
+  pricingStats: {
+    avgPrice: number;
+    minPrice: number;
+    maxPrice: number;
+    excellentCount: number;
+    goodCount: number;
+  } | null;
   seo: {
     meta: PageMeta;
     breadcrumbs: Breadcrumb[];
@@ -655,10 +674,24 @@ export interface PharmacyPageData {
   };
 }
 
+// Type for pharmacy inventory data passed from generate-pages
+export interface PharmacyInventoryData {
+  products: Array<{
+    productName: string;
+    price: number;
+    priceCategory: 'excellent' | 'good' | 'average' | 'high' | 'unknown';
+    rank: number;
+    marketMin: number;
+    marketMax: number;
+    marketAvg: number;
+  }>;
+}
+
 export function resolvePharmacyPage(
   graph: EntityGraph,
   slug: string,
-  config: ResolverConfig = DEFAULT_CONFIG
+  config: ResolverConfig = DEFAULT_CONFIG,
+  inventory?: Map<string, PharmacyInventoryData>
 ): PharmacyPageData | null {
   const pharmacy = graph.pharmacies.get(slug);
   if (!pharmacy) return null;
@@ -676,6 +709,33 @@ export function resolvePharmacyPage(
       return b.productCount - a.productCount;
     })
     .slice(0, 5);
+
+  // Get products from inventory
+  const pharmacyInventory = inventory?.get(slug);
+  const products: PharmacyProductItem[] = pharmacyInventory?.products.slice(0, 12).map((p) => ({
+    productName: p.productName,
+    price: p.price,
+    priceFormatted: formatPrice(p.price),
+    priceCategory: p.priceCategory,
+    rank: p.rank,
+    marketMin: p.marketMin,
+    marketMax: p.marketMax,
+    marketAvg: p.marketAvg,
+  })) ?? [];
+
+  // Calculate pricing stats
+  let pricingStats: PharmacyPageData['pricingStats'] = null;
+  if (pharmacyInventory && pharmacyInventory.products.length > 0) {
+    const allProducts = pharmacyInventory.products;
+    const prices = allProducts.map((p) => p.price);
+    pricingStats = {
+      avgPrice: Math.round(prices.reduce((a, b) => a + b, 0) / prices.length),
+      minPrice: Math.min(...prices),
+      maxPrice: Math.max(...prices),
+      excellentCount: allProducts.filter((p) => p.priceCategory === 'excellent').length,
+      goodCount: allProducts.filter((p) => p.priceCategory === 'good').length,
+    };
+  }
 
   // Build SEO
   const canonical = `${config.baseUrl}/apotheke/${pharmacy.slug}`;
@@ -721,6 +781,8 @@ export function resolvePharmacyPage(
       productCount: p.productCount,
       hasDelivery: p.hasDelivery,
     })),
+    products,
+    pricingStats,
     seo: {
       meta: {
         title,

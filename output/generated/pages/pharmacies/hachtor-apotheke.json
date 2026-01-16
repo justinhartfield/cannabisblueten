@@ -43,7 +43,7 @@
       "slug": "cannabis-apotheke-essen-glocken-apotheke",
       "name": "Cannabis Apotheke Essen (Glocken Apotheke)",
       "cityName": "Essen",
-      "productCount": 174,
+      "productCount": 180,
       "hasDelivery": true
     },
     {
@@ -61,6 +61,65 @@
       "hasDelivery": true
     }
   ],
+  "products": [
+    {
+      "productName": "19/1 Nice FZK",
+      "price": 770,
+      "priceFormatted": "7,70 €",
+      "priceCategory": "high",
+      "rank": 322,
+      "marketMin": 425,
+      "marketMax": 770,
+      "marketAvg": 559
+    },
+    {
+      "productName": "Pedanios 28/1 CMK-CA",
+      "price": 1310,
+      "priceFormatted": "13,10 €",
+      "priceCategory": "high",
+      "rank": 631,
+      "marketMin": 549,
+      "marketMax": 1310,
+      "marketAvg": 800
+    },
+    {
+      "productName": "Pedanios 22/1",
+      "price": 1390,
+      "priceFormatted": "13,90 €",
+      "priceCategory": "average",
+      "rank": 1220,
+      "marketMin": 590,
+      "marketMax": 1902,
+      "marketAvg": 856
+    },
+    {
+      "productName": "Pedanios 27/1 BLY-CA",
+      "price": 1430,
+      "priceFormatted": "14,30 €",
+      "priceCategory": "high",
+      "rank": 1317,
+      "marketMin": 600,
+      "marketMax": 1430,
+      "marketAvg": 806
+    },
+    {
+      "productName": "Pedanios 29/1 SRD-CA",
+      "price": 1310,
+      "priceFormatted": "13,10 €",
+      "priceCategory": "high",
+      "rank": 1902,
+      "marketMin": 596,
+      "marketMax": 1316,
+      "marketAvg": 789
+    }
+  ],
+  "pricingStats": {
+    "avgPrice": 1242,
+    "minPrice": 770,
+    "maxPrice": 1430,
+    "excellentCount": 0,
+    "goodCount": 0
+  },
   "seo": {
     "meta": {
       "title": "Hachtor-Apotheke - Cannabis Apotheke in Rüthen",

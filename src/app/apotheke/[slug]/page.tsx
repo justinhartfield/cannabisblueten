@@ -322,10 +322,12 @@ export default async function PharmacyPage({ params }: PageProps) {
               </div>
             </div>
 
-            {/* Featured Products Teaser */}
+            {/* Products Section */}
             <div className="bg-white rounded-2xl p-6 shadow-sm border border-clinical-100">
-              <div className="flex items-center justify-between mb-4">
-                <h2 className="text-xl font-bold text-clinical-800">Beliebte Produkte</h2>
+              <div className="flex items-center justify-between mb-6">
+                <h2 className="text-xl font-bold text-clinical-800">
+                  {data.products.length > 0 ? 'Produkte mit besten Preisen' : 'Beliebte Produkte'}
+                </h2>
                 <a
                   href={`${data.external.weedUrl}/menu`}
                   target="_blank"
@@ -338,26 +340,60 @@ export default async function PharmacyPage({ params }: PageProps) {
                   </svg>
                 </a>
               </div>
-              <div className="grid grid-cols-2 sm:grid-cols-4 gap-4">
-                {[1, 2, 3, 4].map((i) => (
-                  <a
-                    key={i}
-                    href={`${data.external.weedUrl}/menu`}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="group bg-clinical-50 rounded-xl p-4 hover:bg-clinical-100 transition-colors"
-                  >
-                    <div className="aspect-square bg-clinical-100 rounded-lg mb-3 flex items-center justify-center group-hover:bg-clinical-200 transition-colors">
-                      <svg className="w-8 h-8 text-clinical-300" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4" />
-                      </svg>
+
+              {data.products.length > 0 ? (
+                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+                  {data.products.slice(0, 6).map((product, idx) => (
+                    <ProductCard key={idx} product={product} weedUrl={data.external.weedUrl} />
+                  ))}
+                </div>
+              ) : (
+                <div className="grid grid-cols-2 sm:grid-cols-4 gap-4">
+                  {[1, 2, 3, 4].map((i) => (
+                    <a
+                      key={i}
+                      href={`${data.external.weedUrl}/menu`}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="group bg-clinical-50 rounded-xl p-4 hover:bg-clinical-100 transition-colors"
+                    >
+                      <div className="aspect-square bg-clinical-100 rounded-lg mb-3 flex items-center justify-center group-hover:bg-clinical-200 transition-colors">
+                        <svg className="w-8 h-8 text-clinical-300" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4" />
+                        </svg>
+                      </div>
+                      <div className="text-xs text-clinical-400 text-center">
+                        Auf weed.de ansehen
+                      </div>
+                    </a>
+                  ))}
+                </div>
+              )}
+
+              {/* Pricing Stats */}
+              {data.pricingStats && (
+                <div className="mt-6 pt-6 border-t border-clinical-100">
+                  <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 text-center">
+                    <div>
+                      <p className="text-2xl font-bold text-clinical-800">{data.pricingStats.excellentCount}</p>
+                      <p className="text-xs text-clinical-500">Top-Preise</p>
                     </div>
-                    <div className="text-xs text-clinical-400 text-center">
-                      Auf weed.de ansehen
+                    <div>
+                      <p className="text-2xl font-bold text-clinical-800">{data.pricingStats.goodCount}</p>
+                      <p className="text-xs text-clinical-500">Gute Preise</p>
                     </div>
-                  </a>
-                ))}
-              </div>
+                    <div>
+                      <p className="text-2xl font-bold text-safety">{formatCents(data.pricingStats.minPrice)}</p>
+                      <p className="text-xs text-clinical-500">Ab Preis/g</p>
+                    </div>
+                    <div>
+                      <p className="text-2xl font-bold text-clinical-600">{formatCents(data.pricingStats.avgPrice)}</p>
+                      <p className="text-xs text-clinical-500">Ø Preis/g</p>
+                    </div>
+                  </div>
+                </div>
+              )}
+
               <p className="text-sm text-clinical-500 mt-4 text-center">
                 Preise, Verfügbarkeit und das vollständige Sortiment finden Sie auf weed.de
               </p>
@@ -537,6 +573,81 @@ function ServiceCard({
         </span>
       </div>
     </div>
+  );
+}
+
+// Helper function to format cents as EUR
+function formatCents(cents: number): string {
+  return new Intl.NumberFormat('de-DE', {
+    style: 'currency',
+    currency: 'EUR',
+  }).format(cents / 100);
+}
+
+// Price category badge colors
+const priceCategoryStyles = {
+  excellent: 'bg-green-100 text-green-700 border-green-200',
+  good: 'bg-blue-100 text-blue-700 border-blue-200',
+  average: 'bg-yellow-100 text-yellow-700 border-yellow-200',
+  high: 'bg-red-100 text-red-700 border-red-200',
+  unknown: 'bg-clinical-100 text-clinical-600 border-clinical-200',
+};
+
+const priceCategoryLabels = {
+  excellent: 'Top-Preis',
+  good: 'Guter Preis',
+  average: 'Durchschnitt',
+  high: 'Höherer Preis',
+  unknown: 'Preis',
+};
+
+function ProductCard({
+  product,
+  weedUrl,
+}: {
+  product: {
+    productName: string;
+    price: number;
+    priceFormatted: string;
+    priceCategory: 'excellent' | 'good' | 'average' | 'high' | 'unknown';
+    rank: number;
+    marketMin: number;
+    marketMax: number;
+    marketAvg: number;
+  };
+  weedUrl: string;
+}) {
+  return (
+    <a
+      href={`${weedUrl}/menu`}
+      target="_blank"
+      rel="noopener noreferrer"
+      className="group bg-clinical-50 rounded-xl p-4 hover:bg-clinical-100 transition-colors border border-clinical-100 hover:border-clinical-200"
+    >
+      <div className="flex items-start justify-between gap-2 mb-3">
+        <h3 className="font-semibold text-clinical-800 text-sm leading-tight line-clamp-2 group-hover:text-safety transition-colors">
+          {product.productName}
+        </h3>
+        <span className={`shrink-0 px-2 py-0.5 text-[10px] font-bold rounded border ${priceCategoryStyles[product.priceCategory]}`}>
+          {priceCategoryLabels[product.priceCategory]}
+        </span>
+      </div>
+
+      <div className="flex items-end justify-between">
+        <div>
+          <p className="text-xl font-bold text-clinical-900">{product.priceFormatted}</p>
+          <p className="text-[10px] text-clinical-500">pro Gramm</p>
+        </div>
+        <div className="text-right">
+          <p className="text-[10px] text-clinical-400">
+            Markt: {formatCents(product.marketMin)} - {formatCents(product.marketMax)}
+          </p>
+          <p className="text-[10px] text-clinical-400">
+            Ø {formatCents(product.marketAvg)}
+          </p>
+        </div>
+      </div>
+    </a>
   );
 }
 

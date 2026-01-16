@@ -27,6 +27,8 @@ export type {
   ProductPageData,
   CityPageData,
   PharmacyPageData,
+  PharmacyProductItem,
+  PharmacyInventoryData,
   BrandPageData,
   ApothekeHubPageData,
   CategoryPageData,

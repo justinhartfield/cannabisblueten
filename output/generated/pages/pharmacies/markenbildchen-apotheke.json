@@ -43,14 +43,14 @@
       "slug": "pharmablute",
       "name": "PharmaBlüte",
       "cityName": "Mainz",
-      "productCount": 126,
+      "productCount": 125,
       "hasDelivery": true
     },
     {
       "slug": "cannabis4me",
       "name": "cannabis4me",
       "cityName": "Bad Neuenahr-Ahrweiler",
-      "productCount": 89,
+      "productCount": 91,
       "hasDelivery": true
     },
     {
@@ -61,6 +61,135 @@
       "hasDelivery": false
     }
   ],
+  "products": [
+    {
+      "productName": "AMP ZEN RBX THC25 White Wedding Cake RBX",
+      "price": 500,
+      "priceFormatted": "5,00 €",
+      "priceCategory": "excellent",
+      "rank": 18,
+      "marketMin": 476,
+      "marketMax": 940,
+      "marketAvg": 663
+    },
+    {
+      "productName": "Cannamedical Hybrid classic BC",
+      "price": 650,
+      "priceFormatted": "6,50 €",
+      "priceCategory": "high",
+      "rank": 31,
+      "marketMin": 599,
+      "marketMax": 650,
+      "marketAvg": 625
+    },
+    {
+      "productName": "Demecan Core Skywave 21:01",
+      "price": 650,
+      "priceFormatted": "6,50 €",
+      "priceCategory": "average",
+      "rank": 88,
+      "marketMin": 499,
+      "marketMax": 780,
+      "marketAvg": 633
+    },
+    {
+      "productName": "Cannamedical Indica forte EJ",
+      "price": 830,
+      "priceFormatted": "8,30 €",
+      "priceCategory": "excellent",
+      "rank": 105,
+      "marketMin": 599,
+      "marketMax": 1890,
+      "marketAvg": 1084
+    },
+    {
+      "productName": "Cannamedical CM 30/1 DM",
+      "price": 920,
+      "priceFormatted": "9,20 €",
+      "priceCategory": "average",
+      "rank": 129,
+      "marketMin": 778,
+      "marketMax": 999,
+      "marketAvg": 873
+    },
+    {
+      "productName": "Bediol (granuliert)",
+      "price": 1580,
+      "priceFormatted": "15,80 €",
+      "priceCategory": "high",
+      "rank": 141,
+      "marketMin": 1249,
+      "marketMax": 1580,
+      "marketAvg": 1332
+    },
+    {
+      "productName": "Cannamedical Sativa forte TC",
+      "price": 950,
+      "priceFormatted": "9,50 €",
+      "priceCategory": "average",
+      "rank": 192,
+      "marketMin": 683,
+      "marketMax": 1340,
+      "marketAvg": 892
+    },
+    {
+      "productName": "Roxton Air BD 25/1",
+      "price": 550,
+      "priceFormatted": "5,50 €",
+      "priceCategory": "average",
+      "rank": 198,
+      "marketMin": 425,
+      "marketMax": 595,
+      "marketAvg": 515
+    },
+    {
+      "productName": "Cannamedical Sativa Classic MA LS",
+      "price": 900,
+      "priceFormatted": "9,00 €",
+      "priceCategory": "average",
+      "rank": 218,
+      "marketMin": 699,
+      "marketMax": 1090,
+      "marketAvg": 849
+    },
+    {
+      "productName": "Luana 20/1 Grape LA",
+      "price": 650,
+      "priceFormatted": "6,50 €",
+      "priceCategory": "high",
+      "rank": 219,
+      "marketMin": 378,
+      "marketMax": 650,
+      "marketAvg": 479
+    },
+    {
+      "productName": "IMC THC 22 T01",
+      "price": 650,
+      "priceFormatted": "6,50 €",
+      "priceCategory": "average",
+      "rank": 238,
+      "marketMin": 359,
+      "marketMax": 1019,
+      "marketAvg": 679
+    },
+    {
+      "productName": "Avaay Signature 26/1 WB",
+      "price": 915,
+      "priceFormatted": "9,15 €",
+      "priceCategory": "average",
+      "rank": 243,
+      "marketMin": 499,
+      "marketMax": 1180,
+      "marketAvg": 824
+    }
+  ],
+  "pricingStats": {
+    "avgPrice": 823,
+    "minPrice": 500,
+    "maxPrice": 1580,
+    "excellentCount": 5,
+    "goodCount": 0
+  },
   "seo": {
     "meta": {
       "title": "Markenbildchen Apotheke - Cannabis Apotheke in Koblenz",

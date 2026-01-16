@@ -29,7 +29,7 @@
       "slug": "florians-vital-apotheke",
       "name": "Florians Vital Apotheke",
       "cityName": "Esslingen am Neckar",
-      "productCount": 248,
+      "productCount": 241,
       "hasDelivery": true
     },
     {
@@ -43,14 +43,14 @@
       "slug": "karlchengras",
       "name": "Karlchengras (Karl-Apotheke)",
       "cityName": "Karlsruhe",
-      "productCount": 189,
+      "productCount": 190,
       "hasDelivery": true
     },
     {
       "slug": "idris-apotheke-oder-3leafs",
       "name": "Idris Apotheke | 3Leafs",
       "cityName": "Weinheim",
-      "productCount": 148,
+      "productCount": 149,
       "hasDelivery": true
     },
     {
@@ -61,6 +61,125 @@
       "hasDelivery": true
     }
   ],
+  "products": [
+    {
+      "productName": "Cannamedical Sativa classic NM GD",
+      "price": 1090,
+      "priceFormatted": "10,90 €",
+      "priceCategory": "high",
+      "rank": 4,
+      "marketMin": 699,
+      "marketMax": 1090,
+      "marketAvg": 1054
+    },
+    {
+      "productName": "Luana 23/1 Donny B",
+      "price": 655,
+      "priceFormatted": "6,55 €",
+      "priceCategory": "high",
+      "rank": 183,
+      "marketMin": 430,
+      "marketMax": 655,
+      "marketAvg": 523
+    },
+    {
+      "productName": "Cannamedical Hybrid Forte 24/1 NM GZ",
+      "price": 1060,
+      "priceFormatted": "10,60 €",
+      "priceCategory": "average",
+      "rank": 351,
+      "marketMin": 567,
+      "marketMax": 1468,
+      "marketAvg": 874
+    },
+    {
+      "productName": "Cannamedical CM 31/1 SPC",
+      "price": 1092,
+      "priceFormatted": "10,92 €",
+      "priceCategory": "high",
+      "rank": 552,
+      "marketMin": 698,
+      "marketMax": 1092,
+      "marketAvg": 879
+    },
+    {
+      "productName": "Pedanios 31/1 CMK-CA",
+      "price": 1179,
+      "priceFormatted": "11,79 €",
+      "priceCategory": "average",
+      "rank": 880,
+      "marketMin": 673,
+      "marketMax": 1500,
+      "marketAvg": 858
+    },
+    {
+      "productName": "Cannamedical Indica forte EJ",
+      "price": 1290,
+      "priceFormatted": "12,90 €",
+      "priceCategory": "average",
+      "rank": 983,
+      "marketMin": 599,
+      "marketMax": 1890,
+      "marketAvg": 1084
+    },
+    {
+      "productName": "Pedanios 31/1 PND-CA",
+      "price": 1179,
+      "priceFormatted": "11,79 €",
+      "priceCategory": "average",
+      "rank": 1115,
+      "marketMin": 678,
+      "marketMax": 2140,
+      "marketAvg": 908
+    },
+    {
+      "productName": "TRUU GT 25:01",
+      "price": 714,
+      "priceFormatted": "7,14 €",
+      "priceCategory": "high",
+      "rank": 1191,
+      "marketMin": 469,
+      "marketMax": 750,
+      "marketAvg": 583
+    },
+    {
+      "productName": "Pedanios 27/1 BLY-CA",
+      "price": 1179,
+      "priceFormatted": "11,79 €",
+      "priceCategory": "average",
+      "rank": 1257,
+      "marketMin": 600,
+      "marketMax": 1430,
+      "marketAvg": 806
+    },
+    {
+      "productName": "Pedanios 29/1 SRD-CA",
+      "price": 1090,
+      "priceFormatted": "10,90 €",
+      "priceCategory": "average",
+      "rank": 1820,
+      "marketMin": 596,
+      "marketMax": 1316,
+      "marketAvg": 789
+    },
+    {
+      "productName": "Pedanios 31/1 COS-CA",
+      "price": 1179,
+      "priceFormatted": "11,79 €",
+      "priceCategory": "average",
+      "rank": 2186,
+      "marketMin": 679,
+      "marketMax": 2140,
+      "marketAvg": 910
+    }
+  ],
+  "pricingStats": {
+    "avgPrice": 1064,
+    "minPrice": 655,
+    "maxPrice": 1290,
+    "excellentCount": 0,
+    "goodCount": 0
+  },
   "seo": {
     "meta": {
       "title": "Pestalozzi Apotheke - Cannabis Apotheke in Lörrach",

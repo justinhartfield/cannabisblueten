@@ -43,14 +43,14 @@
       "slug": "pharmablute",
       "name": "PharmaBlüte",
       "cityName": "Mainz",
-      "productCount": 126,
+      "productCount": 125,
       "hasDelivery": true
     },
     {
       "slug": "cannabis4me",
       "name": "cannabis4me",
       "cityName": "Bad Neuenahr-Ahrweiler",
-      "productCount": 89,
+      "productCount": 91,
       "hasDelivery": true
     },
     {
@@ -61,6 +61,125 @@
       "hasDelivery": false
     }
   ],
+  "products": [
+    {
+      "productName": "Drapalin 24/1 Full Gas",
+      "price": 870,
+      "priceFormatted": "8,70 €",
+      "priceCategory": "high",
+      "rank": 301,
+      "marketMin": 475,
+      "marketMax": 870,
+      "marketAvg": 588
+    },
+    {
+      "productName": "BC Green HGH 25/1",
+      "price": 750,
+      "priceFormatted": "7,50 €",
+      "priceCategory": "average",
+      "rank": 320,
+      "marketMin": 499,
+      "marketMax": 1250,
+      "marketAvg": 683
+    },
+    {
+      "productName": "Canify Cannabis flos 8/9 LS Ku.",
+      "price": 899,
+      "priceFormatted": "8,99 €",
+      "priceCategory": "average",
+      "rank": 427,
+      "marketMin": 675,
+      "marketMax": 1050,
+      "marketAvg": 823
+    },
+    {
+      "productName": "Demecan Core Echo 27:01",
+      "price": 730,
+      "priceFormatted": "7,30 €",
+      "priceCategory": "high",
+      "rank": 452,
+      "marketMin": 449,
+      "marketMax": 790,
+      "marketAvg": 630
+    },
+    {
+      "productName": "Demecan CRAFT Pulso 31:01",
+      "price": 1080,
+      "priceFormatted": "10,80 €",
+      "priceCategory": "average",
+      "rank": 755,
+      "marketMin": 780,
+      "marketMax": 1452,
+      "marketAvg": 944
+    },
+    {
+      "productName": "ZOIKS 22/1 LK OG",
+      "price": 948,
+      "priceFormatted": "9,48 €",
+      "priceCategory": "high",
+      "rank": 922,
+      "marketMin": 439,
+      "marketMax": 948,
+      "marketAvg": 543
+    },
+    {
+      "productName": "AVAAY Signature 28/1 WB",
+      "price": 1099,
+      "priceFormatted": "10,99 €",
+      "priceCategory": "high",
+      "rank": 1178,
+      "marketMin": 824,
+      "marketMax": 1125,
+      "marketAvg": 968
+    },
+    {
+      "productName": "Demecan Craft Rocket 28:01 Pave x Gastro Pop",
+      "price": 1090,
+      "priceFormatted": "10,90 €",
+      "priceCategory": "high",
+      "rank": 1219,
+      "marketMin": 630,
+      "marketMax": 1090,
+      "marketAvg": 814
+    },
+    {
+      "productName": "TRUU GT 25:01",
+      "price": 750,
+      "priceFormatted": "7,50 €",
+      "priceCategory": "high",
+      "rank": 1221,
+      "marketMin": 469,
+      "marketMax": 750,
+      "marketAvg": 583
+    },
+    {
+      "productName": "ZOIKS 26/1 BB",
+      "price": 700,
+      "priceFormatted": "7,00 €",
+      "priceCategory": "average",
+      "rank": 1609,
+      "marketMin": 455,
+      "marketMax": 968,
+      "marketAvg": 592
+    },
+    {
+      "productName": "Bedrocan Cannabis Flos 22/1 Afina",
+      "price": 1811,
+      "priceFormatted": "18,11 €",
+      "priceCategory": "high",
+      "rank": 2252,
+      "marketMin": 429,
+      "marketMax": 2116,
+      "marketAvg": 905
+    }
+  ],
+  "pricingStats": {
+    "avgPrice": 975,
+    "minPrice": 700,
+    "maxPrice": 1811,
+    "excellentCount": 0,
+    "goodCount": 0
+  },
   "seo": {
     "meta": {
       "title": "Flora Apotheke - Cannabis Apotheke in Kastellaun",
