@@ -1,0 +1,507 @@
+<!DOCTYPE html>
+<html lang="de" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gorilla Glue #4 (GG4) | Strain Profil & Preisvergleich | CanNavi</title>
+    
+    <!-- Fonts & Scripts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+    
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: { sans: ['Manrope', 'sans-serif'] },
+                    colors: {
+                        clinical: {
+                            50: '#f4f7f6',
+                            100: '#e3eae8',
+                            200: '#c7d5d2',
+                            600: '#3d5a54',
+                            800: '#1a3c34', 
+                            900: '#0f241f',
+                        },
+                        accent: '#cfdbd5',
+                        safety: '#006d77',
+                    },
+                    animation: {
+                        'pulse-slow': 'pulse 6s cubic-bezier(0.4, 0, 0.6, 1) infinite',
+                        'float': 'float 3s ease-in-out infinite',
+                        'slide-up': 'slideUp 0.5s ease-out forwards',
+                    },
+                    keyframes: {
+                        float: {
+                            '0%, 100%': { transform: 'translateY(0px)' },
+                            '50%': { transform: 'translateY(-10px)' },
+                        },
+                        slideUp: {
+                            '0%': { opacity: 0, transform: 'translateY(20px)' },
+                            '100%': { opacity: 1, transform: 'translateY(0)' },
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+
+    <style>
+        [x-cloak] { display: none !important; }
+
+        body {
+            background-color: #f8faf9;
+            color: #1a3c34;
+            overflow-x: hidden;
+        }
+
+        .noise-overlay {
+            position: fixed;
+            top: 0; left: 0; width: 100%; height: 100%;
+            pointer-events: none;
+            z-index: 9999;
+            opacity: 0.04;
+            background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3BaseFilter id='filter'%3BfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23filter)'/%3E%3C/svg%3E");
+        }
+
+        .hyper-border {
+            position: relative;
+            background: white;
+            border-radius: 12px;
+            transition: all 0.4s cubic-bezier(0.23, 1, 0.32, 1);
+        }
+        .hyper-border::before {
+            content: '';
+            position: absolute;
+            inset: -1px;
+            background: linear-gradient(135deg, #3d5a54 0%, transparent 40%, transparent 60%, #3d5a54 100%);
+            border-radius: 13px;
+            z-index: -1;
+            opacity: 0.2;
+        }
+
+        .glass-panel {
+            background: rgba(255, 255, 255, 0.75);
+            backdrop-filter: blur(16px);
+            -webkit-backdrop-filter: blur(16px);
+            border: 1px solid rgba(255, 255, 255, 0.4);
+        }
+
+        .offer-row:hover {
+            background: linear-gradient(90deg, rgba(244, 247, 246, 1) 0%, rgba(244, 247, 246, 0) 100%);
+        }
+
+        /* Custom Table Scroll for Mobile */
+        .custom-scrollbar::-webkit-scrollbar { height: 4px; }
+        .custom-scrollbar::-webkit-scrollbar-thumb { background: #c7d5d2; border-radius: 10px; }
+
+        .terpene-bar {
+            height: 8px;
+            border-radius: 4px;
+            background: #e3eae8;
+            overflow: hidden;
+            position: relative;
+        }
+        .terpene-fill {
+            height: 100%;
+            background: #006d77;
+            border-radius: 4px;
+            transition: width 1s ease-out;
+        }
+    </style>
+</head>
+<body class="min-h-screen flex flex-col font-sans" x-data="{ sortCol: 'price', sortAsc: true, activeFaq: null }">
+    <div class="noise-overlay"></div>
+
+    <!-- Navigation -->
+    <nav class="sticky top-0 z-50 glass-panel border-b border-clinical-100">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between h-16 items-center">
+                <div class="flex items-center gap-8">
+                    <a href="/" class="flex items-center space-x-2 group">
+                        <div class="w-8 h-8 bg-clinical-800 rounded-lg flex items-center justify-center group-hover:rotate-45 transition-transform duration-500">
+                            <span class="text-white font-bold">+</span>
+                        </div>
+                        <span class="text-xl font-extrabold tracking-tighter text-clinical-900 uppercase">CanNavi</span>
+                    </a>
+                    <div class="hidden md:flex space-x-6 text-sm font-medium text-clinical-600">
+                        <a href="/products/cannabisblueten" class="text-clinical-900 font-bold border-b-2 border-clinical-800">Blüten</a>
+                        <a href="/products/extracts" class="hover:text-clinical-900 transition-colors">Extrakte</a>
+                        <a href="/cannabis-apotheke" class="hover:text-clinical-900 transition-colors">Apotheken</a>
+                    </div>
+                </div>
+                <div class="flex items-center gap-4">
+                    <button class="bg-clinical-800 text-white px-5 py-2 text-sm font-semibold rounded-full hover:bg-clinical-900 transition-all shadow-lg shadow-clinical-800/20">Rezept einlösen</button>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <main class="flex-grow">
+        <!-- Breadcrumbs -->
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-6">
+            <nav class="flex text-[10px] font-bold tracking-widest uppercase text-clinical-200" aria-label="Breadcrumb">
+                <ol class="flex items-center space-x-2">
+                    <li><a href="/" class="hover:text-clinical-600">Home</a></li>
+                    <li><span class="mx-2 opacity-50">/</span></li>
+                    <li><a href="/products/cannabisblueten" class="hover:text-clinical-600">Blüten</a></li>
+                    <li><span class="mx-2 opacity-50">/</span></li>
+                    <li class="text-clinical-600">Gorilla Glue #4</li>
+                </ol>
+            </nav>
+        </div>
+
+        <!-- Hero Section -->
+        <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-10 pb-12">
+            <div class="grid grid-cols-1 lg:grid-cols-12 gap-12 items-start">
+                
+                <!-- Left: Info -->
+                <div class="lg:col-span-7">
+                    <div class="flex items-center gap-3 mb-4">
+                        <span class="px-2 py-0.5 rounded bg-clinical-100 text-clinical-800 text-[10px] font-black uppercase tracking-tighter">Hybrid Dominant</span>
+                        <span class="px-2 py-0.5 rounded bg-safety/10 text-safety text-[10px] font-black uppercase tracking-tighter">Verfügbar</span>
+                    </div>
+                    <h1 class="text-5xl md:text-6xl font-extrabold text-clinical-900 leading-[1.05] mb-6">
+                        Gorilla Glue #4 <br/>
+                        <span class="text-clinical-600 opacity-50 font-light italic text-4xl md:text-5xl">(GG4)</span>
+                    </h1>
+                    <p class="text-lg text-clinical-600 leading-relaxed mb-8 max-w-2xl">
+                        Ein weltweit geschätzter Kultivar, bekannt für seine extrem klebrigen Trichome und eine intensive, körperbetonte Entspannung. GG4 wird in der Schmerztherapie und bei Schlafstörungen aufgrund seines hohen THC-Gehalts und spezifischen Terpenprofils bevorzugt eingesetzt.
+                    </p>
+
+                    <!-- Key Stats Strip -->
+                    <div class="grid grid-cols-2 md:grid-cols-4 gap-4 p-6 bg-white border border-clinical-100 rounded-2xl shadow-sm">
+                        <div>
+                            <p class="text-[10px] uppercase font-bold text-clinical-200 mb-1 tracking-widest">THC Gehalt</p>
+                            <p class="text-2xl font-black text-clinical-900">22 - 28%</p>
+                        </div>
+                        <div>
+                            <p class="text-[10px] uppercase font-bold text-clinical-200 mb-1 tracking-widest">CBD Gehalt</p>
+                            <p class="text-2xl font-black text-clinical-900">&lt; 1%</p>
+                        </div>
+                        <div>
+                            <p class="text-[10px] uppercase font-bold text-clinical-200 mb-1 tracking-widest">Genetik</p>
+                            <p class="text-xl font-bold text-clinical-900">Sativa-Lastig</p>
+                        </div>
+                        <div>
+                            <p class="text-[10px] uppercase font-bold text-clinical-200 mb-1 tracking-widest">Angebote</p>
+                            <p class="text-2xl font-black text-safety">12 Stk.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Right: Visual/Media -->
+                <div class="lg:col-span-5 relative group">
+                    <div class="aspect-square rounded-[2rem] overflow-hidden hyper-border p-2 bg-clinical-50">
+                        <img src="https://images.unsplash.com/photo-1603909223429-69bb7101f420?auto=format&fit=crop&q=80&w=800" alt="Gorilla Glue #4 Close-up" class="w-full h-full object-cover rounded-[1.8rem] transition-transform duration-700 group-hover:scale-110">
+                        <div class="absolute inset-0 bg-gradient-to-t from-clinical-900/40 to-transparent"></div>
+                    </div>
+                    <!-- Hover Badge -->
+                    <div class="absolute -bottom-4 -left-4 bg-white p-4 rounded-2xl shadow-2xl border border-clinical-100 flex items-center gap-4">
+                        <div class="w-12 h-12 rounded-full bg-clinical-50 flex items-center justify-center text-clinical-800">
+                            <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"/></svg>
+                        </div>
+                        <div>
+                            <p class="text-xs font-black uppercase text-clinical-900">Laborgeprüft</p>
+                            <p class="text-[10px] text-clinical-600">Zertifizierte GMP-Qualität</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Terpene & Effects Module -->
+        <section class="bg-clinical-900 py-20 text-white overflow-hidden relative">
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                <div class="grid lg:grid-cols-2 gap-16 items-center">
+                    <div>
+                        <h2 class="text-3xl font-extrabold mb-8">Therapeutisches Profil</h2>
+                        <div class="space-y-6">
+                            <!-- Terpene Item -->
+                            <div class="space-y-2">
+                                <div class="flex justify-between text-sm">
+                                    <span class="font-bold">Caryophyllen</span>
+                                    <span class="text-clinical-200">Dominant (34%)</span>
+                                </div>
+                                <div class="terpene-bar"><div class="terpene-fill" style="width: 85%;"></div></div>
+                                <p class="text-xs text-clinical-200 opacity-60 italic">Würzig, pfeffrig. Bekannt für entzündungshemmende Eigenschaften.</p>
+                            </div>
+                            <!-- Terpene Item -->
+                            <div class="space-y-2">
+                                <div class="flex justify-between text-sm">
+                                    <span class="font-bold">Myrcen</span>
+                                    <span class="text-clinical-200">Präsent (22%)</span>
+                                </div>
+                                <div class="terpene-bar"><div class="terpene-fill" style="width: 60%;"></div></div>
+                                <p class="text-xs text-clinical-200 opacity-60 italic">Erdig, moschusartig. Unterstützt die sedierende Wirkung.</p>
+                            </div>
+                            <!-- Terpene Item -->
+                            <div class="space-y-2">
+                                <div class="flex justify-between text-sm">
+                                    <span class="font-bold">Limonen</span>
+                                    <span class="text-clinical-200">Subtil (12%)</span>
+                                </div>
+                                <div class="terpene-bar"><div class="terpene-fill" style="width: 35%;"></div></div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="grid grid-cols-2 gap-4">
+                        <div class="bg-white/5 backdrop-blur-md border border-white/10 p-6 rounded-2xl">
+                            <div class="w-10 h-10 rounded-lg bg-safety/20 flex items-center justify-center mb-4">
+                                <svg class="w-6 h-6 text-safety" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z"/></svg>
+                            </div>
+                            <h4 class="font-bold mb-2">Schlafqualität</h4>
+                            <p class="text-xs text-clinical-100/70 leading-relaxed">Stark sedierend in höheren Dosierungen, ideal für die abendliche Anwendung.</p>
+                        </div>
+                        <div class="bg-white/5 backdrop-blur-md border border-white/10 p-6 rounded-2xl">
+                            <div class="w-10 h-10 rounded-lg bg-clinical-100/20 flex items-center justify-center mb-4">
+                                <svg class="w-6 h-6 text-clinical-100" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/></svg>
+                            </div>
+                            <h4 class="font-bold mb-2">Pain Relief</h4>
+                            <p class="text-xs text-clinical-100/70 leading-relaxed">Häufig verschrieben bei chronischen Rücken- und neuropathischen Schmerzen.</p>
+                        </div>
+                        <div class="bg-white/5 backdrop-blur-md border border-white/10 p-6 rounded-2xl col-span-2">
+                            <h4 class="font-bold mb-2 flex items-center gap-2">
+                                <span class="w-2 h-2 rounded-full bg-yellow-400"></span>
+                                Patienten-Feedback
+                            </h4>
+                            <p class="text-sm italic text-clinical-100/70">"Hilft mir extrem bei meinen Einschlafstörungen. Die körperliche Entspannung tritt nach ca. 15 Minuten ein."</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Offers Table (Dominant Module) -->
+        <section id="offers" class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-24">
+            <div class="flex flex-col md:flex-row justify-between items-end mb-10 gap-6">
+                <div>
+                    <h2 class="text-3xl font-extrabold text-clinical-900 mb-2">Aktuelle Angebote</h2>
+                    <p class="text-clinical-600">Vergleichen Sie Preise und Verfügbarkeit bei 12 Partner-Apotheken.</p>
+                </div>
+                <div class="flex gap-2">
+                    <button class="px-4 py-2 bg-clinical-50 text-clinical-800 rounded-lg text-sm font-bold border border-clinical-100">Sortieren: Günstigster Preis</button>
+                    <button class="px-4 py-2 bg-clinical-800 text-white rounded-lg text-sm font-bold shadow-lg">Filter</button>
+                </div>
+            </div>
+
+            <div class="bg-white rounded-3xl shadow-xl border border-clinical-100 overflow-hidden">
+                <div class="overflow-x-auto custom-scrollbar">
+                    <table class="w-full text-left border-collapse">
+                        <thead>
+                            <tr class="bg-clinical-50/50 text-clinical-600 text-[10px] uppercase tracking-widest font-black">
+                                <th class="px-8 py-5">Apotheke</th>
+                                <th class="px-8 py-5">Produktname</th>
+                                <th class="px-8 py-5">Status</th>
+                                <th class="px-8 py-5 text-right">Preis / g</th>
+                                <th class="px-8 py-5 text-right">Aktion</th>
+                            </tr>
+                        </thead>
+                        <tbody class="divide-y divide-clinical-50">
+                            <!-- Row 1 -->
+                            <tr class="offer-row transition-colors group">
+                                <td class="px-8 py-6">
+                                    <div class="flex items-center gap-4">
+                                        <div class="w-10 h-10 bg-clinical-100 rounded-full flex items-center justify-center font-bold text-clinical-800">G</div>
+                                        <div>
+                                            <p class="font-bold text-clinical-900">Grünhorn Apotheke</p>
+                                            <p class="text-[10px] text-clinical-600">Leipzig • Versand & Vor Ort</p>
+                                        </div>
+                                    </div>
+                                </td>
+                                <td class="px-8 py-6">
+                                    <p class="text-sm font-medium">420 Natural 22/1 CA GG</p>
+                                </td>
+                                <td class="px-8 py-6">
+                                    <span class="px-2 py-1 rounded bg-green-100 text-green-700 text-[10px] font-bold uppercase">Sofort lieferbar</span>
+                                </td>
+                                <td class="px-8 py-6 text-right">
+                                    <p class="text-lg font-black text-clinical-900">7,45 €</p>
+                                </td>
+                                <td class="px-8 py-6 text-right">
+                                    <button class="bg-clinical-800 text-white px-6 py-2 rounded-xl text-xs font-bold hover:bg-safety transition-all">Zum Shop</button>
+                                </td>
+                            </tr>
+                            <!-- Row 2 -->
+                            <tr class="offer-row transition-colors group">
+                                <td class="px-8 py-6">
+                                    <div class="flex items-center gap-4">
+                                        <div class="w-10 h-10 bg-clinical-100 rounded-full flex items-center justify-center font-bold text-clinical-800">C</div>
+                                        <div>
+                                            <p class="font-bold text-clinical-900">Cannalivery</p>
+                                            <p class="text-[10px] text-clinical-600">München • Express Versand</p>
+                                        </div>
+                                    </div>
+                                </td>
+                                <td class="px-8 py-6">
+                                    <p class="text-sm font-medium">Demecan GG #4 25:1</p>
+                                </td>
+                                <td class="px-8 py-6">
+                                    <span class="px-2 py-1 rounded bg-green-100 text-green-700 text-[10px] font-bold uppercase">Sofort lieferbar</span>
+                                </td>
+                                <td class="px-8 py-6 text-right">
+                                    <p class="text-lg font-black text-clinical-900">8,10 €</p>
+                                </td>
+                                <td class="px-8 py-6 text-right">
+                                    <button class="bg-clinical-800 text-white px-6 py-2 rounded-xl text-xs font-bold hover:bg-safety transition-all">Zum Shop</button>
+                                </td>
+                            </tr>
+                             <!-- Row 3 -->
+                             <tr class="offer-row transition-colors group">
+                                <td class="px-8 py-6">
+                                    <div class="flex items-center gap-4">
+                                        <div class="w-10 h-10 bg-clinical-100 rounded-full flex items-center justify-center font-bold text-clinical-800">B</div>
+                                        <div>
+                                            <p class="font-bold text-clinical-900">Bloomwell</p>
+                                            <p class="text-[10px] text-clinical-600">Digital-Apotheke</p>
+                                        </div>
+                                    </div>
+                                </td>
+                                <td class="px-8 py-6">
+                                    <p class="text-sm font-medium">Cantura GG No. 4</p>
+                                </td>
+                                <td class="px-8 py-6">
+                                    <span class="px-2 py-1 rounded bg-yellow-100 text-yellow-700 text-[10px] font-bold uppercase">In 2-3 Tagen</span>
+                                </td>
+                                <td class="px-8 py-6 text-right">
+                                    <p class="text-lg font-black text-clinical-900">6,90 €</p>
+                                </td>
+                                <td class="px-8 py-6 text-right">
+                                    <button class="bg-clinical-800 text-white px-6 py-2 rounded-xl text-xs font-bold hover:bg-safety transition-all">Zum Shop</button>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+        <!-- FAQ Accordion -->
+        <section class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-24 border-t border-clinical-100">
+            <h2 class="text-3xl font-extrabold text-clinical-900 mb-12 text-center">Medizinische Fragen & Antworten</h2>
+            <div class="space-y-4">
+                <div class="hyper-border p-1">
+                    <button @click="activeFaq === 1 ? activeFaq = null : activeFaq = 1" class="w-full flex items-center justify-between p-6 text-left group">
+                        <span class="font-bold text-clinical-900">Bei welchen Indikationen wird Gorilla Glue #4 verschrieben?</span>
+                        <svg class="w-5 h-5 transition-transform" :class="activeFaq === 1 ? 'rotate-180' : ''" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+                    </button>
+                    <div x-show="activeFaq === 1" x-collapse class="px-6 pb-6 text-clinical-600 text-sm leading-relaxed">
+                        Aufgrund seiner starken Potenz wird GG4 häufig bei chronischen Schmerzen, MS-bedingter Spastik, ADHS (unter ärztlicher Aufsicht) und schweren Schlafstörungen eingesetzt. Die entspannende Wirkung kann helfen, Muskelverspannungen effektiv zu lösen.
+                    </div>
+                </div>
+
+                <div class="hyper-border p-1">
+                    <button @click="activeFaq === 2 ? activeFaq = null : activeFaq = 2" class="w-full flex items-center justify-between p-6 text-left group">
+                        <span class="font-bold text-clinical-900">Welche Nebenwirkungen sind typisch für diesen Kultivar?</span>
+                        <svg class="w-5 h-5 transition-transform" :class="activeFaq === 2 ? 'rotate-180' : ''" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+                    </button>
+                    <div x-show="activeFaq === 2" x-collapse class="px-6 pb-6 text-clinical-600 text-sm leading-relaxed">
+                        Wie bei den meisten THC-reichen Sorten kann es zu Mundtrockenheit, geröteten Augen und in seltenen Fällen zu einer gesteigerten Herzfrequenz kommen. Patienten berichten gelegentlich von einem "Couch-Lock"-Effekt, der die Mobilität kurzzeitig einschränken kann.
+                    </div>
+                </div>
+
+                <div class="hyper-border p-1">
+                    <button @click="activeFaq === 3 ? activeFaq = null : activeFaq = 3" class="w-full flex items-center justify-between p-6 text-left group">
+                        <span class="font-bold text-clinical-900">Kann GG4 tagsüber eingenommen werden?</span>
+                        <svg class="w-5 h-5 transition-transform" :class="activeFaq === 3 ? 'rotate-180' : ''" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+                    </button>
+                    <div x-show="activeFaq === 3" x-collapse class="px-6 pb-6 text-clinical-600 text-sm leading-relaxed">
+                        Das kommt auf die individuelle Toleranz und die Dosierung an. Da es sich um eine stark entspannende Hybrid-Sorte handelt, empfiehlt die Mehrheit der Ärzte eine Anwendung am späten Nachmittag oder Abend, um die Konzentrationsfähigkeit im Alltag nicht zu beeinträchtigen.
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Sources & Clinical Data -->
+        <section class="bg-clinical-50 py-16 border-t border-clinical-100">
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                <div class="flex flex-col md:flex-row justify-between items-start gap-8">
+                    <div class="max-w-xl">
+                        <h3 class="text-xs font-black uppercase tracking-widest text-clinical-900 mb-6 flex items-center gap-2">
+                            <svg class="w-4 h-4 text-clinical-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
+                            Wissenschaftliche Quellen
+                        </h3>
+                        <ul class="space-y-4 text-xs text-clinical-600">
+                            <li class="flex gap-2">
+                                <span class="font-bold">[1]</span>
+                                <span>Terpene Profile Analysis: Beta-Caryophyllene in Chronic Pain Management. Journal of Ethno-Pharmacology (2022).</span>
+                            </li>
+                            <li class="flex gap-2">
+                                <span class="font-bold">[2]</span>
+                                <span>Cannabinoid content in commercial Gorilla Glue cultivars: A multi-lab study (2023).</span>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="bg-white p-6 rounded-2xl border border-clinical-100 flex-shrink-0">
+                        <p class="text-[10px] font-bold text-clinical-200 uppercase mb-2">Letztes Update</p>
+                        <p class="text-sm font-bold text-clinical-900">14. Oktober 2024 • 14:22 Uhr</p>
+                        <p class="text-[10px] text-clinical-600 mt-2 italic">Preise & Bestände werden alle 15 Min. synchronisiert.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-white border-t border-clinical-100 pt-16 pb-8">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-12 mb-16">
+                <div class="col-span-2">
+                    <a href="/" class="flex items-center space-x-2 mb-6">
+                        <div class="w-8 h-8 bg-clinical-800 rounded-lg flex items-center justify-center text-white font-bold">+</div>
+                        <span class="text-xl font-extrabold tracking-tighter text-clinical-900 uppercase">CanNavi</span>
+                    </a>
+                    <p class="text-clinical-600 max-w-xs mb-6">Ihr verlässlicher Begleiter für medizinisches Cannabis in Deutschland. Neutral, aktuell und transparent.</p>
+                </div>
+                <div>
+                    <h4 class="font-bold text-clinical-900 mb-6">Produkte</h4>
+                    <ul class="space-y-4 text-sm text-clinical-600">
+                        <li><a href="#" class="hover:text-clinical-900">Blüten Finder</a></li>
+                        <li><a href="#" class="hover:text-clinical-900">Extrakte</a></li>
+                        <li><a href="#" class="hover:text-clinical-900">Top-Sorten</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h4 class="font-bold text-clinical-900 mb-6">Plattform</h4>
+                    <ul class="space-y-4 text-sm text-clinical-600">
+                        <li><a href="#" class="hover:text-clinical-900">Für Apotheken</a></li>
+                        <li><a href="#" class="hover:text-clinical-900">API Zugriff</a></li>
+                        <li><a href="#" class="hover:text-clinical-900">Datenschutz</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h4 class="font-bold text-clinical-900 mb-6">Support</h4>
+                    <ul class="space-y-4 text-sm text-clinical-600">
+                        <li><a href="#" class="hover:text-clinical-900">Hilfe Center</a></li>
+                        <li><a href="#" class="hover:text-clinical-900">Kontakt</a></li>
+                        <li><a href="#" class="hover:text-clinical-900">Impressum</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="pt-8 border-t border-clinical-50 flex flex-col md:flex-row justify-between items-center gap-4 text-xs text-clinical-200 font-bold uppercase tracking-widest">
+                <p>© 2024 CanNavi Health Media GmbH.</p>
+                <div class="flex gap-8">
+                    <span>Jugendschutzbeauftragter</span>
+                    <span>ADK Zertifiziert</span>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Mobile Sticky CTA -->
+    <div class="md:hidden fixed bottom-0 left-0 w-full p-4 z-50">
+        <a href="#offers" class="w-full bg-clinical-900 text-white flex items-center justify-between px-6 py-4 rounded-2xl shadow-2xl backdrop-blur-lg">
+            <div>
+                <p class="text-[10px] font-bold text-white/60 uppercase">Gorilla Glue #4</p>
+                <p class="font-bold">12 Angebote ab 6,90 €</p>
+            </div>
+            <span class="bg-safety px-4 py-1.5 rounded-lg text-xs font-bold">Angebote</span>
+        </a>
+    </div>
+
+</body>
+</html>

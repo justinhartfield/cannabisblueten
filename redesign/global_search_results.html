@@ -1,0 +1,420 @@
+<!DOCTYPE html>
+<html lang="de" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Suchergebnisse | CanNavi - Medizinisches Cannabis Verzeichnis</title>
+    
+    <!-- Fonts & Scripts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+    
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: { sans: ['Manrope', 'sans-serif'] },
+                    colors: {
+                        clinical: {
+                            50: '#f4f7f6',
+                            100: '#e3eae8',
+                            200: '#c7d5d2',
+                            600: '#3d5a54',
+                            800: '#1a3c34', 
+                            900: '#0f241f',
+                        },
+                        accent: '#cfdbd5',
+                        safety: '#006d77',
+                    }
+                }
+            }
+        }
+    </script>
+
+    <style>
+        [x-cloak] { display: none !important; }
+
+        body {
+            background-color: #f8faf9;
+            color: #1a3c34;
+            overflow-x: hidden;
+        }
+
+        .noise-overlay {
+            position: fixed;
+            top: 0; left: 0; width: 100%; height: 100%;
+            pointer-events: none;
+            z-index: 9999;
+            opacity: 0.04;
+            background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3BaseFilter id='filter'%3BfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23filter)'/%3E%3C/svg%3E");
+        }
+
+        .glass-panel {
+            background: rgba(255, 255, 255, 0.8);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            border: 1px solid rgba(255, 255, 255, 0.3);
+        }
+
+        .hyper-border {
+            position: relative;
+            background: white;
+            border-radius: 12px;
+            transition: all 0.3s ease;
+        }
+        .hyper-border::before {
+            content: '';
+            position: absolute;
+            inset: -1px;
+            background: linear-gradient(135deg, #3d5a54 0%, transparent 40%, transparent 60%, #3d5a54 100%);
+            border-radius: 13px;
+            z-index: -1;
+            opacity: 0.2;
+        }
+        .hyper-border:hover::before {
+            opacity: 0.6;
+        }
+
+        /* Custom Range Slider Styling */
+        input[type='range']::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 18px;
+            height: 18px;
+            background: #1a3c34;
+            cursor: pointer;
+            border-radius: 50%;
+            border: 2px solid white;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        /* Sticky Filter Sidebar height fix */
+        .filter-sidebar {
+            height: calc(100vh - 120px);
+        }
+    </style>
+</head>
+<body class="min-h-screen flex flex-col font-sans" x-data="{ 
+    activeTab: 'strains', 
+    mobileFilters: false,
+    searchQuery: 'Gorilla',
+    thcRange: 22,
+    priceRange: 12
+}">
+    <div class="noise-overlay"></div>
+
+    <!-- Navigation -->
+    <nav class="sticky top-0 z-50 glass-panel border-b border-clinical-100">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between h-16 items-center">
+                <div class="flex items-center gap-8">
+                    <a href="/" class="flex items-center space-x-2 group">
+                        <div class="w-8 h-8 bg-clinical-800 rounded-lg flex items-center justify-center group-hover:rotate-45 transition-transform duration-500">
+                            <span class="text-white font-bold">+</span>
+                        </div>
+                        <span class="text-xl font-extrabold tracking-tighter text-clinical-900 uppercase">CanNavi</span>
+                    </a>
+                </div>
+                <div class="flex-1 max-w-md mx-8 hidden md:block">
+                    <div class="relative group">
+                        <input type="text" x-model="searchQuery" class="w-full bg-clinical-50 border border-clinical-100 rounded-full py-2 px-10 text-sm focus:outline-none focus:ring-2 focus:ring-clinical-800/20 transition-all">
+                        <svg class="w-4 h-4 absolute left-4 top-1/2 -translate-y-1/2 text-clinical-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/></svg>
+                    </div>
+                </div>
+                <div class="flex items-center gap-4">
+                    <button class="px-4 py-2 text-sm font-semibold text-clinical-800 border border-clinical-200 rounded-full hover:bg-clinical-50 transition-all">Anmelden</button>
+                    <button class="bg-clinical-800 text-white px-5 py-2 text-sm font-semibold rounded-full hover:bg-clinical-900 transition-all shadow-lg shadow-clinical-800/20">Rezept</button>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <main class="flex-grow">
+        <!-- Breadcrumbs -->
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-6">
+            <nav class="flex text-[10px] font-bold tracking-widest uppercase text-clinical-200" aria-label="Breadcrumb">
+                <ol class="flex items-center space-x-2">
+                    <li><a href="/" class="hover:text-clinical-600">Home</a></li>
+                    <li><span class="mx-2">/</span></li>
+                    <li class="text-clinical-600">Suchergebnisse</li>
+                </ol>
+            </nav>
+        </div>
+
+        <!-- Header -->
+        <header class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-8 pb-4">
+            <h1 class="text-3xl md:text-4xl font-extrabold text-clinical-900 tracking-tight">
+                Ergebnisse für <span class="text-safety" x-text="'„' + searchQuery + '“'"></span>
+            </h1>
+            <p class="text-clinical-600 mt-2 font-medium">142 Treffer in Sorten, Produkten und Apotheken gefunden.</p>
+        </header>
+
+        <!-- Search Tabs -->
+        <div class="sticky top-16 z-40 bg-[#f8faf9]/80 backdrop-blur-md border-b border-clinical-100">
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                <div class="flex space-x-8">
+                    <button @click="activeTab = 'strains'" :class="activeTab === 'strains' ? 'border-clinical-800 text-clinical-900' : 'border-transparent text-clinical-400 hover:text-clinical-600'" class="py-4 border-b-2 font-bold text-sm transition-all flex items-center gap-2">
+                        Strains <span class="bg-clinical-100 text-clinical-600 px-2 py-0.5 rounded-full text-[10px]">12</span>
+                    </button>
+                    <button @click="activeTab = 'products'" :class="activeTab === 'products' ? 'border-clinical-800 text-clinical-900' : 'border-transparent text-clinical-400 hover:text-clinical-600'" class="py-4 border-b-2 font-bold text-sm transition-all flex items-center gap-2">
+                        Produkte <span class="bg-clinical-100 text-clinical-600 px-2 py-0.5 rounded-full text-[10px]">84</span>
+                    </button>
+                    <button @click="activeTab = 'pharmacies'" :class="activeTab === 'pharmacies' ? 'border-clinical-800 text-clinical-900' : 'border-transparent text-clinical-400 hover:text-clinical-600'" class="py-4 border-b-2 font-bold text-sm transition-all flex items-center gap-2">
+                        Apotheken <span class="bg-clinical-100 text-clinical-600 px-2 py-0.5 rounded-full text-[10px]">46</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+            <div class="flex flex-col lg:flex-row gap-8">
+                
+                <!-- Desktop Sidebar Filters -->
+                <aside class="hidden lg:block w-64 shrink-0">
+                    <div class="sticky top-40 space-y-8 filter-sidebar overflow-y-auto pr-4">
+                        <div>
+                            <h3 class="text-xs font-black uppercase tracking-widest text-clinical-900 mb-6 flex items-center justify-between">
+                                THC Gehalt
+                                <span class="text-safety normal-case" x-text="thcRange + '%'"></span>
+                            </h3>
+                            <input type="range" x-model="thcRange" min="0" max="35" class="w-full h-1.5 bg-clinical-100 rounded-lg appearance-none cursor-pointer accent-clinical-800">
+                            <div class="flex justify-between mt-2 text-[10px] font-bold text-clinical-200">
+                                <span>0%</span>
+                                <span>35%</span>
+                            </div>
+                        </div>
+
+                        <div>
+                            <h3 class="text-xs font-black uppercase tracking-widest text-clinical-900 mb-6 flex items-center justify-between">
+                                Preis pro Gramm
+                                <span class="text-safety normal-case" x-text="'< ' + priceRange + '€'"></span>
+                            </h3>
+                            <input type="range" x-model="priceRange" min="4" max="25" class="w-full h-1.5 bg-clinical-100 rounded-lg appearance-none cursor-pointer accent-clinical-800">
+                            <div class="flex justify-between mt-2 text-[10px] font-bold text-clinical-200">
+                                <span>4€</span>
+                                <span>25€</span>
+                            </div>
+                        </div>
+
+                        <div class="space-y-4">
+                            <h3 class="text-xs font-black uppercase tracking-widest text-clinical-900 mb-4">Genetik</h3>
+                            <label class="flex items-center gap-3 cursor-pointer group">
+                                <input type="checkbox" checked class="w-4 h-4 rounded border-clinical-200 text-clinical-800 focus:ring-clinical-800">
+                                <span class="text-sm font-medium text-clinical-600 group-hover:text-clinical-900 transition-colors">Indica</span>
+                            </label>
+                            <label class="flex items-center gap-3 cursor-pointer group">
+                                <input type="checkbox" checked class="w-4 h-4 rounded border-clinical-200 text-clinical-800 focus:ring-clinical-800">
+                                <span class="text-sm font-medium text-clinical-600 group-hover:text-clinical-900 transition-colors">Sativa</span>
+                            </label>
+                            <label class="flex items-center gap-3 cursor-pointer group">
+                                <input type="checkbox" class="w-4 h-4 rounded border-clinical-200 text-clinical-800 focus:ring-clinical-800">
+                                <span class="text-sm font-medium text-clinical-600 group-hover:text-clinical-900 transition-colors">Hybrid</span>
+                            </label>
+                        </div>
+
+                        <div class="p-4 bg-clinical-800 rounded-2xl text-white">
+                            <p class="text-xs font-bold opacity-60 mb-1">Newsletter</p>
+                            <p class="text-sm font-bold mb-3 leading-tight">Bestands-Updates erhalten</p>
+                            <input type="email" placeholder="E-Mail" class="w-full bg-white/10 border border-white/20 rounded-lg px-3 py-2 text-xs focus:outline-none mb-2">
+                            <button class="w-full bg-safety text-white text-xs font-bold py-2 rounded-lg hover:bg-safety/80 transition-all">Aktivieren</button>
+                        </div>
+                    </div>
+                </aside>
+
+                <!-- Results Area -->
+                <div class="flex-grow">
+                    
+                    <!-- Sorting & Layout Controls -->
+                    <div class="flex justify-between items-center mb-6">
+                        <p class="text-sm text-clinical-400 font-medium hidden sm:block">Zeige 1-12 von 142 Ergebnissen</p>
+                        <div class="flex gap-2">
+                            <select class="bg-white border border-clinical-100 text-xs font-bold rounded-lg px-4 py-2 focus:outline-none cursor-pointer">
+                                <option>Günstigster Preis</option>
+                                <option>Höchster THC Gehalt</option>
+                                <option>Neueste zuerst</option>
+                                <option>Beliebtheit</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <!-- Strains View -->
+                    <div x-show="activeTab === 'strains'" class="space-y-4" x-transition:enter="transition ease-out duration-300" x-transition:enter-start="opacity-0 translate-y-4" x-transition:enter-end="opacity-100 translate-y-0">
+                        <template x-for="i in 5" :key="i">
+                            <div class="hyper-border group cursor-pointer overflow-hidden border border-clinical-50">
+                                <div class="flex flex-col md:flex-row">
+                                    <div class="w-full md:w-48 h-32 md:h-auto bg-clinical-50 overflow-hidden relative">
+                                        <img src="https://images.unsplash.com/photo-1603909223429-69bb7101f420?auto=format&fit=crop&q=80&w=400" alt="Strain" class="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-700 group-hover:scale-110">
+                                        <div class="absolute top-2 left-2 px-2 py-1 bg-white/90 backdrop-blur text-[9px] font-black uppercase tracking-tighter rounded">Indica</div>
+                                    </div>
+                                    <div class="p-6 flex-grow flex flex-col md:flex-row justify-between gap-6">
+                                        <div>
+                                            <h3 class="text-xl font-extrabold text-clinical-900 group-hover:text-safety transition-colors">Gorilla Glue #4</h3>
+                                            <p class="text-sm text-clinical-600 font-medium mb-4">GG Strains • Kreuzung: Chem's Sister x Sour Dubb</p>
+                                            <div class="flex flex-wrap gap-2">
+                                                <span class="px-3 py-1 bg-clinical-50 border border-clinical-100 text-clinical-800 text-[10px] font-bold rounded-full uppercase">Erdig</span>
+                                                <span class="px-3 py-1 bg-clinical-50 border border-clinical-100 text-clinical-800 text-[10px] font-bold rounded-full uppercase">Kiefer</span>
+                                                <span class="px-3 py-1 bg-clinical-50 border border-clinical-100 text-clinical-800 text-[10px] font-bold rounded-full uppercase">Diesel</span>
+                                            </div>
+                                        </div>
+                                        <div class="flex md:flex-col justify-between items-end md:items-end shrink-0">
+                                            <div class="text-right">
+                                                <p class="text-[10px] font-bold text-clinical-200 uppercase tracking-widest">Ab Preis</p>
+                                                <p class="text-2xl font-black text-clinical-900">6,45 €<span class="text-sm font-medium text-clinical-400">/g</span></p>
+                                            </div>
+                                            <div class="text-right">
+                                                <p class="text-[10px] font-bold text-clinical-200 uppercase tracking-widest">Verfügbar</p>
+                                                <p class="text-sm font-bold text-safety">18 Apotheken</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </template>
+                    </div>
+
+                    <!-- Products View -->
+                    <div x-show="activeTab === 'products'" class="grid grid-cols-1 md:grid-cols-2 gap-4" x-transition:enter="transition ease-out duration-300">
+                        <template x-for="i in 6" :key="i">
+                            <div class="hyper-border p-5 border border-clinical-50 hover:shadow-xl transition-all">
+                                <div class="flex gap-4">
+                                    <div class="w-20 h-20 bg-clinical-50 rounded-xl flex items-center justify-center border border-clinical-100 shrink-0">
+                                        <svg class="w-8 h-8 text-clinical-200" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.428 15.428a2 2 0 00-1.022-.547l-2.387-.477a6 6 0 00-3.86.517l-.318.158a6 6 0 01-3.86.517L6.05 15.21a2 2 0 00-1.806.547M8 4h8l-1 1v5.172a2 2 0 00.586 1.414l5 5c1.26 1.26.367 3.414-1.415 3.414H4.828c-1.782 0-2.674-2.154-1.414-3.414l5-5A2 2 0 009 10.172V5L8 4z"/></svg>
+                                    </div>
+                                    <div class="flex-grow">
+                                        <div class="flex justify-between items-start">
+                                            <span class="text-[10px] font-black text-clinical-400 uppercase tracking-tighter">Cantourage</span>
+                                            <span class="px-2 py-0.5 bg-green-100 text-green-700 text-[9px] font-bold rounded uppercase">Lagernd</span>
+                                        </div>
+                                        <h4 class="font-bold text-clinical-900 mt-1 leading-tight">Cantourage 22/1 Gorilla Glue</h4>
+                                        <div class="mt-2 flex items-baseline gap-2">
+                                            <span class="text-xs font-bold text-clinical-600">THC 22%</span>
+                                            <span class="text-xs font-bold text-clinical-200">•</span>
+                                            <span class="text-xs font-bold text-clinical-600">CBD < 1%</span>
+                                        </div>
+                                        <div class="mt-4 flex justify-between items-center">
+                                            <p class="text-lg font-black text-clinical-900">8,90 €<span class="text-[10px] text-clinical-400">/g</span></p>
+                                            <button class="bg-clinical-800 text-white p-2 rounded-lg hover:bg-clinical-900 transition-colors">
+                                                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </template>
+                    </div>
+
+                    <!-- Pharmacies View -->
+                    <div x-show="activeTab === 'pharmacies'" class="space-y-3" x-transition:enter="transition ease-out duration-300">
+                        <template x-for="i in 4" :key="i">
+                            <div class="hyper-border p-6 border border-clinical-50 flex flex-col md:flex-row items-center justify-between gap-6">
+                                <div class="flex items-center gap-6 w-full md:w-auto">
+                                    <div class="w-14 h-14 bg-clinical-100 rounded-full flex items-center justify-center text-clinical-800 font-bold text-xl shrink-0">G</div>
+                                    <div>
+                                        <h4 class="text-lg font-extrabold text-clinical-900">Grünhorn Apotheke</h4>
+                                        <p class="text-sm text-clinical-600 flex items-center gap-2">
+                                            <svg class="w-3 h-3 text-safety" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd"/></svg>
+                                            Leipzig, Sachsen
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="flex items-center gap-8 w-full md:w-auto justify-between md:justify-end">
+                                    <div class="text-center md:text-right">
+                                        <p class="text-[10px] font-bold text-clinical-200 uppercase">Versand</p>
+                                        <p class="text-sm font-bold text-clinical-800">24-48h</p>
+                                    </div>
+                                    <div class="text-center md:text-right">
+                                        <p class="text-[10px] font-bold text-clinical-200 uppercase">Bestand</p>
+                                        <p class="text-sm font-bold text-clinical-800">342 Sorten</p>
+                                    </div>
+                                    <a href="#" class="bg-clinical-50 text-clinical-800 px-6 py-2.5 rounded-xl font-bold text-sm hover:bg-clinical-800 hover:text-white transition-all border border-clinical-100">Profil</a>
+                                </div>
+                            </div>
+                        </template>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-white border-t border-clinical-100 pt-16 pb-24 md:pb-8">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="grid grid-cols-2 md:grid-cols-4 gap-12 mb-16">
+                <div class="col-span-2">
+                    <a href="/" class="flex items-center space-x-2 mb-6">
+                        <div class="w-8 h-8 bg-clinical-800 rounded-lg flex items-center justify-center text-white font-bold">+</div>
+                        <span class="text-xl font-extrabold tracking-tighter text-clinical-900 uppercase">CanNavi</span>
+                    </a>
+                    <p class="text-clinical-600 max-w-xs text-sm leading-relaxed">Präzise Informationen und Preisvergleiche für medizinisches Cannabis in Deutschland. Täglich aktualisiert.</p>
+                </div>
+                <div>
+                    <h4 class="font-bold text-clinical-900 mb-6 text-sm">Navigation</h4>
+                    <ul class="space-y-3 text-sm text-clinical-600">
+                        <li><a href="#" class="hover:text-clinical-900">Alle Blüten</a></li>
+                        <li><a href="#" class="hover:text-clinical-900">Apotheken-Suche</a></li>
+                        <li><a href="#" class="hover:text-clinical-900">Wissensdatenbank</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h4 class="font-bold text-clinical-900 mb-6 text-sm">Rechtliches</h4>
+                    <ul class="space-y-3 text-sm text-clinical-600">
+                        <li><a href="#" class="hover:text-clinical-900">Impressum</a></li>
+                        <li><a href="#" class="hover:text-clinical-900">Datenschutz</a></li>
+                        <li><a href="#" class="hover:text-clinical-900">AGB</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="pt-8 border-t border-clinical-50 flex justify-between items-center text-[10px] text-clinical-200 font-bold uppercase tracking-widest">
+                <p>© 2024 CanNavi Health Media GmbH</p>
+                <div class="flex gap-4">
+                    <span>18+ Nur für Patienten</span>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Mobile Sticky Controls -->
+    <div class="lg:hidden fixed bottom-6 left-1/2 -translate-x-1/2 z-50 w-[90%] max-w-md">
+        <div class="glass-panel rounded-2xl p-2 shadow-2xl flex gap-2 border border-white/40">
+            <button @click="mobileFilters = true" class="flex-1 bg-clinical-800 text-white py-3 rounded-xl font-bold text-sm flex items-center justify-center gap-2">
+                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110 4m-6 8a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4"/></svg>
+                Filter & Sortierung
+            </button>
+        </div>
+    </div>
+
+    <!-- Mobile Filter Drawer -->
+    <div x-show="mobileFilters" x-transition:enter="transition ease-out duration-300" x-transition:enter-start="translate-y-full" x-transition:enter-end="translate-y-0" x-cloak class="fixed inset-0 z-[60] lg:hidden">
+        <div class="absolute inset-0 bg-clinical-900/60 backdrop-blur-sm" @click="mobileFilters = false"></div>
+        <div class="absolute bottom-0 left-0 right-0 bg-white rounded-t-[32px] p-8 max-h-[90vh] overflow-y-auto">
+            <div class="w-12 h-1.5 bg-clinical-100 rounded-full mx-auto mb-8"></div>
+            <h2 class="text-2xl font-black text-clinical-900 mb-8">Filter anpassen</h2>
+            
+            <div class="space-y-10">
+                <div>
+                    <h3 class="text-xs font-black uppercase tracking-widest text-clinical-900 mb-6 flex items-center justify-between">
+                        THC Gehalt
+                        <span class="text-safety" x-text="thcRange + '%'"></span>
+                    </h3>
+                    <input type="range" x-model="thcRange" min="0" max="35" class="w-full h-2 bg-clinical-100 rounded-lg appearance-none cursor-pointer accent-clinical-800">
+                </div>
+
+                <div>
+                    <h3 class="text-xs font-black uppercase tracking-widest text-clinical-900 mb-6">Genetik</h3>
+                    <div class="grid grid-cols-2 gap-3">
+                        <button class="py-3 border-2 border-clinical-800 bg-clinical-50 text-clinical-800 rounded-xl font-bold text-sm">Indica</button>
+                        <button class="py-3 border-2 border-clinical-100 text-clinical-400 rounded-xl font-bold text-sm">Sativa</button>
+                    </div>
+                </div>
+
+                <button @click="mobileFilters = false" class="w-full bg-clinical-800 text-white py-5 rounded-2xl font-black text-lg shadow-xl">Ergebnisse anzeigen</button>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>

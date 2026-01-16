@@ -1,0 +1,531 @@
+<!DOCTYPE html>
+<html lang="de" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gorilla Glue #4 (GG4) | Medizinisches Cannabis Profil & Preise | CanNavi</title>
+    
+    <!-- Fonts & Scripts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+    
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: { sans: ['Manrope', 'sans-serif'] },
+                    colors: {
+                        clinical: {
+                            50: '#f4f7f6',
+                            100: '#e3eae8',
+                            200: '#c7d5d2',
+                            600: '#3d5a54',
+                            800: '#1a3c34', 
+                            900: '#0f241f',
+                        },
+                        accent: '#cfdbd5',
+                        safety: '#006d77',
+                    },
+                    animation: {
+                        'pulse-slow': 'pulse 6s cubic-bezier(0.4, 0, 0.6, 1) infinite',
+                        'float': 'float 3s ease-in-out infinite',
+                    },
+                    keyframes: {
+                        float: {
+                            '0%, 100%': { transform: 'translateY(0px)' },
+                            '50%': { transform: 'translateY(-10px)' },
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+
+    <style>
+        [x-cloak] { display: none !important; }
+
+        body {
+            background-color: #f8faf9;
+            color: #1a3c34;
+            overflow-x: hidden;
+        }
+
+        .noise-overlay {
+            position: fixed;
+            top: 0; left: 0; width: 100%; height: 100%;
+            pointer-events: none;
+            z-index: 9999;
+            opacity: 0.04;
+            background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3BaseFilter id='filter'%3BfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23filter)'/%3E%3C/svg%3E");
+        }
+
+        .hyper-border {
+            position: relative;
+            background: white;
+            border-radius: 12px;
+            transition: all 0.4s cubic-bezier(0.23, 1, 0.32, 1);
+        }
+        .hyper-border::before {
+            content: '';
+            position: absolute;
+            inset: -1px;
+            background: linear-gradient(135deg, #3d5a54 0%, transparent 40%, transparent 60%, #3d5a54 100%);
+            border-radius: 13px;
+            z-index: -1;
+            opacity: 0.2;
+        }
+
+        .glass-panel {
+            background: rgba(255, 255, 255, 0.7);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            border: 1px solid rgba(255, 255, 255, 0.3);
+        }
+
+        .terpene-badge {
+            background: linear-gradient(145deg, #ffffff, #f0f4f3);
+            border: 1px solid #e3eae8;
+            box-shadow: 4px 4px 10px rgba(0,0,0,0.02);
+        }
+
+        /* Stats Strip Gradient */
+        .stats-strip {
+            background: linear-gradient(90deg, #1a3c34 0%, #3d5a54 100%);
+        }
+
+        /* Table Sticky Header workaround */
+        .table-container {
+            max-height: 600px;
+            overflow-y: auto;
+        }
+
+        @media (max-width: 768px) {
+            .mobile-card-grid {
+                display: grid;
+                grid-template-columns: 1fr;
+                gap: 1rem;
+            }
+        }
+    </style>
+</head>
+<body class="min-h-screen flex flex-col font-sans" x-data="{ mobileOffersOpen: false }">
+    <div class="noise-overlay"></div>
+
+    <!-- Navigation -->
+    <nav class="sticky top-0 z-50 glass-panel border-b border-clinical-100">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between h-16 items-center">
+                <div class="flex items-center gap-8">
+                    <a href="/" class="flex items-center space-x-2 group">
+                        <div class="w-8 h-8 bg-clinical-800 rounded-lg flex items-center justify-center group-hover:rotate-45 transition-transform duration-500">
+                            <span class="text-white font-bold">+</span>
+                        </div>
+                        <span class="text-xl font-extrabold tracking-tighter text-clinical-900 uppercase">CanNavi</span>
+                    </a>
+                    <div class="hidden md:flex space-x-6 text-sm font-medium text-clinical-600">
+                        <a href="/products/cannabisblueten" class="text-clinical-900 font-bold border-b-2 border-clinical-800 transition-colors">Blüten</a>
+                        <a href="/products/extracts" class="hover:text-clinical-900 transition-colors">Extrakte</a>
+                        <a href="/cannabis-apotheke" class="hover:text-clinical-900 transition-colors">Apotheken</a>
+                    </div>
+                </div>
+                <div class="flex items-center gap-4">
+                    <button class="px-4 py-2 text-sm font-semibold text-clinical-800 border border-clinical-200 rounded-full hover:bg-clinical-50 transition-all">Anmelden</button>
+                    <button class="bg-clinical-800 text-white px-5 py-2 text-sm font-semibold rounded-full shadow-lg shadow-clinical-800/20">Rezept einlösen</button>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="flex-grow">
+        
+        <!-- Breadcrumbs -->
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-6">
+            <nav class="flex text-[10px] font-bold tracking-widest uppercase text-clinical-200" aria-label="Breadcrumb">
+                <ol class="flex items-center space-x-2">
+                    <li><a href="/" class="hover:text-clinical-600">Home</a></li>
+                    <li><span class="mx-1">/</span></li>
+                    <li><a href="/products/cannabisblueten" class="hover:text-clinical-600">Blüten</a></li>
+                    <li><span class="mx-1">/</span></li>
+                    <li class="text-clinical-800">Gorilla Glue #4</li>
+                </ol>
+            </nav>
+        </div>
+
+        <!-- Hero Section -->
+        <section class="pt-8 pb-12">
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                <div class="flex flex-col lg:flex-row gap-12 items-start">
+                    
+                    <!-- Left: Identity & Metadata -->
+                    <div class="flex-1">
+                        <div class="flex items-center gap-3 mb-4">
+                            <span class="px-3 py-1 bg-clinical-100 text-clinical-800 text-[10px] font-bold rounded-full uppercase tracking-tighter">Hybrid Dominant</span>
+                            <span class="px-3 py-1 bg-green-100 text-green-700 text-[10px] font-bold rounded-full uppercase tracking-tighter">In Stock</span>
+                        </div>
+                        <h1 class="text-4xl md:text-6xl font-extrabold text-clinical-900 mb-6 leading-tight">Gorilla Glue #4 <span class="text-clinical-200 font-light block md:inline">(GG4)</span></h1>
+                        <p class="text-lg text-clinical-600 max-w-2xl mb-8 leading-relaxed">Ein weltweit geschätzter Kultivar, bekannt für seine extrem harzigen Blüten und eine tiefenentspannende Wirkung. GG4 kombiniert chemische und erdige Noten mit einer potenten therapeutischen Breite bei chronischen Schmerzen.</p>
+                        
+                        <!-- Lineage Visual -->
+                        <div class="flex items-center gap-4 p-4 bg-white border border-clinical-100 rounded-2xl mb-8 w-fit shadow-sm">
+                            <div class="text-center">
+                                <p class="text-[10px] font-bold text-clinical-200 uppercase mb-1">Eltern</p>
+                                <div class="flex items-center gap-2">
+                                    <span class="font-bold text-sm text-clinical-800">Sour Dubb</span>
+                                    <span class="text-clinical-200">×</span>
+                                    <span class="font-bold text-sm text-clinical-800">Chem's Sister</span>
+                                    <span class="text-clinical-200">×</span>
+                                    <span class="font-bold text-sm text-clinical-800">Chocolate Diesel</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Terpene Chips -->
+                        <div class="flex flex-wrap gap-3">
+                            <div class="terpene-badge px-4 py-2 rounded-xl flex items-center gap-3">
+                                <div class="w-2 h-2 rounded-full bg-amber-400"></div>
+                                <span class="text-sm font-bold text-clinical-800">Caryophyllen</span>
+                                <span class="text-[10px] text-clinical-200 font-medium">Pfeffrig</span>
+                            </div>
+                            <div class="terpene-badge px-4 py-2 rounded-xl flex items-center gap-3">
+                                <div class="w-2 h-2 rounded-full bg-orange-400"></div>
+                                <span class="text-sm font-bold text-clinical-800">Myrcen</span>
+                                <span class="text-[10px] text-clinical-200 font-medium">Erdig</span>
+                            </div>
+                            <div class="terpene-badge px-4 py-2 rounded-xl flex items-center gap-3">
+                                <div class="w-2 h-2 rounded-full bg-blue-400"></div>
+                                <span class="text-sm font-bold text-clinical-800">Limonen</span>
+                                <span class="text-[10px] text-clinical-200 font-medium">Zitrus</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Right: Key Stats Card -->
+                    <div class="w-full lg:w-80 flex-shrink-0">
+                        <div class="hyper-border p-1 bg-gradient-to-br from-clinical-800 to-clinical-600 rounded-3xl overflow-hidden shadow-2xl">
+                            <div class="bg-white rounded-[22px] p-6">
+                                <div class="space-y-6">
+                                    <div class="flex justify-between items-end border-b border-clinical-50 pb-4">
+                                        <span class="text-sm font-bold text-clinical-600 uppercase tracking-widest">THC Gehalt</span>
+                                        <span class="text-4xl font-black text-clinical-900 leading-none">22,4<span class="text-lg">%</span></span>
+                                    </div>
+                                    <div class="flex justify-between items-end border-b border-clinical-50 pb-4">
+                                        <span class="text-sm font-bold text-clinical-600 uppercase tracking-widest">CBD Gehalt</span>
+                                        <span class="text-xl font-bold text-clinical-900 leading-none">< 1,0<span class="text-xs">%</span></span>
+                                    </div>
+                                    <div class="flex justify-between items-end">
+                                        <span class="text-sm font-bold text-clinical-600 uppercase tracking-widest">Preis ab</span>
+                                        <span class="text-3xl font-black text-safety leading-none">6,24 €<span class="text-xs text-clinical-200 block text-right font-medium">pro Gramm</span></span>
+                                    </div>
+                                    <a href="#offers" class="block w-full text-center bg-clinical-800 text-white py-4 rounded-xl font-bold hover:bg-clinical-900 transition-all shadow-lg shadow-clinical-800/20">
+                                        Angebote ansehen
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Effects Section (Medical) -->
+        <section class="bg-white py-16 border-y border-clinical-100">
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-12">
+                    <div>
+                        <h3 class="text-xs font-black text-clinical-200 uppercase tracking-[0.2em] mb-6">Wirkungsprofil</h3>
+                        <div class="space-y-4">
+                            <div class="flex items-center justify-between group">
+                                <div class="flex items-center gap-3">
+                                    <div class="w-10 h-10 rounded-lg bg-clinical-50 flex items-center justify-center text-clinical-800 group-hover:bg-clinical-800 group-hover:text-white transition-all">
+                                        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z"/></svg>
+                                    </div>
+                                    <span class="font-bold text-clinical-800">Sedierend</span>
+                                </div>
+                                <div class="flex gap-1">
+                                    <div class="w-4 h-1 rounded-full bg-clinical-800"></div>
+                                    <div class="w-4 h-1 rounded-full bg-clinical-800"></div>
+                                    <div class="w-4 h-1 rounded-full bg-clinical-800"></div>
+                                    <div class="w-4 h-1 rounded-full bg-clinical-100"></div>
+                                </div>
+                            </div>
+                            <div class="flex items-center justify-between group">
+                                <div class="flex items-center gap-3">
+                                    <div class="w-10 h-10 rounded-lg bg-clinical-50 flex items-center justify-center text-clinical-800 group-hover:bg-clinical-800 group-hover:text-white transition-all">
+                                        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14.828 14.828a4 4 0 01-5.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+                                    </div>
+                                    <span class="font-bold text-clinical-800">Euphorisierend</span>
+                                </div>
+                                <div class="flex gap-1">
+                                    <div class="w-4 h-1 rounded-full bg-clinical-800"></div>
+                                    <div class="w-4 h-1 rounded-full bg-clinical-800"></div>
+                                    <div class="w-4 h-1 rounded-full bg-clinical-100"></div>
+                                    <div class="w-4 h-1 rounded-full bg-clinical-100"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <h3 class="text-xs font-black text-clinical-200 uppercase tracking-[0.2em] mb-6">Medizinische Anwendung</h3>
+                        <ul class="space-y-3">
+                            <li class="flex items-center gap-2 text-clinical-600">
+                                <svg class="w-4 h-4 text-safety" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/></svg>
+                                <span class="text-sm font-semibold">Chronische Schmerztherapie</span>
+                            </li>
+                            <li class="flex items-center gap-2 text-clinical-600">
+                                <svg class="w-4 h-4 text-safety" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/></svg>
+                                <span class="text-sm font-semibold">Appetitlosigkeit & Übelkeit</span>
+                            </li>
+                            <li class="flex items-center gap-2 text-clinical-600">
+                                <svg class="w-4 h-4 text-safety" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/></svg>
+                                <span class="text-sm font-semibold">Multiple Sklerose (Spastik)</span>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="bg-clinical-50 p-6 rounded-2xl">
+                        <h3 class="text-xs font-black text-clinical-600 uppercase mb-4">Wichtiger Hinweis</h3>
+                        <p class="text-xs text-clinical-600 leading-relaxed italic">
+                            Die oben genannten Informationen dienen ausschließlich zu Informationszwecken und ersetzen keine ärztliche Beratung. Die Wirkung von medizinischem Cannabis ist individuell verschieden.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Live Availability (Table Section) -->
+        <section id="offers" class="py-20" x-data="{ sort: 'price' }">
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                <div class="flex flex-col md:flex-row justify-between items-end gap-6 mb-10">
+                    <div>
+                        <div class="flex items-center gap-2 mb-2">
+                            <span class="w-2 h-2 rounded-full bg-green-500 animate-pulse"></span>
+                            <h2 class="text-2xl font-extrabold text-clinical-900">Live Apotheken-Preise</h2>
+                        </div>
+                        <p class="text-clinical-600 font-medium">14 Angebote für <span class="text-clinical-800 font-bold">Gorilla Glue #4</span> gefunden.</p>
+                    </div>
+                    <div class="flex gap-2">
+                        <button class="px-4 py-2 bg-white border border-clinical-100 rounded-lg text-sm font-bold text-clinical-600 hover:border-clinical-800 transition-all">Filter</button>
+                        <select x-model="sort" class="px-4 py-2 bg-white border border-clinical-100 rounded-lg text-sm font-bold text-clinical-800 focus:outline-none">
+                            <option value="price">Günstigster Preis</option>
+                            <option value="stock">Verfügbarkeit</option>
+                        </select>
+                    </div>
+                </div>
+
+                <!-- Desktop Table / Mobile Card Hybrid -->
+                <div class="bg-white rounded-3xl border border-clinical-100 overflow-hidden shadow-sm">
+                    <!-- Header -->
+                    <div class="hidden md:grid grid-cols-12 gap-4 p-6 bg-clinical-50 border-b border-clinical-100 text-[10px] font-black uppercase tracking-widest text-clinical-200">
+                        <div class="col-span-4">Apotheke</div>
+                        <div class="col-span-2 text-center">Status</div>
+                        <div class="col-span-2 text-center">Bestand</div>
+                        <div class="col-span-2 text-right">Preis / g</div>
+                        <div class="col-span-2"></div>
+                    </div>
+
+                    <!-- Offers List -->
+                    <div class="divide-y divide-clinical-50">
+                        <!-- Offer 1 -->
+                        <div class="grid grid-cols-1 md:grid-cols-12 gap-4 p-6 hover:bg-clinical-50/30 transition-colors items-center">
+                            <div class="col-span-4 flex items-center gap-4">
+                                <div class="w-12 h-12 rounded-xl bg-white border border-clinical-100 flex items-center justify-center text-xs font-black text-clinical-800">GH</div>
+                                <div>
+                                    <p class="font-extrabold text-clinical-900">Grünhorn Apotheke</p>
+                                    <p class="text-xs text-clinical-600">Leipzig • Versandfertig 24h</p>
+                                </div>
+                            </div>
+                            <div class="col-span-2 flex justify-center">
+                                <span class="px-3 py-1 bg-green-100 text-green-700 text-[10px] font-bold rounded-lg uppercase">Sofort Lieferbar</span>
+                            </div>
+                            <div class="col-span-2 text-center text-sm font-bold text-clinical-800">
+                                > 500g
+                            </div>
+                            <div class="col-span-2 text-right">
+                                <p class="text-xl font-black text-clinical-900 leading-none">6,24 €</p>
+                                <p class="text-[10px] text-clinical-200 font-bold uppercase mt-1">Günstigster Preis</p>
+                            </div>
+                            <div class="col-span-2 flex justify-end">
+                                <button class="w-full md:w-auto bg-clinical-800 text-white px-6 py-2.5 rounded-xl text-sm font-bold hover:bg-clinical-900 transition-all">Zum Angebot</button>
+                            </div>
+                        </div>
+
+                        <!-- Offer 2 -->
+                        <div class="grid grid-cols-1 md:grid-cols-12 gap-4 p-6 hover:bg-clinical-50/30 transition-colors items-center">
+                            <div class="col-span-4 flex items-center gap-4">
+                                <div class="w-12 h-12 rounded-xl bg-white border border-clinical-100 flex items-center justify-center text-xs font-black text-clinical-800">IC</div>
+                                <div>
+                                    <p class="font-extrabold text-clinical-900">Idris Cannabis</p>
+                                    <p class="text-xs text-clinical-600">Weinheim • Abholung möglich</p>
+                                </div>
+                            </div>
+                            <div class="col-span-2 flex justify-center">
+                                <span class="px-3 py-1 bg-amber-100 text-amber-700 text-[10px] font-bold rounded-lg uppercase">Wenig Bestand</span>
+                            </div>
+                            <div class="col-span-2 text-center text-sm font-bold text-clinical-800">
+                                45g
+                            </div>
+                            <div class="col-span-2 text-right">
+                                <p class="text-xl font-black text-clinical-900 leading-none">6,80 €</p>
+                            </div>
+                            <div class="col-span-2 flex justify-end">
+                                <button class="w-full md:w-auto bg-clinical-800 text-white px-6 py-2.5 rounded-xl text-sm font-bold hover:bg-clinical-900 transition-all">Zum Angebot</button>
+                            </div>
+                        </div>
+
+                        <!-- Offer 3 -->
+                        <div class="grid grid-cols-1 md:grid-cols-12 gap-4 p-6 hover:bg-clinical-50/30 transition-colors items-center">
+                            <div class="col-span-4 flex items-center gap-4">
+                                <div class="w-12 h-12 rounded-xl bg-white border border-clinical-100 flex items-center justify-center text-xs font-black text-clinical-800">AB</div>
+                                <div>
+                                    <p class="font-extrabold text-clinical-900">ABC Apotheke</p>
+                                    <p class="text-xs text-clinical-600">Berlin • Nur Versand</p>
+                                </div>
+                            </div>
+                            <div class="col-span-2 flex justify-center">
+                                <span class="px-3 py-1 bg-green-100 text-green-700 text-[10px] font-bold rounded-lg uppercase">Sofort Lieferbar</span>
+                            </div>
+                            <div class="col-span-2 text-center text-sm font-bold text-clinical-800">
+                                220g
+                            </div>
+                            <div class="col-span-2 text-right">
+                                <p class="text-xl font-black text-clinical-900 leading-none">7,15 €</p>
+                            </div>
+                            <div class="col-span-2 flex justify-end">
+                                <button class="w-full md:w-auto bg-clinical-800 text-white px-6 py-2.5 rounded-xl text-sm font-bold hover:bg-clinical-900 transition-all">Zum Angebot</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Related Strains -->
+        <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-24 border-t border-clinical-100">
+            <h2 class="text-2xl font-extrabold text-clinical-900 mb-8">Ähnliche Hybrid-Sorten</h2>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+                <!-- Related Card 1 -->
+                <a href="#" class="hyper-border p-6 flex flex-col justify-between group hover:-translate-y-2">
+                    <div>
+                        <div class="flex justify-between items-start mb-4">
+                            <span class="text-[10px] font-black text-clinical-200 uppercase tracking-widest">Hybrid • 20% THC</span>
+                            <span class="text-safety font-bold text-xs">Ab 7,50 €</span>
+                        </div>
+                        <h3 class="text-xl font-bold text-clinical-800 group-hover:text-clinical-600 transition-colors mb-2">Wedding Cake</h3>
+                        <p class="text-sm text-clinical-600 leading-relaxed">Süßes, teigiges Aroma mit stark entspannender körperlicher Wirkung.</p>
+                    </div>
+                </a>
+                <!-- Related Card 2 -->
+                <a href="#" class="hyper-border p-6 flex flex-col justify-between group hover:-translate-y-2">
+                    <div>
+                        <div class="flex justify-between items-start mb-4">
+                            <span class="text-[10px] font-black text-clinical-200 uppercase tracking-widest">Hybrid • 24% THC</span>
+                            <span class="text-safety font-bold text-xs">Ab 8,90 €</span>
+                        </div>
+                        <h3 class="text-xl font-bold text-clinical-800 group-hover:text-clinical-600 transition-colors mb-2">Girl Scout Cookies</h3>
+                        <p class="text-sm text-clinical-600 leading-relaxed">Berühmt für euphorische Schübe und ein komplexes Terpenprofil.</p>
+                    </div>
+                </a>
+                <!-- Related Card 3 -->
+                <a href="#" class="hyper-border p-6 flex flex-col justify-between group hover:-translate-y-2">
+                    <div>
+                        <div class="flex justify-between items-start mb-4">
+                            <span class="text-[10px] font-black text-clinical-200 uppercase tracking-widest">Hybrid • 18% THC</span>
+                            <span class="text-safety font-bold text-xs">Ab 5,45 €</span>
+                        </div>
+                        <h3 class="text-xl font-bold text-clinical-800 group-hover:text-clinical-600 transition-colors mb-2">Sherbet OG</h3>
+                        <p class="text-sm text-clinical-600 leading-relaxed">Milderer Strain, ideal für den späten Nachmittag ohne starke Trägheit.</p>
+                    </div>
+                </a>
+            </div>
+        </section>
+
+        <!-- FAQ Accordion -->
+        <section class="bg-clinical-800 py-24 text-white">
+            <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+                <h2 class="text-3xl font-extrabold mb-12 text-center">Häufige Fragen zu GG4</h2>
+                <div class="space-y-4" x-data="{ active: 1 }">
+                    <div class="border border-white/10 rounded-2xl overflow-hidden">
+                        <button @click="active = active === 1 ? null : 1" class="w-full flex items-center justify-between p-6 text-left hover:bg-white/5 transition-all">
+                            <span class="font-bold">Ist Gorilla Glue #4 für Anfänger geeignet?</span>
+                            <svg class="w-5 h-5 transform transition-transform" :class="active === 1 ? 'rotate-180' : ''" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+                        </button>
+                        <div x-show="active === 1" x-collapse class="p-6 bg-white/5 border-t border-white/10 text-clinical-100 leading-relaxed">
+                            Aufgrund des hohen THC-Gehalts (oft über 20%) wird GG4 eher erfahrenen Patienten empfohlen oder eine vorsichtige Titration (schrittweise Dosierung) nahegelegt.
+                        </div>
+                    </div>
+                    <div class="border border-white/10 rounded-2xl overflow-hidden">
+                        <button @click="active = active === 2 ? null : 2" class="w-full flex items-center justify-between p-6 text-left hover:bg-white/5 transition-all">
+                            <span class="font-bold">Gibt es GG4 auch als Extrakt?</span>
+                            <svg class="w-5 h-5 transform transition-transform" :class="active === 2 ? 'rotate-180' : ''" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+                        </button>
+                        <div x-show="active === 2" x-collapse class="p-6 bg-white/5 border-t border-white/10 text-clinical-100 leading-relaxed">
+                            Ja, viele Hersteller bieten Gorilla Glue #4 auch als standardisiertes Vollspektrum-Extrakt oder in Form von Dronabinol-Rezepturen an. Prüfen Sie unseren Bereich "Extrakte".
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Data Transparency / Sources -->
+        <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+            <div class="flex flex-col md:flex-row justify-between items-center gap-6 p-8 bg-clinical-50 rounded-3xl border border-clinical-100">
+                <div class="text-xs text-clinical-200 font-bold uppercase tracking-widest space-y-2">
+                    <p>Zuletzt aktualisiert: Heute, 14:32 Uhr</p>
+                    <p>Datenquelle: Verifizierte Bestands-Schnittstellen der Partner-Apotheken</p>
+                </div>
+                <div class="flex gap-4">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/T%C3%9CV_Rheinland_logo.svg/1200px-T%C3%9CV_Rheinland_logo.svg.png" alt="Trust" class="h-8 grayscale opacity-50">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Logo_European_Medicines_Agency.svg" alt="EMA" class="h-8 grayscale opacity-50">
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-white border-t border-clinical-100 pt-16 pb-8">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-12 mb-16">
+                <div class="col-span-2">
+                    <a href="/" class="flex items-center space-x-2 mb-6">
+                        <div class="w-8 h-8 bg-clinical-800 rounded-lg flex items-center justify-center text-white font-bold">+</div>
+                        <span class="text-xl font-extrabold tracking-tighter text-clinical-900 uppercase">CanNavi</span>
+                    </a>
+                    <p class="text-clinical-600 max-w-xs mb-6">Ihr verlässlicher Begleiter für medizinisches Cannabis in Deutschland. Neutral, aktuell und transparent.</p>
+                </div>
+                <div>
+                    <h4 class="font-bold text-clinical-900 mb-6">Kategorien</h4>
+                    <ul class="space-y-4 text-sm text-clinical-600">
+                        <li><a href="#" class="hover:text-clinical-900">Indica Sorten</a></li>
+                        <li><a href="#" class="hover:text-clinical-900">Sativa Sorten</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h4 class="font-bold text-clinical-900 mb-6">Rechtliches</h4>
+                    <ul class="space-y-4 text-sm text-clinical-600">
+                        <li><a href="#" class="hover:text-clinical-900">Impressum</a></li>
+                        <li><a href="#" class="hover:text-clinical-900">Datenschutz</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="pt-8 border-t border-clinical-50 text-center md:text-left">
+                <p class="text-xs text-clinical-200 font-bold uppercase tracking-widest">© 2024 CanNavi Health Media GmbH. Alle Rechte vorbehalten.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Mobile Sticky Footer CTA -->
+    <div class="md:hidden fixed bottom-0 left-0 w-full z-50 p-4 pb-8 bg-gradient-to-t from-white via-white to-transparent">
+        <div class="glass-panel rounded-2xl shadow-2xl p-4 flex items-center justify-between border border-clinical-100">
+            <div>
+                <p class="text-[10px] font-black text-clinical-200 uppercase">Bester Preis</p>
+                <p class="text-xl font-black text-clinical-900">6,24 €/g</p>
+            </div>
+            <a href="#offers" class="bg-clinical-800 text-white px-6 py-3 rounded-xl font-bold text-sm">Preise vergleichen</a>
+        </div>
+    </div>
+
+</body>
+</html>

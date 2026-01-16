@@ -1,0 +1,502 @@
+<!DOCTYPE html>
+<html lang="de" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apotheken-Verzeichnis | CanNavi - Medizinisches Cannabis Deutschland</title>
+    
+    <!-- Fonts & Scripts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+    
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: { sans: ['Manrope', 'sans-serif'] },
+                    colors: {
+                        clinical: {
+                            50: '#f4f7f6',
+                            100: '#e3eae8',
+                            200: '#c7d5d2',
+                            600: '#3d5a54',
+                            800: '#1a3c34', 
+                            900: '#0f241f',
+                        },
+                        accent: '#cfdbd5',
+                        safety: '#006d77',
+                    },
+                    animation: {
+                        'pulse-slow': 'pulse 6s cubic-bezier(0.4, 0, 0.6, 1) infinite',
+                        'float': 'float 3s ease-in-out infinite',
+                    },
+                    keyframes: {
+                        float: {
+                            '0%, 100%': { transform: 'translateY(0px)' },
+                            '50%': { transform: 'translateY(-10px)' },
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+
+    <style>
+        [x-cloak] { display: none !important; }
+
+        body {
+            background-color: #f8faf9;
+            color: #1a3c34;
+            overflow-x: hidden;
+        }
+
+        .noise-overlay {
+            position: fixed;
+            top: 0; left: 0; width: 100%; height: 100%;
+            pointer-events: none;
+            z-index: 9999;
+            opacity: 0.04;
+            background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3BaseFilter id='filter'%3BfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23filter)'/%3E%3C/svg%3E");
+        }
+
+        .hyper-border {
+            position: relative;
+            background: white;
+            border-radius: 12px;
+            transition: all 0.4s cubic-bezier(0.23, 1, 0.32, 1);
+        }
+        .hyper-border::before {
+            content: '';
+            position: absolute;
+            inset: -1px;
+            background: linear-gradient(135deg, #3d5a54 0%, transparent 40%, transparent 60%, #3d5a54 100%);
+            border-radius: 13px;
+            z-index: -1;
+            opacity: 0.3;
+        }
+        .hyper-border:hover::before {
+            opacity: 0.8;
+            background: linear-gradient(135deg, #006d77 0%, transparent 40%, transparent 60%, #006d77 100%);
+        }
+
+        .glass-panel {
+            background: rgba(255, 255, 255, 0.7);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            border: 1px solid rgba(255, 255, 255, 0.3);
+        }
+
+        .map-glow {
+            filter: drop-shadow(0 0 20px rgba(0, 109, 119, 0.1));
+        }
+
+        .step-line::after {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: 100%;
+            width: 100%;
+            height: 2px;
+            background: repeating-linear-gradient(to right, #c7d5d2 0, #c7d5d2 4px, transparent 4px, transparent 8px);
+            z-index: 0;
+        }
+
+        ::-webkit-scrollbar { width: 6px; }
+        ::-webkit-scrollbar-track { background: #f1f1f1; }
+        ::-webkit-scrollbar-thumb { background: #3d5a54; border-radius: 10px; }
+    </style>
+</head>
+<body class="min-h-screen flex flex-col font-sans" x-data="{ 
+    citySearch: '', 
+    showResults: false,
+    cities: ['Berlin', 'Hamburg', 'München', 'Köln', 'Frankfurt', 'Stuttgart', 'Leipzig', 'Düsseldorf', 'Dortmund', 'Essen'],
+    activeTab: 'all'
+}">
+    <div class="noise-overlay"></div>
+
+    <!-- Navigation -->
+    <nav class="sticky top-0 z-50 glass-panel border-b border-clinical-100">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between h-16 items-center">
+                <div class="flex items-center gap-8">
+                    <a href="/" class="flex items-center space-x-2 group">
+                        <div class="w-8 h-8 bg-clinical-800 rounded-lg flex items-center justify-center group-hover:rotate-45 transition-transform duration-500">
+                            <span class="text-white font-bold">+</span>
+                        </div>
+                        <span class="text-xl font-extrabold tracking-tighter text-clinical-900 uppercase">CanNavi</span>
+                    </a>
+                    <div class="hidden md:flex space-x-6 text-sm font-medium text-clinical-600">
+                        <a href="/products/cannabisblueten" class="hover:text-clinical-900 transition-colors">Blüten</a>
+                        <a href="/products/extracts" class="hover:text-clinical-900 transition-colors">Extrakte</a>
+                        <a href="/cannabis-apotheke" class="text-clinical-900 font-bold border-b-2 border-clinical-800">Apotheken</a>
+                        <a href="#" class="hover:text-clinical-900 transition-colors">Wissen</a>
+                    </div>
+                </div>
+                <div class="flex items-center gap-4">
+                    <button class="px-4 py-2 text-sm font-semibold text-clinical-800 border border-clinical-200 rounded-full hover:bg-clinical-50 transition-all">Anmelden</button>
+                    <button class="bg-clinical-800 text-white px-5 py-2 text-sm font-semibold rounded-full hover:bg-clinical-900 transition-all shadow-lg shadow-clinical-800/20">Rezept einlösen</button>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <main class="flex-grow">
+        <!-- Breadcrumbs -->
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-6">
+            <nav class="flex text-xs font-medium tracking-wide uppercase text-clinical-200" aria-label="Breadcrumb">
+                <ol class="flex items-center space-x-2">
+                    <li><a href="/" class="hover:text-clinical-600">Home</a></li>
+                    <li><span class="mx-2">/</span></li>
+                    <li class="text-clinical-600">Cannabis Apotheken</li>
+                </ol>
+            </nav>
+        </div>
+
+        <!-- Hero: City Finder -->
+        <section class="pt-12 pb-20 relative">
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                <div class="max-w-3xl">
+                    <span class="inline-block py-1 px-3 rounded-full bg-clinical-100 text-clinical-800 text-xs font-bold mb-6 tracking-widest uppercase">Bundesweites Netzwerk</span>
+                    <h1 class="text-5xl md:text-6xl font-extrabold text-clinical-900 leading-[1.1] mb-6">
+                        Finden Sie die passende <br/>
+                        <span class="text-transparent bg-clip-text bg-gradient-to-r from-clinical-800 to-safety">Cannabis-Apotheke.</span>
+                    </h1>
+                    <p class="text-xl text-clinical-600 mb-10 leading-relaxed max-w-2xl">
+                        Vergleichen Sie Bestände, Preise und Lieferzeiten von über 250 spezialisierten Apotheken in ganz Deutschland.
+                    </p>
+
+                    <!-- City Search Component -->
+                    <div class="relative max-w-xl group" @click.away="showResults = false">
+                        <div class="flex items-center bg-white rounded-2xl p-2 shadow-2xl border border-clinical-100 focus-within:ring-2 ring-clinical-800/10 transition-all">
+                            <div class="pl-4 pr-2 text-clinical-200">
+                                <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/></svg>
+                            </div>
+                            <input 
+                                type="text" 
+                                x-model="citySearch"
+                                @focus="showResults = true"
+                                placeholder="Stadt oder PLZ eingeben..." 
+                                class="w-full px-4 py-4 text-lg font-medium focus:outline-none"
+                            >
+                            <button class="bg-clinical-800 text-white px-8 py-4 rounded-xl font-bold hover:bg-clinical-900 transition-all">
+                                Suchen
+                            </button>
+                        </div>
+
+                        <!-- Instant Results Dropdown -->
+                        <div x-show="showResults && citySearch.length > 0" 
+                             x-transition:enter="transition ease-out duration-200"
+                             x-transition:enter-start="opacity-0 translate-y-2"
+                             class="absolute top-full left-0 w-full mt-3 bg-white rounded-2xl shadow-2xl border border-clinical-100 overflow-hidden z-50">
+                            <div class="p-4 bg-clinical-50/50 text-xs font-bold text-clinical-200 uppercase tracking-widest">Städte in Ihrer Nähe</div>
+                            <div class="divide-y divide-clinical-50">
+                                <template x-for="city in cities.filter(c => c.toLowerCase().includes(citySearch.toLowerCase()))">
+                                    <a :href="'/cannabis-apotheke/' + city.toLowerCase()" class="flex items-center justify-between p-4 hover:bg-clinical-50 transition-colors group">
+                                        <div class="flex items-center gap-3">
+                                            <span class="font-bold text-clinical-900" x-text="city"></span>
+                                        </div>
+                                        <span class="text-xs font-bold text-clinical-400 group-hover:text-clinical-800">12 Apotheken →</span>
+                                    </a>
+                                </template>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Interactive Map & Stats Section -->
+        <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-24">
+            <div class="grid lg:grid-cols-12 gap-12 items-center">
+                <!-- Germany Map Visualization -->
+                <div class="lg:col-span-7 relative bg-clinical-100/50 rounded-[40px] p-8 lg:p-16 border border-clinical-100 overflow-hidden min-h-[500px] flex items-center justify-center">
+                    <!-- Abstract SVG Map Overlay -->
+                    <div class="relative w-full max-w-md map-glow transition-transform hover:scale-[1.02] duration-700">
+                        <svg viewBox="0 0 400 500" class="w-full h-auto drop-shadow-2xl" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M150 20C180 15 220 25 250 40C280 55 310 80 330 110C350 140 360 180 350 220C340 260 310 300 280 340C250 380 220 420 180 440C140 460 90 450 60 420C30 390 20 340 30 290C40 240 70 200 90 160C110 120 120 25 150 20Z" fill="#1A3C34" fill-opacity="0.05" stroke="#1A3C34" stroke-width="1" stroke-dasharray="4 4"/>
+                            <!-- Pulse Points -->
+                            <g class="cursor-pointer group">
+                                <circle cx="180" cy="120" r="8" fill="#006d77" class="animate-ping opacity-20"/>
+                                <circle cx="180" cy="120" r="4" fill="#006d77"/>
+                                <text x="192" y="125" class="text-[10px] font-bold fill-clinical-800 opacity-0 group-hover:opacity-100 transition-opacity">Berlin</text>
+                            </g>
+                            <g class="cursor-pointer group">
+                                <circle cx="100" cy="350" r="8" fill="#006d77" class="animate-ping opacity-20"/>
+                                <circle cx="100" cy="350" r="4" fill="#006d77"/>
+                                <text x="112" y="355" class="text-[10px] font-bold fill-clinical-800 opacity-0 group-hover:opacity-100 transition-opacity">München</text>
+                            </g>
+                            <g class="cursor-pointer group">
+                                <circle cx="80" cy="200" r="8" fill="#006d77" class="animate-ping opacity-20"/>
+                                <circle cx="80" cy="200" r="4" fill="#006d77"/>
+                                <text x="92" y="205" class="text-[10px] font-bold fill-clinical-800 opacity-0 group-hover:opacity-100 transition-opacity">Köln</text>
+                            </g>
+                            <g class="cursor-pointer group">
+                                <circle cx="140" cy="50" r="8" fill="#006d77" class="animate-ping opacity-20"/>
+                                <circle cx="140" cy="50" r="4" fill="#006d77"/>
+                                <text x="152" y="55" class="text-[10px] font-bold fill-clinical-800 opacity-0 group-hover:opacity-100 transition-opacity">Hamburg</text>
+                            </g>
+                        </svg>
+                    </div>
+                    
+                    <!-- Stats Floating Badge -->
+                    <div class="absolute bottom-8 right-8 bg-white/80 backdrop-blur border border-white/20 p-6 rounded-2xl shadow-xl">
+                        <div class="flex items-center gap-4 mb-1">
+                            <span class="text-4xl font-black text-clinical-900">284</span>
+                            <div class="w-2 h-2 rounded-full bg-green-500 animate-pulse"></div>
+                        </div>
+                        <p class="text-xs font-bold text-clinical-600 uppercase tracking-widest">Verifizierte Apotheken</p>
+                    </div>
+                </div>
+
+                <!-- Featured List -->
+                <div class="lg:col-span-5 space-y-6">
+                    <div class="flex items-center justify-between mb-8">
+                        <h2 class="text-2xl font-extrabold text-clinical-900">Beliebte Städte</h2>
+                        <a href="#" class="text-sm font-bold text-clinical-600 border-b-2 border-clinical-100 hover:border-clinical-800 transition-all">Alle anzeigen</a>
+                    </div>
+                    
+                    <template x-for="city in ['Berlin', 'München', 'Hamburg', 'Frankfurt', 'Düsseldorf']">
+                        <div class="hyper-border p-6 flex items-center justify-between group cursor-pointer">
+                            <div class="flex items-center gap-4">
+                                <div class="w-12 h-12 rounded-xl bg-clinical-50 flex items-center justify-center text-clinical-800 font-bold group-hover:bg-clinical-800 group-hover:text-white transition-colors duration-500" x-text="city.substring(0,2).toUpperCase()"></div>
+                                <div>
+                                    <h4 class="font-bold text-clinical-900" x-text="city"></h4>
+                                    <p class="text-xs text-clinical-400">Durchschn. Preis: 8,45 €/g</p>
+                                </div>
+                            </div>
+                            <div class="text-right">
+                                <div class="text-sm font-bold text-clinical-800" x-text="Math.floor(Math.random() * 20) + 5 + ' Apotheken'"></div>
+                                <div class="text-[10px] font-bold uppercase text-safety">Top Verfügbarkeit</div>
+                            </div>
+                        </div>
+                    </template>
+                </div>
+            </div>
+        </section>
+
+        <!-- Educational Section: Prescription Flow -->
+        <section class="bg-clinical-900 py-24 text-white overflow-hidden relative">
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+                <div class="text-center max-w-3xl mx-auto mb-20">
+                    <h2 class="text-4xl font-extrabold mb-6">Rezept einlösen: So funktioniert es</h2>
+                    <p class="text-clinical-200 text-lg">In drei einfachen Schritten von der Diagnose zur Behandlung. Sicher, diskret und legal.</p>
+                </div>
+
+                <div class="grid md:grid-cols-3 gap-12 relative">
+                    <!-- Step 1 -->
+                    <div class="relative z-10">
+                        <div class="w-16 h-16 bg-safety rounded-2xl flex items-center justify-center text-2xl font-black mb-8 shadow-lg shadow-safety/20">1</div>
+                        <h3 class="text-xl font-bold mb-4">Digitale Verordnung</h3>
+                        <p class="text-clinical-200 leading-relaxed">Erhalten Sie Ihr E-Rezept nach einer telemedizinischen Beratung oder von Ihrem behandelnden Arzt vor Ort.</p>
+                    </div>
+                    <!-- Step 2 -->
+                    <div class="relative z-10">
+                        <div class="w-16 h-16 bg-clinical-800 rounded-2xl flex items-center justify-center text-2xl font-black mb-8 shadow-lg border border-white/10">2</div>
+                        <h3 class="text-xl font-bold mb-4">Bestand prüfen</h3>
+                        <p class="text-clinical-200 leading-relaxed">Suchen Sie auf CanNavi nach Ihrer verordneten Sorte und wählen Sie eine Apotheke mit dem besten Preis.</p>
+                    </div>
+                    <!-- Step 3 -->
+                    <div class="relative z-10">
+                        <div class="w-16 h-16 bg-white text-clinical-900 rounded-2xl flex items-center justify-center text-2xl font-black mb-8 shadow-lg">3</div>
+                        <h3 class="text-xl font-bold mb-4">Versand oder Abholung</h3>
+                        <p class="text-clinical-200 leading-relaxed">Übermitteln Sie das Rezept digital. Die Apotheke liefert innerhalb von 24h oder bereitet die Abholung vor.</p>
+                    </div>
+                </div>
+
+                <div class="mt-20 p-8 rounded-3xl bg-white/5 border border-white/10 backdrop-blur-sm flex flex-col md:flex-row items-center justify-between gap-8">
+                    <div class="flex items-center gap-6">
+                        <div class="w-14 h-14 rounded-full bg-clinical-800 flex items-center justify-center flex-shrink-0">
+                            <svg class="w-6 h-6 text-safety" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"/></svg>
+                        </div>
+                        <div>
+                            <h4 class="font-bold text-lg">Sicherheit an erster Stelle</h4>
+                            <p class="text-sm text-clinical-200">Alle gelisteten Apotheken sind behördlich zertifiziert (gem. §31 SGB V).</p>
+                        </div>
+                    </div>
+                    <a href="#" class="bg-safety text-white px-10 py-4 rounded-xl font-bold hover:bg-opacity-90 transition-all whitespace-nowrap">Mehr über Telemedizin erfahren</a>
+                </div>
+            </div>
+
+            <!-- Background Decoration -->
+            <div class="absolute top-0 right-0 w-full h-full opacity-10 pointer-events-none">
+                <svg width="100%" height="100%" viewBox="0 0 100 100" preserveAspectRatio="none">
+                    <defs>
+                        <pattern id="grid" width="10" height="10" patternUnits="userSpaceOnUse">
+                            <path d="M 10 0 L 0 0 0 10" fill="none" stroke="white" stroke-width="0.1"/>
+                        </pattern>
+                    </defs>
+                    <rect width="100" height="100" fill="url(#grid)" />
+                </svg>
+            </div>
+        </section>
+
+        <!-- Top Featured Pharmacies -->
+        <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-24">
+            <div class="flex flex-col md:flex-row md:items-end justify-between gap-6 mb-12">
+                <div>
+                    <h2 class="text-3xl font-extrabold text-clinical-900 mb-2">Top-Partner Apotheken</h2>
+                    <p class="text-clinical-600">Hervorragender Service und Echtzeit-Bestände garantiert.</p>
+                </div>
+                <div class="flex gap-2">
+                    <button class="w-12 h-12 rounded-full border border-clinical-100 flex items-center justify-center hover:bg-clinical-50">
+                        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"/></svg>
+                    </button>
+                    <button class="w-12 h-12 rounded-full border border-clinical-100 flex items-center justify-center hover:bg-clinical-50">
+                        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+                    </button>
+                </div>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+                <!-- Pharmacy Card 1 -->
+                <div class="hyper-border group">
+                    <div class="h-48 overflow-hidden rounded-t-xl">
+                        <img src="https://images.unsplash.com/photo-1586015555751-63bb77f4322a?auto=format&fit=crop&q=80&w=800" alt="Pharmacy" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110">
+                    </div>
+                    <div class="p-8">
+                        <div class="flex justify-between items-start mb-4">
+                            <h3 class="text-xl font-extrabold text-clinical-900">Grünhorn Apotheke</h3>
+                            <span class="bg-green-100 text-green-700 text-[10px] font-black px-2 py-1 rounded uppercase">Versandaktiv</span>
+                        </div>
+                        <p class="text-sm text-clinical-600 mb-6 line-clamp-2">Spezialisiert auf Individualrezepturen und Blüten. Über 300 Sorten permanent verfügbar.</p>
+                        <div class="flex items-center justify-between text-xs font-bold text-clinical-400 uppercase tracking-tighter">
+                            <span>Leipzig</span>
+                            <span class="text-clinical-800">★★★★★ 4.9</span>
+                        </div>
+                        <hr class="my-6 border-clinical-50">
+                        <a href="/apotheke/gruenhorn" class="flex items-center justify-center w-full py-3 bg-clinical-50 text-clinical-800 rounded-xl font-bold hover:bg-clinical-800 hover:text-white transition-all">Zum Profil</a>
+                    </div>
+                </div>
+
+                <!-- Pharmacy Card 2 -->
+                <div class="hyper-border group">
+                    <div class="h-48 overflow-hidden rounded-t-xl">
+                        <img src="https://images.unsplash.com/photo-1631549916768-4119b295f789?auto=format&fit=crop&q=80&w=800" alt="Pharmacy" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110">
+                    </div>
+                    <div class="p-8">
+                        <div class="flex justify-between items-start mb-4">
+                            <h3 class="text-xl font-extrabold text-clinical-900">Cannabis-Taxi</h3>
+                            <span class="bg-blue-100 text-blue-700 text-[10px] font-black px-2 py-1 rounded uppercase">Botendienst</span>
+                        </div>
+                        <p class="text-sm text-clinical-600 mb-6 line-clamp-2">Express-Lieferung im Raum Stuttgart. Diskrete Übergabe durch geschultes Personal.</p>
+                        <div class="flex items-center justify-between text-xs font-bold text-clinical-400 uppercase tracking-tighter">
+                            <span>Stuttgart</span>
+                            <span class="text-clinical-800">★★★★★ 4.8</span>
+                        </div>
+                        <hr class="my-6 border-clinical-50">
+                        <a href="/apotheke/cannabis-taxi" class="flex items-center justify-center w-full py-3 bg-clinical-50 text-clinical-800 rounded-xl font-bold hover:bg-clinical-800 hover:text-white transition-all">Zum Profil</a>
+                    </div>
+                </div>
+
+                <!-- Pharmacy Card 3 -->
+                <div class="hyper-border group">
+                    <div class="h-48 overflow-hidden rounded-t-xl">
+                        <img src="https://images.unsplash.com/photo-1576602976047-174e57a47881?auto=format&fit=crop&q=80&w=800" alt="Pharmacy" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110">
+                    </div>
+                    <div class="p-8">
+                        <div class="flex justify-between items-start mb-4">
+                            <h3 class="text-xl font-extrabold text-clinical-900">Lux 99</h3>
+                            <span class="bg-clinical-100 text-clinical-800 text-[10px] font-black px-2 py-1 rounded uppercase">Vor-Ort-Service</span>
+                        </div>
+                        <p class="text-sm text-clinical-600 mb-6 line-clamp-2">Exzellente Beratung in Berlin-Mitte. Fokus auf Schmerztherapie und CBD-Blüten.</p>
+                        <div class="flex items-center justify-between text-xs font-bold text-clinical-400 uppercase tracking-tighter">
+                            <span>Berlin</span>
+                            <span class="text-clinical-800">★★★★★ 5.0</span>
+                        </div>
+                        <hr class="my-6 border-clinical-50">
+                        <a href="/apotheke/lux-99" class="flex items-center justify-center w-full py-3 bg-clinical-50 text-clinical-800 rounded-xl font-bold hover:bg-clinical-800 hover:text-white transition-all">Zum Profil</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- FAQ Accordion -->
+        <section class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-24 border-t border-clinical-50" x-data="{ open: null }">
+            <h2 class="text-3xl font-extrabold text-clinical-900 mb-12 text-center">Häufige Fragen zu Apotheken</h2>
+            <div class="space-y-4">
+                <template x-for="(faq, index) in [
+                    { q: 'Kann ich jedes Rezept bei einer Versandapotheke einlösen?', a: 'Ja, sofern es sich um ein gültiges Kassen- oder Privatrezept handelt. Bei Betäubungsmitteln (BtM) gelten spezielle Dokumentationspflichten, die unsere Partner-Apotheken jedoch routiniert abwickeln.' },
+                    { q: 'Wie lange dauert die Lieferung im Durchschnitt?', a: 'Nach Rezepteingang versenden die meisten spezialisierten Apotheken innerhalb von 24 Stunden. Mit DHL Express erhalten Sie Ihre Medikamente meist am nächsten Werktag.' },
+                    { q: 'Sind die Preise auf CanNavi verbindlich?', a: 'Wir synchronisieren die Preise alle 15 Minuten mit den Warenwirtschaftssystemen der Apotheken. Dennoch ist der final in der Apotheke angezeigte Preis maßgeblich.' }
+                ]">
+                    <div class="border border-clinical-100 rounded-2xl overflow-hidden bg-white">
+                        <button 
+                            @click="open = open === index ? null : index"
+                            class="w-full p-6 text-left flex justify-between items-center hover:bg-clinical-50 transition-colors"
+                        >
+                            <span class="font-bold text-clinical-900" x-text="faq.q"></span>
+                            <svg class="w-5 h-5 text-clinical-400 transition-transform duration-300" :class="open === index ? 'rotate-180' : ''" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+                        </button>
+                        <div x-show="open === index" x-collapse class="p-6 pt-0 text-clinical-600 text-sm leading-relaxed" x-text="faq.a"></div>
+                    </div>
+                </template>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-white border-t border-clinical-100 pt-16 pb-8">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-12 mb-16">
+                <div class="col-span-2">
+                    <a href="/" class="flex items-center space-x-2 mb-6">
+                        <div class="w-8 h-8 bg-clinical-800 rounded-lg flex items-center justify-center text-white font-bold">+</div>
+                        <span class="text-xl font-extrabold tracking-tighter text-clinical-900 uppercase">CanNavi</span>
+                    </a>
+                    <p class="text-clinical-600 max-w-xs mb-6">Ihr verlässlicher Begleiter für medizinisches Cannabis in Deutschland. Neutral, aktuell und transparent.</p>
+                </div>
+                <div>
+                    <h4 class="font-bold text-clinical-900 mb-6">Apotheken</h4>
+                    <ul class="space-y-4 text-sm text-clinical-600">
+                        <li><a href="#" class="hover:text-clinical-900">Städte-Übersicht</a></li>
+                        <li><a href="#" class="hover:text-clinical-900">Versandapotheken</a></li>
+                        <li><a href="#" class="hover:text-clinical-900">Botendienste</a></li>
+                        <li><a href="#" class="hover:text-clinical-900">Rezept-Check</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h4 class="font-bold text-clinical-900 mb-6">Plattform</h4>
+                    <ul class="space-y-4 text-sm text-clinical-600">
+                        <li><a href="#" class="hover:text-clinical-900">Apotheken-Login</a></li>
+                        <li><a href="#" class="hover:text-clinical-900">API Dokumentation</a></li>
+                        <li><a href="#" class="hover:text-clinical-900">Über uns</a></li>
+                        <li><a href="#" class="hover:text-clinical-900">Kontakt</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h4 class="font-bold text-clinical-900 mb-6">Rechtliches</h4>
+                    <ul class="space-y-4 text-sm text-clinical-600">
+                        <li><a href="#" class="hover:text-clinical-900">Impressum</a></li>
+                        <li><a href="#" class="hover:text-clinical-900">Datenschutz</a></li>
+                        <li><a href="#" class="hover:text-clinical-900">AGB</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="pt-8 border-t border-clinical-50 flex flex-col md:flex-row justify-between items-center gap-4 text-xs text-clinical-200 font-bold uppercase tracking-widest">
+                <p>© 2024 CanNavi Health Media GmbH. Alle Rechte vorbehalten.</p>
+                <div class="flex gap-8">
+                    <span>Jugendschutzbeauftragter</span>
+                    <span>Zertifiziert nach § 31 SGB V</span>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Sticky Mobile Actions -->
+    <div class="md:hidden fixed bottom-6 left-1/2 -translate-x-1/2 z-50 w-[90%]">
+        <div class="glass-panel rounded-2xl px-2 py-2 shadow-2xl flex gap-2 items-center border border-white/20">
+            <button class="flex-grow bg-clinical-800 text-white py-4 rounded-xl font-bold flex items-center justify-center gap-2">
+                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/></svg>
+                Apotheke finden
+            </button>
+            <button class="w-14 h-14 bg-white rounded-xl flex items-center justify-center text-clinical-800 border border-clinical-100">
+                <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"/></svg>
+            </button>
+        </div>
+    </div>
+
+</body>
+</html>

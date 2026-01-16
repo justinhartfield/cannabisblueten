@@ -1,0 +1,531 @@
+<!DOCTYPE html>
+<html lang="de" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Demecan Typ 1 L.A. Kush - Preisvergleich & Details | CanNavi</title>
+    
+    <!-- Fonts & Scripts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+    
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: { sans: ['Manrope', 'sans-serif'] },
+                    colors: {
+                        clinical: {
+                            50: '#f4f7f6',
+                            100: '#e3eae8',
+                            200: '#c7d5d2',
+                            600: '#3d5a54',
+                            800: '#1a3c34', 
+                            900: '#0f241f',
+                        },
+                        accent: '#cfdbd5',
+                        safety: '#006d77',
+                    },
+                    animation: {
+                        'pulse-slow': 'pulse 6s cubic-bezier(0.4, 0, 0.6, 1) infinite',
+                        'float': 'float 3s ease-in-out infinite',
+                    },
+                    keyframes: {
+                        float: {
+                            '0%, 100%': { transform: 'translateY(0px)' },
+                            '50%': { transform: 'translateY(-10px)' },
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+
+    <style>
+        [x-cloak] { display: none !important; }
+
+        body {
+            background-color: #f8faf9;
+            color: #1a3c34;
+            overflow-x: hidden;
+        }
+
+        .noise-overlay {
+            position: fixed;
+            top: 0; left: 0; width: 100%; height: 100%;
+            pointer-events: none;
+            z-index: 9999;
+            opacity: 0.04;
+            background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3BaseFilter id='filter'%3BfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23filter)'/%3E%3C/svg%3E");
+        }
+
+        .hyper-border {
+            position: relative;
+            background: white;
+            border-radius: 12px;
+            transition: all 0.4s cubic-bezier(0.23, 1, 0.32, 1);
+        }
+        .hyper-border::before {
+            content: '';
+            position: absolute;
+            inset: -1px;
+            background: linear-gradient(135deg, #3d5a54 0%, transparent 40%, transparent 60%, #3d5a54 100%);
+            border-radius: 13px;
+            z-index: -1;
+            opacity: 0.2;
+        }
+
+        .glass-panel {
+            background: rgba(255, 255, 255, 0.7);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            border: 1px solid rgba(255, 255, 255, 0.3);
+        }
+
+        .sticky-mobile-cta {
+            box-shadow: 0 -10px 40px rgba(0, 0, 0, 0.05);
+        }
+
+        .offer-row:hover {
+            transform: scale(1.005);
+            box-shadow: 0 10px 30px -10px rgba(26, 60, 52, 0.1);
+        }
+
+        ::-webkit-scrollbar { width: 6px; }
+        ::-webkit-scrollbar-track { background: #f1f1f1; }
+        ::-webkit-scrollbar-thumb { background: #3d5a54; border-radius: 10px; }
+    </style>
+</head>
+<body class="min-h-screen flex flex-col font-sans" x-data="{ sortMethod: 'price', scrollAtTop: true }" @scroll.window="scrollAtTop = (window.pageYOffset > 400 ? false : true)">
+    <div class="noise-overlay"></div>
+
+    <!-- Navigation -->
+    <nav class="sticky top-0 z-50 glass-panel border-b border-clinical-100">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between h-16 items-center">
+                <div class="flex items-center gap-8">
+                    <a href="/" class="flex items-center space-x-2 group">
+                        <div class="w-8 h-8 bg-clinical-800 rounded-lg flex items-center justify-center group-hover:rotate-45 transition-transform duration-500">
+                            <span class="text-white font-bold">+</span>
+                        </div>
+                        <span class="text-xl font-extrabold tracking-tighter text-clinical-900 uppercase">CanNavi</span>
+                    </a>
+                    <div class="hidden md:flex space-x-6 text-sm font-medium text-clinical-600">
+                        <a href="/products/cannabisblueten" class="text-clinical-900 border-b-2 border-clinical-800">Blüten</a>
+                        <a href="/products/extracts" class="hover:text-clinical-900 transition-colors">Extrakte</a>
+                        <a href="/cannabis-apotheke" class="hover:text-clinical-900 transition-colors">Apotheken</a>
+                        <a href="#" class="hover:text-clinical-900 transition-colors">Wissen</a>
+                    </div>
+                </div>
+                <div class="flex items-center gap-4">
+                    <button class="hidden sm:block px-4 py-2 text-sm font-semibold text-clinical-800 border border-clinical-200 rounded-full hover:bg-clinical-50 transition-all">Anmelden</button>
+                    <button class="bg-clinical-800 text-white px-5 py-2 text-sm font-semibold rounded-full hover:bg-clinical-900 transition-all shadow-lg shadow-clinical-800/20">Rezept einlösen</button>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="flex-grow">
+        
+        <!-- Breadcrumbs (MANDATORY) -->
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-6">
+            <nav class="flex text-[10px] font-bold tracking-[0.1em] uppercase text-clinical-200" aria-label="Breadcrumb">
+                <ol class="flex items-center space-x-2">
+                    <li><a href="/" class="hover:text-clinical-600">Home</a></li>
+                    <li><span class="mx-1">/</span></li>
+                    <li><a href="/products" class="hover:text-clinical-600">Products</a></li>
+                    <li><span class="mx-1">/</span></li>
+                    <li><a href="/products/cannabisblueten" class="hover:text-clinical-600">Flowers</a></li>
+                    <li><span class="mx-1">/</span></li>
+                    <li class="text-clinical-600">Demecan Typ 1 L.A. Kush</li>
+                </ol>
+            </nav>
+        </div>
+
+        <!-- Product Hero -->
+        <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-10 pb-16">
+            <div class="flex flex-col lg:flex-row gap-12 items-start">
+                <!-- Image/Visual Column -->
+                <div class="w-full lg:w-2/5 group">
+                    <div class="relative aspect-square rounded-[32px] bg-white border border-clinical-100 p-8 flex items-center justify-center overflow-hidden">
+                        <div class="absolute inset-0 bg-gradient-to-br from-clinical-50/50 to-transparent opacity-50"></div>
+                        <img src="https://images.unsplash.com/photo-1603909223429-69bb7101f420?auto=format&fit=crop&q=80&w=600" alt="Demecan Typ 1" class="relative z-10 w-4/5 h-auto object-contain animate-float drop-shadow-2xl">
+                        
+                        <!-- Floating Badge -->
+                        <div class="absolute top-6 right-6 bg-white/80 backdrop-blur px-4 py-2 rounded-2xl border border-clinical-100 shadow-sm">
+                            <p class="text-[10px] font-bold text-clinical-200 uppercase tracking-widest leading-none mb-1">Status</p>
+                            <p class="text-xs font-extrabold text-green-600 flex items-center gap-1">
+                                <span class="w-1.5 h-1.5 rounded-full bg-green-500"></span> Sofort lieferbar
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Content Column -->
+                <div class="flex-1">
+                    <div class="flex items-center gap-3 mb-4">
+                        <span class="px-2 py-1 bg-clinical-900 text-white text-[10px] font-bold rounded uppercase tracking-wider">Indica Dominant</span>
+                        <span class="px-2 py-1 bg-clinical-100 text-clinical-800 text-[10px] font-bold rounded uppercase tracking-wider">Kultivar</span>
+                    </div>
+                    
+                    <h1 class="text-4xl md:text-5xl font-extrabold text-clinical-900 leading-tight mb-4">
+                        Demecan Typ 1 L.A. Kush
+                    </h1>
+                    
+                    <p class="text-clinical-600 text-lg leading-relaxed mb-8 max-w-2xl">
+                        Ein hochqualitatives medizinisches Cannabisprodukt, gezüchtet in Deutschland. Bekannt für sein erdig-süßes Aroma und entspannende Eigenschaften.
+                    </p>
+
+                    <!-- Key Stats Strip -->
+                    <div class="grid grid-cols-2 sm:grid-cols-4 gap-4 p-6 bg-white rounded-2xl border border-clinical-100 shadow-sm mb-10">
+                        <div>
+                            <p class="text-[10px] font-bold text-clinical-200 uppercase tracking-widest mb-1">THC Gehalt</p>
+                            <p class="text-2xl font-extrabold text-clinical-900">22.4%</p>
+                        </div>
+                        <div>
+                            <p class="text-[10px] font-bold text-clinical-200 uppercase tracking-widest mb-1">CBD Gehalt</p>
+                            <p class="text-2xl font-extrabold text-clinical-900">&lt;1.0%</p>
+                        </div>
+                        <div>
+                            <p class="text-[10px] font-bold text-clinical-200 uppercase tracking-widest mb-1">Bestpreis</p>
+                            <p class="text-2xl font-extrabold text-safety">6.45 €</p>
+                        </div>
+                        <div>
+                            <p class="text-[10px] font-bold text-clinical-200 uppercase tracking-widest mb-1">Angebote</p>
+                            <p class="text-2xl font-extrabold text-clinical-900">14</p>
+                        </div>
+                    </div>
+
+                    <!-- Linked Entities -->
+                    <div class="flex flex-wrap gap-4 items-center">
+                        <a href="/strain/la-kush" class="flex items-center gap-3 p-2 pr-4 bg-white border border-clinical-100 rounded-xl hover:border-clinical-600 transition-all group">
+                            <div class="w-10 h-10 rounded-lg bg-clinical-50 flex items-center justify-center text-clinical-600">
+                                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M12 3L4 9v12h16V9l-8-6z"/></svg>
+                            </div>
+                            <div>
+                                <p class="text-[10px] font-bold text-clinical-200 uppercase">Strain</p>
+                                <p class="text-xs font-bold text-clinical-900">L.A. Kush Cake</p>
+                            </div>
+                        </a>
+                        <a href="/brand/demecan" class="flex items-center gap-3 p-2 pr-4 bg-white border border-clinical-100 rounded-xl hover:border-clinical-600 transition-all group">
+                            <div class="w-10 h-10 rounded-lg bg-clinical-50 flex items-center justify-center text-clinical-600 font-bold text-xs">D</div>
+                            <div>
+                                <p class="text-[10px] font-bold text-clinical-200 uppercase">Hersteller</p>
+                                <p class="text-xs font-bold text-clinical-900">Demecan GmbH</p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Offer Comparison Module (DOMINANT) -->
+        <section id="offers" class="bg-clinical-50/50 py-24 border-y border-clinical-100">
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                <div class="flex flex-col md:flex-row justify-between items-end gap-6 mb-12">
+                    <div>
+                        <h2 class="text-3xl font-extrabold text-clinical-900 mb-2">Verfügbarkeit & Preisvergleich</h2>
+                        <p class="text-clinical-600">Alle Preise inkl. MwSt. zzgl. Versandkosten. Zuletzt aktualisiert vor 4 Minuten.</p>
+                    </div>
+                    <div class="flex gap-2">
+                        <select x-model="sortMethod" class="bg-white border border-clinical-200 text-sm font-bold px-4 py-2 rounded-xl focus:outline-none focus:ring-2 focus:ring-clinical-600">
+                            <option value="price">Günstigster Preis</option>
+                            <option value="delivery">Schnellste Lieferung</option>
+                            <option value="rating">Beste Bewertung</option>
+                        </select>
+                    </div>
+                </div>
+
+                <!-- Offers Hybrid Table -->
+                <div class="space-y-3">
+                    <!-- Offer Row 1 -->
+                    <div class="offer-row glass-panel border border-clinical-100 p-4 md:p-6 rounded-[20px] flex flex-col md:flex-row items-center justify-between gap-6 transition-all duration-300">
+                        <div class="flex items-center gap-6 w-full md:w-1/3">
+                            <div class="w-16 h-16 bg-white rounded-2xl flex items-center justify-center border border-clinical-50 p-2 shadow-sm">
+                                <img src="https://www.gruenhorn.de/media/vector/95/96/57/Logo_Gruenhorn_Apotheke.svg" alt="Apotheke" class="max-w-full opacity-80">
+                            </div>
+                            <div>
+                                <h4 class="font-bold text-clinical-900">Grünhorn Apotheke</h4>
+                                <p class="text-xs text-clinical-600 flex items-center gap-1">
+                                    <svg class="w-3 h-3 text-yellow-400" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+                                    4.9 (2k+ Rezensionen)
+                                </p>
+                            </div>
+                        </div>
+                        <div class="flex items-center justify-around flex-1 w-full text-center md:text-left">
+                            <div>
+                                <p class="text-[10px] font-bold text-clinical-200 uppercase tracking-widest mb-1">Lieferzeit</p>
+                                <p class="text-sm font-bold text-clinical-900">24h Express</p>
+                            </div>
+                            <div>
+                                <p class="text-[10px] font-bold text-clinical-200 uppercase tracking-widest mb-1">Bestand</p>
+                                <span class="px-2 py-0.5 bg-green-100 text-green-700 rounded text-[10px] font-bold uppercase tracking-wider">Lagernd</span>
+                            </div>
+                            <div class="hidden md:block">
+                                <p class="text-[10px] font-bold text-clinical-200 uppercase tracking-widest mb-1">Zahlungsarten</p>
+                                <div class="flex gap-2 opacity-40">
+                                    <div class="w-6 h-4 bg-clinical-200 rounded-sm"></div>
+                                    <div class="w-6 h-4 bg-clinical-200 rounded-sm"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="flex items-center gap-6 w-full md:w-auto">
+                            <div class="text-right flex-1 md:flex-none">
+                                <p class="text-2xl font-black text-clinical-900">6,45 € <span class="text-xs font-normal text-clinical-600">/g</span></p>
+                                <p class="text-[10px] text-clinical-200 font-bold">Inkl. 7% MwSt.</p>
+                            </div>
+                            <button class="flex-1 md:flex-none bg-clinical-800 text-white px-8 py-4 rounded-2xl font-bold hover:bg-clinical-900 transition-all shadow-xl shadow-clinical-800/20 group">
+                                <span class="group-hover:translate-x-1 transition-transform inline-block">Zum Shop →</span>
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Offer Row 2 -->
+                    <div class="offer-row glass-panel border border-clinical-100 p-4 md:p-6 rounded-[20px] flex flex-col md:flex-row items-center justify-between gap-6 transition-all duration-300">
+                        <div class="flex items-center gap-6 w-full md:w-1/3">
+                            <div class="w-16 h-16 bg-white rounded-2xl flex items-center justify-center border border-clinical-50 p-2 shadow-sm font-black text-clinical-800 italic">
+                                AP
+                            </div>
+                            <div>
+                                <h4 class="font-bold text-clinical-900">Algea Apotheke</h4>
+                                <p class="text-xs text-clinical-600 flex items-center gap-1">
+                                    <svg class="w-3 h-3 text-yellow-400" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+                                    4.7 (850 Rezensionen)
+                                </p>
+                            </div>
+                        </div>
+                        <div class="flex items-center justify-around flex-1 w-full text-center md:text-left">
+                            <div>
+                                <p class="text-[10px] font-bold text-clinical-200 uppercase tracking-widest mb-1">Lieferzeit</p>
+                                <p class="text-sm font-bold text-clinical-900">2-3 Werktage</p>
+                            </div>
+                            <div>
+                                <p class="text-[10px] font-bold text-clinical-200 uppercase tracking-widest mb-1">Bestand</p>
+                                <span class="px-2 py-0.5 bg-yellow-100 text-yellow-700 rounded text-[10px] font-bold uppercase tracking-wider">Begrenzt</span>
+                            </div>
+                            <div class="hidden md:block">
+                                <p class="text-[10px] font-bold text-clinical-200 uppercase tracking-widest mb-1">Zahlungsarten</p>
+                                <div class="flex gap-2 opacity-40">
+                                    <div class="w-6 h-4 bg-clinical-200 rounded-sm"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="flex items-center gap-6 w-full md:w-auto">
+                            <div class="text-right flex-1 md:flex-none">
+                                <p class="text-2xl font-black text-clinical-900">6,90 € <span class="text-xs font-normal text-clinical-600">/g</span></p>
+                                <p class="text-[10px] text-clinical-200 font-bold">Inkl. 7% MwSt.</p>
+                            </div>
+                            <button class="flex-1 md:flex-none bg-clinical-100 text-clinical-800 px-8 py-4 rounded-2xl font-bold hover:bg-clinical-200 transition-all">Zum Shop</button>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="mt-8 text-center">
+                    <button class="text-clinical-600 font-bold text-sm border-b border-clinical-200 pb-1 hover:text-clinical-900 hover:border-clinical-900 transition-all">Alle 14 Angebote laden</button>
+                </div>
+            </div>
+        </section>
+
+        <!-- Product Specs & Details -->
+        <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-24 grid grid-cols-1 lg:grid-cols-3 gap-16">
+            <div class="lg:col-span-2">
+                <h3 class="text-2xl font-extrabold text-clinical-900 mb-8 flex items-center gap-3">
+                    <span class="w-8 h-1 bg-clinical-800"></span> 
+                    Technische Spezifikationen
+                </h3>
+                
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-y-10 gap-x-12">
+                    <div class="space-y-4">
+                        <div class="flex justify-between border-b border-clinical-100 pb-2">
+                            <span class="text-clinical-600">Hersteller</span>
+                            <span class="font-bold text-clinical-900">Demecan</span>
+                        </div>
+                        <div class="flex justify-between border-b border-clinical-100 pb-2">
+                            <span class="text-clinical-600">Genetik</span>
+                            <span class="font-bold text-clinical-900">L.A. Kush Cake</span>
+                        </div>
+                        <div class="flex justify-between border-b border-clinical-100 pb-2">
+                            <span class="text-clinical-600">Anbauweise</span>
+                            <span class="font-bold text-clinical-900">Indoor</span>
+                        </div>
+                        <div class="flex justify-between border-b border-clinical-100 pb-2">
+                            <span class="text-clinical-600">Bestrahlung</span>
+                            <span class="font-bold text-clinical-900">Unbestrahlt</span>
+                        </div>
+                    </div>
+                    <div class="space-y-4">
+                        <div class="flex justify-between border-b border-clinical-100 pb-2">
+                            <span class="text-clinical-600">Terpene</span>
+                            <div class="flex gap-1">
+                                <span class="px-2 py-0.5 bg-clinical-50 text-[10px] font-bold rounded">Myrcen</span>
+                                <span class="px-2 py-0.5 bg-clinical-50 text-[10px] font-bold rounded">Limonen</span>
+                            </div>
+                        </div>
+                        <div class="flex justify-between border-b border-clinical-100 pb-2">
+                            <span class="text-clinical-600">PZN</span>
+                            <span class="font-bold text-clinical-900">12345678</span>
+                        </div>
+                        <div class="flex justify-between border-b border-clinical-100 pb-2">
+                            <span class="text-clinical-600">Herkunft</span>
+                            <span class="font-bold text-clinical-900">Deutschland</span>
+                        </div>
+                        <div class="flex justify-between border-b border-clinical-100 pb-2">
+                            <span class="text-clinical-600">Chargen-Nr.</span>
+                            <span class="font-bold text-clinical-900">LAK-2024-001</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="mt-16">
+                    <h3 class="text-2xl font-extrabold text-clinical-900 mb-6">Wirkungsprofil</h3>
+                    <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+                        <div class="p-4 bg-white border border-clinical-100 rounded-2xl text-center">
+                            <div class="text-xl mb-1">🧘</div>
+                            <p class="text-xs font-bold text-clinical-900">Entspannend</p>
+                        </div>
+                        <div class="p-4 bg-white border border-clinical-100 rounded-2xl text-center">
+                            <div class="text-xl mb-1">💤</div>
+                            <p class="text-xs font-bold text-clinical-900">Schlaffördernd</p>
+                        </div>
+                        <div class="p-4 bg-white border border-clinical-100 rounded-2xl text-center">
+                            <div class="text-xl mb-1">🍔</div>
+                            <p class="text-xs font-bold text-clinical-900">Appetitanregend</p>
+                        </div>
+                        <div class="p-4 bg-white border border-clinical-100 rounded-2xl text-center">
+                            <div class="text-xl mb-1">✨</div>
+                            <p class="text-xs font-bold text-clinical-900">Euphorisierend</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Sidebar Info/Similar -->
+            <div class="space-y-12">
+                <div class="bg-clinical-900 rounded-[24px] p-8 text-white relative overflow-hidden group">
+                    <div class="absolute inset-0 opacity-10 bg-cover" style="background-image: url('https://images.unsplash.com/photo-1559832333-548eb2393a4c?auto=format&fit=crop&q=80&w=400');"></div>
+                    <div class="relative z-10">
+                        <h4 class="text-xl font-extrabold mb-4">Patienten-Zertifikat</h4>
+                        <p class="text-sm text-clinical-100 mb-6 leading-relaxed">Dieses Produkt ist für die Therapie von chronischen Schmerzen und Spastiken zertifiziert.</p>
+                        <button class="w-full py-3 bg-white text-clinical-900 rounded-xl font-bold text-sm hover:bg-clinical-50 transition-all">COA Analyse PDF (v1.2)</button>
+                    </div>
+                </div>
+
+                <div>
+                    <h4 class="font-bold text-clinical-900 mb-6 uppercase tracking-widest text-xs">Ähnliche Produkte</h4>
+                    <div class="space-y-4">
+                        <a href="#" class="flex items-center gap-4 group">
+                            <div class="w-16 h-16 bg-white border border-clinical-100 rounded-xl flex-shrink-0 flex items-center justify-center p-2">
+                                <img src="https://images.unsplash.com/photo-1603909223429-69bb7101f420?auto=format&fit=crop&q=80&w=100" class="w-full opacity-80 grayscale group-hover:grayscale-0 transition-all">
+                            </div>
+                            <div>
+                                <p class="text-sm font-bold text-clinical-900 group-hover:text-clinical-600 transition-colors">Four 20 Pharma GG#4</p>
+                                <p class="text-[10px] text-clinical-200 font-bold uppercase">Hybrid • 20.5% THC</p>
+                            </div>
+                        </a>
+                        <a href="#" class="flex items-center gap-4 group">
+                            <div class="w-16 h-16 bg-white border border-clinical-100 rounded-xl flex-shrink-0 flex items-center justify-center p-2">
+                                <img src="https://images.unsplash.com/photo-1603909223429-69bb7101f420?auto=format&fit=crop&q=80&w=100" class="w-full opacity-80 grayscale group-hover:grayscale-0 transition-all">
+                            </div>
+                            <div>
+                                <p class="text-sm font-bold text-clinical-900 group-hover:text-clinical-600 transition-colors">Cantourage Slurricane</p>
+                                <p class="text-[10px] text-clinical-200 font-bold uppercase">Indica • 24.0% THC</p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- FAQ Section -->
+        <section class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-24 border-t border-clinical-100" x-data="{ openFaq: 1 }">
+            <h3 class="text-3xl font-extrabold text-clinical-900 mb-12 text-center">Häufige Fragen zu Demecan L.A. Kush</h3>
+            <div class="space-y-4">
+                <div class="bg-white border border-clinical-100 rounded-2xl overflow-hidden">
+                    <button @click="openFaq = (openFaq === 1 ? 0 : 1)" class="w-full px-6 py-5 text-left flex justify-between items-center hover:bg-clinical-50 transition-colors">
+                        <span class="font-bold text-clinical-900">Wie wirkt Demecan Typ 1 L.A. Kush?</span>
+                        <svg class="w-5 h-5 transition-transform" :class="openFaq === 1 ? 'rotate-180' : ''" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+                    </button>
+                    <div x-show="openFaq === 1" class="px-6 py-5 text-clinical-600 text-sm leading-relaxed border-t border-clinical-50">
+                        Dieses Indica-dominante Kultivar wirkt primär körperlich entspannend und beruhigend. Patienten berichten oft von einer effektiven Schmerzlinderung und Hilfe bei Schlafstörungen.
+                    </div>
+                </div>
+                <div class="bg-white border border-clinical-100 rounded-2xl overflow-hidden">
+                    <button @click="openFaq = (openFaq === 2 ? 0 : 2)" class="w-full px-6 py-5 text-left flex justify-between items-center hover:bg-clinical-50 transition-colors">
+                        <span class="font-bold text-clinical-900">Ist das Produkt bestrahlt?</span>
+                        <svg class="w-5 h-5 transition-transform" :class="openFaq === 2 ? 'rotate-180' : ''" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+                    </button>
+                    <div x-show="openFaq === 2" class="px-6 py-5 text-clinical-600 text-sm leading-relaxed border-t border-clinical-50">
+                        Nein, der Demecan Typ 1 L.A. Kush ist ein unbestrahltes Produkt, was das volle Spektrum der Terpene und Cannabinoide erhält.
+                    </div>
+                </div>
+            </div>
+
+            <!-- Sources & Last Updated -->
+            <div class="mt-16 pt-8 border-t border-clinical-50 flex flex-col md:flex-row justify-between gap-4 text-[10px] font-bold text-clinical-200 uppercase tracking-[0.2em]">
+                <p>Datenquellen: Apotheken-Schnittstellen (LIVE), BfArM Verzeichnis</p>
+                <p>Letztes Update: 14. Mai 2024, 14:32 Uhr</p>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-white border-t border-clinical-100 pt-16 pb-8">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-12 mb-16">
+                <div class="col-span-2">
+                    <a href="/" class="flex items-center space-x-2 mb-6">
+                        <div class="w-8 h-8 bg-clinical-800 rounded-lg flex items-center justify-center text-white font-bold">+</div>
+                        <span class="text-xl font-extrabold tracking-tighter text-clinical-900 uppercase">CanNavi</span>
+                    </a>
+                    <p class="text-clinical-600 max-w-xs mb-6 text-sm">Präzision in der medizinischen Versorgung. Deutschlands führende Plattform für transparente Cannabis-Informationen.</p>
+                </div>
+                <div>
+                    <h4 class="font-bold text-clinical-900 mb-6 text-sm">Therapie</h4>
+                    <ul class="space-y-4 text-xs text-clinical-600">
+                        <li><a href="#" class="hover:text-clinical-900">Schmerztherapie</a></li>
+                        <li><a href="#" class="hover:text-clinical-900">Neurologie</a></li>
+                        <li><a href="#" class="hover:text-clinical-900">Onkologie</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h4 class="font-bold text-clinical-900 mb-6 text-sm">Plattform</h4>
+                    <ul class="space-y-4 text-xs text-clinical-600">
+                        <li><a href="#" class="hover:text-clinical-900">Über CanNavi</a></li>
+                        <li><a href="#" class="hover:text-clinical-900">Qualitätsstandards</a></li>
+                        <li><a href="#" class="hover:text-clinical-900">Kontakt</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h4 class="font-bold text-clinical-900 mb-6 text-sm">Rechtliches</h4>
+                    <ul class="space-y-4 text-xs text-clinical-600">
+                        <li><a href="#" class="hover:text-clinical-900">Datenschutz</a></li>
+                        <li><a href="#" class="hover:text-clinical-900">Impressum</a></li>
+                        <li><a href="#" class="hover:text-clinical-900">AGB</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="pt-8 border-t border-clinical-50 text-center text-[10px] text-clinical-200 font-bold uppercase tracking-widest">
+                © 2024 CanNavi Health. Diese Informationen dienen der Aufklärung und ersetzen keinen ärztlichen Rat.
+            </div>
+        </div>
+    </footer>
+
+    <!-- Mobile Sticky CTA (MANDATORY) -->
+    <div x-show="!scrollAtTop" x-transition:enter="transition ease-out duration-300" x-transition:enter-start="translate-y-full" x-transition:enter-end="translate-y-0" x-transition:leave="transition ease-in duration-300" x-transition:leave-start="translate-y-0" x-transition:leave-end="translate-y-full" class="md:hidden fixed bottom-0 left-0 right-0 z-50 p-4 bg-white/95 backdrop-blur-xl border-t border-clinical-100 sticky-mobile-cta">
+        <div class="flex items-center justify-between gap-4">
+            <div>
+                <p class="text-[10px] font-bold text-clinical-200 uppercase">Ab</p>
+                <p class="text-xl font-black text-clinical-900">6,45 € <span class="text-xs font-normal">/g</span></p>
+            </div>
+            <a href="#offers" class="flex-1 bg-clinical-800 text-white py-4 rounded-xl font-bold text-center shadow-lg shadow-clinical-800/20">
+                14 Angebote ansehen
+            </a>
+        </div>
+    </div>
+
+</body>
+</html>

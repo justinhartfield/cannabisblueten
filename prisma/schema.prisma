@@ -1,0 +1,622 @@
+// Cannabis pSEO Database Schema
+//
+// Entity Graph:
+//   Strain ↔ Strain (parent/child, similar)
+//   Strain ↔ Terpene (contains)
+//   Strain ↔ Product (is_strain_of)
+//   Product ↔ Pharmacy (offered_by)
+//   Product ↔ Brand (manufactured_by)
+//   Pharmacy ↔ City (located_in)
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// =============================================================================
+// STRAIN
+// =============================================================================
+
+model Strain {
+  id       String   @id @default(cuid())
+  slug     String   @unique
+  name     String
+  synonyms String[] @default([])
+
+  // Cannabinoid ranges
+  thcMin Float?
+  thcMax Float?
+  cbdMin Float?
+  cbdMax Float?
+
+  // Genetics
+  geneticType GeneticType?
+  hybridRatio String?
+  dominance   HybridDominance?
+  breeder     String?
+  yearBred    Int?
+
+  // Content
+  description String?
+
+  // Computed fields (denormalized for performance)
+  pharmacyCount Int  @default(0)
+  priceMin      Int? // cents
+  priceMax      Int? // cents
+  priceMedian   Int? // cents
+
+  // Timestamps
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  // Relations
+  products Product[]
+
+  // Self-referential relations for genetics
+  parents  StrainParent[] @relation("ChildStrain")
+  children StrainParent[] @relation("ParentStrain")
+
+  // Similar strains
+  similarTo   StrainSimilarity[] @relation("SimilarFrom")
+  similarFrom StrainSimilarity[] @relation("SimilarTo")
+
+  // Terpenes
+  terpenes StrainTerpene[]
+
+  // Effects and Flavors
+  effects StrainEffect[]
+  flavors StrainFlavor[]
+
+  @@index([slug])
+  @@index([name])
+  @@index([geneticType])
+  @@index([pharmacyCount])
+}
+
+// Junction table for strain parent-child relationships
+model StrainParent {
+  id String @id @default(cuid())
+
+  parentId String
+  parent   Strain @relation("ParentStrain", fields: [parentId], references: [id], onDelete: Cascade)
+
+  childId String
+  child   Strain @relation("ChildStrain", fields: [childId], references: [id], onDelete: Cascade)
+
+  @@unique([parentId, childId])
+  @@index([parentId])
+  @@index([childId])
+}
+
+// Junction table for strain similarity
+model StrainSimilarity {
+  id String @id @default(cuid())
+
+  strainId String
+  strain   Strain @relation("SimilarFrom", fields: [strainId], references: [id], onDelete: Cascade)
+
+  similarId String
+  similar   Strain @relation("SimilarTo", fields: [similarId], references: [id], onDelete: Cascade)
+
+  score   Float // 0-1 similarity score
+  reasons Json // Array of similarity reasons
+
+  @@unique([strainId, similarId])
+  @@index([strainId])
+  @@index([similarId])
+  @@index([score])
+}
+
+// =============================================================================
+// TERPENE
+// =============================================================================
+
+model Terpene {
+  id                  String   @id @default(cuid())
+  slug                String   @unique
+  name                String
+  nameDE              String
+  aroma               String?
+  boilingPointCelsius Int?
+  alsoFoundIn         String[] @default([])
+
+  // Computed
+  strainCount Int @default(0)
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  // Relations
+  strains StrainTerpene[]
+  effects TerpeneEffect[]
+
+  @@index([slug])
+  @@index([name])
+}
+
+// Junction table for strain-terpene with prevalence
+model StrainTerpene {
+  id String @id @default(cuid())
+
+  strainId String
+  strain   Strain @relation(fields: [strainId], references: [id], onDelete: Cascade)
+
+  terpeneId String
+  terpene   Terpene @relation(fields: [terpeneId], references: [id], onDelete: Cascade)
+
+  prevalence Float // 0-100
+  rank       Int // 1 = dominant
+
+  @@unique([strainId, terpeneId])
+  @@index([strainId])
+  @@index([terpeneId])
+  @@index([prevalence])
+}
+
+// =============================================================================
+// EFFECT
+// =============================================================================
+
+model Effect {
+  id         String         @id @default(cuid())
+  slug       String         @unique
+  name       String
+  nameDE     String
+  category   EffectCategory
+  isPositive Boolean        @default(true)
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  // Relations
+  strains  StrainEffect[]
+  terpenes TerpeneEffect[]
+
+  @@index([slug])
+  @@index([category])
+}
+
+model StrainEffect {
+  id String @id @default(cuid())
+
+  strainId String
+  strain   Strain @relation(fields: [strainId], references: [id], onDelete: Cascade)
+
+  effectId String
+  effect   Effect @relation(fields: [effectId], references: [id], onDelete: Cascade)
+
+  intensity  EffectIntensity @default(MODERATE)
+  prevalence Float           @default(50) // 0-100, how often reported
+
+  @@unique([strainId, effectId])
+  @@index([strainId])
+  @@index([effectId])
+}
+
+model TerpeneEffect {
+  id String @id @default(cuid())
+
+  terpeneId String
+  terpene   Terpene @relation(fields: [terpeneId], references: [id], onDelete: Cascade)
+
+  effectId String
+  effect   Effect @relation(fields: [effectId], references: [id], onDelete: Cascade)
+
+  @@unique([terpeneId, effectId])
+  @@index([terpeneId])
+  @@index([effectId])
+}
+
+// =============================================================================
+// FLAVOR
+// =============================================================================
+
+model Flavor {
+  id       String         @id @default(cuid())
+  slug     String         @unique
+  name     String
+  nameDE   String
+  category FlavorCategory
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  // Relations
+  strains StrainFlavor[]
+
+  @@index([slug])
+  @@index([category])
+}
+
+model StrainFlavor {
+  id String @id @default(cuid())
+
+  strainId String
+  strain   Strain @relation(fields: [strainId], references: [id], onDelete: Cascade)
+
+  flavorId String
+  flavor   Flavor @relation(fields: [flavorId], references: [id], onDelete: Cascade)
+
+  intensity Float @default(50) // 0-100
+
+  @@unique([strainId, flavorId])
+  @@index([strainId])
+  @@index([flavorId])
+}
+
+// =============================================================================
+// BRAND
+// =============================================================================
+
+model Brand {
+  id          String  @id @default(cuid())
+  slug        String  @unique
+  name        String
+  country     String?
+  website     String?
+  description String?
+
+  // Computed
+  productCount Int @default(0)
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  // Relations
+  products Product[]
+
+  @@index([slug])
+  @@index([name])
+}
+
+// =============================================================================
+// CATEGORY
+// =============================================================================
+
+model Category {
+  id            String        @id @default(cuid())
+  slug          String        @unique
+  name          String
+  nameDE        String
+  description   String?
+  includedForms ProductForm[]
+  curatedFacets String[]      @default([])
+
+  // Computed
+  productCount Int  @default(0)
+  brandCount   Int  @default(0)
+  priceMin     Int? // cents
+  priceMax     Int? // cents
+
+  // Hierarchy
+  parentId String?
+  parent   Category?  @relation("CategoryHierarchy", fields: [parentId], references: [id])
+  children Category[] @relation("CategoryHierarchy")
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  // Relations
+  products Product[]
+
+  @@index([slug])
+  @@index([parentId])
+}
+
+// =============================================================================
+// PRODUCT
+// =============================================================================
+
+model Product {
+  id   String      @id @default(cuid())
+  slug String      @unique
+  name String
+  form ProductForm
+
+  thcPercent       Float?
+  cbdPercent       Float?
+  pzn              String? // German pharmacy product number
+  productCode      String?
+  packageSizeGrams Float?
+
+  // Computed price stats
+  priceMin    Int? // cents
+  priceMax    Int? // cents
+  priceMedian Int? // cents
+  avgPrice    Int? // cents
+
+  // Stock volatility
+  availableToday Int    @default(0)
+  avg30Day       Float?
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  // Relations
+  brandId String
+  brand   Brand  @relation(fields: [brandId], references: [id])
+
+  strainId String?
+  strain   Strain? @relation(fields: [strainId], references: [id])
+
+  categoryId String
+  category   Category @relation(fields: [categoryId], references: [id])
+
+  offers Offer[]
+
+  // Alternative products
+  alternativesFrom ProductAlternative[] @relation("ProductFrom")
+  alternativesTo   ProductAlternative[] @relation("ProductTo")
+
+  @@index([slug])
+  @@index([name])
+  @@index([brandId])
+  @@index([strainId])
+  @@index([categoryId])
+  @@index([form])
+  @@index([pzn])
+}
+
+model ProductAlternative {
+  id String @id @default(cuid())
+
+  productId String
+  product   Product @relation("ProductFrom", fields: [productId], references: [id], onDelete: Cascade)
+
+  altId String
+  alt   Product @relation("ProductTo", fields: [altId], references: [id], onDelete: Cascade)
+
+  reason AlternativeReason
+  score  Float // 0-1
+
+  @@unique([productId, altId])
+  @@index([productId])
+  @@index([altId])
+}
+
+// =============================================================================
+// CITY
+// =============================================================================
+
+model City {
+  id         String @id @default(cuid())
+  slug       String @unique
+  name       String
+  state      String // Bundesland
+  population Int?
+
+  // Computed
+  pharmacyCount   Int    @default(0)
+  offerCount      Int    @default(0)
+  avgDeliveryDays Float?
+  priceMin        Int? // cents
+  priceMax        Int? // cents
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  // Relations
+  pharmacies Pharmacy[]
+
+  // Nearby cities
+  nearbyFrom CityProximity[] @relation("CityFrom")
+  nearbyTo   CityProximity[] @relation("CityTo")
+
+  @@index([slug])
+  @@index([name])
+  @@index([state])
+  @@index([pharmacyCount])
+}
+
+model CityProximity {
+  id String @id @default(cuid())
+
+  cityId String
+  city   City   @relation("CityFrom", fields: [cityId], references: [id], onDelete: Cascade)
+
+  nearbyCityId String
+  nearbyCity   City   @relation("CityTo", fields: [nearbyCityId], references: [id], onDelete: Cascade)
+
+  distanceKm       Float
+  driveTimeMinutes Int?
+
+  @@unique([cityId, nearbyCityId])
+  @@index([cityId])
+  @@index([nearbyCityId])
+  @@index([distanceKm])
+}
+
+// =============================================================================
+// PHARMACY
+// =============================================================================
+
+model Pharmacy {
+  id   String @id @default(cuid())
+  slug String @unique
+  name String
+
+  // Address
+  street      String
+  streetLine2 String?
+  postalCode  String
+  latitude    Float?
+  longitude   Float?
+
+  // Contact
+  phone   String?
+  email   String?
+  website String?
+
+  // Delivery
+  deliveryMethods DeliveryMethod[]
+  stdDeliveryDays Int?
+  expDeliveryDays Int?
+  freeThreshold   Int? // cents
+  deliveryCost    Int? // cents
+  deliveryAreas   String[]         @default([])
+  isNationwide    Boolean          @default(false)
+
+  // Services
+  services     String[] @default([])
+  openingHours Json? // { "mo": "09:00-18:00", ... }
+
+  // Computed
+  productCount Int  @default(0)
+  priceScore   Int? // 0-100
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  // Relations
+  cityId String
+  city   City   @relation(fields: [cityId], references: [id])
+
+  offers Offer[]
+
+  // Nearby pharmacies
+  nearbyFrom PharmacyProximity[] @relation("PharmacyFrom")
+  nearbyTo   PharmacyProximity[] @relation("PharmacyTo")
+
+  @@index([slug])
+  @@index([name])
+  @@index([cityId])
+  @@index([postalCode])
+}
+
+model PharmacyProximity {
+  id String @id @default(cuid())
+
+  pharmacyId String
+  pharmacy   Pharmacy @relation("PharmacyFrom", fields: [pharmacyId], references: [id], onDelete: Cascade)
+
+  nearbyId String
+  nearby   Pharmacy @relation("PharmacyTo", fields: [nearbyId], references: [id], onDelete: Cascade)
+
+  distanceKm Float
+
+  @@unique([pharmacyId, nearbyId])
+  @@index([pharmacyId])
+  @@index([nearbyId])
+}
+
+// =============================================================================
+// OFFER
+// =============================================================================
+
+model Offer {
+  id String @id @default(cuid())
+
+  productId String
+  product   Product @relation(fields: [productId], references: [id], onDelete: Cascade)
+
+  pharmacyId String
+  pharmacy   Pharmacy @relation(fields: [pharmacyId], references: [id], onDelete: Cascade)
+
+  priceCents        Int
+  pricePerGramCents Int?
+  status            OfferStatus @default(IN_STOCK)
+  quantityAvailable Int?
+  deliveryDays      Int?
+  isActive          Boolean     @default(true)
+
+  firstSeenAt   DateTime @default(now())
+  lastCheckedAt DateTime @default(now())
+
+  // Price history stored separately
+  priceHistory PriceHistory[]
+
+  @@unique([productId, pharmacyId])
+  @@index([productId])
+  @@index([pharmacyId])
+  @@index([isActive])
+  @@index([priceCents])
+  @@index([status])
+}
+
+model PriceHistory {
+  id String @id @default(cuid())
+
+  offerId String
+  offer   Offer  @relation(fields: [offerId], references: [id], onDelete: Cascade)
+
+  priceCents Int
+  recordedAt DateTime @default(now())
+
+  @@index([offerId])
+  @@index([recordedAt])
+}
+
+// =============================================================================
+// ENUMS
+// =============================================================================
+
+enum GeneticType {
+  INDICA
+  SATIVA
+  HYBRID
+}
+
+enum HybridDominance {
+  INDICA_DOMINANT
+  SATIVA_DOMINANT
+  BALANCED
+}
+
+enum EffectCategory {
+  MENTAL
+  PHYSICAL
+  MEDICAL
+}
+
+enum EffectIntensity {
+  MILD
+  MODERATE
+  STRONG
+}
+
+enum FlavorCategory {
+  SWEET
+  EARTHY
+  CITRUS
+  FLORAL
+  SPICY
+  HERBAL
+  FRUITY
+  PUNGENT
+  WOODY
+}
+
+enum ProductForm {
+  FLOWER
+  EXTRACT
+  VAPE
+  ROSIN
+  OIL
+  CAPSULE
+}
+
+enum AlternativeReason {
+  SAME_STRAIN
+  SIMILAR_THC_CBD
+  SAME_BRAND
+  SAME_FORM
+  PRICE_COMPARABLE
+}
+
+enum OfferStatus {
+  IN_STOCK
+  LOW_STOCK
+  OUT_OF_STOCK
+  PRE_ORDER
+}
+
+enum DeliveryMethod {
+  STANDARD
+  EXPRESS
+  PICKUP
+  SAME_DAY
+}

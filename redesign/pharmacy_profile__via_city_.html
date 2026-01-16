@@ -1,0 +1,530 @@
+<!DOCTYPE html>
+<html lang="de" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grünhorn Apotheke Leipzig | Medizinisches Cannabis Bestand & Preise | CanNavi</title>
+    
+    <!-- Fonts & Scripts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+    
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: { sans: ['Manrope', 'sans-serif'] },
+                    colors: {
+                        clinical: {
+                            50: '#f4f7f6',
+                            100: '#e3eae8',
+                            200: '#c7d5d2',
+                            600: '#3d5a54',
+                            800: '#1a3c34', 
+                            900: '#0f241f',
+                        },
+                        accent: '#cfdbd5',
+                        safety: '#006d77',
+                    },
+                    animation: {
+                        'pulse-slow': 'pulse 6s cubic-bezier(0.4, 0, 0.6, 1) infinite',
+                        'float': 'float 3s ease-in-out infinite',
+                    },
+                    keyframes: {
+                        float: {
+                            '0%, 100%': { transform: 'translateY(0px)' },
+                            '50%': { transform: 'translateY(-10px)' },
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+
+    <style>
+        [x-cloak] { display: none !important; }
+
+        body {
+            background-color: #f8faf9;
+            color: #1a3c34;
+            overflow-x: hidden;
+        }
+
+        .noise-overlay {
+            position: fixed;
+            top: 0; left: 0; width: 100%; height: 100%;
+            pointer-events: none;
+            z-index: 9999;
+            opacity: 0.04;
+            background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3BaseFilter id='filter'%3BfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23filter)'/%3E%3C/svg%3E");
+        }
+
+        .hyper-border {
+            position: relative;
+            background: white;
+            border-radius: 12px;
+            transition: all 0.4s cubic-bezier(0.23, 1, 0.32, 1);
+        }
+        .hyper-border::before {
+            content: '';
+            position: absolute;
+            inset: -1px;
+            background: linear-gradient(135deg, #3d5a54 0%, transparent 40%, transparent 60%, #3d5a54 100%);
+            border-radius: 13px;
+            z-index: -1;
+            opacity: 0.3;
+        }
+
+        .glass-panel {
+            background: rgba(255, 255, 255, 0.7);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            border: 1px solid rgba(255, 255, 255, 0.3);
+        }
+
+        .sticky-mobile-cta {
+            box-shadow: 0 -10px 40px rgba(0,0,0,0.1);
+        }
+
+        /* Custom Table Styling */
+        .inventory-row {
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+        }
+        .inventory-row:hover {
+            transform: scale(1.005);
+            box-shadow: 0 10px 25px -5px rgba(26, 60, 52, 0.05);
+        }
+    </style>
+</head>
+<body class="min-h-screen flex flex-col font-sans" x-data="{ mobileMenu: false }">
+    <div class="noise-overlay"></div>
+
+    <!-- Navigation -->
+    <nav class="sticky top-0 z-50 glass-panel border-b border-clinical-100">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between h-16 items-center">
+                <div class="flex items-center gap-8">
+                    <a href="/" class="flex items-center space-x-2 group">
+                        <div class="w-8 h-8 bg-clinical-800 rounded-lg flex items-center justify-center group-hover:rotate-45 transition-transform duration-500">
+                            <span class="text-white font-bold">+</span>
+                        </div>
+                        <span class="text-xl font-extrabold tracking-tighter text-clinical-900 uppercase">CanNavi</span>
+                    </a>
+                    <div class="hidden md:flex space-x-6 text-sm font-medium text-clinical-600">
+                        <a href="/products/cannabisblueten" class="hover:text-clinical-900 transition-colors">Blüten</a>
+                        <a href="/products/extracts" class="hover:text-clinical-900 transition-colors">Extrakte</a>
+                        <a href="/cannabis-apotheke" class="text-clinical-900 font-bold border-b-2 border-clinical-800 pb-1">Apotheken</a>
+                        <a href="#" class="hover:text-clinical-900 transition-colors">Wissen</a>
+                    </div>
+                </div>
+                <div class="flex items-center gap-4">
+                    <button class="hidden sm:block px-4 py-2 text-sm font-semibold text-clinical-800 border border-clinical-200 rounded-full hover:bg-clinical-50 transition-all">Anmelden</button>
+                    <button class="bg-clinical-800 text-white px-5 py-2 text-sm font-semibold rounded-full hover:bg-clinical-900 transition-all shadow-lg shadow-clinical-800/20">Rezept einlösen</button>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="flex-grow">
+        
+        <!-- Breadcrumbs -->
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-6">
+            <nav class="flex text-xs font-bold tracking-widest uppercase text-clinical-200" aria-label="Breadcrumb">
+                <ol class="flex items-center space-x-2">
+                    <li><a href="/" class="hover:text-clinical-600">Home</a></li>
+                    <li><span class="mx-2">/</span></li>
+                    <li><a href="/cannabis-apotheke" class="hover:text-clinical-600">Apotheken</a></li>
+                    <li><span class="mx-2">/</span></li>
+                    <li><a href="/cannabis-apotheke/leipzig" class="hover:text-clinical-600">Leipzig</a></li>
+                    <li><span class="mx-2">/</span></li>
+                    <li class="text-clinical-600">Grünhorn Apotheke</li>
+                </ol>
+            </nav>
+        </div>
+
+        <!-- Hero Section -->
+        <section class="relative pt-10 pb-16 overflow-hidden">
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+                <div class="flex flex-col lg:flex-row lg:items-end justify-between gap-8">
+                    <div class="flex-1">
+                        <div class="flex items-center gap-3 mb-4">
+                            <span class="bg-green-100 text-green-700 text-[10px] font-black px-2 py-0.5 rounded uppercase tracking-tighter">Verifizierter Partner</span>
+                            <div class="flex text-yellow-400">
+                                <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+                                <span class="ml-1 text-clinical-900 font-bold text-sm">4.9 (2.1k+ Reviews)</span>
+                            </div>
+                        </div>
+                        <h1 class="text-4xl md:text-6xl font-extrabold text-clinical-900 tracking-tight mb-4">Grünhorn Apotheke</h1>
+                        <p class="text-xl text-clinical-600 max-w-2xl leading-relaxed">Spezialapotheke für Cannabinoid-Therapie. Schnelle Lieferung deutschlandweit und diskrete Abholung vor Ort in Leipzig.</p>
+                        
+                        <div class="flex flex-wrap gap-4 mt-8">
+                            <div class="flex items-center gap-3 bg-white px-4 py-3 rounded-2xl border border-clinical-100 shadow-sm">
+                                <div class="w-10 h-10 bg-green-50 text-green-600 rounded-full flex items-center justify-center">
+                                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+                                </div>
+                                <div>
+                                    <p class="text-[10px] uppercase font-bold text-clinical-200 leading-none mb-1">Status</p>
+                                    <p class="text-sm font-bold text-clinical-900">Geöffnet bis 18:30</p>
+                                </div>
+                            </div>
+                            <div class="flex items-center gap-3 bg-white px-4 py-3 rounded-2xl border border-clinical-100 shadow-sm">
+                                <div class="w-10 h-10 bg-blue-50 text-blue-600 rounded-full flex items-center justify-center">
+                                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/></svg>
+                                </div>
+                                <div>
+                                    <p class="text-[10px] uppercase font-bold text-clinical-200 leading-none mb-1">Standort</p>
+                                    <p class="text-sm font-bold text-clinical-900">Leipzig Zentrum</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="lg:w-72 flex flex-col gap-3">
+                        <button class="w-full bg-clinical-800 text-white py-4 rounded-2xl font-bold hover:bg-clinical-900 transition-all flex items-center justify-center gap-2 shadow-xl shadow-clinical-800/20">
+                            Bestand durchsuchen
+                            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+                        </button>
+                        <button class="w-full bg-white text-clinical-800 border-2 border-clinical-100 py-4 rounded-2xl font-bold hover:border-clinical-800 transition-all">Rezept einreichen</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Service Highlights Grid -->
+        <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-16">
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+                <!-- Service 1: Pick-up -->
+                <div class="hyper-border p-6 bg-white group hover:translate-y-[-4px] transition-all">
+                    <div class="w-12 h-12 bg-clinical-50 text-clinical-800 rounded-xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform">
+                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 11V7a4 4 0 00-8 0v4M5 9h14l1 12H4L5 9z"/></svg>
+                    </div>
+                    <h3 class="text-lg font-bold text-clinical-900 mb-2">Vor-Ort Abholung</h3>
+                    <p class="text-sm text-clinical-600 leading-relaxed mb-4">Bereitstellung innerhalb von 2-4 Stunden nach Reservierung. Bequeme Abholung im Zentrum von Leipzig.</p>
+                    <div class="flex items-center text-xs font-bold text-safety uppercase tracking-widest gap-2">
+                        <span class="w-2 h-2 rounded-full bg-safety"></span> Sofort Verfügbar
+                    </div>
+                </div>
+
+                <!-- Service 2: Delivery -->
+                <div class="hyper-border p-6 bg-white group hover:translate-y-[-4px] transition-all">
+                    <div class="w-12 h-12 bg-clinical-50 text-clinical-800 rounded-xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform">
+                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/></svg>
+                    </div>
+                    <h3 class="text-lg font-bold text-clinical-900 mb-2">Lokaler Botendienst</h3>
+                    <p class="text-sm text-clinical-600 leading-relaxed mb-4">Same-Day-Delivery im Stadtgebiet Leipzig bei Bestellung bis 14:00 Uhr. Sicher & diskret.</p>
+                    <div class="flex items-center text-xs font-bold text-clinical-600 uppercase tracking-widest gap-2">
+                        <span class="w-2 h-2 rounded-full bg-clinical-200"></span> Leipzig & Umland
+                    </div>
+                </div>
+
+                <!-- Service 3: Shipping -->
+                <div class="hyper-border p-6 bg-clinical-900 text-white group hover:translate-y-[-4px] transition-all">
+                    <div class="w-12 h-12 bg-white/10 text-white rounded-xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform">
+                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 8h14M5 8a2 2 0 110-4h14a2 2 0 110 4M5 8v10a2 2 0 002 2h10a2 2 0 002-2V8m-9 4h4"/></svg>
+                    </div>
+                    <h3 class="text-lg font-bold mb-2">24h Express Versand</h3>
+                    <p class="text-sm text-white/70 leading-relaxed mb-4">Deutschlandweiter Go! Express Versand für alle lagernden Sorten. Höchste Sicherheitsstandards.</p>
+                    <div class="flex items-center text-xs font-bold text-white uppercase tracking-widest gap-2">
+                        <span class="w-2 h-2 rounded-full bg-white animate-pulse"></span> Bundesweit
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Inventory Snapshot: The 5 Cheapest Flowers -->
+        <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-24">
+            <div class="bg-white rounded-3xl border border-clinical-100 shadow-xl overflow-hidden">
+                <div class="p-8 border-b border-clinical-50 flex flex-col md:flex-row md:items-center justify-between gap-4">
+                    <div>
+                        <h2 class="text-2xl font-extrabold text-clinical-900">Top-Angebote in Leipzig</h2>
+                        <p class="text-clinical-600 text-sm">Die aktuell preiswertesten Blüten im Sortiment (Stand: Vor 4 Min.)</p>
+                    </div>
+                    <a href="#" class="inline-flex items-center gap-2 text-clinical-800 font-bold text-sm bg-clinical-50 px-6 py-3 rounded-full hover:bg-clinical-100 transition-all">
+                        Gesamten Bestand (342) ansehen
+                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
+                    </a>
+                </div>
+
+                <!-- Desktop Table -->
+                <div class="hidden md:block overflow-x-auto">
+                    <table class="w-full text-left">
+                        <thead class="bg-clinical-50/50 text-clinical-200 text-[10px] uppercase tracking-[0.2em] font-black">
+                            <tr>
+                                <th class="px-8 py-4">Produkt / Genetik</th>
+                                <th class="px-6 py-4">Kultivar / Marke</th>
+                                <th class="px-6 py-4 text-center">Wirkstoffe</th>
+                                <th class="px-6 py-4 text-right">Preis / g</th>
+                                <th class="px-8 py-4 text-right">Aktion</th>
+                            </tr>
+                        </thead>
+                        <tbody class="divide-y divide-clinical-50">
+                            <!-- Row 1 -->
+                            <tr class="inventory-row">
+                                <td class="px-8 py-6">
+                                    <div class="flex items-center gap-4">
+                                        <div class="w-12 h-12 bg-clinical-50 rounded-lg flex items-center justify-center font-bold text-clinical-800">G1</div>
+                                        <div>
+                                            <p class="font-bold text-clinical-900">Enua 22/1 CA CA</p>
+                                            <p class="text-xs text-clinical-600">Hybrid • Lagernd</p>
+                                        </div>
+                                    </div>
+                                </td>
+                                <td class="px-6 py-6 font-medium text-clinical-800">Gorilla Glue #4</td>
+                                <td class="px-6 py-6">
+                                    <div class="flex items-center justify-center gap-2">
+                                        <span class="px-2 py-1 bg-clinical-100 text-clinical-800 text-[10px] font-bold rounded">THC 22%</span>
+                                        <span class="px-2 py-1 bg-white border border-clinical-100 text-clinical-200 text-[10px] font-bold rounded">&lt; 1% CBD</span>
+                                    </div>
+                                </td>
+                                <td class="px-6 py-6 text-right">
+                                    <p class="text-xl font-black text-clinical-900 leading-none">4,95 €</p>
+                                    <p class="text-[10px] text-clinical-200 uppercase font-bold mt-1">Günstigster Preis</p>
+                                </td>
+                                <td class="px-8 py-6 text-right">
+                                    <button class="bg-clinical-100 text-clinical-800 px-6 py-2 rounded-full text-sm font-bold hover:bg-clinical-800 hover:text-white transition-all">Reservieren</button>
+                                </td>
+                            </tr>
+                            <!-- Row 2 -->
+                            <tr class="inventory-row">
+                                <td class="px-8 py-6">
+                                    <div class="flex items-center gap-4">
+                                        <div class="w-12 h-12 bg-clinical-50 rounded-lg flex items-center justify-center font-bold text-clinical-800">RE</div>
+                                        <div>
+                                            <p class="font-bold text-clinical-900">Remexian 20/1</p>
+                                            <p class="text-xs text-clinical-600">Indica • Lagernd</p>
+                                        </div>
+                                    </div>
+                                </td>
+                                <td class="px-6 py-6 font-medium text-clinical-800">White Widow</td>
+                                <td class="px-6 py-6">
+                                    <div class="flex items-center justify-center gap-2">
+                                        <span class="px-2 py-1 bg-clinical-100 text-clinical-800 text-[10px] font-bold rounded">THC 20%</span>
+                                        <span class="px-2 py-1 bg-white border border-clinical-100 text-clinical-200 text-[10px] font-bold rounded">&lt; 1% CBD</span>
+                                    </div>
+                                </td>
+                                <td class="px-6 py-6 text-right">
+                                    <p class="text-xl font-black text-clinical-900 leading-none">5,20 €</p>
+                                </td>
+                                <td class="px-8 py-6 text-right">
+                                    <button class="bg-clinical-100 text-clinical-800 px-6 py-2 rounded-full text-sm font-bold hover:bg-clinical-800 hover:text-white transition-all">Reservieren</button>
+                                </td>
+                            </tr>
+                            <!-- More rows truncated for brevity in code but repeated for the visual 5 -->
+                            <tr class="inventory-row">
+                                <td class="px-8 py-6">
+                                    <div class="flex items-center gap-4">
+                                        <div class="w-12 h-12 bg-clinical-50 rounded-lg flex items-center justify-center font-bold text-clinical-800">TI</div>
+                                        <div>
+                                            <p class="font-bold text-clinical-900">Tilray Strong THC 22</p>
+                                            <p class="text-xs text-clinical-600">Sativa • Nur Botendienst</p>
+                                        </div>
+                                    </div>
+                                </td>
+                                <td class="px-6 py-6 font-medium text-clinical-800">Headband</td>
+                                <td class="px-6 py-6">
+                                    <div class="flex items-center justify-center gap-2">
+                                        <span class="px-2 py-1 bg-clinical-100 text-clinical-800 text-[10px] font-bold rounded">THC 22%</span>
+                                    </div>
+                                </td>
+                                <td class="px-6 py-6 text-right">
+                                    <p class="text-xl font-black text-clinical-900 leading-none">5,85 €</p>
+                                </td>
+                                <td class="px-8 py-6 text-right">
+                                    <button class="bg-clinical-100 text-clinical-800 px-6 py-2 rounded-full text-sm font-bold hover:bg-clinical-800 hover:text-white transition-all">Reservieren</button>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <!-- Mobile Card List -->
+                <div class="md:hidden divide-y divide-clinical-50">
+                    <div class="p-6">
+                        <div class="flex justify-between items-start mb-4">
+                            <div class="flex items-center gap-3">
+                                <div class="w-10 h-10 bg-clinical-50 rounded-lg flex items-center justify-center font-bold text-clinical-800">G1</div>
+                                <div>
+                                    <p class="font-bold text-clinical-900 text-sm">Enua 22/1 Gorilla Glue</p>
+                                    <p class="text-[10px] text-clinical-600 uppercase font-bold tracking-widest">Hybrid • 22% THC</p>
+                                </div>
+                            </div>
+                            <p class="text-lg font-black text-clinical-900">4,95 €</p>
+                        </div>
+                        <button class="w-full bg-clinical-100 text-clinical-800 py-3 rounded-xl text-sm font-bold">Reservieren</button>
+                    </div>
+                    <div class="p-6">
+                        <div class="flex justify-between items-start mb-4">
+                            <div class="flex items-center gap-3">
+                                <div class="w-10 h-10 bg-clinical-50 rounded-lg flex items-center justify-center font-bold text-clinical-800">RE</div>
+                                <div>
+                                    <p class="font-bold text-clinical-900 text-sm">Remexian 20/1 White Widow</p>
+                                    <p class="text-[10px] text-clinical-600 uppercase font-bold tracking-widest">Indica • 20% THC</p>
+                                </div>
+                            </div>
+                            <p class="text-lg font-black text-clinical-900">5,20 €</p>
+                        </div>
+                        <button class="w-full bg-clinical-100 text-clinical-800 py-3 rounded-xl text-sm font-bold">Reservieren</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Information / Details Split -->
+        <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-24">
+            <div class="grid grid-cols-1 lg:grid-cols-3 gap-12">
+                
+                <!-- Main Info Col -->
+                <div class="lg:col-span-2 space-y-12">
+                    <div>
+                        <h2 class="text-2xl font-extrabold text-clinical-900 mb-6">Über die Grünhorn Apotheke</h2>
+                        <div class="prose prose-clinical text-clinical-600 leading-relaxed max-w-none">
+                            <p class="mb-4">Die Grünhorn Apotheke in Leipzig gilt als eine der modernsten Cannabis-Apotheken Deutschlands. Mit einem Fokus auf telemedizinische Anbindung und einer automatisierten Logistik gewährleisten wir die Versorgung von tausenden Patienten monatlich.</p>
+                            <p>Unsere Reinraum-Labore sind nach höchsten GMP-Standards zertifiziert, um die Qualität und Reinheit jeder einzelnen Verschreibung zu garantieren. Wir unterstützen Patienten bei der Kostenübernahme durch Krankenkassen und bieten umfassende Beratung zu Applikationsformen wie Vaporisation oder öligen Lösungen.</p>
+                        </div>
+                    </div>
+
+                    <!-- FAQ Accordion -->
+                    <div x-data="{ active: 1 }" class="space-y-4">
+                        <h3 class="text-xl font-bold text-clinical-900 mb-4">Häufige Fragen</h3>
+                        <div class="border border-clinical-100 rounded-2xl overflow-hidden bg-white">
+                            <button @click="active = active === 1 ? null : 1" class="w-full p-6 text-left flex justify-between items-center group">
+                                <span class="font-bold text-clinical-800 group-hover:text-clinical-900">Wie funktioniert die Abholung vor Ort?</span>
+                                <svg class="w-5 h-5 transition-transform" :class="active === 1 ? 'rotate-180' : ''" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+                            </button>
+                            <div x-show="active === 1" x-collapse class="px-6 pb-6 text-sm text-clinical-600 leading-relaxed">
+                                Reservieren Sie Ihre Sorte einfach über CanNavi. Sobald Ihr Rezept (digital oder postalisch) bei uns eingegangen ist, erhalten Sie eine Bestätigung. Die Abholung ist in der Regel innerhalb von 2 Stunden möglich. Bitte bringen Sie einen gültigen Lichtbildausweis mit.
+                            </div>
+                        </div>
+                        <div class="border border-clinical-100 rounded-2xl overflow-hidden bg-white">
+                            <button @click="active = active === 2 ? null : 2" class="w-full p-6 text-left flex justify-between items-center group">
+                                <span class="font-bold text-clinical-800 group-hover:text-clinical-900">Werden E-Rezepte akzeptiert?</span>
+                                <svg class="w-5 h-5 transition-transform" :class="active === 2 ? 'rotate-180' : ''" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+                            </button>
+                            <div x-show="active === 2" x-collapse class="px-6 pb-6 text-sm text-clinical-600 leading-relaxed">
+                                Ja, wir unterstützen alle gängigen E-Rezept-Standards und Plattformen wie Cannamedical, Bloomwell und offizielle Telemedizin-Provider.
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Sources -->
+                    <div class="pt-8 border-t border-clinical-100 text-[10px] text-clinical-200 uppercase font-black tracking-widest space-y-2">
+                        <p>Letzte Aktualisierung: Heute, 14:12 Uhr</p>
+                        <p>Datenquelle: Direkte API-Anbindung Grünhorn Warenwirtschaft</p>
+                    </div>
+                </div>
+
+                <!-- Sidebar Col -->
+                <div class="space-y-8">
+                    <!-- Contact Card -->
+                    <div class="bg-clinical-50 rounded-3xl p-8 border border-clinical-100">
+                        <h4 class="font-extrabold text-clinical-900 mb-6">Kontakt & Anfahrt</h4>
+                        <div class="space-y-6">
+                            <div class="flex gap-4">
+                                <div class="w-5 h-5 text-clinical-200 flex-shrink-0 mt-1">
+                                    <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/></svg>
+                                </div>
+                                <div>
+                                    <p class="text-sm font-bold text-clinical-900">An der Pleiße 12</p>
+                                    <p class="text-xs text-clinical-600">04109 Leipzig</p>
+                                </div>
+                            </div>
+                            <div class="flex gap-4">
+                                <div class="w-5 h-5 text-clinical-200 flex-shrink-0 mt-1">
+                                    <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/></svg>
+                                </div>
+                                <p class="text-sm font-bold text-clinical-900">0341 / 123 456 789</p>
+                            </div>
+                            <div class="flex gap-4">
+                                <div class="w-5 h-5 text-clinical-200 flex-shrink-0 mt-1">
+                                    <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+                                </div>
+                                <div class="text-xs space-y-1">
+                                    <p class="flex justify-between"><span>Mo - Fr:</span> <span class="font-bold">08:00 - 18:30</span></p>
+                                    <p class="flex justify-between"><span>Sa:</span> <span class="font-bold">09:00 - 14:00</span></p>
+                                    <p class="flex justify-between text-red-500"><span>So:</span> <span class="font-bold uppercase">Geschlossen</span></p>
+                                </div>
+                            </div>
+                        </div>
+                        <button class="w-full mt-8 bg-white text-clinical-800 py-3 rounded-xl text-sm font-bold border border-clinical-100 hover:bg-clinical-100 transition-all">In Google Maps öffnen</button>
+                    </div>
+
+                    <!-- Related Pharmacies -->
+                    <div>
+                        <h4 class="font-extrabold text-clinical-900 mb-4 px-2">Andere in Leipzig</h4>
+                        <div class="space-y-4">
+                            <a href="#" class="block p-4 bg-white rounded-2xl border border-clinical-100 hover:border-clinical-600 transition-all group">
+                                <p class="font-bold text-clinical-900 group-hover:text-clinical-600">Löwen Apotheke</p>
+                                <p class="text-[10px] text-clinical-200 font-bold uppercase tracking-widest">1.2 km entfernt • Lagernd</p>
+                            </a>
+                            <a href="#" class="block p-4 bg-white rounded-2xl border border-clinical-100 hover:border-clinical-600 transition-all group">
+                                <p class="font-bold text-clinical-900 group-hover:text-clinical-600">Zentral-Apotheke</p>
+                                <p class="text-[10px] text-clinical-200 font-bold uppercase tracking-widest">0.8 km entfernt • Top Preise</p>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-white border-t border-clinical-100 pt-16 pb-8">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-12 mb-16">
+                <div class="col-span-2">
+                    <a href="/" class="flex items-center space-x-2 mb-6">
+                        <div class="w-8 h-8 bg-clinical-800 rounded-lg flex items-center justify-center text-white font-bold">+</div>
+                        <span class="text-xl font-extrabold tracking-tighter text-clinical-900 uppercase">CanNavi</span>
+                    </a>
+                    <p class="text-clinical-600 max-w-xs mb-6">Ihr verlässlicher Begleiter für medizinisches Cannabis in Deutschland. Neutral, aktuell und transparent.</p>
+                </div>
+                <div>
+                    <h4 class="font-bold text-clinical-900 mb-6 uppercase text-xs tracking-widest">Kategorien</h4>
+                    <ul class="space-y-4 text-sm text-clinical-600">
+                        <li><a href="#" class="hover:text-clinical-900">Blüten</a></li>
+                        <li><a href="#" class="hover:text-clinical-900">Extrakte</a></li>
+                        <li><a href="#" class="hover:text-clinical-900">Zubehör</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h4 class="font-bold text-clinical-900 mb-6 uppercase text-xs tracking-widest">Plattform</h4>
+                    <ul class="space-y-4 text-sm text-clinical-600">
+                        <li><a href="#" class="hover:text-clinical-900">Apotheken-Login</a></li>
+                        <li><a href="#" class="hover:text-clinical-900">Daten-API</a></li>
+                        <li><a href="#" class="hover:text-clinical-900">Über uns</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h4 class="font-bold text-clinical-900 mb-6 uppercase text-xs tracking-widest">Rechtliches</h4>
+                    <ul class="space-y-4 text-sm text-clinical-600">
+                        <li><a href="#" class="hover:text-clinical-900">Impressum</a></li>
+                        <li><a href="#" class="hover:text-clinical-900">Datenschutz</a></li>
+                        <li><a href="#" class="hover:text-clinical-900">AGB</a></li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="pt-8 border-t border-clinical-50 flex flex-col md:flex-row justify-between items-center gap-4 text-xs text-clinical-200 font-bold uppercase tracking-widest">
+                <p>© 2024 CanNavi Health Media GmbH. Alle Rechte vorbehalten.</p>
+                <div class="flex gap-8">
+                    <span>Jugendschutzbeauftragter</span>
+                    <span>ADK Zertifiziert</span>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Mobile Navigation / Sticky CTA -->
+    <div class="md:hidden fixed bottom-0 left-0 w-full z-[100] px-4 pb-6 pt-2 bg-gradient-to-t from-white via-white to-transparent">
+        <button class="w-full bg-clinical-800 text-white py-4 rounded-2xl font-bold shadow-2xl flex items-center justify-center gap-3">
+            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 11V7a4 4 0 00-8 0v4M5 9h14l1 12H4L5 9z"/></svg>
+            Bestand ansehen & Reservieren
+        </button>
+    </div>
+
+</body>
+</html>
