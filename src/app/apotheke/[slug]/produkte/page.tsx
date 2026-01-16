@@ -23,14 +23,48 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const data = await getPharmacyData(slug);
   if (!data) return { title: 'Produkte nicht gefunden' };
 
-  const title = `Alle Produkte bei ${data.pharmacy.name} | ${data.products.length} Cannabis Produkte`;
-  const description = `${data.products.length} Cannabis Produkte bei ${data.pharmacy.name} in ${data.pharmacy.cityName}. Vergleichen Sie Preise und finden Sie die besten Angebote.`;
+  const { pharmacy, products, pricingStats } = data;
+  const minPrice = pricingStats ? formatCentsCompact(pricingStats.minPrice) : null;
+
+  // SEO-optimized title with keywords
+  const title = `${products.length} Cannabis Produkte bei ${pharmacy.name} in ${pharmacy.cityName} | Preisvergleich`;
+
+  // SEO-optimized description with call-to-action
+  const description = minPrice
+    ? `${products.length} medizinische Cannabis Produkte bei ${pharmacy.name}. Preise ab ${minPrice}/g. ${pricingStats?.excellentCount || 0} Top-Preis Angebote. Jetzt Preise vergleichen!`
+    : `${products.length} medizinische Cannabis Produkte bei ${pharmacy.name} in ${pharmacy.cityName}. Preise vergleichen und beste Angebote finden.`;
+
+  const canonicalUrl = `https://cannabisblueten.de/apotheke/${slug}/produkte`;
+  const ogImage = pharmacy.imageUrl?.startsWith('http')
+    ? pharmacy.imageUrl.replace('https://weed.dehttps://', 'https://')
+    : 'https://cannabisblueten.de/og-default.png';
 
   return {
     title,
     description,
+    alternates: { canonical: canonicalUrl },
     robots: { index: true, follow: true },
+    openGraph: {
+      title: `${products.length} Cannabis Produkte bei ${pharmacy.name}`,
+      description,
+      url: canonicalUrl,
+      type: 'website',
+      siteName: 'CannabisBlueten.de',
+      locale: 'de_DE',
+      images: ogImage ? [{ url: ogImage, alt: `Produkte bei ${pharmacy.name}` }] : undefined,
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: `${products.length} Cannabis Produkte bei ${pharmacy.name}`,
+      description,
+      images: ogImage ? [ogImage] : undefined,
+    },
   };
+}
+
+// Compact cents formatter for meta descriptions
+function formatCentsCompact(cents: number): string {
+  return (cents / 100).toFixed(2).replace('.', ',') + ' €';
 }
 
 // =============================================================================
@@ -64,8 +98,79 @@ export default async function PharmacyProductsPage({ params }: PageProps) {
 
   const { pharmacy, products, pricingStats } = data;
 
+  // Generate JSON-LD structured data
+  const breadcrumbSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://cannabisblueten.de' },
+      { '@type': 'ListItem', position: 2, name: 'Cannabis Apotheken', item: 'https://cannabisblueten.de/cannabis-apotheke' },
+      { '@type': 'ListItem', position: 3, name: pharmacy.name, item: `https://cannabisblueten.de/apotheke/${slug}` },
+      { '@type': 'ListItem', position: 4, name: 'Produkte', item: `https://cannabisblueten.de/apotheke/${slug}/produkte` },
+    ],
+  };
+
+  const itemListSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    name: `Cannabis Produkte bei ${pharmacy.name}`,
+    description: `${products.length} medizinische Cannabis Produkte verfügbar bei ${pharmacy.name} in ${pharmacy.cityName}`,
+    numberOfItems: products.length,
+    itemListElement: products.slice(0, 20).map((product, idx) => ({
+      '@type': 'ListItem',
+      position: idx + 1,
+      item: {
+        '@type': 'Product',
+        name: product.productName,
+        offers: {
+          '@type': 'Offer',
+          price: (product.price / 100).toFixed(2),
+          priceCurrency: 'EUR',
+          availability: 'https://schema.org/InStock',
+          seller: {
+            '@type': 'Organization',
+            name: pharmacy.name,
+          },
+        },
+      },
+    })),
+  };
+
+  const collectionPageSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: `Produkte bei ${pharmacy.name}`,
+    description: `${products.length} medizinische Cannabis Produkte bei ${pharmacy.name}`,
+    url: `https://cannabisblueten.de/apotheke/${slug}/produkte`,
+    isPartOf: {
+      '@type': 'WebSite',
+      name: 'CannabisBlueten.de',
+      url: 'https://cannabisblueten.de',
+    },
+    about: {
+      '@type': 'Pharmacy',
+      name: pharmacy.name,
+      address: {
+        '@type': 'PostalAddress',
+        streetAddress: pharmacy.street || undefined,
+        addressLocality: pharmacy.cityName,
+        postalCode: pharmacy.zip || undefined,
+        addressRegion: pharmacy.state || undefined,
+        addressCountry: 'DE',
+      },
+    },
+  };
+
+  const jsonLdSchemas = [breadcrumbSchema, itemListSchema, collectionPageSchema];
+
   return (
     <>
+      {/* JSON-LD Structured Data */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdSchemas) }}
+      />
+
       {/* Breadcrumbs */}
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-6">
         <Breadcrumbs
