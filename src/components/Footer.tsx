@@ -65,17 +65,17 @@ export function Footer() {
             </h4>
             <ul className="space-y-4 text-sm text-clinical-600">
               <li>
-                <a href="#" className="hover:text-clinical-900 transition-colors">
+                <a href="/faq" className="hover:text-clinical-900 transition-colors">
                   FAQ
                 </a>
               </li>
               <li>
-                <a href="#" className="hover:text-clinical-900 transition-colors">
+                <a href="/kontakt" className="hover:text-clinical-900 transition-colors">
                   Kontakt
                 </a>
               </li>
               <li>
-                <a href="#" className="hover:text-clinical-900 transition-colors">
+                <a href="/rezept-hilfe" className="hover:text-clinical-900 transition-colors">
                   Rezept-Hilfe
                 </a>
               </li>
@@ -89,17 +89,17 @@ export function Footer() {
             </h4>
             <ul className="space-y-4 text-sm text-clinical-600">
               <li>
-                <a href="#" className="hover:text-clinical-900 transition-colors">
+                <a href="/impressum" className="hover:text-clinical-900 transition-colors">
                   Impressum
                 </a>
               </li>
               <li>
-                <a href="#" className="hover:text-clinical-900 transition-colors">
+                <a href="/datenschutz" className="hover:text-clinical-900 transition-colors">
                   Datenschutz
                 </a>
               </li>
               <li>
-                <a href="#" className="hover:text-clinical-900 transition-colors">
+                <a href="/agb" className="hover:text-clinical-900 transition-colors">
                   AGB
                 </a>
               </li>
